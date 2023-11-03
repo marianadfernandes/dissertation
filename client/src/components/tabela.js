@@ -61,12 +61,23 @@ function Tabela() {
   const baseURL = "http://localhost:3001/tabela/listTabela";
 
   const [tabela, setTabela] = useState([]);
-  useEffect(() => {
-    axios.get(baseURL).then((response) => {
-        console.log(JSON.stringify(response.data));
-        setTabela(response.data);
-    });
-  }, []);
+  const [loading, setLoading] = useState(true); // Track loading state
+
+useEffect(() => {
+  const fetchData = async () => {
+    try {
+      const response = await axios.get(baseURL);
+      console.log(JSON.stringify(response.data));
+      setTabela(response.data);
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    } finally {
+      setLoading(false); // Set loading state to false regardless of success or failure
+    }
+  };
+
+  fetchData();
+}, []);
 
 //   console.log(tabela[0].Tabela)
 
