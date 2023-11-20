@@ -68,21 +68,25 @@ document.addEventListener('click', function (e) {
 function renderTabelaSearch(tabela, level) {
   return (
     <div className={`dropdown-levels dropdown-level-${level}`}>
-        <div className={`dropdown`}>
-          <button className="dropbtn">
-            {tabela['id']}  {tabela['desc']}
-          </button>
-          <div className={`dropdown-content submenu`}>
-            {tabela['nota'] ? <a>Nota: {tabela['nota']}</a> : null}
-            {tabela['valor'] ? <a>Valor: {tabela['valor']}</a> : null}
-            {tabela['refs'] ? <a>Referência a: {tabela['refs']}</a> : null}
-            {tabela.sub ? (tabela.sub.map((subData) => (
-              <a key={subData.id}>{renderTabela(subData, level + 1)}</a>))) : null}
-          </div>
+      <div className={`dropdown`}>
+        <button className="dropbtn">
+          {tabela['id']} {tabela['desc']}
+        </button>
+        <div className={`dropdown-content submenu`}>
+          {tabela['nota'] && <a>Nota: {tabela['nota']}</a>}
+          {tabela['valor'] && <a>Valor: {tabela['valor']}</a>}
+          {tabela['refs'] && <a>Referência a: {tabela['refs']}</a>}
+          {tabela.sub && tabela.sub.length > 0 ? (
+            tabela.sub.map((subData) => (
+              <a key={subData.id}>{renderTabelaSearch(subData, level + 1)}</a>
+            ))
+          ) : null}
         </div>
+      </div>
     </div>
   );
 }
+
   
   
   function renderTabela(tabela, level) {
@@ -138,13 +142,16 @@ function renderTabelaSearch(tabela, level) {
     };
   
     const handleSearchClick = () => {
-      if (searchInput) {
-        axios.get(`${searchURL}/${searchInput}`).then((response) => {
-          console.log(JSON.stringify(response.data));
-          setSearchResults(response.data);
-        });
+      if (searchInput.trim() === "") {
+        setSearchResults(null);
+        return;
       }
+    
+      axios.get(`${searchURL}/${searchInput}`).then((response) => {
+        setSearchResults([...response.data]);
+      });
     };
+    
 
     const handleKeyPress = (event) => {
         if (event.key === 'Enter') {
@@ -179,7 +186,7 @@ function renderTabelaSearch(tabela, level) {
         </nav>
   
         <div className="result-container">
-          {searchResults.length > 0 ? (
+          {searchResults && searchResults.length && searchResults.length > 0 ? (
             searchResults.map((item, index) => (
               <div key={index}>
                 {renderTabelaSearch(item, 1)}
