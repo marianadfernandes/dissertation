@@ -6,6 +6,7 @@ import "./App.css";
 import Home from "./components/home";
 import Tabela from "./components/tabela";
 import Search from "./components/search"
+import HomePage from "./components/homepage";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/" element={<Home />} />
+          <Route exact path="/home" element={<HomePage />} />
           <Route exact path="/tabela" element={<Tabela />} />
           <Route exact path="/pesquisa" element={<Search />} />
         </Routes>

@@ -8,10 +8,10 @@ function toggleSubItems(e) {
     if (subItems) {
       if (subItems.classList.contains('show')) {
         subItems.classList.remove('show');
-        parentDropdown.style.height = 'auto'; // Restaurar a altura original
+        parentDropdown.style.height = 'auto'; 
       } else {
         subItems.classList.add('show');
-        parentDropdown.style.height = parentDropdown.style.height + subItems.style.height + 'px'; // Ajustar a altura
+        parentDropdown.style.height = parentDropdown.style.height + subItems.style.height + 'px';
       }
     }
   }

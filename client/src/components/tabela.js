@@ -135,7 +135,7 @@ useEffect(() => {
     !tabela || !tabela[0] || !tabela[0].Tabela ? (
       <p>Dados ainda estão sendo carregados...</p>
     ) : (
-      renderTabela(tabela[0].Tabela, level)
+      renderTabela(tabela, level)
     )
   );
 }
