@@ -40,6 +40,12 @@ mongoose
   .then(() => console.log("Connected."))
   .catch(() => console.log("Error connecting to MongoDB."));
 
+app.use((req, res, next) => {
+  // Set general caching headers
+  res.setHeader('Cache-Control', 'public, max-age=3600'); // Cache for 1 hour
+  next();
+});
+
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
