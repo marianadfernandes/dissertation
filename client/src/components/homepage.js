@@ -98,6 +98,7 @@ function renderTabelaSearch(tabela, level) {
               {tabela[key]['id']} {tabela[key]['desc']}
             </button>
             <div className={`dropdown-content submenu`}>
+              {tabela[key]['cod'] ? <a>Código: {tabela[key]['cod']}</a> : null}
               {tabela[key]['nota'] ? <a>Nota: {tabela[key]['nota']}</a> : null}
               {tabela[key]['valor'] ? <a>Valor: {tabela[key]['valor']}</a> : null}
               {tabela[key]['refs'] ? <a>Referência a: {tabela[key]['refs']}</a> : null}
@@ -116,6 +117,7 @@ function renderTabelaSearch(tabela, level) {
     const searchURL = "http://localhost:3001/tabela/search";
   
     const [tabela, setTabela] = useState([]);
+    // console.log(tabela);
     const [searchResults, setSearchResults] = useState([]);
     const [loading, setLoading] = useState(true);
     const [searchInput, setSearchInput] = useState("");
@@ -146,7 +148,6 @@ function renderTabelaSearch(tabela, level) {
         setSearchResults(null);
         return;
       }
-    
       axios.get(`${searchURL}/${searchInput}`).then((response) => {
         setSearchResults([...response.data]);
       });
@@ -196,7 +197,17 @@ function renderTabelaSearch(tabela, level) {
           ) : (
             <div className="tabela-container">
               {tabela ? (
-                renderTabela(tabela, level)
+                tabela.map((item, index, level) => 
+                <div className={`dropdown-levels dropdown-level-${level}`}>
+                  <div className={`dropdown`}>
+                    <button className="dropbtn">
+                      {index === 0 ? 'Tabela Nacional de Incapacidades por Acidentes de Trabalho ou Doenças Profissionais' : 'Tabela de Avaliação de Incapacidades Permanentes em Direito Civil'}
+                    </button>
+                    <div className={`dropdown-content submenu`}>
+                        <a>{renderTabela(item, level + 1)}</a>
+                    </div>
+                    </div>
+                  </div>)
               ) : (
                 <p>Dados ainda estão sendo carregados...</p>
               )}
