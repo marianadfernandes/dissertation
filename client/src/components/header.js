@@ -1,12 +1,27 @@
 import logo from "../img/logo.png";
 
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useLocation } from "react-router-dom";
 
 function Header() {
     let navigate = useNavigate();
+    let location = useLocation();
 
     const navHome = async () => navigate("/");
-    const navServices = async () => navigate({ hash: '#services' });
+
+    const navigateToHomeAndScrollToServices = () => {
+        if (location.pathname === "/") {
+            scrollToServices();
+        } else {
+            navigate("/", { scroll: { offsetTop: 0, hash: "#services", behavior: "smooth" } });
+        }
+    };
+
+    const scrollToServices = () => {
+        const servicesSection = document.getElementById("services");
+        if (servicesSection) {
+            servicesSection.scrollIntoView({ behavior: "smooth" });
+        }
+    };
 
     return (
         <header className="header">
@@ -18,7 +33,7 @@ function Header() {
                     <nav className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ml-auto">
                             <li className="active"><a onClick={navHome}>Home</a></li>
-                            <li><a onClick={navServices}>Serviços</a></li>
+                            <li><a onClick={navigateToHomeAndScrollToServices}>Serviços</a></li>
                             <li><a href="#">Sobre</a></li>
                         </ul>
                     </nav>
