@@ -1,221 +1,84 @@
 import { React, useState, useEffect } from "react";
 import axios from "axios";
 
-function toggleSubItems(e) {
-  const subItems = e.target.nextElementSibling;
-  const parentDropdown = e.target.parentElement;
+import Header from "./header";
+import Footer from "./footer";
 
-  console.log('Current subItems height:', subItems.offsetHeight);
+import image from "../img/home-page-img.jpg";
+import element from "../img/element.png";
+import icon from "../img/icon-serv-1.png";
+import shape from "../img/service-shape-1.png";
+import lupa from '../img/lupa.png';
 
-  if (subItems) {
-    if (subItems.offsetHeight !== 0) {
-      console.log('Entering show condition');
-      subItems.classList.add('show');
+import { useNavigate } from "react-router-dom";
 
-      const subItemsHeight = subItems.offsetHeight;
-      parentDropdown.style.height = `${parentDropdown.offsetHeight + subItemsHeight + 20}px`;
+function NewHomePage() {
+    let navigate = useNavigate();
 
-      const allParents = getAllParents(parentDropdown, 'dropdown');
-      console.log('parents', allParents);
+    const navTabela = async () => navigate("/tabela");
+    const navCalculo = async () => navigate("/avaliacao")
 
-      allParents.forEach((parent) => {
-        parent.style.height = `${parent.offsetHeight + subItemsHeight + 20}px`;
-      });
-    } else {
-      console.log('Entering hide condition');
-      subItems.classList.remove('show');
-      parentDropdown.style.height = 'auto';
-
-      // restaurar a altura dos filhos
-      Array.from(parentDropdown.children).forEach((child) => {
-        child.style.height = 'auto';
-      });
-
-      const allParents = getAllParents(parentDropdown, 'dropdown');
-      console.log('parents', allParents);
-
-      // restaura a altura dos pais
-      allParents.forEach((parent) => {
-        const childrenHeight = Array.from(parent.children)
-          .reduce((acc, child) => acc + child.offsetHeight, 0);
-        parent.style.height = `${childrenHeight + 20}px`;
-      });
-    }
-  }
-}
-
-// procura os elementos pai 
-function getAllParents(element, targetClass) {
-  const parents = [];
-  let currentElement = element.parentElement;
-
-  while (currentElement) {
-    if (currentElement.classList.contains(targetClass)) {
-      parents.push(currentElement);
-    }
-    currentElement = currentElement.parentElement;
-  }
-
-  return parents;
-}
-
-document.addEventListener('click', function (e) {
-  if (e.target.classList.contains('dropbtn')) {
-    toggleSubItems(e);
-  }
-});;
-
-function renderTabelaSearch(tabela, level) {
-  return (
-    <div className={`dropdown-levels dropdown-level-${level}`}>
-      <div className={`dropdown`}>
-        <button className="dropbtn">
-          {tabela['id']} {tabela['desc']}
-        </button>
-        <div className={`dropdown-content submenu`}>
-          {tabela['nota'] && <a>Nota: {tabela['nota']}</a>}
-          {tabela['valor'] && <a>Valor: {tabela['valor']}</a>}
-          {tabela['refs'] && <a>Referência a: {tabela['refs']}</a>}
-          {tabela.sub && tabela.sub.length > 0 ? (
-            tabela.sub.map((subData) => (
-              <a key={subData.id}>{renderTabelaSearch(subData, level + 1)}</a>
-            ))
-          ) : null}
-        </div>
-      </div>
-    </div>
-  );
-}
-
-  
-  
-  function renderTabela(tabela, level) {
     return (
-      <div className={`dropdown-levels dropdown-level-${level}`}>
-        {Object.keys(tabela).map((key) => (
-          <div className={`dropdown`}>
-            <button className="dropbtn">
-              {tabela[key]['id']} {tabela[key]['desc']}
-            </button>
-            <div className={`dropdown-content submenu`}>
-              {tabela[key]['cod'] ? <a>Código: {tabela[key]['cod']}</a> : null}
-              {tabela[key]['nota'] ? <a>Nota: {tabela[key]['nota']}</a> : null}
-              {tabela[key]['valor'] ? <a>Valor: {tabela[key]['valor']}</a> : null}
-              {tabela[key]['refs'] ? <a>Referência a: {tabela[key]['refs']}</a> : null}
-              {tabela[key]['sub'] ? (
-                <a>{renderTabela(tabela[key]['sub'], level + 1)}</a>
-              ) : null}
-            </div>
-          </div>
-        ))}
-      </div>
-    );
-  }
-
-  function HomePage() {
-    const baseURL = "http://localhost:3001/tabela/listTabela";
-    const searchURL = "http://localhost:3001/tabela/search";
-  
-    const [tabela, setTabela] = useState([]);
-    // console.log(tabela);
-    const [searchResults, setSearchResults] = useState([]);
-    const [loading, setLoading] = useState(true);
-    const [searchInput, setSearchInput] = useState("");
-    const level = 1;
-  
-    useEffect(() => {
-      const fetchData = async () => {
-        try {
-          const response = await axios.get(baseURL);
-          console.log(JSON.stringify(response.data));
-          setTabela(response.data);
-        } catch (error) {
-          console.error("Error fetching data:", error);
-        } finally {
-          setLoading(false);
-        }
-      };
-  
-      fetchData();
-    }, []);
-  
-    const handleInputChange = (event) => {
-      setSearchInput(event.target.value);
-    };
-  
-    const handleSearchClick = () => {
-      if (searchInput.trim() === "") {
-        setSearchResults(null);
-        return;
-      }
-      axios.get(`${searchURL}/${searchInput}`).then((response) => {
-        setSearchResults([...response.data]);
-      });
-    };
-    
-
-    const handleKeyPress = (event) => {
-        if (event.key === 'Enter') {
-          event.preventDefault();
-          handleSearchClick();
-        }
-      };
-  
-    return (
-      <div>
-        <nav className="navbar bg-body-tertiary">
-          <div className="container-fluid">
-            <span>Avaliação do Dano Corporal</span>
-            <form className="d-flex" role="search">
-              <input
-                className="form-control me-2"
-                type="search"
-                placeholder="Search"
-                aria-label="Search"
-                value={searchInput}
-                onChange={handleInputChange}
-                onKeyDown={handleKeyPress}
-              />
-              <button type="button" onClick={handleSearchClick}>
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-                  <path d="M11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z" stroke="#525256" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-                  <path d="M21 20.9999L16.65 16.6499" stroke="#525256" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-                </svg>
-              </button>
-            </form>
-          </div>
-        </nav>
-  
-        <div className="result-container">
-          {searchResults && searchResults.length && searchResults.length > 0 ? (
-            searchResults.map((item, index) => (
-              <div key={index}>
-                {renderTabelaSearch(item, 1)}
-                <hr />
-              </div>
-            ))
-          ) : (
-            <div className="tabela-container">
-              {tabela ? (
-                tabela.map((item, index, level) => 
-                <div className={`dropdown-levels dropdown-level-${level}`}>
-                  <div className={`dropdown`}>
-                    <button className="dropbtn">
-                      {index === 0 ? 'Tabela Nacional de Incapacidades por Acidentes de Trabalho ou Doenças Profissionais' : 'Tabela de Avaliação de Incapacidades Permanentes em Direito Civil'}
-                    </button>
-                    <div className={`dropdown-content submenu`}>
-                        <a>{renderTabela(item, level + 1)}</a>
+        <div>
+        <Header />
+        <main>
+            <div className="landing-page">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-6 d-flex flex-column text-lg-left text-center">
+                            <h1>Avaliação do <br/>Dano Corporal</h1>
+                        </div>
+                        <div className="col-lg-6 text-lg-left text-center">
+                            <img src={image} className="landing-page-ilust"/>
+                        </div>
                     </div>
-                    </div>
-                  </div>)
-              ) : (
-                <p>Dados ainda estão sendo carregados...</p>
-              )}
+                </div>
+                <img src={element} className="landing-page-shape-1"/>
             </div>
-          )}
+
+            <div className="services" id="services">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-12 heading">
+                            <h2>Serviços</h2>
+                            <div className="underline-1">
+                            </div>
+                        </div>
+                        <div className="col-lg-12 content">
+                            {/* service 1 */}
+                            <div className="service">
+                                <div className="service-img">
+                                    <img src={lupa}/>
+                                </div>
+                                <a onClick={navCalculo}><h3>Avaliação do Dano Corporal</h3></a>
+                                <p>Realize o cálculo da incapacidade
+                                total do trabalhador
+                                </p>
+                            </div>
+                            {/* service 2 */}
+                            <div className="service">
+                            <div className="service-img">
+                                    <img src={icon}/>
+                                </div>
+                                <a onClick={navTabela}><h3>Tabela Nacional de Incapacidades</h3></a>
+                                <p>Visualize a tabela nacional de 
+                                    incapacidades portuguesa em 
+                                    formato digital</p>
+                            </div>
+                            <div className="service">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <img src={element} className="services-shape-1" />
+                <img src={shape} className="services-shape-2"/>
+            </div>
+        </main>
+
+        <Footer />
         </div>
-      </div>
-    );
-  }
+    )
+}
 
-export default HomePage;
+export default NewHomePage;

@@ -3,23 +3,19 @@ import "./App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import 'bootstrap/dist/js/bootstrap.bundle.min';
 
-import Home from "./components/home";
 import Tabela from "./components/tabela";
-import Search from "./components/search"
 import HomePage from "./components/homepage";
-import NewHomePage from "./components/new_homepage";
-import NewTabela from "./components/new_tabela";
+import Avaliacao from "./components/avaliacao";
+
 
 function App() {
   return (
     <div className="App">
       <Router>
         <Routes>
-          <Route exact path="/" element={<NewHomePage />} />
-          <Route exact path="/tabela" element={<NewTabela />} />
-          {/* <Route exact path="/home" element={<HomePage />} />
+          <Route exact path="/" element={<HomePage />} />
           <Route exact path="/tabela" element={<Tabela />} />
-          <Route exact path="/pesquisa" element={<Search />} /> */}
+          <Route exact path="/avaliacao" element={<Avaliacao />} />
         </Routes>
       </Router>
     </div>

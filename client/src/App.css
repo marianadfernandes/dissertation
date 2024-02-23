@@ -81,7 +81,7 @@ body {
     background-color: #FAFAFA !important;
 }
 
-html, div, main, .header, .landing-page, .services, footer {
+html, div, main, .header, .landing-page, .services, .search-bar, footer {
     display: block;
 } 
 
@@ -281,7 +281,7 @@ main {
     overflow: hidden;
 }
 
-.landing-page, .services {
+.landing-page, .services, .search-bar {
     position: relative;
 }
 
@@ -460,4 +460,64 @@ footer {
     position: absolute;
     bottom: 0px;
     left: -19px;
+}
+
+/* Tabela */
+
+.padding-table {
+    padding-top: 100px;
+}
+
+.table {
+    position: relative;
+    padding: 64px 118px 64px;
+    background: var(--testimonials-bg);
+    border-radius: 24px;
+}
+
+
+.dropdown:first-child {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.dropbtn {
+    width: 100%;
+    border-style: none;
+    border-radius: 12px;
+    height: 50px !important;
+    background-color: var(--btn-1-color) !important;
+    color: var(--text-1) !important;
+}
+
+.dropdown-content {
+    display: none;
+}
+
+.search-bar {
+    padding-top: 30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+form {
+    flex: 1; 
+    display: flex;
+    justify-content: flex-start; 
+}
+
+form input {
+    border-radius: 55px !important;
+}
+
+.btn-2 {
+    height: 56px;
+    width: 100px;
+    margin-left: 10px; 
+    border-radius: 55px;
+    color: var(--btn-2-color);
+    background-color: var(--btn-2-bg);
+    border: 2px solid var(--btn-2-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
