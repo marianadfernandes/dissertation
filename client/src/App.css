@@ -521,3 +521,11 @@ form input {
     border: 2px solid var(--btn-2-color);
     transition: background-color 0.3s ease, color 0.3s ease;
 }
+
+.visible {
+    display: block;
+}
+
+.hidden {
+display: none;
+}

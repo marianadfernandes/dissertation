@@ -4,48 +4,26 @@ import axios from "axios";
 import Header from "./header";
 import Footer from "./footer";
 
-function toggleSubItems(e) {
-    const subItems = e.target.nextElementSibling;
-  
-    if (subItems) {
-        if (subItems.classList.contains('show')) {
-            subItems.classList.remove('show');
-        } else {
-            subItems.classList.add('show');
-        }
-    }
-}
+// function toggleSubItems(e) {
+//     const subItems = e.target.nextElementSibling;
+//     console.log(subItems);
+// }
 
-document.addEventListener('click', function (e) {
-    if (!e.target.classList.contains('dropbtn')) {
-        // Se o clique não foi em um dropbtn, oculte todos os subitens
-        const allSubItems = document.querySelectorAll('.dropdown-content');
-        allSubItems.forEach(subItems => {
-            subItems.classList.remove('show');
-        });
-    } else {
-        // Se o clique foi em um dropbtn, mostre ou oculte os subitens correspondentes
-        toggleSubItems(e);
-    }
-});
-
-  function renderTabela(tabela, level) {
-    const handleResultClick = (e, result) => {
-        console.log('Resultado clicado:', result);
-    };
-
+function renderTabela(tabela, level, toggleDropdown, openSubmenuIds) {
     return (
-        <div className={`dropdown-levels dropdown-level-${level}`} onClick={(e) => handleResultClick(e, tabela)}>
+        <div className={`dropdown-levels dropdown-level-${level}`} key={tabela.id}>
             <div className={`dropdown`}>
-                <button className="dropbtn">
+                <button onClick={(e) => toggleDropdown(e, tabela, level)} className="dropbtn">
                     {tabela['id']}  {tabela['desc']}
                 </button>
-                <div className={`dropdown-content submenu`}>
+                <div className={`dropdown-content submenu ${openSubmenuIds[level] === tabela.id ? 'visible' : 'hidden'}`}>
                     {tabela['nota'] ? <a>Nota: {tabela['nota']}</a> : null}
                     {tabela['valor'] ? <a>Valor: {tabela['valor']}</a> : null}
                     {tabela['refs'] ? <a>Referência a: {tabela['refs']}</a> : null}
                     {tabela.sub ? (tabela.sub.map((subData) => (
-                        <a key={subData.id}>{renderTabela(subData, level + 1)}</a>
+                        <a key={subData.id}>
+                            {renderTabela(subData, level + 1, toggleDropdown, openSubmenuIds)}
+                        </a>
                     ))) : null}
                 </div>
             </div>
@@ -53,15 +31,90 @@ document.addEventListener('click', function (e) {
     );
 }
 
-
 function Avaliacao () {
 
     const baseURL = "http://localhost:3001/tabela/search";
 
+    // const [isVisible, setIsVisible] = useState(false);
+    const [openSubmenuIds, setOpenSubmenuIds] = useState([]);
+    const [clickedButtonInfo, setClickedButtonInfo] = useState([]);
+    const [minCoef, setminCoef] = useState(null);
+    const [maxCoef, setmaxCoef] = useState(null);
 
+
+    // const toggleDropdown = (resultId) => {
+    //     setSelectedResults([resultId]); // Define o resultado clicado como o único resultado selecionado
+    //     setIsVisible(!isVisible); // Alterna a visibilidade apenas do submenu associado ao resultado clicado
+    // };
+
+    const toggleDropdown = (event, item, level) => {
+        console.log("NOVO CLIQUE");
+        console.log("item", item);
+        console.log("event", event.target)
+        console.log("next element", event.target.nextSibling);
+        console.log("level", level);
+
+        const nextSiblingElement = event.target.nextElementSibling;
+
+        if (nextSiblingElement.classList.contains('hidden')) {
+            // Se o dropdown estiver oculto, abre-se
+            setOpenSubmenuIds(prevIds => {
+                const newIds = [...prevIds];
+                newIds.push(item.id); // Guarda o id do item
+                console.log("newIds aberto:", newIds);
+                return newIds;
+            });
+            // Remove-se a classe "hidden" e adiciona-se a classe "visible" para mostrar o dropdown
+            nextSiblingElement.classList.remove('hidden');
+            nextSiblingElement.classList.add('visible');
+
+            // Se tiver valor, acrescentar à lista de resultados clicados
+            if (item.valor) {
+                setClickedButtonInfo(prevInfo => {
+                    console.log('clicked button info antes de acrescentar', clickedButtonInfo);
+                    console.log('prev info', prevInfo);
+                    return [...prevInfo, { desc: item.desc, valor: item.valor, id: item.id }];
+                })
+                console.log('clicked button info depois de acrescentar', clickedButtonInfo);
+            }
+
+            
+
+        } else {
+            // Se o dropdown estiver visível, fecha-se
+            setOpenSubmenuIds(prevIds => {
+                const newIds = [...prevIds];
+                let index = newIds.indexOf(item.id);
+                newIds.splice(index);
+                newIds[level] = null; // Remove o id do item
+                console.log("newIds fechado:", newIds);
+                return newIds;
+            });
+            // Remove-se a classe "visible" e adiciona-se a classe "hidden" para ocultar o dropdown
+            nextSiblingElement.classList.remove('visible');
+            nextSiblingElement.classList.add('hidden');
+
+            // Se fechar um resultado clicado c/ valor, retira-se da lista
+            if (item.valor) {
+                setClickedButtonInfo(prevInfo => {
+                    console.log('clicked button info antes de remover', clickedButtonInfo);
+                    console.log('prev info', prevInfo);
+                    let index = prevInfo.indexOf({ desc: item.desc, valor: item.valor, id: item.id });
+                    console.log("item a eliminar", prevInfo[index]);
+                    prevInfo.splice(index);
+                    return prevInfo;
+                })
+                console.log('clicked button info depois de acrescentar', clickedButtonInfo);
+            }
+
+            
+        }
+
+    };
+    
     const [searchText, setSearchText] = useState('');
     const [searchResults, setSearchResults] = useState([]);
-    const [selectedResults, setSelectedResults] = useState([]);
+    // const [selectedResults, setSelectedResults] = useState([]);
 
 
     const handleSearchChange = async (e) => {
@@ -106,17 +159,36 @@ function Avaliacao () {
             <div id="searchResults" className="results">
                 <div className="container">
                     <div className="row">
-                        {!searchResults ? (
-                            <p>Dados ainda estão sendo carregados...</p>
+                        {!searchText ? (
+                            null
                         ) : searchResults.length > 0 ? (
                             searchResults.map((item, index) => (
                             <div key={index}>
-                                {renderTabela(item, 1)}
+                                {renderTabela(item, 1, toggleDropdown, openSubmenuIds)}
                                 <hr />
                             </div>
                             ))
                         ) : (
                             <p>Não encontrado na tabela.</p>
+                        )}
+                    </div>
+                </div>
+            </div>
+
+            <div id="selectedResults" className="selected">
+                <div className="container">
+                    <div className="row">
+                        {clickedButtonInfo && clickedButtonInfo.length > 0 && (
+                            <div>
+                                <h5>Resultados selecionados</h5>
+                                {clickedButtonInfo.map((item, index) => (
+                                    <div key={index}>
+                                        <p>{item.desc}</p>
+                                        <p>Coeficiente: {item.valor}</p>
+                                        <hr></hr>
+                                    </div>
+                                ))}
+                            </div>
                         )}
                     </div>
                 </div>

@@ -1,72 +1,67 @@
-import { React, useState, useEffect } from "react";
+import { React, useState, useEffect, useRef } from "react";
 import axios from "axios";
 
 import Header from "./header";
 import Footer from "./footer";
 
-function toggleSubItems(e) {
-    const subItems = e.target.nextElementSibling;
-    const parentDropdown = e.target.parentElement;
+// function toggleSubItems(e) {
+//     const subItems = e.target.nextElementSibling;
+//     const parentDropdown = e.target.parentElement;
   
-    console.log('Current subItems height:', subItems.offsetHeight);
+//     console.log('Current subItems height:', subItems.offsetHeight);
   
-    if (subItems) {
-      if (subItems.offsetHeight !== 0) {
-        console.log('Entering show condition');
-        subItems.classList.add('show');
+//     if (subItems) {
+//       if (subItems.offsetHeight !== 0) {
+//         console.log('Entering show condition');
+//         subItems.classList.add('show');
   
-        const subItemsHeight = subItems.offsetHeight;
-        parentDropdown.style.height = `${parentDropdown.offsetHeight + subItemsHeight + 20}px`;
+//         const subItemsHeight = subItems.offsetHeight;
+//         parentDropdown.style.height = `${parentDropdown.offsetHeight + subItemsHeight + 20}px`;
   
-        const allParents = getAllParents(parentDropdown, 'dropdown');
-        console.log('parents', allParents);
+//         const allParents = getAllParents(parentDropdown, 'dropdown');
+//         console.log('parents', allParents);
   
-        allParents.forEach((parent) => {
-          parent.style.height = `${parent.offsetHeight + subItemsHeight + 20}px`;
-        });
-      } else {
-        console.log('Entering hide condition');
-        subItems.classList.remove('show');
-        parentDropdown.style.height = 'auto';
+//         allParents.forEach((parent) => {
+//           parent.style.height = `${parent.offsetHeight + subItemsHeight + 20}px`;
+//         });
+//       } else {
+//         console.log('Entering hide condition');
+//         subItems.classList.remove('show');
+//         parentDropdown.style.height = 'auto';
   
-        // restaurar a altura dos filhos
-        Array.from(parentDropdown.children).forEach((child) => {
-          child.style.height = 'auto';
-        });
+//         // restaurar a altura dos filhos
+//         Array.from(parentDropdown.children).forEach((child) => {
+//           child.style.height = 'auto';
+//         });
   
-        const allParents = getAllParents(parentDropdown, 'dropdown');
-        console.log('parents', allParents);
+//         const allParents = getAllParents(parentDropdown, 'dropdown');
+//         console.log('parents', allParents);
   
-        // restaura a altura dos pais
-        allParents.forEach((parent) => {
-          const childrenHeight = Array.from(parent.children)
-            .reduce((acc, child) => acc + child.offsetHeight, 0);
-          parent.style.height = `${childrenHeight + 20}px`;
-        });
-      }
-    }
-  }
+//         // restaura a altura dos pais
+//         allParents.forEach((parent) => {
+//           const childrenHeight = Array.from(parent.children)
+//             .reduce((acc, child) => acc + child.offsetHeight, 0);
+//           parent.style.height = `${childrenHeight + 20}px`;
+//         });
+//       }
+//     }
+//   }
   
-  // procura os elementos pai 
-  function getAllParents(element, targetClass) {
-    const parents = [];
-    let currentElement = element.parentElement;
+//   // procura os elementos pai 
+//   function getAllParents(element, targetClass) {
+//     const parents = [];
+//     let currentElement = element.parentElement;
   
-    while (currentElement) {
-      if (currentElement.classList.contains(targetClass)) {
-        parents.push(currentElement);
-      }
-      currentElement = currentElement.parentElement;
-    }
+//     while (currentElement) {
+//       if (currentElement.classList.contains(targetClass)) {
+//         parents.push(currentElement);
+//       }
+//       currentElement = currentElement.parentElement;
+//     }
   
-    return parents;
-  }
+//     return parents;
+//   }
   
-  document.addEventListener('click', function (e) {
-    if (e.target.classList.contains('dropbtn')) {
-      toggleSubItems(e);
-    }
-  });;
 
   function renderTabela(tabela, level) {
     return (
@@ -98,6 +93,27 @@ function toggleSubItems(e) {
     const [tabela, setTabela] = useState([]);
     const [loading, setLoading] = useState(true); 
     const level = 1;
+    const listener = useRef(null);
+
+    // listener.current.addEventListener('click', function (e) {
+    //   if (e.target.classList.contains('dropbtn')) {
+    //     toggleSubItems(e);
+    //   }
+    // });
+
+    // useEffect(() => {
+    //   const handleClick = e => {
+    //     if (e.target.classList.contains('dropbtn')) {
+    //       toggleSubItems(e);
+    //     }
+    //   };
+
+    //   listener.current.addEventListener('click', handleClick);
+
+    //   return () => {
+    //     listener.current.removeEventListener('click', handleClick);
+    //   };
+    // }, []);
   
   useEffect(() => {
     const fetchData = async () => {
@@ -124,7 +140,7 @@ function toggleSubItems(e) {
                         tabela.map((item, index, level) => 
                         <div className={`col-lg-12 dropdown-levels dropdown-level-${level}`}>
                         <div className={`dropdown`}>
-                            <button className="dropbtn">
+                            <button ref={listener} className="dropbtn">
                             {index === 0 ? 'Tabela Nacional de Incapacidades por Acidentes de Trabalho ou Doenças Profissionais' : 'Tabela de Avaliação de Incapacidades Permanentes em Direito Civil'}
                             </button>
                             <div className={`dropdown-content submenu`}>
