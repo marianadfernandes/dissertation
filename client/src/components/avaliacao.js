@@ -1,6 +1,9 @@
 import { React, useState, useEffect } from "react";
 import axios from "axios";
 
+import Box from '@mui/material/Box';
+import Slider from '@mui/material/Slider';
+
 import Header from "./header";
 import Footer from "./footer";
 
@@ -31,13 +34,29 @@ function renderTabela(tabela, level, toggleDropdown, openSubmenuIds) {
     );
 }
 
+// Função para calcular os coeficientes com base nos valores
+function calculateCoefs(valor) {
+    let coefs, minCoef, maxCoef;
+    if (valor.includes('-')) {
+        coefs = valor.split('-');
+        minCoef = parseFloat(coefs[0].replace(',', '.'));
+        maxCoef = parseFloat(coefs[1].replace(',', '.'));
+    } else {
+        coefs = [valor];
+        minCoef = parseFloat(coefs.replace(',', '.'));
+        maxCoef = parseFloat(coefs.replace(',', '.'));
+    }
+
+    return { minCoef, maxCoef };
+}
+
 function Avaliacao () {
 
     const baseURL = "http://localhost:3001/tabela/search";
 
     // const [isVisible, setIsVisible] = useState(false);
     const [openSubmenuIds, setOpenSubmenuIds] = useState([]);
-    const [clickedButtonInfo, setClickedButtonInfo] = useState([]);
+    const [selectedResults, setSelectedResults] = useState([]);
     const [minCoef, setminCoef] = useState(null);
     const [maxCoef, setmaxCoef] = useState(null);
 
@@ -46,8 +65,8 @@ function Avaliacao () {
     }, [openSubmenuIds]);
 
     useEffect(() => {
-        console.log('clickedButtonInfo atualizado:', clickedButtonInfo);
-    }, [clickedButtonInfo]);
+        console.log('selectedResults atualizado:', selectedResults);
+    }, [selectedResults]);
 
     // const toggleDropdown = (resultId) => {
     //     setSelectedResults([resultId]); // Define o resultado clicado como o único resultado selecionado
@@ -56,31 +75,75 @@ function Avaliacao () {
 
     const toggleDropdown = (event, item, level) => {
         console.log("NOVO CLIQUE");
-        console.log("item", item);
-        console.log("event", event.target)
-        console.log("next element", event.target.nextSibling);
-        console.log("level", level);
+        // console.log("item", item);
+        // console.log("event", event.target)
+        // console.log("next element", event.target.nextSibling);
+        // console.log("level", level);
 
         const nextSiblingElement = event.target.nextElementSibling;
+        const parent = event.target.parentNode.parentNode.parentNode.parentNode;
+        // console.log('parent', parent)
 
         if (nextSiblingElement.classList.contains('hidden')) {
-            setOpenSubmenuIds(prevIds => {
-                prevIds.push(item.id); // Adiciona o id do item
-                console.log("newIds aberto:", prevIds);
-                return prevIds;
-            });
-        
-            // Remove-se a classe "hidden" e adiciona-se a classe "visible" para mostrar o dropdown
-            nextSiblingElement.classList.remove('hidden');
-            nextSiblingElement.classList.add('visible');
-        
             // Se tiver valor, acrescentar à lista de resultados clicados
             if (item.valor) {
-                setClickedButtonInfo(prevInfo => {
-                    console.log('clicked button info antes de acrescentar', clickedButtonInfo);
-                    console.log('prev info', prevInfo);
-                    return [...prevInfo, { desc: item.desc, valor: item.valor, id: item.id }];
+                // Verificar se já existe algum "irmão" (só muda o último número do id) já presente no array
+                const itemBaseId = item.id.substring(0, item.id.lastIndexOf('.', item.id.lastIndexOf('.') - 1)); // Obtém a parte do id antes do penúltimo ponto
+                let i = 0;
+                while (i < selectedResults.length) {
+                    const button = selectedResults[i];
+                    const buttonBaseId = button.id.substring(0, button.id.lastIndexOf('.', button.id.lastIndexOf('.') - 1)); // Obtém a parte do id do botão antes do penúltimo ponto
+                    
+                    // Verifica se o id base do botão atual é o mesmo que o id base do item
+                    if (buttonBaseId === itemBaseId) {
+                        // Remove o botão se for encontrado um "irmão" com o mesmo id base
+                        selectedResults.splice(i, 1);
+
+                        // Remove da lista de indices abertos
+                        setOpenSubmenuIds(prevIds => prevIds.filter(id => id !== button.id));
+
+                        // Fecha o dropdown do botão correspondente
+                        let siblingToDelete;
+
+                        // procura o elemento do botão a eliminar e de seguida procura o dropdown para fechar
+                        parent.querySelectorAll('.dropbtn').forEach(element => {
+                            if (element.innerHTML.includes(button.id)) {
+                                siblingToDelete = element;
+                            }
+                        });
+
+                        // console.log('siblingtodelete', siblingToDelete.nextElementSibling);
+                        siblingToDelete.nextElementSibling.classList.remove('visible');
+                        siblingToDelete.nextElementSibling.classList.add('hidden');
+                    } else {
+                        // Apenas incrementa o contador se nenhum botão for removido
+                        i++;
+                    }
+                }
+
+                // Adiciona o novo item
+                setSelectedResults(prevInfo => {
+                    const {minCoef, maxCoef} = calculateCoefs(item.valor);
+                    return [...prevInfo, { desc: item.desc, valor: item.valor, id: item.id, min: minCoef, max: maxCoef}];
                 });
+
+                setOpenSubmenuIds(prevIds => {
+                    return [...prevIds, item.id]; // Adiciona o id do item
+                });
+            
+                // Remove-se a classe "hidden" e adiciona-se a classe "visible" para mostrar o dropdown
+                nextSiblingElement.classList.remove('hidden');
+                nextSiblingElement.classList.add('visible');
+
+            } else {
+
+                setOpenSubmenuIds(prevIds => {
+                    return [...prevIds, item.id]; // Adiciona o id do item
+                });
+            
+                // Remove-se a classe "hidden" e adiciona-se a classe "visible" para mostrar o dropdown
+                nextSiblingElement.classList.remove('hidden');
+                nextSiblingElement.classList.add('visible');
             }
         }
         else {
@@ -97,10 +160,10 @@ function Avaliacao () {
 
             // Se fechar um resultado clicado c/ valor, retira-se da lista
             if (item.valor) {
-                const indexToRemove = clickedButtonInfo.findIndex(button => button.id === item.id);
+                const indexToRemove = selectedResults.findIndex(button => button.id === item.id);
                 if (indexToRemove !== -1) {
-                    // Remove o botão da lista clickedButtonInfo se estiver presente
-                    setClickedButtonInfo(prevInfo => {
+                    // Remove o botão da lista selectedResults se estiver presente
+                    setSelectedResults(prevInfo => {
                         const newInfo = [...prevInfo];
                         newInfo.splice(indexToRemove, 1);
                         return newInfo;
@@ -109,14 +172,12 @@ function Avaliacao () {
 
             }
 
-            
         }
 
     };
     
     const [searchText, setSearchText] = useState('');
     const [searchResults, setSearchResults] = useState([]);
-    // const [selectedResults, setSelectedResults] = useState([]);
 
 
     const handleSearchChange = async (e) => {
@@ -134,6 +195,16 @@ function Avaliacao () {
         } catch (error) {
             console.error('Error fetching search results:', error);
         }
+    };
+
+    // Função para formatar o rótulo do valor
+    const valueLabelFormat = (value) => {
+        return `${value}`;
+    };
+
+    // Função para obter o texto do valor
+    const valuetext = (value) => {
+        return `${value}`;
     };
 
     return (
@@ -180,13 +251,30 @@ function Avaliacao () {
             <div id="selectedResults" className="selected">
                 <div className="container">
                     <div className="row">
-                        {clickedButtonInfo && clickedButtonInfo.length > 0 && (
+                        {selectedResults && selectedResults.length > 0 && (
                             <div>
                                 <h5>Resultados selecionados</h5>
-                                {clickedButtonInfo.map((item, index) => (
+                                {selectedResults.map((item, index) => (
                                     <div key={index}>
                                         <p>{item.desc}</p>
                                         <p>Coeficiente: {item.valor}</p>
+                                        <Box sx={{ width: 300 }}>
+                                            <Slider
+                                                aria-label="Valores restritos"
+                                                defaultValue={item.min}
+                                                valueLabelFormat={valueLabelFormat}
+                                                getAriaValueText={valuetext}
+                                                step={0.01}
+                                                valueLabelDisplay="auto"
+                                                marks={[
+                                                    { value: item.min, label: item.min.toString() },
+                                                    { value: item.max, label: item.max.toString() }
+                                                ]}
+                                                min={item.min}
+                                                max={item.max}
+                                            />
+                                        </Box>
+
                                         <hr></hr>
                                     </div>
                                 ))}
