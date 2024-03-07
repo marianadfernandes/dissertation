@@ -41,6 +41,13 @@ function Avaliacao () {
     const [minCoef, setminCoef] = useState(null);
     const [maxCoef, setmaxCoef] = useState(null);
 
+    useEffect(() => {
+        console.log('openSubmenuIds atualizado:', openSubmenuIds);
+    }, [openSubmenuIds]);
+
+    useEffect(() => {
+        console.log('clickedButtonInfo atualizado:', clickedButtonInfo);
+    }, [clickedButtonInfo]);
 
     // const toggleDropdown = (resultId) => {
     //     setSelectedResults([resultId]); // Define o resultado clicado como o único resultado selecionado
@@ -57,36 +64,30 @@ function Avaliacao () {
         const nextSiblingElement = event.target.nextElementSibling;
 
         if (nextSiblingElement.classList.contains('hidden')) {
-            // Se o dropdown estiver oculto, abre-se
             setOpenSubmenuIds(prevIds => {
-                const newIds = [...prevIds];
-                newIds.push(item.id); // Guarda o id do item
-                console.log("newIds aberto:", newIds);
-                return newIds;
+                prevIds.push(item.id); // Adiciona o id do item
+                console.log("newIds aberto:", prevIds);
+                return prevIds;
             });
+        
             // Remove-se a classe "hidden" e adiciona-se a classe "visible" para mostrar o dropdown
             nextSiblingElement.classList.remove('hidden');
             nextSiblingElement.classList.add('visible');
-
+        
             // Se tiver valor, acrescentar à lista de resultados clicados
             if (item.valor) {
                 setClickedButtonInfo(prevInfo => {
                     console.log('clicked button info antes de acrescentar', clickedButtonInfo);
                     console.log('prev info', prevInfo);
                     return [...prevInfo, { desc: item.desc, valor: item.valor, id: item.id }];
-                })
-                console.log('clicked button info depois de acrescentar', clickedButtonInfo);
+                });
             }
-
-            
-
-        } else {
+        }
+        else {
             // Se o dropdown estiver visível, fecha-se
             setOpenSubmenuIds(prevIds => {
-                const newIds = [...prevIds];
-                let index = newIds.indexOf(item.id);
-                newIds.splice(index);
-                newIds[level] = null; // Remove o id do item
+                // Mantém todos os ids que sejam diferente do item.id
+                const newIds = prevIds.filter(id => id !== item.id);
                 console.log("newIds fechado:", newIds);
                 return newIds;
             });
@@ -96,15 +97,16 @@ function Avaliacao () {
 
             // Se fechar um resultado clicado c/ valor, retira-se da lista
             if (item.valor) {
-                setClickedButtonInfo(prevInfo => {
-                    console.log('clicked button info antes de remover', clickedButtonInfo);
-                    console.log('prev info', prevInfo);
-                    let index = prevInfo.indexOf({ desc: item.desc, valor: item.valor, id: item.id });
-                    console.log("item a eliminar", prevInfo[index]);
-                    prevInfo.splice(index);
-                    return prevInfo;
-                })
-                console.log('clicked button info depois de acrescentar', clickedButtonInfo);
+                const indexToRemove = clickedButtonInfo.findIndex(button => button.id === item.id);
+                if (indexToRemove !== -1) {
+                    // Remove o botão da lista clickedButtonInfo se estiver presente
+                    setClickedButtonInfo(prevInfo => {
+                        const newInfo = [...prevInfo];
+                        newInfo.splice(indexToRemove, 1);
+                        return newInfo;
+                    });
+                }
+
             }
 
             
