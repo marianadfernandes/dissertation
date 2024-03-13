@@ -1,6 +1,8 @@
 import { React, useState, useEffect, useRef } from "react";
 import axios from "axios";
 
+import Button from "@mui/material/Button";
+
 import Header from "./header";
 import Footer from "./footer";
 
@@ -68,9 +70,9 @@ import Footer from "./footer";
       <div className={`col-lg-12 dropdown-levels dropdown-level-${level}`}>
         {Object.keys(tabela).map((key) => (
           <div className={`dropdown`}>
-            <button className="dropbtn">
+            <Button className="dropbtn">
               {tabela[key]['id']} {tabela[key]['desc']}
-            </button>
+            </Button>
             <div className={`dropdown-content submenu`}>
               {tabela[key]['cod'] ? <a>Código: {tabela[key]['cod']}</a> : null}
               {tabela[key]['nota'] ? <a>Nota: {tabela[key]['nota']}</a> : null}
@@ -140,9 +142,9 @@ import Footer from "./footer";
                         tabela.map((item, index, level) => 
                         <div className={`col-lg-12 dropdown-levels dropdown-level-${level}`}>
                         <div className={`dropdown`}>
-                            <button ref={listener} className="dropbtn">
+                            <Button ref={listener} className="dropbtn">
                             {index === 0 ? 'Tabela Nacional de Incapacidades por Acidentes de Trabalho ou Doenças Profissionais' : 'Tabela de Avaliação de Incapacidades Permanentes em Direito Civil'}
-                            </button>
+                            </Button>
                             <div className={`dropdown-content submenu`}>
                                 <a>{renderTabela(item, level + 1)}</a>
                             </div>

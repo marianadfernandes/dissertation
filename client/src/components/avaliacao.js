@@ -3,29 +3,26 @@ import axios from "axios";
 
 import Box from '@mui/material/Box';
 import Slider from '@mui/material/Slider';
+import Button from "@mui/material/Button";
 
 import Header from "./header";
 import Footer from "./footer";
 
-// function toggleSubItems(e) {
-//     const subItems = e.target.nextElementSibling;
-//     console.log(subItems);
-// }
 
-function renderTabela(tabela, level, toggleDropdown, openSubmenuIds) {
+function renderTabela(tabela, level, toggleDropdown, buttons) {
     return (
         <div className={`dropdown-levels dropdown-level-${level}`} key={tabela.id}>
             <div className={`dropdown`}>
-                <button onClick={(e) => toggleDropdown(e, tabela, level)} className="dropbtn">
-                    {tabela['id']}  {tabela['desc']}
-                </button>
-                <div className={`dropdown-content submenu ${openSubmenuIds[level] === tabela.id ? 'visible' : 'hidden'}`}>
+                <Button variant="outlined" onClick={(e) => {toggleDropdown(e, tabela, level)}} className="dropbtn">
+                    {tabela['desc']}
+                </Button>
+                <div className={`dropdown-content submenu ${buttons[level] === tabela.id ? 'visible' : 'hidden'}`}>
                     {tabela['nota'] ? <a>Nota: {tabela['nota']}</a> : null}
                     {tabela['valor'] ? <a>Valor: {tabela['valor']}</a> : null}
-                    {tabela['refs'] ? <a>Referência a: {tabela['refs']}</a> : null}
+                    {/* {tabela['refs'] ? <div>{retrieveRefs(tabela)}</div> : null} */}
                     {tabela.sub ? (tabela.sub.map((subData) => (
                         <a key={subData.id}>
-                            {renderTabela(subData, level + 1, toggleDropdown, openSubmenuIds)}
+                            {renderTabela(subData, level + 1, toggleDropdown, buttons)}
                         </a>
                     ))) : null}
                 </div>
@@ -43,8 +40,8 @@ function calculateCoefs(valor) {
         maxCoef = parseFloat(coefs[1].replace(',', '.'));
     } else {
         coefs = [valor];
-        minCoef = parseFloat(coefs.replace(',', '.'));
-        maxCoef = parseFloat(coefs.replace(',', '.'));
+        minCoef = parseFloat(coefs[0].replace(',', '.'));
+        maxCoef = parseFloat(coefs[0].replace(',', '.'));
     }
 
     return { minCoef, maxCoef };
@@ -54,123 +51,140 @@ function Avaliacao () {
 
     const baseURL = "http://localhost:3001/tabela/search";
 
-    // const [isVisible, setIsVisible] = useState(false);
-    const [openSubmenuIds, setOpenSubmenuIds] = useState([]);
-    const [selectedResults, setSelectedResults] = useState([]);
     const [minCoef, setminCoef] = useState(null);
     const [maxCoef, setmaxCoef] = useState(null);
+    const [buttons, setButton] = useState([]);
+    const [refsResults, setRefsResults] = useState([]);
 
     useEffect(() => {
-        console.log('openSubmenuIds atualizado:', openSubmenuIds);
-    }, [openSubmenuIds]);
+        console.log('buttons atualizado:', buttons);
+        console.log('buttons lenght', buttons.length)
+    }, [buttons]);
 
-    useEffect(() => {
-        console.log('selectedResults atualizado:', selectedResults);
-    }, [selectedResults]);
+    // const retrieveRefs = (id, level) => {
 
-    // const toggleDropdown = (resultId) => {
-    //     setSelectedResults([resultId]); // Define o resultado clicado como o único resultado selecionado
-    //     setIsVisible(!isVisible); // Alterna a visibilidade apenas do submenu associado ao resultado clicado
+    //     axios.get(`${baseURL}/${id}`).then((response) => {
+    //         console.log(JSON.stringify(response.data));
+    //         setRefsResults(response.data);
+    
+    //         // Move o forEach para dentro da promessa axios
+    //         response.data.forEach(element => {
+    //             console.log('ele', element);
+    //             renderTabela(element, level + 1, toggleDropdown, retrieveRefs, buttons)
+    //         });
+    //     });
     // };
 
     const toggleDropdown = (event, item, level) => {
         console.log("NOVO CLIQUE");
-        // console.log("item", item);
-        // console.log("event", event.target)
-        // console.log("next element", event.target.nextSibling);
-        // console.log("level", level);
+        console.log("item", item);
+        console.log("event", event.target)
+        console.log("next element", event.target.nextSibling);
+        console.log("level", level);
 
         const nextSiblingElement = event.target.nextElementSibling;
         const parent = event.target.parentNode.parentNode.parentNode.parentNode;
-        // console.log('parent', parent)
+        console.log('parent', parent)
 
+        // Se o dropdown estiver fechado, abre-se
         if (nextSiblingElement.classList.contains('hidden')) {
+
             // Se tiver valor, acrescentar à lista de resultados clicados
             if (item.valor) {
-                // Verificar se já existe algum "irmão" (só muda o último número do id) já presente no array
-                const itemBaseId = item.id.substring(0, item.id.lastIndexOf('.', item.id.lastIndexOf('.') - 1)); // Obtém a parte do id antes do penúltimo ponto
-                let i = 0;
-                while (i < selectedResults.length) {
-                    const button = selectedResults[i];
-                    const buttonBaseId = button.id.substring(0, button.id.lastIndexOf('.', button.id.lastIndexOf('.') - 1)); // Obtém a parte do id do botão antes do penúltimo ponto
-                    
-                    // Verifica se o id base do botão atual é o mesmo que o id base do item
-                    if (buttonBaseId === itemBaseId) {
-                        // Remove o botão se for encontrado um "irmão" com o mesmo id base
-                        selectedResults.splice(i, 1);
+                console.log('sou um botão com valor')
 
-                        // Remove da lista de indices abertos
-                        setOpenSubmenuIds(prevIds => prevIds.filter(id => id !== button.id));
+                // Filtrando o array buttons uma vez antes do loop
+                const filteredButtons = buttons.filter(item => item.hasOwnProperty('min'));
+                console.log('filteredbuttons', filteredButtons)
 
-                        // Fecha o dropdown do botão correspondente
-                        let siblingToDelete;
+                // Verificando se há botões a serem removidos
+                if (filteredButtons.length > 0) {
+                    const itemBaseId = item.id.substring(0, item.id.lastIndexOf('.', item.id.lastIndexOf('.') - 1)); // Obtém a parte do id antes do penúltimo ponto
+                    console.log('itembaseid', itemBaseId);
 
-                        // procura o elemento do botão a eliminar e de seguida procura o dropdown para fechar
-                        parent.querySelectorAll('.dropbtn').forEach(element => {
-                            if (element.innerHTML.includes(button.id)) {
-                                siblingToDelete = element;
-                            }
-                        });
+                    // Criando uma cópia do array de botões para posterior atualização do estado
+                    let updatedButtons = [...buttons];
 
-                        // console.log('siblingtodelete', siblingToDelete.nextElementSibling);
-                        siblingToDelete.nextElementSibling.classList.remove('visible');
-                        siblingToDelete.nextElementSibling.classList.add('hidden');
-                    } else {
-                        // Apenas incrementa o contador se nenhum botão for removido
-                        i++;
+                    // Iterando sobre os botões filtrados
+                    for (let i = 0; i < filteredButtons.length; i++) {
+                        const button = filteredButtons[i];
+                        const buttonBaseId = button.id.substring(0, button.id.lastIndexOf('.', button.id.lastIndexOf('.') - 1)); // Obtém a parte do id do botão antes do penúltimo ponto
+                        console.log('buttonbaseid', buttonBaseId);
+
+                        // Verificando se o id base do botão atual é o mesmo que o id base do item
+                        if (buttonBaseId === itemBaseId) {
+                            console.log('ESTOU A REMVOER este', button)
+                            // Removendo o botão do array atualizado
+                            updatedButtons = updatedButtons.filter(btn => btn.id !== button.id);
+                            console.log('updated buttons', updatedButtons);
+
+                            // Fechando o dropdown do botão correspondente
+                            let siblingToDelete;
+                            parent.querySelectorAll('.dropbtn').forEach(element => {
+                                if (element.innerHTML.includes(button.desc)) {
+                                    siblingToDelete = element;
+                                }
+                            });
+
+                            console.log('sibling to delete', siblingToDelete);
+                            console.log('sibling to delete next element', siblingToDelete.nextElementSibling);
+
+                            siblingToDelete.style.removeProperty('background-color');
+                            siblingToDelete.nextElementSibling.classList.remove('visible');
+                            siblingToDelete.nextElementSibling.classList.add('hidden');
+                        }
                     }
+
+                    // Atualizando o estado com o novo array de botões
+                    setButton(updatedButtons);
                 }
 
-                // Adiciona o novo item
-                setSelectedResults(prevInfo => {
-                    const {minCoef, maxCoef} = calculateCoefs(item.valor);
-                    return [...prevInfo, { desc: item.desc, valor: item.valor, id: item.id, min: minCoef, max: maxCoef}];
+                const {minCoef, maxCoef} = calculateCoefs(item.valor);
+                setButton (prevInfo => {
+                    return [...prevInfo, { id: item.id, desc: item.desc, min: minCoef, max: maxCoef, slider: minCoef}];
                 });
 
-                setOpenSubmenuIds(prevIds => {
-                    return [...prevIds, item.id]; // Adiciona o id do item
-                });
+                
+            } else if (item.refs) {
+                
+                axios.get(`${baseURL}/${item.refs[0]}`).then((response) => {
+                    console.log(JSON.stringify(response.data));
+                    setRefsResults(response.data);
             
-                // Remove-se a classe "hidden" e adiciona-se a classe "visible" para mostrar o dropdown
-                nextSiblingElement.classList.remove('hidden');
-                nextSiblingElement.classList.add('visible');
+                    response.data.forEach(element => {
+                        console.log('ele', element);
+                        renderTabela(element, level, toggleDropdown, buttons)
+                    });
+                });
 
             } else {
 
-                setOpenSubmenuIds(prevIds => {
-                    return [...prevIds, item.id]; // Adiciona o id do item
+                setButton (prevInfo => {
+                    return [...prevInfo, { id: item.id, desc: item.desc }];
                 });
-            
-                // Remove-se a classe "hidden" e adiciona-se a classe "visible" para mostrar o dropdown
-                nextSiblingElement.classList.remove('hidden');
-                nextSiblingElement.classList.add('visible');
+
             }
-        }
-        else {
-            // Se o dropdown estiver visível, fecha-se
-            setOpenSubmenuIds(prevIds => {
+
+            event.target.style.setProperty('background-color', 'var(--btn-bg-active)', 'important');
+            // Remove-se a classe "hidden" e adiciona-se a classe "visible" para mostrar o dropdown
+            nextSiblingElement.classList.remove('hidden');
+            nextSiblingElement.classList.add('visible');
+            
+        // Se o dropdown estiver aberto, fecha-se
+        } else {
+            console.log('estou a remover este', item)
+
+            // Remove-se da lista
+            setButton(prevIds => {
                 // Mantém todos os ids que sejam diferente do item.id
-                const newIds = prevIds.filter(id => id !== item.id);
-                console.log("newIds fechado:", newIds);
+                const newIds = prevIds.filter(id => id.id !== item.id);
                 return newIds;
             });
+            
             // Remove-se a classe "visible" e adiciona-se a classe "hidden" para ocultar o dropdown
             nextSiblingElement.classList.remove('visible');
             nextSiblingElement.classList.add('hidden');
-
-            // Se fechar um resultado clicado c/ valor, retira-se da lista
-            if (item.valor) {
-                const indexToRemove = selectedResults.findIndex(button => button.id === item.id);
-                if (indexToRemove !== -1) {
-                    // Remove o botão da lista selectedResults se estiver presente
-                    setSelectedResults(prevInfo => {
-                        const newInfo = [...prevInfo];
-                        newInfo.splice(indexToRemove, 1);
-                        return newInfo;
-                    });
-                }
-
-            }
+            event.target.style.removeProperty('background-color');
 
         }
 
@@ -195,6 +209,17 @@ function Avaliacao () {
         } catch (error) {
             console.error('Error fetching search results:', error);
         }
+    };
+
+
+    const handleSliderValue = (sliderId) => (event, newValue) => {
+        // Verifica se já existe um objeto com o mesmo id no array
+        const existingIndex = buttons.findIndex(item => item.id === sliderId);
+    
+        const updatedSliderValues = [...buttons];
+        updatedSliderValues[existingIndex]['slider'] = newValue
+        setButton(updatedSliderValues);
+
     };
 
     // Função para formatar o rótulo do valor
@@ -237,7 +262,7 @@ function Avaliacao () {
                         ) : searchResults.length > 0 ? (
                             searchResults.map((item, index) => (
                             <div key={index}>
-                                {renderTabela(item, 1, toggleDropdown, openSubmenuIds)}
+                                {renderTabela(item, 1, toggleDropdown, buttons)}
                                 <hr />
                             </div>
                             ))
@@ -251,13 +276,13 @@ function Avaliacao () {
             <div id="selectedResults" className="selected">
                 <div className="container">
                     <div className="row">
-                        {selectedResults && selectedResults.length > 0 && (
+                        {buttons && buttons.filter(item => item.hasOwnProperty('min')).length > 0 && (
                             <div>
                                 <h5>Resultados selecionados</h5>
-                                {selectedResults.map((item, index) => (
-                                    <div key={index}>
+                                <div className="underline-1"></div>
+                                {buttons.filter(item => item.hasOwnProperty('min')).map((item, index) => (
+                                    <div key={index} className="result-row">
                                         <p>{item.desc}</p>
-                                        <p>Coeficiente: {item.valor}</p>
                                         <Box sx={{ width: 300 }}>
                                             <Slider
                                                 aria-label="Valores restritos"
@@ -265,17 +290,16 @@ function Avaliacao () {
                                                 valueLabelFormat={valueLabelFormat}
                                                 getAriaValueText={valuetext}
                                                 step={0.01}
-                                                valueLabelDisplay="auto"
+                                                valueLabelDisplay="on"
                                                 marks={[
                                                     { value: item.min, label: item.min.toString() },
                                                     { value: item.max, label: item.max.toString() }
                                                 ]}
                                                 min={item.min}
                                                 max={item.max}
+                                                onChange={handleSliderValue(item.id)}
                                             />
                                         </Box>
-
-                                        <hr></hr>
                                     </div>
                                 ))}
                             </div>
@@ -283,6 +307,23 @@ function Avaliacao () {
                     </div>
                 </div>
             </div>
+
+            <div id="totalResult" className="total">
+                <div className="container">
+                    <div className="row">
+                        {buttons && buttons.filter(item => item.hasOwnProperty('min')).length > 0 && (
+                            <div>
+                                <h5>Total</h5>
+                                    <p>
+                                    {buttons.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) < 1 ?
+                                    buttons.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) : '1.00'}
+                                    </p>
+                            </div>
+                        )}
+                    </div>
+                </div>
+            </div>
+
             
            
 

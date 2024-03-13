@@ -15,8 +15,8 @@ import { useNavigate } from "react-router-dom";
 function NewHomePage() {
     let navigate = useNavigate();
 
-    const navTabela = async () => navigate("/tabela");
-    const navCalculo = async () => navigate("/avaliacao")
+    const navTabela = async () => { navigate("/tabela"); window.scrollTo(0, 0);}
+    const navCalculo = async () => { navigate("/avaliacao"); window.scrollTo(0, 0);}
 
     return (
         <div>

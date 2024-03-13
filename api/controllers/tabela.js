@@ -1,22 +1,39 @@
 let TabelaSchema = require('../models/tabela');
 
 function searchById(tabelas, targetId) {
-  const result = [];
+  let result = [];
   for (let i = 0; i < tabelas.length; i++) {
-    const data = tabelas[i].Tabela;
+    let data = tabelas[i].Tabela;
 
     for (const key in data) {
       if (data[key].id === targetId || data[key].desc.toLowerCase().includes(targetId)) {
         result.push(data[key]);
+        continue;
       }
+      // Se já tiver pai, não vai aos filhos
       if (data[key].sub) {
         if (result.length === 0) {
-          const subResult = searchById([{ Tabela: data[key].sub }], targetId);
+          let subResult = searchById([{ Tabela: data[key].sub }], targetId);
           result.push(...subResult);
         }
       }
     }
   }
+
+  // for (const key in data){
+  //   // Se tiver refs
+  //   if (data[key].refs && !data[key].sub) {
+  //     data[key]['sub'] = [];
+  //     console.log('data key id', data[key].id);
+  //     data[key].refs.forEach(element => {
+  //       console.log('element', element);
+  //       let refElement = searchById(TabelaSchema.find({}),element);
+  //       if (refElement) {
+  //         data[key]['sub'].push(refElement);
+  //       }
+  //     });
+  //   }
+  // }
   return result;
 }
 
