@@ -17,8 +17,8 @@ function renderTabela(tabela, level, toggleDropdown, buttons) {
                     {tabela['desc']}
                 </Button>
                 <div className={`dropdown-content submenu ${buttons[level] === tabela.id ? 'visible' : 'hidden'}`}>
-                    {tabela['nota'] ? <a>Nota: {tabela['nota']}</a> : null}
-                    {tabela['valor'] ? <a>Valor: {tabela['valor']}</a> : null}
+                    {tabela['nota'] ? <div>Nota: {tabela['nota']}</div> : null}
+                    {tabela['valor'] ? <div>Valor: {tabela['valor']}</div> : null}
                     {/* {tabela['refs'] ? <div>{retrieveRefs(tabela)}</div> : null} */}
                     {tabela.sub ? (tabela.sub.map((subData) => (
                         <a key={subData.id}>
@@ -36,12 +36,32 @@ function calculateCoefs(valor) {
     let coefs, minCoef, maxCoef;
     if (valor.includes('-')) {
         coefs = valor.split('-');
-        minCoef = parseFloat(coefs[0].replace(',', '.'));
-        maxCoef = parseFloat(coefs[1].replace(',', '.'));
+        for (let i = 0; i < coefs.length; i++) {
+            if (coefs[i] >= 1) {
+                coefs[i] = coefs[i] / 100;
+            }
+        }
+        console.log('coefs', coefs)
+        if (String(coefs[0]).includes(',') && String(coefs[1]).includes(',')) {
+            minCoef = parseFloat(coefs[0].replace(',', '.'));
+            maxCoef = parseFloat(coefs[1].replace(',', '.'));
+        } else {
+            minCoef = parseFloat(coefs[0]);
+            maxCoef = parseFloat(coefs[1]);
+        }
     } else {
         coefs = [valor];
-        minCoef = parseFloat(coefs[0].replace(',', '.'));
-        maxCoef = parseFloat(coefs[0].replace(',', '.'));
+        if (coefs[0] >= 1) {
+           coefs[0] = coefs[0] / 100
+        } 
+        if (String(coefs[0]).includes(',')) {
+            minCoef = parseFloat(coefs[0].replace(',', '.'));
+            maxCoef = parseFloat(coefs[0].replace(',', '.'));
+        } else {
+            minCoef = parseFloat(coefs[0]);
+            maxCoef = parseFloat(coefs[0]);
+        }
+
     }
 
     return { minCoef, maxCoef };
@@ -132,6 +152,11 @@ function Avaliacao () {
                             siblingToDelete.style.removeProperty('background-color');
                             siblingToDelete.nextElementSibling.classList.remove('visible');
                             siblingToDelete.nextElementSibling.classList.add('hidden');
+
+                            var larguraAtual = parseInt(siblingToDelete.nextElementSibling.style.width);
+                            var novaLargura = larguraAtual - 50; // Diminui a largura em 10 pixels
+
+                            siblingToDelete.nextElementSibling.style.width = novaLargura + "px"; // Define a nova largura
                         }
                     }
 
@@ -145,18 +170,19 @@ function Avaliacao () {
                 });
 
                 
-            } else if (item.refs) {
+            // } else if (item.refs) {
                 
-                axios.get(`${baseURL}/${item.refs[0]}`).then((response) => {
-                    console.log(JSON.stringify(response.data));
-                    setRefsResults(response.data);
+            //     axios.get(`${baseURL}/${item.refs[0]}`).then((response) => {
+            //         console.log(JSON.stringify(response.data));
+            //         setRefsResults(response.data);
             
-                    response.data.forEach(element => {
-                        console.log('ele', element);
-                        renderTabela(element, level, toggleDropdown, buttons)
-                    });
-                });
+            //         response.data.forEach(element => {
+            //             console.log('ele', element);
+            //             renderTabela(element, level, toggleDropdown, buttons)
+            //         });
+            //     });
 
+            // } 
             } else {
 
                 setButton (prevInfo => {
@@ -165,10 +191,15 @@ function Avaliacao () {
 
             }
 
-            event.target.style.setProperty('background-color', 'var(--btn-bg-active)', 'important');
             // Remove-se a classe "hidden" e adiciona-se a classe "visible" para mostrar o dropdown
             nextSiblingElement.classList.remove('hidden');
             nextSiblingElement.classList.add('visible');
+            event.target.style.setProperty('background-color', 'var(--btn-bg-active)', 'important');
+
+            // Atualiza a largura
+            nextSiblingElement.style.width = (100 - level * 2) + '%' 
+            nextSiblingElement.style.marginLeft = 'auto'
+            nextSiblingElement.style.marginRight = 'auto'
             
         // Se o dropdown estiver aberto, fecha-se
         } else {
@@ -180,13 +211,43 @@ function Avaliacao () {
                 const newIds = prevIds.filter(id => id.id !== item.id);
                 return newIds;
             });
+
+            // Remove-se of filhos da lista 
+            buttons.forEach(element => {
+                if (element.id.includes(item.id)) {
+                    setButton(prevIds => {
+                        // Mantém todos os ids que sejam diferente do item.id
+                        const newIds = prevIds.filter(id => id.id !== element.id);
+                        return newIds;
+                    });
+                }
+            });
             
             // Remove-se a classe "visible" e adiciona-se a classe "hidden" para ocultar o dropdown
+
+            // Para os filhos
+            let sonToDelete = [];
+            event.target.nextElementSibling.querySelectorAll('.dropbtn').forEach(element => {
+                sonToDelete.push(element.nextElementSibling);
+            });
+
+
+            sonToDelete.forEach(element => {
+                if (element.classList.contains('visible')) {
+                    // console.log('son to delete', element)
+                    // console.log('son parent', element.parentElement.querySelector('.dropbtn'))
+                    element.parentElement.querySelector('.dropbtn').style.removeProperty('background-color');
+                    element.classList.remove('visible');
+                    element.classList.add('hidden');
+                }
+            });
+
+
+            // Para o 'pai'
             nextSiblingElement.classList.remove('visible');
             nextSiblingElement.classList.add('hidden');
             event.target.style.removeProperty('background-color');
-
-        }
+}
 
     };
     
