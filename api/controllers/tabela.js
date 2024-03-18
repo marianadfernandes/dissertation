@@ -56,10 +56,6 @@ function searchById(tabelas, targetId) {
       }
     }
   }
-  
-  if (result.length > 0) {
-    removeRefs(result, tabelas)
-  }
 
   return result;
 }
@@ -98,12 +94,14 @@ module.exports.listTabela = async () => {
   };
 
 module.exports.findTabelaByID = async (targetId) => {
+  let noRefsResult;
   try {
     let tabela = await TabelaSchema.find({});
     if (tabela) {
       result = searchById(tabela, targetId);
       if (result) {
-          return { exists: true, response: result };
+          noRefsResult = removeRefs(result, tabela)
+          return { exists: true, response: noRefsResult };
         }
       }
     return { exists: false, response: null };

@@ -500,6 +500,7 @@ footer {
 
 .dropdown-content {
     display: none;
+    background-color: transparent !important;
 }
 
 .search-bar {

@@ -18,6 +18,7 @@ function renderTabela(tabela, level, toggleDropdown, buttons) {
                 </Button>
                 <div className={`dropdown-content submenu ${buttons[level] === tabela.id ? 'visible' : 'hidden'}`}>
                     {tabela['nota'] ? <div>Nota: {tabela['nota']}</div> : null}
+                    {tabela['cod'] ? <div>Código: {tabela['cod']}</div> : null}
                     {tabela['valor'] ? <div>Valor: {tabela['valor']}</div> : null}
                     {/* {tabela['refs'] ? <div>{retrieveRefs(tabela)}</div> : null} */}
                     {tabela.sub ? (tabela.sub.map((subData) => (
@@ -254,23 +255,39 @@ function Avaliacao () {
     const [searchText, setSearchText] = useState('');
     const [searchResults, setSearchResults] = useState([]);
 
-
-    const handleSearchChange = async (e) => {
-
-        const searchText = e.target.value;
-        setSearchText(searchText);
-
-        try {
-            if (searchText) {
-                axios.get(`${baseURL}/${searchText}`).then((response) => {
-                console.log(JSON.stringify(response.data));
+    useEffect(() => {
+        const fetchData = async () => {
+            try {
+                const response = await axios.get(`${baseURL}/${searchText}`);
                 setSearchResults(response.data);
-                });
+            } catch (error) {
+                console.error('Error fetching search results:', error);
             }
-        } catch (error) {
-            console.error('Error fetching search results:', error);
+        };
+
+        if (searchText.trim() !== '') {
+            fetchData();
+        } else {
+            setSearchResults([]); // Limpar resultados se a pesquisa estiver vazia
         }
+    }, [searchText]);
+
+    const handleSearchChange = (e) => {
+        setSearchText(e.target.value);
     };
+
+    const handleSubmit = async (e) => {
+        e.preventDefault(); 
+        // try {
+        //     if (searchText && searchText.length > 3) {
+        //         const response = axios.get(`${baseURL}/${searchText}`);
+        //         setSearchResults(response.data);
+        //     }
+        // } catch (error) {
+        //     console.error('Error fetching search results:', error);
+        // }
+    };
+
 
 
     const handleSliderValue = (sliderId) => (event, newValue) => {
@@ -301,13 +318,13 @@ function Avaliacao () {
                 <div className="container">
                     <div className="row">
                         <nav className="navbar navbar-light bg-light">
-                            <form className="form-inline">
+                            <form className="form-inline" onSubmit={handleSubmit} onChange={handleSubmit}>
                                 <input className="form-control mr-lg-2" 
                                         type="search" 
                                         placeholder="Pesquisa..." 
                                         aria-label="Search" 
                                         value={searchText} 
-                                        onChange={handleSearchChange} />
+                                        onChange={handleSearchChange}/>
                                 <button className="btn-2" type="submit">Search</button>
                             </form>
                         </nav>  
@@ -318,7 +335,7 @@ function Avaliacao () {
             <div id="searchResults" className="results">
                 <div className="container">
                     <div className="row">
-                        {!searchText ? (
+                        {!searchText || searchText.length < 4 ? (
                             null
                         ) : searchResults.length > 0 ? (
                             searchResults.map((item, index) => (
