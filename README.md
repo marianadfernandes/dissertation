@@ -11,7 +11,7 @@
 - Models:
 	- **tabela.js** - schema das tabelas presentes na base de dados.
 - Controllers:
-	- **tabela.js** - funções para listar o conteúdo da tabela e para procurar na tabela por id.
+	- **tabela.js** - funções para listar o conteúdo da tabela, substuituir as referências pelo valor correspondente e para procurar na tabela por id.
 
 ### Frontend
 - Desenvolvido em React.js.
@@ -22,8 +22,9 @@
 		- <u>Regras de funcionamento:</u>
 			- Botões que tenham valor (botão presente numa camada final) e que estejam com submenu aberto encontram-se selecionados.
 			- Não pode haver mais que um elemento da mesma camada final selecionado. 
-			- Alguns botões da camada final podem conter referência em vez de valor. Se for referência única com correspondência a (intervalo de) valor único, irá ser procurado o valor correspondente à mesma. 
-			- Por baixo dos resultados, encontram-se informações sobre os botões que estão selecionados.  
+			- Alguns botões da camada final podem conter referência em vez de valor. Se for referência única com correspondência a (intervalo de) valor(es), irá ser procurado o valor correspondente à(s) mesma(s). 
+			- Por baixo dos resultados, encontram-se informações sobre os botões que estão selecionados. Cada seleção, tem associada um slider com valores mínimos e máximos correspondentes ao intervalo de valor respetivo. É possível escolher um valor nesse intervalor. 
+			- No canto inferior direito, vê-se uma caixa com a soma dos coeficientes selecionados (menor ou igual 1).
 - Componentes:
 	- **header.js** - header de todas as páginas da aplicação, com barra de navegação.
 	- **footer.js** - footer de todas as páginas da aplicação.
