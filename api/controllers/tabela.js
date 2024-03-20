@@ -31,75 +31,6 @@ let TabelaSchema = require('../models/tabela');
 //   return result;
 // }
 
-function searchById(tabela, targetId) {
-  // let results = []
-
-  let ids = targetId.split('.').filter(id => id !== '');
-  ids = ids.map(id => parseInt(id) - 1);
-  // ids.unshift(i);
-  console.log('ids', ids)
-
-  let tempResult = tabela;
-  for (let j = 0; j < ids.length; j++) {
-    const index = parseInt(ids[j]);
-    // if (j === 0) {
-    //   tempResult = tempResult[index]['Tabela'];
-    //   console.log('nivel 1', tempResult)
-    // } else 
-    if (j < ids.length - 1) {
-      // console.log('temp result index', j, tempResult[index])
-      tempResult = tempResult[index]['sub'];
-      console.log('nivel intermedio', tempResult)
-    } else {
-      tempResult = tempResult[index];
-      console.log('nivel ultimo', tempResult)
-
-    }
-    if (!tempResult) break;
-  }
-
-  // console.log('temp result', tempResult);
-
-  // if (tempResult) {
-  //   results.push(tempResult);
-  // }
-
-  return tempResult;
-}
-
-function searchByText(tabelas, targetId) {
-  let results = [];
-
-  for (let i = 0; i < tabelas.length; i++) {
-    let data = tabelas[i].Tabela;
-    // let result = []; // Definir result dentro do loop para criar uma nova instância em cada iteração
-
-    if (targetId.match(/^\d+(\.\d+)*\.$/)) {
-      
-      console.log('match do id')
-      if (searchById(data, targetId, i)) {
-        results.push(searchById(data, targetId));
-      }
-      
-    } else {
-      for (const key in data) {
-        let item = data[key];
-        if (item.desc && item.desc.toLowerCase().includes(targetId)) {
-          results.push(item);
-        } else if (item.sub) {
-          let subResults = searchByText([{'Tabela' : item.sub}], targetId);
-          if (subResults && subResults.length > 0) {
-            results.push(...subResults);
-          }
-        } 
-      }
-    }
-  }
-
-  results = removeRefs(results, tabelas[0].Tabela)
-
-  return results;
-}
 
 
 // function searchById(tabelas, targetId) {
@@ -145,7 +76,69 @@ function searchByText(tabelas, targetId) {
 //   return result;
 // }
 
+function searchById(tabela, targetId) {
+  let results = [];
+
+  for (let i = 0; i < tabela.length; i++) {
+    // Separar o id por pontos
+    let ids = targetId.split('.').filter(id => id !== '');
+    // Retirar 1 a cada valor
+    ids = ids.map(id => parseInt(id) - 1);
+    // Acrescentar o número da tabela
+    ids.unshift(i);
+    console.log('ids', ids)
+
+    // Percorrer os ids 
+    let tempResult = tabela;
+    for (let j = 0; j < ids.length; j++) {
+      const index = parseInt(ids[j]);
+      if (j === 0) {
+        tempResult = tempResult[index]['Tabela'];
+        console.log('nivel 1', tempResult)
+      } else if (j < ids.length - 1) {
+        if (!tempResult[index] || !tempResult[index]['sub']) {
+          break; // Se não houver 'sub', retornar null imediatamente
+        }
+        tempResult = tempResult[index]['sub'];
+        console.log('nivel intermédio', tempResult)
+      } else {
+        tempResult = tempResult[index];
+        console.log('nivel ultimo', tempResult)
+      }
+      if (!tempResult) break;
+    }
+    if (tempResult) {
+      results.push(tempResult);
+    }
+  }
+
+  console.log('RESULTS', results);
+  return results;
+}
+
+function searchByText(tabelas, targetId) {
+  let results = [];
+
+  for (let i = 0; i < tabelas.length; i++) {
+    let data = tabelas[i].Tabela;
+    for (const key in data) {
+      let item = data[key];
+      if (item.desc && item.desc.toLowerCase().includes(targetId)) {
+        results.push(item);
+      } else if (item.sub) {
+        let subResults = searchByText([{'Tabela' : item.sub}], targetId);
+        if (subResults && subResults.length > 0) {
+          results.push(...subResults);
+        }
+      } 
+    }
+  }
+
+  return results;
+}
+
 function removeRefs(result, data) {
+  console.log('COMEÇA REMOVE REFS')
   let newResult = [...result];
   // console.log('data refs', data)
 
@@ -157,7 +150,7 @@ function removeRefs(result, data) {
       item.refs.forEach(element => {
         if (/^[0-9.]+$/.test(element)) {
           console.log('element', element)
-          let newSub = searchById(data, element);
+          let newSub = searchById([{'Tabela' : data}], element);
           // console.log('newsub', newSub)
           if (newSub) {
             console.log('newsub', newSub)
@@ -167,7 +160,7 @@ function removeRefs(result, data) {
       });
       console.log('subarray', subArray)
       if (subArray.length > 0) {
-        item.sub = subArray;
+        item.sub = subArray.flatMap(sub => sub);
         delete item.refs
       }
       
@@ -200,10 +193,14 @@ module.exports.findTabelaByID = async (targetId) => {
   try {
     let tabela = await TabelaSchema.find({});
     if (tabela) {
-      result = searchByText(tabela, targetId);
+      if (targetId.match(/^\d+(\.\d+)*\.$/)) {
+        result = searchById(tabela, targetId);
+      } else {
+        result = searchByText(tabela, targetId);
+      }
       if (result) {
-          // noRefsResult = removeRefs(result, tabela)
-          return { exists: true, response: result };
+          noRefsResult = removeRefs(result, tabela[0].Tabela);
+          return { exists: true, response: noRefsResult };
         }
       }
     return { exists: false, response: null };

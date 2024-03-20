@@ -265,7 +265,7 @@ function Avaliacao () {
             }
         };
 
-        if (searchText.trim() !== '') {
+        if (searchText.trim().length >= 4) {
             fetchData();
         } else {
             setSearchResults([]); // Limpar resultados se a pesquisa estiver vazia
