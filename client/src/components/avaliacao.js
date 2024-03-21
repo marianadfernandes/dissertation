@@ -4,6 +4,10 @@ import axios from "axios";
 import Box from '@mui/material/Box';
 import Slider from '@mui/material/Slider';
 import Button from "@mui/material/Button";
+import IconButton from '@mui/material/IconButton';
+import DeleteIcon from '@mui/icons-material/Delete';
+import Stack from '@mui/material/Stack';
+
 
 import Header from "./header";
 import Footer from "./footer";
@@ -310,6 +314,30 @@ function Avaliacao () {
         return `${value}`;
     };
 
+    const handleDelete = (itemId) => (event) => {
+        const existingIndex = buttons.findIndex(item => item.id === itemId);
+
+        const desc = buttons[existingIndex].desc;
+        const targetElements = document.querySelectorAll(`.dropdown-levels .dropdown .dropbtn`);
+        let targetButton = null;
+        targetElements.forEach(button => {
+            if (button.textContent.trim() === desc) {
+                targetButton = button;
+                return;
+            }
+        })
+       
+        targetButton.nextSibling.classList.remove('visible');
+        targetButton.nextSibling.classList.add('hidden');
+        targetButton.style.removeProperty('background-color');
+        if (existingIndex !== -1) {
+            const newButtons = [...buttons]; // Crie uma nova cópia da lista de botões
+            newButtons.splice(existingIndex, 1); // Remova o botão da nova lista
+            setButton(newButtons); // Atualize o estado com a nova lista
+        }
+
+    }
+
     return (
         <div>
             <Header />
@@ -378,6 +406,9 @@ function Avaliacao () {
                                                 onChange={handleSliderValue(item.id)}
                                             />
                                         </Box>
+                                        <IconButton aria-label="delete" onClick={handleDelete(item.id)} >
+                                            <DeleteIcon />
+                                        </IconButton>
                                     </div>
                                 ))}
                             </div>

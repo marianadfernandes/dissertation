@@ -565,7 +565,10 @@ display: none;
 
 .result-row .MuiBox-root {
     padding-top: 35px;
-    padding-right: 25px;
+}
+
+.result-row .MuiButtonBase-root {
+    padding-right: 30px;
 }
 
 .total .container .row div {
