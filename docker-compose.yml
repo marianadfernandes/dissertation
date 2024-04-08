@@ -1,0 +1,24 @@
+version: "3.8"
+services: 
+  frontend: 
+    build: ./client
+    ports: 
+      - 3000:3000
+    depends_on:
+      - backend
+  backend:
+    build: ./api
+    ports:
+      - 3001:3001
+    environment:
+      DB_URL: mongodb://db/projeto
+    depends_on:
+      - db
+  db:
+    image: mongo:latest
+    ports: 
+      - 9000:27017
+    volumes:
+      - projeto:/data/db
+volumes:
+  projeto: 
