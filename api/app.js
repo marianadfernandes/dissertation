@@ -14,7 +14,6 @@ var tabelaRouter = require('./routes/tabela');
 const mongoose = require("mongoose");
 const uri = "mongodb://db:27017/projeto"; //docker-compose
 // const uri = "mongodb://localhost:9000/projeto";
-// const uri = "mongodb+srv://admin:L6M0ZpiO1MgPP4dc@cluster0.bswvyry.mongodb.net/projeto?retryWrites=true&w=majority";
 
 const app = express();
 
