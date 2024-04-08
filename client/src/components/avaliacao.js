@@ -6,7 +6,7 @@ import Slider from '@mui/material/Slider';
 import Button from "@mui/material/Button";
 import IconButton from '@mui/material/IconButton';
 import DeleteIcon from '@mui/icons-material/Delete';
-import Stack from '@mui/material/Stack';
+import CloseIcon from '@mui/icons-material/Close';
 
 
 import Header from "./header";
@@ -24,7 +24,6 @@ function renderTabela(tabela, level, toggleDropdown, buttons) {
                     {tabela['nota'] ? <div>Nota: {tabela['nota']}</div> : null}
                     {tabela['cod'] ? <div>Código: {tabela['cod']}</div> : null}
                     {tabela['valor'] ? <div>Valor: {tabela['valor']}</div> : null}
-                    {/* {tabela['refs'] ? <div>{retrieveRefs(tabela)}</div> : null} */}
                     {tabela.sub ? (tabela.sub.map((subData) => (
                         <a key={subData.id}>
                             {renderTabela(subData, level + 1, toggleDropdown, buttons)}
@@ -76,56 +75,31 @@ function Avaliacao () {
 
     const baseURL = "http://localhost:3001/tabela/search";
 
-    const [minCoef, setminCoef] = useState(null);
-    const [maxCoef, setmaxCoef] = useState(null);
     const [buttons, setButton] = useState([]);
-    const [refsResults, setRefsResults] = useState([]);
 
     useEffect(() => {
         console.log('buttons atualizado:', buttons);
         console.log('buttons lenght', buttons.length)
     }, [buttons]);
 
-    // const retrieveRefs = (id, level) => {
-
-    //     axios.get(`${baseURL}/${id}`).then((response) => {
-    //         console.log(JSON.stringify(response.data));
-    //         setRefsResults(response.data);
-    
-    //         // Move o forEach para dentro da promessa axios
-    //         response.data.forEach(element => {
-    //             console.log('ele', element);
-    //             renderTabela(element, level + 1, toggleDropdown, retrieveRefs, buttons)
-    //         });
-    //     });
-    // };
 
     const toggleDropdown = (event, item, level) => {
-        console.log("NOVO CLIQUE");
-        console.log("item", item);
-        console.log("event", event.target)
-        console.log("next element", event.target.nextSibling);
-        console.log("level", level);
 
         const nextSiblingElement = event.target.nextElementSibling;
         const parent = event.target.parentNode.parentNode.parentNode.parentNode;
-        console.log('parent', parent)
 
         // Se o dropdown estiver fechado, abre-se
         if (nextSiblingElement.classList.contains('hidden')) {
 
             // Se tiver valor, acrescentar à lista de resultados clicados
             if (item.valor) {
-                console.log('sou um botão com valor')
 
                 // Filtrando o array buttons uma vez antes do loop
                 const filteredButtons = buttons.filter(item => item.hasOwnProperty('min'));
-                console.log('filteredbuttons', filteredButtons)
 
                 // Verificando se há botões a serem removidos
                 if (filteredButtons.length > 0) {
                     const itemBaseId = item.id.substring(0, item.id.lastIndexOf('.', item.id.lastIndexOf('.') - 1)); // Obtém a parte do id antes do penúltimo ponto
-                    console.log('itembaseid', itemBaseId);
 
                     // Criando uma cópia do array de botões para posterior atualização do estado
                     let updatedButtons = [...buttons];
@@ -134,14 +108,12 @@ function Avaliacao () {
                     for (let i = 0; i < filteredButtons.length; i++) {
                         const button = filteredButtons[i];
                         const buttonBaseId = button.id.substring(0, button.id.lastIndexOf('.', button.id.lastIndexOf('.') - 1)); // Obtém a parte do id do botão antes do penúltimo ponto
-                        console.log('buttonbaseid', buttonBaseId);
 
                         // Verificando se o id base do botão atual é o mesmo que o id base do item
                         if (buttonBaseId === itemBaseId) {
-                            console.log('ESTOU A REMVOER este', button)
+
                             // Removendo o botão do array atualizado
                             updatedButtons = updatedButtons.filter(btn => btn.id !== button.id);
-                            console.log('updated buttons', updatedButtons);
 
                             // Fechando o dropdown do botão correspondente
                             let siblingToDelete;
@@ -151,15 +123,13 @@ function Avaliacao () {
                                 }
                             });
 
-                            console.log('sibling to delete', siblingToDelete);
-                            console.log('sibling to delete next element', siblingToDelete.nextElementSibling);
 
                             siblingToDelete.style.removeProperty('background-color');
                             siblingToDelete.nextElementSibling.classList.remove('visible');
                             siblingToDelete.nextElementSibling.classList.add('hidden');
 
                             var larguraAtual = parseInt(siblingToDelete.nextElementSibling.style.width);
-                            var novaLargura = larguraAtual - 50; // Diminui a largura em 10 pixels
+                            var novaLargura = larguraAtual - 50; // Diminui a largura
 
                             siblingToDelete.nextElementSibling.style.width = novaLargura + "px"; // Define a nova largura
                         }
@@ -174,20 +144,6 @@ function Avaliacao () {
                     return [...prevInfo, { id: item.id, desc: item.desc, min: minCoef, max: maxCoef, slider: minCoef}];
                 });
 
-                
-            // } else if (item.refs) {
-                
-            //     axios.get(`${baseURL}/${item.refs[0]}`).then((response) => {
-            //         console.log(JSON.stringify(response.data));
-            //         setRefsResults(response.data);
-            
-            //         response.data.forEach(element => {
-            //             console.log('ele', element);
-            //             renderTabela(element, level, toggleDropdown, buttons)
-            //         });
-            //     });
-
-            // } 
             } else {
 
                 setButton (prevInfo => {
@@ -208,7 +164,6 @@ function Avaliacao () {
             
         // Se o dropdown estiver aberto, fecha-se
         } else {
-            console.log('estou a remover este', item)
 
             // Remove-se da lista
             setButton(prevIds => {
@@ -239,8 +194,6 @@ function Avaliacao () {
 
             sonToDelete.forEach(element => {
                 if (element.classList.contains('visible')) {
-                    // console.log('son to delete', element)
-                    // console.log('son parent', element.parentElement.querySelector('.dropbtn'))
                     element.parentElement.querySelector('.dropbtn').style.removeProperty('background-color');
                     element.classList.remove('visible');
                     element.classList.add('hidden');
@@ -259,20 +212,23 @@ function Avaliacao () {
     const [searchText, setSearchText] = useState('');
     const [searchResults, setSearchResults] = useState([]);
 
-    useEffect(() => {
-        const fetchData = async () => {
-            try {
-                const response = await axios.get(`${baseURL}/${searchText}`);
-                setSearchResults(response.data);
-            } catch (error) {
-                console.error('Error fetching search results:', error);
-            }
-        };
+    const fetchData = async () => {
+        console.log('fetching data')
+        try {
+            const response = await axios.get(`${baseURL}/${searchText}`);
+            console.log(response);
+            setSearchResults(response.data);
+            console.log(searchResults);
+        } catch (error) {
+            console.error('Error fetching search results:', error);
+        }
+    };
 
+    useEffect(() => {
         if (searchText.trim().length >= 4) {
             fetchData();
         } else {
-            setSearchResults([]); // Limpar resultados se a pesquisa estiver vazia
+            setSearchResults([]); 
         }
     }, [searchText]);
 
@@ -281,17 +237,15 @@ function Avaliacao () {
     };
 
     const handleSubmit = async (e) => {
-        e.preventDefault(); 
-        // try {
-        //     if (searchText && searchText.length > 3) {
-        //         const response = axios.get(`${baseURL}/${searchText}`);
-        //         setSearchResults(response.data);
-        //     }
-        // } catch (error) {
-        //     console.error('Error fetching search results:', error);
-        // }
+        if (searchText.length > 3) {
+            fetchData();
+        }
     };
 
+    const handleSearch = () => {
+        console.log('clique', searchText)
+        fetchData(); 
+    };
 
 
     const handleSliderValue = (sliderId) => (event, newValue) => {
@@ -327,14 +281,31 @@ function Avaliacao () {
             }
         })
        
-        targetButton.nextSibling.classList.remove('visible');
-        targetButton.nextSibling.classList.add('hidden');
-        targetButton.style.removeProperty('background-color');
-        if (existingIndex !== -1) {
-            const newButtons = [...buttons]; // Crie uma nova cópia da lista de botões
-            newButtons.splice(existingIndex, 1); // Remova o botão da nova lista
-            setButton(newButtons); // Atualize o estado com a nova lista
+        if (targetButton) { 
+            const nextSibling = targetButton.nextSibling;
+            if (nextSibling) { 
+                nextSibling.classList.remove('visible');
+                nextSibling.classList.add('hidden');
+            }
+            targetButton.style.removeProperty('background-color');
         }
+        if (existingIndex !== -1) {
+            const newButtons = [...buttons]; 
+            newButtons.splice(existingIndex, 1); 
+            setButton(newButtons);
+        }
+
+    }
+
+    const handleClose = () => {
+
+        const targetElements = document.querySelectorAll('.dropdown-content.submenu.visible');
+
+        targetElements.forEach(element => {
+            element.classList.remove('visible');
+            element.classList.add('hidden');
+            element.parentElement.querySelector('.dropbtn').style.removeProperty('background-color');
+        })
 
     }
 
@@ -353,7 +324,7 @@ function Avaliacao () {
                                         aria-label="Search" 
                                         value={searchText} 
                                         onChange={handleSearchChange}/>
-                                <button className="btn-2" type="submit">Search</button>
+                                <button className="btn-2" type="submit" onClick={handleSearch}>Search</button>
                             </form>
                         </nav>  
                     </div>
@@ -363,15 +334,20 @@ function Avaliacao () {
             <div id="searchResults" className="results">
                 <div className="container">
                     <div className="row">
-                        {!searchText || searchText.length < 4 ? (
+                        {!searchText && searchResults.length === 0 ? (
                             null
                         ) : searchResults.length > 0 ? (
-                            searchResults.map((item, index) => (
+                            <>
+                            <Button variant="outlined" className="closebnt" startIcon={<CloseIcon />} onClick={handleClose}>
+                                Close All
+                            </Button>
+                            {searchResults.map((item, index) => (
                             <div key={index}>
                                 {renderTabela(item, 1, toggleDropdown, buttons)}
                                 <hr />
                             </div>
-                            ))
+                            ))}
+                            </>
                         ) : (
                             <p>Não encontrado na tabela.</p>
                         )}

@@ -2,12 +2,6 @@ var express = require("express");
 var router = express.Router();
 var tabelaController = require("../controllers/tabela.js");
 
-// router.get("/listTabela", async (req, res) => {
-//     const tabelaResponse = await tabelaController.listTabela();
-//     console.log(tabelaResponse);
-//     res.status(200).json(tabelaResponse.response);
-//   });
-
 router.get("/listTabela", async (req, res) => {
   const tabelaResponse = await tabelaController.listTabela();
   console.log(tabelaResponse);

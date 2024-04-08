@@ -1,81 +1,5 @@
 let TabelaSchema = require('../models/tabela');
 
-// function searchById(tabelas, targetId) {
-//   let result = [];
-//   for (let i = 0; i < tabelas.length; i++) {
-//     let data = tabelas[i].Tabela;
-//     for (const key in data) {
-//       let item = data[key]
-//       if (item.id === targetId || item.desc.toLowerCase().includes(targetId)) {
-//         if (item.refs) {
-//           item.sub = []
-//           item.refs.forEach(element => {
-//             console.log('element', element)
-//             let newSub = searchById(tabelas, element.trim())
-//             if (newSub) {
-//               console.log('newSub', newSub)
-//             }
-//             item.sub.push(newSub)
-//           });
-//         }
-//         result.push(item)
-//         break;
-//       } else if (item.sub) {
-//         let subResults = searchById([{'Tabela' : item.sub}], targetId)
-//         result.push(...subResults)
-//       }
-
-//     }
-
-//   }
-//   return result;
-// }
-
-
-
-// function searchById(tabelas, targetId) {
-//   let result = [];
-//   console.log('targetid', targetId)
-//   for (let i = 0; i < tabelas.length; i++) {
-//     console.log('entrou primeiro for')
-//     let data = tabelas[i].Tabela;
-//     console.log('data', data)
-//     for (const key in data) {
-//       console.log('entrou segundo for')
-//       let item = data[key]
-//       console.log('item', item)
-//       if (targetId.match(/^[0-9.]+$/)) {
-//         console.log('deu match', targetId)
-//         if (targetId.includes(item.id)) {
-//           if (item.id === targetId) {
-//             console.log("Item encontrado id:", item);
-//             result.push(item)
-//           } else if (item.sub) {
-//             let subResults = searchById([{'Tabela' : item.sub}], targetId)
-//             console.log("Subresultados id:", subResults);
-//             result.push(...subResults)
-//           }
-//         }
-//       } else {
-//         if (item.desc.toLowerCase().includes(targetId)) {
-//           console.log("Item encontrado desc:", item);
-//           result.push(item)
-//         } else if (item.sub) {
-//           let subResults = searchById([{'Tabela' : item.sub}], targetId)
-//           console.log("Subresultados desc:", subResults);
-//           result.push(...subResults)
-//         }
-//       }
-//     }
-
-//     if (result.length > 0) {
-//       result = removeRefs(result, data);
-//     }
-//   }
-
-//   return result;
-// }
-
 function searchById(tabela, targetId) {
   let results = [];
 
@@ -86,7 +10,6 @@ function searchById(tabela, targetId) {
     ids = ids.map(id => parseInt(id) - 1);
     // Acrescentar o número da tabela
     ids.unshift(i);
-    console.log('ids', ids)
 
     // Percorrer os ids 
     let tempResult = tabela;
@@ -94,16 +17,13 @@ function searchById(tabela, targetId) {
       const index = parseInt(ids[j]);
       if (j === 0) {
         tempResult = tempResult[index]['Tabela'];
-        console.log('nivel 1', tempResult)
       } else if (j < ids.length - 1) {
         if (!tempResult[index] || !tempResult[index]['sub']) {
           break; // Se não houver 'sub', retornar null imediatamente
         }
         tempResult = tempResult[index]['sub'];
-        console.log('nivel intermédio', tempResult)
       } else {
         tempResult = tempResult[index];
-        console.log('nivel ultimo', tempResult)
       }
       if (!tempResult) break;
     }
@@ -112,7 +32,6 @@ function searchById(tabela, targetId) {
     }
   }
 
-  console.log('RESULTS', results);
   return results;
 }
 
@@ -138,7 +57,6 @@ function searchByText(tabelas, targetId) {
 }
 
 function removeRefs(result, data) {
-  console.log('COMEÇA REMOVE REFS')
   let newResult = [...result];
   // console.log('data refs', data)
 
@@ -153,12 +71,10 @@ function removeRefs(result, data) {
           let newSub = searchById([{'Tabela' : data}], element);
           // console.log('newsub', newSub)
           if (newSub) {
-            console.log('newsub', newSub)
             subArray.push(newSub);
           }
         }
       });
-      console.log('subarray', subArray)
       if (subArray.length > 0) {
         item.sub = subArray.flatMap(sub => sub);
         delete item.refs
