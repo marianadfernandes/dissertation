@@ -237,6 +237,8 @@ function Avaliacao () {
     };
 
     const handleSubmit = async (e) => {
+        e.preventDefault();
+
         if (searchText.length > 3) {
             fetchData();
         }
@@ -334,7 +336,7 @@ function Avaliacao () {
             <div id="searchResults" className="results">
                 <div className="container">
                     <div className="row">
-                        {!searchText && searchResults.length === 0 ? (
+                        {(!searchText || searchText.length < 4) && searchResults.length === 0 ? (
                             null
                         ) : searchResults.length > 0 ? (
                             <>
