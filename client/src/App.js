@@ -11,7 +11,7 @@ import Avaliacao from "./components/avaliacao";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/apriori">
         <Routes>
           <Route exact path="/" element={<HomePage />} />
           <Route exact path="/tabela" element={<Tabela />} />

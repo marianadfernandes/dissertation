@@ -31,7 +31,8 @@ import Footer from "./footer";
 
   function Tabela () {
 
-    const baseURL = "http://localhost:3001/tabela/listTabela";
+    // const baseURL = "http://localhost:3001/tabela/listTabela";
+    const baseURL = "http://54.38.159.80/aprioriapp/tabela/listTabela";
 
     const [tabela, setTabela] = useState([]);
     const [buttons, setButton] = useState([]);
@@ -143,6 +144,7 @@ const handleFirstLevel = (e) => {
     return (
         <div>
             <Header />
+            <main>
             <div className="container padding-table">
                 <div className="row table">
                     {tabela ? (
@@ -163,6 +165,7 @@ const handleFirstLevel = (e) => {
                     )}
                 </div> 
             </div>
+            </main>
             <Footer />
         </div>
     )

@@ -73,7 +73,8 @@ function calculateCoefs(valor) {
 
 function Avaliacao () {
 
-    const baseURL = "http://localhost:3001/tabela/search";
+    // const baseURL = "http://localhost:3001/tabela/search";
+    const baseURL = "http://54.38.159.80/aprioriapp/tabela/search";
 
     const [buttons, setButton] = useState([]);
 
@@ -213,7 +214,7 @@ function Avaliacao () {
     const [searchResults, setSearchResults] = useState([]);
 
     const fetchData = async () => {
-        console.log('fetching data')
+        console.log('fetching data w/', searchText)
         try {
             const response = await axios.get(`${baseURL}/${searchText}`);
             console.log(response);
@@ -246,7 +247,9 @@ function Avaliacao () {
 
     const handleSearch = () => {
         console.log('clique', searchText)
-        fetchData(); 
+        if (searchText.length > 0) {
+            fetchData(); 
+        }
     };
 
 
@@ -314,7 +317,7 @@ function Avaliacao () {
     return (
         <div>
             <Header />
-
+            <main>
             <div className="search-bar">
                 <div className="container">
                     <div className="row">
@@ -413,7 +416,7 @@ function Avaliacao () {
 
             
            
-
+            </main>
             <Footer /> 
         </div>   
     )
