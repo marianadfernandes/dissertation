@@ -73,7 +73,6 @@ html {
 body {
     position: relative;
     margin: 0;
-    padding-bottom: 100px; 
     min-height: 100vh;
     font-family: 'Muli', sans-serif !important;
     overflow-x: hidden;
@@ -86,7 +85,7 @@ body {
     background-color: #FAFAFA !important;
 }
 
-html, div, main, .header, .landing-page, .services, .search-bar {
+html, div, main, .header, .landing-page, .services, .search-bar, .human-body, footer {
     display: block;
 } 
 
@@ -98,39 +97,22 @@ html, div, main, .header, .landing-page, .services, .search-bar {
     padding: 0.5rem 0;
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 576px) {
     .container {
-        max-width: 1320px;
+        max-width: 540px !important; 
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 768px) {
     .container {
-        max-width: 1150px;
+        max-width: 720px !important; 
     }
 }
 
 @media (min-width: 992px) {
-    .container {
-    max-width: 960px; 
-    };
-
-    .navbar-expand-lg {
-        flex-flow: row nowrap;
-        justify-content: flex-start;
-    };
-
-    .navbar-expand-lg .navbar-collapse {
-        display: flex !important;
-        flex-basis: auto;
-    };
-
-    .navbar-expand-lg .navbar-nav {
-        flex-direction: row;
-    }
-
-    .text-lg-left {
-        text-align: left !important;
+    .col-lg-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
     }
 
     .col-lg-6 {
@@ -138,21 +120,38 @@ html, div, main, .header, .landing-page, .services, .search-bar {
         max-width: 50% !important;
     }
 
-    .col-lg-12 {
-        flex: 0 0 100%;
-        max-width: 100%;
+    .text-lg-left {
+        text-align: left !important;
+    }
+
+    .navbar-expand-lg .navbar-nav {
+        flex-direction: row;
+    }
+
+    .navbar-expand-lg .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+    }
+
+    .navbar-expand-lg {
+        flex-flow: row nowrap;
+        justify-content: flex-start;
+    }
+
+    .container {
+        max-width: 960px !important; 
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
     .container {
-    max-width: 720px; 
+        max-width: 1150px !important;
     }
 }
 
-@media (min-width: 576px) {
+@media (min-width: 1400px) {
     .container {
-    max-width: 540px; 
+        max-width: 1320px !important;
     }
 }
 
@@ -165,6 +164,7 @@ html, div, main, .header, .landing-page, .services, .search-bar {
 }
 
 .header .container .navbar {
+    width: 100%;
     position: relative;
     display: flex;
     flex-wrap: wrap;
@@ -434,11 +434,9 @@ p, h5, h6 {
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
+    margin-top: auto;
     width: 100%;
     padding-top: 20px;
-    margin-top: 100px;
     color: var(--footer-text);
     background: var(--footer-bg);
 }
@@ -517,6 +515,10 @@ footer {
     align-items: center;
 }
 
+.search-bar .navbar {
+    width: 100%;
+}
+
 form {
     flex: 1; 
     display: flex;
@@ -524,7 +526,12 @@ form {
 }
 
 form input {
+    width: 90%;
     border-radius: 55px !important;
+}
+
+form .btn-2 {
+    flex: 0 0 auto;
 }
 
 .btn-2 {
@@ -608,4 +615,8 @@ form input {
 
 .total .container .row h5 {
     padding-right: 15px;
+}
+
+.human-body {
+    padding-top: 150px;
 }

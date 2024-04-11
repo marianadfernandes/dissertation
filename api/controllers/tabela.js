@@ -44,10 +44,13 @@ function searchByText(tabelas, targetId) {
       let item = data[key];
       if (item.desc && item.desc.toLowerCase().includes(targetId)) {
         results.push(item);
+        // console.log('item a dar push', item)
       } else if (item.sub) {
         let subResults = searchByText([{'Tabela' : item.sub}], targetId);
         if (subResults && subResults.length > 0) {
           results.push(...subResults);
+          // console.log('subresult a dar push', subResults)
+
         }
       } 
     }
@@ -63,11 +66,11 @@ function removeRefs(result, data) {
   for (const key in newResult) {
     let item = newResult[key]
     if (item.refs) {
-      console.log('item', item)
+      // console.log('item', item)
       const subArray = [];
       item.refs.forEach(element => {
         if (/^[0-9.]+$/.test(element)) {
-          console.log('element', element)
+          // console.log('element', element)
           let newSub = searchById([{'Tabela' : data}], element);
           // console.log('newsub', newSub)
           if (newSub) {

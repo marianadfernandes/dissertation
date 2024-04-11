@@ -31,8 +31,8 @@ import Footer from "./footer";
 
   function Tabela () {
 
-    // const baseURL = "http://localhost:3001/tabela/listTabela";
-    const baseURL = "http://54.38.159.80/aprioriapp/tabela/listTabela";
+    const baseURL = "http://localhost:3001/tabela/listTabela";
+    // const baseURL = "http://54.38.159.80/aprioriapp/tabela/listTabela";
 
     const [tabela, setTabela] = useState([]);
     const [buttons, setButton] = useState([]);

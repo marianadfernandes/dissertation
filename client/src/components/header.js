@@ -27,7 +27,7 @@ function Header() {
         <header className="header">
             <div className="container">
                 <div className="logo-nav navbar navbar-expand-lg navbar-light p-0">
-                    <a className="navbar-brand d-flex align-items-center" href="/">
+                    <a className="navbar-brand d-flex align-items-center" onClick={navHome}>
                         <img src={logo} />
                     </a>
                     <nav className="collapse navbar-collapse" id="navbarSupportedContent">

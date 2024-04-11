@@ -9,6 +9,7 @@ import element from "../img/element.png";
 import icon from "../img/icon-serv-1.png";
 import shape from "../img/service-shape-1.png";
 import lupa from '../img/lupa.png';
+import utente from '../img/icon-utente.png'
 
 import { useNavigate } from "react-router-dom";
 
@@ -17,6 +18,7 @@ function NewHomePage() {
 
     const navTabela = async () => { navigate("/tabela"); window.scrollTo(0, 0);}
     const navCalculo = async () => { navigate("/avaliacao"); window.scrollTo(0, 0);}
+    const navUtente = async () => { navigate("/utente"); window.scrollTo(0, 0);}
 
     return (
         <div>
@@ -57,7 +59,7 @@ function NewHomePage() {
                             </div>
                             {/* service 2 */}
                             <div className="service">
-                            <div className="service-img">
+                                <div className="service-img">
                                     <img src={icon}/>
                                 </div>
                                 <a onClick={navTabela}><h3>Tabela Nacional de Incapacidades</h3></a>
@@ -65,10 +67,19 @@ function NewHomePage() {
                                     incapacidades portuguesa em 
                                     formato digital</p>
                             </div>
+                            {/* service 3 */}
                             <div className="service">
-
+                                <div className="service-img">
+                                        <img src={utente}/>
+                                    </div>
+                                    <a onClick={navUtente}><h3>Formulário Inicial</h3></a>
+                                    <p>Versão utilizador comum: 
+                                        Recolha de dados pessoais e 
+                                        de saúde
+                                    </p>
+                                </div>
                             </div>
-                        </div>
+                        
                     </div>
                 </div>
                 <img src={element} className="services-shape-1" />

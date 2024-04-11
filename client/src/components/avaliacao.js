@@ -73,8 +73,8 @@ function calculateCoefs(valor) {
 
 function Avaliacao () {
 
-    // const baseURL = "http://localhost:3001/tabela/search";
-    const baseURL = "http://54.38.159.80/aprioriapp/tabela/search";
+    const baseURL = "http://localhost:3001/tabela/search";
+    // const baseURL = "http://54.38.159.80/aprioriapp/tabela/search";
 
     const [buttons, setButton] = useState([]);
 
@@ -314,6 +314,20 @@ function Avaliacao () {
 
     }
 
+    function hasCod(item) {
+        if (item.cod) {
+            return true;
+        }
+        if (item.sub) {
+            for (let i = 0; i < item.sub.length; i++) {
+                if (hasCod(item.sub[i])) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
     return (
         <div>
             <Header />
@@ -346,11 +360,22 @@ function Avaliacao () {
                             <Button variant="outlined" className="closebnt" startIcon={<CloseIcon />} onClick={handleClose}>
                                 Close All
                             </Button>
-                            {searchResults.map((item, index) => (
-                            <div key={index}>
-                                {renderTabela(item, 1, toggleDropdown, buttons)}
-                                <hr />
-                            </div>
+                            <h6>Tabela Nacional de Incapacidades por Acidentes de Trabalho ou Doenças Profissionais</h6>
+                             {/* Resultados sem 'cod' */}
+                             {searchResults.filter(item => !hasCod(item)).map((item, index) => (
+                                <div key={index}>
+                                    {renderTabela(item, 1, toggleDropdown, buttons)}
+                                    <hr />
+                                </div>
+                            ))}
+                            <br></br>
+                            <h6>Tabela de Avaliação de Incapacidades Permanentes em Direito Civil</h6>
+                            {/* Resultados com 'cod' */}
+                            {searchResults.filter(item => hasCod(item)).map((item, index) => (
+                                <div key={index}>
+                                    {renderTabela(item, 1, toggleDropdown, buttons)}
+                                    <hr />
+                                </div>
                             ))}
                             </>
                         ) : (
