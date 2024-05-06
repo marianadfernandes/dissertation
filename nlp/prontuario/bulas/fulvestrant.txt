@@ -1,0 +1,2450 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+Faslodex 250 mg solução injetável.
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Uma seringa pré-cheia contém 250 mg de fulvestrant em 5 ml de solução.
+Excipientes com efeito conhecido (por cada 5 ml)
+Etanol (96%, 500 mg)
+Álcool benzílico (500 mg)
+Benzoato de benzilo (750 mg)
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Solução injetável.
+Solução límpida, viscosa, incolor a amarela.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Faslodex é indicado:
+ em monoterapia para o tratamento de cancro da mama, localmente avançado ou metastático,
+positivo para o recetor de estrogénio, em mulheres pós-menopáusicas:
+sem tratamento prévio com terapêutica endócrina, ou
+com doença recidivada durante ou após terapêutica antiestrogénica adjuvante, ou em
+progressão com terapêutica antiestrogénica.
+ em associação com palbociclib para o tratamento de cancro da mama, localmente avançado ou
+metastático, positivo para recetores hormonais (HR) e negativo para o recetor tipo 2 do fator de
+crescimento epidérmico humano (HER2), em mulheres que receberam previamente terapêutica
+endócrina (ver secção 5.1).
+Em mulheres pré- ou peri-menopáusicas, o tratamento em associação com palbociclib deve ser
+associado a um agonista da hormona libertadora da hormona luteinizante (LHRH).
+4.2
+
+Posologia e modo de administração
+
+Posologia
+Mulheres adultas (incluindo Idosos)
+A dose recomendada é de 500 mg em intervalos de um mês, com uma dose adicional de 500 mg
+administrada duas semanas após a dose inicial.
+Quando Faslodex é utilizado em associação com palbociclib, por favor consultar também o Resumo
+das Características do Medicamento de palbociclib.
+Antes de iniciar o tratamento com a associação de Faslodex mais palbociclib, e durante a sua duração,
+as mulheres pré/peri-menopáusicas devem ser tratadas com agonistas da LHRH, de acordo com a
+prática clínica local.
+
+2
+
+Populações especiais
+Compromisso renal
+Não se recomenda efetuar ajustes de dose nas doentes com compromisso renal ligeiro a moderado
+(depuração da creatinina ≥ 30 ml/min). A segurança e eficácia não foram avaliadas em doentes com
+compromisso renal grave (depuração da creatinina < 30 ml/min), e como tal, recomenda se precaução
+nestas doentes (ver secção 4.4).
+Compromisso hepático
+Não se recomenda efetuar ajustes de dose nas doentes com compromisso hepático ligeiro a moderado.
+Contudo, a exposição ao fulvestrant pode estar aumentada, pelo que Faslodex deve ser utilizado com
+precaução nestas doentes. Não existem dados em doentes com compromisso hepático grave (ver
+secções 4.3, 4.4 e 5.2).
+População pediátrica
+A segurança e eficácia de Faslodex em crianças desde o nascimento até 18 anos de idade não foram
+estabelecidas. Os dados atualmente disponíveis estão descritos nas secções 5.1 e 5.2, mas não é
+possível fazer uma recomendação de posologia.
+Modo de administração
+Faslodex deve ser administrado em duas injeções consecutivas de 5 ml por injeção intramuscular lenta
+(1-2 minutos/injeção), uma em cada nádega (área glútea).
+Recomenda-se precaução se Faslodex for injetado no local dorsogluteal devido à proximidade do
+nervo ciático subjacente.
+Para instruções de administração mais detalhadas, ver secção 6.6.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Gravidez e aleitamento (ver secção 4.6).
+Compromisso hepático grave (ver secções 4.4 e 5.2).
+4.4
+
+Advertências e precauções especiais de utilização
+
+Faslodex deve ser utilizado com precaução em doentes com compromisso hepático ligeiro a moderado
+(ver secções 4.2, 4.3 e 5.2).
+Faslodex deve ser utilizado com precaução em doentes com compromisso renal grave (depuração da
+creatinina inferior a 30 ml/min).
+Devido à administração por via intramuscular, Faslodex deve ser utilizado com precaução no caso de
+tratamento de doentes com diátese hemorrágica, trombocitopenia ou que estejam a tomar
+anticoagulantes.
+Os acontecimentos tromboembólicos são frequentemente observados em mulheres com cancro da
+mama avançado e foram observados nos estudos clínicos com Faslodex (ver secção 4.8). Este facto
+deverá ser considerado quando Faslodex é prescrito a doentes de risco.
+Têm sido notificados acontecimentos, incluindo dor ciática, neuralgia, dor neuropática, e neuropatia
+periférica relacionados com o local de injeção para a injeção de Faslodex. Recomenda-se precaução
+durante a administração de Faslodex no local de injeção dorsogluteal devido à proximidade do nervo
+ciático subjacente (ver secções 4.2 e 4.8).
+Não existem dados a longo prazo sobre o efeito de fulvestrant no osso. Devido ao mecanismo de ação
+de fulvestrant, existe um risco potencial de osteoporose.
+
+3
+
+A eficácia e segurança de Faslodex (quer em monoterapia ou em associação com palbociclib) não foi
+estudada em doentes com doença visceral critica.
+Quando Faslodex é associado a palbociclib, por favor consultar também o Resumo das Características
+do Medicamento de palbociclib.
+Interferência em ensaios com anticorpos de estradiol
+Devido à semelhança estrutural entre fulvestrant e estradiol, o fulvestrant pode interferir nos ensaios
+com anticorpos baseados em estradiol e pode resultar em níveis aumentados de estradiol falsos.
+Etanol
+Faslodex contém 10% p/v de etanol (álcool) como um excipiente, ou seja, até 500 mg por injeção,
+equivalente a 10 ml de cerveja ou 4 ml de vinho. Pode ser prejudicial para os indivíduos que sofrem de
+alcoolismo, e para ter em consideração quando utilizado em grupos de alto risco tais como doentes
+com problemas de fígado e epilepsia.
+Álcool benzílico
+Faslodex contém álcool benzílico como um excipiente que pode causar reações alérgicas.
+População pediátrica
+Faslodex não é recomendado para utilização em crianças e adolescentes dado que a segurança e
+eficácia não foram estabelecidas neste grupo de doentes (ver secção 5.1).
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Um estudo de interação clínica com midazolam (substrato do CYP3A4) demonstrou que fulvestrant
+não inibe o CYP3A4. Os estudos de interação clínica com rifampicina (indutor do CYP3A4) e
+cetoconazol (inibidor do CYP3A4) não mostraram uma alteração clinicamente relevante na depuração
+de fulvestrant. Assim, não é necessário um ajuste da dose em doentes que recebem fulvestrant e
+inibidores ou indutores do CYP3A4 concomitantemente.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar
+As doentes com potencial para engravidar deverão utilizar um método contracetivo eficaz durante o
+tratamento com Faslodex e durante 2 anos após a última dose.
+Gravidez
+Faslodex está contraindicado na gravidez (ver secção 4.3). Fulvestrant demonstrou atravessar a
+placenta após a administração de doses únicas por via intramuscular no rato e coelho. Os estudos em
+animais revelaram toxicidade reprodutiva, incluindo um aumento da incidência de malformações
+fetais e mortes (ver secção 5.3). Se a gravidez ocorrer durante o tratamento com Faslodex, a doente
+deve ser informada do risco potencial para o feto e do risco potencial de perda da gravidez.
+Amamentação
+A amamentação deve ser descontinuada durante o tratamento com Faslodex. Fulvestrant é excretado
+no leite dos ratos lactantes. Desconhece-se se fulvestrant é excretado no leite humano. Considerando o
+potencial para reações adversas graves em crianças lactentes devido a fulvestrant, o uso durante o
+aleitamento está contraindicado (ver secção 4.3).
+Fertilidade
+Os efeitos de Faslodex na fertilidade em seres humanos não foram estudados.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Faslodex tem uma influência insignificante ou inexistente sobre a capacidade de conduzir ou utilizar
+máquinas. Contudo, como a astenia foi muito frequentemente notificada com Faslodex, deve-se ter
+4
+
+precaução em doentes que apresentem esta reação adversa durante a condução ou a utilização de
+máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Monoterapia
+Esta secção fornece informação baseada em todas as reações adversas dos estudos clínicos, estudos de
+pós-comercialização ou notificações espontâneas. Nos dados agrupados de fulvestrant em
+monoterapia, as reações adversas mais frequentemente notificadas foram reações no local de injeção,
+astenia, náuseas e enzimas hepáticas aumentadas (ALT, AST, ALP).
+Na Tabela 1, as seguintes categorias de frequência para reações adversas medicamentosas (RAMs)
+foram calculadas com base no grupo de tratamento de Faslodex 500 mg nas análises de segurança
+agrupadas dos estudos que compararam Faslodex 500 mg com Faslodex 250 mg [estudos CONFIRM
+(Estudo D6997C00002), FINDER 1 (Estudo D6997C00004), FINDER 2 (Estudo D6997C00006), e
+NEWEST (Estudo D6997C00003)], ou isoladamente do FALCON (Estudo D699BC00001) que
+comparou Faslodex 500 mg com anastrozol 1 mg. Onde as frequências diferem entre a análise de
+segurança agrupada e FALCON, é apresentada a frequência mais elevada. As frequências na Tabela 1
+foram baseadas em todas reações adversas medicamentosas notificadas, independentemente da
+avaliação de causalidade efetuada pelo investigador. A duração mediana de tratamento com fulvestrant
+500 mg em todos os dados agrupados (incluindo os estudos mencionados acima mais FALCON) foi
+de 6,5 meses.
+Lista tabelada de reações adversas
+As reações adversas abaixo listadas estão classificadas de acordo com a frequência e Classes de
+Sistemas de Órgãos (CSO). As frequências são definidas de acordo com a seguinte convenção: Muito
+frequentes (≥ 1/10), Frequentes (≥ 1/100 a < 1/10), Pouco frequentes (≥ 1/1.000 a < 1/100). Os efeitos
+indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de
+frequência.
+Tabela 1
+
+Reações Adversas Medicamentosas notificadas em doentes tratados com Faslodex
+em monoterapia
+
+Reações adversas por classes de sistemas de órgãos e frequência
+Infeções e infestações
+
+Frequentes
+
+Infeções das vias urinárias
+
+Doenças do sangue e do sistema linfático
+
+Frequentes
+
+Número de plaquetas diminuídoe
+
+Doenças do sistema imunitário
+
+Muito frequentes
+
+Reações de hipersensibilidadee
+
+Pouco frequentes
+
+Reações anafiláticas
+
+Doenças do metabolismo e da nutrição
+
+Frequentes
+
+Anorexiaa
+
+Doenças do sistema nervoso
+
+Frequentes
+
+Cefaleia
+
+Vasculopatias
+
+Muito frequentes
+
+Afrontamentose
+
+Frequentes
+
+Tromboembolismo venosoa
+
+Muito frequentes
+
+Náuseas
+
+Frequentes
+
+Vómitos, diarreia
+
+Muito frequentes
+
+Enzimas hepáticas elevadas (ALT, AST,
+ALP)a
+
+Frequentes
+
+Bilirrubina elevadaa
+
+Pouco frequentes
+
+Insuficiência hepáticac,f, hepatitef, gamaGT elevadaf
+
+Muito frequentes
+
+Erupção cutâneae
+
+Doenças gastrointestinais
+Afeções hepatobiliares
+
+Afeções dos tecidos cutâneos e subcutâneos
+
+5
+
+Afeções musculosqueléticas e dos tecidos
+conjuntivos
+Doenças dos órgãos genitais e da mama
+Perturbações gerais e alterações no local de
+administração
+
+Muito frequentes
+
+Dor articular e musculosqueléticad
+
+Frequentes
+Frequentes
+
+Dorsalgiaa
+Hemorragia vaginale
+
+Pouco frequentes
+
+Monilíase vaginalf, leucorreiaf
+
+Muito frequentes
+
+Asteniaa, reações no local de injeçãob
+
+Frequentes
+
+Neuropatia periféricae, ciáticae
+
+Hemorragia no local de injeçãof,
+hematoma no local de injeçãof,
+neuralgiac,f
+Inclui reações adversas medicamentosas para as quais a extensão exata da contribuição de Faslodex não
+pode ser avaliada devido à doença subjacente.
+O termo reações no local de injeção não inclui os termos hemorragia no local de injeção e hematoma no
+local de injeção, ciática, neuralgia e neuropatia periférica.
+Este acontecimento não foi observado nos ensaios clínicos principais (CONFIRM, FINDER 1, FINDER 2,
+NEWEST). A frequência foi calculada utilizando o limite superior do intervalo de confiança a 95% para o
+valor estimado. Isto é calculado como 3/560 (em que 560 é o número de doentes dos ensaios clínicos
+principais), o que corresponde a uma categoria de frequência de “pouco frequente”.
+Inclui: artralgia, e menos frequentemente dor musculosquelética, mialgia e dor nas extremidades.
+A categoria da frequência difere entre o conjunto de dados de segurança agrupados e FALCON.
+RAM não observada no FALCON.
+Pouco frequentes
+
+a
+b
+c
+
+d
+e
+f
+
+Descrição de reações adversas selecionadas
+As descrições incluídas abaixo são baseadas na análise de segurança conjunta de 228 doentes que
+receberam pelo menos uma (1) dose de fulvestrant e 232 doentes que receberam pelo menos uma
+(1) dose de anastrozol, respetivamente, no estudo de Fase 3 FALCON.
+Dor articular e musculosquelética
+No estudo FALCON, o número de doentes que notificou uma reação adversa de dor articular e
+musculosquelética foi 65 (31,2%) e 48 (24,1%) nos braços fulvestrant e anastrozol, respetivamente.
+Das 65 doentes no braço de Faslodex, 40% (26/65) das doentes notificaram dor articular e
+musculosquelética no primeiro mês de tratamento e 66,2% (43/65) das doentes nos primeiros 3 meses
+de tratamento. Nenhuma das doentes notificou acontecimentos que foram Grau CTCAE ≥3 ou que
+exigiram uma redução de dose, interrupção de dose ou descontinuação do tratamento devido a essas
+reações adversas.
+Associação terapêutica com palbociclib
+O perfil de segurança global de fulvestrant quando utilizado em associação com palbociclib baseia-se
+em dados de 517 doentes com cancro da mama HR-positivo, HER2-negativo avançado ou metastático
+no estudo aleatorizado PALOMA3 (ver secção 5.1). As reações adversas mais frequentes (≥20%) de
+qualquer grau notificadas em doentes a receber fulvestrant em associação com palbociclib foram
+neutropenia, leucopenia, infeções, fadiga, náuseas, anemia, estomatite, diarreia, trombocitopenia e
+vómitos. As reações adversas mais frequentes (≥2%) de Grau ≥3 foram neutropenia, leucopenia,
+infeções, anemia, AST aumentada, trombocitopenia e fadiga.
+A Tabela 2 apresenta as reações adversas do PALOMA3.
+A duração mediana de exposição ao fulvestrant foi de 11,2 meses no braço fulvestrant + palbociclib e
+4,8 meses no braço fulvestrant + placebo. A duração mediana de exposição ao palbociclib no braço de
+fulvestrant + palbociclib foi de 10,8 meses.
+
+6
+
+Tabela 2
+
+Reações adversas baseadas no estudo PALOMA3 (N=517)
+
+Classe de sistemas de órgãos
+Frequência
+Termo preferidoa
+
+Faslodex + Palbociclib
+(N=345)
+Todos os graus Grau ≥ 3
+n (%)
+n (%)
+
+Faslodex + placebo
+(N=172)
+Todos os graus Grau ≥ 3
+n (%)
+n (%)
+
+Infeções e infestações
+Muito frequentes
+Infeçõesb
+188 (54,5)
+Doenças do sangue e do sistema linfático
+Muito frequentes
+Neutropeniac
+290 (84,1)
+d
+Leucopenia
+207 (60,0)
+e
+Anemia
+109 (31,6)
+f
+Trombocitopenia
+88 (25,5)
+Pouco frequentes
+Neutropenia febril
+3 (0,9)
+Doenças do metabolismo e da nutrição
+Muito frequentes
+Apetite diminuído
+60 (17,4)
+Doenças do sistema nervoso
+Frequentes
+Disgeusia
+27 (7,8)
+Afeções oculares
+Frequentes
+Aumento da secreção lacrimal
+25 (7,2)
+Visão turva
+24 (7,0)
+Olho seco
+15 (4,3)
+Doenças respiratórias, torácicas e do mediastino
+Frequentes
+Epistaxe
+25 (7,2)
+Doenças gastrointestinais
+Muito frequentes
+Náuseas
+124 (35,9)
+g
+Estomatite
+104 (30,1)
+Diarreia
+94 (27,2)
+Vómitos
+75 (21,7)
+Afeções dos tecidos cutâneos e subcutâneos
+Muito frequentes
+Alopecia
+67 (19,4)
+h
+Erupção cutânea
+63 (18,3)
+Frequentes
+Xerose cutânea
+28 (8,1)
+Perturbações gerais e alterações no local de administração
+Muito frequentes
+Fadiga
+152 (44,1)
+7
+
+19 (5,5)
+
+60 (34,9)
+
+6 (3,5)
+
+240 (69,6)
+132 (38,3)
+15 (4,3)
+10 (2,9)
+
+6 (3,5)
+9 (5,2)
+24 (14,0)
+0
+
+0
+1 (0,6)
+4 (2,3)
+0
+
+3 (0,9)
+
+0
+
+0
+
+4 (1,2)
+
+18 (10,5)
+
+1 (0,6)
+
+0
+
+6 (3,5)
+
+0
+
+0
+0
+0
+
+2 (1,2)
+3 (1,7)
+3 (1,7)
+
+0
+0
+0
+
+0
+
+4 (2,3)
+
+0
+
+2 (0,6)
+3 (0,9)
+0
+2 (0,6)
+
+53 (30,8)
+24 (14,0)
+35 (20,3)
+28 (16,3)
+
+1 (0,6)
+0
+2 (1,2)
+1 (0,6)
+
+NA
+3 (0,9)
+
+11 (6,4)
+10 (5,8)
+
+NA
+0
+
+0
+
+3 (1,7)
+
+0
+
+9 (2,6)
+
+54 (31,4)
+
+2 (1,2)
+
+Pirexia
+Frequentes
+Astenia
+Exames complementares de diagnóstico
+Muito frequentes
+AST aumentada
+Frequentes
+ALT aumentada
+
+47 (13,6)
+
+1 (0,3)
+
+10 (5,8)
+
+0
+
+27 (7,8)
+
+1 (0,3)
+
+13 (7,6)
+
+2 (1,2)
+
+40 (11,6)
+
+11 (3,2)
+
+13 (7,6)
+
+4 (2,3)
+
+30 (8,7)
+
+7 (2,0)
+
+10 (5,8)
+
+1 (0,6)
+
+ALT= alanina aminostransferase; AST= aspartato aminotransferase; N/n= número de doentes; N/A= Não
+aplicável
+a
+Os Termos Preferidos (TP) estão listados de acordo com o MedDRA 17.1.
+b
+Infeções inclui todos os TP que fazem parte da Classe de Sistemas de Órgãos "Infeções e infestações".
+c
+Neutropenia inclui os seguintes TP: Neutropenia, Número de neutrófilos diminuído.
+d
+Leucopenia inclui os seguintes TP: Leucopenia, Número de leucócitos diminuído.
+e
+Anemia inclui os seguintes TP: Anemia, Concentração de hemoglobina diminuída, Hematócrito diminuído.
+f
+Trombocitopenia inclui os seguintes TP: Trombocitopenia, Número de plaquetas diminuído
+g
+Estomatite inclui os seguintes TP: Estomatite aftosa, Queilite, Glossite, Glossodinia, Ulceração da boca,
+inflamação das mucosas, Dor na boca, Mal-estar orofaríngeo, Dor orofaríngea, Estomatite.
+h
+Erupção cutânea inclui os seguintes TP: Erupção cutânea, Erupção maculopapulosa, Erupção pruriginosa,
+Erupção eritematosa, Erupção papulosa, Dermatite, Dermatite acneiforme, Erupção cutânea tóxica.
+
+Descrição de reações adversas selecionadas
+Neutropenia
+Em doentes a receber fulvestrant em associação com palbociclib no estudo PALOMA3, foi notificada
+neutropenia de qualquer grau em 290 doentes (84,1%), foi notificada neutropenia de Grau 3 em
+200 doentes (58,0%) e foi notificada neutropenia de Grau 4 em 40 doentes (11,6%). No braço
+fulvestrant + placebo (n=172), foi notificada neutropenia de qualquer grau em 6 doentes (3,5%). Não
+houve notificações de neutropenia de Grau 3 e 4 no braço fulvestrant + placebo.
+Em doentes a receber fulvestrant em associação com palbociclib, a mediana do tempo até à ocorrência
+do primeiro episódio de neutropenia de qualquer grau foi de 15 dias (intervalo:13-512 dias) e a
+mediana da duração de neutropenia de Grau ≥ 3 foi de 16 dias. Foi notificada neutropenia febril em 3
+(0,9%) das doentes a receber fulvestrant em associação com palbociclib.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissioanis de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Existem notificações isoladas de sobredosagem com Faslodex em humanos. Em caso de
+sobredosagem, recomenda-se tratamento de suporte sintomático. Os estudos em animais sugerem que
+não foram evidentes quaisquer outros efeitos com as doses mais altas de fulvestrant para além dos, que
+se encontram, direta ou indiretamente, relacionados com a respetiva atividade antiestrogénica (ver
+secção 5.3).
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Terapêutica endócrina, Antiestrogénio, código ATC: L02BA03
+
+8
+
+Mecanismo de ação e efeitos farmacodinâmicos
+Fulvestrant é um antagonista competitivo do recetor de estrogénio (RE) com uma afinidade
+comparável à do estradiol. Fulvestrant bloqueia as ações tróficas dos estrogénios sem qualquer
+atividade agonista parcial (do tipo estrogénio). O mecanismo de ação está associado à diminuição
+(downregulation) dos níveis do recetor de estrogénio. Os estudos clínicos em mulheres
+pós-menopáusicas com cancro da mama primário demonstraram que fulvestrant diminui (downregulates) de um modo significativo o RE em tumores positivos para o RE em comparação com
+placebo. Houve igualmente uma redução significativa da expressão do recetor de progesterona
+consistente com a ausência de efeitos intrínsecos agonistas do estrogénio. Também foi demonstrado
+que, no contexto do tratamento neoadjuvante de tumores da mama na pós-menopausa, fulvestrant
+500 mg diminui (down-regulates) o RE e o marcador de proliferação Ki67 em maior grau do que
+fulvestrant 250 mg.
+Eficácia e segurança clínica no cancro da mama avançado
+Monoterapia
+Um estudo clínico de Fase 3 foi concluído em 736 mulheres pós-menopáusicas com cancro da mama
+avançado que apresentaram recorrência da doença, durante ou após uma terapêutica endócrina
+adjuvante, ou progressão após terapêutica endócrina na doença avançada. O estudo incluiu
+423 doentes que apresentaram recidiva ou progressão durante a terapêutica com um antiestrogénio
+(subgrupo AE) e 313 doentes que apresentaram recidiva ou progressão durante a terapêutica com um
+inibidor da aromatase (subgrupo IA). Este estudo comparou a eficácia e segurança de Faslodex
+500 mg (n=362) com Faslodex 250 mg (n=374). A sobrevivência livre de progressão (PFS) foi o
+objetivo primário; os principais objetivos secundários de eficácia incluíram taxa de resposta objetiva
+(ORR), taxa de benefício clínico (CBR) e sobreviviência global (OS). Os resultados de eficácia do
+estudo CONFIRM encontram-se resumidos na Tabela 3.
+Tabela 3
+
+Resumo dos resultados do objetivo primário de eficácia (PFS) e dos principais
+objetivos secundários de eficácia do estudo CONFIRM
+
+Variável
+
+Tipo de
+estimativa;
+comparação
+de
+tratamento
+
+Faslodex
+500 mg
+(N=362)
+
+Faslodex
+250 mg
+(N=374)
+
+6,5
+
+-Subgrupo AE (n=423)
+-Subgrupo IA (n=313)a
+
+PFS
+
+Comparação entre grupos
+(Faslodex 500 mg/Faslodex 250 mg)
+Probabilidade
+de risco
+
+IC 95%
+
+valor-p
+
+5,5
+
+0,80
+
+0,68; 0,94
+
+0,006
+
+8,6
+
+5,8
+
+0,76
+
+0,62; 0,94
+
+0,013
+
+5,4
+
+4,1
+
+0,85
+
+0,67; 1,08
+
+0,195
+
+Mediana
+K-M em
+meses;
+probabilidade
+de risco
+
+Todas as Doentes
+
+9
+
+Faslodex
+500 mg
+(N=362)
+
+Faslodex
+250 mg
+(N=374)
+
+26,4
+
+-Subgrupo AE (n=423)
+-Subgrupo IA (n=313)a
+
+Variável
+
+OSb
+
+Tipo de
+estimativa;
+comparação
+de
+tratamento
+
+Variável
+
+Tipo de
+estimativa;
+comparação
+de
+tratamento
+
+0,81
+
+0,69; 0,96
+
+0,016c
+
+30,6
+
+23,9
+
+0,79
+
+0,63; 0,99
+
+0,038c
+
+24,1
+
+20,8
+
+0,86
+
+0,67; 1,11
+
+0,241c
+
+Faslodex
+500 mg
+(N=362)
+
+Faslodex
+250 mg
+(N=374)
+
+13,8
+
+Comparação entre grupos
+(Faslodex 500 mg/Faslodex 250 mg)
+
+14,6
+
+-0,8
+
+-5,8; 6,3
+
+18,1
+
+19,1
+
+-1,0
+
+-8,2; 9,3
+
+7,3
+
+8,3
+
+-1,0
+
+-5,5; 9,8
+
+45,6
+
+39,6
+
+6,0
+
+-1,1; 13,3
+
+-Subgrupo AE (n=423)
+
+52,4
+
+45,1
+
+7,3
+
+-2,2; 16,6
+
+a
+
+36,2
+
+32,3
+
+3,9
+
+-6,1; 15,2
+
+-Subgrupo IA (n=205)
+e
+
+CBR
+
+a
+
+% de doentes
+com CB;
+diferença
+absoluta em
+%
+
+Todas as Doentes
+-Subgrupo IA (n=313)
+
+e
+
+22,3
+
+% de doentes
+com OR;
+diferença
+absoluta em
+%
+
+-Subgrupo AE (n=296)
+
+d
+
+valor-p
+
+IC 95%
+
+Todas as Doentes
+
+c
+
+IC 95%
+
+Diferença
+absoluta em %
+
+ORRd
+
+b
+
+Probabilidade
+de risco
+
+Mediana KM em meses;
+probabilidade
+de risco
+
+Todas as Doentes
+
+a
+
+Comparação entre grupos
+(Faslodex 500 mg/Faslodex 250 mg)
+
+Faslodex é indicado em doentes que apresentaram recidiva ou progressão durante a terapêutica com um
+antiestrogénio. Os resultados do subgrupo IA são inconclusivos.
+Apresenta-se a OS para a análise final de sobrevivência com uma maturidade de 75%.
+Valor nominal de p sem realizar ajustes para multiplicidade entre a análise inicial de sobrevivência global,
+com uma maturidade de 50% e a análise de sobrevivência atualizada aos 75% de maturidade.
+ORR foi determinada em doentes avaliáveis em termos de resposta no início do estudo (i.e., doentes com
+doença mensurável no início do estudo: 240 doentes no grupo de Faslodex 500 mg e 261 doentes no grupo
+de Faslodex 250 mg).
+Doentes tendo como melhor resposta objetiva resposta completa, resposta parcial ou doença estável
+≥ 24 semanas.
+
+PFS:Sobrevivência livre de progressão; ORR:Taxa de resposta objetiva; OR:Resposta objetiva; CBR:Taxa de benefício
+clínico; CB:Benefício clínico; OS:Sobrevivência global; K-M:Kaplan-Meier; IC:Intervalo de confiança; IA:Inibidor da
+aromatase; AE:Antiestrogénio.
+
+Um estudo multicêntrico de Fase 3, aleatorizado, em dupla ocultação e dupla simulação de Faslodex
+500 mg versus anastrozol 1 mg foi realizado em mulheres pós-menopáusicas com cancro da mama
+localmente avançado ou metastático, positivo para o recetor de estrogénio (ER positivo) e/ou positivo
+para o recetor de progesterona (PgR positivo) que não tinham sido previamente tratadas com qualquer
+terapêutica hormonal. Um total de 462 doentes foram aleatorizadas sequencialmente 1:1 para receber
+500 mg de fulvestrant ou 1 mg de anastrozol. A aleatorização foi estratificada por estadio da doença
+10
+
+(localmente avançada ou metastática), quimioterapia prévia para doença avançada, e doença
+mensurável.
+O objetivo primário de eficácia do estudo foi a sobrevivência livre de progressão (PFS) avaliada pelo
+investigador de acordo com RECIST 1.1 (Critérios de Avaliação de Resposta em Tumores Sólidos).
+Os principais objetivos secundários de eficácia incluíram sobrevivência global (OS), e taxa de resposta
+objetiva (ORR).
+As doentes incluídas neste estudo tinham uma idade média de 63 anos (intervalo 36-90). A maioria
+das doentes (87,0%) apresentava doença metastática no início do estudo. Cinquenta e cinco por cento
+(55,0%) das doentes apresentava metástases viscerais no início do estudo. Um total de 17,1% das
+doentes receberam previamente um regime de quimioterapia para doença avançada; 84,2% das
+doentes tinha doença mensurável.
+Foram observados resultados consistentes na maioria dos subgrupos pré-definidos de doentes. Para o
+subgrupo de doentes com doença limitada a metástases não viscerais (n=208), a probabilidade de risco
+(HR) foi de 0,592 (IC 95%: 0,419; 0,837) no braço de Faslodex em comparação com o braço de
+anastrozol. Para o subgrupo de doentes com metástases viscerais (n=254), a probabilidade de risco
+(HR) foi 0,993 (IC 95%: 0,740; 1,331) no braço de Faslodex em comparação com o braço de
+anastrozol. Os resultados de eficácia do estudo FALCON são apresentados na Tabela 4 e na Figura 1.
+Tabela 4
+
+Resumo dos resultados do objetivo primário de eficácia (PFS) e dos principais
+objetivos secundários de eficácia (Avaliação pelo Investigador, População Intenção
+de tratar) ─ estudo FALCON
+Faslodex
+500 mg
+(N=230)
+
+Anastrozol
+1 mg
+(N=232)
+
+Sobrevivência livre de progressão
+Número de acontecimentos PFS
+143 (62,2%)
+166 (71,6%)
+(%)
+Probabilidade de risco PFS (IC
+HR 0,797 (0,637-0,999)
+95%) e valor-p
+p = 0,0486
+16,6 (13,8; 21,0)
+13,8 (12,0; 16,6)
+PFS Mediana [meses (IC 95%)]
+67 (29,1%)
+75 (32,3%)
+Número de acontecimentos OS*
+HR 0,875 (0,629 – 1,217)
+Probabilidade de risco OS (IC
+p = 0,4277
+95%) e valor-p
+89 (46,1%)
+88 (44,9%)
+ORR**
+OR 1,074 (0,716 – 1,614)
+ORR Taxa de probabilidade
+p = 0,7290
+(Odds Ratio) (IC 95%) e valor-p
+20,0
+13,2
+DoR Mediana (meses)
+180 (78,3%)
+172 (74,1%)
+CBR
+OR 1,253 (0,815 – 1,932)
+CBR Taxa de probabilidade
+p = 0,3045
+(Odds Ratio) (IC 95%) e valor-p
+*(maturidade 31%)-análise OS não é final
+**para doentes com doença mensurável
+
+11
+
+Probabilidade de PFS
+
+Figura 1 Curva de Kaplan-Meier de Sobrevivência Livre de Progressão (Avaliação pelo
+Investigador, População Intenção de Tratar) ─ Estudo FALCON
+
+Tempo desde a aleatorização (meses)
+Tratamento
+
+——— Fulvestrant 500 mg (N=230) - - - - - - Anastrozol 1 mg (N=232)
+
+Número de doentes em risco
+FUL500
+
+230
+
+187
+
+171
+
+150
+
+124
+
+110
+
+96
+
+81
+
+63
+
+44
+
+24
+
+11
+
+2
+
+0
+
+ANAS1
+
+232
+
+194
+
+162
+
+139
+
+120
+
+102
+
+84
+
+60
+
+45
+
+31
+
+22
+
+10
+
+0
+
+0
+
+Completaram-se dois estudos clínicos de Fase 3 num total de 851 mulheres pós-menopáusicas com
+cancro da mama avançado que apresentavam recorrência da doença, durante ou após uma terapêutica
+endócrina adjuvante, ou progressão após terapêutica endócrina para doença avançada. Setenta e sete
+por cento (77%) da população estudada apresentava cancro da mama positivo para o recetor de
+estrogénio. Estes estudos compararam a segurança e eficácia da administração mensal de Faslodex
+250 mg versus a administração diária de 1 mg de anastrozol (inibidor da aromatase). Globalmente,
+Faslodex numa dose mensal de 250 mg foi, pelo menos, tão eficaz como anastrozol em termos de
+sobrevivência livre de progressão, resposta objetiva e tempo até à morte. Não houve uma diferença
+estatisticamente significativa em qualquer destes objetivos entre os dois grupos de tratamento. A
+sobrevivência livre de progressão foi o objetivo primário. A análise combinada de ambos os estudos
+mostrou que 83% das doentes tratadas com Faslodex progrediram, em comparação com 85% das
+doentes tratadas com anastrozol. A análise combinada de ambos os estudos mostrou que a
+probabilidade de risco (HR) de Faslodex 250 mg em relação ao anastrozol para a sobrevivência livre
+de progressão foi de 0,95 (IC 95%, 0,82 a 1,10). A taxa de resposta objetiva para Faslodex 250 mg foi
+de 19,2% em comparação com 16,5% para o anastrozol. O tempo mediano até à morte foi de
+27,4 meses para doentes tratadas com Faslodex e de 27,6 meses para as doentes tratadas com
+anastrozol. A probabilidade de risco (HR) de Faslodex 250 mg em relação ao anastrozol para o tempo
+até à morte foi de 1,01 (IC 95%, 0,86 a 1,19).
+Terapêutica de associação com palbociclib
+Um estudo multicêntrico de Fase 3, internacional, aleatorizado, em dupla ocultação, de grupos
+paralelos, de Faslodex 500 mg mais palbociclib 125 mg versus Faslodex 500 mg mais placebo foi
+realizado em mulheres com cancro da mama localmente avançado HR positivo, HER2 negativo não
+passível de resseção ou radioterapia com intenção curativa ou cancro da mama metastático,
+independentemente do seu estado menopáusico, cuja doença tinha progredido após terapêutica
+endócrina anterior no contexto (neo) adjuvante ou metastático.
+Um total de 521 mulheres pré/peri e pós-menopáusicas cuja doença tinha progredido durante ou no
+prazo de 12 meses a contar da conclusão da terapêutica endócrina adjuvante ou durante ou no prazo de
+1 mês a contar da terapêutica endócrina prévia para doença metastática, foram aleatorizadas segundo
+uma proporção 2:1 para receberem Faslodex mais palbociclib ou Faslodex mais placebo e
+estratificadas por sensibilidade documentada à terapêutica hormonal prévia, estado menopáusico à
+12
+
+entrada no estudo (pré/peri versus pós-menopáusicas), e presença de metástases viscerais. As mulheres
+pré/peri-menopáusicas receberam o agonista da LHRH, goserrelina. As doentes com doença
+avançada/metástica, sintomatologia, proliferação visceral, que estavam em risco de ter complicações
+potencialmente fatais num curto espaço de tempo (incluindo doentes com enormes derrames não
+controlados [pleural, pericárdico, peritoneal], linfagite pulmonar e acima de 50% de envolvimento
+hepático), não foram elegíveis para participação no estudo.
+As doentes continuaram a receber o tratamento atribuído até progressão objetiva da doença,
+deterioração sintomática, toxicidade inaceitável, morte ou retirada do consentimento, o que ocorresse
+primeiro. Não era permitido mudar de braço de tratamento.
+As doentes estavam bem emparelhadas em termos demográficos iniciais e características de
+prognóstico entre o braço de Faslodex mais palbociclib e o braço Faslodex mais placebo. Neste
+estudo, a mediana de idade das doentes incluídas era de 57 anos (intervalo 29-88). Em cada braço de
+tratamento, a maioria das doentes era caucasiana, tinha sensibilidade documentada à terapêutica
+hormonal prévia e era pós-menopáusica.
+Aproximadamente 20% das doentes eram pré/peri-menopáusicas. Todas as doentes tinham recebido
+previamente terapêutica sistémica e a maioria das doentes em cada braço de tratamento tinha recebido
+anteriormente um regime de quimioterapia para o seu diagnóstico primário. Mais de metade (62%)
+tinha um estado funcional de desempenho 0 segundo ECOG PS, 60% tinha metástases viscerais e 60%
+tinha recebido previamente mais do que 1 regime hormonal para o seu diagnóstico primário.
+O objetivo primário do estudo foi a PFS avaliada pelo investigador de acordo com RECIST 1.1. As
+análises de suporte da PFS foram baseadas numa Revisão Radiológica Central Independente. Os
+objetivos secundários incluiram a OR, CBR, sobrevivência global (OS), segurança e o tempo até
+deterioração (TTD) no parâmetro de avaliação da dor.
+O estudo alcançou o seu objetivo primário de prolongar a PFS avaliada pelo investigador na análise
+interina realizada com 82% de acontecimentos de PFS planeados; os resultados cruzaram a fronteira
+de eficácia de Haybittle-Peto pré-definida (=0,00135), demonstrando um prolongamento da PFS
+estatisticamente significativo e um efeito de tratamento clinicamente significativo. Na Tabela 5 é
+apresentada uma atualização mais madura dos dados de eficácia.
+Após um tempo médio de acompanhamento de 45 meses, a análise de OS final foi realizada com base
+em 310 acontecimentos (60% dos doentes aleatorizados). Foi observada uma diferença de 6,9 meses
+de OS mediana no braço de palbociclib mais fulvestrant em comparação com o braço de placebo mais
+fulvestrant; este resultado não foi estatisticamente significativo no nível de significância préespecificado de 0,0235 (unilateral). No braço de placebo mais fulvestrant, 15,5% dos doentes
+aleatorizados receberam palbociclib e outros inibidores da Cinase Dependente de Ciclina (CDK) como
+tratamentos subsequentes pós-progressão.
+Os resultados da PFS avaliada pelo investigador e dos dados finais da OS do estudo PALOMA3 são
+apresentados na Tabela 5. As curvas de Kaplan-Meier são mostradas nas Figuras 2 e 3,
+respetivamente.
+Tabela 5
+
+Resultados de eficácia – estudo PALOMA3 (Avaliação pelo investigador, população
+intenção de tratar)
+Análise Atualizada
+(término a 23 de outubro de 2015)
+Faslodex mais palbociclib
+Faslodex mais placebo
+(N=347)
+(N=174)
+
+Sobrevivência livre de
+progressão
+Mediana [meses (IC 95%)]
+Probabilidade de risco (IC
+95%) e valor-p
+
+11,2 (9,5; 12,9)
+4,6 (3,5; 5,6)
+0,497 (0,398; 0,620); p <0,000001
+
+13
+
+Objetivos secundários
+OR [% (IC 95%)]
+OR (doença mensurável) [%
+(IC 95%)]
+CBR [% (IC 95%)]
+Sobrevivência global (OS) final
+(término a 13 de abril de 2018)
+Número de acontecimentos
+(%)
+Mediana [meses (IC 95%)]
+Probabilidade de risco (IC
+95%) e valor-p†
+
+26,2 (21,7; 31,2)
+33,7 (28,1; 39,7)
+
+13,8 (9,0; 19,8)
+17,4 (11,5; 24,8)
+
+68,0 (62,8; 72,9)
+
+39,7 (32,3; 47,3)
+
+201 (57,9)
+
+109 (62,6)
+
+34,9 (28,8; 40,0)
+28,0 (23,6; 34,6)
+0,814 (0,644; 1,029)
+p=0,0429†*
+
+CBR=resposta do benefício clínico; IC=intervalo de confiança; N=número de doentes; OR=resposta objetiva
+Os resultados de objetivos secundários são baseados em respostas confirmadas e não confirmadas de acordo com
+RECIST 1.1.
+*
+Não é estatisticamente significante.
+†
+valor-p unilateral do teste de Log-rank estratificado pela presença de metástases viscerais e sensibilidade à
+terapia endócrina prévia por aleatorização.
+
+Probabilidade de Sobrevivência Livre de Progressão (%)
+
+Figura 2. Curva de Kaplan-Meier de sobrevivência livre de progressão (avaliação pelo
+investigador, população intenção de tratar) – estudo PALOMA3 (término a 23 de outubro de
+2015)
+
+100
+
+palbociclib+fulvestrant
+placebo+fulvestrant
+
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+0
+
+2
+
+4
+
+6
+
+8
+
+215
+62
+
+189
+51
+
+Número de doentes em risco
+PAL+FUL 347
+PCB+FUL 174
+
+276
+112
+
+245
+83
+
+10
+12
+14
+Tempo (Mês)
+168
+43
+
+137
+29
+
+69
+15
+
+16
+
+18
+
+20
+
+22
+
+38
+11
+
+12
+4
+
+2
+1
+
+1
+
+FUL=fulvestrant; PAL=palbociclib; PCB=placebo.
+
+Foi observada uma redução do risco de progressão da doença ou de morte no braço de Faslodex mais
+palbociclib em todos os subgrupos individuais de doentes, definidos por fatores de estratificação e
+características basais. Isto foi evidente para as mulheres pré/peri-menopáusicas (HR de 0,46 [IC 95%:
+0,28; 0,75] e para as mulheres pós-menopáusicas (HR de 0,52 [IC 95%: 0,40; 0,66]) e para doentes
+com doença visceral metastática (HR de 0,50 [IC 95%: 0,38; 0,65]) e para doentes com doença
+metastática não visceral (HR de 0,48 [IC 95%: 0,33; 0,71]). No contexto metastático foi igualmente
+observado benefício independentemente das linhas de terapêutica anteriores, quer fossem 0 (HR de
+0,59 [IC 95%: 0,37; 0,93]), 1 (HR de 0,46 [IC 95%: 0,32; 0,64]), 2 (HR de 0,48 [IC 95%: 0,30; 0,76])
+ou ≥ 3 linhas (HR de 0,59 [IC 95%: 0,28; 1,22]).
+14
+
+Probabilidade Global de Sobrevivência (%)
+
+Figura 3. Curva de Kaplan-Meier de sobrevivência global (população intenção de tratar) –
+estudo PALOMA3 (término a 13 abril de 2018)
+100
+
+palbociclib+fulvestrant
+placebo+fulvestrant
+
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+0
+
+6
+
+12
+
+18
+
+Número de doentes em risco
+PAL+FUL 347
+PCB+FUL 174
+
+321
+155
+
+286
+135
+
+24
+
+30
+
+36
+
+42
+
+48
+
+148
+57
+
+126
+43
+
+17
+7
+
+54
+
+Tempo (Mês)
+247
+115
+
+209
+86
+
+165
+68
+
+FUL=fulvestrant; PAL=palbociclib; PCB=placebo.
+
+As medidas adicionais de eficácia (OR e TTR) avaliadas nos subgrupos de doentes com e sem doença
+visceral são apresentadas na Tabela 6.
+Tabela 6
+
+Resultados de eficácia em doença visceral e não visceral do estudo PALOMA3
+(população intenção de tratar)
+
+OR [% (IC 95%)]
+TTR*, Mediana
+[meses (intervalo)]
+
+Doença visceral
+Faslodex mais
+Faslodex mais
+palbociclib
+placebo
+(N=206)
+(N=105)
+35,0
+13,3
+(28,5; 41,9)
+(7,5; 21,4)
+3,8
+5,4
+(3,5; 16,7)
+(3,5; 16,7)
+
+Doença não visceral
+Faslodex mais
+Faslodex mais
+palbociclib
+placebo
+(N=141)
+(N=69)
+13,5
+14,5
+(8,3; 20,2)
+(72; 25,0)
+3,7
+3,6
+(1,9; 13,7)
+(3,4; 3,7)
+
+*Resultados de resposta baseados em respostas confirmadas e não confirmadas.
+N=número de doentes; IC=intervalo de confiança; OR=resposta objetiva; TTR=tempo para a primeira resposta.
+
+Sintomas notificados pelas doentes foram avaliados através da utilização do questionário sobre
+qualidade de vida (QLQ)-C30 da Organização Europeia para a Pesquisa e Tratamento do Cancro
+(EORTC) e o seu Módulo Cancro da Mama (EORTC QLQ-BR23). Um total de 335 doentes no braço
+de Faslodex mais palbociclib e 166 doentes no braço de Faslodex mais placebo responderam ao
+questionário no início do estudo (baseline) e, pelo menos uma vez após o início do estudo (baseline).
+O Tempo até Deterioração foi pré-definido como sendo o tempo entre a baseline e a primeira
+ocorrência de um aumento ≥ 10 pontos em relação ao momento basal nas escalas de pontuação da dor.
+A adição de palbociclib ao Faslodex resultou num benefício a nível dos sintomas ao atrasar de forma
+significativa o Tempo até Deterioração do sintoma dor em comparação com Faslodex mais placebo
+(mediana de 8,0 meses versus 2,8 meses; HR de 0,64 [IC 95%: 0,49; 0,85]; p<0,001).
+Efeitos sobre o endométrio após a menopausa
+Os dados pré-clínicos não sugerem um efeito estimulador de fulvestrant sobre o endométrio após a
+menopausa (ver secção 5.3). Um estudo de 2 semanas em voluntárias saudáveis pós-menopáusicas
+15
+
+tratadas com 20 μg de etinilestradiol por dia revelou que o pré-tratamento com Faslodex 250 mg
+resultou numa redução significativa da estimulação do endométrio após a menopausa, em comparação
+com o pré-tratamento com placebo, a avaliar pela medição ecográfica da espessura do endométrio.
+O tratamento neoadjuvante, durante um período de até 16 semanas, em doentes com cancro da mama
+tratadas com Faslodex 500 mg ou Faslodex 250 mg, não resultou em alterações clinicamente
+significativas da espessura do endométrio, indicando uma ausência de efeito agonista. Não existe
+evidência de efeitos adversos endometriais nas doentes estudadas com cancro da mama. Não há dados
+disponíveis relativamente à morfologia do endométrio.
+Em dois estudos de curto prazo (1 e 12 semanas) efetuados em doentes pré-menopáusicas com doença
+ginecológica benigna, não foram observadas diferenças significativas na espessura do endométrio
+(pela medição ecográfica) entre os grupos de fulvestrant e de placebo.
+Efeitos sobre o osso
+Não existem dados a longo prazo sobre o efeito de fulvestrant no osso. O tratamento neoadjuvante,
+durante um período de até 16 semanas, em doentes com cancro da mama tratadas com Faslodex
+500 mg ou Faslodex 250 mg, não resultou em alterações clinicamente significativas nos marcadores
+séricos de turnover ósseo.
+População pediátrica
+Faslodex não é indicado para utilização em crianças. A Agência Europeia de Medicamentos dispensou
+a obrigação de submissão dos resultados dos estudos com Faslodex em todos os subgrupos da
+população pediátrica no cancro da mama (ver secção 4.2 para informação sobre utilização pediátrica).
+Um estudo aberto de Fase 2 investigou a segurança, a eficácia e a farmacocinética de fulvestrant em
+30 raparigas com idade entre 1 a 8 anos com Puberdade Precoce Progressiva associada ao Síndrome
+McCune Albright (MAS). Os doentes pediátricos receberam mensalmente uma dose intramuscular de
+4 mg/Kg de fulvestrant. Este estudo de 12 meses investigou um conjunto de objetivos MAS e
+evidenciou uma redução na frequência de hemorragia vaginal e uma redução na taxa de idade óssea
+avançada. Neste estudo, as concentrações de fulvestrant no estado estacionário em crianças foram
+consistentes com as dos adultos (ver secção 5.2). Deste pequeno estudo, não surgiram novas
+preocupações de segurança, embora não estejam ainda disponíveis os dados a 5 anos.
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+Após administração intramuscular de Faslodex, como uma injeção de ação prolongada, fulvestrant é
+lentamente absorvido e as concentrações plasmáticas máximas (Cmax) são atingidas após cerca de
+5 dias. A administração do regime de Faslodex 500 mg atinge níveis de exposição de, ou perto do,
+estado estacionário durante o primeiro mês de tratamento (média [CV]: AUC 475 [33,4%] ng.dias/ml,
+Cmax 25,1 [35,3%] ng/ml, Cmin 16,3 [25,9%] ng/ml, respetivamente). No estado de equilíbrio, as
+concentrações plasmáticas de fulvestrant são mantidas dentro de um intervalo relativamente estreito,
+com aproximadamente uma diferença de até 3 vezes entre as concentrações máximas e vale. Após
+administração intramuscular, a exposição é aproximadamente proporcional à dose no intervalo de dose
+de 50 a 500 mg.
+Distribuição
+Fulvestrant é submetido a uma rápida e extensa distribuição. O grande volume de distribuição aparente
+no estado estacionário (Vdss) de aproximadamente 3 a 5 l/kg sugere que a distribuição é largamente
+extravascular. Fulvestrant tem uma elevada ligação (99%) às proteínas plasmáticas. As frações de
+lipoproteínas de muita baixa densidade (VLDL), de baixa densidade (LDL) e de alta densidade (HDL)
+são os principais componentes de ligação. Não se realizaram estudos de interação medicamentosa
+sobre a ligação competitiva às proteínas. Não foi determinado o papel da globulina de ligação à
+hormona sexual (SHBG).
+
+16
+
+Biotransformação
+O metabolismo de fulvestrant não foi completamente avaliado, mas envolve combinações de diversas
+vias de biotransformação possíveis, análogas às dos esteroides endógenos. Os metabolitos
+identificados (inclui os metabolitos 17-cetona, sulfona, 3-sulfato, 3- e 17-glucuronido) ou são menos
+ativos, ou apresentam uma atividade semelhante à de fulvestrant em modelos de antiestrogénios. Os
+estudos em que foram utilizadas preparações de fígado humano e enzimas humanas recombinantes
+indicam que o CYP 3A4 é a única isoenzima P450 envolvida na oxidação de fulvestrant; contudo, as
+vias não P450 parecem ser mais predominantes in vivo. Os dados in vitro sugerem que fulvestrant não
+inibe as isoenzimas do CYP450.
+Eliminação
+Fulvestrant é eliminado principalmente na forma metabolizada. A principal via de excreção é a via
+fecal, com menos de 1% excretado na urina. Fulvestrant tem uma depuração elevada, de
+11±1,7 ml/min/kg, sugerindo um rácio de extração hepática elevado. A semivida terminal (t1/2) depois
+da injeção intramuscular é determinada pela taxa de absorção, e foi estimada em 50 dias.
+Populações especiais
+Numa análise farmacocinética populacional de dados provenientes dos estudos de Fase 3 não foi
+detetada qualquer diferença no perfil farmacocinético de fulvestrant no que respeita à idade (intervalo
+de 33 a 89 anos), peso (40-127 kg) ou raça.
+Compromisso renal
+Um compromisso renal ligeiro a moderado não influenciou a farmacocinética de fulvestrant em
+qualquer extensão clinicamente relevante.
+Compromisso hepático
+A farmacocinética de fulvestrant foi avaliada num estudo clínico de dose única realizado em mulheres
+com compromisso hepático ligeiro a moderado (classe A e B da classificação de Child-Pugh). Foi
+utilizada uma formulação com dose elevada de fulvestrant de mais curta duração via injeção
+intramuscular. Verificou-se um aumento da AUC até cerca de 2,5 vezes nas mulheres com
+compromisso hepático comparativamente a indivíduos saudáveis. Em doentes sob terapêutica com
+Faslodex é esperado que um aumento desta magnitude na exposição seja bem tolerado. Não foram
+avaliadas mulheres com compromisso hepático grave (classe C da classificação Child-Pugh).
+População pediátrica
+A farmacocinética do fulvestrant foi avaliada em estudos clínicos realizados em 30 raparigas com
+Puberdade Precoce Progressiva associada ao Síndrome McCune Albright (ver secção 5.1). Os doentes
+pediátricos de idade entre 1 a 8 anos receberam mensalmente uma dose intramuscular de 4 mg/kg de
+fulvestrant. No estado estacionário, a média geométrica (desvio padrão) da concentração (Cmin,ss) e da
+AUCss foi respetivamente de 4,2 (0,9) ng/ml e 3680 (1020) ng*hr/ml. Apesar dos dados serem
+limitados, as concentrações de fulvestrant em estado estacionário nas crianças parecem consistentes
+com as dos adultos.
+5.3
+
+Dados de segurança pré-clínica
+
+A toxicidade aguda de fulvestrant é baixa.
+Faslodex e outras formulações de fulvestrant foram bem tolerados nas espécies animais utilizados nos
+estudos com doses múltiplas. As reações locais, incluindo miosite e granuloma, no local de injeção
+foram atribuídas ao veículo mas, a gravidade da miosite no coelho aumentou com fulvestrant, em
+comparação com o controlo de soro fisiológico. Nos estudos de toxicidade com doses múltiplas
+intramusculares de fulvestrant, em ratos e cães, a atividade antiestrogénica de fulvestrant foi
+responsável pela maioria dos efeitos observados, particularmente a nível do sistema reprodutor da
+fêmea, mas também noutros órgãos sensíveis às hormonas em ambos os sexos. Foi observada artrite
+envolvendo uma variedade de diferentes tecidos nalguns cães após administração crónica (12 meses).
+
+17
+
+Nos estudos efetuados no cão, e após administração oral e intravenosa, observaram-se efeitos sobre o
+sistema cardiovascular (elevações ligeiras do segmento S-T no ECG [oral], e bloqueio sinusal num
+cão [intravenosa]). Estes efeitos ocorreram com níveis de exposição superiores aos das doentes
+(Cmax > 15 vezes) e têm, provavelmente uma importância limitada para a segurança humana na dose
+clínica.
+Fulvestrant não mostrou qualquer potencial genotóxico.
+Fulvestrant mostrou efeitos na reprodução e no desenvolvimento embrio/fetal consistentes com a
+atividade antiestrogénica, em doses semelhantes à dose clínica. Nos ratos, foi observado uma redução
+reversível da fertilidade da fêmea e da sobrevivência embrionária, distocia e um aumento da
+incidência de malformações fetais, incluindo flexão do tarso. Os coelhos aos quais se administrou
+fulvestrant não conseguiram manter a gravidez. Observaram-se aumentos do peso placentário e perda
+de fetos pós-implantação. Verificou-se um aumento na incidência de alterações fetais nos coelhos
+(transposição postero-anterior da cintura pélvica e 27ª vértebra pré-sagrada).
+Um estudo de oncogenicidade de dois anos em ratos (administração intramuscular de Faslodex)
+revelou um aumento na incidência de tumores benignos de células granulosas do ovário nos ratos
+fêmea com a dose mais alta, 10 mg/rato/15 dias, e um aumento na incidência de tumores das células
+testiculares de Leydig nos machos. No estudo de oncogenicidade de dois anos (administração diária
+oral) ocorreu um aumento da incidência de tumores do estroma dos cordões sexuais do ovário (tanto
+benignos como malignos) em doses de 150 e 500 mg/kg/dia. No nível de não-efeito para estes
+resultados, os níveis de exposição sistémica (AUC) foram, nos ratos, aproximadamente 1,5-vezes os
+níveis esperados de exposição humana nas fêmeas e 0,8-vezes nos machos e, nos murganhos,
+aproximadamente 0,8-vezes os níveis de exposição humana esperados, quer nos machos quer nas
+fêmeas. A indução deste tipo de tumores é consistente com alterações do feedback endócrino,
+relacionado com a farmacologia, nos níveis de gonadotrofinas causados pelos antiestrogénios em
+animais com cio. Portanto, estes dados não são considerados relevantes para a utilização de fulvestrant
+em mulheres pós-menopáusicas com cancro da mama avançado.
+Avaliação do risco ambiental (ARA)
+Estudos de avaliação do risco ambiental mostraram que fulvestrant pode ter potencial para causar
+efeitos adversos no ambiente aquático (ver secção 6.6).
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1.
+
+Lista dos excipientes
+
+Etanol (96 por cento)
+Álcool benzílico
+Benzoato de benzilo
+Óleo de rícino refinado
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros
+medicamentos.
+6.3
+
+Prazo de validade
+
+4 anos
+6.4
+
+Precauções especiais de conservação
+
+Conservar e transportar no frigorífico (2°C-8°C).
+
+18
+
+Os desvios de temperatura fora do intervalo de 2°C-8°C devem ser limitados. Isto inclui evitar a
+conservação a temperaturas superiores a 30ºC, e não exceder o período de 28 dias em que a
+temperatura média de conservação do medicamento seja inferior a 25ºC (mas acima de 2ºC-8ºC).
+Após os desvios de temperatura, o medicamento deve ser imediatamente colocado nas condições de
+conservação recomendadas (conservar e transportar no frigorífico entre 2ºC-8ºC). Os desvios de
+temperatura têm um efeito cumulativo na qualidade do medicamento e o período de tempo de 28 dias
+não deve ser excedido durante os 4 anos de prazo de validade de Faslodex (ver secção 6.3). A
+exposição a temperaturas inferiores a 2ºC não danificam o medicamento desde que não seja
+conservado abaixo dos -20ºC.
+Conservar a seringa pré-cheia na embalagem de origem para proteger da luz.
+6.5
+
+Natureza e conteúdo do recipiente
+
+A apresentação de seringa pré-cheia consiste em:
+Uma seringa pré-cheia de vidro tipo 1 incolor com um êmbolo de polistireno, provido de uma tampa
+de integridade, contendo 5 ml de solução injetável de Faslodex.
+É igualmente fornecida uma agulha de segurança (BD SafetyGlide) para ligação ao respetivo corpo.
+Ou
+Duas seringas pré-cheias de vidro tipo 1 incolor com um êmbolo de polistireno, provido de uma tampa
+de integridade, contendo 5 ml de solução injetável de Faslodex. São igualmente fornecidas agulhas de
+segurança (BD SafetyGlide) para ligação ao respetivo corpo.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+Instruções de administração
+Administrar a injeção de acordo com as normas locais para a realização de injeções intramusculares de
+grande volume.
+NOTA: Devido à proximidade do nervo ciático subjacente, recomenda-se precaução se Faslodex for
+administrado no local de injeção dorsogluteal (ver secção 4.4).
+Aviso - Não submeter a autoclavagem a agulha de segurança (Agulha Hipodérmica com Proteção BD
+SafetyGlide) antes da utilização. As mãos nunca devem tocar na agulha durante a sua utilização e
+eliminação.
+Para cada uma das duas seringas:
+
+
+
+
+
+Retirar o corpo da seringa de vidro do suporte e verificar
+se esta não está danificada.
+Abrir a embalagem exterior da agulha de segurança
+(SafetyGlide).
+As soluções parentéricas têm que ser inspecionadas
+visualmente no que respeita a partículas estranhas e
+alteração da cor antes da administração.
+Segurar a seringa na vertical na parte rugosa (C). Com a
+outra mão, segurar a tampa (A) e cuidadosamente
+inclinar para trás e para a frente até a tampa se
+desconectar e poder ser puxada para fora, não rodar (ver
+Figura 1).
+
+19
+
+Figura 1
+
+
+
+Retirar a tampa (A) para cima em direção vertical. Para
+manter a esterilidade não tocar na ponta da seringa (B)
+(ver Figura 2).
+
+Figura 2
+
+
+
+Encaixar a agulha de segurança no Luer-Lok e rodar até
+fixar firmemente (ver Figura 3).
+Verificar se a agulha está fixa no adaptador Luer antes de
+sair da posição vertical.
+Desencaixar a proteção da agulha a direito para evitar
+danificar a ponta da agulha.
+Transportar a seringa cheia até ao local de administração.
+Remover a proteção da agulha.
+Expelir o excesso de ar da seringa.
+
+Figura 3
+
+
+
+Administrar lentamente (1-2 minutos/injeção) por via
+intramuscular na nádega (área glútea). Para comodidade
+do utilizador, a posição do bisel da agulha está alinhada
+com a posição da alavanca (ver Figura 4).
+
+Figura 4
+
+
+
+Após a injeção, empurrar imediatamente com um dedo a
+alavanca para ativação do mecanismo do dispositivo de
+proteção (ver Figura 5).
+NOTA: Ativar o dispositivo mantendo-o afastado de si e
+dos outros. Escutar o clique e confirmar visualmente que
+a ponta da agulha ficou completamente coberta.
+
+Figura 5
+
+
+
+
+
+
+
+Eliminação
+As seringas pré-cheias são apenas para uma única utilização.
+Este medicamento pode representar um risco para o ambiente aquático. Qualquer medicamento não
+utilizado ou resíduos devem ser eliminados de acordo com as exigências locais (ver secção 5.3).
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+AstraZeneca AB
+SE-151 85 Södertälje
+Suécia
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/03/269/001 1 Seringa
+EU/1/03/269/002 2 Seringas
+
+20
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 10 de março de 2004
+Data da última renovação: 10 de março de 2009
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da Internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu
+
+21
+
+ANEXO II
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO
+LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+SEGURA E EFICAZ DO MEDICAMENTO
+
+22
+
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço dos fabricantes responsáveis pela libertação do lote
+AstraZeneca AB
+Karlebyhusentrén
+Astraallén
+SE-152 57 Södertälje
+Suécia
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento sujeito a receita médica.
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+
+
+Plano de gestão do risco (PGR)
+
+O Titular da autorização de introdução no mercado (AIM) deve efetuar as atividades e as intervenções
+de farmacovigilância requeridas e detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de
+introdução no mercado, e quaisquer atualizações subsequentes do PGR acordadas.
+Deve ser apresentado um PGR atualizado:
+
+A pedido da Agência Europeia de Medicamentos;
+
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+23
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+24
+
+A. ROTULAGEM
+
+25
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO
+ACONDICIONAMENTO PRIMÁRIO
+CARTONAGEM
+
+1.
+
+NOME DO MEDICAMENTO
+
+Faslodex 250 mg solução injetável
+fulvestrant
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Uma seringa pré-cheia contém 250 mg de fulvestrant em 5 ml de solução.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Etanol (96 por cento), álcool benzílico, benzoato de benzilo e óleo de rícino refinado. Para mais
+informações consultar o folheto informativo.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Solução injetável numa seringa pré-cheia.
+1 seringa pré-cheia (5 ml)
+1 agulha de segurança
+2 seringas pré-cheias (5 ml cada)
+2 agulhas de segurança
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via intramuscular.
+Apenas para uma única utilização.
+Para obter instruções completas sobre a administração de Faslodex e utilização da agulha de
+segurança, ver as Instruções de administração no interior.
+Duas seringas devem ser administradas para receber a dose mensal recomendada de 500 mg.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+26
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar e transportar no frigorífico.
+Conservar a seringa pré-cheia na embalagem de origem para proteger da luz. Para informações sobre
+os desvios de temperatura ver folheto informativo.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+AstraZeneca AB
+SE-151 85 Södertälje
+Suécia
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/03/269/001 1 Seringa
+EU/1/03/269/002 2 Seringas
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+Medicamento sujeito a receita médica.
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC:
+SN:
+27
+
+NN:
+
+28
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DA SERINGA PRÉ-CHEIA
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Faslodex 250 mg solução injetável
+fulvestrant
+Via IM
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+5 ml
+
+6.
+
+OUTRAS
+
+29
+
+B. FOLHETO INFORMATIVO
+
+30
+
+Folheto informativo: Informação para o utilizador
+Faslodex 250 mg solução injetável
+fulvestrant
+Leia com atenção todo este folheto antes de começar a utilizar este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados
+neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+O que contém este folheto:
+1.
+O que é Faslodex e para que é utilizado
+2.
+O que precisa de saber antes de utilizar Faslodex
+3.
+Como utilizar Faslodex
+4.
+Efeitos secundários possíveis
+5.
+Como conservar Faslodex
+6.
+Conteúdo da embalagem e outras informações
+1.
+
+O que é Faslodex e para que é utilizado
+
+Faslodex contém a substância ativa fulvestrant, que pertence ao grupo dos bloqueadores de estrogénio.
+Os estrogénios, um tipo de hormonas sexuais femininas, podem em alguns casos estar envolvidos no
+crescimento do cancro da mama.
+Faslodex é utilizado quer:
+ em monoterapia, para tratar mulheres pós-menopáusicas com um tipo de cancro da mama
+chamado cancro da mama positivo para o recetor de estrogénio que é localmente avançado ou
+que se espalhou para outras partes do corpo (metastático), ou
+ em associação com palbociclib para tratar mulheres com um tipo de cancro da mama chamado
+cancro da mama positivo para recetores hormonais, negativo para o recetor tipo 2 do fator de
+crescimento epidérmico humano, que é localmente avançado ou que se espalhou para outras
+partes do corpo (metastático). As mulheres que não chegaram à menopausa serão também
+tratadas com um medicamento chamado agonista da hormona libertadora da hormona
+luteinizante (LHRH).
+Quando Faslodex é administrado em associação com palbociclib, é importante que leia o folheto
+informativo de palbociclib. Se tiver alguma dúvida sobre palbociclib, pergunte ao seu médico.
+2.
+
+O que precisa de saber antes de utilizar Faslodex
+
+Não utilize Faslodex:
+se tem alergia ao fulvestrant ou a qualquer outro componente deste medicamento (indicados na
+secção 6)
+se está grávida ou a amamentar
+se tem problemas graves de fígado
+Advertências e precauções
+Fale com o seu médico, farmacêutico ou enfermeiro antes de utilizar Faslodex se alguma destas
+situações se aplica a si:
+problemas de rins ou fígado
+baixo número de plaquetas (que ajudam na coagulação do sangue) ou alterações da coagulação
+31
+
+-
+
+problemas prévios com coágulos sanguíneos
+osteoporose (perda de densidade óssea)
+alcoolismo
+
+Crianças e adolescentes
+Faslodex não é indicado em crianças e adolescentes com idade inferior a 18 anos.
+Outros medicamentos e Faslodex
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou vier a tomar
+outros medicamentos.
+Em particular, deve informar o seu médico se estiver a utilizar anticoagulantes (medicamentos para
+prevenir a formação de coágulos sanguíneos).
+Gravidez e amamentação
+Não pode utilizar Faslodex se estiver grávida. Se houver probabilidade de engravidar, deve utilizar um
+método contracetivo eficaz enquanto estiver em tratamento com Faslodex e durante 2 anos após a sua
+última dose.
+Não pode amamentar durante o tratamento com Faslodex.
+Condução de veículos e utilização de máquinas
+Não é esperado que Faslodex afete a sua capacidade de conduzir ou utilizar máquinas. Contudo, se se
+sentir cansada após o tratamento, não conduza nem utilize máquinas.
+Faslodex contém 10% p/v de etanol (álcool), ou seja, até 500 mg por injeção, equivalente a 10 ml de
+cerveja ou 4 ml de vinho.
+Prejudicial para os indivíduos que sofrem de alcoolismo.
+Para ter em consideração quando utilizado em grupos de alto risco tais como doentes com problemas
+de fígado ou epilepsia.
+Faslodex contém 500 mg de álcool benzílico em cada injeção, equivalente a 100 mg/ml.
+O álcool benzílico pode causar reações alérgicas.
+Faslodex contém 750 mg de benzoato de benzilo em cada injeção, equivalente a 150 mg/ml.
+3.
+
+Como utilizar Faslodex
+
+Utilize sempre este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale
+com o seu médico ou farmacêutico se tiver dúvidas.
+A dose recomendada é de 500 mg de fulvestrant (duas injeções de 250 mg/5 ml) administrada uma vez
+por mês, com uma dose adicional de 500 mg administrada 2 semanas após a dose inicial.
+O seu médico ou enfermeiro irá administrar Faslodex como injeção intramuscular lenta, uma em cada
+nádega.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico
+ou enfermeiro.
+4.
+
+Efeitos secundários possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos secundários, embora estes não se
+manifestem em todas as pessoas.
+
+32
+
+Pode necessitar de tratamento médico imediato se experimentar algum dos seguintes efeitos
+secundários:
+
+
+
+
+
+Reações alérgicas (hipersensibilidade), incluindo inchaço da face, lábios, língua e/ou garganta
+que podem ser sinais de reações anafiláticas
+Tromboembolismo (aumento do risco de coágulos sanguíneos)*
+Inflamação do fígado (hepatite)
+Insuficiência do fígado
+
+Fale com o seu médico, farmacêutico ou enfermeiro se tiver quaisquer dos seguintes efeitos
+secundários:
+Efeitos secundários muito frequentes (podem afetar mais de 1 em cada 10 pessoas)
+
+Reações no local de injeção, tais como dor e/ou inflamação
+
+Níveis anormais das enzimas do fígado (em análises ao sangue)*
+
+Náuseas (sentir-se doente)
+
+Fraqueza, cansaço*
+
+Dor nas articulações e musculosquelética
+
+Afrontamentos
+
+Erupção cutânea (na pele)
+
+Reações alérgicas (hipersensibilidade), incluindo inchaço da face, lábios, língua e/ou garganta
+Todos os outros efeitos secundários:
+Efeitos secundários frequentes (podem afetar até 1 em cada 10 pessoas)
+
+Dor de cabeça
+
+Vómitos, diarreia ou perda de apetite*
+
+Infeções das vias urinárias
+
+Dor nas costas*
+
+Aumento da bilirrubina (pigmento da bílis produzido pelo fígado)
+
+Tromboembolismo (aumento do risco de coágulos sanguíneos)*
+
+Diminuição dos níveis de plaquetas (trombocitopenia)
+
+Hemorragia vaginal
+
+Dor lombar com irradiação para um lado da perna (ciática)
+
+Fraqueza súbita, adormecimento, formigueiro ou perda de movimento da sua perna,
+especialmente apenas num dos lados do seu corpo, problemas súbitos com o andar ou de
+equilíbrio (neuropatia periférica)
+Efeitos secundários pouco frequentes (podem afetar até 1 em cada 100 pessoas)
+
+Corrimento vaginal esbranquiçado, espesso, e candidíase (infeção)
+
+Nódoa negra e hemorragia no local de injeção
+
+Aumento da gama-GT, uma enzima do fígado avaliada em análises ao sangue
+
+Inflamação do fígado (hepatite)
+
+Insuficiência do fígado
+
+Adormecimento, formigueiro e dor
+
+Reações anafiláticas
+* Inclui os efeitos secundários para os quais o papel exato de Faslodex não pode ser avaliado devido à
+doença subjacente.
+Comunicação de efeitos secundários
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+secundários diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+
+33
+
+comunicar efeitos secundários, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+5.
+
+Como conservar Faslodex
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior ou nos rótulos
+da seringa após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+Conservar e transportar no frigorífico (2ºC-8ºC).
+Os desvios de temperatura fora do intervalo de 2°C-8°C devem ser limitados. Isto inclui evitar a
+conservação a temperaturas superiores a 30ºC, e não exceder o período de 28 dias em que a
+temperatura média de conservação do medicamento seja inferior a 25ºC (mas acima de 2ºC-8ºC).
+Após os desvios de temperatura, o medicamento deve ser imediatamente colocado nas condições de
+conservação recomendadas (conservar e transportar no frigorífico entre 2ºC-8ºC). Os desvios de
+temperatura têm um efeito cumulativo na qualidade do medicamento e o período de tempo de 28 dias
+não deve ser excedido durante os 4 anos de prazo de validade de Faslodex. A exposição a
+temperaturas inferiores a 2ºC não danificam o medicamento desde que não seja conservado abaixo dos
+-20ºC.
+Conservar a seringa pré-cheia na embalagem de origem para proteger da luz.
+O seu profissional de saúde será responsável pela correta conservação, utilização e eliminação de
+Faslodex.
+Este medicamento pode representar um risco para o ambiente aquático. Não deite fora quaisquer
+medicamentos na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como deitar fora os
+medicamentos que já não utiliza. Estas medidas ajudarão a proteger o ambiente.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Faslodex
+A substância ativa é fulvestrant. Cada seringa pré-cheia (5 ml) contém 250 mg de fulvestrant.
+Os outros componentes (excipientes) são etanol (96 por cento), álcool benzílico, benzoato de
+benzilo e óleo de rícino refinado.
+Qual o aspeto de Faslodex e conteúdo da embalagem
+Faslodex é uma solução límpida, viscosa, incolor a amarela numa seringa pré-cheia, provida de uma
+tampa de integridade, contendo 5 ml de solução injetável. Duas seringas devem ser administradas para
+receber a dose mensal recomendada de 500 mg.
+Faslodex tem 2 apresentações, uma embalagem contendo 1 seringa de vidro pré-cheia ou uma
+embalagem contendo 2 seringas de vidro pré-cheias. São igualmente fornecidas agulhas de segurança
+(BD SafetyGlide) para ligação ao respetivo corpo.
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado
+AstraZeneca AB
+SE-151 85 Södertälje
+Suécia
+
+34
+
+Fabricante
+AstraZeneca AB
+Karlebyhusentrén
+Astraallén
+SE-152 57 Södertälje
+Suécia
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+AstraZeneca S.A./N.V.
+Tel: +32 2 370 48 11
+
+Lietuva
+UAB AstraZeneca Lietuva
+Tel: +370 5 2660550
+
+България
+АстраЗенека България ЕООД
+Тел.: +359 24455000
+
+Luxembourg/Luxemburg
+AstraZeneca S.A./N.V.
+Tél/Tel: +32 2 370 48 11
+
+Česká republika
+AstraZeneca Czech Republic s.r.o.
+Tel: +420 222 807 111
+
+Magyarország
+AstraZeneca Kft
+Tel: +36 1 883 6500
+
+Danmark
+AstraZeneca A/S
+Tlf: +45 43 66 64 62
+
+Malta
+Associated Drug Co. Ltd
+Tel: +356 2277 8000
+
+Deutschland
+AstraZeneca GmbH
+Tel: +49 40 809034100
+
+Nederland
+AstraZeneca BV
+Tel: +31 85 808 9900
+
+Eesti
+AstraZeneca
+Tel: +372 6549 600
+
+Norge
+AstraZeneca AS
+Tlf: +47 21 00 64 00
+
+Ελλάδα
+AstraZeneca A.E.
+Τηλ: +30 210 6871500
+
+Österreich
+AstraZeneca Österreich GmbH
+Tel: +43 1 711 31 0
+
+España
+AstraZeneca Farmacéutica Spain, S.A.
+Tel: +34 91 301 91 00
+
+Polska
+AstraZeneca Pharma Poland Sp. z o.o.
+Tel.: +48 22 245 73 00
+
+France
+AstraZeneca
+Tél: +33 1 41 29 40 00
+
+Portugal
+AstraZeneca Produtos Farmacêuticos, Lda.
+Tel: +351 21 434 61 00
+
+Hrvatska
+AstraZeneca d.o.o.
+Tel: +385 1 4628 000
+
+România
+AstraZeneca Pharma SRL
+Tel: +40 21 317 60 41
+
+Ireland
+AstraZeneca Pharmaceuticals (Ireland) DAC
+Tel: +353 1609 7100
+
+Slovenija
+AstraZeneca UK Limited
+Tel: +386 1 51 35 600
+
+Ísland
+
+Slovenská republika
+35
+
+Vistor hf.
+Sími: +354 535 7000
+
+AstraZeneca AB, o.z.
+Tel: +421 2 5737 7777
+
+Italia
+AstraZeneca S.p.A.
+Tel: +39 02 00704500
+
+Suomi/Finland
+AstraZeneca Oy
+Puh/Tel: +358 10 23 010
+
+Κύπρος
+Αλέκτωρ Φαρµακευτική Λτδ
+Τηλ: +357 22490305
+
+Sverige
+AstraZeneca AB
+Tel: +46 8 553 26 000
+
+Latvija
+SIA AstraZeneca Latvija
+Tel: +371 67377100
+
+United Kingdom (Northern Ireland)
+AstraZeneca UK Ltd
+Tel: +44 1582 836 836
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu
+---------------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos profissionais de saúde:
+Faslodex 500 mg (2 x 250 mg/5 ml solução injetável) deve ser administrado utilizando duas seringas
+pré-cheias, ver secção 3.
+Instruções de administração
+Aviso - Não submeter a autoclavagem a agulha de segurança (Agulha Hipodérmica com Proteção BD
+SafetyGlide) antes da utilização. As mãos nunca devem tocar na agulha durante a sua utilização e
+eliminação.
+Para cada uma das duas seringas:
+
+
+
+
+
+Retirar o corpo da seringa de vidro do suporte e
+verificar se esta não está danificada.
+Abrir a embalagem exterior da agulha de segurança
+(SafetyGlide).
+As soluções parentéricas têm que ser inspecionadas
+visualmente no que respeita a partículas estranhas e
+alteração da cor antes da administração.
+Segurar a seringa na vertical na parte rugosa (C).
+Com a outra mão, segurar a tampa (A) e
+cuidadosamente inclinar para trás e para a frente até
+a tampa se desconectar e poder ser puxada para fora,
+não rodar (ver Figura 1).
+
+36
+
+Figura 1
+
+
+
+Retirar a tampa (A) para cima em direção vertical.
+Para manter a esterilidade não tocar na ponta da
+seringa (B) (ver Figura 2).
+
+Figura 2
+
+
+
+Encaixar a agulha de segurança no Luer-Lok e rodar
+até fixar firmemente (ver Figura 3).
+Verificar se a agulha está fixa no adaptador Luer
+antes de sair da posição vertical.
+Desencaixar a proteção da agulha a direito para
+evitar danificar a ponta da agulha.
+Transportar a seringa cheia até ao local de
+administração.
+Remover a proteção da agulha.
+Expelir o excesso de ar da seringa.
+
+Figura 3
+
+
+
+
+
+
+
+
+Administrar lentamente (1-2 minutos/injeção) por via Figura 4
+intramuscular na nádega (área glútea). Para
+comodidade do utilizador, a posição do bisel da
+agulha está alinhada com a posição da alavanca (ver
+Figura 4).
+
+
+
+Após a injeção, empurrar imediatamente com um
+dedo a alavanca para ativação do mecanismo do
+dispositivo de proteção (ver Figura 5).
+NOTA: Ativar o dispositivo mantendo-o afastado de
+si e dos outros. Escutar o clique e confirmar
+visualmente que a ponta da agulha ficou
+completamente coberta.
+
+Figura 5
+
+Eliminação
+As seringas pré-cheias são apenas para uma única utilização.
+Este medicamento pode representar um risco para o ambiente aquático. Qualquer medicamento não
+utilizado ou resíduos devem ser eliminados de acordo com as exigências locais.
+
+37
+
+

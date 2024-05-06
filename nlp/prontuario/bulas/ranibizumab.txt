@@ -1,0 +1,2260 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+
+1.
+
+NOME DO MEDICAMENTO
+
+Ranivisio 10 mg/ml solução injetável
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Um ml contém 10 mg de ranibizumab*. Cada frasco para injetáveis contém 2,3 mg de ranibizumab em
+0,23 ml de solução. Esta fornece uma quantidade utilizável para administrar uma dose única de
+0,05 ml contendo 0,5 mg de ranibizumab a doentes adultos.
+*Ranibizumab é um fragmento de anticorpo monoclonal humanizado produzido em células de
+Escherichia coli através de tecnologia de ADN recombinante.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Solução injetável
+Solução aquosa, límpida, incolor a amarelo pálido.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Ranivisio é indicado em adultos no:
+•
+Tratamento da degenerescência macular relacionada com a idade (DMI) neovascular (húmida)
+•
+Tratamento da perda de visão devida a edema macular diabético (EMD)
+•
+Tratamento de retinopatia diabética proliferativa (RDP)
+•
+Tratamento da perda de visão devida a edema macular secundário a oclusão da veia retiniana
+(Oclusão de Ramo da Veia Retiniana (ORVR) ou Oclusão da Veia Central da Retina (OVCR))
+•
+Tratamento da perda de visão devida a neovascularização coroideia (NVC)
+
+4.2
+
+Posologia e modo de administração
+
+Ranivisio tem de ser administrado por um oftalmologista qualificado com experiência em injeções
+intravítreas.
+Posologia
+Adultos
+A dose recomendada para Ranivisio em adultos é de 0,5 mg administrada através de uma injeção
+intravítrea de dose única. Isto corresponde a um volume de injeção de 0,05 ml. O intervalo entre duas
+doses injetadas no mesmo olho deve ser de, pelo menos, quatro semanas.
+O tratamento em adultos é iniciado com uma injeção por mês até a acuidade visual máxima ser
+atingida e/ou não existam sinais de atividade da doença, i.e. sem alterações na acuidade visual e sem
+outros sinais e sintomas de doença sob tratamento continuado. Inicialmente, podem ser necessárias
+2
+
+três ou mais injeções mensais consecutivas em doentes com DMI húmida, EMD, RDP e OVR.
+Posteriormente, a monitorização e os intervalos de tratamento devem ser determinados pelo médico e
+devem ser baseados na atividade da doença, conforme avaliado pela acuidade visual e/ou parâmetros
+anatómicos.
+Se, na opinião do médico, os parâmetros visuais e anatómicos indicarem que o doente não está a
+beneficiar da continuação do tratamento, Ranivisio deve ser descontinuado.
+A monitorização da atividade da doença pode incluir exame clínico, avaliação funcional ou técnicas de
+imagem (ex. tomografia de coerência ótica ou angiografia fluoresceínica).
+Se os doentes estiverem a ser tratados de acordo com um regime “tratar e estender” (“treat-andextend”), uma vez atingida a acuidade visual máxima e/ou não existam sinais de atividade da doença,
+os intervalos de tratamento podem ser estendidos passo a passo até que se verifique recorrência de
+sinais de atividade da doença ou perda de visão. Os intervalos de tratamento devem ser estendidos por
+não mais de duas semanas de cada vez para a DMI húmida e podem ser estendidos até um mês de cada
+vez para o EMD. Para RDP e OVR, os intervalos de tratamento podem também ser gradualmente
+estendidos; no entanto, existem dados insuficientes para concluir sobre a duração desses intervalos. Se
+recorrer atividade de doença, o intervalo de tratamento deve ser encurtado em conformidade.
+O tratamento da perda de visão devida a NVC deve ser determinado individualmente por doente com
+base na atividade da doença. Alguns doentes podem necessitar apenas de uma injeção durante os
+primeiros 12 meses; outros doentes podem necessitar de tratamento mais frequente, incluindo uma
+injeção mensal. Para a NVC secundária a miopia patológica (MP), muitos doentes podem necessitar
+apenas de uma ou duas injeções durante o primeiro ano (ver secção 5.1).
+Ranibizumab e fotocoagulação laser no EMD e no edema macular secundário a ORVR
+Existe alguma experiência de administração de ranibizumab concomitantemente com fotocoagulação
+laser (ver secção 5.1). Quando os tratamentos são efetuados no mesmo dia, Ranivisio deve ser
+administrado pelo menos 30 minutos depois da fotocoagulação laser. Ranivisio pode ser administrado
+em doentes previamente tratados com fotocoagulação laser.
+Ranibizumab e terapêutica fotodinâmica com verteporfina na NVC secundária a MP
+Não existe experiência de administração concomitante de ranibizumab e verteporfina.
+Populações especiais
+Compromisso hepático
+Ranibizumab não foi estudado em doentes com compromisso hepático. No entanto, não são
+necessárias considerações especiais nesta população.
+Compromisso renal
+Não é necessário ajustamento da dose em doentes com compromisso renal (ver secção 5.2).
+Idosos
+Não é necessário qualquer ajustamento da dose nos idosos. Existe pouca experiência em doentes com
+mais de 75 anos de idade com EMD.
+População pediátrica
+A segurança e eficácia de ranibizumab em crianças e adolescentes com menos de 18 anos de idade não
+foram estabelecidas. Os dados disponíveis em doentes adolescentes, com idades entre 12 a 17 anos,
+com perda de visão devida a NVC encontram-se descritos na secção 5.1 mas não pode ser feita
+qualquer recomendação posológica.
+Modo de administração
+
+3
+
+Frasco para injetáveis de uso único, apenas para administração intravítrea.
+Uma vez que o volume contido no frasco para injetáveis (0,23 ml) é superior à dose recomendada
+(0,05 ml para adultos), uma porção do volume contido no frasco para injetáveis tem de ser rejeitada
+após a administração.
+Ranivisio deve ser examinado visualmente para deteção de partículas e alteração da cor, antes da
+administração.
+Deve-se realizar a técnica de injeção sob condições asséticas, incluindo a desinfeção cirúrgica das
+mãos, utilização de luvas estéreis, de bata estéril e de um espéculo estéril para a pálpebra
+(ou equivalente) e a existência de condições para efetuar paracentese estéril (se necessário). Deve-se
+avaliar cuidadosamente a história clínica do doente relativa a reações de hipersensibilidade antes de se
+realizar a injeção intravítrea (ver secção 4.4). Antes da injeção deve-se administrar anestesia adequada
+e um microbicida tópico de largo espetro para desinfetar a pele periocular, a pálpebra e a superfície
+ocular, de acordo com a prática local.
+Adultos
+Em adultos a agulha para injeção deve ser inserida 3,5-4,0 mm posteriores ao limbo dentro da
+cavidade do corpo vítreo, evitando o meridiano horizontal e procurando o centro do globo. O volume
+de injeção de 0,05 ml é então administrado; para injeções posteriores deve alternar-se o local escleral.
+Para instruções acerca da preparação do medicamento antes da administração, ver secção 6.6.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Doentes com infeções oculares ou perioculares, ativas ou suspeitas.
+Doentes com inflamação intraocular grave ativa.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+Reações relacionadas com injeções intravítreas
+As injeções intravítreas, incluindo as injeções com ranibizumab, estão associadas com endoftalmite,
+inflamação intraocular, descolamento regmatogéneo da retina, rasgaduras da retina e catarata
+traumática iatrogénica (ver secção 4.8). Ao administrar ranibizumab têm de ser sempre utilizadas
+técnicas de injeção asséticas apropriadas. Para além disso, os doentes devem ser monitorizados
+durante a semana seguinte à injeção de forma a permitir o tratamento precoce caso ocorra uma
+infeção. Os doentes devem ser instruídos a comunicar imediatamente quaisquer sintomas sugestivos
+de endoftalmite ou qualquer dos efeitos acima mencionados.
+Aumento da pressão intraocular
+Em adultos foram observadas situações transitórias de aumento da pressão intraocular (PIO) no
+intervalo de até 60 minutos após a injeção de ranibizumab. Foram também identificados aumentos
+continuados da PIO (ver secção 4.8). Tem de se monitorizar e tratar apropriadamente a pressão
+intraocular e a perfusão da cabeça do nervo ótico.
+Os doentes devem ser informados dos sintomas destas potenciais reações adversas e aconselhados a
+4
+
+informar o seu médico se apresentarem sinais tais como dor ocular ou aumento de desconforto,
+aumento de vermelhidão ocular, visão turva ou diminuída, um aumento do número de pequenas
+partículas na visão ou aumento da sensibilidade à luz (ver secção 4.8).
+Tratamento bilateral
+Dados limitados sobre a utilização bilateral de ranibizumab (incluindo administração no mesmo dia)
+não sugerem um risco aumentado de acontecimentos adversos sistémicos comparativamente com o
+tratamento unilateral.
+Imunogenicidade
+Existe um potencial para imunogenicidade com ranibizumab. Dado que existe o potencial para um
+aumento da exposição sistémica em indivíduos com EMD, não pode ser excluído um aumento do risco
+de desenvolvimento de hipersensibilidade nesta população de doentes. Os doentes devem também ser
+instruídos a reportar casos de aumento da gravidade de uma inflamação intraocular, o que poderá ser
+um sinal clínico atribuível à formação de anticorpos intraoculares.
+Utilização concomitante de outro anti-VEGF (fator de crescimento endotelial vascular)
+Ranibizumab não deve ser administrado concomitantemente com outros medicamentos anti-VEGF
+(sistémicos ou oculares).
+Suspensão de ranibizumab em adultos
+A dose deve ser suspensa e o tratamento não deve ser reiniciado antes do próximo tratamento previsto
+em caso de:
+•
+uma redução na melhor acuidade visual corrigida (MAVC) de ≥ 30 letras em comparação com a
+última avaliação da acuidade visual;
+•
+um aumento da pressão intraocular de ≥30 mmHg;
+•
+uma rutura da retina;
+•
+uma hemorragia sub-retiniana envolvendo o centro da fóvea, ou, se a dimensão da hemorragia
+for ≥50% da área total da lesão;
+•
+cirurgia intraocular realizada nos 28 dias anteriores ou planeada para os próximos 28 dias.
+Rasgadura do epitélio pigmentado da retina
+Os fatores de risco associados ao desenvolvimento de rasgadura do epitélio pigmentado da retina após
+tratamento com anti-VEGF da DMI húmida e potencialmente também outras formas de NVC, incluem
+um grande e/ou elevado descolamento do epitélio pigmentado da retina. Ao iniciar o tratamento com
+ranibizumab, deve ter-se precaução em doentes com estes fatores de risco de rasgadura do epitélio
+pigmentado da retina.
+Descolamento regmatogéneo da retina ou buracos maculares em adultos
+O tratamento deve ser interrompido em indivíduos com descolamento regmatogéneo da retina ou
+buraco macular de fase 3 ou 4.
+Populações com poucos dados disponíveis
+Existe pouca experiência no tratamento de indivíduos com EMD devido a diabetes tipo I.
+Ranibizumab não foi estudado em doentes que tenham sido previamente tratados com injeções
+intravítreas, em doentes com infeções sistémicas ativas ou em doentes com outras doenças oculares
+paralelas, tais como descolamento da retina ou buraco macular. Existe pouca experiência de
+tratamento com ranibizumab em doentes diabéticos com HbA1c superior a 108 mmol/mol (12%) e
+não existe experiência em doentes com hipertensão arterial não controlada. Esta falta de informação
+deve ser tida em consideração pelo médico ao tratar estes doentes.
+5
+
+Não existem dados suficientes que permitam concluir sobre o efeito de ranibizumab em doentes com
+OVR apresentando perda da função visual isquémica irreversível.
+Em doentes com MP, existem dados limitados sobre o efeito de ranibizumab em doentes previamente
+tratados sem sucesso com terapêutica fotodinâmica com verteporfina (vTFD). Adicionalmente,
+enquanto foi observado um efeito consistente em indivíduos com lesões subfoveais e justafoveais, os
+dados existentes são insuficientes para concluir sobre o efeito de ranibizumab em doentes com MP
+com lesões extrafoveais.
+Efeitos sistémicos após uso intravítreo
+Foram notificados eventos adversos sistémicos incluindo hemorragias não oculares e eventos
+tromboembólicos arteriais após injeção intravítrea de inibidores do VEGF.
+Existem poucos dados de segurança no tratamento de doentes com EMD, edema macular devido a
+OVR e NVC secundária a MP com antecedentes de acidente vascular cerebral ou acidente isquémico
+transitório. O tratamento destes doentes deve ser efetuado com precaução (ver secção 4.8).
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Não foram realizados estudos de interação.
+Para a utilização adjuvante de terapêutica fotodinâmica com verteporfina (TFD) e ranibizumab na
+DMI húmida e MP, ver secção 5.1.
+Para a utilização adjuvante de fotocoagulação laser e ranibizumab no EMD e ORVR,
+ver secções 4.2 e 5.1.
+Em estudos clínicos para o tratamento da perda de visão secundária a EMD, o resultado no que
+respeita a acuidade visual ou à espessura central da retina em doentes tratados com ranibizumab não
+foi afetado pelo tratamento concomitante com tiazolidinedionas.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar/Contraceção feminina
+As mulheres com potencial para engravidar têm de utilizar métodos contracetivos eficazes durante o
+tratamento.
+Gravidez
+Não existem dados clínicos disponíveis sobre gravidezes expostas a ranibizumab. Os estudos em
+macacos cynomolgus não indicam efeitos nefastos diretos ou indiretos sobre a gravidez ou o
+desenvolvimento embrionário/fetal (ver secção 5.3). A exposição sistémica ao ranibizumab após
+administração ocular é baixa, mas devido ao seu mecanismo de ação, o ranibizumab tem de ser
+considerado como potencialmente teratogénico e embrio/fetotóxico. Logo, o ranibizumab não deve ser
+utilizado durante a gravidez a não ser que o benefício esperado ultrapasse o potencial risco para o feto.
+Para as mulheres que pretendem engravidar e foram tratadas com ranibizumab, recomenda-se que
+aguardem pelo menos 3 meses após a última dose de ranibizumab antes de engravidar.
+Amamentação
+Com base em dados muito limitados, ranibizumab pode ser excretado em baixos níveis no leite
+humano. O efeito de ranibizumab em recém-nascidos/lactentes amamentados é desconhecido. Como
+medida de precaução, a amamentação não é recomendada durante a utilização de ranibizumab.
+
+6
+
+Fertilidade
+Não existem dados disponíveis sobre fertilidade.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+O procedimento de tratamento pode induzir perturbações visuais temporárias, que podem afetar a
+capacidade de conduzir ou utilizar máquinas (ver secção 4.8). Os doentes que experimentem estes
+sinais não devem conduzir ou utilizar máquinas até que estas perturbações visuais temporárias
+diminuam.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+A maioria das reações adversas notificadas após administração de ranibizumab estão relacionadas com
+o procedimento de administração intravítrea.
+As reações adversas oculares notificadas mais frequentemente após injeção de ranibizumab são: dor
+ocular, hiperemia ocular, aumento da pressão intraocular, vitrite, descolamento do vítreo, hemorragia
+da retina, afeção ocular, moscas volantes, hemorragia conjuntival, irritação ocular, sensação de corpo
+estranho nos olhos, hipersecreção lacrimal, blefarite, olho seco e prurido ocular.
+As reações adversas não oculares notificadas mais frequentemente são cefaleia, nasofaringite e
+artralgia.
+As reações adversas notificadas menos frequentemente, mas mais graves, incluem endoftalmite,
+cegueira, descolamento da retina, rasgaduras da retina e catarata traumática iatrogénica (ver
+secção 4.4).
+As reações adversas sentidas após administração de ranibizumab em ensaios clínicos encontram-se
+resumidas na tabela abaixo.
+Tabela de reações adversas#
+As reações adversas estão agrupadas por classes de sistemas de órgãos e frequência usando a seguinte
+convenção: muito frequentes (≥1/10), frequentes (≥1/100, <1/10), pouco frequentes
+(≥1/1 000, <1/100), raros (≥1/10 000, <1/1 000), muito raros (<1/10 000), desconhecido (não pode ser
+calculado a partir dos dados disponíveis). As reações adversas são apresentadas por ordem decrescente
+de gravidade dentro de cada classe de frequência.
+Infeções e infestações
+Muito frequentes
+Frequentes
+
+Nasofaringite
+Infeção do trato urinário*
+
+Doenças do sangue e do sistema linfático
+Frequentes
+Anemia
+Doenças do sistema imunitário
+Frequentes
+
+Hipersensibilidade
+
+Perturbações do foro psiquiátrico
+Frequentes
+
+Ansiedade
+
+Doenças do sistema nervoso
+Muito frequentes
+
+Cefaleias
+
+7
+
+Afeções oculares
+Muito frequentes
+
+Frequentes
+
+Pouco frequentes
+
+Vitrite, descolamento do vítreo, hemorragia retiniana,
+perturbação da visão, dor ocular, moscas volantes, hemorragia
+da conjuntiva, irritação ocular, sensação de corpo estranho no
+olho, hipersecreção lacrimal, blefarite, olho seco, hiperemia
+ocular, prurido ocular.
+Degenerescência retiniana, doença da retina, descolamento da
+retina, rasgadura da retina, descolamento do epitélio pigmentado
+retiniano, rasgadura do epitélio pigmentado retiniano, redução
+da acuidade visual, hemorragia do vítreo, doença do vítreo,
+uveíte, irite, iridociclite, catarata, catarata subcapsular,
+opacificação da cápsula posterior, queratite ponteada, abrasão
+da córnea, flare da câmara anterior, visão turva, hemorragia no
+local de injeção, hemorragia ocular, conjuntivite, conjuntivite
+alérgica, exsudado ocular, fotopsia, fotopsia, desconforto ocular,
+edema palpebral, dor palpebral, hiperemia conjuntival.
+Cegueira, endoftalmite, hipópio, hifema, queratopatia, adesão da
+íris, depósitos da córnea, edema da córnea, estrias da córnea,
+dor no local de injeção, irritação no local de injeção, sensação
+estranha no olho, irritação palpebral.
+
+Doenças respiratórias, torácicas e do mediastino
+Frequentes
+Tosse
+Doenças gastrointestinais
+Frequentes
+
+Náuseas
+
+Afeções dos tecidos cutâneos e subcutâneos
+Frequentes
+Reações alérgicas (erupção cutânea, urticária, prurido, eritema)
+Afeções musculosqueléticas e dos tecidos conjuntivos
+Muito frequentes
+Artralgias
+Exames complementares de diagnóstico
+Muito frequentes
+Aumento da pressão intraocular
+#
+
+Reações adversas foram definidas como acontecimentos adversos (em pelo menos 0,5 pontos
+percentuais de doentes) que ocorreram numa taxa mais elevada (pelo menos 2 pontos percentuais) em
+doentes que receberam tratamento com ranibizumab 0,5 mg do que nos que receberam tratamento de
+controlo (simulação de tratamento ou TFD com verteprofina).
+*observada apenas na população com EMD
+
+Reações adversas relacionadas com a classe terapêutica
+Nos estudos de fase III na DMI húmida, verificou-se que a frequência global de hemorragias não
+oculares, um acontecimento adverso relacionado com a inibição sistémica do VEGF (fator de
+crescimento endotelial vascular), se encontrava ligeiramente aumentada em doentes tratados com
+ranibizumab. No entanto, não existiu um padrão consistente entre os diferentes tipos de hemorragias.
+Existe um risco teórico de ocorrência de acontecimentos tromboembólicos arteriais, incluindo AVC e
+enfarte do miocárdio, após o uso intravítreo de inibidores do VEGF. Foi observada uma baixa
+incidência de acontecimentos tromboembólicos arteriais nos ensaios clínicos com ranibizumab em
+doentes com DMI, EMD, RDP, OVR e NVC e não houve diferenças significativas entre os grupos
+tratados com ranibizumab comparativamente com o grupo de controlo.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+8
+
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Foram notificados casos de sobredosagem acidental, tanto em ensaios clínicos na DMI húmida, como
+em experiência pós-comercialização. As reações adversas associadas a estes casos foram aumento da
+pressão intraocular, cegueira temporária, redução da acuidade visual, edema da córnea, dor corneal, e
+dor ocular. Em caso de sobredosagem, o médico assistente deve monitorizar e, se necessário, tratar a
+pressão intraocular.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Produtos oftalmológicos, agentes anti-neovascularização, código ATC:
+S01LA04
+Ranivisio é um medicamento biológico similar. Está disponível informação pormenorizada no sítio da
+internet da Agência Europeia de Medicamentos http://www.ema.europa.eu.
+Mecanismo de ação
+O ranibizumab é um fragmento de anticorpo monoclonal recombinante humanizado cujo alvo é o fator
+de crescimento endotelial vascular humano A (VEGF-A). O ranibizumab liga-se com elevada
+afinidade às isoformas do VEGF-A (ex. VEGF110, VEGF121 e VEGF165), impedindo assim a ligação do
+VEGF-A aos seus recetores VEGFR-1 e VEGFR-2. A ligação do VEGF-A aos seus recetores leva à
+proliferação das células endoteliais e neovascularização, assim como a exsudação vascular, que se
+pensa que contribuem para a progressão da forma neovascular da degenerescência macular relacionada
+com a idade, miopia patológica e NVC ou à perda de visão devida tanto a edema macular diabético
+como a edema macular secundário a OVR em adultos.
+Eficácia e segurança clínicas
+Tratamento da DMI húmida
+Na DMI húmida a eficácia e segurança clínicas de ranibizumab foram avaliadas em três estudos de
+24 meses de duração, aleatorizados, controlados com comparador ativo ou com simulação da
+administração do fármaco, sob dupla ocultação, em doentes com DMI neovascular. Foram incluídos
+nestes estudos um total de 1 323 doentes (879 com ativo e 444 com controlo).
+No estudo FVF2598g (MARINA), 716 doentes com lesões minimamente clássicas ou ocultas sem
+lesões clássicas foram aleatorizados num rácio 1:1:1 para receber injeções mensais de ranibizumab
+0,3 mg, ranibizumab 0,5 mg ou simulação da administração.
+No estudo FVF2587g (ANCHOR), 423 doentes com lesões CNV predominantemente clássicas foram
+aleatorizados num rácio 1:1:1 para receber ranibizumab 0,3 mg mensalmente, ranibizumab 0,5 mg
+mensalmente ou TFD com verteporfina (na baseline e posteriormente a cada 3 meses, se a angiografia
+com fluoresceína demonstrasse persistência ou recorrência da exsudação vascular).
+As medidas principais dos resultados encontram-se resumidas na Tabela 1 e Figura 1.
+
+9
+
+Tabela 1
+
+Resultados ao mês 12 e mês 24 no estudo FVF2598g (MARINA) e FVF2587g
+(ANCHOR)
+
+Medida do resultado
+
+Mês
+
+Perda de < 15 letras
+na acuidade visual
+(%)a (manutenção
+da visão, objetivo
+principal)
+Ganho de
+≥ 15 letras na
+acuidade visual (%)a
+Alteração média na
+acuidade visual
+(letras) (DP)a
+a
+p < 0,01
+
+Mês 12
+Mês 24
+
+FVF2598g (MARINA)
+Simulação da Ranibizumab
+administração
+0,5 mg
+do fármaco
+(n=240)
+(n=238)
+62%
+95%
+53%
+90%
+
+FVF2587g (ANCHOR)
+TFD com
+Ranibizumab
+verteporfina
+0,5 mg
+(n=143)
+(n=140)
+64%
+66%
+
+96%
+90%
+
+Mês 12
+Mês 24
+
+5%
+4%
+
+34%
+33%
+
+6%
+6%
+
+40%
+41%
+
+Mês 12
+Mês 24
+
+-10,5 (16,6)
+-14,9 (18,7)
+
++7,2 (14,4)
++6,6 (16,5)
+
+-9,5 (16,4)
+-9,8 (17,6)
+
++11,3 (14,6)
++10,7 (16,5)
+
+10
+
+Figura 1
+
+Alteração média na acuidade visual relativamente aos valores basais no mês 24 no
+estudo FVF2598g (MARINA) e no estudo FVF2587g (ANCHOR)
+
+11
+
+Os resultados de ambos os ensaios clínicos indicam que o tratamento continuado com ranibizumab
+pode também beneficiar doentes cuja perda na melhor acuidade visual corrigida (MAVC) foi
+≥ 15 letras no primeiro ano de tratamento.
+Foram observados, pela descrição dos doentes, benefícios estatisticamente significativos na função
+visual, em ambos os estudos MARINA e ANCHOR, com o tratamento com ranibizumab face ao
+grupo controlo, conforme avaliado pelo NEI-VFQ-25.
+No estudo FVF3192g (PIER), 184 doentes com todas as formas de DMI neovascular foram
+aleatorizados, num rácio 1:1:1 para receber ranibizumab 0,3 mg, ranibizumab 0,5 mg ou injeções de
+simulação da administração do fármaco uma vez por mês durante 3 doses consecutivas, seguindo-se
+uma dose administrada uma vez em cada 3 meses. A partir do mês 14, aos doentes no grupo de
+tratamento de simulação da administração do fármaco foi permitido receberem ranibizumab e, a partir
+do mês 19, a frequência de tratamento podia ser aumentada. Os doentes tratados com ranibizumab no
+PIER receberam uma média de 10 tratamentos.
+Após um aumento inicial na acuidade visual (após a administração mensal), em média, a acuidade
+visual dos doentes diminuiu com o tratamento trimestral, retornando aos valores basais no mês 12 e
+este efeito foi mantido na maioria dos doentes tratados com ranibizumab (82%) no mês 24. Dados
+limitados de indivíduos do grupo de tratamento de simulação da administração do fármaco que
+posteriormente receberam ranibizumab sugerem que o início precoce do tratamento pode ser associado
+a uma melhor preservação da acuidade visual.
+Dados de dois estudos (MONT BLANC, BPD952A2308 e DENALI, BPD952A2309), conduzidos
+após a aprovação, confirmaram a eficácia de ranibizumab mas não demonstraram efeito adicional da
+administração associada de verteprofina (Visudyne TFD) e ranibizumab comparativamente com
+ranibizumab em monoterapia.
+O tratamento da perda de visão devida a NVC secundária a MP
+A eficácia e segurança clínicas de ranibizumab em doentes com perda de visão devida a NVC
+secundária a MP foram avaliadas com base nos dados a 12 meses, do estudo aleatorizado, em dupla
+ocultação, controlado F2301 (RADIANCE). Neste estudo 277 doentes foram aleatorizados num rácio
+2:2:1 para um dos seguintes grupos de tratamento:
+•
+•
+
+•
+
+Grupo I (ranibizumab 0,5 mg, regime de tratamento determinado por critérios de “estabilidade”,
+definido como não alteração da MAVC comparativamente com as avaliações dos dois meses
+anteriores)
+Grupo II (ranibizumab 0,5 mg, regime de tratamento determinado por critérios de “atividade da
+doença”, definidos como perda de visão atribuível a fluido intra ou sub-retiniano ou
+extravasamento ativo devido a lesão NVC, avaliada pela tomografia de coerência ótica e/ou
+angiografia fluoresceínica).
+Grupo III (vTFD – os doentes puderam receber tratamento com ranibizumab a partir do Mês 3).
+
+No Grupo II, que corresponde à posologia recomendada (ver secção 4.2), 50,9% dos doentes
+necessitaram de 1 ou 2 injeções, 34,5% necessitaram de 3 a 5 injeções e 14,7% necessitaram de 6 a
+12 injeções durante o período de 12 meses do estudo. No Grupo II, 62,9% dos doentes não
+necessitaram de injeções nos segundos 6 meses do estudo.
+
+12
+
+Os principais resultados do estudo RADIANCE estão sumarizados na Tabela 2 e Figura 2.
+Tabela 2
+
+Resultados ao Mês 3 e 12 (RADIANCE)
+Grupo I
+Ranibizumab
+0,5 mg
+“estabilidade da
+visão” (n=105)
+
+Grupo II
+Ranibizumab
+0,5 mg
+“atividade da
+doença” (n=116)
+
+Grupo III
+vTFDb
+(n=55)
+
+Mês 3
+Alteração média da MAVC do Mês 1
++10,5
++10,6
++2,2
+ao Mês 3 comparativamente com os
+valores iniciaisa (letras)
+Proporção de doentes que ganharam:
+≥ 15 letras, ou atingiram ≥ 84 letras
+38,1%
+43,1%
+14,5%
+em MAVC
+Mês 12
+Número de injeções até ao Mês 12:
+Média
+4,6
+3,5
+N/A
+Mediana
+4,0
+2,5
+N/A
+Alteração média da MAVC entre
++12,8
++12,5
+N/A
+Mês 1 ao Mês 12 comparativamente
+com os valores iniciais (letras)
+Proporção de doentes que ganharam:
+≥ 15 letras, ou atingiram ≥ 84 letras
+53,3%
+51,7%
+N/A
+em MAVC
+a
+p < 0,00001 em comparação com controlo vTFD
+b
+Controlo comparativo até ao Mês 3. Os doentes aleatorizados para vTFD puderam receber
+tratamento com ranibizumab a partir do Mês 3 (no Grupo III, 38 doentes receberam ranibizumab a
+partir do Mês 3)
+
+13
+
+Figura 2
+
+Alteração média da MAVC na baseline ao longo do tempo até ao Mês 12
+(RADIANCE)
+
+A melhoria da visão foi acompanhada por uma redução na espessura central da retina.
+Foram observados benefícios referidos pelos doentes nos grupos de tratamento com ranibizumab face
+à vTFD (valor p < 0,05) em termos de melhoria no score composto e várias subescalas (visão geral,
+atividades de perto, saúde mental e dependência) do NEI VFQ-25.
+Tratamento da perda de visão devida a NVC (que não secundária a MP e DMI húmida)
+A eficácia e segurança clínicas de ranibizumab em doentes com perda de visão devida a NVC foram
+avaliadas com base nos dados de 12 meses do estudo principal, com controlo com simulação de
+administração do fármaco, em dupla ocultação G2301 (MINERVA). Neste estudo 178 doentes adultos
+foram aleatorizados num rácio 2:1 para receber:
+•
+ranibizumab 0,5 mg no início do estudo, seguido de regime de tratamento individualizado
+determinado pela atividade da doença e avaliado pela acuidade visual e/ou parâmetros
+anatómicos (por exemplo: perda de AV, fluido intra/subretiniano, hemorragia ou
+extravasamento de fluido);
+•
+simulação de injeção no início do estudo, seguido de regime de tratamento individualizado
+determinado pela atividade da doença.
+Ao mês 2, todos os doentes receberam tratamento em regime aberto com ranibizumab conforme
+necessário.
+As principais medidas de resultados do estudo MINERVA encontram-se resumidas na Tabela 3 e na
+Figura 3. Foi observada uma melhoria de visão acompanhada por uma redução na espessura do
+subcampo central, ao longo do período de 12 meses de estudo.
+
+14
+
+O número médio de injeções administradas ao longo de 12 meses foi de 5,8 no grupo de ranibizumab e
+de 5,4 injeções no grupo de controlo com simulação de administração do fármaco, que eram elegíveis
+para receber ranibizumab a partir do Mês 2. Neste grupo de controlo com simulação, 7 dos 59 doentes
+não receberam qualquer tratamento com ranibizumab durante o período de 12 meses de estudo.
+Tabela 3
+
+Resultados ao Mês 2 (MINERVA)
+Ranibizumab
+0,5 mg (n=119)
+9,5 letras
+
+Alteração média da MAVC ao Mês 2 em relação ao
+valor iniciala
+Proporção de doentes que ganharam ≥ 15 letras ou
+31,4%
+atingiram 84 letras ao Mês 2 em relação à baseline
+Proporção de doentes que não perderam > 15 letras ao
+99,2%
+Mês 2 em relação à baseline
+Redução na CSFTb ao Mês 2 em relação ao valor
+77 µm
+iniciala
+a
+Unilateral p<0,001 comparação com simulação de administração do fármaco
+b
+CSFT – espessura do subcampo central da retina
+Figura 3
+
+Controlo com
+simulação (n=59)
+-0,4 letras
+12,3%
+94,7%
+-9,8 µm
+
+Alteração média da MAVC na baseline ao longo do tempo, até ao Mês 12
+(MINERVA)
+
+15
+
+Quando comparado o tratamento com ranibizumab versus grupo de controlo com simulação de
+administração do fármaco, ao Mês 2, foi observado um efeito de tratamento consistente quer entre a
+população geral, quer entre os subgrupos de diferentes etiologias:
+Tabela 4
+
+Efeito do tratamento na população global e entre os subgrupos de diferentes
+etiologias em relação aos valores iniciais
+
+População geral e por etiologia
+
+Efeito do tratamento
+Número de doentes [n]
+sobre controlo com
+(tratamento
+simulação [letras]
++simulação)
+População em geral
+9,9
+178
+Estrias angioides
+14,6
+27
+Retinocoroidopatia pós-inflamatória
+6,5
+28
+Corioretinopatia central serosa
+5,0
+23
+Corioretinopatia idiopática
+11,4
+63
+Etiologias diversasa
+10,6
+37
+a
+engloba diferentes etiologias de baixa frequência de ocorrência, não incluídas em outros subgrupos
+No estudo principal G2301 (MINERVA), cinco doentes adolescentes com idades entre 12 a 17 anos,
+com perda de visão secundária a NVC, receberam tratamento aberto com ranibizumab 0,5 mg no
+início do estudo, seguido de um regime de tratamento individualizado, comparável ao da população
+adulta. Foi observada uma melhoria da MAVC desde o período inicial até ao mês 12, em todos os
+cinco doentes, variando entre 5 a 38 letras (média de 16,6 letras). A melhoria da visão foi
+acompanhada por uma estabilização ou redução da espessura no subcampo central no período de
+12 meses de estudo. O número médio de injeções de ranibizumab administradas ao longo de 12 meses
+de estudo foi de 3 (variou entre 2 a 5). Globalmente, o tratamento com ranibizumab foi bem tolerado.
+Tratamento da perda de visão devida a EMD
+A segurança e eficácia de ranibizumab foram avaliadas em três estudos aleatorizados, controlados,
+com pelo menos 12 meses de duração. Foram incluídos nestes estudos um total de 868 doentes
+(708 com fármaco ativo e 160 de controlo).
+No estudo de fase II D2201 (RESOLVE), 151 doentes foram tratados com ranibizumab (6 mg/ml,
+n=51, 10 mg/ml, n=51) ou simulação de administração (n=49) com injeções intravítreas mensais.
+A alteração média na MAVC do Mês 1 para o Mês 12, comparada com o valor inicial, foi de
++7,8 (±7,72) letras no conjunto de doentes tratados com ranibizumab (n=102), comparativamente com
+-0,1 (±9,77) letras para doentes com simulação de tratamento; a alteração média da MAVC ao
+Mês 12 desde o valor inicial foi de 10,3 (±9,1) letras, comparativamente com -1,4(±14,2) letras,
+respetivamente (p<0,0001 para a diferença de tratamento).
+No estudo de Fase III D2301 (RESTORE), 345 doentes foram aleatorizados num rácio 1:1:1 para
+receber ranibizumab 0,5 mg como monoterapia e simulação de fotocoagulação laser, associação de
+ranibizumab 0,5 mg e fotocoagulação laser ou simulação de injeção e fotocoagulação laser. Foram
+incluídos 240 doentes, que tinham completado previamente o estudo de 12 meses RESTORE, no
+estudo aberto, multicêntrico de extensão de 24 meses (RESTORE Extensão). Os doentes foram
+tratados com ranibizumab 0,5 mg pro re nata (PRN) no mesmo olho do estudo principal
+(estudo D2301 RESTORE).
+As medidas principais dos resultados encontram-se resumidas na Tabela 5 (RESTORE e Extensão) e
+Figura 4 (RESTORE).
+
+16
+
+Figura 4
+
+Alteração média da acuidade visual na baseline ao longo do tempo no estudo D2301
+(RESTORE)
+
+O efeito aos 12 meses foi consistente na maioria dos subgrupos. Contudo, indivíduos com uma MAVC
+inicial >73 letras e edema macular com uma espessura central da retina < 300 µm não pareceram
+beneficiar do tratamento com ranibizumab comparativamente com a fotocoagulação laser.
+
+17
+
+Tabela 5
+
+Resultados ao Mês 12 no estudo D2301 (RESTORE) e ao Mês 36 no estudo D2301E1 (RESTORE Extensão)
+
+Medida do resultado ao Mês 12
+comparado com a baseline no estudo
+D2301 (RESTORE)
+Alteração média da MAVC do Mês 1 até ao
+Mês 12a (±DP)
+Alteração média da MAVC ao Mês 12
+(±DP)
+Ganho de ≥ 15 letras ou MAVC ≥ 84 letras
+ao Mês 12 (%)
+Número médio de injeções (Meses 0-11)
+
+Ranibizumab
+0,5 mg n=115
+
+Ranibizumab
+0,5 mg + Laser
+n=118
+5,9 (7,9)a
+
+n=110
+0,8 (8,6)
+
+6,8 (8,3)a
+
+6,4 (11,8)a
+
+0,9 (11,4)
+
+22,6
+
+22,9
+
+8,2
+
+7,0
+
+6,8
+
+7,3
+(simulação)
+
+Medida do resultado ao Mês 36 comparado
+com a baseline no D2301 (RESTORE) no
+estudo D2301-E1 (RESTORE Extensão)
+
+Anterior
+ranibizumab
+0,5 mg n=83
+
+Anterior
+ranibizumab
+0,5 mg + laser
+n=83
+6,7 (7,9)
+6,7 (9,6)
+44,6
+
+Anterior laser
+
+6,1 (6,4)
+
+a
+
+Laser
+
+n=74
+
+Alteração média da MAVC ao Mês 24 (DP)
+7,9 (9,0)
+5,4 (9,0)
+Alteração média da MAVC ao Mês 36 (DP)
+8,0 (10,1)
+6,0 (9,4)
+Ganho de ≥ 10 letras ou MAVC ≥ 84 letras
+47,0
+41,9
+ao Mês 36 (%)
+Ganho de ≥ 15 letras ou MAVC ≥ 84 letras
+27,7
+30,1
+21,6
+ao Mês 36 (%)
+Número médio de injeções (Meses 12-35)*
+6,8
+6,0
+6,5
+a
+p < 0,0001 para comparações dos grupos ranibizumab vs. grupo laser.
+n no estudo D2301-E1 (RESTORE Extensão) é o número de doentes com um valor quer na baseline
+(Mês 0) do estudo D2301 (RESTORE) e na visita ao Mês 36.
+* A proporção dos doentes que não necessitaram de qualquer tratamento com ranibizumab durante a
+fase de extensão foi de 19%, 25% e 20% nos grupos anteriormente tratados com ranibizumab,
+ranibizumab +laser e laser, respetivamente.
+Foram observados, pela descrição dos doentes, benefícios estatisticamente significativos na maioria
+das funções relacionadas com a visão com o tratamento com ranibizumab (com ou sem laser) face ao
+grupo controlo, conforme avaliado pelo NEI-VFQ-25. Para outras subescalas deste questionário não
+puderam ser estabelecidas diferenças nos tratamentos.
+O perfil de segurança de longa duração de ranibizumab observado no estudo de extensão de 24 meses
+é consistente com o perfil de segurança conhecido de ranibizumab
+No estudo de Fase IIIb D2304 (RETAIN), 372 doentes foram aleatorizados num rácio 1:1:1 para
+receber:
+•
+ranibizumab 0,5 mg com fotocoagulação laser concomitante num regime de tratar e estender
+(treat-and-extend - TE),
+•
+ranibizumab 0,5 mg monoterapia num regime TE,
+•
+ranibizumab 0,5 mg em monoterapia num regime PRN.
+Em todos os grupos, ranibizumab foi administrado mensalmente até que a MAVC se mantivesse
+estável durante, pelo menos três avaliações mensais consecutivas. Em regime TE, o ranibizumab foi
+administrado a intervalos de 2-3 meses. Em todos os grupos, o tratamento mensal foi reiniciado
+quando se observou uma redução da MAVC devida a progressão do EMD e continuado até se atingir
+novamente uma MAVC estável.
+O número de visitas de tratamento programadas após as 3 injeções iniciais foi 13 e 20 para os regimes
+18
+
+TE e PRN, respetivamente. Com ambos os regimes TE, mais de 70% dos doentes mantiveram a sua
+MAVC com uma frequência média de visitas de ≥2 meses.
+As medidas principais dos resultados encontram-se resumidas na Tabela 6.
+Tabela 6
+
+Resultados no estudo D2304 (RETAIN)
+
+Medida do resultado
+comparado com a
+baseline
+Alteração média da
+MAVC do Mês 1 ao
+Mês 12 (DP)
+Alteração média da
+MAVC do Mês 1 ao
+Mês 24 (DP)
+Alteração média da
+MAVC ao Mês 24 (DP)
+
+TE ranibizumab
+0,5 mg + laser n=117
+
+TE ranibizumab
+0,5 mg isoladamente
+n=125
+
+PRN ranibizumab
+0,5 mg n=117
+
+5,9 (5,5) a
+
+6,1 (5,7) a
+
+6,2 (6,0)
+
+6,8 (6,0)
+
+6,6 (7,1)
+
+7,0 (6,4)
+
+8,3 (8,1)
+
+6,5 (10,9)
+
+8,1 (8,5)
+
+28,0
+
+30,8
+
+12,8
+
+10,7
+
+Ganho de ≥ 15 letras ou
+MAVC ≥ 84 letras ao
+25,6
+Mês 24 (%)
+Número médio de
+12,4
+injeções (meses 0-23)
+a
+p < 0,0001 para avaliação de não inferioridade para PRN
+
+Nos estudos no EMD, a melhoria da MAVC foi acompanhada por uma redução ao longo do tempo na
+CSFT média em todos os grupos de tratamento.
+Tratamento da RDP
+A eficácia e segurança clínicas de ranibizumab em doentes com RDP foram avaliadas no estudo
+Protocol S que avaliou o tratamento com injeções intravítreas de 0,5 mg de ranibizumab
+comparativamente com fotocoagulação panretiniana (PRP-panretinal photocoagulation). O parâmetro
+de avaliação primário foi a alteração média de acuidade visual ao ano 2. Adicionalmente, a alteração
+na gravidade da retinopatia (RD) foi avaliada com base em fotografias do fundo utilizando a
+classificação gravidade da RD (DRSS).
+Protocol S foi um estudo de Fase III, de não-inferioridade, multicêntrico, aleatorizado, controlado com
+ativo, de atribuição paralela, em que foram incluídos 305 doentes (394 olhos estudados) com RDP
+com ou sem EMD inicial. O estudo comparou injeções intravítreas de 0,5 mg de ranibizumab com
+tratamento padrão com PRP. Foi aleatorizado um total de 191 olhos (48,5%) a ranibizumab 0,5 mg e
+203 olhos (51,5%) foram aleatorizados a PRP. Um total de 88 olhos (22,3%) tinha EMD inicial: 42
+(22,0%) e 46 (22,7%) olhos nos grupos de ranibizumab e PRP, respetivamente. Um total de 306 olhos
+(77,7%) não tinha EMD inicial: 149 (78,0%) e 157 (77,3%) olhos nos grupos de ranibizumab e PRP,
+respetivamente.
+Neste estudo, a alteração média da acuidade visual ao ano 2 foi +2,7 letras no grupo de ranibizumab
+comparativamente com -0,7 letras no grupo de PRP. A diferença na média dos mínimos quadrados foi
+3,5 letras (IC 95%: [0,2 a 6,7]).
+No Ano 1, 41,8% dos olhos experimentou uma melhoria ≥2 estádios na classificação DRSS quando
+tratados com ranibizumab (n=189) comparativamente com 14,6% de olhos tratados com PRP (n=199).
+A diferença estimada entre ranibizumab e laser foi 27,4% (IC 95%: [18,9; 35,9]).
+Tabela 7
+
+Melhoria na classificação DRSS ou agravamento de ≥2 ou ≥3 estádios ao ano 1 no
+Protocol S (LOCF Method)
+
+19
+
+Categorização da
+alteração desde o início
+Melhoria ≥2 estádios
+n (%)
+Melhoria ≥3 estádios
+n (%)
+Agravamento ≥2 estádios
+n (%)
+Agravamento ≥3 estádios
+n (%)
+
+Protocol S
+Ranibizumab
+0,5 mg (N=189)
+
+PRP
+(N=199)
+
+Diferença na
+proporção (%), IC
+
+79
+(41,8%)
+
+29
+(14,6%)
+
+27,4
+(18,9; 35,9)
+
+54
+(28,6%)
+
+6
+(3,0%)
+
+25,7
+(18,9; 32,6)
+
+3
+(1,6%)
+
+23
+(11,6%)
+
+-9,9
+(-14,7; -5,2)
+
+1
+8
+-3,4
+(0,5%)
+(4,0%)
+(-6,3; -0,5)
+DRSS = Classificação de Gravidade da Retinopatia Diabética, n = número de doentes que satisfizeram
+a condição na visita, N = número total de olhos estudados.
+No ano 1 no grupo tratado com ranibizumab no Protocol S, uma melhoria ≥2 estádios na classificação
+DRSS foi consistente em olhos sem EMD (39,9%) e com EMD inicial (48,8%).
+Uma análise de 2 anos de dados do Protocol S demonstrou que 42,3% (n=80) dos olhos no grupo
+tratado com ranibizumab teve melhoria ≥2 estádios na classificação DRSS face ao inicial
+comparativamente com 23,1% (n=46) dos olhos no grupo PRP. No grupo tratado com ranibizumab,
+observou-se uma melhoria de ≥2 estádios na classificação DRSS face ao inicial em 58,5% (n=24) dos
+olhos com EMD inicial e 37,8% (n=56) dos olhos sem EMD.
+A Gravidade da Retinopatia Diabética (DRSS) foi também avaliada em três estudos distintos de
+fase III controlados no EMD (ranibizumab 0,5 mg PRN vs. laser) que incluíram um total de
+875 doentes, dos quais aproximadamente 75% eram de origem asiática. Numa meta-análise destes
+estudos, 48,4% dos 315 doentes com classificações graduáveis na DRSS no subgrupo de doentes com
+RD não proliferativa moderadamente grave (RDNP), ou pior, na baseline, obtiveram uma melhoria
+≥2 estádios na DRSS no mês 12 quando tratados com ranibizumab (n = 192) vs. 14,6% dos doentes
+tratados com laser (n = 123). A diferença estimada entre ranibizumab e laser foi de 29,9% (IC 95%:
+[20,0; 39,7]). Nos 405 doentes graduáveis na DRSS com RDNP moderada ou melhor, uma melhoria
+de DRSS ≥2 estádios em 1,4% e 0,9% dos grupos ranibizumab e laser, respetivamente.
+Tratamento de perda de visão devida a edema macular secundário a OVR
+A eficácia e segurança clínicas de ranibizumab em doentes com perda de visão devida a edema
+macular secundário a OVR foram avaliadas nos estudos controlados, aleatorizados, em dupla
+ocultação, BRAVO e CRUISE que incluiu indivíduos com ORVR (n=397) e OVCR (n=392),
+respetivamente. Em ambos os estudos os indivíduos receberam 0,3 mg ou 0,5 mg de ranibizumab ou
+simulação de injeção. Após 6 meses, os doentes do grupo de controlo com simulação mudaram para
+0,5 mg de ranibizumab.
+As medidas principais dos resultados de BRAVO e CRUISE encontram-se resumidas na Tabela 8 e
+nas Figuras 5 e 6.
+
+20
+
+Tabela 8
+
+Resultados ao mês 6 e 12 (BRAVO e CRUISE)
+
+Variação média da
+acuidade visual no mês 6a
+(letras) (DP) (parâmetro de
+avaliação primário)
+Variação média na MAVC
+no mês 12 (letras) (DP)
+Ganho de ≥15 letras na
+acuidade visual no mês 6ª
+(%)
+Ganho de ≥15 letras na
+acuidade visual no mês 12
+(%)
+Proporção (%) que recebeu
+tratamento de resgate com
+laser ao longo de 12 meses
+a
+
+BRAVO
+Simulação/
+Ranibizu
+Ranibizumab
+mab
+0,5 mg
+0,5 mg
+7,3 (13,0)
+18,3 (13,2)
+
+CRUISE
+Simulação/
+Ranibizum
+Ranibizumab
+ab 0,5 mg
+0,5 mg
+(n=130)
+0,8 (16,2)
+14,9
+(13,2)
+
+12,1 (14,4)
+
+18,3 (14,6)
+
+7,3 (15,9)
+
+13,9
+(14,2)
+
+28,8
+
+61,1
+
+16,9
+
+47,7
+
+43,9
+
+60,3
+
+33,1
+
+50,8
+
+61,4
+
+34,4
+
+NA
+
+NA
+
+p<0,0001 para ambos os estudos
+
+Figura 5
+
+Variação média da MAVC na baseline ao longo do tempo até ao mês 6 e mês 12
+(BRAVO)
+
+21
+
+Figura 6
+
+Variação média da MAVC na baseline ao longo do tempo até ao mês 6 e mês 12
+(CRUISE)
+
+Em ambos os estudos, a melhoria da visão foi acompanhada por uma contínua e significativa redução
+do edema macular determinada pela espessura central da retina.
+Em doentes com OVCR (CRUISE e extensão do estudo HORIZON): Os indivíduos tratados com
+simulação nos primeiros 6 meses e que posteriormente receberam ranibizumab não atingiram ganhos
+comparáveis em AV ao Mês 24 (~6 letras) comparativamente com os indivíduos tratados com
+ranibizumab desde o início do estudo (~12 letras).
+Foram observados, pela descrição dos doentes, benefícios estatisticamente significativos em
+subescalas relacionadas com atividade ao perto e à distância com o tratamento com ranibizumab face
+ao grupo controlo, conforme avaliado pelo NEI VFQ-25.
+A eficácia e segurança clínicas de longa duração (24 meses) de ranibizumab em doentes com perda de
+visão devida a edema macular secundário a OVR foram avaliadas nos estudos BRIGHTER (ORVR)
+e CRYSTAL (OVCR). Em ambos os estudos, os doentes receberam ranibizumab 0,5 mg num regime
+PRN orientado por critérios de estabilização da AV. O estudo BRIGHTER foi um estudo de 3 grupos,
+aleatorizado, com controlo ativo, que comparou ranibizumab 0,5 mg administrado em monoterapia ou
+em associação com fotocoagulação laser adjuvante ou fotocoagulação laser isoladamente. A partir do
+mês 6, aos doentes no grupo de tratamento de laser foi permitido receberem ranibizumab 0,5 mg.
+O estudo CRYSTAL foi um estudo de braço único com ranibizumab 0,5 mg em monoterapia.
+As principais medidas de resultados dos estudos BRIGHTER e CRYSTAL são apresentados na
+Tabela 9.
+
+22
+
+Tabela 9
+
+Resultados aos Meses 6 e 24 (BRIGHTER e CRYSTAL)
+
+Ranibizumab
+0,5 mg N=180
+
+BRIGHTER
+Ranibizumab
+0,5 mg + Laser
+N=178
+
+Laser*
+N=90
+
+CRYSTAL
+Ranibizumab
+0,5 mg N=356
+
+Variação média da
++14,8
++14,8
++6,0
++12,0
+MAVC no mês 6a
+(10,7)
+(11,13)
+(14,27)
+(13,95)
+(letras) (DP)
+Variação média da
++15,5
++17,3
++12,1
++11,6 (16,09)
+MAVC no mês 24b
+(13,91)
+(12,61)
+(18,60)
+(letras) (SD)
+Ganhos de
+≥15 letras da
+52,8
+59,6
+43,3
+49,2
+MAVC ao Mês 24
+(%)
+Número médio de
+11,4
+11,3
+13,1
+NA
+injeções (DP)
+(5,81)
+(6,02)
+(6,39)
+(Meses 0-23)
+a
+p<0,0001para ambas as comparações no estudo BRIGHTER ao mês 6: Ranibizumab 0,5 mg vs.
+Laser e Ranibizumab 0,5 mg + Laser vs. Laser.
+b
+p<0,0001para a hipótese nula no estudo CRYSTAL de que a variação média ao mês 24 desde a
+baseline seja zero.
+*
+A partir do mês 6 foi permitido o tratamento com ranibizumab 0,5 mg (24 doentes foram
+tratados apenas com laser).
+No estudo BRIGHTER, o tratamento com ranibizumab 0,5 mg e laser adjuvante demonstrou não
+inferioridade versus ranibizumab em monoterapia desde a baseline até ao mês 24 (95% IC -2,8; 1,4).
+Em ambos os estudos, foi observada uma diminuição rápida e significativa da espessura central da
+retina, desde a baseline ao mês 1. Este efeito foi mantido até ao mês 24.
+O efeito do tratamento com ranibizumab foi semelhante, independentemente da presença de isquemia
+retiniana. No estudo BRIGHTER, os doentes com isquemia presente (n=46) ou ausente (n=133) e
+tratados com ranibizumab em monoterapia tiveram uma variação média desde a baseline de +15,3 e
++15,6 letras, respetivamente, ao mês 24. No estudo CRYSTAL, os doentes com isquemia presente
+(n=53) ou ausente (n=300) e tratados com ranibizumab em monoterapia tiveram uma variação média
+desde a baseline de +15,0 e +11,5 letras, respetivamente.
+Em ambos os estudos BRIGHTER e CRYSTAL foi observada uma melhoria visual em todos os
+grupos de doentes tratados com ranibizumab 0,5 mg em monoterapia, independentemente da duração
+da doença. Em doentes com <3 meses de doença foram observados ganhos em AV de 13,3 e
+10,0 letras ao mês 1 e 17,7 e 13,2 letras ao mês 24 nos estudos BRIGHTER e CRYSTAL,
+respetivamente. Os ganhos em acuidade visual correspondente em doentes com ≥ 12 meses de duração
+da doença foram de 8,6 e 8,4 letras nos respetivos estudos. Deve ser considerado iniciar o tratamento
+na altura do diagnóstico.
+O perfil de segurança de longa duração de ranibizumab observado nos estudos de 24 meses é
+consistente com o perfil de segurança conhecido de ranibizumab.
+População pediátrica
+A Agência Europeia de Medicamentos dispensou a obrigação de apresentação dos resultados dos
+estudos com o medicamento de referência contendo ranibizumab em todos os subgrupos da população
+pediátrica na perda de visão devida a DMI neovascular, EMD, perda de visão devida a edema macular
+secundário a OVR perda de visão devida a NVC e retinopatia diabética (ver secção 4.2 para
+informação sobre utilização pediátrica).
+23
+
+5.2
+
+Propriedades farmacocinéticas
+
+Após a administração mensal intravítrea de ranibizumab a doentes com DMI neovascular, as
+concentrações séricas de ranibizumab foram geralmente baixas, com os níveis máximos (Cmax)
+geralmente abaixo da concentração de ranibizumab necessária à inibição da atividade biológica do
+VEGF em 50% (11-27 ng/ml, conforme determinado num ensaio de proliferação celular in vitro). A
+Cmax foi proporcional à dose ao longo de intervalo de doses de 0,05 a 1,0 mg/olho. As concentrações
+séricas num número limitado de doentes com EMD indicam que não pode ser excluída uma exposição
+sistémica ligeiramente superior comparativamente com a observada nos doentes com DMI
+neovascular. As concentrações séricas de ranibizumab em doentes com OVR foram semelhantes ou
+ligeiramente superiores às observadas em doentes com DMI neovascular.
+Com base na análise farmacocinética da população e na eliminação do ranibizumab do soro para
+doentes com DMI neovascular tratados com a dose de 0,5 mg, a semivida de eliminação vítrea média
+do ranibizumab é de aproximadamente 9 dias. Com administração intravítrea mensal de ranibizumab
+0,5 mg/olho, prevê-se que a Cmax sérica de ranibizumab, atingida aproximadamente 1 dia após a
+administração, varie geralmente entre 0,79 e 2,90 ng/ml, e que a Cmin varie geralmente entre 0,07 e
+0,49 ng/ml. Prevê-se que as concentrações séricas de ranibizumab sejam aproximadamente
+90.000 vezes mais baixas do que as concentrações vítreas de ranibizumab.
+Doentes com compromisso renal: Não foram realizados estudos formais para examinar a
+farmacocinética de ranibizumab em doentes com compromisso renal. Numa análise de
+farmacocinética numa população de doentes com DMI neovascular, 68% (136 de 200) dos doentes
+sofriam de compromisso renal (46,5% ligeiro [50-80 ml/min.], 20% moderado [30-50 ml/min.], e
+1,5% grave [< 30 ml/min]). Em doentes com OVR, 48,2% (253 de 525) tinham compromisso renal
+(36,4% ligeiro, 9,5% moderado e 2,3% grave). A depuração sistémica foi ligeiramente inferior, mas tal
+não foi clinicamente significativo.
+Compromisso hepático: Não foram realizados estudos formais para examinar a farmacocinética de
+ranibizumab em doentes com compromisso hepático.
+5.3
+
+Dados de segurança pré-clínica
+
+A administração intravítrea bilateral de ranibizumab a macacos cynomolgus em doses entre
+0,25 mg/olho e 2,0 mg/olho, uma vez em cada 2 semanas durante um período até 26 semanas, resultou
+em efeitos oculares dependentes da dose.
+A nível intraocular, verificou-se um aumento do flare da câmara anterior, dependente da dose, com um
+pico 2 dias após a injeção. A gravidade da resposta inflamatória diminuiu geralmente nas injeções
+posteriores ou durante a recuperação. No segmento posterior, ocorreu infiltração das células do vítreo
+e moscas volantes, que também tenderam a ser dependentes da dose e que geralmente persistiram até
+ao final do período de tratamento. No estudo de 26 semanas, a gravidade da inflamação vítrea
+aumentou com o número de injeções. No entanto, foi observada evidência de reversibilidade após a
+recuperação. A natureza e duração da inflamação do segmento posterior sugere uma resposta
+imunomediada por anticorpos, que pode ser clinicamente irrelevante. Foi observada formação de
+cataratas em alguns animais após um período relativamente longo de inflamação intensa, sugerindo
+que as alterações no cristalino foram decorrentes da inflamação grave. Observou-se um aumento
+transitório na pressão intraocular pós-dose, após as injeções intravítreas, independentemente da dose.
+As alterações oculares microscópicas estiveram relacionadas com a inflamação e não indicaram
+processos degenerativos. Foram detetadas alterações inflamatórias granulomatosas no disco ótico em
+alguns olhos. Estas alterações ao nível do segmento posterior diminuíram e, em alguns casos,
+desapareceram durante o período de recuperação.
+Após a administração intravítrea, não foram detetados sinais de toxicidade sistémica. Foram
+encontrados anticorpos contra o ranibizumab séricos e vítreos num sub-conjunto de animais tratados.
+24
+
+Não estão disponíveis dados de carcinogenicidade ou mutagenicidade.
+Em macacas gestantes, o tratamento intravítreo com ranibizumab originando exposições sistémicas
+máximas 0,9 a 7 vezes superiores às do pior cenário de exposição clínica, não induziu toxicidade no
+desenvolvimento ou teratogenicidade, e não teve efeito sobre o peso ou a estrutura da placenta apesar
+de, com base nos seus efeitos farmacológicos, o ranibizumab ser considerado potencialmente
+teratogénico e embrio/fetotóxico.
+A ausência de efeitos mediados pelo ranibizumab sobre o desenvolvimento embrio-fetal é
+provavelmente devida sobretudo à incapacidade do fragmento Fab atravessar a placenta. No entanto,
+foi descrito um caso com níveis séricos maternos elevados de ranibizumab e presença de ranibizumab
+no soro fetal, sugestivo de que o anticorpo anti-ranibizumab atuou como (contendo a região Fc)
+proteína transportadora do ranibizumab, diminuindo assim a sua depuração sérica materna e
+permitindo a transferência à placenta. Como os estudos sobre o desenvolvimento embrio-fetal foram
+efetuados em animais gestantes saudáveis e determinadas doenças (como a diabetes) podem alterar a
+permeabilidade da placenta face ao fragmento Fab, o estudo deve ser interpretado com precaução.
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+α,α-trealose di-hidratada
+Cloridrato mono-hidratado de histidina
+Histidina
+Polissorbato 20
+Água para preparações injetáveis
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros
+medicamentos.
+6.3
+
+Prazo de validade
+
+3 anos
+6.4
+
+Precauções especiais de conservação
+
+Conservar no frigorífico (2°C – 8°C). Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+Antes de utilizar, o frasco para injetáveis fechado pode ser mantido à temperatura ambiente (25ºC) até
+24 horas.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Um frasco para injetáveis (vidro tipo I) com uma rolha (borracha clorobutílica) contendo 0,23 ml de
+solução estéril.
+Embalagem com um frasco para injetáveis.
+
+25
+
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+O frasco para injetáveis destina-se apenas a uma utilização única. Após a injeção, qualquer produto
+não utilizado tem de ser rejeitado. Qualquer frasco para injetáveis que apresente sinais de dano ou
+manipulação não pode ser utilizado. A esterilidade não pode ser garantida a não ser que o selo da
+embalagem se mantenha intacto.
+Para a preparação e injeção intravítrea devem ser usados os seguintes dispositivos médicos de
+utilização única:
+uma agulha com filtro de 5 µm (18G)
+uma seringa de 1 ml estéril (incluindo uma marca de 0,05 ml) e uma agulha para injeção
+(30G x ½″), para doentes adultos
+Estes dispositivos médicos não estão incluídos nesta embalagem. Podem ser obtidos em separado ou
+em kits para injeção intravítrea independentes (por exemplo, o kit para injeção I2 da Vortex Surgical).
+
+Por favor siga as instruções que se seguem para preparar Ranivisio para administração intravítrea
+em adultos:
+1.
+
+Antes de retirar a solução, remova a cápsula de fecho do frasco para injetáveis e limpe o septo
+do frasco para injetáveis (ex. com uma compressa embebida em álcool 70%).
+
+2.
+
+Coloque a agulha com filtro de 5 µm (18G x 1½″, 1,2 mm x 40 mm) numa seringa de 1 ml
+através de técnica assética. Introduza a agulha com filtro através do centro da rolha do frasco
+para injetáveis até que a agulha toque no fundo.
+
+3.
+
+Retire todo o líquido do frasco para injetáveis, mantendo-o ligeiramente inclinado numa posição
+vertical, para facilitar a aspiração completa.
+
+4.
+
+Certifique-se de que o êmbolo está suficientemente puxado para trás ao esvaziar o frasco para
+injetáveis, para que a agulha com filtro seja completamente esvaziada.
+
+5.
+
+Mantenha a agulha com filtro introduzida na rolha do frasco para injetáveis e retire a seringa. A
+agulha com filtro deve ser eliminada após aspiração do conteúdo do frasco para injetáveis e não
+deve ser usada para a injeção intravítrea.
+
+6.
+
+Coloque com firmeza e assepticamente uma agulha para injeção (30G x ½″, 0,3 mm x 13 mm)
+na seringa.
+
+7.
+
+Retire cuidadosamente a proteção da agulha para injeção, sem separar a agulha para injeção da
+seringa.
+
+Nota: Segure no conector da agulha para injeção enquanto retira a proteção.
+8.
+
+Expulse cuidadosamente o ar juntamente com o excesso de solução e ajuste a dose até à marca
+de 0,05 ml da seringa. A seringa está pronta para a injeção.
+
+Nota: Não limpe a agulha para injeção. Não puxe o êmbolo.
+Após a injeção, não volte a colocar a proteção da agulha nem retire a agulha da seringa. Elimine a
+seringa usada juntamente com a agulha num recipiente para objetos cortantes ou de acordo com as
+exigências locais.
+
+26
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Midas Pharma GmbH
+Rheinstraße 49
+D-55218 Ingelheim
+Alemanha
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/22/1673/001
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 25 de agosto de 2022
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu
+
+27
+
+ANEXO II
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA E FABRICANTE
+RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+28
+
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA E FABRICANTE
+RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante da substância ativa de origem biológica
+Polpharma Biologics S.A.
+ul. Trzy Lipy 3
+80-172 Gdansk
+Polónia
+Nome e endereço do fabricante responsável pela libertação do lote
+Midas Pharma GmbH
+Rheinstraße 49
+D-55218 Ingelheim
+Alemanha
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2 da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+•
+
+Medidas adicionais de minimização do risco
+
+Antes do lançamento em cada Estado Membro, o Titular da AIM deve acordar a versão final do
+material educacional com a Autoridade Competente Nacional.
+
+29
+
+O Titular da AIM deve assegurar que, após discussão e acordo com as Autoridades competentes em
+cada Estado-Membro em que Ranivisio esteja comercializado, no lançamento e após o lançamento,
+todas as clínicas de oftalmologia onde se espera que Ranivisio seja utilizado recebam pacotes
+atualizados de informação destinada ao doente.
+O pacote de informação destinado ao doente deve ser fornecido tanto na forma de um caderno de
+informação destinado ao doente como um formato áudio e deve conter os seguintes elementos chave:
+•
+Folheto informativo
+•
+Como se preparar para o tratamento com Ranivisio
+•
+Quais os passos que se seguem ao tratamento com Ranivisio
+•
+Sinais e sintomas chave de acontecimentos adversos graves, incluindo aumento da pressão
+intraocular, inflamação intraocular, deslocamento da retina e rutura da retina, e endoftalmite
+infeciosa
+•
+Quando se deve dirigir com urgência ao prestador de cuidados de saúde
+
+30
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+31
+
+A. ROTULAGEM
+
+32
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM
+
+1.
+
+NOME DO MEDICAMENTO
+
+Ranivisio 10 mg/ml solução injetável
+ranibizumab
+2,3 mg/0,23 ml
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Um ml contém 10 mg de ranibizumab. Frasco para injetáveis contendo 2,3 mg de ranibizumab.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Também contém: α,α-trehalose di-hidratada, cloridrato de histidina, monohidratado; histidina,
+polissorbato 20, água para preparações injetáveis.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Solução injetável
+1 frasco para injetáveis de 0,23 ml
+Dose única para adultos: 0,5 mg/0,05 ml. Expelir o excesso de volume.
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Uso intravítreo.
+Frasco para injetáveis apenas para uma utilização única.
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+33
+
+Conservar no frigorífico (2ºC – 8ºC).
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Midas Pharma GmbH
+Rheinstraße 49
+D-55218 Ingelheim
+Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/22/1673/001
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+34
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Ranivisio 10 mg/ml solução injetável
+ranibizumab
+Uso intravítreo
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+2,3 mg/0,23 ml
+
+6.
+
+OUTROS
+
+35
+
+B. FOLHETO INFORMATIVO
+
+36
+
+Folheto informativo: Informação para o doente adulto
+Ranivisio 10 mg/ml solução injetável
+ranibizumab
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+ADULTOS
+
+Leia com atenção todo este folheto antes de lhe ser administrado este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico. Ver secção 4.
+O que contém este folheto
+1.
+O que é Ranivisio e para que é utilizado
+2.
+O que precisa de saber antes de lhe ser administrado Ranivisio
+3.
+Como é administrado Ranivisio
+4.
+Efeitos indesejáveis possíveis
+5.
+Como conservar Ranivisio
+6.
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Ranivisio e para que é utilizado
+
+O que é Ranivisio
+Ranivisio é uma solução que é injetada no olho. Ranivisio pertence a um grupo de medicamentos
+chamados agentes anti-neovascularização. Contém a substância ativa designada ranibizumab.
+Para que é utilizado Ranivisio
+Ranivisio é utilizado em adultos para tratar várias doenças dos olhos que causam perda de visão.
+Estas doenças resultam de danos na retina (camada sensível à luz na parte posterior do olho) causados
+por:
+Crescimento de vasos sanguíneos extravasantes anormais. Isto é observado em doenças tais
+como a degenerescência macular relacionada com a idade (DMI) e retinopatia diabética
+proliferativa (RDP, uma doença causada pela diabetes). Pode também ser associada a
+neovascularização coroideia (NVC), secundária a miopia patológica (MP), estrias angioides,
+coriorretinopatia central serosa ou NVC inflamatória.
+Edema macular (inchaço do centro da retina). Este inchaço pode ser causado por diabetes (uma
+doença chamada edema macular diabético (EMD)) ou pelo bloqueio das veias retinianas da
+retina (uma doença chamada oclusão da veia retiniana (OVR)).
+Como atua Ranivisio
+Ranivisio reconhece e liga-se especificamente a uma proteína chamada fator de crescimento endotelial
+vascular A (VEGF-A) presente no olho. Em excesso, o VEGF-A causa um crescimento anormal de
+vasos sanguíneos e edema no olho, que pode levar a perda de visão em doenças como a DMI, EMD,
+RDP, OVR, MP e NVC. Através da ligação ao VEGF-A, Ranivisio pode bloquear a sua ação e
+prevenir este crescimento anormal e edema.
+Ao ligar-se ao VEGF-A, Ranivisio pode bloquear as suas ações e prevenir este crescimento anormal e
+inchaço.
+Nestas doenças, Ranivisio pode ajudar a estabilizar e, em muitos casos, a melhorar a sua visão.
+37
+
+2.
+
+O que precisa de saber antes de lhe ser administrado Ranivisio
+
+Não pode receber Ranivisio
+Se tem alergia ao ranibizumab ou a qualquer outro componente deste medicamento (indicados
+na secção 6).
+Se tem uma infeção dentro ou à volta do olho.
+Se tem dor ou vermelhidão (inflamação intraocular grave) no olho.
+Advertências e precauções
+Fale com o seu médico antes de lhe ser administrado Ranivisio.
+Ranivisio é administrado através de uma injeção no olho. Após o tratamento com Ranivisio
+pode ocasionalmente ocorrer infeção na porção interna do olho, dor ou vermelhidão
+(inflamação), descolamento ou rasgadura de uma das camadas da parte posterior do olho
+(descolamento ou rasgadura da retina e descolamento ou rasgadura do epitélio pigmentar da
+retina) ou turvação do cristalino (catarata). É importante identificar e tratar esta infeção ou
+descolamento da retina o mais rapidamente possível. Por favor contacte imediatamente o seu
+médico se desenvolver sinais como dor no olho ou aumento do desconforto, agravamento da
+vermelhidão do olho, visão turva ou diminuída, um aumento do número de pequenas partículas
+na sua visão ou aumento da sensibilidade à luz.
+Em alguns doentes pode ocorrer um aumento da pressão ocular durante um curto período após
+a injeção. Isto é algo que poderá não detetar e que o seu médico pode avaliar após cada injeção.
+Informe o seu médico se tem antecedentes de problemas ou tratamentos nos olhos, ou se teve
+um acidente vascular cerebral ou se já teve sintomas transitórios de acidente vascular cerebral
+(fraqueza ou paralisia dos membros ou da face, dificuldade em falar ou em entender). Esta
+informação será tida em consideração para avaliar se Ranivisio é o tratamento adequado para si.
+Por favor consulte a secção 4 (“Efeitos indesejáveis possíveis”) para obter informação mais detalhada
+acerca dos efeitos indesejáveis que podem ocorrer durante o tratamento com Ranivisio.
+Crianças e adolescentes (idade inferior a 18 anos)
+A utilização de Ranivisio em crianças e adolescentes não foi estabelecida e logo não é recomendada.
+Outros medicamentos e Ranivisio
+Informe o seu médico se estiver a utilizar, tiver utilizado recentemente, ou se vier a utilizar outros
+medicamentos.
+Gravidez e amamentação
+As mulheres que podem engravidar têm de usar meios contracetivos eficazes durante o
+tratamento e pelo menos durante três meses após a última injeção de Ranivisio.
+Não há experiência de utilização de Ranivisio em mulheres grávidas. Ranivisio não deve ser
+administrado durante a gravidez a não ser que o potencial benefício seja superior ao risco para o
+bebé em gestação. Se está grávida, se pensa estar grávida ou planeia engravidar, discuta isto
+com o seu médico antes de iniciar o tratamento com Ranivisio.
+Pequenas quantidades de Ranivisio podem passar para o leite humano, portanto não se
+recomenda a administração de Ranivisio durante a amamentação. Consulte o seu médico ou
+farmacêutico antes do tratamento com Ranivisio.
+Condução de veículos e utilização de máquinas
+Após o tratamento com Ranivisio poderá sentir temporariamente a visão turva. Se tal acontecer, não
+conduza ou utilize máquinas até ao desaparecimento dos sintomas.
+
+38
+
+3.
+
+Como é administrado Ranivisio
+
+Ranivisio é administrado através de uma injeção de dose única no olho, pelo seu médico
+oftalmologista sob anestesia local. A dose habitual de uma injeção é 0,05 ml (o que contém 0,5 mg de
+substância ativa). O intervalo entre duas doses injetadas no mesmo olho deve ser de pelo menos quatro
+semanas. Todas as injeções serão administradas pelo seu médico oftalmologista.
+Antes da injeção, o seu médico irá lavar cuidadosamente o seu olho para impedir uma infeção. O seu
+médico irá também aplicar-lhe um anestésico local para reduzir ou impedir qualquer dor que possa vir
+a sentir com a injeção.
+O tratamento é iniciado com uma injeção de Ranivisio por mês. O seu médico avaliará a sua condição
+ocular e, dependendo da forma como responde ao tratamento, decidirá se e quando necessita de
+receber mais tratamento.
+Encontram-se instruções de utilização detalhadas no final do folheto em “Como preparar e administrar
+Ranivisio”.
+Idosos (idade igual ou superior a 65 anos)
+Ranivisio pode ser usado em pessoas de idade igual ou superior a 65 anos sem ajustamento de dose.
+Antes de parar o tratamento com Ranivisio
+Se está a pensar parar o tratamento com Ranivisio, por favor vá à sua próxima consulta e discuta o
+assunto com o seu médico. O seu médico irá aconselhá-lo e decidir durante quanto tempo deverá ser
+tratado com Ranivisio.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não
+se manifestam em todas as pessoas.
+Os efeitos indesejáveis associados à administração de Ranivisio são tanto devidos ao medicamento
+propriamente dito como ao procedimento da injeção e afetam sobretudo o olho.
+Os efeitos indesejáveis mais graves encontram-se descritos abaixo:
+Efeitos indesejáveis graves frequentes (podem afetar até 1 em 10 pessoas):
+Descolamento ou rasgadura da camada da parte detrás do olho (descolamento ou rasgadura da retina),
+que provoca visualização de centelhas de luz com manchas progredindo para uma perda temporária de
+visão ou turvação do cristalino (catarata).
+Efeitos indesejáveis graves pouco frequentes (podem afetar até 1 em 100 pessoas):
+Cegueira, infeção do globo ocular (endoftalmite) com inflamação do interior do olho.
+Os sintomas que pode sentir são dor ou aumento do desconforto ocular, agravamento da vermelhidão
+no olho, visão turva ou diminuída, um aumento do número de pequenas partículas na visão ou
+aumento da sensibilidade à luz. Por favor contacte imediatamente o seu médico se desenvolver
+algum destes efeitos indesejáveis.
+Os efeitos indesejáveis notificados mais frequentemente encontram-se descritos abaixo:
+Efeitos indesejáveis muito frequentes (podem afetar mais de 1 em 10 pessoas)
+Os efeitos indesejáveis visuais incluem: Inflamação do olho, hemorragia na parte de trás do olho
+(hemorragia retiniana), perturbação da visão, dor ocular, pequenas partículas ou manchas na visão
+(moscas), olho injetado de sangue, irritação do olho, sensação de corpo estranho no olho, aumento da
+produção de lágrimas, inflamação ou infeção das margens das pálpebras, olho seco, vermelhidão ou
+comichão no olho e aumento da pressão ocular.
+39
+
+Os efeitos indesejáveis não-visuais incluem: Dor de garganta, congestão nasal, corrimento nasal, dor
+de cabeça (cefaleias) e dor nas articulações.
+Outros efeitos indesejáveis que podem ocorrer após o tratamento com Ranivisio encontram-se
+descritos abaixo:
+Efeitos indesejáveis frequentes
+Os efeitos indesejáveis visuais incluem: Diminuição da nitidez da visão, inchaço de uma parte do olho
+(úvea, córnea), inflamação da córnea (parte anterior do olho), pequenas marcas na superfície do olho,
+visão turva, hemorragia no local da injeção, hemorragia ocular, secreção ocular com comichão,
+vermelhidão e inchaço (conjuntivite), sensibilidade à luz, desconforto ocular, inchaço das pálpebras,
+dor nas pálpebras.
+Os efeitos indesejáveis não-visuais incluem: Infeção do trato urinário, valor baixo do número de
+glóbulos vermelhos (com sintomas como cansaço, falta de ar, tonturas, palidez), ansiedade, tosse,
+náuseas, reações alérgicas como erupção cutânea, urticária, comichão e vermelhidão da pele.
+Efeitos indesejáveis pouco frequentes
+Efeitos indesejáveis visuais incluem: Inflamação e hemorragia na parte da frente do olho, acumulação
+de pus no olho, alterações da parte central da superfície do olho, dor ou irritação no local de injeção,
+sensação estranha no olho, irritação das pálpebras.
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico. Também poderá comunicar efeitos indesejáveis diretamente através do
+sistema nacional de notificação mencionado no Apêndice V. Ao comunicar efeitos indesejáveis, estará
+a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+5.
+
+Como conservar Ranivisio
+
+-
+
+-
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e rótulo
+do frasco para injetáveis, após EXP. O prazo de validade corresponde ao último dia do mês
+indicado.
+Conservar no frigorífico (2°C – 8°C). Não congelar.
+Antes de utilizar, o frasco para injetáveis fechado pode ser mantido à temperatura ambiente
+(25ºC) até 24 horas.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+Não utilize qualquer embalagem que esteja danificada.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+-
+
+Qual a composição de Ranivisio
+A substância ativa é o ranibizumab. Cada ml contém 10 mg de ranibizumab. Cada frasco para
+injetáveis contém 2,3 mg de ranibizumab em 0,23 ml de solução. Este fornece uma quantidade
+adequada para administrar uma dose única de 0,05 ml contendo 0,5 mg de ranibizumab.
+Os outros componentes são α,α-trehalose di-hidratada, cloridrato de histidina, monohidratado,
+histidina, polissorbato 20, água para preparações injetáveis.
+Qual o aspeto de Ranivisio e conteúdo da embalagem
+Ranivisio é uma solução injetável num frasco para injetáveis (0,23 ml). A solução é aquosa, límpida,
+incolor a amarelo pálido.
+Está disponível um tipo de embalagem:
+Embalagem contendo um frasco para injetáveis, de vidro de ranibizumab, com uma rolha de borracha
+clorobutílica. O frasco para injetáveis destina-se apenas a uma utilização única.
+
+40
+
+Titular da Autorização de Introdução no Mercado e Fabricante
+Midas Pharma GmbH
+Rheinstraße 49
+D-55218 Ingelheim
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Teva Pharma Belgium N.V./S.A./A.G.
+Tel/Tél: +32 3 820 73 73
+
+Lietuva
+UAB Teva Baltics
+Tel: +370 5 266 02 03
+
+България
+Тева Фарма ЕАД
+Tel: +359 2 489 95 85
+
+Luxembourg/Luxemburg
+Teva Pharma Belgium N.V./S.A./A.G.,
+Tél: +32 3 820 73 73
+
+Česká republika
+Teva Pharmaceuticals CR, s.r.o.
+Tel: +420 251 007 111
+
+Magyarország
+Teva Gyógyszergyár Zrt.
+Tel.: +36 1 288 6400
+
+Danmark
+Teva Denmark A/S
+Tlf: +45 44 98 55 11
+
+Malta
+Teva Pharmaceuticals Ireland, L-Irlanda
+Τel: +353 (0)1912 7700
+
+Deutschland
+ratiopharm GmbH
+Tel: +49 731 402 02
+
+Nederland
+Teva Nederland B.V.
+Tel: +31 (0) 800 0228400
+
+Eesti
+UAB Teva Baltics Eesti filiaal
+Tel: +372 661 0801
+
+Norge
+Teva Norway AS
+Tlf: +47 66 77 55 90
+
+Ελλάδα
+Specifar ΑΒΕΕ
+Τηλ: +30 211 880 5000
+
+Österreich
+ratiopharm Arzneimittel Vertriebs-GmbH
+Tel: +43 1 970070
+
+España
+Teva Pharma, S.L.U.
+Tel: +34 91 387 32 80
+
+Polska
+Zakłady Farmaceutyczne Polpharma S.A.
+Tel. + 48 22 364 61 01
+
+France
+Teva Santé
+Tél: +33 1 55 91 78 00
+
+Portugal
+Teva Pharma - Produtos Farmacêuticos Lda
+Tel: +351 214 767 550
+
+Hrvatska
+Pliva Hrvatska d.o.o
+Tel: + 385 1 37 20 000
+
+România
+Teva Pharmaceuticals S.R.L
+Tel: +40 21 230 65 24
+
+Ireland
+Teva Pharmaceuticals Ireland
+Tel: +353 (0)1912 7700
+
+Slovenija
+Pliva Ljubljana d.o.o.
+Tel: +386 1 58 90 390
+
+Ísland
+Teva Pharma Iceland ehf.
+Sími: + 354 550 3300
+
+Slovenská republika
+Teva Pharmaceuticals Slovakia s.r.o.
+Tel: +421 2 5726 7911
+41
+
+Italia
+Teva Italia S.r.l.
+Tel: +39 0289 17981
+
+Suomi/Finland
+ratiopharm Oy
+Puh/Tel: +358 20 180 5900
+
+Κύπρος
+Specifar ΑΒΕΕ, Ελλάδα
+Τηλ: +30 211 880 5000
+
+Sverige
+Teva Sweden AB
+Tel: +46 42 12 11 00
+
+Latvija
+UAB Teva Baltics filiāle Latvijā
+Tel: +371 67 323 666
+
+United Kingdom (Northern Ireland)
+Teva Pharmaceuticals Ireland
+Tel: +44 (0) 207 540 7117
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu
+
+42
+
+A INFORMAÇÃO QUE SE SEGUE DESTINA-SE APENAS AOS PROFISSIONAIS DE
+SAÚDE:
+Ver também secção 3 “Como é administrado Ranivisio”.
+Como preparar e administrar Ranivisio a adultos
+Frasco para injetáveis de uso único, apenas para uso intravítreo.
+Ranivisio tem de ser administrado por um oftalmologista qualificado com experiência em injeções
+intravítreas.
+Na DMI húmida, na NVC, na RDP e na perda de visão devida a EMD ou no edema macular
+secundário a OVR a dose recomendada de Ranivisio é de 0,5 mg administrada através de uma injeção
+intravítrea de dose única. Isto corresponde a um volume de injeção de 0,05 ml. O intervalo entre duas
+doses injetadas no mesmo olho deve ser de, pelo menos, quatro semanas.
+O tratamento é iniciado com uma injeção por mês até a acuidade visual máxima ser atingida e/ou não
+existam sinais de atividade da doença, i.e., sem alterações na acuidade visual e em outros sinais e
+sintomas de doença sob tratamento continuado. Inicialmente, podem ser necessárias três ou mais
+injeções mensais consecutivas em doentes com DMI húmida, EMD, PDR e OVR.
+Posteriormente, a monitorização e os intervalos de tratamento devem ser determinados pelo médico e
+devem ser baseados na atividade da doença, conforme avaliado pela acuidade visual e/ou parâmetros
+anatómicos.
+Se, na opinião do médico, os parâmetros visuais e anatómicos indicarem que o doente não está a a
+beneficiar da continuação do tratamento, Ranivisio deve ser descontinuado.
+A monitorização da atividade da doença pode incluir exame clínico, avaliação funcional ou técnicas de
+imagem (ex. tomografia de coerência ótica ou angiografia fluoresceínica).
+Se os doentes estiverem a ser tratados de acordo com um regime “tratar e estender” (treat-and-extend),
+uma vez atingida a acuidade visual máxima e/ou não existam sinais de atividade da doença, os
+intervalos de tratamento podem ser estendidos passo a passo até que se verifique recorrência de sinais
+de atividade da doença ou perda de visão. Os intervalos de tratamento devem ser estendidos por não
+mais de duas semanas de cada vez para a DMI húmida e podem ser estendidos até um mês de cada vez
+para o EMD. Para RDP e OVR, os intervalos de tratamento podem também ser gradualmente
+estendidos; no entanto, existem dados insuficientes para concluir sobre a duração desses intervalos.
+Se recorrer atividade de doença, o intervalo de tratamento deve ser encurtado em conformidade.
+O tratamento da perda de visão devida a NVC, deve ser determinado individualmente por doente com
+base na atividade da doença. Alguns doentes podem apenas necessitar de uma injeção durante os
+primeiros 12 meses, outros doentes podem necessitar de tratamento mais frequente, incluindo uma
+injeção mensal. Para a NVC secundária a miopia patológica (MP), muitos doentes podem apenas
+necessitar uma ou duas injeções durante o primeiro ano.
+Ranivisio e fotocoagulação laser no EMD e edema macular secundário a ORVR
+Existe alguma experiência de administração de ranibizumab concomitantemente com fotocoagulação
+laser. Quando administrados no mesmo dia, Ranivisio deve ser administrado pelo menos 30 minutos
+após a fotocoagulação laser. Ranivisio pode ser administrado a doentes que receberam fotocoagulação
+laser anteriormente.
+Raniviso e terapêutica fotodinâmica com verteporfina na NVC secundária a MP
+Não existe experiência de administração concomitante de ranibizumab e verteporfina.
+
+43
+
+Ranivisio deve ser examinado visualmente para deteção de partículas e alteração da cor, antes da
+administração.
+Deve-se realizar a técnica de injeção sob condições asséticas, incluindo a desinfeção cirúrgica das
+mãos, utilização de luvas estéreis, de bata estéril e de um espéculo estéril para a pálpebra (ou
+equivalente) e a existência de condições para efetuar paracentese estéril (se necessário). Deve-se
+avaliar cuidadosamente a história clínica do doente relativa a reações de hipersensibilidade antes de se
+realizar a injeção intravítrea. Antes da injeção, deve administrar-se anestesia adequada e um
+microbicida tópico de largo espetro para desinfetar a pele periocular, a pálpebra e a superfície ocular,
+de acordo com a prática local.
+O frasco para injetáveis destina-se apenas a uma utilização única. Após a injeção, qualquer produto
+não utilizado tem de ser rejeitado. Qualquer frasco para injetáveis que apresente sinais de dano ou
+manipulação não deve ser utilizado. A esterilidade não pode ser garantida a não ser que o selo da
+embalagem se mantenha intacto.
+Para a preparação e injeção intravítrea devem ser usados os seguintes dispositivos médicos de
+utilização única:
+uma agulha com filtro de 5 µm (18G)
+uma seringa de 1 ml estéril (incluindo uma marca de 0,05 ml)
+uma agulha para injeção (30G x ½″).
+Estes dispositivos médicos não estão incluídos na embalagem de Ranivisio. Podem ser obtidos em
+separado ou em kits para injeção intravítrea independentes (por exemplo, o kit para injeção I2 da
+Vortex Surgical).
+Por favor siga as instruções que se seguem para preparar Ranivisio para administração intravítrea a
+doentes adultos:
+1. Antes de retirar a solução, remova a cápsula de fecho do
+frasco para injetáveis e limpe o septo do frasco para
+injetáveis (ex. com uma compressa embebida em álcool
+70%).
+2. Coloque uma agulha com filtro de 5 µm (18G x 1½″,
+1,2 mm x 40 mm, 5 µm) numa seringa de 1 ml através de
+técnica assética. Introduza a agulha com filtro através do
+centro da rolha do frasco para injetáveis até que a agulha
+toque no fundo.
+3. Retire todo o líquido do frasco para injetáveis, mantendoo ligeiramente inclinado numa posição vertical, para
+facilitar a aspiração completa.
+4. Certifique-se de que o êmbolo está suficientemente
+puxado para trás ao esvaziar o frasco para injetáveis, para
+que a agulha com filtro seja completamente esvaziada.
+5. Mantenha a agulha com filtro introduzida na rolha do
+frasco para injetáveis e retire a seringa. A agulha com filtro
+deve ser desperdiçada após aspiração do conteúdo do frasco
+para injetáveis e não deve ser usada para a injeção
+intravítrea.
+
+44
+
+6. Coloque com firmeza e assepticamente uma agulha para
+injeção (30G x ½″, 0,3 mm x 13 mm) na seringa.
+7. Retire cuidadosamente a proteção da agulha para injeção,
+sem separar a agulha para injeção da seringa.
+Nota: Segure no conector da agulha para injeção enquanto
+retira a proteção.
+
+8. Expulse cuidadosamente o ar juntamente com o excesso
+de solução da seringa e ajuste a dose até à marca de 0,05 ml
+da seringa. A seringa está pronta para a injeção.
+Nota: Não limpe a agulha para injeção. Não puxe o êmbolo.
+
+A agulha para injeção deve ser inserida nos 3,5-4,0 mm posteriores ao limbo, dentro na cavidade do
+corpo vítreo, evitando o meridiano horizontal e procurando o centro do globo. O volume de injeção de
+0,05 ml é então administrado; para injeções posteriores deve ser usado um local escleral diferente.
+Após a injeção, não volte a colocar a proteção da agulha nem retire a agulha da seringa. Elimine a
+seringa usada juntamente com a agulha num recipiente para objetos cortantes ou de acordo com os
+requisitos locais.
+
+45
+
+

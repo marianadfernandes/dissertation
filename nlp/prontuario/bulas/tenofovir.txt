@@ -1,0 +1,3514 @@
+APROVADO EM
+21-09-2023
+INFARMED
+1.
+
+NOME DO MEDICAMENTO
+
+Tenofovir Teva 245 mg comprimidos revestidos por película
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada comprimido revestido por película contém tenofovir disoproxil fosfato equivalente
+a 245 mg de tenofovir disoproxil.
+Excipiente com efeito conhecido:
+Cada comprimido contém 100,0 mg de lactose mono-hidratada.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimido revestido por película.
+Comprimido revestido por película, de cor azulada a azul, de forma oval, com as
+dimensões de 16,6 mm de comprimento e 8,9 mm de largura, tendo gravado “T” numa
+das faces e sendo a outra face lisa.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Infeção pelo VIH-1
+Tenofovir Teva é indicado em associação com outros medicamentos antirretrovirais para
+o tratamento de adultos infetados pelo VIH-1.
+Em adultos, a demonstração do benefício do tenofovir disoproxil na infeção pelo VIH-1
+baseia-se nos resultados obtidos num estudo envolvendo doentes não submetidos
+previamente a terapêutica antirretroviral, incluindo doentes com carga viral elevada (>
+100.000 cópias/ml) e em estudos nos quais o tenofovir disoproxil foi adicionado à
+terapêutica base (na maioria terapêutica tripla) de doentes previamente tratados com
+antirretrovirais e que apresentavam falência virológica numa fase inicial (com < 10.000
+cópias/ml, com a maioria dos doentes tendo < 5.000 cópias/ml).
+Tenofovir Teva está também indicado para o tratamento de adolescentes infetados pelo
+VIH-1 com resistência aos NRTIs ou com toxicidades que excluem a utilização de
+medicamentos de primeira linha, com 12 a < 18 anos de idade.
+
+APROVADO EM
+21-09-2023
+INFARMED
+
+A decisão de tratar com Tenofovir Teva doentes com infeção pelo VIH-1 préviamente
+submetidos a terapêutica antirretroviral deve ser baseada num teste individual de
+resistência viral e/ou na história de tratamento do doente.
+Hepatite B
+Tenofovir Teva está indicado para o tratamento da hepatite B crónica, em adultos com:
+doença hepática compensada com evidência de replicação viral ativa, elevação
+persistente dos níveis séricos de alanina aminotransferase (ALT) e evidência histológica
+de inflamação ativa e/ou fibrose (ver secção 5.1).
+evidência de vírus da hepatite B resistente à lamivudina (ver secções 4.8 e 5.1).
+doença hepática descompensada (ver secções 4.4, 4.8 e 5.1).
+Tenofovir Teva está indicado para o tratamento da hepatite B crónica em adolescentes
+entre os 12 e os 18 anos de idade com:
+doença hepática compensada e evidência de doença imunológica ativa, ou seja,
+replicação viral ativa, níveis séricos persistentemente elevados de ALT ou evidência
+histológica de inflamação ativa moderada a grave e/ou fibrose. Relativamente à decisão
+de iniciar o tratamento em doentes pediátricos, ver secções 4.2, 4.4, 4.8 e 5.1.
+4.2
+
+Posologia e modo de administração
+
+A terapêutica deve ser iniciada por um médico com experiência no tratamento da infeção
+pelo VIH e/ou no tratamento da hepatite B crónica.
+Posologia
+VIH-1 e Hepatite B crónica
+Adultos e adolescentes com 12 a <18 anos de idade com um peso ≥35kg: A dose
+recomendada de Tenofovir Teva para o tratamento da infeção pelo VIH e para o
+tratamento da hepatite B crónica é de 245 mg (um comprimido) tomado uma vez por dia,
+por via oral, com alimentos.
+A decisão de tratar doentes pediátricos (adolescentes) deve basear-se na cuidadosa
+ponderação das necessidades de cada doente e tendo por referência as diretrizes atuais de
+tratamento pediátrico, incluindo o valor da informação histológica no início do
+tratamento. Os benefícios da supressão virológica a longo prazo com a terapia continuada
+têm de ser ponderados face ao risco do tratamento prolongado, incluindo a emergência de
+vírus da hepatite B resistente e as incertezas associadas aos efeitos a longo prazo da
+toxicidade renal e óssea (ver secção 4.4).
+
+APROVADO EM
+21-09-2023
+INFARMED
+Os níveis séricos de ALT devem estar persistentemente elevados durante, pelo menos, 6
+meses antes do tratamento de doentes pediátricos com doença hepática compensada
+devido a hepatite B crónica positiva para AgHBe e durante, pelo menos, 12 meses em
+doentes com doença negativa para AgHBe.
+Duração do tratamento em doentes adultos e adolescentes com hepatite B crónica
+A duração ótima de tratamento é desconhecida. A interrupção do tratamento pode ser
+considerada nas seguintes situações:
+- Nos doentes positivos para AgHBe sem cirrose, o tratamento deve ser administrado
+durante pelo menos 12 meses após a confirmação de seroconversão para anti-HBe (perda
+de AgHBe e perda de ADN-VHB com deteção de anti-HBe em duas amostras de soro
+consecutivas com, pelo menos, 3-6 meses de intervalo) ou até seroconversão para antiHBs ou no caso de perda de eficácia (ver secção 4.4). A ALT sérica e os níveis de ADNVHB deverão ser seguidos regularmente após a interrupção do tratamento para detetar
+qualquer recidiva virológica tardia.
+- Nos doentes negativos para AgHBe sem cirrose, o tratamento deve ser administrado
+pelo menos até seroconversão para anti-HBs ou no caso de evidência de perda de
+eficácia. A interrupção do tratamento também pode ser considerada após ser obtida uma
+supressão virológica estável (ou seja, durante, pelo menos, 3 anos), desde que a ALT
+sérica e os níveis de ADN-VHB sejam seguidos regularmente após a interrupção do
+tratamento para detetar qualquer recidiva virológica tardia. Com o tratamento prolongado
+durante mais de 2 anos, é recomendada uma reavaliação regular para confirmar que a
+continuação da terapêutica selecionada se mantém apropriada para o doente.
+Em doentes adultos com doença hepática ou descompensada ou cirrose, a interrupção do
+tratamento não é recomendada.
+Para o tratamento da infeção pelo VIH-1 e da hepatite B crónica em adultos para os quais
+uma forma farmacêutica sólida não é apropriada, poderá verificar a disponibilidade de
+outras formulações adequadas.
+População pediátrica
+São usadas doses reduzidas de tenofovir disoproxil para o tratamento de doentes
+pediátricos ou crinças com hepatite B crónica entre os 2 e menos de 12 anos de idade.
+Dado que Tenofovir Teva está apenas disponível em comprimidos revestidos por película
+de 245 mg, não é adequado para ser utilizado em doentes pediátricos entre os 2 e menos
+de 12 anos de idade. Poderá verificar-se a disponibilidade de outras formulações
+adequadas.
+
+APROVADO EM
+21-09-2023
+INFARMED
+A segurança e eficácia de tenofovir disoproxil em crianças infetadas pelo VIH-1 ou
+crianças com hepatite B crónica com menos de 2 anos de idade não foram estabelecidas.
+Não existem dados disponíveis.
+Dose esquecida
+Se um doente se esquecer de uma dose de Tenofovir Teva no período de 12 horas após a
+hora em que é habitualmente tomada, o doente deve tomar Tenofovir Teva com alimentos
+logo que for possível e continuar com o seu esquema de toma normal. Se um doente se
+esquecer de uma dose de Tenofovir Teva e tiverem decorrido mais de 12 horas e estiver
+quase na hora de tomar a sua próxima dose, o doente não deve tomar a dose esquecida e
+continuar simplesmente com o esquema de toma habitual.
+Se o doente vomitar no espaço de 1 hora após tomar Tenofovir Teva, deve tomar outro
+comprimido. Se o doente vomitar mais de 1 hora após tomar Tenofovir Disoproxil Teva,
+não é necessário tomar outra dose.
+Populações especiais
+Idosos
+Não existem dados disponíveis que possibilitem uma recomendação de dose para doentes
+com mais de 65 anos de idade (ver secção 4.4).
+Compromisso renal
+O tenofovir é eliminado por excreção renal e por isso, nos doentes com insuficiência
+renal a exposição ao tenofovir está aumentada.
+Adultos
+Os dados de segurança e de eficácia de tenofovir disoproxil são limitados para doentes
+adultos com compromisso renal moderado e grave (depuração da creatinina < 50 ml/min)
+e os dados de segurança a longo prazo não foram avaliados para o compromisso renal
+ligeiro (depuração da creatinina 50-80 ml/min). Desta forma, o tenofovir disoproxil só
+deve ser utilizado em doentes adultos com compromisso renal se os benefícios potenciais
+do tratamento superarem os riscos potenciais. Recomenda-se a administração de uma
+dose diária reduzida em doentes adultos com depuração da creatinina < 50 ml/min,
+incluindo doentes hemodialisados. O Tenofovir Teva está apenas disponível em
+comprimidos revestidos por película de 245 mg. Poderá verificar-se a disponibilidade de
+outras formulações adequadas.
+Compromisso renal ligeiro (depuração da creatinina 50-80 ml/min)
+Dados limitados de estudos clínicos suportam a administração uma vez por dia de 245 mg
+de tenofovir disoproxil em doentes com compromisso renal ligeiro.
+Compromisso renal moderado (depuração da creatinina 30-49 ml/min)
+No caso de não ser possível a administração de uma dose mais baixa, podem ser usados
+intervalos entre tomas prolongados utilizando os comprimidos revestidos por película de
+245 mg. A administração de 245 mg de tenofovir disoproxil em intervalos de 48 horas
+
+APROVADO EM
+21-09-2023
+INFARMED
+pode ser utilizada com base em dados de modelos farmacocinéticos de dose única em
+indivíduos VIH negativos e não infetados pelo VHB com graus variáveis de
+compromisso renal, incluindo doença renal em fase terminal necessitando de
+hemodiálise, mas não foi confirmada em estudos clínicos. Assim, a resposta clínica ao
+tratamento e a função renal devem ser cuidadosamente monitorizadas nestes doentes (ver
+secções 4.4 e 5.2).
+Compromisso renal grave (depuração da creatinina < 30 ml/min) e doentes
+hemodialisados
+Caso não seja possível efetuar ajustes adequados da dose devido à inexistência de
+alternativas em termos de comprimidos com outras dosagens, não se recomenda a
+utilização neste grupo de doentes. Caso não esteja disponível nenhum tratamento
+alternativo, podem ser usados intervalos entre tomas prolongados, como se segue:
+Compromisso renal grave: Podem ser administrados 245 mg de tenofovir disoproxil cada
+72-96 horas (duas tomas por semana).
+Doentes hemodialisados: Podem ser administrados 245 mg de tenofovir disoproxil cada 7
+dias depois de terminar a sessão de hemodiálise*.
+Estes ajustes dos intervalos entre tomas não foram confirmados em estudos clínicos.
+Simulações sugerem que intervalos entre tomas prolongados utilizando Tenofovir Teva
+não são ideais e podem resultar numa toxicidade aumentada e possível resposta
+inadequada. Desta forma, a resposta clínica ao tratamento e a função renal deverão ser
+cuidadosamente monitorizadas (ver secções 4.4 e 5.2).
+*Geralmente, uma vez por semana assumindo que, por semana, se fazem três sessões de
+hemodiálise de aproximadamente 4 horas cada, ou após 12 horas cumulativas de
+hemodiálise.
+Não pode ser efetuada qualquer recomendação de dose para doentes com depuração da
+creatinina < 10 ml/min não submetidos a hemodiálise.
+Pediatria
+A utilização de tenofovir disoproxil não é recomendada em doentes pediátricos com
+compromisso renal (ver secção 4.4).
+Compromisso hepático
+Não é necessário ajuste de dose em doentes com compromisso hepático (ver secções 4.4
+e 5.2).
+Em caso de interrupção do tratamento com tenofovir disoproxil em doentes com hepatite
+B crónica com ou sem coinfeção pelo VIH, estes doentes devem ser cuidadosamente
+monitorizados para detetar evidências de exacerbação de hepatite (ver secção 4.4).
+
+APROVADO EM
+21-09-2023
+INFARMED
+Modo de administração
+Tenofovir Teva comprimidos deve ser tomado uma vez por dia, por via oral, com
+alimentos.
+Em casos excecionais, para doentes com dificuldade em deglutir, os comprimidos de
+tenofovir disoproxil podem ser administrados após desintegração do comprimido em,
+pelo menos, 100 ml de água, sumo de laranja ou sumo de uva e imediatamente bebidos.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Gerais
+Deverá ser proposto um teste de anticorpos para VIH a todos os doentes infetados pelo
+VHB antes de se iniciar a terapia com tenofovir disoproxil (ver abaixo Coinfeção pelo
+VIH-1 e hepatite B).
+Hepatite B
+Os doentes têm de ser informados que o tenofovir disoproxil, não provou prevenir o risco
+de transmissão de VHB a outros, através de contacto sexual ou contaminação com
+sangue. Terão de continuar a ser utilizadas as precauções adequadas.
+Administração concomitante com outros medicamentos
+Tenofovir Teva não deve ser administrado concomitantemente com outros medicamentos
+contendo tenofovir disoproxil ou tenofovir alafenamida.
+Tenofovir Teva não deve ser administrado concomitantemente com adefovir dipivoxil.
+A coadministração de tenofovir disoproxil e didanosina não é recomendada (ver secção
+4.5)
+Terapêutica tripla com análogos nucleosídeos/nucleótidos
+Tem havido notificações de elevada percentagem de falência virológica e de emergência
+de resistência em doentes com VIH, numa fase inicial, quando o tenofovir disoproxil foi
+administrado, em associação com lamivudina e abacavir, assim como com lamivudina e
+didanosina, num regime de toma única diária.
+Efeitos renais e ósseos na população adulta
+Efeitos renais
+Tenofovir é principalmente eliminado por via renal. Com a utilização de tenofovir
+disoproxil na prática clínica, têm sido notificados casos de falência renal, compromisso
+renal, creatinina elevada, hipofosfatémia e tubulopatia proximal (incluindo síndroma de
+Fanconi) (ver secção 4.8).
+
+APROVADO EM
+21-09-2023
+INFARMED
+Monitorização renal
+Recomenda-se que a depuração da creatinina seja calculada em todos os doentes antes do
+início da terapêutica com tenofovir disoproxil e que a função renal (depuração da
+creatinina e fosfato sérico) seja também monitorizada após duas a quatro semanas de
+tratamento, após três meses de tratamento e subsequentemente em intervalos de três a seis
+meses em doentes sem fatores de risco renal. Nos doentes em risco de compromisso
+renal, é necessária uma monitorização mais frequente da função renal.
+Controlo renal
+Se o fosfato sérico for < 1,5 mg/dl (0,48 mmol/l) ou a depuração da creatinina diminuir
+para valores inferiores a 50 ml/min em qualquer doente adulto a receber tenofovir
+disoproxil, a função renal deve ser reavaliada dentro de uma semana, incluindo os níveis
+sanguíneos de glucose e potássio e as concentrações de glucose na urina (ver secção 4.8,
+tubulopatia proximal). Deve-se considerar também a interrupção do tratamento com
+tenofovir disoproxil em doentes adultos com diminuição da depuração da creatinina para
+valores inferiores a 50 ml/min ou uma diminuição do fosfato sérico para níveis inferiores
+a 1,0 mg/dl (0,32 mmol/l). A interrupção do tratamento com tenofovir disoproxil também
+deve ser considerada em caso de declínio progressivo da função renal nos casos em que
+não foi identificada qualquer outra causa.
+Coadministração e risco de toxicidade renal
+O uso de tenofovir disoproxil deve ser evitado em concomitância ou com uso recente de
+fármacos nefrotóxicos (por exemplo, aminoglicosidos, anfotericina B, foscarneto,
+ganciclovir, pentamidina, vancomicina, cidofovir ou interleucina-2). Se o uso
+concomitante de tenofovir disoproxil e medicamentos nefrotóxicos for inevitável, a
+função renal deve ser monitorizada semanalmente.
+Foram notificados casos de insuficiência renal aguda após o início de doses altas ou
+múltiplos fármacos anti-inflamatórios não esteroides (AINEs) em doentes tratados com
+tenofovir disoproxil e com fatores de risco para disfunção renal. Se o tenofovir disoproxil
+for coadministrado com um AINE, a função renal deve ser devidamente monitorizada.
+Foi notificado um risco mais elevado de compromisso renal em doentes a receberem
+tenofovir disoproxil em associação com um inibidor da protease potenciado com ritonavir
+ou cobicistate. Nestes doentes é necessária a monitorização frequente da função renal
+(ver secção 4.5). Em doentes com fatores de risco renal, a coadministração de tenofovir
+disoproxil com um inibidor da protease potenciado deve ser cuidadosamente avaliada.
+Tenofovir disoproxil não foi clinicamente avaliado em doentes tratados com
+medicamentos que são secretados pela mesma via renal, incluindo as proteínas de
+transporte humano de aniões orgânicos (hOAT) 1 e 3 ou MRP 4 (por exemplo cidofovir,
+um conhecido medicamento nefrotóxico). Estas proteínas de transporte renais podem ser
+responsáveis pela secreção tubular e, em parte, pela eliminação renal de tenofovir e
+cidofovir. Consequentemente, a farmacocinética destes medicamentos que são secretados
+pela mesma via renal, incluindo as mesmas proteínas de transporte hOAT 1 e 3 ou MRP
+
+APROVADO EM
+21-09-2023
+INFARMED
+4, pode ser modificada se eles forem coadministrados. A menos que estritamente
+necessário, não se recomenda o uso concomitante destes medicamentos que são
+secretados pela mesma via renal, mas se a sua utilização for inevitável, a função renal
+deve ser monitorizada semanalmente (ver secção 4.5).
+Compromisso renal
+A segurança renal com tenofovir disoproxil apenas foi estudada num grau muito limitado
+em doentes adultos com função renal comprometida (depuração da creatinina < 80
+ml/min).
+Doentes adultos com uma depuração da creatinina < 50 ml/min, incluindo doentes
+hemodialisados
+Os dados de segurança e de eficácia de tenofovir disoproxil são limitados para doentes
+com compromisso renal. Desta forma, o tenofovir disoproxil só deve ser utilizado se os
+benefícios potenciais do tratamento superarem os riscos potenciais. Não é recomendado o
+uso de tenofovir disoproxil em doentes com compromisso renal grave (depuração da
+creatinina < 30 ml/min) e em doentes que necessitam de hemodiálise. Se não estiver
+disponível nenhum tratamento alternativo, o intervalo entre tomas deverá ser ajustado e a
+função renal deverá ser cuidadosamente monitorizada (ver secções 4.2 e 5.2).
+Efeitos ósseos
+As anomalias ósseas, tais como osteomalacia que podem manifestar-se como dor óssea
+persistente ou agravada e que podem contribuir infrequentemente para fraturas, podem
+ser associadas a tubulopatia renal proximal induzida por tenofovir disoproxil (ver secção
+4.8).
+O tenofovir disoproxil também pode causar uma diminuição na densidade mineral óssea
+(DMO). Em doentes infetados pelo VIH, num estudo clínico controlado com a duração
+de 144 semanas que comparou o tenofovir disoproxil com estavudina em associação a
+lamivudina e a efavirenz em doentes adultos sem terapêutica antirretroviral prévia,
+observaram-se pequenas diminuições na DMO a nível da bacia e da coluna em ambos os
+grupos de tratamento. Às 144 semanas, as diminuições na DMO a nível da coluna e as
+alterações nos biomarcadores ósseos desde os valores basais foram significativamente
+maiores no grupo de tratamento com tenofovir disoproxil. Neste grupo, as diminuições na
+DMO a nível da bacia foram significativamente maiores até às 96 semanas. Contudo,
+durante as 144 semanas deste estudo, não houve um risco aumentado de fraturas ou
+evidência de anomalias ósseas clinicamente relevantes.
+Noutros estudos (prospectivos e transversais), as diminuições mais acentuadas da DMO
+foram observadas em pacientes tratados com tenofovir disoproxil como parte de um
+regime contendo um inibidor de protease potenciado. De modo geral, face às anomalias
+ósseas associadas a tenofovir disoproxil e às limitações dos dados a longo-prazo sobre o
+impacto de tenofovir disoproxil na saúde óssea e no risco de fraturas, devem considerar-
+
+APROVADO EM
+21-09-2023
+INFARMED
+se regimes de tratamento alternativos em doentes com osteoporose que estão em elevado
+risco de fraturas.
+Se se suspeitar de anomalias ósseas, ou caso sejam detetadas, deve recorrer-se a uma
+consulta apropriada.
+Efeitos renais e ósseos na população pediátrica
+Existem incertezas associadas aos efeitos a longo prazo da toxicidade renal e óssea. Além
+disso, a reversibilidade da toxicidade renal não pode ser completamente verificada.
+Portanto, recomenda-se uma abordagem multidisciplinar para ponderar adequadamente o
+equilíbrio benefício/risco do tratamento numa base caso a caso, decidir sobre qual a
+monitorização apropriada durante o tratamento (incluindo a decisão de suspender o
+tratamento) e considerar a necessidade de suplementação.
+Efeitos renais
+No estudo clínico GS-US-104-0352 foram notificadas reações adversas renais
+consistentes com tubulopatia renal proximal em doentes pediátricos infetados pelo VIH-1
+com 2 a < 12 anos de idade (ver secções 4.8 e 5.1).
+Monitorização renal
+A função renal (depuração da creatinina e fosfato sérico) deve ser avaliada antes do
+tratamento, e monitorizada durante o tratamento como nos adultos (ver acima).
+Controlo renal
+Se for confirmado que o fosfato sérico é < 3,0 mg/dl (0,96 mmol/l) em qualquer doente
+pediátrico a receber tenofovir disoproxil, a função renal deve ser reavaliada dentro de
+uma semana, incluindo os níveis sanguíneos de glucose e potássio e as concentrações de
+glucose na urina (ver secção 4.8, tubulopatia proximal). Se se suspeitar de anomalias
+renais, ou caso sejam detetadas, deve recorrer-se a uma consulta com um nefrologista
+para se considerar a interrupção do tratamento com tenofovir disoproxil. A interrupção do
+tratamento com tenofovir disoproxil também deve ser considerada em caso de declínio
+progressivo da função renal nos casos em que não foi identificada qualquer outra causa.
+Coadministração e risco de toxicidade renal
+Aplicam-se as mesmas recomendações que nos adultos (ver acima).
+Compromisso renal
+A utilização de tenofovir disoproxil não é recomendada em doentes pediátricos com
+compromisso renal (ver secção 4.2). O tenofovir disoproxil não deve ser iniciado em
+doentes pediátricos com compromisso renal e deve ser interrompido em doentes
+pediátricos que desenvolvam compromisso renal durante a terapêutica com tenofovir
+disoproxil.
+Efeitos ósseos
+
+APROVADO EM
+21-09-2023
+INFARMED
+Tenofovir disoproxil pode causar uma diminuição da DMO. Os efeitos das alterações na
+DMO associados ao tenofovir disoproxil sobre a saúde óssea a longo prazo e sobre o
+risco futuro de fraturas são incertos (ver secção 5.1).
+Caso se detete ou suspeite de anomalias ósseas em doentes pediátricos, deve recorrer-se a
+uma consulta com um endocrinologista e/ou nefrologista.
+Doença hepática
+Os dados de segurança e eficácia são muito limitados em doentes que tenham sido
+sujeitos a transplante hepático.
+Existem dados limitados de segurança e eficácia de tenofovir disoproxil em doentes
+infetados pelo VHB com doença hepática descompensada e que tenham uma pontuação
+de Child-Pugh-Turcotte (CPT) > 9. Estes doentes podem ter um risco mais elevado de
+apresentar reações adversas hepáticas ou renais graves. Assim, os parâmetros
+hepatobiliares e renais devem ser cuidadosamente monitorizados nesta população de
+doentes.
+Exacerbação da hepatite
+Exacerbações durante o tratamento: As exacerbações espontâneas na hepatite B crónica
+são relativamente frequentes e caracterizam-se por aumentos transitórios da ALT sérica.
+Após o início da terapêutica antiviral, os níveis séricos de ALT podem aumentar em
+alguns doentes (ver secção 4.8). Em doentes com doença hepática compensada, estes
+aumentos na ALT sérica não são geralmente acompanhados de aumento da bilirrubina
+sérica ou descompensação hepática. Os doentes com cirrose podem estar em maior risco
+de descompensação hepática após exacerbação da hepatite, pelo que devem ser
+cuidadosamente monitorizados durante o tratamento.
+Exacerbações após interrupção do tratamento: A exacerbação aguda da hepatite também
+tem sido notificada em doentes que interromperam a terapêutica para a hepatite B. As
+exacerbações após o tratamento estão normalmente associadas a um aumento do ADNVHB, e a maioria parece ser autolimitada. No entanto, têm sido notificadas exacerbações
+graves, incluindo casos fatais. A função hepática deverá ser monitorizada em intervalos
+regulares, com seguimento clínico e laboratorial durante pelo menos 6 meses após
+interrupção do tratamento da hepatite B. Caso seja apropriado, pode justificar-se o
+recomeço do tratamento da hepatite B. Em doentes com doença hepática avançada ou
+cirrose, a interrupção do tratamento não é recomendada, uma vez que a exacerbação da
+hepatite após a interrupção do tratamento pode dar origem a uma descompensação
+hepática.
+As exacerbações hepáticas são particularmente graves e, por vezes, fatais em doentes
+com doença hepática descompensada.
+Coinfeção com hepatite C ou D: Não existem dados sobre a eficácia de tenofovir em
+doentes coinfetados pelo vírus da hepatite C ou D.
+
+APROVADO EM
+21-09-2023
+INFARMED
+
+Coinfeção pelo VIH-1 e hepatite B: O tenofovir disoproxil deverá apenas ser utilizado
+como parte de um regime terapêutico combinado em doentes coinfetados pelo VIH/VHB,
+devido ao risco de desenvolvimento de resistências do VIH. Os doentes com disfunção
+hepática preexistente incluindo hepatite crónica ativa apresentam uma frequência
+aumentada de anomalias da função hepática durante a terapêutica antirretroviral
+combinada (TARC) e devem ser monitorizados de acordo com a prática clínica. Se existir
+evidência de agravamento da doença hepática nestes doentes, deve ser considerada a
+paragem ou interrupção do tratamento. No entanto, o aumento da ALT pode acompanhar
+a depuração do VHB, durante o tratamento com tenofovir, ver acima Exacerbação da
+hepatite.
+Uso com determinados agentes antivirais do vírus da hepatite C
+Foi demonstrado que a administração concomitante de tenofovir disoproxil com
+ledipasvir / sofosbuvir ou sofosbuvir/velpatasvir ou sofosbuvir/velpatasvir/voxilaprevir
+aumenta as concentrações plasmáticas de tenofovir, especialmente quando utilizado em
+conjunto com um regime de VIH contendo tenofovir disoproxil e um potenciador
+farmacocinético (ritonavir ou cobicistato).
+A segurança do tenofovir disoproxil no estabelecimento de ledipasvir / sofosbuvir,
+sofosbuvir/velpatasvir ou sofosbuvir/velpatasvir/voxilaprevir e um potenciador
+farmacocinético não foi estabelecida. Devem ser considerados os potenciais riscos e
+benefícios associados à co-administração de ledipasvir / sofosbuvir ,
+sofosbuvir/velpatasvir ou sofosbuvir/velpatasvir/voxilaprevir com tenofovir disoproxil
+administrado em conjunto com um inibidor de protease de HIV potenciado (por exemplo,
+atazanavir ou darunavir), particularmente em doentes com risco aumentado de disfunção
+renal. Os doentes que recebem ledipasvir / sofosbuvir, sofosbuvir/velpatasvir ou
+sofosbuvir/velpatasvir/voxilaprevir concomitantemente com tenofovir disoproxil e um
+inibidor da protease do VIH potenciado devem ser monitorizados relativamente às
+reacções adversas relacionadas com o tenofovir disoproxil.
+Peso e parâmetros metabólicos
+Pode ocorrer um aumento de peso e níveis de lípidos no sangue e glicose durante a
+terapêutica anti-retroviral. Tais mudanças podem estar ligadas, em parte, ao controle da
+doença e ao estilo de vida. Para os lípidos, há, em alguns casos, evidências de um efeito
+de tratamento, enquanto que para ganho de peso não há evidências fortes que relacionem
+isso a qualquer tratamento em particular. Para monitorização dos lípidos sanguíneos e
+glicose é feita referência às directrizes estabelecidas para o tratamento do HIV. Os
+distúrbios lipídicos devem ser administrados como clinicamente apropriados.
+Disfunção mitocondrial após exposição in utero
+Os análogos de nucleos (t) idos podem afetar a função mitocondrial em um grau variável,
+que é mais pronunciado com estavudina, didanosina e zidovudina.
+Existem notificações de disfunção mitocondrial em lactentes VIH negativos, expostos a
+análogos dos nucleosídeos in utero e/ou após o nascimento, estes tiveram um tratamento
+predominantemente com regimes contendo zidovudina. Os principais eventos adversos
+
+APROVADO EM
+21-09-2023
+INFARMED
+notificados são afeções hematológicas (anemia, neutropénia) e alterações metabólicas
+(hiperlactatémia, hiperlipasémia). Estes eventos são geralmente transitórios. Foram
+notificadas, raramente, afeções neurológicas de início tardio (hipertonia, convulsões,
+comportamento anormal). Desconhece-se, até ao momento, se estas afeções neurológicas
+são transitórias ou permanentes. Estes factos devem ser considerados para qualquer
+criança exposta in utero a análogos de nucleos(t)idos, que apresentem sinais clínicos
+graves deetiologia desconhecida, particularmente sinais neurológicos. Estes resultados
+não alteram as recomendações nacionais atuais sobre a utilização de terapêutica
+antirretroviral em mulheres grávidas, para prevenir a transmissão vertical do VIH.
+Síndrome de reativação imunológica
+Em doentes infetados pelo VIH com deficiência imunológica grave à data da instituição
+da TARC, pode ocorrer uma reação inflamatória a infeções oportunistas assintomáticas
+ou residuais e causar várias situações clínicas graves ou o agravamento dos sintomas.
+Tipicamente, estas reações foram observadas durante as primeiras semanas ou meses
+após o início da TARC. São exemplos relevantes a retinite por citomegalovírus, as
+infeções micobacterianas generalizadas e/ou focais e a pneumonia por Pneumocystis
+jirovecii. Qualquer sintoma de inflamação deve ser avaliado e, quando necessário,
+instituído o tratamento.
+Doenças autoimunes (tal como a Doença de Graves e a hepatite autoimune), também têm
+sido descritas como tendo ocorrido no contexto de reativação imunitária; no entanto, o
+tempo descrito para o seu início é mais variável e estes eventos podem ocorrer muitos
+meses após o início do tratamento.
+Osteonecrose
+Foram notificados casos de osteonecrose, particularmente em doentes com doença por
+VIH avançada e/ou exposição prolongada a TARC, apesar da sua etiologia ser
+considerada multifatorial (incluindo a utilização de corticosteroides, o consumo de álcool,
+a imunossupressão grave, um índice de massa corporal aumentado). Os doentes devem
+ser instruídos a procurar aconselhamento médico caso sintam mal-estar e dor articular,
+rigidez articular ou dificuldade de movimentos.
+Idosos
+Tenofovir disoproxil não foi estudado em doentes com idade superior a 65 anos. Os
+doentes idosos são mais suscetíveis de apresentar uma função renal diminuída; assim, o
+tratamento de doentes idosos com tenofovir disoproxil deve ser efetuado com precaução.
+Excipientes
+Lctose
+Tenofovir Teva contém lactose mono-hidratada. Doentes com raros problemas
+hereditários de intolerância à galactose, deficiência total em lactase ou má absorção de
+glucose-galactose não devem tomar este medicamento.
+
+APROVADO EM
+21-09-2023
+INFARMED
+Sódio
+Este medicamento contém menos de 1mmol de sódio (23mg) por comprimido, ou seja, é
+praticamente “isento de sódio”.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Os estudos de interação só foram realizados em adultos.
+Com base nos resultados das experiências in vitro e na via de eliminação conhecida do
+tenofovir, o potencial para interações mediadas pelo CYP 450, que envolvem tenofovir
+com outros medicamentos, é baixo.
+Administração concomitante não recomendada
+Tenofovir Teva não deve ser administrado concomitantemente com outros medicamentos
+contendo tenofovir disoproxil ou tenofovir alafenamida.
+Tenofovir Teva não deve ser administrado concomitantemente com adefovir dipivoxil.
+Didanosina: A coadministração de tenofovir disoproxil e didanosina não é recomendada
+(ver secção 4.4 e Tabela 1).
+Medicamentos eliminados por via renal
+Uma vez que o tenofovir é excretado principalmente pelos rins, a coadministração de
+tenofovir disoproxil com medicamentos que reduzem a função renal ou competem pela
+secreção tubular ativa via proteínas de transporte hOAT 1, hOAT 3 ou MRP 4 (ex.
+cidofovir) poderá aumentar as concentrações séricas do tenofovir e/ou dos medicamentos
+administrados concomitantemente.
+A utilização de tenofovir disoproxil deve ser evitada concomitantemente ou pouco tempo
+após a utilização de um medicamento nefrotóxico. Alguns exemplos destes
+medicamentos incluem, mas não se limitam a aminoglicósidos, anfotericina B,
+foscarneto, ganciclovir, pentamidina, vancomicina, cidofovir ou interleucina-2 (ver
+secção 4.4).
+Tendo em conta que o tacrolímus pode afetar a função renal, recomenda-se uma
+monitorização cuidadosa quando este é administrado com tenofovir disoproxil.
+Outras interações
+As interações entre o tenofovir disoproxil e outros medicamentos estão indicadas na
+Tabela 1 abaixo (um aumento é indicado como “↑”, uma diminuição como “↓”, sem
+alteração como “↔”, duas vezes por dia como “b.i.d.” e uma vez por dia como “q.d.”).
+Tabela 1: Interações entre o tenofovir disoproxil e outros medicamentos
+
+APROVADO EM
+21-09-2023
+INFARMED
+Medicamento por áreas
+Terapêuticas (dose em
+mg)
+ANTI-INFECIOSOS
+Antirretrovirais
+Inibidores da protease
+Atazanavir/Ritonavir
+(300 q.d./100 q.d./.)
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem das
+AUC, Cmax, Cmin
+
+Recomendação relativa à
+coadministração com 245 mg
+de tenofovir disoproxil
+
+Atazanavir:
+AUC: ↓ 25%
+Cmax: ↓ 28%
+Cmin: ↓ 26%
+Tenofovir:
+AUC: ↑ 37%
+Cmax: ↑ 34%
+Cmin: ↑ 29%
+
+Lopinavir/Ritonavir
+(400 b.i.d./100 b.i.d./)
+
+Lopinavir/ritonavir:
+Sem efeitos significativos nos
+parâmetros
+farmacocinéticos.
+Tenofovir:
+AUC: ↑ 32%
+Cmax: ↔
+Cmin: ↑ 51%
+
+Darunavir/Ritonavir
+(300/100 b.i.d./)
+
+Darunavir:
+Sem efeitos significativos nos
+parâmetros
+farmacocinéticos de
+darunavir/ritonavir.
+Tenofovir:
+AUC: ↑ 22%
+Cmin: ↑ 37%
+
+Não são recomendados
+ajustes de dose. O aumento
+da exposição do tenofovir
+pode potenciar os eventos
+adversos associados ao
+tenofovir, incluindo doenças
+renais. A função renal deverá
+ser cuidadosamente
+monitorizada
+(ver secção 4.4).
+Não são recomendados
+ajustes de dose. O aumento
+da exposição do tenofovir
+pode potenciar os eventos
+adversos associados ao
+tenofovir, incluindo doenças
+renais. A função renal deverá
+ser cuidadosamente
+monitorizada
+(ver secção 4.4).
+Não são recomendados
+ajustes de dose. O aumento
+da exposição do tenofovir
+pode potenciar os eventos
+adversos associados ao
+tenofovir, incluindo doenças
+renais. A função renal deverá
+ser cuidadosamente
+monitorizada
+(ver secção 4.4).
+
+NRTIs
+
+APROVADO EM
+21-09-2023
+INFARMED
+Didanosina
+
+A coadministração de tenofovir
+disoproxil e didanosina resulta num
+aumento de 40-60% da exposição
+sistémica à didanosina.
+
+Adefovir dipivoxil
+
+AUC: ↔
+Cmax: ↔
+
+Entecavir
+
+AUC: ↔
+Cmax: ↔
+
+Agentes antivirais para o Vírus da Hepatite C
+
+Não se recomenda a
+coadministração de tenofovir
+disoproxil e didanosina (ver
+secção 4.4).
+O aumento da exposição
+sistémica à didanosina pode
+aumentar as reações adversas
+relacionadas à didanosina.
+Raramente, foram relatadas
+pancreatite e acidose láctica,
+às vezes fatais. A
+administração concomitante
+de tenofovir disoproxil e
+didanosina na dose de 400 mg
+por dia foi associada a uma
+diminuição significativa na
+contagem de células CD4,
+possivelmente devido a uma
+interação intracelular que
+aumenta a didanosina
+fosforilada (isto é, ativa). A
+coadministração de uma dose
+reduzida de 250 mg de
+didanosina com tenofovir
+disoproxil tem sido associada
+a notificações de elevada
+frequência de falência
+virológica com as várias
+associações testadas para o
+tratamento da infeção pelo
+VIH-1.
+Tenofovir disoproxil não
+deve ser administrado
+concomitantemente com
+adefovir dipivoxil (ver secção
+4.4).
+Sem interações
+farmacocinéticas
+clinicamente significativas
+quando o tenofovir disoproxil
+foi coadministrado com
+entecavir.
+
+APROVADO EM
+21-09-2023
+INFARMED
+Ledipasvir/Sofosbuvir
+(90 mg/400 mg q.d.) +
+Atazanavir/Ritonavir
+(300 mg q.d./100 mg
+q.d.) +
+Emtricitabina/Tenofovir
+disoproxil
+(200 mg/245 mg q.d.)1
+
+Ledipasvir:
+AUC: ↑ 96%
+Cmax: ↑ 68%
+Cmin: ↑ 118%
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 42%
+Atazanavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 63%
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 45%
+
+O aumento das concentrações
+plasmáticas de tenofovir
+resultante da coadministração de tenofovir
+disoproxil, ledipasvir /
+sofosbuvir e atazanavir /
+ritonavir pode aumentar as
+reacções adversas
+relacionadas com o tenofovir
+disoproxil, incluindo doenças
+renais. A segurança do
+tenofovir disoproxil quando
+utilizado com ledipasvir /
+sofosbuvir e um potenciador
+farmacocinético (por
+exemplo, ritonavir ou
+cobicistato) não foi
+estabelecida.
+A combinação deve ser
+utilizada com precaução com
+monitorização renal
+frequente, se não houver
+outras alternativas
+disponíveis (ver secção 4.4).
+
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↔
+Cmax: ↑ 47%
+Cmin: ↑ 47%
+Ledipasvir/Sofosbuvir
+(90 mg/400 mg q.d.) +
+Darunavir/Ritonavir
+(800 mg q.d./100 mg
+q.d.) +
+Emtricitabina/Tenofovir
+disoproxil
+(200 mg/ 245 mg q.d.)1
+
+Ledipasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Sofosbuvir:
+AUC: ↓ 27%
+Cmax: ↓ 37%
+GS-3310072:
+AUC: ↔
+
+O aumento das concentrações
+plasmáticas de tenofovir
+resultante da coadministração de tenofovir
+disoproxil, ledipasvir /
+sofosbuvir e darunavir /
+ritonavir pode aumentar as
+reacções adversas
+relacionadas com o tenofovir
+disoproxil, incluindo doenças
+renais. A segurança do
+
+APROVADO EM
+21-09-2023
+INFARMED
+Cmax: ↔
+Cmin: ↔
+Darunavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 48%
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Ledipasvir/Sofosbuvir
+(90 mg/400 mg q.d.) +
+Efavirenz/Emtricitabina/
+Tenofovir disoproxil
+(600 mg/200 mg/245 mg
+q.d.)
+
+Tenofovir:
+AUC: ↑ 50%
+Cmax: ↑ 64%
+Cmin: ↑ 59%
+Ledipasvir:
+AUC: ↓ 34%
+Cmax: ↓ 34%
+Cmin: ↓ 34%
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Efavirenz:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+tenofovir disoproxil quando
+utilizado com ledipasvir /
+sofosbuvir e um potenciador
+farmacocinético (por
+exemplo, ritonavir ou
+cobicistato) não foi
+estabelecida.
+A combinação deve ser
+utilizada com precaução com
+monitorização renal
+frequente, se não houver
+outras alternativas
+disponíveis (ver secção 4.4).
+
+Não é recomendado ajuste de
+dose. O aumento da
+exposição ao tenofovir pode
+potenciar reacções adversas
+associadas ao tenofovir
+disoproxil, incluindo doenças
+renais. A função renal deve
+ser cuidadosamente
+monitorizada (ver secção
+4.4).
+
+APROVADO EM
+21-09-2023
+INFARMED
+
+Tenofovir:
+AUC: ↑ 98%
+Cmax: ↑ 79%
+Cmin: ↑ 163%
+Ledipasvir/Sofosbuvir
+(90 mg/400 mg q.d.) +
+Emtricitabina/Rilpivirine
+/Tenofovir disoproxil
+(200 mg/25 mg/245 mg
+q.d.)
+
+Ledipasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Não é recomendado ajuste de
+dose. O aumento da
+exposição ao tenofovir pode
+potenciar reacções adversas
+associadas ao tenofovir
+disoproxil, incluindo doenças
+renais. A função renal deve
+ser cuidadosamente
+monitorizada (ver secção
+4.4).
+
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Rilpivirina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 40%
+Cmax: ↔
+Cmin: ↑ 91%
+Ledipasvir/Sofosbuvir
+Sofosbuvir:
+(90 mg/400 mg q.d.) +
+AUC: ↔
+Dolutegravir (50 mg q.d.) Cmax: ↔
++
+Emtricitabina/Tenofovir
+GS-3310072
+disoproxil (200 mg/245
+AUC: ↔
+mg q.d.)
+Cmax: ↔
+Cmin: ↔
+Ledipasvir:
+AUC: ↔
+
+Não são recomendados
+ajustes de dose. O aumento
+da exposição ao tenofovir
+pode potenciar as reações
+adversas associadas ao
+tenofovir disoproxil,
+incluindo doenças renais. A
+função renal deve ser
+cuidadosamente monitorizada
+(ver secção 4.4).
+
+APROVADO EM
+21-09-2023
+INFARMED
+Cmax: ↔
+Cmin: ↔
+Dolutegravir
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Atazanavir/Ritonavir
+(300 mg q.d./100 mg
+q.d.) +
+Emtricitabina/Tenofovir
+disoproxil (200 mg/245
+mg q.d.)
+
+Tenofovir:
+AUC: ↑ 65%
+Cmax: ↑ 61%
+Cmin: ↑ 115%
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 42%
+Velpatasvir:
+AUC: ↑ 142%
+Cmax: ↑ 55%
+Cmin: ↑ 301%
+Atazanavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 39%
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 29%
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da
+coadministração de tenofovir
+disoproxil,
+sofosbuvir/velpatasvir e
+atazanavir/ritonavir pode
+aumentar as reações adversas
+associadas ao tenofovir
+disoproxil, incluindo doenças
+renais. A segurança do
+tenofovir
+disoproxil no contexto
+terapêutico de
+sofosbuvir/velpatasvir e de
+um
+intensificador
+farmacocinético (ex. ritonavir
+ou cobicistate) não foi
+estabelecida.
+A associação deve ser
+utilizada
+com precaução com
+monitorização renal frequente
+(ver secção 4.4).
+
+APROVADO EM
+21-09-2023
+INFARMED
+
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Darunavir/Ritonavir
+(800 mg q.d./100 mg
+q.d.) +
+Emtricitabina/Tenofovir
+disoproxil (200 mg/245
+mg q.d.)
+
+Tenofovir:
+AUC: ↔
+Cmax: ↑ 55%
+Cmin: ↑ 39%
+Sofosbuvir:
+AUC: ↓28%
+Cmax: ↓ 38%
+GS-3310072
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↔
+Cmax: ↓ 24%
+Cmin: ↔
+Darunavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 39%
+Cmax: ↑ 55%
+Cmin: ↑ 52%
+
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da
+coadministração de tenofovir
+disoproxil,
+sofosbuvir/velpatasvir e
+lopinavir/ritonavir pode
+aumentar as reações adversas
+associadas ao tenofovir
+disoproxil, incluindo doenças
+renais.
+A segurança do tenofovir
+disoproxil no contexto
+terapêutico de
+sofosbuvir/velpatasvir e de
+um
+intensificador
+farmacocinético (ex. ritonavir
+ou cobicistate) não foi
+estabelecida.
+A associação deve ser
+utilizada com precaução com
+monitorização renal frequente
+(ver secção 4.4).
+
+APROVADO EM
+21-09-2023
+INFARMED
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Lopinavir/Ritonavir
+(800 mg/200 mg q.d.) +
+Emtricitabina/Tenofovir
+disoproxil
+(200 mg/245 mg q.d.)
+
+Sofosbuvir:
+AUC: ↓ 29%
+Cmax: ↓ 41%
+GS-3310072
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↔
+Cmax: ↓ 30%
+Cmin: ↑ 63%
+Lopinavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Raltegravir (400 mg
+b.i.d) +
+Emtricitabina/Tenofovir
+disoproxil (200 mg/245
+mg q.d.)
+
+Tenofovir:
+AUC: ↔
+Cmax: ↑ 42%
+Cmin: ↔
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↔
+Cmax: ↔
+
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da
+coadministração de tenofovir
+disoproxil,
+sofosbuvir/velpatasvir e
+lopinavir/ritonavir pode
+aumentar as reações adversas
+associadas ao tenofovir
+disoproxil, incluindo doenças
+renais. A segurança do
+tenofovir
+disoproxil no contexto
+terapêutico de
+sofosbuvir/velpatasvir e de
+um
+intensificador
+farmacocinético (ex. ritonavir
+ou cobicistate) não foi
+estabelecida.
+A associação deve ser
+utilizada
+com precaução com
+monitorização renal frequente
+(ver secção 4.4).
+
+Não são recomendados
+ajustes de dose. O aumento
+da exposição ao tenofovir
+pode potenciar as reações
+adversas associadas ao
+tenofovir disoproxil,
+incluindo doenças renais.
+A função renal deve ser
+cuidadosamente monitorizada
+(ver secção 4.4).
+
+APROVADO EM
+21-09-2023
+INFARMED
+Cmin: ↔
+Raltegravir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↓ 21%
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Efavirenz/Emtricitabina/
+Tenofovir disoproxil
+(600 mg/200 mg/245 mg
+q.d.)
+
+Tenofovir:
+AUC: ↑ 40%
+Cmax: ↑ 46%
+Cmin: ↑ 70%
+Sofosbuvir:
+AUC: ↔
+Cmax: ↑ 38%
+GS-3310072
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↓ 53%
+Cmax: ↓ 47%
+Cmin: ↓ 57%
+Efavirenz:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 81%
+Cmax: ↑ 77%
+Cmin: ↑ 121%
+
+Espera-se que a
+administração
+concomitante de
+sofosbuvir/velpatasvir e
+efavirenz diminua as
+concentrações plasmáticas de
+velpatasvir. Não se
+recomenda a coadministração
+de sofosbuvir/velpatasvir com
+regimes contendo efavirenz.
+
+APROVADO EM
+21-09-2023
+INFARMED
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Emtricitabina/Rilpivirina
+/
+Tenofovir disoproxil
+(200 mg/25 mg/245 mg
+q.d.)
+
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Não são recomendados
+ajustes de dose. O aumento
+da exposição ao tenofovir
+pode potenciar as reações
+adversas associadas ao
+tenofovir disoproxil,
+incluindo doenças renais.
+A função renal deve ser
+cuidadosamente monitorizada
+(ver secção 4.4).
+
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Rilpivirina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Sofosbuvir/Velpatasvir/
+Voxilaprevir (400
+mg/100 mg/ 100 mg+100
+mg q.d.)3 + Darunavir
+(800 mg q.d.) + Ritonavir
+(100 mg
+q.d.) +
+Emtricitabina/Tenofovir
+disoproxil (200 mg/245
+mg q.d.)
+
+Tenofovir:
+AUC: ↑ 40%
+Cmax: ↑ 44%
+Cmin: ↑ 84%
+Sofosbuvir:
+AUC: ↔
+Cmax: ↓ 30%
+Cmin: N/A
+GS-3310072
+AUC: ↔
+Cmax:↔
+Cmin: N/A
+Velpatasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Voxilaprevir:
+AUC: ↑ 143%
+
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da
+coadministração de tenofovir
+disoproxil,
+sofosbuvir/velpatasvir/voxila
+previr e darunavir/ritonavir
+pode
+aumentar as reações adversas
+associadas ao tenofovir
+disoproxil, incluindo doenças
+renais. A segurança do
+tenofovir
+disoproxil no contexto
+terapêutico de
+sofosbuvir/velpatasvir/voxila
+previr e de um intensificador
+
+APROVADO EM
+21-09-2023
+INFARMED
+Cmax:↑ 72%
+Cmin: ↑ 300%
+Darunavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↓ 34%
+Ritonavir:
+AUC: ↑ 45%
+Cmax: ↑ 60%
+Cmin: ↔
+
+farmacocinético (ex. ritonavir
+ou
+cobicistate) não foi
+estabelecida.
+A associação deve ser
+utilizada
+com precaução com
+monitorização renal frequente
+(ver secção 4.4).
+
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Sofosbuvir
+(400 mg q.d.) +
+Efavirenz/Emtricitabina/
+Tenofovir disoproxil
+(600 mg/200 mg/245 mg
+q.d.)
+
+Tenofovir:
+AUC: ↑ 39%
+Cmax: ↑ 48%
+Cmin: ↑ 47%
+Sofosbuvir:
+AUC: ↔
+Cmax: ↓ 19%
+GS-3310072:
+AUC: ↔
+Cmax: ↓ 23%
+Efavirenz:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabine:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↔
+Cmax: ↑ 25%
+Cmin: ↔
+
+Não é recomendado ajuste de
+dose
+
+APROVADO EM
+21-09-2023
+INFARMED
+1. Dados gerados pela dosagem simultânea de ledipasvir / sofosbuvir. A administração
+escalonada (com 12 horas de intervalo) proporcionou resultados semelhantes.
+2. O metabolito circulante predominante do sofosbuvir.
+3 Estudo realizado com 100 mg de voxilaprevir adicionais para se atingir as exposições
+ao voxilaprevir esperadas em doentes infetados pelo VHC.
+Estudos realizados com outros medicamentos
+Não se observaram quaisquer interações farmacocinéticas clinicamente significativas
+quando o tenofovir disoproxil foi coadministrado com emtricitabina, lamivudina,
+indinavir, efavirenz, nelfinavir, saquinavir (potenciado com ritonavir), metadona,
+ribavirina, rifampicina, tacrolimus ou o contracetivo hormonal
+norgestimato/etinilestradiol.
+Tenofovir disoproxil tem de ser tomado juntamente com alimentos, já que a ingestão de
+alimentos aumenta a biodisponibilidade de tenofovir (ver secção 5.2).
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+Uma quantidade elevada de dados em mulheres grávidas (mais de 1.000 gravidezes
+expostas) indicam ausência de malformações ou toxicidade fetal/neonatal, associadas ao
+tenofovir disoproxil. Os estudos em animais não indicam toxicidade reprodutiva (ver
+secção 5.3). A utilização de tenofovir disoproxil pode ser considerada durante a gravidez,
+se necessário.
+Na literatura, a exposição ao tenofovir disoproxil no terceiro trimestre de gravidez
+demonstrou reduzir o risco de transmissão do VHB da mãe para filho se o tenofovir
+disoproxil for administrado às mães, em adição à imunoglobulina da hepatite B e a vacina
+da hepatite B nas crianças.
+Em três ensaios clínicos controlados, um total de 327 mulheres grávidas com infecção
+crónica por VHB foram administradas com tenofovir disoproxil (245 mg) uma vez ao dia,
+das 28 às 32 semanas de gestação, durante 1 a 2 meses após o parto; as mulheres e as suas
+crianças foram seguidas até aos 12 meses após o parto. Nenhum sinal de segurança
+emergiu desses dados.
+Amamentação
+De modo geral, se o recém-nascido receber tratamento apropriado para prevenção da
+hepatite B aquando do nascimento, uma mãe com hepatite B pode amamentar a sua
+criança.
+Tenofovir é excretado no leite materno humanoem níveis muito baixos e a exposição dos
+lactentes através do leite materno é considerada insignificante. Embora os dados a longoprazo sejam limitados, não foram notificadas reações adversas em lactentes, sendo que as
+mães infetadas pelo VHB a receber tratamento com tenofovir disoproxil podem
+amamentar.
+
+APROVADO EM
+21-09-2023
+INFARMED
+De forma a evitar a transmissão do VIH ao lactente, recomenda-se que as mulheres que
+vivem com VIH não amamentem os seus filhos.
+Fertilidade
+Existem dados clínicos limitados sobre o efeito de tenofovir disoproxil na fertilidade. Os
+estudos em animais não indicam quaisquer efeitos nefastos do tenofovir disoproxil sobre
+a fertilidade.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No
+entanto, os doentes devem ser informados que foram descritas vertigens durante o
+tratamento com tenofovir disoproxil.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+VIH-1 e hepatite B: Foram notificados eventos raros de compromisso renal, insuficiência
+renal e acontecimentos pouco frequentes de tubulopatia renal proximal (incluindo
+síndroma de Fanconi), por vezes conduzindo a anomalias ósseas (contribuindo
+infrequentemente para fraturas), em doentes a tomar tenofovir disoproxil. A
+monitorização da função renal é recomendada em doentes a tomar Tenofovir Teva (ver
+secção 4.4).
+VIH-1: É expetável que aproximadamente um terço dos doentes apresente reações
+adversas após o tratamento com tenofovir disoproxil em associação com outros agentes
+antirretrovirais. Estas reações são, em geral, eventos gastrintestinais ligeiros a moderados.
+Aproximadamente 1% dos doentes adultos tratados com tenofovir disoproxil
+interromperam o tratamento devido a eventos gastrintestinais.
+Hepatite B: É expetável que aproximadamente um quarto dos doentes apresente reações
+adversas na sequência do tratamento com tenofovir disoproxil, sendo estes, na maioria
+dos casos, ligeiros. Em ensaios clínicos com doentes infetados pelo VHB, a reação
+adversa mais frequente ao tenofovir disoproxil foi a ocorrência de náuseas (5,4%).
+A exacerbação aguda da hepatite tem sido notificada em doentes em tratamento assim
+como em doentes que tenham interrompido a terapêutica para a hepatite B (ver secção
+4.4).
+Resumo das reações adversas em formato de tabela
+A avaliação das reações adversas ao tenofovir disoproxil baseia-se nos dados de
+segurança de estudos clínicos e na experiência pós-comercialização. Todas as reações
+adversas estão descritas na Tabela 2.
+
+APROVADO EM
+21-09-2023
+INFARMED
+Estudos clínicos no VIH-1: A avaliação das reações adversas de dados dos estudos
+clínicos no VIH-1 baseia-se na experiência em dois estudos nos quais 653 doentes
+previamente tratados receberam tratamento com tenofovir disoproxil (n = 443) ou
+placebo (n = 210) em associação com outros medicamentos antirretrovirais durante 24
+semanas e num estudo controlado, comparativo e em dupla ocultação envolvendo 600
+doentes sem medicação prévia com antirretrovirais que receberam tratamento com
+tenofovir disoproxil na dose de 245 mg (n = 299) ou estavudina (n = 301) em associação
+com lamivudina e efavirenz durante 144 semanas.
+Estudos clínicos na hepatite B: A avaliação das reações adversas dos estudos clínicos no
+VHB baseia-se primariamente na experiência em dois estudos comparativos controlados
+em dupla ocultação, nos quais 641 doentes adultos com hepatite B crónica e doença
+hepática compensada foram tratados com 245 mg de tenofovir disoproxil por dia (n =
+426) ou 10 mg de adefovir dipivoxil por dia (n = 215), durante 48 semanas. As reações
+adversas observadas com o tratamento contínuo durante 384 semanas foram consistentes
+com o perfil de segurança de tenofovir disoproxil. Depois de um declínio inicial de
+aproximadamente -4,9 ml/min (utilizando a equação de Cockcroft-Gault) ou de -3,9
+ml/min/1,73 m2 (utilizando a equação da Modificação da Dieta na Doença Renal
+[MDDR]) após as primeiras 4 semanas de tratamento, a taxa de declínio anual pós-basal
+da função renal notificada em doentes tratados com tenofovir disoproxil foi de -1,41
+ml/min por ano (utilizando a equação de Cockcroft-Gault) e de -0,74 ml/min/1,73 m2 por
+ano (utilizando a equação MDDR).
+Doentes com doença hepática descompensada: O perfil de segurança do tenofovir
+disoproxil em doentes com doença hepática descompensada foi avaliado num estudo em
+dupla ocultação, controlado com comparador ativo (GS-US-174-0108) no qual doentes
+foram tratados com tenofovir disoproxil (n= 45) ou emtricitabina em associação com
+tenofovir disoproxil (n = 45) ou entecavir (n = 22) durante 48 semanas.
+No braço de tratamento com tenofovir disoproxil, 7% dos doentes interromperam o
+tratamento devido a um evento adverso; 9% dos doentes apresentaram um aumento
+confirmado da creatinina sérica de ≥ 0,5 mg/dl ou fosfato sérico confirmado < 2 mg/dl até
+à semana 48; não se verificaram diferenças estatisticamente significativas entre a análise
+combinada dos braços que continham tenofovir e do braço do entecavir. Após 168
+semanas, 16% (7/45) do grupo de tenofovir disoproxil, 4% (2/45) do grupo de
+emtricitabina mais tenofovir disoproxil e 14% (3/22) do grupo de entecavir, apresentaram
+falência por intolerância. Treze por cento (6/45) do grupo de tenofovir disoproxil, 13%
+(6/45) do grupo de emtricitabina mais tenofovir disoproxil e 9% (2/22) do grupo de
+entecavir, apresentaram um aumento confirmado na creatinina sérica ≥ 0,5 mg/dl ou
+fosfato sérico confirmado < 2 mg/dl.
+Na semana 168, nesta população de doentes com doença hepática descompensada, a taxa
+de mortalidade foi de 13% (6/45) no grupo de tenofovir disoproxil, de 11% (5/45) no
+grupo de emtricitabina mais tenofovir disoproxil e de 14% (3/22) no grupo de entecavir.
+A taxa de carcinoma hepatocelular foi de 18% (8/45) no grupo de tenofovir disoproxil, de
+
+APROVADO EM
+21-09-2023
+INFARMED
+7% (3/45) no grupo de emtricitabina mais tenofovir disoproxil e de 9% (2/22) no grupo
+de entecavir.
+Indivíduos com uma pontuação de CPT basal elevada apresentavam um risco mais
+elevado de desenvolver eventos adversos graves (ver secção 4.4).
+Doentes com hepatite B crónica resistente à lamivudina: Não foram identificadas novas
+reações adversas ao tenofovir disoproxil num estudo aleatorizado, em dupla ocultação
+(GS-US-174-0121) no qual 280 doentes resistentes à lamivudina receberam tratamento
+com tenofovir disoproxil (n = 141) ou com emtricitabina/tenofovir disoproxil (n = 139)
+durante 240 semanas.
+As reações adversas que se suspeita estarem relacionadas (ou pelo menos possivelmente
+relacionadas) com o tratamento estão listadas abaixo por classes de sistemas de órgãos e
+frequência. Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade
+dentro de cada classe de frequência. As frequências são definidas como muito frequentes
+(≥ 1/10), frequentes (≥ 1/100, < 1/10), pouco frequentes (≥ 1/1.000, < 1/100) ou raros (≥
+1/10.000, < 1/1.000).
+Tabela 2: Resumo em formato de tabela das reações adversas associadas ao tenofovir
+disoproxil com base no estudo clínico e na experiência pós-comercialização
+Frequência
+Tenofovir disoproxil
+Alterações do metabolismo e da nutrição:
+Muito
+hipofosfatémia 1
+frequentes:
+Pouco
+hipocaliémia 1
+frequentes:
+Raros:
+acidose láctica
+Alterações do sistema nervoso:
+Muito
+tonturas
+frequentes:
+Frequentes:
+cefaleias
+Alterações gastrintestinais:
+Muito
+diarreia, vómitos, náuseas
+frequentes:
+Frequentes:
+dor abdominal, distensão abdominal, flatulência
+Pouco
+pancreatite
+frequentes:
+Alterações hepatobiliares:
+Frequentes:
+elevação das transaminases
+Raros:
+esteatose hepática, hepatite
+Alterações da pele e dos tecidos subcutâneos:
+Muito
+erupção cutânea
+
+APROVADO EM
+21-09-2023
+INFARMED
+frequentes:
+Raros:
+angioedema
+Alterações musculosqueléticas e dos tecidos conjuntivos:
+Pouco
+rabdomiólise1, fraqueza muscular1
+frequentes:
+Raros:
+osteomalácia (manifestada como dores ósseas e contribuindo
+infrequentemente
+para fraturas)1, 2, miopatia1
+Alterações renais e urinárias:
+Pouco
+aumento da creatinina - tubulopatia renal proximal (incluindo síndrome de
+frequentes:
+Fanconi)
+Raros:
+insuficiência renal aguda, insuficiência renal, necrose tubular aguda, nefrite
+(incluindo nefrite intersticial
+aguda)2, diabetes insípida nefrogénica
+Perturbações gerais e alterações no local de administração:
+Muito
+astenia
+frequentes:
+Frequentes:
+fadiga
+1 Esta reação adversa pode ocorrer como consequência de tubulopatia renal proximal.
+Não se considera associada de forma causal ao tenofovir disoproxil na ausência desta
+condição
+2 Esta reação adversa foi identificada através da vigilância pós-comercialização mas não
+foi observada nos ensaios clínicos controlados aleatorizados nem no programa de acesso
+alargado para o tenofovir disoproxil. As categorias de frequência foram estimadas a partir
+de um cálculo estatístico baseado no número total de doentes expostos ao tenofovir
+disoproxil nos ensaios clínicos controlados aleatorizados e no programa de acesso
+alargado (n = 7.319).
+Descrição de reações adversas selecionadas
+VIH-1 e hepatite B:
+Compromisso renal
+Como Tenofovir Teva pode causar lesão renal, é recomendada a monitorização da função
+renal (ver secções 4.4 e 4.8 Resumo do perfil de segurança). Geralmente, a tubulopatia
+renal proximal resolveu-se ou melhorou após a interrupção de tenofovir disoproxil.
+Contudo, em alguns doentes, as diminuições da depuração da creatinina não se
+resolveram completamente apesar da interrupção do tenofovir disoproxil. Os doentes em
+risco de compromisso renal (como por exemplo, os doentes com fatores iniciais de risco
+renal, doença por VIH avançada ou doentes a receberem medicamentos nefrotóxicos
+concomitantes) estão em maior risco de ter uma recuperação incompleta da função renal
+apesar da interrupção do tenofovir disoproxil (ver secção 4.4).
+Acidose láctica
+Foram reportados casos de de acidose láctica com tenofovir disoproxil isolado ou em
+combinação com outros antirretrovirais. Doentes com factores de predisposição, tais
+como doentes com doença hepática descompensada ou doentes a receber medicação
+
+APROVADO EM
+21-09-2023
+INFARMED
+concomitante conhecida por induzir acidose láctica têm um risco aumentado de sofrer de
+acidose láctica grave durante o tratamento com tenofovir disoproxil, incluindo resultados
+fatais.
+VIH-1:
+Parâmetros metabólicos
+O peso e os níveis de lípidos no sangue e de glicose podem aumentar durante a
+terapêutica anti-retroviral (ver secção 4.4).
+Síndrome de reativação imunológica
+Em doentes infetados pelo VIH com deficiência imunológica grave à data de início da
+TARC, pode ocorrer uma reação inflamatória a infeções oportunistas assintomáticas ou
+residuais. Doenças autoimunes (tal como a Doença de Graves e a hepatite autoimune),
+também têm sido descritas; no entanto, o tempo de início descrito é mais variável e estes
+acontecimentos podem ocorrer muitos meses após o início do tratamento (ver secção 4.4).
+Osteonecrose
+Foram notificados casos de osteonecrose, particularmente em doentes com fatores de
+risco identificados, doença por VIH avançada ou exposição prolongada a TARC. A sua
+frequência é desconhecida (ver secção 4.4).
+Hepatite B:
+Exacerbações de hepatite durante o tratamento
+Em estudos com doentes não tratados previamente com nucleosídeos, ocorreram
+elevações de ALT durante o tratamento > 10 vezes o limite superior normal (ULN-Upper
+Limit of Normal) e > 2 vezes os níveis basais, em 2,6% dos doentes tratados com
+tenofovir disoproxil. As elevações de ALT durante o tratamento, apresentaram um tempo
+mediano para início de 8 semanas, resolveram-se com o tratamento continuado e, na
+maioria dos casos, estiveram associadas a uma redução de ≥ 2 log10 cópias/ml da carga
+viral precedente ou coincidente com a elevação da ALT. É recomendada a monitorização
+periódica da função hepática, durante o tratamento (ver secção 4.4).
+Exacerbações de hepatite após interrupção do tratamento
+Nos doentes infetados pelo VHB, as evidências clínica e laboratorial de exacerbações de
+hepatite ocorreram após a interrupção da terapêutica para o VHB (ver secção 4.4).
+População pediátrica
+VIH-1
+A avaliação das reações adversas baseia-se em dois estudos aleatorizados (estudos GSUS-104-0321 e GS-US-104-0352) em 184 doentes pediátricos, (com 2 a < 18 anos de
+idade), infetados pelo VIH-1, que foram submetidos a tratamento com tenofovir
+disoproxil (n = 93) ou placebo/comparador ativo (n = 91) em associação com outros
+agentes antirretrovirais durante 48 semanas (ver secção 5.1). As reações adversas
+observadas em doentes pediátricos que foram submetidos a tratamento com tenofovir
+
+APROVADO EM
+21-09-2023
+INFARMED
+disoproxil foram consistentes com as observadas nos estudos clínicos do tenofovir
+disoproxil em adultos (ver secções 4.8 Resumo das reações adversas em formato de
+tabela e 5.1).
+Foram notificadas diminuições da DMO em doentes pediátricos. Em adolescentes
+infetados pelo VIH-1, os índices Z da DMO observados em indivíduos que foram
+submetidos a tratamento com tenofovir disoproxil foram inferiores aos observados em
+indivíduos submetidos a tratamento com placebo. Em crianças infetadas pelo VIH-1, os
+índices Z da DMO observados em indivíduos que mudaram para tenofovir disoproxil
+foram inferiores aos observados em indivíduos que permaneceram no seu regime
+contendo estavudina ou zidovudina (ver secções 4.4 e 5.1).
+No estudo GS-US-104-0352, 8 dos 89 doentes pediátricos (9%) expostos ao tenofovir
+disoproxil (exposição mediana ao tenofovir disoproxil 331 semanas) descontinuaram o
+estudo do medicamento devido a eventos adversos renais. Cinco indivíduos (5,6%)
+desenvolveram resultados laboratoriais clinicamente consistentes com tubulopatia renal
+proximal, 4 dos quais interromperam a terapêutica com tenofovir disoproxil Sete
+pacientes tiveram valores estimados de taxa de filtração glomerular (TFG) entre 70 e 90
+mL / min / 1,73 m2. Entre eles, 3 pacientes experimentaram um declínio clinicamente
+significativo na TFG estimada que melhorou após a descontinuação do tenofovir
+disoproxil.
+Hepatite B crónica
+A avaliação das reações adversas baseia-se num estudo aleatorizado (estudo GS-US-1740115) em 106 adolescentes (com 12 a < 18 anos de idade) com hepatite B crónica
+submetidos a tratamento com 245 mg de tenofovir disoproxil (n = 52) ou placebo (n =
+54) durante 72 semanas E num estudo aleatorizado (estudo GS-US-174-0144) com 89
+doentes (com 2 a < 12 anos de idade) com hepatite B crónica submetidos a tratamento
+com tenofovir disoproxil (n = 60) ou placebo (n = 29) durante 48 semanas. As reações
+adversas observadas em doentes pediátricos que foram submetidos a tratamento com
+tenofovir disoproxil foram consistentes com as que foram observadas em estudos clínicos
+de tenofovir disoproxil em adultos (ver secções 4.8 Resumo das reações adversas em
+formato de tabela e 5.1).
+Foram observadas diminuições da DMO em doentes pediátricos infetados pelo VHB com
+2 a < 18 anos de idade. Os índices Z da DMO observados em indivíduos que foram
+submetidos a tratamento com tenofovir disoproxil foram inferiores aos observados em
+indivíduos submetidos a tratamento com placebo (ver secções 4.4 e 5.1).
+Outra(s) população(ões) especial(ais)
+Idosos
+O tenofovir disoproxil não foi estudado em doentes com idade superior a 65 anos. Os
+doentes idosos são mais suscetíveis de apresentar uma função renal diminuída; deste
+modo, o tratamento de doentes idosos com tenofovir disoproxil deve ser efetuado com
+precaução (ver secção 4.4).
+
+APROVADO EM
+21-09-2023
+INFARMED
+
+Doentes com compromisso renal
+Como o tenofovir disoproxil pode causar toxicidade renal, recomenda-se uma
+monitorização cuidadosa da função renal em doentes adultos com compromisso renal
+tratados com Tenofovir Teva (ver secções 4.2, 4.4 e 5.2). A utilização de tenofovir
+disoproxil não é recomendada em doentes pediátricos com compromisso renal (ver
+secções 4.2 e 4.4).
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas diretamente ao:
+Sítio da internet: http://www.infarmed.pt/web/infarmed/submissaoram
+(preferencialmente)
+ou através dos seguintes contactos:
+Direção de Gestão do Risco de Medicamentos
+Parque da Saúde de Lisboa, Av. Brasil 53
+1749-004 Lisboa
+Tel: +351 21 798 73 73
+Linha do Medicamento: 800222444 (gratuita)E-mail: farmacovigilancia@infarmed.pt
+4.9
+
+Sobredosagem
+
+Sintomas
+Se ocorrer uma sobredosagem, o doente tem que ser monitorizado para comprovação de
+toxicidade (ver secções 4.8 e 5.3) e, consoante seja necessário, dever-se-ão aplicar as
+medidas de suporte adequadas.
+Tratamento
+O tenofovir pode ser removido por hemodiálise; a depuração média do tenofovir por
+hemodiálise é de 134 ml/min. Desconhece-se se o tenofovir pode ser eliminado por
+diálise peritoneal.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 1.3.1.3 Medicamentos anti-infecciosos. Antivíricos.
+Antirretrovirais. Antivirais para uso sistémico; análogos nucleosídeos inibidores da
+transcriptase inversa (reversa), código ATC: J05AF07
+Mecanismo de ação e efeitos farmacodinâmicos
+
+APROVADO EM
+21-09-2023
+INFARMED
+Tenofovir disoproxil fosfato é o sal de fosfato do pró-fármaco tenofovir disoproxil. O
+tenofovir disoproxil é absorvido e convertido na substância ativa, tenofovir, que é um
+análogo de nucleosídeo monofosfatado (nucleótido). Tenofovir é então convertido no
+metabolito ativo, tenofovir difosfato, um interruptor de cadeia obrigatório, por enzimas
+celulares, expressas constitucionalmente. O tenofovir difosfato tem uma semivida
+intracelular de 10 horas em células mononucleares do sangue periférico (PBMCs)
+ativadas e de 50 horas nas mesmas células em repouso. O tenofovir difosfato inibe a
+transcriptase reversa do VIH-1 e a polimerase do VHB por ligação direta competitiva ao
+substrato natural desoxirribonucleotídico e, após incorporação no ADN, por interrupção
+da síntese da cadeia de ADN. O tenofovir difosfato é um inibidor fraco das polimerases
+celulares α, β e γ. Para concentrações até 300 µmol, o tenofovir também mostrou não ter
+efeito sobre a síntese do ADN mitocondrial nem sobre a produção de ácido láctico, em
+ensaios in vitro.
+Dados relativos ao VIH
+Atividade antiviral VIH, in vitro: A concentração de tenofovir necessária para uma
+inibição de 50% (EC50) da estirpe padrão de laboratório, tipo selvagem, VIH-1IIIB é de
+1-6 µmol/l em linhas celulares linfoides e 1,1 µmol/l para o subtipo B primário do VIH-1
+isolado em PBMCs. O tenofovir é também ativo contra VIH-1, subtipos A, C, D, E, F, G,
+e O, e contra VIHBaL em culturas primárias de células da linha monócito-macrófago. O
+tenofovir é ativo in vitro contra o VIH-2, com uma EC50 de 4,9 µmol/l em células MT-4.
+Resistência: Foram selecionadas in vitro,em alguns doentes, estirpes de VIH-1 com
+suscetibilidade reduzida ao tenofovir e que apresentavam uma mutação K65R na
+transcriptase reversa (ver Eficácia e segurança clínicas). Em doentes que já fizeram
+antirretrovirais e que tenham estirpes de VIH com a mutação K65R deve-se evitar o uso
+de tenofovir disoproxil (ver secção 4.4). Além disso, foi selecionada pelo tenofovir uma
+substituição K70E na transcriptase reversa do VIH-1 que resulta numa suscetibilidade
+reduzida de baixo nível ao tenofovir.
+Estudos clínicos em doentes previamente tratados, avaliaram a atividade anti-VIH de 245
+mg de tenofovir disoproxil sobre cadeias de VIH-1 resistentes aos inibidores
+nucleosídeos. Os resultados indicam que doentes com estirpes de VIH com 3 ou mais
+mutações associadas a análogos da timidina (TAMs), que incluíam quer as mutações da
+transcriptase reversa M41L ou L210W, mostraram suscetibilidade reduzida à terapêutica
+com 245 mg de tenofovir disoproxil.
+Eficácia e segurança clínicas
+Os efeitos do tenofovir disoproxil em adultos infetados pelo VIH-1 com experiência
+prévia a antirretrovirais e sem experiência foram demonstrados em ensaios com a duração
+de 48 semanas e 144 semanas, respetivamente.
+No estudo GS-99-907, a 550 doentes adultos, previamente tratados, administrou-se
+placebo ou tenofovir disoproxil 245 mg durante 24 semanas. A contagem média dos
+valores basais de células CD4 foi de 427 células/mm3, o valor médio plasmático inicial
+
+APROVADO EM
+21-09-2023
+INFARMED
+de ARN de VIH-1 foi de 3,4 log10 cópias/ml (78% dos doentes tinham uma carga viral <
+5.000 cópias/ml) e a duração média dos tratamentos antirretrovirais anteriores era de 5,4
+anos. A análise genotípica basal de isolados de VIH de 253 doentes revelou que 94%
+tinham estirpes de VIH-1 com mutações de resistência associada aos análogos
+nucleosídeos inibidores da transcriptase reversa, 58% tinham mutações associadas aos
+inibidores da protease e 48% tinham mutações associadas aos inibidores da transcriptase
+reversa não análogos dos nucleosídeos.
+Na 24ª semana a média de alterações, medidas em tempo desde o valor basal em log10,
+dos níveis plasmáticos de ARN de VIH-1 (DAVG24) foi -0,03 log10 cópias/ml e -0,61
+log10 cópias/ml com placebo e com tenofovir disoproxil 245 mg, respetivamente (p <
+0,0001). Observou-se uma diferença estatisticamente significativa a favor do tenofovir
+disoproxil 245 mg na alteração média ponderada por tempo desde o valor basal à 24ª
+semana (DAVG24) para contagem de CD4 (+13 células/mm3 para tenofovir disoproxil
+245 mg versus -11 células/mm3 para placebo, valor p = 0,0008). O efeito antiviral do
+tenofovir disoproxil manteve-se durante as 48 semanas (DAVG48 foi –0,57 log10
+cópias/ml e a proporção de doentes com ARN-VIH inferior a 400 e a 50 cópias/ml foi de
+41% e 18%, respetivamente). Dos doentes que foram tratados com 245 mg de tenofovir
+disoproxil, oito (2%) desenvolveram a mutação
+K65R durante as primeiras 48 semanas.
+A fase ativa controlada do estudo GS-99-903 com a duração de 144 semanas, em dupla
+ocultação, avaliou a eficácia e a segurança de 245 mg de tenofovir disoproxil versus
+estavudina quando utilizado em associação com lamivudina e efavirenz em doentes
+adultos infetados pelo VIH-1 sem experiência prévia a antirretrovirais. O valor médio
+basal de CD4 foi de 279 células/mm3, o valor médio de ARN-VIH foi de 4,91 log10
+cópias/ml, 19% dos doentes apresentavam infeção pelo VIH sintomática e 18% tinham
+SIDA. Os doentes foram estratificados em função dos níveis basais de ARN-VIH-1 e de
+contagem de CD4. Quarenta e três porcento dos doentes tinham cargas virais basais
+superiores a 100.000 cópias/ml e 39% tinham contagem de CD4 inferior a 200
+células/ml.
+Às 48 semanas, numa análise de intenção-de-tratar (considerando como falha de
+terapêutica os casos com informação ausente e que mudaram de terapêutica
+antirretroviral (TAR)), 80% e 76% dos doentes apresentavam valores de ARN-VIH-1
+inferiores a 400 cópias/ml e 50 cópias/ml às 48 semanas, respetivamente no grupo que
+recebeu 245 mg de tenofovir disoproxil em comparação com 84% e 80% no grupo que
+recebeu estavudina. Às 144 semanas, a proporção de doentes com valores de ARN-VIH-1
+inferiores a 400 cópias/ml e 50 cópias/ml foi 71% e 68% respetivamente no grupo que
+recebeu 245 mg de tenofovir disoproxil, em comparação com 64% e 63% no grupo que
+recebeu estavudina.
+Às 48 semanas de tratamento, a variação média basal do ARN-VIH-1 e dos valores de
+CD4 foi semelhante em ambos os grupos de tratamento (-3,09 e -3,09 log10 cópias/ml;
++169 e 167 células/mm3
+
+APROVADO EM
+21-09-2023
+INFARMED
+nos grupos que receberam 245 mg de tenofovir disoproxil e estavudina, respetivamente).
+Às 144 semanas de tratamento, a variação média desde o basal manteve-se semelhante
+em ambos os grupos de tratamento (-3,07 e -3,03 log10 cópias/ml; +263 e +283
+células/mm3 nos grupos que receberam 245 mg de tenofovir disoproxil e estavudina,
+respetivamente). A resposta ao tratamento com 245 mg de tenofovir disoproxil foi
+consistente, independentemente dos valores basais de ARN-VIH-1 e de contagem de
+CD4.
+A mutação K65R ocorreu numa percentagem ligeiramente superior entre os doentes do
+grupo tenofovir disoproxil em relação aos doentes do grupo de controlo ativo (2,7%
+versus 0,7%). Em todos os casos, a resistência ao efavirenz ou à lamivudina precedeu ou
+coincidiu com o desenvolvimento da K65R. No grupo que recebeu 245 mg de tenofovir
+disoproxil, oito doentes apresentaram estirpes de VIH com a mutação K65R, 7 das quais
+ocorreram durante as primeiras 48 semanas de tratamento e a última na semana 96. Até à
+semana 144, não se observou qualquer outro desenvolvimento da mutação K65R.
+Ocorreu o desenvolvimento da substituição K70E no vírus de um doente do braço do
+tenofovir disoproxil. As análises genotípicas e fenotípicas não evidenciaram outra forma
+de resistência ao tenofovir.
+Dados relativos ao VHB
+Atividade antiviral VHB, in vitro: A atividade antiviral, in vitro, do tenofovir contra o
+VHB foi avaliada numa linhagem de células HepG2 2.2.15. Os valores de EC50 para o
+tenofovir variaram entre 0,14 e 1,5 µmol/l, com valores de CC50 (50% da concentração
+citotóxica) > 100 µmol/l.
+Resistência: Não foram identificadas mutações no VHB associadas ao tenofovir
+disoproxil (ver Eficácia e segurança clínicas). Em ensaios efetuados em células, as
+cadeias de VHB que expressaram as mutações rtV173L, rtL180M e rtM204I/V
+associadas à resistência à lamivudina e telbivudina demonstraram uma suscetibilidade ao
+tenofovir entre 0,7-a 3,4-vezes a do vírus tipo selvagem. As cadeias de VHB que
+expressaram as mutações rtL180M, rtT184G, rtS202G/I, rtM204V e rtM250V associadas
+à resistência ao entecavir demonstraram uma suscetibilidade ao tenofovir entre 0,6-a 6,9vezes a do vírus tipo selvagem. As cadeias de VHB que expressam as mutações rtA181V
+e rtN236T associadas à resistência ao adefovir demonstraram uma suscetibilidade ao
+tenofovir entre 2,9-a 10-vezes a do vírus tipo selvagem. Os vírus com a mutação rtA181T
+permaneceram suscetíveis ao tenofovir com valores de EC50 1,5-vezes a do vírus tipo
+selvagem.
+Eficácia e segurança clínicas
+A demonstração do benefício do tenofovir disoproxil na doença compensada e
+descompensada é baseada na resposta virológica, bioquímica e serológica em adultos
+com hepatite B crónica positivos para AgHBe e negativos para AgHBe. Os doentes
+tratados incluíam aqueles não tratados previamente, os previamente tratados com
+lamivudina ou com adefovir dipivoxil e doentes com mutações de resistência de base à
+
+APROVADO EM
+21-09-2023
+INFARMED
+lamivudina e/ou adefovir dipivoxil. Também foi demonstrado benefício em doentes
+compensados com base nas respostas histológicas.
+Experiência em doentes com doença hepática compensada às 48 semanas (estudos GSUS-174-0102 e GS-US-174-0103)
+Os resultados, ao longo de 48 semanas, de dois estudos aleatorizados, de fase 3, em dupla
+ocultação, comparando o tenofovir disoproxil e o adefovir dipivoxil em doentes adultos
+com doença hepática compensada, estão descritos na Tabela 3 abaixo. O estudo GS-US174-0103 foi conduzido em 266 doentes AgHBe positivos (aleatorizados e tratados),
+enquanto que o estudo GS-US-174-0102 foi efetuado em 375 doentes negativos para
+AgHBe e positivos para anti-HBe (aleatorizados e tratados).
+Em ambos os estudos, o tenofovir disoproxil foi significativamente superior ao adefovir
+dipivoxil para o objetivo primário de eficácia da resposta completa (definido como níveis
+de ADN-VHB < 400 cópias/ml e uma melhoria de pelo menos dois pontos da pontuação
+necro-inflamatória do índice de Knodell, sem agravamento da pontuação da fibrose do
+índice de Knodell). O tratamento com 245 mg de tenofovir disoproxil foi também
+associado a proporções significativamente maiores de doentes com ADN-VHB < 400
+cópias/ml, quando comparado com o tratamento com 10 mg de adefovir dipivoxil.
+Ambos os tratamentos originam, às 48 semanas, resultados semelhantes relativamente à
+resposta histológica (uma melhoria de pelo menos dois pontos da pontuação necroinflamatória do índice de Knodell, sem agravamento na fibrose de Knodell) (ver Tabela 3
+abaixo).
+No estudo GS-US-174-0103, uma proporção significativamente maior de doentes do
+grupo do tenofovir disoproxil apresentavam uma ALT normalizada e atingiram perda de
+AgHBs na semana 48, relativamente ao grupo do adefovir dipivoxil (ver Tabela 3
+abaixo).
+Tabela 3: Parâmetros de eficácia em doentes compensados AgHBe negativos e AgHBe
+positivos,
+às 48 semanas
+
+Parâmetro
+
+Estudo 174-0102 (HBeAg
+negativos)
+Tenofovir
+Adefovir
+disoproxil 245
+dipivoxil 10 mg
+mg
+n = 125
+n = 250
+
+Resposta Completa
+71*
+(%)a
+Histologia
+Resposta
+72
+histológica (%)b
+
+Estudo 174-0103 (HBeAg
+positivos)
+Tenofovir
+Adefovir
+disoproxil 245
+dipivoxil 10 mg
+mg
+n = 90
+n = 176
+
+49
+
+67*
+
+12
+
+69
+
+74
+
+68
+
+APROVADO EM
+21-09-2023
+INFARMED
+Redução mediana
+do ADN-VHB
+desde o valor
+basalc
+(log10 cópias/ml)
+ADN-VHB (%)
+< 400 cópias/ml
+(< 69 UI/ml)
+ALT (%)
+ALT
+Normalizadad
+Serologia (%)
+
+-4,7*
+
+-4,0
+
+-6,4*
+
+-3,7
+
+93*
+
+63
+
+76*
+
+13
+
+76
+
+77
+
+68*
+
+54
+
+HBeAg
+n/a
+n/a
+22/21
+18/18
+perda/seroconversã
+o
+0/0
+0/0
+3*/1
+0/0
+HBsAg
+perda/seroconversã
+o
+* valor p versus adefovir dipivoxil < 0,05.
+a Resposta completa definida como níveis de ADN-VHB < 400 cópias/ml e uma
+melhoria de pelo menos dois pontos da pontuação necro-inflamatória de Knodell, sem
+agravamento na fibrose de Knodell).
+b Melhoria de pelo menos dois pontos da pontuação necro-inflamatória de Knodell, sem
+agravamento na fibrose de Knodell.
+c A alteração mediana desde os valores basais de ADN-VHB reflete meramente a
+diferença entre os valores basais de ADN-VHB e o limite de deteção do ensaio.
+d A população utilizada para avaliar a normalização do ALT, incluiu apenas doentes com
+níveis basais de ALT acima do limite superior do normal.
+n/a = não aplicável.
+O tenofovir disoproxil esteve associado a proporções significativamente mais elevadas de
+doentes com níveis de ADN-VHB indetetáveis (< 169 cópias/ml [< 29 UI/ml]; o limite de
+quantificação do ensaio de Roche Cobas Taqman para VHB), quando comparado com o
+adefovir dipivoxil (estudo GS-US-174-0102; 91%, 56% e o estudo GS-US-174-0103;
+69%, 9%), respetivamente.
+A resposta ao tratamento com tenofovir disoproxil foi comparável em doentes
+previamente tratados com nucleosídeos (n = 51) e doentes não previamente tratados com
+nucleosídeos (n = 375) e doentes com níveis basais de ALT normais (n = 21) e níveis
+basais de ALT alterados (n = 405) quando se combinaram os estudos GS-US-174-0102 e
+GS-US-174-0103. Quarenta e nove dos 51 doentes previamente tratados com
+nucleosídeos, já tinham sido tratados com lamivudina. Setenta e três por cento dos
+doentes previamente tratados com nucleosídeos e 69% dos doentes não previamente
+
+APROVADO EM
+21-09-2023
+INFARMED
+tratados com nucleosídeos atingiram uma resposta completa ao tratamento; 90% dos
+doentes previamente tratados com nucleosídeos e 88% dos doentes não submetidos
+previamente a terapêutica com nucleosídeos alcançaram uma supressão dos níveis de
+ADN-VHB de < 400 cópias/ml. Todos os doentes com níveis basais de ALT normais e
+88% dos doentes com níveis basais de ALT alterados, atingiram uma supressão dos
+níveis de ADN-VHB de < 400 cópias/ml.
+Experiência após 48 semanas nos estudos GS-US-174-0102 e GS-US-174-0103: Nos
+estudos GS-US-174-0102 e GS-US-174-0103, após receberem tratamento em dupla
+ocultação durante 48 semanas (ou tenofovir disoproxil 245 mg ou adefovir dipivoxil 10
+mg), os doentes mudaram sem interrupção no tratamento, para tenofovir disoproxil em
+aberto. Nos estudos GS-US-174-0102 e GS-US-174-0103, 77% e 61% dos doentes,
+respetivamente, continuaram no estudo até à semana 384. Nas semanas 96, 144, 192, 240,
+288 e 384, a supressão viral, as respostas serológicas e bioquímicas foram mantidas com
+o tratamento continuado com tenofovir disoproxil (ver Tabelas 4 e 5 abaixo).
+Tabela 4: Parâmetros de eficácia em doentes compensados AgHBe negativos, em
+tratamento
+aberto às 96, 144, 192, 240, 288 e 384 semanas
+Estudo 174-0102 (HBeAg negativos)
+Parâmetroa
+
+80
+
+38
+4o
+74
+
+Adefovir dipivoxil 10 mg substituído
+por
+tenofovir disoproxil 245 mg
+n = 125
+96 c 114 192 240 288
+384
+f
+h
+j
+m
+p
+89
+88
+87
+84
+84
+76
+
+70
+
+68
+
+64
+
+68
+
+70
+
+77
+
+76
+
+74
+
+69
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+0/0
+
+0/0
+
+0/0
+
+1/1
+n
+
+0/0
+
+0/0
+
+0/0
+
+0/0k
+
+1/1n
+
+1/1n
+
+Tenofovir disoproxil 245 mg
+n = 250
+Semana
+ADN-VHB
+(%)
+<400
+cópias/ml
+(<69 UI/ml)
+ALT (%)
+ALT
+Normalizada
+d
+Serologia
+(%)
+HBeAg
+perda/
+seroconversã
+o
+HBsAg
+
+96
+b
+90
+
+114
+e
+87
+
+192
+g
+84
+
+240
+i
+83
+
+288l
+
+72
+
+73
+
+67
+
+n/a
+
+n/a
+
+0/0
+
+0/0
+
+APROVADO EM
+21-09-2023
+INFARMED
+perda/
+seroconversã
+o
+a Baseado no algoritmo de Avaliação a Longo Prazo – São incluídos no denominador, os
+doentes que interromperam o estudo em qualquer momento antes da semana 384 devido a
+um objetivo definido no protocolo, assim como os que completaram a semana 384.
+b 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 48 semanas em
+aberto.
+c 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 48 semanas de
+tenofovir disoproxil em aberto.
+d A população utilizada para avaliar a normalização da ALT, incluiu apenas doentes com
+níveis basais de ALT acima do limite superior do normal.
+e 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 96 semanas em
+aberto.
+f 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 96 semanas de
+tenofovir disoproxil em aberto.
+g 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 144 semanas em
+aberto.
+h 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 144 semanas de
+tenofovir disoproxil em aberto.
+i 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 192 semanas em
+aberto.
+j 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 192 semanas de
+tenofovir disoproxil em aberto.
+k Um doente deste grupo ficou AgHBe negativo pela primeira vez na visita da semana
+240 e continuava em curso no estudo na altura do cut-off dos dados. Contudo, a perda de
+AgHBe do indivíduo acabou por ser confirmada na visita subsequente.
+l 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 240 semanas em
+aberto.
+m 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 240 semanas de
+tenofovir disoproxil em aberto.
+n Os números apresentados são percentagens cumulativas baseadas no método de Kaplan
+Meier, excluindo dados recolhidos após a adição de emtricitabina ao tenofovir disoproxil
+em aberto (KM-TDF).
+o 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 336 semanas em
+aberto.
+p 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 336 semanas de
+tenofovir disoproxil em aberto.
+n/a= não aplicável.
+Tabela 5: Parâmetros de eficácia em doentes compensados AgHBe positivos, em
+tratamento aberto às 96, 144, 192, 240, 288 e 384 semanas
+
+Parâmetroa
+
+Estudo 174-0103 (HBeAg positivos)
+Tenofovir disoproxil 245 mg
+Adefovir dipivoxil 10 mg
+
+APROVADO EM
+21-09-2023
+INFARMED
+n = 176
+
+Semana
+
+96
+b
+76
+
+ADN-VHB
+(%)
+<400
+cópias/ml
+(<69 UI/ml)
+ALT (%)
+60
+ALT
+Normalizada
+d
+Serologia (%)
+HBeAg
+perda/
+seroconversã
+o
+
+26
+/
+23
+
+11
+4e
+72
+
+19
+2h
+68
+
+24
+0j
+64
+
+288
+m
+61
+
+384
+o
+56
+
+substituído por
+tenofovir disoproxil 245 mg
+n = 90
+96 11 19 24 288 384
+c
+4f 2i 0k n
+p
+74 71 72 66 65
+61
+
+55
+
+56
+
+46
+
+47
+
+47
+
+65
+
+61
+
+59
+
+56
+
+57
+
+56
+
+29/
+23
+
+34/
+25
+
+38/
+30
+
+37/
+25
+
+30/
+20
+
+24
+/
+20
+
+33/
+26
+
+36/
+30
+
+38/
+31
+
+40/
+31
+
+35/
+24
+
+8/
+6g
+
+11/
+8g
+
+11/
+8l
+
+12/
+8l
+
+15/
+12l
+
+8/
+7g
+
+8/
+7g
+
+10/
+10l
+
+11/
+10l
+
+13/
+11l
+
+5/
+6/
+HBsAg
+4
+5
+perda/
+seroconversã
+o
+a Baseado no algoritmo de Avaliação a Longo Prazo – São incluídos no denominador, os
+doentes que interromperam o estudo em qualquer momento antes da semana 384 devido a
+um objetivo definido no protocolo, assim como os que completaram a semana 384.
+b 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 48 semanas em
+aberto.
+c 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 48 semanas de
+tenofovir disoproxil em aberto.
+d A população utilizada para avaliar a normalização da ALT, incluiu apenas doentes com
+níveis basais de ALT acima do limite superior do normal.
+e 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 96 semanas em
+aberto.
+f 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 96 semanas de
+tenofovir disoproxil em aberto.
+g Os números apresentados são percentagens cumulativas baseadas no método de Kaplan
+Meier, incluindo dados recolhidos após a adição de emtricitabina ao tenofovir disoproxil
+em aberto (KM-ITT).
+h 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 144 semanas em
+aberto.
+i 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 144 semanas de
+tenofovir disoproxil em aberto.
+
+APROVADO EM
+21-09-2023
+INFARMED
+j 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 192 semanas em
+aberto.
+k 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 192 semanas de
+tenofovir disoproxil em aberto.
+l Os números apresentados são percentagens cumulativas baseadas no método de Kaplan
+Meier, excluindo dados recolhidos após a adição de emtricitabina ao tenofovir disoproxil
+em aberto (KM-tenofovir disoproxil).
+m 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 240 semanas em
+aberto.
+n 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 240 semanas de
+tenofovir disoproxil em aberto.
+o 48 semanas de tenofovir disoproxil em dupla ocultação seguido de 336 semanas em
+aberto.
+p 48 semanas de adefovir dipivoxil em dupla ocultação seguido de 336 semanas de
+tenofovir disoproxil em aberto.
+Estavam disponíveis dados de biopsia hepática basais e da semana 240 emparelhados
+para 331/489 doentes que permaneceram nos estudos GS-US-174-0102 e GS-US-1740103 à semana 240 (ver Tabela 6 abaixo). Noventa e cinco por cento (225/237) dos
+doentes sem cirrose no início do estudo e 99% (93/94) dos doentes com cirrose no início
+do estudo apresentavam nenhuma alteração ou uma melhoria da fibrose (pontuação da
+fibrose do índice de Ishak). Dos 94 doentes com cirrose no início do estudo (pontuação
+da fibrose do índice de Ishak: 5 - 6), 26% (24) não apresentaram alteração na pontuação
+da fibrose do índice de Ishak e 72% (68) apresentaram regressão da cirrose à semana 240
+com uma redução na pontuação da fibrose do índice de Ishak de, pelo menos, 2 pontos.
+Tabela 6: Resposta histológica (%) em indivíduos AgHBe negativos e AgHBe positivos
+compensados na semana 240 comparativamente com os dados basais
+Estudo 174-0102
+(HBeAg negativos)
+Tenofovir
+Adefovir
+disoproxil
+dipivoxil
+245 mg
+10 mg
+n = 250c
+substituído por
+tenofovir
+disoproxil 245
+mg
+n = 125d
+88
+85
+[130/148]
+[63/74]
+
+Estudo 174-0103
+(HBeAg positivos)
+Tenofovir
+disoproxil 245
+mg
+n = 176c
+
+Adefovir
+dipivoxil
+10 mg
+substituído por
+tenofovir
+disoproxil 245
+mg
+n = 90d
+92
+[36/39]
+
+Resposta
+90
+histológicaa, b
+[63/70]
+(%)
+a A população utilizada para a avaliação da histologia incluiu apenas doentes com dados
+disponíveis de biopsia hepática (em falta = excluído) à semana 240. A resposta após a
+adição de emtricitabina é excluída (total de 17 indivíduos em ambos os estudos).
+
+APROVADO EM
+21-09-2023
+INFARMED
+b Melhoria de pelo menos dois pontos da pontuação necro-inflamatória de Knodell, sem
+agravamento na fibrose de Knodell.
+c 48 semanas de tenofovir disoproxil em dupla ocultação seguido por até 192 semanas em
+aberto.
+d 48 semanas de adefovir dipivoxil em dupla ocultação seguido por até 192 semanas de
+tenofovir disoproxil em aberto.
+Experiência em doentes com coinfeção pelo VIH e experiência prévia com lamivudina
+Num estudo de 48 semanas, controlado, em dupla ocultação e aleatorizado com 245 mg
+de tenofovir disoproxil em doentes adultos coinfetados pelo VIH-1 e hepatite B crónica
+previamente tratados com lamivudina (estudo ACTG 5127), os níveis serológicos basais
+de ADN-VHB em doentes aleatorizados no braço do tenofovir foram de 9,45 log10
+cópias/ml (n = 27). O tratamento com 245 mg de tenofovir disoproxil esteve associado a
+uma alteração média dos níveis serológicos basais de ADN-VHB de -5,47 log10
+cópias/ml, em doentes para os quais existiam dados de 48 semanas. Adicionalmente, 61%
+dos doentes apresentavam valores normais de ALT às 48 semanas.
+Experiência em doentes com replicação viral persistente (estudo GS-US-174-0106)
+A eficácia e segurança de 245 mg de tenofovir disoproxil ou 245 mg de tenofovir
+disoproxil com 200 mg de emtricitabina, foram avaliadas num estudo em dupla
+ocultação, aleatorizado (estudo GS-US-174-0106), em doentes adultos positivos para
+AgHBe e negativos para AgHBe, que apresentavam viremia persistente (ADN-VHB ≥
+1.000 cópias/ml) enquanto recebiam tratamento com 10 mg de adefovir dipivoxil durante
+mais de 24 semanas. Inicialmente, 57% dos doentes aleatorizados para o grupo de
+tratamento com tenofovir disoproxil versus 60% dos doentes aleatorizados para o grupo
+de tratamento com emtricitabina mais tenofovir disoproxil tinham sido anteriormente
+tratados com lamivudina. No geral, às 24 semanas, o tratamento com um regime
+contendo o tenofovir disoproxil resultou em níveis de ADN-VHB < 400 cópias/ml (< 69
+UI/ml) em 66% (35/53) dos doentes versus 69% (36/52) dos doentes tratados com
+emtricitabina mais tenofovir disoproxil (p = 0,672). Adicionalmente 55% (29/53) dos
+doentes tratados com tenofovir disoproxil tinham níveis de ADN-VHB indetetáveis (<
+169 cópias/ml [< 29 UI/ml]; o limite de quantificação do ensaio de Roche Cobas TaqMan
+para VHB) versus 60% (31/52) dos doentes tratados com emtricitabina mais tenofovir
+disoproxil (p = 0,504). As comparações entre grupos de tratamento para além das 24
+semanas são de difícil interpretação uma vez que os investigadores tinham a opção de
+intensificar o tratamento com emtricitabina mais tenofovir disoproxil em aberto. Estudos
+a longo prazo para avaliar o benefício/risco da terapia dupla com emtricitabina mais
+tenofovir disoproxil nos doentes monoinfetados pelo VHB estão a decorrer.
+Experiência em doentes com doença hepática descompensada às 48 semanas (estudo GSUS-174-0108)
+O estudo GS-US-174-0108 é um estudo aleatorizado, em dupla ocultação, controlado
+com comparador ativo que avalia a segurança e eficácia do tenofovir disoproxil (n = 45),
+emtricitabina em associação com tenofovir disoproxil (n = 45) e entecavir (n = 22), em
+doentes com doença hepática descompensada. No braço de tratamento do tenofovir
+
+APROVADO EM
+21-09-2023
+INFARMED
+disoproxil, os doentes apresentavam, na inclusão, uma pontuação de CPT média de 7,2,
+ADN VHB médio de 5,8 log10 cópias/ml e uma ALT sérica média de 61 U/l. Quarenta e
+dois por cento (19/45) dos doentes tinham pelo menos 6 meses de experiência prévia com
+lamivudina, 20% (9/45) dos doentes tinham experiência prévia com adefovir dipivoxil e 9
+dos 45 doentes (20%) tinham mutações de resistência basais à lamivudina e/ou adefovir
+dipivoxil. Os objetivos de segurança co-primários eram a interrupção devido a um
+acontecimento adverso e aumento confirmado na creatinina sérica de ≥ 0,5 mg/dl ou
+fosfato sérico confirmado < 2 mg/dl.
+Nos doentes com pontuação de CPT ≤ 9, 74% (29/39) do grupo de tratamento do
+tenofovir disoproxil e 94% (33/35) do grupo de tratamento da emtricitabina em
+associação com tenofovir disoproxil atingiram ADN VHB < 400 cópias/ml após 48
+semanas de tratamento.
+Globalmente, os dados procedentes deste estudo são demasiado limitados para tirar
+quaisquer conclusões definitivas sobre a comparação de emtricitabina em associação com
+o tenofovir disoproxil versus tenofovir disoproxil (ver Tabela 7 abaixo).
+Tabela 7: Parâmetros de segurança e eficácia em doentes descompensados às 48 semanas
+
+Parâmetro
+
+Falência por
+tolerabilidade
+(interrupção
+permanente do
+medicamento do
+estudo
+devido a um evento
+adverso emergente
+do
+tratamento)
+n (%)a
+Aumento
+confirmado na
+creatinina sérica ≥
+0,5 mg/dl desde a
+inclusão ou fosfato
+sérico confirmado <
+2 mg/dl
+n (%)b
+
+Estudo 174-0108
+Tenofovir disoproxil
+245 mg
+(n = 45)
+3 (7%)
+
+Emtricitabina
+200 mg/ tenofovir
+disoproxil 245 mg
+(n = 45)
+2 (4%)
+
+Entecavir
+(0,5 mg ou 1 mg)
+n = 22
+2 (9%)
+
+4 (9%)
+
+3 (7%)
+
+1 (5%)
+
+APROVADO EM
+21-09-2023
+INFARMED
+ADN VHB n (%)
+31/44 (70%)
+36/41 (88%)
+16/22 (73%)
+< 400 cópias/ml
+n (%)
+ALT n (%)
+25/44 (57%)
+31/41 (76%)
+12/22 (55%)
+ALT Normal
+Diminuição ≥ 2
+7/27 (26%)
+12/25 (48%)
+5/12 (42%)
+pontos
+na CPT desde a
+inclusão
+n (%)
+Variação média na
+-0,8
+-0,9
+-1,3
+pontuação de CPT
+desde a inclusão
+Variação média na
+-1,8
+-2,3
+-2,6
+pontuação MELD
+desde
+a inclusão
+a valor p que compara a análise combinada dos braços contendo tenofovir versus o braço
+do entecavir = 0,622,
+b valor p que compara a análise combinada dos braços contendo tenofovir versus o braço
+do entecavir = 1,000.
+Experiência após 48 semanas no estudo GS-US-174-0108
+Utilizando uma análise de não conclusão/mudança = insucesso, 50% (21/42) dos
+indivíduos a receberem tenofovir disoproxil , 76% (28/37) dos indivíduos a receberem
+emtricitabina mais tenofovir disoproxil e 52% (11/21) dos indivíduos a receberem
+entecavir alcançaram ADN VHB < 400 cópias/ml às 168 semanas.
+Experiência em doentes com VHB resistente à lamivudina às 240 semanas (estudo GSUS-174-0121)
+A eficácia e a segurança de tenofovir disoproxil 245 mg foram avaliadas num estudo
+aleatorizado, em dupla ocultação (GS-US-174-0121) em doentes positivos para AgHBe e
+AgHBe negativos (n = 280) com doença hepática compensada, viremia (ADN-VHB ≥
+1.000 UI/ml), e evidência genotípica de resistência à lamivudina (rtM204I/V +/rtL180M). Apenas cinco doentes tinham mutações basais de resistência associada ao
+adefovir. Cento e quarenta e um e 139 indivíduos adultos foram aleatorizados
+respetivamente para um braço de tratamento com tenofovir disoproxil e um braço de
+tratamento com emtricitabina em associação com tenofovir disoproxil. A demografia
+basal foi semelhante entre os dois grupos de tratamento: os valores basais foram
+negativos para AgHBe em 52,5% dos indivíduos e positivos para AgHBe em 47,5%, o
+nível médio de ADN VHB foi de 6,5 log10 cópias/ml e a ALT média foi de 79 U/l,
+respetivamente.
+Após 240 semanas de tratamento, 117dos 141 indivíduos (83%) aleatorizados para o
+tenofovir disoproxil tinham ADN VHB < 400 cópias/ml, e 51 em 79 indivíduos (65%)
+
+APROVADO EM
+21-09-2023
+INFARMED
+apresentaram normalização da ALT. Após 240 semanas de tratamento com emtricitabina
+em associação com tenofovir disoproxil, 115 em 139 indivíduos (83%) tinham ADN
+VHB < 400 cópias/ml, e 59 em 83 indivíduos (71%) apresentaram normalização da ALT.
+Entre os indivíduos positivos para AgHBe aleatorizados para o tenofovir disoproxil, 16
+em 65 indivíduos (25%) apresentaram perda de AgHBe e 8 em 65 indivíduos (12%)
+apresentaram seroconversão para anti-HBe na semana 240. Nos indivíduos positivos para
+AgHBe aleatorizados para a emtricitabina em associação com tenofovir disoproxil, 13 em
+68 indivíduos (19%) apresentaram perda de AgHBe e 7 em 68 indivíduos (10%)
+apresentaram seroconversão para anti-HBe na semana240. Dois indivíduos aleatorizados
+para o tenofovir disoproxil apresentaram perda de AgHBs na semana 240, mas sem
+seroconversão para anti-HBs. Cinco indivíduos aleatorizados para a emtricitabina em
+associação com tenofovir disoproxil apresentou perda de AgHBs com dois destes cinco
+indivíduos a apresentarem seroconversão para anti-HBs.
+Resistência clínica:
+Quatrocentos e vinte e seis doentes AgHBe negativos (GS-US-174-0102, n = 250) e
+AgHBe positivos (GS-US-174-0103, n = 176), inicialmente aleatorizados para o
+tratamento com tenofovir disoproxil em dupla ocultação e que depois mudaram para o
+tratamento com tenofovir disoproxil em aberto, foram avaliados relativamente às
+alterações genotípicas na polimerase do VHB basal. As avaliações genotípicas realizadas
+em todos os doentes com valores de ADN-VHB > 400 cópias/ml na semana 48 (n = 39),
+96 (n = 24), 144 (n = 6), 192 (n = 5), 240 (n = 4), 288 (n = 6) e 384 (n = 2) de tenofovir
+disoproxil em monoterapia demonstraram que não se desenvolveram mutações
+associadas a resistência ao tenofovir disoproxil.
+Duzentos e quinze doentes AgHBe negativos (GS-US-174-0102, n = 125) e AgHBe
+positivos (GS-US-174-0103, n = 90), inicialmente aleatorizados para o tratamento com
+adefovir dipivoxil em dupla ocultação e que depois mudaram para o tratamento com
+tenofovir disoproxil em aberto, foram avaliados relativamente às alterações genotípicas
+na polimerase do VHB basal. As avaliações genotípicas realizadas em todos os doentes
+com valores de ADN-VHB > 400 cópias/ml na semana 48 (n = 16), 96 (n = 5), 144 (n =
+1), 192 (n = 2), 240 (n = 1), 288 (n = 1) e 384 (n = 2) de tenofovir disoproxil em
+monoterapia demonstraram que não se desenvolveram mutações associadas a resistência
+ao tenofovir disoproxil.
+No estudo GS-US-174-0108, 45 doentes (incluindo 9 doentes com mutações de
+resistência à lamivudina e/ou adefovir dipivoxil basais) receberam tratamento com
+tenofovir disoproxil durante e até 168 semanas. Estavam disponíveis dados genotípicos
+de isolados de VHB basais e durante o tratamento emparelhados para 6/8 doentes com
+ADN VHB > 400 cópias/ml às 48 semanas. Não foram identificadas, nestes isolados,
+substituições de aminoácidos associadas a resistência ao tenofovir disoproxil. A análise
+genotípica foi realizada em 5 indivíduos no braço de tenofovir disoproxil após 48
+semanas. Não foram detetadas substituições de aminoácidos associadas à resistência ao
+tenofovir disoproxil em nenhum dos indivíduos.
+
+APROVADO EM
+21-09-2023
+INFARMED
+No estudo GS-US-174-0121, 141 doentes com substituições basais de resistência à
+lamivudina receberam tenofovir disoproxil até 240 semanas. Cumulativamente, houve 4
+doentes que experimentram um episódio viremico (DNA de VHB> 400 cópias / ml) no
+seu último ponto de tempo em TDF. Entre eles dados genotípicos de isolados de VHB
+basais e durante o tratamento emparelhados estavam disponíveis para2 de 4 doentes. Não
+foram identificadas, nestes isolados, substituições de aminoácidos associadas a
+resistência ao tenofovir disoproxil.
+Num estudo pediátrico (GS-US-174-0115), 52 doentes (incluindo 6 doentes com
+mutações de resistência à lamivudina basais) inicialmente receberam tratamento cego
+com tenofovir disoproxil até 72 semanas e depois 51/52 doentes trocaram para um
+tratamento aberto de tenofovir disoproxil fumarato (grupo TDF-TDF). Foram efetuadas
+avaliações genotípicas de todos os doentes com ADN-VHB > 400 cópias/ml na semana
+48 (n = 6) e na semana 72 (n = 5), semana 96 (n = 4), semana 144 (n = 2) e semana 192
+(n = 3). Cinquenta e quatro doentes (incluindo dois doentes com mutações de resistência
+à lamivudina no início do estudo) receberam inicialmente tratamento cego com placebo
+durante 72 semanas e 52/54 doentes acompanhados com tenofovir disoproxil fumarato
+(grupo PLB-TDF). As avaliações genotípicas foram realizadas em todos os pacientes
+deste grupo com DNA VHB> 400 cópias / ml na semana 96 (n = 17), semana 144 (n = 7)
+e semana 192 (n = 8). Não foram identificadas, nestes isolados, substituições de
+aminoácidos associadas a resistência ao tenofovir disoproxil.
+Num estudo pediátrico (GS-US-174-0144), estavam disponíveis dados genotípicos de
+isolados de VHB basais e durante o tratamento emparelhados provenientes de doentes
+submetidos a tratamento com tenofovir disoproxil em ocultação para 9 de 10 doentes na
+semana 48 que tinham níveis plasmáticos de ADN-VHB > 400 cópias/ml. Estavam
+disponíveis dados genotípicos de isolados de VHB basais e durante o tratamento
+emparelhados de doentes que mudaram de tenofovir disoproxil em ocultação (grupo
+TDFTDF) ou de placebo (grupo PLB-TDF) para tenofovir disoproxil em regime aberto
+após, pelo menos, 48 semanas de tratamento em ocultação para 12 de 16 doentes na
+semana 94, 4 de 6 doentes na semana 144 e 4 de 4 doentes na semana 192 que tinham
+níveis plasmáticos de ADN-VHB > 400 cópias/ml. Não foram identificadas, nestes
+isolados, substituições de aminoácidos associadas a resistência ao tenofovir disoproxil
+nas semanas 48, 96, 144 ou 192.
+População pediátrica
+VIH-1: No estudo GS-US-104-0321, 87 doentes, com 12 a < 18 anos de idade,
+previamente tratados, infetados pelo VIH-1, foram submetidos a tratamento com
+tenofovir disoproxil (n = 45) ou placebo (n = 42) em associação com uma terapêutica
+base otimizada (TBO) durante 48 semanas. Devido às limitações do estudo, não se
+demonstrou um benefício do tenofovir disoproxil em relação ao placebo com base nos
+níveis plasmáticos de ARN de VIH-1 na semana 24. Contudo, é de prever um benefício
+para a população adolescente com base na extrapolação de dados em adultos e dados
+farmacocinéticos comparativos (ver secção 5.2).
+
+APROVADO EM
+21-09-2023
+INFARMED
+Em doentes que foram submetidos a tratamento com tenofovir disoproxil ou com
+placebo, o índice Z médio da DMO a nível da coluna lombar foi de -1,004 e de -0,809 e o
+índice Z médio da DMO do corpo inteiro foi respetivamente de -0,866 e de -0,584 em
+relação aos valores basais. As alterações médias na semana 48 (fim da fase com dupla
+ocultação) do índice Z médio da DMO a nível da coluna lombar foram de -0,215 e de 0,165 e o índice Z médio da DMO do corpo total foram de -0,254 e -0,179,
+respetivamente, nos grupos de tenofovir disoproxil e placebo. A proporção média do
+aumento da DMO foi inferior no grupo do tenofovir disoproxil em comparação com o
+grupo do placebo. Na semana 48, seis adolescentes do grupo do tenofovir disoproxil e um
+adolescente do grupo do placebo apresentaram uma diminuição significativa da DMO a
+nível da coluna lombar (definida como uma diminuição > 4%). Nos 28 doentes
+submetidos a tratamento durante 96 semanas com tenofovir disoproxil, os índices Z da
+DMO diminuíram em -0,341 na coluna lombar e em -0,458 no corpo total.
+No estudo GS-US-104-0352, 97 doentes previamente tratados com 2 a < 12 anos de idade
+com supressão virológica estável em regimes contendo estavudina ou zidovudina foram
+aleatorizados para substituir a estavudina ou a zidovudina por tenofovir disoproxil (n =
+48) ou para continuar com o seu regime original (n = 49) durante 48 semanas. Na semana
+48, 83% dos doentes do grupo de tratamento do tenofovir disoproxil e 92% dos doentes
+do grupo de tratamento da estavudina ou zidovudina tinham concentrações de ARN de
+VIH-1 < 400 cópias/ml. A diferença na proporção de doentes que manteve < 400
+cópias/ml foi influenciada principalmente por um número maior de interrupções no grupo
+de tratamento do tenofovir disoproxil. Quando se excluíam os dados que faltavam, 91%
+dos doentes do grupo de tratamento do tenofovir disoproxil e 94% dos doentes do grupo
+de tratamento da estavudina ou zidovudina tinham concentrações de ARN de VIH-1 <
+400 cópias/ml na semana 48.
+Foram notificadas diminuições da DMO em doentes pediátricos. Em doentes que foram
+submetidos a tratamento com tenofovir disoproxil ou com estavudina ou zidovudina, o
+índice Z médio da DMO a nível da coluna lombar foi respetivamente de -1,034 e de 0,498 e o índice Z médio da DMO do corpo total foi respetivamente de -0,471 e de 0,386, em relação aos valores basais. As alterações médias na semana 48 (fim da fase de
+aleatorização) do índice Z médio da DMO a nível da coluna lombar foram de 0,032 e de
+0,087 e o índice Z médio da DMO do corpo total foram de -0,184 e -0,027,
+respetivamente nos grupos do tenofovir disoproxil e da estavudina ou zidovudina. A
+proporção média do aumento ósseo na coluna lombar na semana 48 foi semelhante no
+grupo de tratamento do tenofovir disoproxil e no grupo de tratamento da estavudina ou
+zidovudina. O aumento ósseo do corpo total foi inferior no grupo de tratamento do
+tenofovir disoproxil em comparação com o grupo de tratamento da estavudina ou
+zidovudina. Um indivíduo no grupo do tenofovir disoproxil e nenhum no grupo de
+tratamento da estavudina ou zidovudina apresentou uma diminuição significativa da
+DMO a nível da coluna lombar (> 4%) na semana 48. Nos 64 doentes submetidos a
+tratamento durante 96 semanas com tenofovir disoproxil, os índices Z da DMO
+diminuíram em -0,012 na coluna lombar e em -0,338 no corpo total. Os índices Z da
+DMO não foram ajustados em relação à altura e peso.
+
+APROVADO EM
+21-09-2023
+INFARMED
+
+No estudo, GS-US-104-0352, 48 de um total de 89 doentes pediátricos (9%) expostos ao
+tenofovir disoproxil interromperam o medicamento do estudo devido a acontecimentos
+adversos renais. Cinco indivíduos (5,6%) desenvolveram resultados laboratoriais
+clinicamente consistentes com tubulopatia renal proximal, 4 dos quais interromperam a
+terapêutica com tenofovir disoproxil l (exposição mediana ao tenofovir disoproxil de 331
+semanas).
+Hepatite B crónica: No estudo GS-US-174-0115, 106 doentes AgHBe negativos e
+AgHBe positivos com 12 a < 18 anos de idade, com infeção crónica pelo VHB [ADNVHB ≥ 105 cópias/ml, ALT sérica elevada (≥ 2 x LSN) ou história de níveis séricos
+elevados de ALT nos últimos 24 meses] foram tratados com 245 mg de tenofovir
+disoproxil (n = 52) ou com placebo (n = 54) durante 72 semanas. Os doentes não deviam
+ter sido previamente tratados com tenofovir disoproxil mas podiam ter sido submetidos a
+regimes à base de interferão (> 6 meses antes do rastreio) ou a qualquer outra terapêutica
+oral anti-VHB com nucleosídeos/nucleótidos não contendo tenofovir disoproxil (> 16
+semanas antes do rastreio). Na semana 72, 88% (46/52) dos doentes no grupo de
+tratamento de tenofovir disoproxil e 0% (0/54) dos doentes no grupo do placebo tinham,
+no global, ADN-VHB < 400 cópias/ml. Setenta e quatro por cento (26/35) dos doentes no
+grupo de tenofovir disoproxil tinham uma ALT normalizada na semana 72 em
+comparação com 31% (13/42) dos doentes no grupo do placebo. A resposta ao tratamento
+com tenofovir disoproxil foi comparável em doentes não previamente tratados com
+nucleosídeos/nucleótidos (n = 20) e em doentes previamente tratados com
+nucleosídeos/nucleótidos (n = 32), incluindo doentes resistentes à lamivudina (n = 6).
+Noventa e cinco por cento dos doentes não previamente tratados com
+nucleosídeos/nucleótidos, 84% dos doentes previamente tratados com
+nucleosídeos/nucleótidos e 83% dos doentes resistentes à lamivudina atingiram um ADNVHB < 400 cópias/ml na semana 72. Trinta e um dos 32 doentes previamente tratados
+com nucleosídeos/nucleótidos tinham experiência prévia com lamivudina. Na semana 72,
+96% (27/28) dos doentes imunologicamente ativos (ADN-VHB ≥ 105 cópias/ml, ALT
+sérica > 1,5 x LSN) no grupo de tratamento de tenofovir disoproxil e 0% (0/32) dos
+doentes no grupo do placebo tinham ADN-VHB < 400 cópias/ml. Setenta e cinco por
+cento (21/28) dos doentes imunologicamente ativos no grupo de tenofovir disoproxil
+tinham uma ALT normal na semana 72 em comparação com 34% (11/32) no grupo do
+placebo.
+Após 72 semanas de tratamento cego aleatorio, cada indivíduo pode mudar para
+tratamento aberto com tenofovir disoproxil fumarato até à semana 192. Após a semana
+72, a supressão virológica foi mantida para aqueles que receberam tenofovir disoproxil
+fumarato duplamente cego seguido de tenofovir disoproxil fumarato aberto (Grupo TDFTDF): 86,5% (45/52) dos indivíduos no grupo TDF-TDF tinham DNA de HBV <400
+cópias / ml na semana 192. Entre os sujeitos que receberam placebo durante o período de
+dupla ocultação, a proporção de indivíduos com DNA do VHB <400 cópias / mL
+aumentaram acentuadamente após o início do tratamento com TDF aberto (grupo PLBTDF): 74,1% (40/54) dos indivíduos no grupo PLB-TDF tinham ADN do VHB <400
+
+APROVADO EM
+21-09-2023
+INFARMED
+cópias / ml Na semana 192. A proporção de indivíduos com normalização de ALT na
+semana 192 no grupo TDF-TDF foi de 75,8% (25/33) entre os que eram HBeAg
+positivos no início e 100,0% (2 de 2 indivíduos) entre aqueles que eram HBeAg Negativo
+na linha de base. Percentagens semelhantes de indivíduos nos grupos TDF-TDF e PLBTDF (37,5% e 41,7%, respectivamente) sofreram seroconversão para anti-HBe durante a
+semana 192.
+Os dados da densidade mineral óssea (DMO) do Estudo GS-US-174-0115 estão
+resumidos na Tabela 8:
+Tabela 8: Avaliação da Densidade Mineral Óssea na Linha de Base, Semana 72 e 192
+Linha de Base
+TDFPLB-TDF
+−0.42
+-0.26
+(0.762) (0.806)
+
+Semana 72
+Semana 192
+TDF-TDF PLB-TDF TDF-TDF PLB-TDF
+-0.49
+-0.23
+-0.37
+-0.44
+(0.852)
+(0.893)
+(0.946)
+(0.920)
+
+Média da Coluna
+Lombar (DP)
+Pontuação Z da
+Média da coluna
+-0.06
+lombar (DP) em
+NA
+NA
+(0.320)
+relação à linha base
+da DMOa
+Média de todo o
+−0.19
+−0.23
+−0.36
+corpo (DP) Pontuação
+(1.110) (0.859)
+(1.077)
+Z da DMOa
+A alteração da média
+−0.16
+corporal total (SD) em NA
+NA
+(0.355)
+relação à linha Z da
+DMO da linha de
+DMO na coluna
+1.9%
+lombar com pelo
+NA
+NA
+(1
+menos 6% de
+indivíduo)
+reduçãob
+DMO
+do corpo inteiro
+NA
+0%
+com pelo menos 6% NA
+de diminuiçãob
+DMO média da
+NA
+NA
+5.14%
+coluna lombar %
+aumento
+DMO
+do corpo inteiro NA
+NA
+3.07%
+% de aumento
+NA = Não Aplicável
+a Pontuação Z da DMO não ajustada para altura e peso
+b Endpoint de segurança primário até semana 72
+
+0.10
+(0.378)
+
+0.02 (0.548)
+
+-0.10
+(0.543)
+
+−0.12
+(0.916)
+
+−0.38
+(0.934)
+
+−0.42
+(0.942)
+
+0.09
+(0.349)
+
+-0.16
+(0.521)
+
+-0.19
+(0.504)
+
+0%
+
+0%
+
+3.8%
+3.7%
+(2
+(2
+indivíduos) indivíduos)
+1.9%
+0%
+(1
+indivíduo)
+
+8.08%
+
+10.05%
+
+11.21%
+
+5.39%
+
+6.09%
+
+7.22%
+
+No estudo GS-US-174-0144, 89 doentes AgHBe negativos e AgHBe positivos com 2 a <
+12 anos, com hepatite B crónica foram tratados com 6,5 mg/kg de tenofovir disoproxil até
+uma dose máxima de 245 mg (n = 60) ou com placebo (n=29) uma vez por dia, durante
+48 semanas. Os doentes não deviam ter sido previamente tratados com tenofovir
+
+APROVADO EM
+21-09-2023
+INFARMED
+disoproxil, com ADN-VHB > 105 cópias/ml (~ 4,2 log10 UI/ml) e ALT > 1,5 × o limite
+superior do normal (ULN – Upper Limit of Normal) no momento do rastreio. Na semana
+48, 77% (46 de 60) dos doentes no grupo de tratamento de tenofovir disoproxil e 7% (2
+de 29) dos doentes no grupo do placebo tinham ADN-VHB < 400 cópias/ml (69 UI/ml).
+Sessenta e seis por cento (38 de 58) dos doentes no grupo de tenofovir disoproxil tinham
+uma ALT normalizada na semana 48 em comparação com 15% (4 de 27) dos doentes no
+grupo do placebo. Vinte e cinco por cento (14 de 56) dos doentes no grupo de tenofovir
+disoproxil e 24% (7 de 29) dos doentes no grupo do placebo atingiram seroconversão de
+AgHBe na semana 48.
+A resposta ao tratamento com tenofovir disoproxil foi comparável em doentes não
+previamente tratados e em doentes previamente tratados, sendo que 76% (38/50) dos
+doentes não previamente tratados e 80% (8/10) dos doentes previamente tratados
+alcançaram ADN-VHB < 400 cópias/ml (69 UI/ml) na semana 48. A resposta ao
+tratamento com tenofovir disoproxil também foi semelhante em doentes AgHBe
+negativos em comparação com os doentes AgHBe positivos no início do estudo,
+sendo que 77% (43/56) dos doentes AgHBe positivos e 75,0% (3/4) dos doentes AgHBe
+negativos alcançaram ADN-VHB < 400 cópias/ml (69 UI/ml) na semana 48. A
+distribuição de genótipos de VHB no início do estudo foi semelhante entre os grupos de
+TDF e placebo. A maioria dos doentes era
+genótipo C (43,8%) ou D (41,6%), com uma frequência inferior semelhante dos
+genótipos A e B (6,7% cada). Apenas 1 doente aleatorizado para o grupo de TDF era
+genótipo E no início do estudo. Globalmente, as respostas ao tratamento com tenofovir
+disoproxil foram semelhantes nos genótipos A, B, C e E [75% a 100% dos doentes
+alcançaram ADN-VHB < 400 cópias/ml (69 UI/ml) na semana 48], havendo uma taxa
+mais baixa de resposta em doentes com infeção do genótipo D (55%).
+Após, pelo menos, 48 semanas de tratamento aleatorizado em ocultação, cada
+participante podia mudar para tratamento com tenofovir disoproxil em regime aberto até
+à semana 192. Após a semana 48, a supressão virológica foi mantida para os participantes
+que receberam tenofovir disoproxil em dupla ocultação seguido de tenofovir disoproxil
+em regime aberto (grupo TDF-TDF): 83,3% (50/60) dos participantes no grupo TDFTDF tinham ADN-VHB < 400 cópias/ml (69 UI/ml) na semana 192. Entre os
+participantes que receberam placebo durante o período em dupla ocultação, a proporção
+de participantes com ADN-VHB < 400 cópias/ml aumentou acentuadamente após
+receberem tratamento com TDF em regime aberto (grupo PLB-TDF): 62,1% (18/29) dos
+participantes no grupo PLB-TDF) tinham ADN-VHB < 400 cópias/ml (69 UI/ml) na
+semana 192. A proporção de participantes com normalização da ALT na semana 192 nos
+grupos TDF-TDF e PLB-TDF foi de 79,3% e de 59,3%, respetivamente (baseado nos
+critérios do laboratório central). Percentagens semelhantes de participantes nos grupos
+TDF-TDF e PLB-TDF (33,9% e 34,5%, respetivamente) apresentaram seroconversão de
+AgHBe até à semana 192. Nenhum participante nos dois grupos de tratamento apresentou
+seroconversão de AgHBs até à semana 192. As taxas de resposta ao tratamento para o
+tenofovir disoproxil na semana 192 mantiveram-se para todos os genótipos A, B e C
+(80%-100%) no grupo TDF-TDF. Na semana 192 ainda era observada uma resposta
+
+APROVADO EM
+21-09-2023
+INFARMED
+inferior nos participantes com infeção pelo genótipo D (77%), mas com uma melhoria
+comparativamente aos resultados da semana 48 (55%).
+Os dados da densidade mineral óssea (DMO) do estudo GS-US-174-0144 estão
+resumidos na Tabela 9:
+Tabela 9: Avaliação Densidade Mineral Óssea, na Linha de Base e na semana 48 e na
+semana 192
+
+Média da
+Coluna
+Lombar
+(DP)
+Pontuação Z
+da DMOa
+Média da
+coluna
+lombar (DP)
+em relação à
+linha base da
+DMO
+Média de
+todo o corpo
+(DP)
+Pontuação
+Z da DMO
+A alteração
+da média
+corporal
+total (SD)
+em relação à
+linha Z da
+DMO da
+linha de base
+Incidência
+cumulativa
+de
+diminuição
+da DMO ≥
+4% da
+coluna
+lombar em
+relação aos
+
+Linha de Base
+TDF
+PLB
+-0,08
+-0,31
+(1,044)
+(1,200)
+
+Semana 48
+TDF-TDF
+-0.09
+(1.056)
+
+PLB-TDF
+-0.16
+(1.213)
+
+Semana 192
+TDF-TDF PLB-TDF
+-0.20
+-0.38
+(1.032)
+(1.344)
+
+NA
+
+NA
+
+-0.03
+(0.464)
+
+0.23
+(0.409)
+
+-0.15
+(0.661)
+
+0.21
+(0.812)
+
+-0.46
+(1.113)
+
+-0.34
+(1.468)
+
+-0.57
+(0.978)
+
+-0.05
+(1.360)
+
+-0.56
+(1.082)
+
+-0.31
+(1.418)
+
+NA
+
+NA
+
+−0.18
+(0.514)
+
+0.26
+(0.516)
+
+-0.18
+(1.020)
+
+0.38
+(0.934)
+
+NA
+
+NA
+
+18.3%
+
+6.9%
+
+18.3%
+
+6.9%
+
+APROVADO EM
+21-09-2023
+INFARMED
+valores
+basaisa
+Incidência
+cumulativa
+de
+diminuição
+da DMO ≥
+4% do corpo
+inteiro em
+relação aos
+valores
+basaisa
+DMO média
+da coluna
+lombar %
+aumentob
+DMO do
+corpo inteiro
+% de
+aumento
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+6.7%
+
+0%
+
+6.7%
+
+0%
+
+3.9%
+
+7.6%
+
+19.2%
+
+26.1%
+
+4.6%
+
+8.7%
+
+23.7%
+
+27.7%
+
+NA
+
+NA = Não aplicável
+a Ausência de participantes adicionais com diminuições da DMO ≥ 4% depois da semana
+48.
+A Agência Europeia do Medicamento diferiu a obrigação de apresentação dos resultados
+dos estudos com Tenofovir disoproxil em um ou mais subgrupos da população pediátrica
+na infeção pelo VIH e na hepatite B crónica (ver secção 4.2 para informação sobre
+utilização pediátrica).
+5.2
+
+Propriedades farmacocinéticas
+
+O tenofovir disoproxil fosfato é um pró-fármaco éster solúvel em água que é rapidamente
+convertido in vivo em tenofovir e formaldeído.
+O tenofovir é convertido intracelularmente em tenofovir monofosfato e no componente
+ativo, tenofovir difosfato.
+Absorção
+Após administração oral de tenofovir disoproxil a doentes infetados pelo VIH, o
+tenofovir disoproxil é rapidamente absorvido e convertido em tenofovir. A administração
+de doses múltiplas de tenofovir disoproxil com uma refeição a doentes infetados pelo
+VIH originou valores médios (%CV) para a Cmax, AUC0-∞, e Cmin de tenofovir de 326
+(36,6%) ng/ml, 3,324 (41,2%) ng·h/ml e 64,4 (39,4%) ng/ml, respetivamente. As
+concentrações séricas máximas de tenofovir são observadas cerca de uma hora após a
+
+APROVADO EM
+21-09-2023
+INFARMED
+administração em jejum e cerca de duas horas quando administrado com alimentos. A
+biodisponibilidade oral do tenofovir a partir do tenofovir disoproxil em doentes em jejum
+foi de, aproximadamente, 25%. A administração de tenofovir disoproxil com uma
+refeição rica em lípidos aumentou a biodisponibilidade oral, com um aumento da AUC
+do tenofovir em, aproximadamente, 40% e a Cmax em, aproximadamente,
+14%. Após a administração da primeira dose de tenofovir disoproxil a doentes que foram
+alimentados, a Cmax média no soro variou entre 213 e 375 ng/ml. No entanto, a
+administração de tenofovir disoproxil com uma refeição ligeira não teve um efeito
+significativo na farmacocinética do tenofovir.
+Distribuição
+Após a administração intravenosa o volume de distribuição de tenofovir no estado
+estacionário foi estimado em aproximadamente 800 ml/kg. Após administração oral de
+tenofovir disoproxil, o tenofovir é distribuído para a maioria dos tecidos com as
+concentrações mais elevadas nos rins, fígado e conteúdo intestinal (estudos pré-clínicos).
+A ligação, in vitro, do tenofovir às proteínas plasmáticas ou às proteínas séricas foi
+inferior a 0,7 e 7,2%, respetivamente, acima do intervalo de concentração de 0,01 a 25
+µg/ml.
+Biotransformação
+Os estudos in vitro determinaram que nem o tenofovir disoproxil nem o tenofovir são
+substratos para as enzimas do CYP450. Além do mais, em concentrações
+substancialmente mais elevadas (aproximadamente 300 vezes) do que as observadas in
+vivo, o tenofovir não inibiu in vitro o metabolismo de fármacos mediado por qualquer
+uma das principais isoformas humanas do CYP450 envolvidos na biotransformação de
+fármacos (CYP3A4, CYP2D6, CYP2C9, CYP2E1, ou CYP1A1/2). O tenofovir
+disoproxil, em concentrações de 100 µmol/l, não teve efeito em qualquer das isoformas
+do CYP450, exceto na CYP1A1/2, onde se observou uma pequena redução (6%), mas
+estatisticamente significativa no metabolismo do substrato do CYP1A1/2. Com base
+nestes dados, é pouco provável que ocorram interações clinicamente significativas que
+envolvam o tenofovir disoproxil e medicamentos metabolizados pelo CYP450.
+Eliminação
+Tenofovir é principalmente excretado pelos rins, tanto por filtração como pelo sistema de
+transporte tubular ativo com aproximadamente 70-80% da dose excretada sem alterações
+na urina após a administração intravenosa. A depuração total foi estimada em
+aproximadamente 230 ml/h/kg (aproximadamente 300 ml/min). A depuração renal foi
+estimada em aproximadamente 160 ml/h/kg (aproximadamente 210 ml/min), a qual
+excede a taxa de filtração glomerular. Isto indica que a secreção tubular ativa é uma parte
+importante da eliminação do tenofovir. Após a administração oral, a semivida final do
+tenofovir é aproximadamente de 12 a 18 horas.
+Estudos estabeleceram a via da secreção tubular ativa do tenofovir a ser reabsorvido para
+as células tubulares proximais através dos transportadores humanos de aniões orgânicos
+
+APROVADO EM
+21-09-2023
+INFARMED
+(hOAT) 1 e 3 e a secreção para a urina através da MRP 4 (MRP 4-multidrug resistant
+protein 4).
+Linearidade/não linearidade
+A farmacocinética do tenofovir mostrou ser independente da dose de tenofovir disoproxil
+dentro do intervalo de dose de 75 a 600 mg e não foi afetada pela dosagem repetida com
+qualquer nível de dose.
+Idade
+Não foram efetuados estudos farmacocinéticos em idosos (acima de 65 anos de idade).
+Sexo
+Dados limitados sobre a farmacocinética do tenofovir em mulheres não apontam para
+qualquer efeito importante relacionado com o sexo.
+Etnicidade
+A farmacocinética não foi especificamente estudada em diferentes grupos étnicos.
+População pediátrica
+VIH-1: A farmacocinética de tenofovir no estado estacionário foi avaliada em 8
+adolescentes (com 12 a < 18 anos de idade) infetados pelo VIH-1 com um peso corporal
+≥ 35 kg. A Cmax e a AUCtau médias (± DP) foram respetivamente de 0,38 ± 0,13 µg/ml
+e de 3,39 ± 1,22 µg·h/ml. A exposição ao tenofovir atingida em adolescentes que
+receberam doses diárias orais de 245 mg de tenofovir disoproxil foi semelhante às
+exposições atingidas em adultos que receberam doses diárias únicas de 245 mg de
+tenofovir disoproxil.
+Hepatite B crónica
+A exposição ao tenofovir no estado estacionário em adolescentes com infeção pelo VHB
+(com 12 a < 18 anos de idade) que receberam uma dose diária oral de 245 mg de
+tenofovir disoproxil foi semelhante às exposições atingidas em adultos que receberam
+doses diárias únicas de 245 mg de tenofovir disoproxil.
+A exposição ao tenofovir em doentes pediátricos infetados pelo VHB com 2 a < 12 anos
+de idade, que receberam uma dose diária oral de 6,5 mg de tenofovir disoproxil/kg de
+peso corporal (comprimidos ou granulado), até uma dose máxima de 245 mg, foi
+semelhante às exposições atingidas em doentes pediátricos infetados pelo VIH-1 com 2 a
+< 12 anos de idade que receberam uma dose diária única de 6,5 mg/kg de tenofovir
+disoproxil, até uma dose máxima de 245 mg.
+Não foram efetuados estudos farmacocinéticos com os comprimidos de 245 mg de
+tenofovir disoproxil em crianças com menos de 12 anos ou com compromisso renal.
+Compromisso renal
+
+APROVADO EM
+21-09-2023
+INFARMED
+Os parâmetros farmacocinéticos do tenofovir foram determinados após a administração
+de uma dose única de 245 mg de tenofovir disoproxil a 40 doentes adultos sem infeção
+pelo VIH ou VHB com graus variáveis de compromisso renal definido de acordo com os
+níveis basais de depuração da creatinina (ClCr) (função renal normal quando a ClCr > 80
+ml/min; compromisso renal ligeiro se ClCr = 50-79 ml/min; compromisso renal
+moderado se ClCr = 30-49 ml/min e compromisso renal grave se ClCr = 10-29 ml/min).
+Em comparação com doentes com função renal normal, a exposição média (%CV) ao
+tenofovir aumentou de 2.185 (12%) ng·h/ml em doentes com ClCr superior a 80 ml/min
+para 3.064 (30%) ng·h/ml, 6.009 (42%) ng·h/ml e 15.985 (45%) ng·h/ml em doentes com
+compromisso renal ligeiro, moderado e grave, respetivamente. Espera-se que as
+recomendações para ajuste de dose, em doentes com compromisso renal, com intervalos
+entre doses aumentados, resultem em picos de concentração plasmática superiores e
+níveis de Cmin inferiores nos doentes com compromisso renal em comparação com
+doentes com função renal normal. As suas implicações clínicas resultantes são
+desconhecidas.
+Em doentes com doença renal terminal (ClCr < 10 ml/min) necessitando de hemodiálise,
+as concentrações de tenofovir entre diálise aumentaram substancialmente durante 48
+horas atingindo uma Cmax média de 1.032 ng/ml e uma AUC0-48h média de 42.857
+ng·h/ml.
+Recomenda-se que o intervalo entre tomas de 245 mg de tenofovir disoproxil seja
+modificado em doentes adultos com depuração da creatinina inferior a 50 ml/min ou em
+doentes que já tenham doença renal terminal e necessitem de diálise (ver secção 4.2).
+Não foi avaliada a farmacocinética do tenofovir em doentes não hemodialisados e com
+depuração da creatinina inferior a 10 ml/min nem em doentes com doença renal terminal
+controlados por diálise peritoneal ou outra.
+A farmacocinética do tenofovir em doentes pediátricos com compromisso renal não foi
+avaliada. Não existem dados disponíveis para que sejam feitas recomendações
+posológicas (ver secções 4.2 e 4.4).
+Compromisso hepático
+Uma dose única de 245 mg de tenofovir disoproxil foi administrada a doentes adultos não
+infetados pelo VIH ou pelo VHB, com vários graus de compromisso hepático definidos
+de acordo com a classificação Child-Pugh-Turcotte (CPT). A farmacocinética do
+tenofovir não foi substancialmente alterada nos indivíduos com compromisso hepático
+sugerindo que não é necessário um ajuste da dose nestes indivíduos. Os valores médios
+(%CV) da Cmax e AUC0-∞ do tenofovir foram 223 (34,8%) ng/ml e 2.050 (50,8%)
+ng·h/ml, respetivamente, em indivíduos normais comparativamente com 289 (46,0%)
+ng/ml e 2.310 (43,5%) ng·h/ml em indivíduos com compromisso hepático moderado e
+305 (24,8%) ng/ml e 2.740 (44,0%) ng·h/ml em indivíduos com compromisso hepático
+grave.
+
+APROVADO EM
+21-09-2023
+INFARMED
+Farmacocinética intracelular
+Em células mononucleadas do sangue periférico humano (PBMCs) não-proliferativas, a
+semivida do tenofovir difosfato foi de aproximadamente 50 horas, enquanto que a
+semivida em PBMCs estimuladas com fito-hemaglutinina foi de aproximadamente 10
+horas.
+5.3
+
+Dados de segurança pré-clínica
+
+Os estudos não clínicos de farmacologia de segurança não revelam riscos especiais para o
+ser humano. Os estudos de toxicidade de dose repetida em ratos, cães e macacos sujeitos
+a níveis de exposição superiores ou análogos aos níveis de exposição clínica, e com
+eventual relevância para a utilização clínica, incluem toxicidade renal e óssea e uma
+diminuição na concentração sérica de fosfato. A toxicidade óssea foi diagnosticada como
+osteomalacia (macacos) e redução da densidade mineral óssea (DMO) (ratos e cães). A
+toxicidade óssea em ratos e cães adultos jovens ocorreu em exposições ≥ 5 vezes a
+exposição em doentes pediátricos ou adultos; a toxicidade óssea ocorreu em macacos
+jovens infetados em exposições muito elevadas após administração subcutânea (≥ 40
+vezes a exposição em doentes). As descobertas dos estudos realizados em ratos e em
+macacos indicam que houve uma diminuição na absorção intestinal de fosfato
+relacionada com a substância com potencial redução secundária na DMO.
+Os estudos de genotoxicidade revelaram resultados positivos no ensaio de célula de
+linfoma de ratinhos in vitro, resultados equívocos numa das estirpes usadas no teste de
+Ames e resultados fracamente positivos num teste de UDS em hepatócitos primários do
+rato. Contudo, os resultados foram negativos num ensaio de micronúcleo de medula óssea
+do ratinho in vivo.
+Os estudos de carcinogenicidade por via oral em ratos e ratinhos apenas revelaram uma
+baixa incidência de tumores duodenais numa dose extremamente alta em ratinhos. Estes
+tumores não são, provavelmente, relevantes para os humanos.
+Os estudos de toxicidade reprodutiva em ratos e coelhos não demonstraram alterações
+nos parâmetros de acasalamento, fertilidade, gravidez ou nos parâmetros fetais. No
+entanto, o tenofovir disoproxil reduziu o índice de viabilidade e o peso das crias em
+estudos de toxicidade peri- e pós-natal a doses tóxicas para o animal materno.
+Avaliação do Risco Ambiental (ARA)
+A substância ativa tenofovir disoproxil e os seus principais produtos de transformação
+são persistentes no ambiente.
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+APROVADO EM
+21-09-2023
+INFARMED
+Núcleo do comprimido
+Celulose microcristalina
+Lactose mono-hidratada
+Amido, pré-gelificado
+Óleo vegetal hidrogenado
+Lauril sulfato de sódio
+Película de revestimento
+Álcool polivinílico parcialmente hidrolisado (E1203)
+Dióxido de titânio (E171)
+Macrogol (E1521)
+Talco (E553b)
+Laca de alumínio de carmim de indigo (E132)
+Ácido carmínico (E120)
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+2 anos.
+6.4
+
+Precauções especiais de conservação
+
+Este medicamento não necessita de quaisquer precauções especiais de conservação.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Blisters de Alu-Alu: 30, 30x1, 90 e 90x1 comprimidos, 10x1 comprimidos (embalagem
+hospitalar).
+Frasco de polietileno de alta densidade (HDPE) com um fecho de polipropileno resistente
+à abertura por crianças com um ou dois exsicantes, contendo 30 comprimidos e 90
+comprimidos (3 x 30).
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+APROVADO EM
+21-09-2023
+INFARMED
+Teva Pharma – Produtos Farmacêuticos Lda.
+Lagoas Park, Edifício 5-A, Piso 2,
+2740-245 Porto Salvo,
+Portugal
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+N.º de registo: 5659115 - Blister de 30 unidades
+N.º de registo: 5659107- Blister de 30 unidades
+N.º de registo: 5659131- Frasco de 30 unidades
+N.º de registo: 5659123- Frasco de 30 unidades
+
+9.
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO
+DEINTRODUÇÃO NO MERCADO
+Data da primeira autorização: 10 de agosto de 2015Data da última renovação: 17 de maio
+de 2020
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+

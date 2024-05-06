@@ -1,0 +1,4970 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal
+Temodal
+Temodal
+Temodal
+Temodal
+Temodal
+
+2.
+
+5 mg cápsulas
+20 mg cápsulas
+100 mg cápsulas
+140 mg cápsulas
+180 mg cápsulas
+250 mg cápsulas
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+5 mg cápsulas
+Cada cápsula contém 5 mg de temozolomida (temozolomide).
+Excipiente(s) com efeito conhecido:
+Cada cápsula contém 132,8 mg de lactose anidra.
+20 mg cápsulas
+Cada cápsula contém 20 mg de temozolomida (temozolomide).
+Excipiente(s) com efeito conhecido:
+Cada cápsula contém 182,2 mg de lactose anidra.
+100 mg cápsulas
+Cada cápsula contém 100 mg de temozolomida (temozolomide).
+Excipiente(s) com efeito conhecido:
+Cada cápsula contém 175,7 mg de lactose anidra.
+140 mg cápsulas
+Cada cápsula contém 140 mg de temozolomida (temozolomide).
+Excipiente(s) com efeito conhecido:
+Cada cápsula contém 246 mg de lactose anidra.
+180 mg cápsulas
+Cada cápsula contém 180 mg de temozolomida (temozolomide).
+Excipiente(s) com efeito conhecido:
+Cada cápsula contém 316,3 mg de lactose anidra.
+250 mg cápsulas
+Cada cápsula contém 250 mg de temozolomida (temozolomide).
+Excipiente(s) com efeito conhecido:
+Cada cápsula contém 154,3 mg de lactose anidra.
+Lista completa de excipientes, ver secção 6.1.
+
+2
+
+3.
+
+FORMA FARMACÊUTICA
+
+5 mg cápsula
+As cápsulas têm um corpo branco opaco, uma cabeça verde opaca e são impressas com tinta preta. A
+cabeça é impressa com “TEMODAL”. O corpo é impresso com “5 mg”, o logotipo Schering-Plough e
+duas riscas.
+20 mg cápsula
+As cápsulas têm um corpo branco opaco, uma cabeça amarela opaca e são impressas com tinta preta.
+A cabeça é impressa com “TEMODAL”. O corpo é impresso com “20 mg”, o logotipo
+Schering-Plough e duas riscas.
+100 mg cápsula
+As cápsulas têm um corpo branco opaco, uma cabeça cor-de-rosa opaca e são impressas com tinta
+preta. A cabeça é impressa com “TEMODAL”. O corpo é impresso com “100 mg”, o logotipo
+Schering-Plough e duas riscas.
+140 mg cápsula
+As cápsulas têm um corpo branco opaco, uma cabeça azul e são impressas com tinta preta. A cabeça é
+
+impressa com “TEMODAL”. O corpo é impresso com “140 mg”, o logotipo Schering-Plough e duas
+riscas.
+180 mg cápsula
+As cápsulas têm um corpo branco opaco, uma cabeça laranja opaca e são impressas com tinta preta. A
+cabeça é impressa com “TEMODAL”. O corpo é impresso com “180 mg”, o logotipo Schering-Plough
+e duas riscas.
+250 mg cápsula
+As cápsulas têm um corpo e uma cabeça brancos opacos e são impressas com tinta preta. A cabeça é
+
+impressa com “TEMODAL”. O corpo é impresso com “250 mg”, o logotipo Schering-Plough e duas
+riscas.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Temodal é indicado para o tratamento de:
+doentes adultos com glioblastoma multiforme recentemente diagnosticado, concomitantemente
+com radioterapia (RT) e, subsequentemente, como tratamento em monoterapia
+crianças a partir dos três anos, adolescentes e doentes adultos com glioma maligno, tal como
+glioblastoma multiforme ou astrocitoma anaplásico, que demonstre progressão ou recorrência
+após uma terapêutica padrão.
+
+4.2
+
+Posologia e modo de administração
+
+Temodal deve apenas ser receitado por médicos com experiência no tratamento oncológico de tumores
+cerebrais.
+Pode ser administrada terapêutica antiemética (ver secção 4.4).
+
+3
+
+Posologia
+Doentes adultos com glioblastoma multiforme recentemente diagnosticado
+Temodal é administrado em conjunto com radioterapia focal (fase concomitante), seguindo-se até
+6 ciclos de temozolomida (TMZ) em monoterapia (fase de monoterapia).
+Fase concomitante
+A TMZ é administrada por via oral numa dose diária de 75 mg/m2 durante 42 dias concomitantemente
+com radioterapia focal (60 Gy administrados em 30 frações). Não se recomendam reduções de dose,
+mas deverá ser decidido semanalmente o atraso ou a suspensão da administração de TMZ, de acordo
+com critérios de toxicidade hematológicos e não hematológicos. A administração de TMZ pode ser
+prolongada para além do período concomitante de 42 dias (até um máximo de 49 dias) desde que as
+seguintes condições sejam cumpridas:
+
+−
+−
+−
+
+contagem absoluta de neutrófilos (ANC) ≥1,5 x 109/l
+número de plaquetas  100 x 109/l
+critérios comuns de toxicidade (CCT) - toxicidade não hematológica ≤ Grau 1 (exceto para
+
+alopecia, náuseas e vómitos).
+Durante o tratamento deve ser obtida semanalmente uma contagem sanguínea completa. A
+administração de TMZ deve ser interrompida temporariamente ou suspensa permanentemente durante
+a fase concomitante de acordo com os critérios de toxicidade hematológicos e não hematológicos, tal
+como referido na Tabela 1.
+Tabela 1. Interrupção ou suspensão da administração de TMZ durante a fase
+concomitante com radioterapia e TMZ
+Interrupção da TMZa
+
+Toxicidade
+Contagem absoluta de neutrófilos
+Número de plaquetas
+CCT - toxicidade não hematológica
+(exceto para alopecia, náuseas,
+vómitos)
+a:
+
+Suspensão da TMZ
+
+ 0,5 e < 1,5 x 109/l
+ 10 e < 100 x 109/l
+
+< 0,5 x 109/l
+
+CCT Grau 2
+
+CCT Grau 3 ou 4
+
+< 10 x 109/l
+
+O tratamento com TMZ concomitante pode ser retomado quando todas as seguintes condições forem
+cumpridas: contagem absoluta de neutrófilos
+toxicidade não hematológica
+
+ 1,5 x 109/l; número de plaquetas  100 x 109/l; CCT -
+
+ Grau 1 (exceto para alopecia, náuseas, vómitos).
+
+Fase de monoterapia
+Quatro semanas após completar a fase concomitante de TMZ + RT, a TMZ é administrada durante um
+período de até 6 ciclos de tratamento em monoterapia. A dose no Ciclo 1 (monoterapia) é de
+150 mg/m2 uma vez por dia durante 5 dias, seguindo-se 23 dias sem tratamento. No início do Ciclo 2 a
+dose é aumentada para 200 mg/m2 desde que a CCT - toxicidade não hematológica para o Ciclo 1 seja
+de Grau ≤ 2 (exceto para alopecia, náuseas, vómitos), a contagem absoluta de neutrófilos (ANC) seja
+
+ 1,5 x 109/l e o número absoluto de plaquetas seja  100 x 109/l. Se a dose não foi aumentada no
+Ciclo 2, não deverá sê-lo nos ciclos subsequentes. Uma vez aumentada, a dose permanece nos
+200 mg/m2 diários durante os 5 dias iniciais de cada ciclo subsequente, exceto se ocorrer toxicidade.
+As reduções da dose e suspensões da administração durante a fase de monoterapia devem ser aplicadas
+de acordo com as Tabelas 2 e 3.
+Durante o tratamento deve ser obtida uma contagem sanguínea completa no Dia 22 (21 dias após a
+administração da primeira dose de TMZ). A dose deve ser reduzida ou a administração suspensa de
+acordo com a Tabela 3.
+Tabela 2. Níveis posológicos de TMZ para o tratamento em monoterapia
+Nível
+posológico
+
+–1
+
+Dose TMZ
+(mg/m2/dia)
+100
+
+Observações
+Redução por toxicidade anterior
+4
+
+0
+
+150
+
+Dose durante o Ciclo 1
+
+1
+
+200
+
+Dose durante os Ciclos 2-6 na ausência de toxicidade
+
+Tabela 3. Redução da dose ou suspensão da administração de TMZ durante o
+tratamento em monoterapia
+Toxicidade
+
+Reduzir a TMZ em 1 nível
+posológicoa
+
+Suspender a TMZ
+
+Contagem absoluta de neutrófilos
+
+< 1,0 x 109/l
+
+Ver nota de rodapé
+b
+
+Número de plaquetas
+
+< 50 x 109/l
+
+Ver nota de rodapé
+b
+
+CCT - Toxicidade não hematológica
+(exceto
+para
+alopecia,
+náuseas,
+vómitos)
+
+CCT Grau 3
+
+CCT Grau 4b
+
+a:
+b:
+
+•
+•
+
+Os níveis posológicos de TMZ encontram-se listados na Tabela 2.
+A TMZ deve ser suspensa se:
+o nível de dose -1 (100 mg/m2) ainda provoca toxicidade inaceitável
+o mesmo Grau 3 de toxicidade não hematológica (exceto para alopecia, náuseas, vómitos) recorre após a
+redução da dose.
+
+Doentes adultos e pediátricos com 3 anos de idade ou mais, com glioma maligno recorrente ou
+progressivo:
+Cada ciclo de tratamento tem a duração de 28 dias. Em doentes não submetidos, anteriormente, a
+quimioterapia, a TMZ é administrada por via oral numa dose de 200 mg/m2, uma vez por dia, durante
+os 5 dias iniciais, seguindo-se uma interrupção do tratamento durante 23 dias (total de 28 dias). Em
+doentes submetidos, previamente, a quimioterapia, a dose inicial é de 150 mg/m2, uma vez por dia, que
+será aumentada no segundo ciclo para 200 mg/m2, uma vez por dia, durante 5 dias, no caso de não
+existir toxicidade hematológica (ver secção 4.4).
+Populações especiais
+População pediátrica
+Em doentes com 3 anos de idade ou mais, a TMZ só deve ser utilizada no glioma maligno recorrente
+ou progressivo. A experiência nestas crianças é muito limitada (ver secções 4.4 e 5.1). A segurança e
+eficácia de TMZ em crianças com idade inferior a 3 anos não foram ainda estabelecidas. Não existem
+dados disponíveis.
+Doentes com compromisso renal ou hepático
+A farmacocinética da TMZ foi comparável em doentes com função hepática normal e em doentes com
+compromisso hepático ligeiro a moderado. Não existem dados disponíveis acerca da administração de
+TMZ em doentes com compromisso hepático grave (Classe C de Child) ou com compromisso renal.
+Com base nas propriedades farmacocinéticas da TMZ, é improvável que seja necessário reduzir a dose
+em doentes com compromisso hepático grave ou com qualquer nível de compromisso renal. No
+entanto, deve haver prudência quando a TMZ é administrada a estes doentes.
+Doentes idosos
+Com base numa análise farmacocinética populacional de doentes com idades entre os 19 e os 78 anos,
+a depuração de TMZ não é afetada pela idade. No entanto, os doentes idosos (> 70 anos de idade)
+parecem correr um risco mais elevado de neutropenia e trombocitopenia (ver secção 4.4).
+Modo de administração
+Temodal cápsulas deverá ser administrado em jejum.
+
+5
+
+As cápsulas devem ser deglutidas inteiras com um copo de água, não devendo ser abertas ou
+mastigadas.
+Se ocorrerem vómitos após a administração de uma dose, não deve ser administrada uma segunda dose
+nesse mesmo dia.
+
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Hipersensibilidade à dacarbazina (DTIC).
+Mielossupressão grave (ver secção 4.4).
+
+4.4
+
+Advertências e precauções especiais de utilização
+
+Infeções oportunistas e reativação de infeções
+Foram observadas infeções oportunistas (tais como pneumonia por Pneumocystis jirovecii) e
+reativação de infeções (tais como HBV, CMV) durante o tratamento com TMZ (ver secção 4.8).
+Meningoencefalite herpética
+Em casos pós-comercialização foi observada meningoencefalite herpética (incluindo casos fatais) em
+doentes que receberam TMZ em associação com radioterapia, incluindo casos de administração
+concomitante de esteroides.
+Pneumonia por Pneumocytis jirovecii
+Observou-se que doentes que receberam TMZ e RT concomitante num ensaio principal durante o
+período alargado de 42 dias estavam particularmente em risco de desenvolvimento de pneumonia por
+Pneumocystis jirovecii (PCP). Consequentemente, é necessária profilaxia contra a PCP em todos os
+doentes que recebem TMZ e RT concomitante durante o regime de 42 dias (com um máximo de
+49 dias) independentemente da contagem linfocitária que apresentem. Se ocorrer linfopenia, os
+doentes devem continuar a profilaxia até recuperação da linfopenia para um grau ≤ 1.
+Pode existir uma maior ocorrência de PCP quando a TMZ é administrada durante um regime
+posológico mais prolongado. No entanto, todos os doentes que recebem TMZ, particularmente doentes
+que recebam esteroides, devem ser cuidadosamente observados para deteção do desenvolvimento de
+PCP independentemente do regime. Foram notificados casos de falência respiratória fatal em doentes
+que recebem TMZ, particularmente em associação com dexametasona ou outros esteroides.
+HBV
+Foi notificada hepatite causada pela reativação do vírus da hepatite B (HBV) que, em alguns casos,
+resultou em morte. Devem ser consultados especialistas em doença hepática antes de se iniciar o
+tratamento em doentes com serologia positiva para a hepatite B (incluindo aqueles com doença ativa).
+Durante o tratamento os doentes devem ser monitorizados e tratados apropriadamente.
+Hepatotoxicidade
+Em doentes tratados com TMZ tem sido notificada lesão hepática, incluindo insuficiência hepática
+fatal (ver secção 4.8). Devem ser realizados testes à função hepática basal antes do início do
+tratamento. Se os resultados forem anormais, o médico assistente deve avaliar o risco/benefício antes
+do início do tratamento com temozolomida, incluindo o potencial para insuficiência hepática fatal.
+Para doentes em ciclos de tratamento de 42 dias, os testes à função hepática devem ser repetidos a
+meio deste ciclo. Para todos os doentes, os testes à função hepática devem ser avaliados no fim de
+6
+
+cada ciclo de tratamento. Para doentes com alterações significativas da função hepática, o médico
+assistente deve avaliar o risco/benefício da continuação do tratamento. A toxicidade hepática pode
+ocorrer algumas semanas ou mais, após o último tratamento com temozolomida.
+Neoplasias
+Casos de síndrome mielodisplásica e neoplasias secundárias, incluindo leucemia mieloide, têm sido
+notificados muito raramente (ver secção 4.8).
+Terapêutica antiemética
+As náuseas e os vómitos estão muito frequentemente associados à TMZ.
+A terapêutica antiemética pode ser administrada antes ou após a administração de TMZ.
+Doentes adultos com glioblastoma multiforme recentemente diagnosticado
+Recomenda-se profilaxia antiemética antes da dose inicial da fase concomitante, e é fortemente
+recomendada durante a fase de monoterapia.
+Doentes com glioma maligno recorrente ou progressivo
+Os doentes que sofreram emese grave (Grau 3 ou 4) em ciclos de tratamento anteriores poderão
+necessitar de uma terapêutica antiemética.
+Parâmetros laboratoriais
+Doentes tratados com TMZ podem sofrer mielossupressão, incluindo pancitopenia prolongada que
+pode resultar em anemia aplástica que, em alguns casos, pode ter um resultado fatal. Em alguns casos,
+a exposição concomitante a medicamentos associados à anemia aplástica, incluindo carbamazepina,
+fenitoína e sulfametoxazol/trimetoprim, complica a avaliação. Antes de administrar o medicamento,
+devem ser satisfeitos os seguintes parâmetros laboratoriais: ANC
+
+ 1,5 x 109/l e número de plaquetas
+
+ 100 x 109/l. Deve efetuar-se uma contagem sanguínea completa no Dia 22 (21 dias após a
+administração da primeira dose) ou no período de 48 horas após aquele dia e, semanalmente, até o
+ANC > 1,5 x 109/l e o número de plaquetas > 100 x 109/l. Se o ANC descer para < 1,0 x 109/l ou o
+número de plaquetas for < 50 x 109/l, durante qualquer ciclo, deve reduzir-se um nível posológico no
+ciclo seguinte (ver secção 4.2). Os níveis posológicos correspondem a 100 mg/m2, 150 mg/m2 e
+200 mg/m2. A dose mínima recomendada é de 100 mg/m2.
+População pediátrica
+Não existe experiência clínica sobre a utilização de TMZ em crianças com menos de 3 anos de idade.
+A experiência em crianças mais velhas e adolescentes é muito limitada (ver secções 4.2 e 5.1).
+Doentes idosos (> 70 anos de idade)
+Os doentes idosos apresentam, provavelmente, um maior risco de sofrer neutropenia e
+trombocitopenia em comparação com os doentes mais jovens. Assim, devem tomar-se medidas de
+precaução especiais quando TMZ for administrado a doentes idosos.
+Doentes do sexo feminino
+Mulheres com potencial para engravidar têm de utilizar um método contracetivo eficaz para evitar a
+gravidez durante o tratamento com TMZ e pelo menos durante 6 meses após a conclusão do
+tratamento.
+
+7
+
+Doentes do sexo masculino
+Os homens que estão a ser medicados com TMZ devem ser aconselhados a não ter filhos durante um
+período de pelo menos 3 meses após receberem a última dose e a obterem informações sobre
+crioconservação de esperma antes do início do tratamento (ver secção 4.6).
+Lactose
+Este medicamento contém lactose. Doentes com problemas hereditários raros de intolerância à
+galactose, deficiência total de lactase ou malabsorção de glucose-galactose não devem tomar este
+medicamento.
+Sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por cápsula ou seja, é praticamente
+“isento de sódio”.
+
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Num estudo separado, de fase I, a administração de TMZ com ranitidina não provocou alterações no
+grau de absorção de temozolomida ou na exposição ao seu metabolito ativo, a monometil
+triazenoimidazol carboxamida (MTIC).
+A administração de TMZ com alimentos provocou uma diminuição de 33 % da Cmax e uma diminuição
+de 9 % da área sob a curva (AUC).
+Uma vez que não se pode excluir que a alteração da C max é clinicamente significativa, Temodal deve
+ser administrado sem alimentos.
+Com base numa análise farmacocinética da população nos ensaios de fase II, a depuração de TMZ não
+foi alterada pela administração concomitante de dexametasona, procloroperazina, fenitoína,
+carbamazepina, ondansetron, antagonistas dos recetores H2 ou fenobarbital. A administração
+concomitante de ácido valpróico esteve associada a uma pequena, mas estatisticamente significativa,
+diminuição da depuração da TMZ.
+Não foram ainda realizados estudos para determinar o efeito da TMZ no metabolismo ou eliminação
+de outros fármacos. No entanto, uma vez que a TMZ não é metabolizada pelo fígado e apresenta uma
+fraca ligação às proteínas, é pouco provável que afete a farmacocinética de outros medicamentos (ver
+secção 5.2).
+A utilização de TMZ em associação com outros fármacos mielossupressores poderá aumentar a
+possibilidade de ocorrer mielossupressão.
+População pediátrica
+Os estudos de interação só foram realizados em adultos.
+
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+Não existem dados na mulher grávida. Nos estudos pré-clínicos efetuados no rato e coelho tratados
+com 150 mg/m2 de TMZ, foi demonstrada teratogenicidade e/ou toxicidade fetal (ver secção 5.3).
+Temodal não deverá ser administrado a mulheres grávidas. Se a utilização durante a gravidez tiver de
+ser considerada, a doente deve ser informada acerca dos potenciais riscos para o feto.
+
+8
+
+Amamentação
+Desconhece-se se a TMZ é excretada no leite humano; portanto, a amamentação deve ser
+descontinuada durante o tratamento com TMZ.
+Mulheres com potencial para engravidar
+As mulheres com potencial para engravidar têm de utilizar um método contracetivo eficaz para evitar a
+gravidez durante o tratamento com TMZ e pelo menos durante 6 meses após a conclusão do
+tratamento.
+Fertilidade masculina
+A TMZ poderá ter efeitos genotóxicos. Nestas circunstâncias, os homens que estão a ser medicados
+com TMZ devem utilizar um método contracetivo eficaz e ser aconselhados a não terem filhos por um
+período de pelo menos 3 meses após receberem a última dose e a obterem informações sobre a
+crioconservação do esperma antes do início da terapêutica, dada a possibilidade de virem a sofrer de
+infertilidade irreversível devido ao tratamento com TMZ.
+
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de TMZ sobre a capacidade de conduzir e utilizar máquinas são reduzidos devido à
+ocorrência de fadiga e sonolência (ver secção 4.8).
+
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Experiência em ensaios clínicos
+Em doentes tratados com TMZ em ensaios clínicos, as reações adversas mais frequentes foram
+náuseas, vómito, obstipação, anorexia, cefaleia, fadiga, convulsões e erupção cutânea. A maioria das
+reações adversas hematológicas notificadas foram frequentes; a frequência de resultados laboratoriais
+de Grau 3-4 é apresentada a seguir à Tabela 4.
+Para doentes com glioma em progressão ou recorrente, as náuseas (43%) e vómito (36%) foram
+geralmente de Grau 1 ou 2 (0-5 episódios de vómito em 24 horas) e foram autolimitadas ou facilmente
+controláveis com a terapêutica antiemética convencional. A incidência de náuseas e vómito graves foi
+de 4%.
+Lista tabelada de reações adversas
+As reações adversas observadas em estudos clínicos e notificadas na utilização pós-comercialização
+com a TMZ estão listadas na Tabela 4. Estas reações são classificadas de acordo com a Classe de
+Sistema de Órgãos e frequência. Os grupos de frequência são definidos segundo a seguinte convenção:
+Muito frequentes (≥ 1/10); Frequentes (≥ 1/100, < 1/10); Pouco Frequentes (≥ 1/1.000, < 1/100); Raros
+(≥1/10.000, <1/1.000); Muito raros (<1/10.000); Desconhecido (não pode ser calculado a partir dos
+dados disponíveis). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade,
+dentro de cada classe de frequência.
+Tabela 4. Reações adversas nos doentes tratados com a temozolomida
+
+Infeções e infestações
+Frequentes:
+
+Infeções, herpes zoster, faringitea, candidíase oral
+
+9
+
+Tabela 4. Reações adversas nos doentes tratados com a temozolomida
+Pouco frequentes:
+
+Infeção oportunista (incluindo PCP), sepsia†,
+meningoencefalite herpética†, infeção por CMV,
+reativação da infeção por CMV, vírus da hepatite B†,
+herpes simplex, reativação da infeção, infeção de ferida,
+gastroenteriteb
+
+Neoplasias benignas, malignas e não especificadas
+Pouco frequentes:
+
+Síndroma mielodisplásica (MDS), neoplasias
+secundárias, incluindo leucemia mielóide
+
+Doenças do sangue e do sistema linfático
+Frequentes:
+
+Neutropenia febril, neutropenia, trombocitopenia,
+linfopenia, leucopenia, anemia
+
+Pouco frequentes:
+
+Pancitopenia prolongada, anemia aplástica†,
+pancitopenia, petéquias
+
+Doenças do Sistema imunitário
+Frequentes:
+
+Reação alérgica
+
+Pouco frequentes:
+
+Anafilaxia
+
+Doenças endócrinas
+Frequentes:
+
+Cushingóidec
+
+Pouco frequentes:
+
+Diabetes insípida
+
+Doenças do metabolismo e da nutrição
+Muito frequentes:
+
+Anorexia
+
+Frequentes:
+
+Hiperglicemia
+
+Pouco frequentes:
+
+Hipocaliemia, fosfatase alcalina aumentada
+
+Perturbações do foro psiquiátrico
+Frequentes:
+
+Agitação, amnésia, depressão, ansiedade, confusão,
+insónia
+
+Pouco frequentes:
+
+Perturbação comportamental, labilidade emocional,
+alucinações, apatia
+
+Doenças do sistema nervoso
+Muito frequentes:
+
+Convulsões, hemiparesia, afasia/disfasia, cefaleia
+
+Frequentes:
+
+Ataxia, equilíbrio alterado, alterações na cognição,
+concentração alterada, estado de consciência diminuída,
+tonturas, hipoestesia, alteração da memória, lesão
+neurológica, neuropatiad, parestesia, sonolência,
+deficiência da fala, perversão do paladar, tremor
+
+Pouco frequentes:
+
+Estado epilético, hemiplegia, afeção extrapiramidal,
+parosmia, alterações da marcha, hiperestesia,
+perturbação sensorial, alteração da coordenação
+
+Afeções oculares
+Frequentes:
+
+Hemianopsia, visão turva, afeções visuaise, defeito do
+campo visual, diplopia, dor ocular
+
+Pouco frequentes:
+
+Redução da acuidade visual, olhos secos
+
+Afeções do ouvido e do labirinto
+Frequentes:
+
+Surdez f, vertigens, acufenos, dor de ouvidosg
+
+Pouco frequentes:
+
+Perturbações auditivas, hipersensibilidade sonora, otite
+média
+
+10
+
+Tabela 4. Reações adversas nos doentes tratados com a temozolomida
+
+Cardiopatias
+Pouco frequentes:
+
+Palpitações
+
+Vasculopatias
+Frequentes:
+
+Hemorragia, embolismo pulmonar, trombose venosa
+profunda, hipertensão
+
+Pouco frequentes:
+
+Hemorragia cerebral, rubor, afrontamentos
+
+Doenças respiratórias, torácicas e do mediastino
+Frequentes:
+
+Pneumonia, dispneia, sinusite, bronquite, tosse, infeção
+do trato respiratório superior
+
+Pouco frequentes:
+
+Insuficiência respiratória†, pneumonite
+intersticial/pneumonite, fibrose pulmonar, congestão
+nasal
+
+Doenças gastrointestinais
+Muito frequentes:
+
+Diarreia, obstipação, náuseas, vómito
+
+Frequentes:
+
+Estomatite, dor abdominalh, dispepsia, disfagia
+
+Pouco frequentes:
+
+Distensão abdominal, incontinência fecal, doenças
+gastrointestinais, hemorroidas, xerostomia
+
+Afeções hepatobiliares
+Pouco frequentes:
+
+Insuficiência hepática†, lesão hepática, hepatite,
+colestase, hiperbilirrubinemia
+
+Afeções dos tecidos cutâneos e subcutâneos
+Muito frequentes:
+
+Erupção cutânea, alopecia
+
+Frequentes:
+
+Eritema, xerose cutânea, prurido
+
+Pouco frequentes:
+
+Necrólise epidérmica tóxica, síndrome de
+Stevens-Johnson, angiedema, eritema multiforme,
+eritrodermite, exfoliação cutânea, reação de
+fotossensibilidade, urticária, exantema, dermatite,
+aumento da sudorese, alteração da pigmentação
+
+Desconhecido:
+
+Reação medicamentosa com eosinofilia e sintomas
+sistémicos (DRESS)
+
+Afeções musculosqueléticas e dos tecidos conjuntivos
+Frequentes:
+
+Miopatia, fraqueza muscular, artralgia, dorsalgia, dor
+musculosquelética, mialgia
+
+Doenças renais e urinárias
+Frequentes:
+
+Polaquiúria, incontinência urinária
+
+Pouco frequentes:
+
+Disúria
+
+Doenças dos órgãos genitais e da mama
+Pouco frequentes:
+
+Hemorragia vaginal, menorragia, amenorreia, vaginite,
+dor mamária, impotência
+
+Perturbações gerais e alterações no local de administração
+Muito frequentes:
+
+Fadiga
+
+Frequentes:
+
+Febre, sintomas tipo gripe, astenia, mal-estar geral, dor,
+edema, edema periféricoi
+
+Pouco frequentes:
+
+Quadro patológico agravado, arrepios, edema da face,
+descoloração da língua, sede, anomalia dentária
+
+11
+
+Tabela 4. Reações adversas nos doentes tratados com a temozolomida
+
+Exames complementares de diagnóstico
+Frequentes:
+
+Aumento das enzimas hepáticasj, diminuição do peso,
+aumento de peso
+
+Pouco frequentes:
+
+Aumento da Gama-glutamiltransferase
+
+Complicações de intervenções relacionadas com lesões e intoxicações
+Frequentes:
+
+Lesão por radiaçãok
+
+a
+
+Inclui faringite, faringite nasofaríngica, faringite estreptocócica
+Inclui gastroenterite, gastroenterite viral
+c
+Inclui cushingóide, síndroma de Cushing
+d
+Inclui neuropatia, neuropatia periférica, polineuropatia, neuropatia periférica sensorial, neuropatia periférica motora
+e
+Inclui insuficiência visual, distúrbios oculares
+f
+Inclui surdez, surdez bilateral, surdez neurossensorial, surdez unilateral
+g
+Inclui dor de ouvidos, desconforto no ouvido
+h
+Inclui dor abdominal, dor abdominal inferior, dor abdominal superior, desconforto abdominal
+i
+Inclui edema periférico, inchaço periférico
+j
+Inclui teste da função hepática aumentada, alanina aminotransferase aumentada, aspartato aminotransferase aumentado,
+enzimas hepáticas aumentadas
+k
+Inclui lesão por radiação, lesão cutânea por radiação
+†
+Inclui casos com resultado fatal
+b
+
+Glioblastoma multiforme recentemente diagnosticado
+Resultados laboratoriais
+Foi observada mielossupressão (neutropenia e trombocitopenia) que é uma conhecida toxicidade
+limitadora de dose para a maioria dos agentes citotóxicos, incluindo TMZ. Quando as alterações
+laboratoriais e os acontecimentos adversos foram combinados cruzando as fases de tratamento
+concomitante e de monoterapia, foram observadas em 8 % dos doentes alterações de Grau 3 ou Grau 4
+nos neutrófilos, incluindo acontecimentos neutropénicos. Em 14 % dos doentes a receber TMZ foram
+observadas alterações de Grau 3 ou Grau 4 nas plaquetas, incluindo acontecimentos
+trombocitopénicos.
+Glioma maligno recorrente ou progressivo
+Resultados laboratoriais
+Ocorreram trombocitopenia e neutropenia de Graus 3 ou 4 em 19 % e 17 %, respetivamente, dos
+doentes tratados por glioma maligno. Este facto levou à hospitalização e/ou interrupção do tratamento
+com TMZ em 8 % e 4 %, respetivamente. A ocorrência de mielossupressão era previsível
+(normalmente nos primeiros ciclos, com um valor mais baixo entre o Dia 21 e o Dia 28),
+verificando-se uma recuperação rápida, habitualmente no período de 1-2 semanas. Não foram
+observados sinais de mielossupressão cumulativa. A presença de trombocitopenia pode aumentar o
+risco de hemorragia, e a presença de neutropenia ou leucopenia pode aumentar o risco de infeção.
+Género
+Numa análise de farmacocinética da população de ensaios clínicos existiam 101 mulheres e
+169 homens com o nadir da contagem de neutrófilos disponível e 110 mulheres e 174 homens com o
+nadir da contagem de plaquetas disponível. Foram encontradas em mulheres vs. homens maiores taxas
+de neutropenia de Grau 4 (ANC < 0,5 x 109/l), 12 % vs. 5 %, e de trombocitopenia (< 20 x 109/l), 9 %
+vs. 3 % em mulheres vs. homens, no primeiro ciclo de tratamento. Num conjunto de dados de
+400 indivíduos com glioma recorrente, ocorreu neutropenia de Grau 4 em 8 % das mulheres vs. 4 %
+dos homens e trombocitopenia de Grau 4 em 8 % das mulheres vs. 3 % dos homens no primeiro ciclo
+de tratamento. Num estudo de 288 indivíduos com glioblastoma multiforme recentemente
+diagnosticado, ocorreu neutropenia de Grau 4 em 3 % das mulheres vs. 0 % dos homens e
+trombocitopenia de Grau 4 em 1 % das mulheres vs. 0 % dos homens no primeiro ciclo de tratamento.
+
+12
+
+População pediátrica
+TMZ oral foi estudado em doentes pediátricos (3-18 anos de idade) com glioma recorrente do tronco
+cerebral ou astrocitoma de grau alto recorrente, num regime de administração diário durante 5 dias, a
+cada 28 dias. Embora os dados sejam limitados, a tolerância esperada em crianças é semelhante à
+verificada nos adultos. A segurança de TMZ em crianças com idade inferior a 3 anos não foi
+estabelecida.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+
+4.9
+
+Sobredosagem
+
+Foram avaliadas, clinicamente, em doentes doses de 500, 750, 1.000 e 1.250 mg/m2 (dose total por
+ciclo durante 5 dias). A toxicidade limitante da dose foi hematológica e foi notificada com qualquer
+dose, embora se espere que assuma maior gravidade com doses mais elevadas. Um doente tomou uma
+sobredosagem de 10.000 mg (dose total num ciclo único, durante 5 dias), e as reações adversas
+notificadas foram pancitopenia, pirexia, falência multiorgânica e morte. Existem notificações de
+doentes que tomaram a dose recomendada por mais de 5 dias de tratamento (até 64 dias) com
+acontecimentos adversos notificados que incluem supressão da medula óssea, com ou sem infeção,
+nalguns casos grave e prolongada e resultando em morte. Em caso de sobredosagem, é necessária
+avaliação hematológica. Devem ser fornecidas medidas de suporte de acordo com as necessidades.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Agentes antineoplásicos
+código ATC: L01A X03
+
+– Outros agentes alquilantes,
+
+Mecanismo de ação
+A temozolomida é um fármaco triazeno, que sofre uma rápida conversão química, a um pH
+fisiológico, no ativo monometil triazenoimidazol carboxamida (MTIC). Pensa-se que a citotoxicidade
+da MTIC seja atribuída, principalmente, à alquilação na posição O6 da guanina, verificando-se também
+alquilação adicional na posição N7. Considera-se que as lesões citotóxicas que surgem
+subsequentemente envolvem a reparação aberrante da adução metilo.
+Eficácia e segurança clínicas
+Glioblastoma multiforme recentemente diagnosticado
+Um total de 573 doentes foram aleatorizados para receber TMZ + RT (n=287) ou RT isoladamente
+(n=286). Os doentes no braço de TMZ + RT receberam TMZ concomitante (75 mg/m2) uma vez por
+dia, com início no primeiro dia de RT até ao último dia de RT, durante 42 dias (com um máximo de
+49 dias). Seguiu-se TMZ em monoterapia (150 – 200 mg/m2) nos Dias 1 – 5 de cada ciclo de 28 dias,
+por um período de até 6 ciclos, com início 4 semanas após o final da RT. Os doentes no braço de
+controlo receberam apenas RT. Foi necessária profilaxia contra a pneumonia por Pneumocystis
+jirovecii (PCP) durante a terapêutica combinada de RT e TMZ.
+A TMZ foi administrada como terapêutica de último recurso na fase de seguimento em 161 dos
+282 doentes (57 %) no braço da RT isolada, e em 62 dos 277 doentes (22 %) no braço de TMZ + RT.
+
+13
+
+A taxa de risco (RR) para a sobrevida global foi de 1,59 (IC 95 % para um RR=1,33 – 1,91), com um
+posto logarítmico p < 0,0001 a favor do braço de TMZ. A probabilidade estimada de sobrevida
+durante 2 ou mais anos (26 % vs. 10 %) é superior no braço de RT + TMZ. A adição de TMZ
+concomitante à RT, seguindo-se TMZ em monoterapia, no tratamento de doentes com glioblastoma
+multiforme recentemente diagnosticado demonstrou uma melhoria estatisticamente significativa da
+sobrevida global (OS) em comparação com a RT isoladamente (Figura 1).
+
+Figura 1
+
+Curvas Kaplan-Meier para a sobrevida global (população em Intenção de Tratar)
+
+Os resultados do ensaio não foram consistentes no subgrupo de doentes com um nível de desempenho
+baixo (WHO PS=2, n=70), nos quais a sobrevivência global e o intervalo de tempo até à progressão
+foram semelhantes nos dois braços. No entanto, neste grupo de doentes não parecem existir riscos
+inaceitáveis.
+Glioma maligno recorrente ou progressivo
+Os dados relativos à eficácia clínica, obtidos em doentes com glioblastoma multiforme (Karnofsky
+nível de desempenho KPS  70), de tipo progressivo ou recorrente, após intervenção cirúrgica e RT,
+fundamentaram-se em dois ensaios clínicos com TMZ oral. Um dos estudos consistiu num ensaio não
+comparativo realizado em 138 doentes (29 % dos quais previamente submetidos a quimioterapia),
+enquanto que o outro correspondeu a um ensaio ativo controlado, de referência, com distribuição
+aleatória, sobre a TMZ vs. procarbazina, realizado num total de 225 doentes (67 % dos quais
+submetidos a um tratamento de quimioterapia prévio à base de nitrosureias). Em qualquer um destes
+ensaios, foi utilizada, como parâmetro de avaliação final primário, a sobrevida sem progressão (PFS),
+definida com base em RMNs ou no agravamento neurológico. No ensaio não comparativo, a PFS aos
+6 meses era de 19 %, com uma mediana da sobrevida sem progressão de 2,1 meses e uma mediana da
+sobrevida global de 5,4 meses. A taxa de resposta objetiva (ORR) com base em RMNs ascendeu a
+8 %.
+No ensaio ativo controlado com distribuição aleatória, a PFS aos 6 meses foi significativamente maior
+com a TMZ do que com a procarbazina (21 % vs. 8 %, respetivamente – p = 0,008, Qui-quadrado),
+sendo a mediana da PFS de 2,89 e 1,88 meses, respetivamente (p = 0,0063, postos logarítmicos). A
+mediana da sobrevida foi de 7,34 e 5,66 meses para a TMZ e para a procarbazina, respetivamente
+(p = 0,33, postos logarítmicos). Decorridos 6 meses, a percentagem dos doentes sobreviventes no ramo
+da TMZ foi significativamente maior (60 %) do que no ramo da procarbazina (44 %) (p = 0,019,
+Qui-quadrado). Nos doentes previamente submetidos a quimioterapia foi demonstrado um benefício
+
+nos que apresentavam um KPS ≥ 80.
+Os dados relativos ao intervalo de tempo decorrido até ao agravamento do perfil neurológico
+demonstraram ser favoráveis à TMZ, quando comparada com a procarbazina; esta tendência foi
+igualmente observada no intervalo de tempo decorrido até ao agravamento do nível de desempenho
+
+14
+
+(redução até um KPS < 70 ou redução de, pelo menos, 30 pontos). As medianas dos intervalos de
+tempo até à progressão destes parâmetros de avaliação final foram entre 0,7 e 2,1 meses mais
+prolongadas com a TMZ do que com a procarbazina (p = < 0,01 a 0,03, postos logarítmicos).
+Astrocitoma anaplásico recorrente
+Num ensaio de fase II multicêntrico prospetivo, em que se procedeu à avaliação da segurança e
+eficácia da TMZ oral no tratamento de doentes com primeira recidiva de astrocitoma anaplásico, a
+PFS aos 6 meses foi de 46 %. A mediana da PFS foi de 5,4 meses. A mediana da sobrevida global foi
+de 14,6 meses. A taxa de resposta, baseada na avaliação do revisor central, foi de 35 % (13 RC e
+42 RP) na população com intenção de tratar (ITT) n=162. Registaram-se 43 respostas mantidas. A
+sobrevida livre de doença aos 6 meses, na população com ITT, foi de 44 %, registando-se uma
+mediana de 4,6 meses, semelhante aos resultados obtidos na sobrevida sem progressão. No que se
+refere à população elegível com base na histologia, obtiveram-se resultados semelhantes em termos de
+eficácia. A documentação radiológica de uma resposta positiva ou a não progressão da doença esteve
+fortemente associada a melhoria ou manutenção da qualidade de vida.
+População pediátrica
+A TMZ oral foi estudada em doentes pediátricos (idade entre os 3 e os 18 anos) com glioma recorrente
+do tronco cerebral ou astrocitoma de grau alto recorrente, num regime de administração diária durante
+5 dias a cada 28 dias. A tolerância à TMZ é semelhante à dos adultos.
+
+5.2
+
+Propriedades farmacocinéticas
+
+A TMZ é espontaneamente hidrolisada ao pH fisiológico, principalmente na sua espécie ativa,
+3-metil-(triazeno-1-il)imidazol-4-carboxamida (MTIC). A MTIC é espontaneamente hidrolisada em
+5-amino-imidazol-4-carboxamida (AIC), um conhecido intermediário na biossíntese de purina e ácido
+nucleico, e em metil-hidrazina, que se pensa ser a espécie ativa alquilante. Pensa-se que a
+citotoxicidade da MTIC se deve principalmente à alquilação do ADN maioritariamente nas posições
+O6 e N7 da guanina. A exposição à MTIC e à AIC é, respetivamente, de ~2,4 % e 23 %, em relação à
+AUC da temozolomida. In vivo, o t1/2 da MTIC foi semelhante ao da temozolomida, 1,8 h.
+Absorção
+Após a administração oral a doentes adultos, a TMZ é absorvida rapidamente, atingindo concentrações
+máximas nos primeiros 20 minutos pós-administração (tempos médios compreendidos entre 0,5 e
+1,5 horas). Após a administração oral de TMZ radiomarcada com 14C, a excreção fecal média de 14C,
+no período de 7 dias pós-administração, foi de 0,8 %, indicando uma absorção completa.
+Distribuição
+A TMZ apresenta uma fraca ligação às proteínas (10 % a 20 %), não sendo, portanto, previsível que
+interatue com substâncias com elevada ligação às proteínas.
+Os estudos PET realizados no ser humano e os dados pré-clinicos sugerem que a TMZ atravessa
+rapidamente a barreira hemato-encefálica e é detetada no líquido cefalorraquidiano (LCR). A
+penetração no LCR foi confirmada num doente; a exposição do LCR, baseada na AUC da TMZ, foi
+cerca de 30 % da registada no plasma, a qual é consistente com os dados dos estudos realizados em
+animais.
+Eliminação
+A semivida plasmática (t1/2) é de, aproximadamente, 1,8 horas. A mais importante via de eliminação
+de 14C é renal. Após a administração oral, cerca de 5 % a 10 % da dose é recuperada na urina, sob a
+forma inalterada, no período de 24 horas, sendo o restante excretado sob a forma de ácido
+temozolomídico, 5-aminoimidazol-4-carboxamida (AIC) ou de metabolitos polares não identificados.
+15
+
+As concentrações plasmáticas aumentam em função da dose administrada. A depuração plasmática, o
+volume de distribuição e a semivida são independentes da dose.
+Populações especiais
+A análise dos parâmetros farmacocinéticos da TMZ, com base na população, revelou que a depuração
+da TMZ plasmática foi independente da idade, da função renal ou do consumo de tabaco. Num estudo
+farmacocinético separado, os níveis farmacocinéticos plasmáticos de doentes com compromisso
+hepático ligeiro a moderado foram semelhantes aos observados em doentes com função hepática
+normal.
+Os doentes pediátricos apresentaram uma AUC mais elevada que os doentes adultos; a dose máxima
+tolerada (MTD) foi, no entanto, de 1.000 mg/m2 por ciclo, tanto na criança como no adulto.
+
+5.3
+
+Dados de segurança pré-clínica
+
+Foram realizados estudos de toxicidade de ciclo único (administração durante 5 dias, 23 dias sem
+tratamento), de 3 e 6 ciclos, no rato e no cão. Os alvos primários de toxicidade incluíram a medula
+óssea, o sistema linfo-reticular, os testículos e o aparelho gastrointestinal, e, em doses superiores, as
+quais foram letais para 60 % a 100 % dos ratos e cães testados, ocorreu degeneração da retina. A
+maioria da toxicidade demonstrou ser reversível, exceto no que se refere aos efeitos adversos no
+sistema reprodutor masculino e à degeneração da retina. No entanto, uma vez que as doses implicadas
+na degeneração da retina se situavam num nível letal, e que não foram observados efeitos comparáveis
+em estudos clínicos, estes resultados não foram considerados clinicamente relevantes.
+A TMZ é um agente alquilante embriotóxico, teratogénico e genotóxico. A TMZ é mais tóxica
+para o rato e cão do que para o homem, e a dose terapêutica aproxima-se da dose mínima letal
+no cão e no rato. A redução dos leucócitos e plaquetas relacionada com a dose, parece ser um
+indicador sensível de toxicidade. Foi descrita uma variedade de neoplasias, incluindo
+carcinomas da mama, queratoacantoma da pele e adenoma das células basais, no estudo de
+6 ciclos no rato, não tendo sido observados quaisquer tumores ou lesões pré-neoplásicas nos
+estudos realizados no cão. Os ratos pareceram ser particularmente sensíveis aos efeitos
+oncogénicos da TMZ, ocorrendo o primeiro tumor 3 meses após o início do tratamento. Este
+período de latência é muito curto, mesmo para um agente alquilante.
+Os resultados obtidos no teste de Ames/Salmonella e no teste de aberração cromossómica realizado
+em Linfócitos do Sangue Periférico Humano (HPBL) revelaram uma resposta positiva de
+mutagenicidade.
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+5 mg cápsulas
+Conteúdo da cápsula:
+lactose anidra,
+sílica coloidal anidra,
+glicolato de amido sódico tipo A,
+ácido tartárico,
+ácido esteárico.
+Invólucro da cápsula:
+gelatina,
+dióxido de titânio (E 171),
+laurilsulfato de sódio,
+óxido de ferro amarelo (E 172),
+16
+
+carmim de índigo (E 132).
+Impressão:
+goma laca,
+propilenoglicol (E 1520),
+água purificada,
+hidróxido de amónio,
+hidróxido de potássio,
+óxido de ferro preto (E 172).
+20 mg cápsulas
+Conteúdo da cápsula:
+lactose anidra,
+sílica coloidal anidra,
+glicolato de amido sódico tipo A,
+ácido tartárico,
+ácido esteárico.
+Invólucro da cápsula:
+gelatina,
+dióxido de titânio (E 171),
+laurilsulfato de sódio,
+óxido de ferro amarelo (E 172).
+Impressão:
+goma laca,
+propilenoglicol (E 1520),
+água purificada,
+hidróxido de amónio,
+hidróxido de potássio,
+óxido de ferro preto (E 172).
+100 mg cápsulas
+Conteúdo da cápsula:
+lactose anidra,
+sílica coloidal anidra,
+glicolato de amido sódico tipo A,
+ácido tartárico,
+ácido esteárico.
+Invólucro da cápsula:
+gelatina,
+dióxido de titânio (E 171),
+laurilsulfato de sódio,
+óxido vermelho de ferro (E 172).
+Impressão:
+goma laca,
+propilenoglicol (E 1520),
+água purificada,
+hidróxido de amónio,
+hidróxido de potássio,
+óxido de ferro preto (E 172).
+140 mg cápsulas
+Conteúdo da cápsula:
+lactose anidra,
+17
+
+sílica coloidal anidra,
+glicolato de amido sódico tipo A,
+ácido tartárico,
+ácido esteárico.
+Invólucro da cápsula:
+gelatina,
+dióxido de titânio (E 171),
+laurilsulfato de sódio,
+carmim de índigo (E 132).
+Impressão:
+goma laca,
+propilenoglicol (E 1520),
+água purificada,
+hidróxido de amónio,
+hidróxido de potássio,
+óxido de ferro preto (E 172).
+180 mg cápsulas
+Conteúdo da cápsula:
+lactose anidra,
+sílica coloidal anidra,
+glicolato de amido sódico tipo A,
+ácido tartárico,
+ácido esteárico.
+Invólucro da cápsula:
+gelatina,
+dióxido de titânio (E 171),
+laurilsulfato de sódio,
+óxido de ferro amarelo (E 172),
+óxido vermelho de ferro (E 172).
+Impressão:
+goma laca,
+propilenoglicol (E 1520),
+água purificada,
+hidróxido de amónio,
+hidróxido de potássio,
+óxido de ferro preto (E 172).
+250 mg cápsulas
+Conteúdo da cápsula:
+lactose anidra,
+sílica coloidal anidra,
+glicolato de amido sódico tipo A,
+ácido tartárico,
+ácido esteárico.
+Invólucro da cápsula:
+gelatina,
+dióxido de titânio (E 171),
+laurilsulfato de sódio.
+Impressão:
+goma laca,
+18
+
+propilenoglicol (E 1520),
+água purificada,
+hidróxido de amónio,
+hidróxido de potássio,
+óxido de ferro preto (E 172).
+
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+
+6.3
+
+Prazo de validade
+
+3 anos
+
+6.4
+
+Precauções especiais de conservação
+
+Não conservar acima de 30ºC.
+
+6.5
+
+Natureza e conteúdo do recipiente
+
+As saquetas são compostas por polietileno linear de baixa densidade (camada interior), alumínio e
+tereftalato de polietileno.
+Cada saqueta contém 1 cápsula e é dispensada numa cartonagem de cartão.
+A embalagem contém 5 ou 20 cápsulas, seladas individualmente em saquetas.
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+As cápsulas não devem ser abertas. No caso de uma cápsula se danificar, o contacto do seu conteúdo
+em pó com a pele ou com as mucosas deve ser evitado. Em caso de Temodal entrar em contacto com a
+pele ou as mucosas, deverá lavar imediata e meticulosamente com água e sabão.
+Os doentes devem ser aconselhados a manter as cápsulas fora do alcance e da vista das crianças, de
+preferência num armário fechado. A ingestão acidental pode ser letal para as crianças.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+5 mg cápsulas
+EU/1/98/096/024
+EU/1/98/096/025
+20 mg cápsulas
+EU/1/98/096/013
+19
+
+EU/1/98/096/014
+100 mg cápsulas
+EU/1/98/096/015
+EU/1/98/096/016
+140 mg cápsulas
+EU/1/98/096/017
+EU/1/98/096/018
+180 mg cápsulas
+EU/1/98/096/019
+EU/1/98/096/020
+250 mg cápsulas
+EU/1/98/096/021
+EU/1/98/096/022
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 26 de janeiro de 1999
+Data da última renovação: 17 de dezembro de 2008
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos (EMA) http://www.ema.europa.eu.
+
+20
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal 2,5 mg/ml pó para solução para perfusão.
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada frasco para injetáveis contém 100 mg de temozolomida.
+Após a reconstituição, 1 ml de solução para perfusão contém 2,5 mg de temozolomida.
+Excipiente(s) com efeito conhecido:
+Cada frasco para injetáveis contém 55,2 mg de sódio.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Pó para solução para perfusão.
+Pó branco.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Temodal é indicado para o tratamento de:
+doentes adultos com glioblastoma multiforme recentemente diagnosticado, concomitantemente
+com radioterapia (RT) e, subsequentemente, como tratamento em monoterapia
+crianças a partir dos três anos, adolescentes e doentes adultos com glioma maligno, tal como
+glioblastoma multiforme ou astrocitoma anaplásico, que demonstre progressão ou recorrência
+após uma terapêutica padrão.
+
+4.2
+
+Posologia e modo de administração
+
+Temodal deve apenas ser receitado por médicos com experiência no tratamento oncológico de tumores
+cerebrais.
+Pode ser administrada terapêutica antiemética (ver secção 4.4).
+Posologia
+Doentes adultos com glioblastoma multiforme recentemente diagnosticado
+Temodal é administrado em conjunto com radioterapia focal (fase concomitante), seguindo-se até
+6 ciclos de temozolomida (TMZ) em monoterapia (fase de monoterapia).
+Fase concomitante
+A TMZ é administrada numa dose diária de 75 mg/m2 durante 42 dias concomitantemente com
+radioterapia focal (60 Gy administrados em 30 frações). Não se recomendam reduções de dose, mas
+deverá ser decidido semanalmente o atraso ou a suspensão da administração de TMZ, de acordo com
+critérios de toxicidade hematológicos e não hematológicos.
+A administração de TMZ pode ser prolongada para além do período concomitante de 42 dias (até um
+máximo de 49 dias) desde que as seguintes condições sejam cumpridas:
+contagem absoluta de neutrófilos (ANC) ≥1,5 x 109/l
+21
+
+número de plaquetas  100 x 109/l
+critérios comuns de toxicidade (CCT) - toxicidade não hematológica ≤ Grau 1 (exceto para
+alopecia, náuseas e vómitos).
+Durante o tratamento deve ser obtida semanalmente uma contagem sanguínea completa. A
+administração de TMZ deve ser interrompida ou suspensa durante a fase concomitante de acordo com
+os critérios de toxicidade hematológicos e não hematológicos, tal como referido na Tabela 1.
+-
+
+Tabela 1. Interrupção ou suspensão da administração de TMZ durante a fase
+concomitante com radioterapia e TMZ
+Interrupção da TMZa
+
+Toxicidade
+
+Suspensão da TMZ
+
+Número de plaquetas
+
+ 0,5 e < 1,5 x 10 /l
+ 10 e < 100 x 109/l
+
+< 0,5 x 109/l
+
+CCT - toxicidade não hematológica
+(exceto para alopecia, náuseas,
+vómitos)
+
+CCT Grau 2
+
+CCT Grau 3 ou 4
+
+Contagem absoluta de neutrófilos
+
+a:
+
+9
+
+< 10 x 109/l
+
+O tratamento com TMZ concomitante pode ser retomado quando todas as seguintes condições forem
+
+ 1,5 x 109/l; número de plaquetas  100 x 109/l; CCT  Grau 1 (exceto para alopecia, náuseas, vómitos).
+
+cumpridas: contagem absoluta de neutrófilos
+toxicidade não hematológica
+
+Fase de monoterapia
+Quatro semanas após completar a fase concomitante de TMZ + RT, a TMZ é administrada durante um
+período de até 6 ciclos de tratamento em monoterapia. A dose no Ciclo 1 (monoterapia) é de
+150 mg/m2 uma vez por dia durante 5 dias, seguindo-se 23 dias sem tratamento. No início do Ciclo 2 a
+dose é aumentada para 200 mg/m2 desde que a CCT - toxicidade não hematológica para o Ciclo 1 seja
+de Grau ≤ 2 (exceto para alopecia, náuseas, vómitos), a contagem absoluta de neutrófilos (ANC) seja
+
+ 1,5 x 109/l e o número absoluto de plaquetas seja  100 x 109/l. Se a dose não foi aumentada no
+Ciclo 2, não deverá sê-lo nos ciclos subsequentes. Uma vez aumentada, a dose permanece nos
+200 mg/m2 diários durante os 5 dias iniciais de cada ciclo subsequente, exceto se ocorrer toxicidade.
+As reduções da dose e suspensões da administração durante a fase de monoterapia devem ser aplicadas
+de acordo com as Tabelas 2 e 3.
+Durante o tratamento deve ser obtida uma contagem sanguínea completa no Dia 22 (21 dias após a
+administração da primeira dose de TMZ). A dose deve ser reduzida ou suspensa de acordo com a
+Tabela 3.
+Tabela 2. Níveis posológicos de TMZ para o tratamento em monoterapia
+Nível
+Posológico
+
+Dose de TMZ
+(mg/m2/dia)
+
+Observações
+
+–1
+
+100
+
+Redução por toxicidade anterior
+
+0
+
+150
+
+Dose durante o Ciclo 1
+
+1
+
+200
+
+Dose durante os Ciclos 2-6 na ausência de toxicidade
+
+22
+
+Tabela 3. Redução da dose ou suspensão da administração de TMZ durante o tratamento em
+monoterapia
+Toxicidade
+
+Reduzir a TMZ em 1 nível
+posológicoa
+
+Suspender a TMZ
+
+Contagem absoluta de neutrófilos
+
+< 1,0 x 109/l
+
+Ver nota de rodapé
+b
+
+Número de plaquetas
+
+< 50 x 109/l
+
+Ver nota de rodapé
+b
+
+CCT - toxicidade Não Hematológica
+(exceto
+para
+alopecia,
+náuseas,
+vómitos)
+
+CCT Grau 3
+
+CCT Grau 4b
+
+a:
+b:
+
+•
+•
+
+Os níveis posológicos de TMZ encontram-se listados na Tabela 2.
+A TMZ deve ser suspensa se:
+o nível de dose -1 (100 mg/m2) ainda provoca toxicidade inaceitável
+o mesmo Grau 3 de toxicidade não hematológica (exceto para alopecia, náuseas, vómitos) recorre após a
+redução da dose.
+
+Doentes adultos e pediátricos com 3 ou mais anos de idade, com glioma maligno recorrente ou
+progressivo:
+Cada ciclo de tratamento tem a duração de 28 dias. Em doentes não submetidos, anteriormente, a
+quimioterapia, a TMZ é administrada numa dose de 200 mg/m2, uma vez por dia, durante os 5 dias
+iniciais, seguindo-se uma interrupção do tratamento durante 23 dias (total de 28 dias). Em doentes
+submetidos, previamente, a quimioterapia, a dose inicial é de 150 mg/m2, uma vez por dia, que será
+aumentada no segundo ciclo para 200 mg/m2, uma vez por dia, durante 5 dias, no caso de não existir
+toxicidade hematológica (ver secção 4.4).
+Populações especiais
+População pediátrica
+Em doentes com 3 ou mais anos de idade, a TMZ só deve ser utilizada no glioma maligno recorrente
+ou progressivo. A experiência nestas crianças é muito limitada (ver secções 4.4 e 5.1). A segurança e
+eficácia de TMZ em crianças com idade inferior a 3 anos não foram ainda estabelecidas. Não existem
+dados disponíveis.
+Doentes com compromisso renal ou hepático
+A farmacocinética da TMZ foi comparável em doentes com função hepática normal e em doentes com
+compromisso hepático ligeiro a moderado. Não existem dados disponíveis acerca da administração de
+TMZ em doentes com compromisso hepático grave (Classe C de Child) ou com compromisso renal.
+Com base nas propriedades farmacocinéticas da TMZ, é improvável que seja necessário reduzir a dose
+em doentes com compromisso hepático grave ou com qualquer nível de compromisso renal. No
+entanto, deve haver prudência quando a TMZ é administrada a estes doentes.
+Doentes idosos
+Com base numa análise farmacocinética populacional em doentes com idades entre os 19 e os 78 anos,
+a depuração de TMZ não é afetada pela idade. No entanto, os doentes idosos (> 70 anos de idade)
+parecem correr um risco mais elevado de neutropenia e trombocitopenia (ver secção 4.4).
+Modo de administração
+Temodal 2,5 mg/ml pó para solução para perfusão destina-se a ser administrado apenas por perfusão
+intravenosa. Não pode ser administrado por outras via de administração, tais como a via intratecal,
+intramuscular ou subcutânea. Temodal 2,5 mg/ml pó para solução para perfusão pode ser administrado
+na mesma linha IV com Cloreto de Sódio 0,9% injetável. É incompatível com soluções de dextrose.
+
+23
+
+A dose adequada de TMZ deve ser perfundida por via intravenosa utilizando uma bomba perfusora,
+durante um período de 90 minutos.
+Tal como com outros agentes quimioterapêuticos semelhantes, recomenda-se precaução para evitar a
+extravasão. Foram notificadas reações adversas no local de administração, as quais foram na sua
+maioria ligeiras e de pouca duração, em doentes a receber Temodal 2,5 mg/ml pó para solução para
+perfusão. Os estudos pré-clínicos não demonstraram dano permanente dos tecidos (ver secções 4.8 e
+5.3).
+Temodal também está disponível sob a formulação de cápsulas (via oral). O Temodal 2,5 mg/ml pó
+para solução para perfusão, administrado por perfusão intravenosa ao longo de 90 minutos, é
+bioequivalente à formulação de cápsulas (ver secção 5.2).
+
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Hipersensibilidade à dacarbazina (DTIC).
+Mielossupressão grave (ver secção 4.4).
+
+4.4
+
+Advertências e precauções especiais de utilização
+
+Infeções oportunistas e reativação de infeções
+Foram observadas infeções oportunistas (tais como pneumonia por Pneumocystis jirovecii) e
+reativação de infeções (tais como HBV, CMV) durante o tratamento com TMZ (ver secção 4.8).
+Meningoencefalite herpética
+Em casos pós-comercialização foi observada meningoencefalite herpética (incluindo casos fatais) em
+doentes que receberam TMZ em associação com radioterapia, incluindo casos de administração
+concomitante de esteroides.
+Pneumonia por Pneumocytis jirovecii
+Observou-se que doentes que receberam TMZ e RT concomitante num ensaio principal, durante o
+período alargado de 42 dias estavam particularmente em risco de desenvolvimento de pneumonia por
+Pneumocystis jirovecii (PCP). Consequentemente, é necessária profilaxia contra a PCP em todos os
+doentes que recebem TMZ e RT concomitante durante o regime de 42 dias (com um máximo de
+49 dias) independentemente da contagem linfocitária que apresentem. Se ocorrer linfopenia, os
+doentes devem continuar a profilaxia até recuperação da linfopenia para um grau ≤ 1.
+Pode existir uma maior ocorrência de PCP quando a TMZ é administrada durante um regime
+posológico mais prolongado. No entanto, todos os doentes que recebem TMZ, particularmente doentes
+que recebam esteroides, devem ser cuidadosamente observados para deteção do desenvolvimento de
+PCP independentemente do regime. Foram notificados casos de falência respiratória fatal em doentes
+que recebem TMZ, particularmente em associação com dexametasona ou outros esteroides.
+HBV
+Foi notificada hepatite causada pela reativação do vírus da hepatite B (HBV) que, em alguns casos,
+resultou em morte. Devem ser consultados especialistas em doença hepática antes de se iniciar o
+tratamento em doentes com serologia positiva para a hepatite B (incluindo aqueles com doença ativa).
+Durante o tratamento os doentes devem ser monitorizados e tratados apropriadamente.
+
+24
+
+Hepatotoxicidade
+Em doentes tratados com TMZ tem sido notificada lesão hepática, incluindo insuficiência hepática
+fatal (ver secção 4.8). Devem ser realizados testes à função hepática basal antes do início do
+tratamento. Se os resultados forem anormais, o médico assistente deve avaliar o risco/benefício antes
+do início do tratamento com temozolomida, incluindo o potencial para insuficiência hepática fatal.
+Para doentes em ciclos de tratamento de 42 dias, os testes à função hepática devem ser repetidos a
+meio deste ciclo. Para todos os doentes, os testes à função hepática devem ser avaliados no fim de
+cada ciclo de tratamento. Para doentes com alterações significativas da função hepática, o médico
+assistente deve avaliar o risco/benefício da continuação do tratamento. A toxicidade hepática pode
+ocorrer algumas semanas ou mais, após o último tratamento com temozolomida.
+Neoplasias
+Casos de síndrome mielodisplásica ou neoplasias secundárias, incluindo leucemia mieloide, têm sido
+notificados muito raramente (ver secção 4.8).
+Terapêutica antiemética
+As náuseas e os vómitos estão muito frequentemente associados à TMZ.
+A terapêutica antiemética pode ser administrada antes ou após a administração de TMZ.
+Doentes adultos com glioblastoma multiforme recentemente diagnosticado
+Recomenda-se profilaxia antiemética antes da dose inicial da fase concomitante, e é fortemente
+recomendada durante a fase de monoterapia.
+Doentes com glioma maligno recorrente ou progressivo
+Os doentes que sofreram emese grave (Grau 3 ou 4) em ciclos de tratamento anteriores poderão
+necessitar de uma terapêutica antiemética.
+Parâmetros laboratoriais
+Doentes tratados com TMZ podem sofrer mielossupressão, incluindo pancitopenia prolongada que
+pode resultar em anemia aplástica que, em alguns casos, pode ter um resultado fatal. Em alguns casos,
+a exposição concomitante a medicamentos associados à anemia aplástica, incluindo carbamazepina,
+fenitoína e sulfametoxazol/trimetoprim, complica a avaliação. Antes de administrar o medicamento,
+devem ser satisfeitos os seguintes parâmetros laboratoriais: ANC
+
+ 100 x 10
+
+ 1,5 x 109/l e número de plaquetas
+
+9
+
+/l. Deve efetuar-se uma contagem sanguínea completa no Dia 22 (21 dias após a
+administração da primeira dose) ou no período de 48 horas após aquele dia e, semanalmente, até o
+ANC ser superior a 1,5 x 109/l e o número de plaquetas exceder 100 x 109/l. Se o ANC descer para
+< 1,0 x 109/l ou o número de plaquetas for < 50 x 109/l, durante qualquer ciclo, deve reduzir-se um
+nível posológico no ciclo seguinte (ver secção 4.2). Os níveis posológicos correspondem a 100 mg/m2,
+150 mg/m2 e 200 mg/m2. A dose mínima recomendada é de 100 mg/m2.
+População pediátrica
+Não existe experiência clínica sobre a utilização de TMZ em crianças com menos de 3 anos de idade.
+A experiência em crianças mais velhas e adolescentes é muito limitada (ver secções 4.2 e 5.1).
+
+Doentes idosos (> 70 anos de idade)
+Os doentes idosos apresentam um maior risco de sofrer neutropenia e trombocitopenia em comparação
+com os doentes mais jovens. Assim, devem tomar-se medidas de precaução especiais quando a TMZ
+for administrada a doentes idosos.
+
+25
+
+Doentes do sexo feminino
+Mulheres com potencial para engravidar têm de utilizar um método contracetivo eficaz para evitar a
+gravidez durante o tratamento com TMZ e pelo menos durante 6 meses após a conclusão do
+tratamento.
+Doentes do sexo masculino
+Os homens que estão a ser medicados com TMZ devem ser aconselhados a não ter filhos durante um
+período de pelo menos 3 meses após receberem a última dose e a obterem informações sobre
+crioconservação de esperma antes do início do tratamento (ver secção 4.6).
+Sódio
+Este medicamento contém 55,2 mg de sódio por frasco para injetáveis, equivalente a 2,8 % da ingestão
+diária máxima recomendada pela OMS de 2 g de sódio para um adulto. Este facto deve ser tido em
+consideração pelos doentes que se encontrem numa dieta controlada de sódio.
+
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Num estudo separado, de fase I, a administração de TMZ com ranitidina não provocou alterações no
+grau de absorção de temozolomida ou na exposição ao seu metabolito ativo, a monometil
+triazenoimidazol carboxamida (MTIC).
+Com base numa análise farmacocinética da população observada nos ensaios de fase II, a depuração
+da TMZ não foi alterada pela administração concomitante de dexametasona, procloroperazina,
+fenitoína, carbamazepina, ondansetron, antagonistas dos recetores H2 ou fenobarbital. A administração
+concomitante de ácido valpróico esteve associada a uma pequena, mas estatisticamente significativa,
+diminuição da depuração da TMZ.
+Não foram realizados estudos para determinar o efeito da TMZ no metabolismo ou eliminação de
+outros fármacos. No entanto, uma vez que a TMZ não é metabolizada pelo fígado e apresenta uma
+fraca ligação às proteínas, é pouco provável que afete a farmacocinética de outros medicamentos (ver
+secção 5.2).
+A utilização de TMZ em associação com outros fármacos mielossupressores poderá aumentar a
+possibilidade de ocorrer mielossupressão.
+População pediátrica
+Os estudos de interação só foram realizados em adultos.
+
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+Não existem dados na mulher grávida. Nos estudos pré-clínicos efetuados no rato e coelho tratados
+com 150 mg/m2 de TMZ, foi demonstrada teratogenicidade e/ou toxicidade fetal (ver secção 5.3).
+Temodal não deverá ser administrado a mulheres grávidas. Se a utilização durante a gravidez tiver de
+ser considerada, a doente deve ser informada acerca dos potenciais riscos para o feto.
+Amamentação
+Desconhece-se se a TMZ é excretada no leite humano; portanto, a amamentação deve ser
+descontinuada durante o tratamento com TMZ.
+
+26
+
+Mulheres com potencial para engravidar
+As mulheres com potencial para engravidar têm de utilizar um método contracetivo eficaz para evitar a
+gravidez durante o tratamento com TMZ e pelo menos durante 6 meses após a conclusão do
+tratamento.
+Fertilidade masculina
+A TMZ poderá ter efeitos genotóxicos. Nestas circunstâncias, os homens que estão a ser medicados
+com TMZ devem utilizar um método contracetivo eficaz e ser aconselhados a não terem filhos por um
+período de pelo menos 3 meses após receberem a última dose e a obterem informações sobre a
+crioconservação de esperma antes do início da terapêutica, dada a possibilidade de virem a sofrer de
+infertilidade irreversível devido ao tratamento com TMZ.
+
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de TMZ sobre a capacidade de conduzir e utilizar máquinas são reduzidos devido à
+ocorrência de fadiga e sonolência (ver secção 4.8).
+
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Experiência em ensaios clínicos com cápsulas
+Em doentes tratados com TMZ em ensaios clínicos, as reações adversas mais frequentes foram
+náuseas, vómito, obstipação, anorexia, cefaleia, fadiga, convulsões e erupção cutânea. A maioria das
+reações adversas hematológicas notificadas foram frequentes; a frequência de resultados laboratoriais
+de Grau 3-4 é apresentada a seguir à Tabela 4.
+Para doentes com glioma em progressão ou recorrente, as náuseas (43%) e vómito (36%) foram
+geralmente de Grau 1 ou 2 (0-5 episódios de vómito em 24 horas) e foram autolimitadas ou facilmente
+controláveis com a terapêutica antiemética convencional. A incidência de náuseas e vómito graves foi
+de 4%.
+Lista tabelada de reações adversas
+As reações adversas observadas em estudos clínicos e notificadas na utilização pós-comercialização
+com a TMZ estão listadas na Tabela 4. Estas reações são classificadas de acordo com a Classe de
+Sistema de Órgãos e frequência. Os grupos de frequência são definidos segundo a seguinte convenção:
+Muito frequentes (≥ 1/10); Frequentes (≥ 1/100, < 1/10); Pouco Frequentes (≥ 1/1.000, < 1/100); Raros
+(≥1/10.000, <1/1.000); Muito raros (<1/10.000); Desconhecido (não pode ser calculado a partir dos
+dados disponíveis). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade,
+dentro de cada classe de frequência.
+Tabela 4. Reações adversas nos doentes tratados com a temozolomida
+
+Infeções e infestações
+Frequentes:
+
+Infeções, herpes zoster, faringitea, candidíase oral
+
+Pouco frequentes:
+
+Infeção oportunista (incluindo PCP), sepsia†,
+meningoencefalite herpética†, infeção por CMV,
+reativação da infeção por CMV, vírus da hepatite B †,
+herpes simplex, reativação da infeção, infeção de ferida,
+gastroenteriteb
+
+Neoplasias benignas, malignas e não especificadas
+Pouco frequentes:
+
+Síndroma mielodisplásica (MDS), neoplasias
+secundárias, incluindo leucemia mielóide
+
+27
+
+Tabela 4. Reações adversas nos doentes tratados com a temozolomida
+
+Doenças do sangue e do sistema linfático
+Frequentes:
+
+Neutropenia febril, neutropenia, trombocitopenia,
+linfopenia, leucopenia, anemia
+
+Pouco frequentes:
+
+Pancitopenia prolongada, anemia aplástica†,
+pancitopenia, petéquias
+
+Doenças do Sistema imunitário
+Frequentes:
+
+Reação alérgica
+
+Pouco frequentes:
+
+Anafilaxia
+
+Doenças endócrinas
+Frequentes:
+
+Cushingóidec
+
+Pouco frequentes:
+
+Diabetes insípida
+
+Doenças do metabolismo e da nutrição
+Muito frequentes:
+
+Anorexia
+
+Frequentes:
+
+Hiperglicemia
+
+Pouco frequentes:
+
+Hipocaliemia, fosfatase alcalina aumentada
+
+Perturbações do foro psiquiátrico
+Frequentes:
+
+Agitação, amnésia, depressão, ansiedade, confusão,
+insónia
+
+Pouco frequentes:
+
+Perturbação comportamental, labilidade emocional,
+alucinações, apatia
+
+Doenças do sistema nervoso
+Muito frequentes:
+
+Convulsões, hemiparesia, afasia/disfasia, cefaleia
+
+Frequentes:
+
+Ataxia, equilíbrio alterado, alterações na cognição,
+concentração alterada, estado de consciência diminuída,
+tonturas, hipoestesia, alteração da memória, lesão
+neurológica, neuropatiad, parestesia, sonolência,
+deficiência da fala, perversão do paladar, tremor
+
+Pouco frequentes:
+
+Estado epilético, hemiplegia, afeção extrapiramidal,
+parosmia, alterações da marcha, hiperestesia,
+perturbação sensorial, alteração da coordenação
+
+Afeções oculares
+Frequentes:
+
+Hemianopsia, visão turva, afeções visuaise, defeito do
+campo visual, diplopia, dor ocular
+
+Pouco frequentes:
+
+Redução da acuidade visual, olhos secos
+
+Afeções do ouvido e do labirinto
+Frequentes:
+
+Surdez f, vertigens, acufenos, dor de ouvidosg
+
+Pouco frequentes:
+
+Perturbações auditivas, hipersensibilidade sonora, otite
+média
+
+Cardiopatias
+Pouco frequentes:
+
+Palpitações
+
+Vasculopatias
+Frequentes:
+
+Hemorragia, embolismo pulmonar, trombose venosa
+profunda, hipertensão
+
+Pouco frequentes:
+
+Hemorragia cerebral, rubor, afrontamentos
+
+28
+
+Tabela 4. Reações adversas nos doentes tratados com a temozolomida
+
+Doenças respiratórias, torácicas e do mediastino
+Frequentes:
+
+Pneumonia, dispneia, sinusite, bronquite, tosse, infeção
+do trato respiratório superior
+
+Pouco frequentes:
+
+Insuficiência respiratória†, pneumonite
+intersticial/pneumonite, fibrose pulmonar, congestão
+nasal
+
+Doenças gastrointestinais
+Muito frequentes:
+
+Diarreia, obstipação, náuseas, vómito
+
+Frequentes:
+
+Estomatite, dor abdominalh, dispepsia, disfagia
+
+Pouco frequentes:
+
+Distensão abdominal, incontinência fecal, doenças
+gastrointestinais, hemorroidas, xerostomia
+
+Afeções hepatobiliares
+Pouco frequentes:
+
+Insuficiência hepática†, lesão hepática, hepatite,
+colestase, hiperbilirrubinemia
+
+Afeções dos tecidos cutâneos e subcutâneos
+Muito frequentes:
+
+Erupção cutânea, alopecia
+
+Frequentes:
+
+Eritema, xerose cutânea, prurido
+
+Pouco frequentes:
+
+Necrólise epidérmica tóxica, síndrome de
+Stevens-Johnson, angiedema, eritema multiforme,
+eritrodermite, exfoliação cutânea, reação de
+fotossensibilidade, urticária, exantema, dermatite,
+aumento da sudorese, alteração da pigmentação
+
+Desconhecido:
+
+Reação medicamentosa com eosinofilia e sintomas
+sistémicos (DRESS)
+
+Afeções musculosqueléticas e dos tecidos conjuntivos
+Frequentes:
+
+Miopatia, fraqueza muscular, artralgia, dorsalgia, dor
+musculosquelética, mialgia
+
+Doenças renais e urinárias
+Frequentes:
+
+Polaquiúria, incontinência urinária
+
+Pouco frequentes:
+
+Disúria
+
+Doenças dos órgãos genitais e da mama
+Pouco frequentes:
+
+Hemorragia vaginal, menorragia, amenorreia, vaginite,
+dor mamária, impotência
+
+Perturbações gerais e alterações no local de administração
+Muito frequentes:
+
+Fadiga
+
+Frequentes:
+
+Febre, sintomas tipo gripe, astenia, mal-estar geral, dor,
+edema, edema periféricoi
+
+Pouco frequentes:
+
+Quadro patológico agravado, arrepios, edema da face,
+descoloração da língua, sede, anomalia dentária
+
+Exames complementares de diagnóstico
+Frequentes:
+
+Aumento das enzimas hepáticasj, diminuição do peso,
+aumento de peso
+
+Pouco frequentes:
+
+Aumento da Gama-glutamiltransferase
+
+Complicações de intervenções relacionadas com lesões e intoxicações
+Frequentes:
+
+Lesão por radiaçãok
+
+29
+
+Tabela 4. Reações adversas nos doentes tratados com a temozolomida
+a
+
+Inclui faringite, faringite nasofaríngica, faringite estreptocócica
+b
+Inclui gastroenterite, gastroenterite viral
+c
+Inclui cushingóide, síndroma de Cushing
+d
+Inclui neuropatia, neuropatia periférica, polineuropatia, neuropatia periférica sensorial, neuropatia periférica motora
+e
+Inclui insuficiência visual, distúrbios oculares
+f
+Inclui surdez, surdez bilateral, surdez neurossensorial, surdez unilateral
+g
+Inclui dor de ouvidos, desconforto no ouvido
+h
+Inclui dor abdominal, dor abdominal inferior, dor abdominal superior, desconforto abdominal
+i
+Inclui edema periférico, inchaço periférico
+j
+Inclui teste da função hepática aumentada, alanina aminotransferase aumentada, aspartato aminotransferase aumentado,
+enzimas hepáticas aumentadas
+k
+Inclui lesão por radiação, lesão cutânea por radiação
+†
+Inclui casos com resultado fatal
+
+Glioblastoma multiforme recentemente diagnosticado
+Resultados laboratoriais
+Foi observada mielossupressão (neutropenia e trombocitopenia) que é uma conhecida toxicidade
+limitadora de dose para a maioria dos agentes citotóxicos, incluindo a TMZ. Quando as alterações
+laboratoriais e os acontecimentos adversos foram combinados cruzando as fases de tratamento
+concomitante e de monoterapia, foram observadas em 8 % dos doentes alterações de Grau 3 ou Grau 4
+nos neutrófilos, incluindo acontecimentos neutropénicos. Em 14 % dos doentes a receber TMZ foram
+observadas alterações de Grau 3 ou Grau 4 nas plaquetas, incluindo acontecimentos
+trombocitopénicos.
+Glioma maligno recorrente ou progressivo
+Resultados laboratoriais
+Ocorreram trombocitopenia e neutropenia de Graus 3 ou 4 em 19 % e 17 %, respetivamente, dos
+doentes tratados por glioma maligno. Este facto levou à hospitalização e/ou interrupção do tratamento
+com TMZ em 8 % e 4 %, respetivamente. A ocorrência de mielossupressão era previsível
+(normalmente nos primeiros ciclos, com um valor mais baixo entre o Dia 21 e o Dia 28), verificandose uma recuperação rápida, habitualmente no período de 1-2 semanas. Não foram observados sinais de
+mielossupressão cumulativa. A presença de trombocitopenia pode aumentar o risco de hemorragia, e a
+presença de neutropenia ou leucopenia pode aumentar o risco de infeção.
+Género
+Numa análise de farmacocinética da população de ensaios clínicos existiam 101 mulheres e
+169 homens com o nadir da contagem de neutrófilos disponível e 110 mulheres e 174 homens com o
+nadir da contagem de plaquetas disponível. Foram encontradas em mulheres vs. homens maiores taxas
+de neutropenia de Grau 4 (ANC < 0,5 x 109/l), 12 % vs. 5 %, e de trombocitopenia (< 20 x 109/l), 9 %
+vs. 3 % em mulheres vs. homens, no primeiro ciclo de tratamento. Num conjunto de dados de
+400 indivíduos com glioma recorrente, ocorreu neutropenia de Grau 4 em 8 % das mulheres vs. 4 %
+dos homens e trombocitopenia de Grau 4 em 8 % das mulheres vs. 3 % dos homens no primeiro ciclo
+de tratamento. Num estudo de 288 indivíduos com glioblastoma multiforme recentemente
+diagnosticado, ocorreu neutropenia de Grau 4 em 3 % das mulheres vs. 0 % dos homens e
+trombocitopenia de Grau 4 em 1 % das mulheres vs. 0 % dos homens no primeiro ciclo de tratamento.
+População pediátrica
+TMZ oral foi estudado em doentes pediátricos (3-18 anos de idade) com glioma recorrente do tronco
+cerebral ou astrocitoma de grau alto recorrente, num regime de administração diário durante 5 dias, a
+cada 28 dias. Embora os dados sejam limitados, a tolerância esperada em crianças é semelhante à
+verificada nos adultos. A segurança de TMZ em crianças com idade inferior a 3 anos não foi
+estabelecida.
+30
+
+Experiência de Ensaios Clínicos com IV
+Temodal 2,5 mg/ml pó para solução para perfusão proporciona uma dose equivalente de TMZ, e uma
+exposição à TMZ e ao seu metabolito ativo MTIC, equivalentes às observadas com as cápsulas de
+Temodal correspondentes (ver secção 5.2). As reações adversas que foram notificadas nos dois
+estudos com a formulação intravenosa (n=35) e que não foram notificadas nos estudos com Temodal
+cápsulas, foram as reações no local de perfusão: dor, irritação, prurido, sensação de calor, edema e
+eritema, assim como hematoma.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+
+4.9
+
+Sobredosagem
+
+Foram avaliadas clinicamente em doentes doses de 500, 750, 1.000 e 1.250 mg/m2 (dose total por ciclo
+durante 5 dias). A toxicidade limitante da dose foi hematológica e foi notificada com qualquer dose,
+embora se espere que assuma maior gravidade com doses mais elevadas. Um doente tomou uma
+sobredosagem de 10.000 mg (dose total num ciclo único, durante 5 dias), e as reações adversas
+notificadas foram pancitopenia, pirexia, falência multiorgânica e morte. Existem notificações de
+doentes que tomaram a dose recomendada por mais de 5 dias de tratamento (até 64 dias) com
+acontecimentos adversos notificados que incluem supressão da medula óssea, com ou sem infeção,
+nalguns casos grave e prolongada e resultando em morte. Em caso de sobredosagem, é necessária
+avaliação hematológica. Devem ser fornecidas medidas de suporte de acordo com as necessidades.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Agentes antineoplásicos
+código ATC: L01A X03
+
+– Outros agentes alquilantes,
+
+Mecanismo de ação
+A temozolomida é um fármaco triazeno, que sofre uma rápida conversão química, a um pH
+fisiológico, no composto ativo MTIC. Pensa-se que a citotoxicidade da MTIC seja atribuída,
+principalmente, à alquilação na posição O6 da guanina, verificando-se também alquilação adicional na
+posição N7. Considera-se que as lesões citotóxicas que surgem subsequentemente envolvem a
+reparação aberrante da adução metilo.
+Eficácia e segurança clínicas
+Glioblastoma multiforme recentemente diagnosticado
+Um total de 573 doentes foram aleatorizados para receber TMZ + RT (n=287) ou RT isoladamente
+(n=286). Os doentes no braço de TMZ + RT receberam TMZ concomitante (75 mg/m2) uma vez por
+dia, com início no primeiro dia de RT até ao último dia de RT, durante 42 dias (com um máximo de
+49 dias). Seguiu-se TMZ em monoterapia (150 – 200 mg/m2) nos Dias 1 – 5 de cada ciclo de 28 dias,
+por um período de até 6 ciclos, com início 4 semanas após o final da RT. Os doentes no braço de
+controlo receberam apenas RT. Foi necessária profilaxia contra a pneumonia por Pneumocystis
+jirovecii (PCP) durante a terapêutica de associação de RT e TMZ.
+
+31
+
+A TMZ foi administrada como terapêutica de último recurso na fase de seguimento em 161 dos
+282 doentes (57 %) no braço da RT isolada, e em 62 dos 277 doentes (22 %) no braço de TMZ + RT.
+A taxa de risco (RR) para a sobrevida global foi de 1,59 (IC 95 % para um RR=1,33 – 1,91), com um
+posto logarítmico p < 0,0001 a favor do braço de TMZ. A probabilidade estimada de sobrevida
+durante 2 ou mais anos (26 % vs. 10 %) é superior no braço de RT + TMZ. A adição de TMZ
+concomitante à RT, seguindo-se TMZ em monoterapia, no tratamento de doentes com glioblastoma
+multiforme recentemente diagnosticado demonstrou uma melhoria estatisticamente significativa da
+sobrevida global em comparação com a RT isoladamente (Figura 1).
+
+Figura 1
+
+Curvas Kaplan-Meier para a sobrevida global (população em Intenção de Tratar)
+
+Os resultados do ensaio não foram consistentes no subgrupo de doentes com um nível de desempenho
+baixo (PS=2, n=70), nos quais a sobrevivência global e o intervalo de tempo até à progressão foram
+semelhantes nos dois braços. No entanto, neste grupo de doentes não parecem existir riscos
+inaceitáveis.
+Glioma maligno recorrente ou progressivo
+Os dados relativos à eficácia clínica, obtidos em doentes com glioblastoma multiforme (Karnofsky
+nível de desempenho KPS  70), de tipo progressivo ou recorrente, após intervenção cirúrgica e RT,
+fundamentaram-se em dois ensaios clínicos com TMZ oral. Um dos estudos consistiu num ensaio não
+comparativo realizado em 138 doentes (29 % dos quais previamente submetidos a quimioterapia),
+enquanto que o outro correspondeu a um ensaio ativo controlado, de referência, com distribuição
+aleatória, sobre a TMZ vs. procarbazina, realizado num total de 225 doentes (67 % dos quais
+submetidos a um tratamento de quimioterapia prévio à base de nitrosureias). Em qualquer um destes
+ensaios, foi utilizada, como parâmetro de avaliação final primário, a sobrevida sem progressão (PFS),
+definida com base em RMNs ou no agravamento neurológico. No ensaio não comparativo, a PFS aos
+6 meses era de 19 %, com uma mediana da sobrevida sem progressão de 2,1 meses e uma mediana da
+sobrevida global de 5,4 meses. A taxa de resposta objetiva (ORR) com base em RMNs ascendeu a
+8 %.
+No ensaio ativo controlado com distribuição aleatória, a PFS aos 6 meses foi significativamente maior
+com a TMZ do que com a procarbazina (21 % vs. 8 %, respetivamente – p = 0,008, Qui-quadrado),
+sendo a mediana da PFS de 2,89 e 1,88 meses, respetivamente (p = 0,0063, postos logarítmicos). A
+mediana da sobrevida foi de 7,34 e 5,66 meses para a TMZ e para a procarbazina, respetivamente
+(p = 0,33, postos logarítmicos). Decorridos 6 meses, a percentagem dos doentes sobreviventes no ramo
+da TMZ foi significativamente maior (60 %) do que no ramo da procarbazina (44 %) (p = 0,019, Quiquadrado). Nos doentes previamente submetidos a quimioterapia foi demonstrado um benefício nos
+que apresentavam um KPS ≥ 80.
+
+32
+
+Os dados relativos ao intervalo de tempo decorrido até ao agravamento do perfil neurológico
+demonstraram ser favoráveis à TMZ, quando comparada com a procarbazina; esta tendência foi
+igualmente observada no intervalo de tempo decorrido até ao agravamento do nível de desempenho
+(redução até um KPS < 70 ou redução de, pelo menos, 30 pontos). As medianas dos intervalos de
+tempo até à progressão destes parâmetros de avaliação final foram entre 0,7 e 2,1 meses mais
+prolongadas com a TMZ do que com a procarbazina (p = < 0,01 a 0,03, postos logarítmicos).
+Astrocitoma anaplásico recorrente
+Num ensaio de fase II multicêntrico prospetivo, em que se procedeu à avaliação da segurança e
+eficácia da TMZ oral no tratamento de doentes com primeira recidiva de astrocitoma anaplásico, a
+PFS aos 6 meses foi de 46 %. A mediana da PFS foi de 5,4 meses. A mediana da sobrevida global foi
+de 14,6 meses. A taxa de resposta, baseada na avaliação do revisor central, foi de 35 % (13 RC e
+42 RP) na população com intenção de tratar (ITT) n=162. Registaram-se 43 respostas mantidas. A
+sobrevida livre de doença aos 6 meses, na população com ITT, foi de 44 %, registando-se uma
+mediana de 4,6 meses, semelhante aos resultados obtidos na sobrevida sem progressão. No que se
+refere à população elegível com base na histologia, obtiveram-se resultados semelhantes em termos de
+eficácia. A documentação radiológica de uma resposta positiva ou a não progressão da doença esteve
+fortemente associada a melhoria ou manutenção da qualidade de vida.
+População pediátrica
+A TMZ oral foi estudada em doentes pediátricos (idade entre os 3 e os 18 anos) com glioma recorrente
+do tronco cerebral ou astrocitoma de grau alto recorrente, num regime de administração diária durante
+5 dias a cada 28 dias. A tolerância à TMZ é semelhante à dos adultos.
+
+5.2
+
+Propriedades farmacocinéticas
+
+A TMZ é espontaneamente hidrolisada ao pH fisiológico, principalmente na sua espécie ativa, 3metil-(triazeno-1-il)imidazol-4-carboxamida (MTIC). A MTIC é espontaneamente hidrolisada em 5amino-imidazol-4-carboxamida (AIC), um conhecido intermediário na biossíntese de purina e ácido
+nucleico, e em metil-hidrazina, que se pensa ser a espécie ativa alquilante. Pensa-se que a
+citotoxicidade da MTIC se deve principalmente à alquilação do ADN maioritariamente nas posições
+O6 e N7 da guanina. A exposição à MTIC e à AIC é, respetivamente, de ~2,4 % e 23 %, em relação à
+AUC da temozolomida. In vivo, o t1/2 da MTIC foi semelhante ao da temozolomida, 1,8 h.
+Num estudo de bioequivalência aberto, cruzado nos dois sentidos, sobre a farmacocinética da TMZ
+oral e intravenosa em doentes com neoplasias primárias no SNC, verificou-se que Temodal 2,5 mg/ml
+pó para solução para perfusão administrado durante 90 minutos foi bioequivalente, em termos da C max
+e da AUC da TMZ e da MTIC, ao Temodal cápsulas, após administração de uma dose de 150 mg/m2.
+Os valores médios da C max para a TMZ e para a MTIC foram de 7,4 µg/ml e 320 ng/ml,
+respetivamente, após 90 minutos de perfusão intravenosa. Os valores médios da AUC(0
+TMZ e MTIC foram de 25 µg•hr/ml e 1.004 ng•hr /ml, respetivamente.
+
+→ ) para a
+
+Absorção
+Após a administração oral a doentes adultos, a TMZ é absorvida rapidamente, atingindo concentrações
+máximas nos primeiros 20 minutos pós-administração (tempos médios compreendidos entre 0,5 e
+1,5 horas). Após a administração oral de TMZ radiomarcada com 14C, a excreção fecal média de 14C,
+no período de 7 dias pós-administração, foi de 0,8 %, indicando uma absorção completa.
+Distribuição
+A TMZ apresenta uma fraca ligação às proteínas (10 % a 20 %), não sendo, portanto, previsível que
+interatue com substâncias com elevada ligação às proteínas.
+
+33
+
+Os estudos PET realizados no ser humano e os dados pré-clinicos sugerem que a TMZ atravessa
+rapidamente a barreira hemato-encefálica e é detetada no líquido cefalorraquidiano (LCR). A
+penetração no LCR foi confirmada num doente; a exposição do LCR, baseada na AUC da TMZ, foi
+cerca de 30 % da registada no plasma, a qual é consistente com os dados dos estudos realizados em
+animais.
+Eliminação
+A semivida plasmática é de, aproximadamente, 1,8 horas. A mais importante via de eliminação de 14C
+é renal. Após a administração oral, cerca de 5 % a 10 % da dose é recuperada na urina, sob a forma
+inalterada, no período de 24 horas, sendo o restante excretado sob a forma de ácido temozolomídico,
+5 -aminoimidazol-4-carboxamida (AIC) ou de metabolitos polares não identificados
+As concentrações plasmáticas aumentam em função da dose administrada. A depuração plasmática, o
+volume de distribuição e a semivida são independentes da dose.
+Populações especiais
+A análise dos parâmetros farmacocinéticos da TMZ com base na população, revelou que a depuração
+da TMZ plasmática foi independente da idade, da função renal ou do consumo de tabaco. Num estudo
+farmacocinético separado, os níveis farmacocinéticos plasmáticos de doentes com compromisso
+hepático ligeiro a moderado foram semelhantes aos observados em doentes com função hepática
+normal.
+Os doentes pediátricos apresentaram uma AUC mais elevada que os doentes adultos; a dose máxima
+tolerada (MTD) foi, no entanto, de 1.000 mg/m2 por ciclo, tanto na criança como no adulto.
+
+5.3
+
+Dados de segurança pré-clínica
+
+Foram realizados estudos de toxicidade de ciclo único (administração durante 5 dias, 23 dias sem
+tratamento), de 3 e 6 ciclos, no rato e no cão. Os alvos primários de toxicidade incluíram a medula
+óssea, o sistema linfo-reticular, os testículos e o aparelho gastrointestinal, e, em doses superiores, as
+quais foram letais para 60 % a 100 % dos ratos e cães testados, ocorreu degeneração da retina. A
+maioria da toxicidade demonstrou ser reversível, exceto no que se refere aos efeitos adversos no
+sistema reprodutor masculino e à degeneração da retina. No entanto, uma vez que as doses implicadas
+na degeneração da retina se situavam num nível letal, e que não foram observados efeitos comparáveis
+em estudos clínicos, estes resultados não foram considerados clinicamente relevantes.
+A TMZ é um agente alquilante embriotóxico, teratogénico e genotóxico. A TMZ é mais tóxica
+para o rato e cão do que para o homem, e a dose terapêutica aproxima-se da dose mínima letal
+no cão e no rato. A redução dos leucócitos e plaquetas relacionada com a dose, parece ser um
+indicador sensível de toxicidade. Foi descrita uma variedade de neoplasias, incluindo
+carcinomas da mama, queratoacantoma da pele e adenoma das células basais, no estudo de seis
+ciclos no rato, não tendo sido observados quaisquer tumores ou lesões pré-neoplásicas nos
+estudos realizados no cão. Os ratos pareceram ser particularmente sensíveis aos efeitos
+oncogénicos da TMZ, ocorrendo o primeiro tumor três meses após o início do tratamento. Este
+período de latência é muito curto, mesmo para um agente alquilante.
+Os resultados obtidos no teste de Ames/Salmonella e no teste de aberração cromossómica realizado
+em Linfócitos do Sangue Periférico Humano (HPBL) revelaram uma resposta positiva de
+mutagenicidade.
+A formulação intravenosa originou irritação no local da injeção quer em coelhos quer em ratos.
+A irritação foi transitória e não foi associada a lesões permanentes nos tecidos.
+
+34
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Manitol (E421)
+Treonina
+Polissorbato 80
+Citrato de sódio (para ajuste do pH)
+Ácido clorídrico concentrado (para ajuste do pH)
+
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros
+medicamentos.
+
+6.3
+
+Prazo de validade
+
+Frasco para injetáveis fechado: 4 anos
+Solução reconstituída: após reconstituição, a estabilidade química e física durante a utilização foi
+demonstrada para um período de 14 horas a 25 ºC, incluindo o tempo de perfusão.
+Do ponto de vista microbiológico, o medicamento deve ser imediatamente utilizado. Se não for
+imediatamente utilizado, o tempo e as condições de conservação antes da sua utilização são da
+responsabilidade do utilizador e, normalmente, não deverão exceder 24 horas à temperatura de 2 a
+8ºC, a não ser que a reconstituição tenha sido realizada em condições asséticas controladas e
+validadas.
+
+6.4
+
+Precauções especiais de conservação
+
+Conservar no frigorífico (2 ºC
+
+– 8 ºC).
+
+Condições de conservação do medicamento reconstituído, ver secção 6.3.
+
+6.5
+
+Natureza e conteúdo do recipiente
+
+Frascos para injetáveis de vidro transparente tipo I fechados com rolhas de borracha de bromobutilo e
+selos de alumínio com tampa flip-off de cor pêssego. Cada frasco para injetáveis contém 100 mg de
+TMZ.
+Temodal 2,5 mg/ml é comercializado em embalagens unitárias.
+
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+É necessária precaução ao manusear Temodal 2,5 mg/ml pó para solução para perfusão. É necessária a
+utilização de luvas e de técnica assética. Caso Temodal 2,5 mg/ml entre em contacto com a pele ou
+com as mucosas, deverá lavar-se de imediato a zona afetada, meticulosamente, com água e sabão.
+Cada frasco para injetáveis deve ser reconstituído com 41 ml de água esterilizada para preparações
+injetáveis. A solução resultante contém 2,5 mg/ml de TMZ. Os frascos para injetáveis devem ser
+ligeiramente rodados e não agitados. A solução deve ser inspecionada e qualquer frasco contendo
+partículas visíveis não deve ser utilizado. Deve ser retirado um volume até 40 ml de solução
+reconstituída, de acordo com a dose total prescrita e transferido para um saco de perfusão (em PVC ou
+Poliolefina) vazio, com capacidade para 250 ml. Ligar o tubo da bomba ao saco, purgar o tubo e
+depois tapar. Temodal 2,5 mg/ml pó para solução para perfusão destina-se a ser administrado por
+perfusão intravenosa apenas, durante um período de 90 minutos.
+Temodal 2,5 mg/ml pó para solução para perfusão pode ser administrado na mesma linha IV com
+Cloreto de Sódio 0,9% injetável. É incompatível com soluções de dextrose.
+35
+
+Na ausência de informação adicional, este medicamento não deve ser misturado com outros
+medicamentos ou ser perfundido com outros medicamentos em simultâneo através da mesma linha
+intravenosa.
+Este medicamento é para utilização única. Qualquer medicamento não utilizado ou resíduos devem ser
+eliminados de acordo com as exigências locais.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/98/096/023
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 26 de janeiro de 1999
+Data da última renovação: 17 de dezembro de 2008
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos (EMA) http://www.ema.europa.eu.
+
+36
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+SEGURA E EFICAZ DO MEDICAMENTO
+
+37
+
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+Organon Heist bv
+Industriepark 30
+2220 Heist-op-den-Berg
+Bélgica
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+O folheto informativo que acompanha o medicamento tem de mencionar o nome e endereço do
+fabricante responsável pela libertação do lote em causa.
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+
+•
+•
+
+A pedido da Agência Europeia de Medicamentos
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+38
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+39
+
+A. ROTULAGEM
+
+40
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM CONTENDO 5 OU 20 CÁPSULAS DE TEMODAL 5 mg SELADAS
+INDIVIDUALMENTE EM SAQUETAS
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal 5 mg cápsulas
+temozolomida
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 5 mg de temozolomida.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo para mais informação.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+5 cápsulas em saquetas
+20 cápsulas em saquetas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças, de preferência num armário fechado. A ingestão
+acidental pode ser letal para as crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Citotóxico
+Não abra as cápsulas, nem as triture ou mastigue, engula-as inteiras. Se uma cápsula estiver
+danificada, evite o contacto com a sua pele, olhos ou nariz.
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+41
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30°C.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/98/096/024 (5 cápsulas)
+EU/1/98/096/025 (20 cápsula)
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Temodal 5 mg
+
+17
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+42
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM CONTENDO 5 OU 20 CÁPSULAS DE TEMODAL 20 mg SELADAS
+INDIVIDUALMENTE EM SAQUETAS
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal 20 mg cápsulas
+temozolomida
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 20 mg de temozolomida.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo para mais informação.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+5 cápsulas em saquetas
+20 cápsulas em saquetas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças, de preferência num armário fechado. A ingestão
+acidental pode ser letal para as crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Citotóxico
+Não abra as cápsulas, nem as triture ou mastigue, engula-as inteiras. Se uma cápsula estiver
+danificada, evite o contacto com a sua pele, olhos ou nariz.
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+43
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30°C.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/98/096/013 (5 cápsulas)
+EU/1/98/096/014 (20 cápsulas)
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Temodal 20 mg
+
+17
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+44
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM CONTENDO 5 OU 20 CÁPSULAS DE TEMODAL 100 mg SELADAS
+INDIVIDUALMENTE EM SAQUETAS
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal 100 mg cápsulas
+temozolomida
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 100 mg de temozolomida.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo para mais informação.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+5 cápsulas em saquetas
+20 cápsulas em saquetas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças, de preferência num armário fechado. A ingestão
+acidental pode ser letal para as crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Citotóxico
+Não abra as cápsulas, nem as triture ou mastigue, engula-as inteiras. Se uma cápsula estiver
+danificada, evite o contacto com a sua pele, olhos ou nariz.
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+45
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30°C.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/98/096/015 (5 cápsulas)
+EU/1/98/096/016 (20 cápsulas)
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Temodal 100 mg
+
+17
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+46
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM CONTENDO 5 OU 20 CÁPSULAS DE TEMODAL 140 mg SELADAS
+INDIVIDUALMENTE EM SAQUETAS
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal 140 mg cápsulas
+temozolomida
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 140 mg de temozolomida.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo para mais informação.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+5 cápsulas em saquetas
+20 cápsulas em saquetas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças, de preferência num armário fechado. A ingestão
+acidental pode ser letal para as crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Citotóxico
+Não abra as cápsulas, nem as triture ou mastigue, engula-as inteiras. Se uma cápsula estiver
+danificada, evite o contacto com a sua pele, olhos ou nariz.
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+47
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30°C.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/98/096/017 (5 cápsulas)
+EU/1/98/096/018 (20 cápsulas)
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Temodal 140 mg
+
+17
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+48
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM CONTENDO 5 OU 20 CÁPSULAS DE TEMODAL 180 mg SELADAS
+INDIVIDUALMENTE EM SAQUETAS
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal 180 mg cápsulas
+temozolomida
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 180 mg de temozolomida.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo para mais informação.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+5 cápsulas em saquetas
+20 cápsulas em saquetas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças, de preferência num armário fechado. A ingestão
+acidental pode ser letal para as crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Citotóxico
+Não abra as cápsulas, nem as triture ou mastigue, engula-as inteiras. Se uma cápsula estiver
+danificada, evite o contacto com a sua pele, olhos ou nariz.
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+49
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30°C.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/98/096/019 (5 cápsulas)
+EU/1/98/096/020 (20 cápsulas)
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Temodal 180 mg
+
+17
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+50
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM CONTENDO 5 OU 20 CÁPSULAS DE TEMODAL 250 mg SELADAS
+INDIVIDUALMENTE EM SAQUETAS
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal 250 mg cápsulas
+temozolomida
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 250 mg de temozolomida.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo para mais informação.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+5 cápsulas em saquetas
+20 cápsulas em saquetas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE E DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças, de preferência num armário fechado. A ingestão
+acidental pode ser letal para as crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Citotóxico
+Não abra as cápsulas, nem as triture ou mastigue, engula-as inteiras. Se uma cápsula estiver
+danificada, evite o contacto com a sua pele, olhos ou nariz.
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+51
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30°C.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/98/096/021 (5 cápsulas)
+EU/1/98/096/022 (20 cápsula)
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Temodal 250 mg
+
+17
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+52
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+SAQUETA CONTENDO 1 CÁPSULA DE TEMODAL 5 mg
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Temodal 5 mg cápsulas
+temozolomide
+Via oral
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 cápsula
+
+6.
+
+OUTRAS
+
+53
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+SAQUETA CONTENDO 1 CÁPSULA DE TEMODAL 20 mg
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Temodal 20 mg cápsulas
+temozolomide
+Via oral
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 cápsula
+
+6.
+
+OUTRAS
+
+54
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+SAQUETA CONTENDO 1 CÁPSULA DE TEMODAL 100 mg
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Temodal 100 mg cápsulas
+temozolomide
+Via oral
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 cápsula
+
+6.
+
+OUTRAS
+
+55
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+SAQUETA CONTENDO 1 CÁPSULA DE TEMODAL 140 mg
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Temodal 140 mg cápsulas
+temozolomide
+Via oral
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 cápsula
+
+6.
+
+OUTRAS
+
+56
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+SAQUETA CONTENDO 1 CÁPSULA DE TEMODAL 180 mg
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Temodal 180 mg cápsulas
+temozolomide
+Via oral
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 cápsula
+
+6.
+
+OUTRAS
+
+57
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+SAQUETA CONTENDO 1 CÁPSULA DE TEMODAL 250 mg
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Temodal 250 mg cápsulas
+temozolomide
+Via oral
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 cápsula
+
+6.
+
+OUTRAS
+
+58
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal 2,5 mg/ml pó para solução para perfusão
+temozolomida
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada frasco para injetáveis contém 100 mg de temozolomida.
+Após reconstituição, 1 ml de solução para perfusão contém 2,5 mg de temozolomida.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Excipientes: manitol (E421), treonina, polissorbato 80, citrato de sódio e ácido clorídrico concentrado
+para ajuste do pH.
+Relativamente ao sódio, ver o Folheto Informativo para mais informação.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó para solução para perfusão.
+1 frasco para injetáveis de 100 mg
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Apenas para via intravenosa.
+Apenas para utilização única.
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Citotóxico
+Evite o contacto com a sua pele, olhos ou nariz.
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+59
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico.
+Após reconstituição, utilizar a solução dentro de 14 horas a 25 ºC, incluindo o tempo de perfusão.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Qualquer medicamento não utilizado ou os resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/98/096/023
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+60
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO PARA INJETÁVEIS
+
+1.
+
+NOME DO MEDICAMENTO
+
+Temodal 2,5 mg/ml pó para solução para perfusão
+temozolomida
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada frasco para injetáveis contém 100 mg de temozolomida.
+Após reconstituição, 1 ml de solução para perfusão contém 2,5 mg
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Manitol (E421), treonina, polissorbato 80, citrato de sódio e ácido clorídrico.
+Relativamente ao sódio, ver o Folheto Informativo para mais informação.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó para solução para perfusão.
+100 mg
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Apenas para via intravenosa e para utilização única.
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Citotóxico
+Evite o contacto com a sua pele, olhos ou nariz.
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico.
+Após reconstituição: 14 horas a 25ºC, incluindo tempo de perfusão.
+61
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Eliminar de acordo com as exigências locais.
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/98/096/023
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+17
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+62
+
+B. FOLHETO INFORMATIVO
+
+63
+
+Folheto informativo: Informação para o utilizador
+Temodal 5 mg cápsulas
+Temodal 20 mg cápsulas
+Temodal 100 mg cápsulas
+Temodal 140 mg cápsulas
+Temodal 180 mg cápsulas
+Temodal 250 mg cápsulas
+temozolomida (temozolomide)
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+
+−
+−
+−
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+
+−
+
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados
+neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+
+Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+
+O que contém este folheto
+1.
+O que é Temodal e para que é utilizado
+2.
+O que precisa de saber antes de tomar Temodal
+3.
+Como tomar Temodal
+4.
+Efeitos secundários possíveis
+5.
+Como conservar Temodal
+6.
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Temodal e para que é utilizado
+
+Temodal contém um medicamento chamado temozolomida. Este medicamento é um agente
+antitumoral.
+Temodal é indicado para o tratamento de formas específicas de tumores cerebrais:
+em adultos com glioblastoma multiforme recentemente diagnosticado. Inicialmente o Temodal
+é utilizado em associação com radioterapia (fase concomitante do tratamento) e posteriormente
+sozinho (fase de monoterapia do tratamento).
+em crianças com idade igual ou superior a 3 anos e adultos com glioma maligno, tal como
+glioblastoma multiforme ou astrocitoma anaplásico. Temodal é utilizado nestes tumores caso
+demonstrem recorrência ou progressão após uma terapêutica padrão.
+
+2.
+
+O que precisa de saber antes de tomar Temodal
+
+Não tome Temodal
+se tem alergia à temozolomida ou a qualquer outro componente deste medicamento (indicados
+na secção 6).
+se já teve qualquer reação alérgica à dacarbazina (um medicamento contra o cancro, por vezes
+chamado DTIC). Os sinais de reação alérgica incluem comichão, falta de ar ou dificuldade em
+respirar, inchaço da face, lábios, língua ou garganta.
+se a contagem de certos tipos de células sanguíneas estiver gravemente reduzida
+(mielosupressão), tais como o número de glóbulos brancos e de plaquetas. Estas células do
+sangue são importantes para combater infeções e para uma adequada coagulação do sangue. O
+seu médico irá fazer análises ao sangue para confirmar que possui uma quantidade suficiente
+destas células antes de iniciar o tratamento.
+
+64
+
+Advertências e precauções
+Fale com o seu médico, farmacêutico ou enfermeiro antes de tomar Temodal,
+se deve ser acompanhado de perto quanto à possibilidade de desenvolvimento de uma forma
+grave de infeção no peito, denominada pneumonia por Pneumocystis jirovecii (PCP). Se o seu
+diagnóstico é recente (glioblastoma multiforme) poderá estar a receber Temodal durante o
+regime de 42 dias, em associação com o tratamento por radioterapia. Neste caso, o seu médico
+também irá prescrever-lhe medicamentos para ajudar a prevenir este tipo de pneumonia (PCP).
+se alguma vez teve ou tem agora uma infeção por hepatite B. Isto porque o Temodal pode
+causar que a hepatite B fique novamente ativa, o que pode ser fatal em alguns casos. Os
+doentes serão cuidadosamente avaliados pelo seu médico relativamente a sinais desta infeção
+antes do tratamento se iniciar.
+se tiver baixas contagens de glóbulos vermelhos (anemia), glóbulos brancos e plaquetas no
+sangue, ou tiver problemas de coagulação do sangue antes de iniciar o tratamento, ou se estas
+situações surgirem durante o tratamento. O seu médico pode decidir reduzir a dose,
+interromper, parar ou alterar o seu tratamento. Poderá também necessitar de outros tratamentos.
+Em alguns casos pode ser necessário interromper o tratamento com Temodal. Será
+regularmente submetido a análises ao sangue durante o tratamento para vigiar os efeitos
+secundários de Temodal sobre as suas células do sangue.
+se pode ter um pequeno risco de outras alterações nas células do sangue, incluindo leucemia.
+se tiver náuseas (indisposição gástrica (do estômago)) e/ou vómitos que são efeitos secundários
+muito comuns do Temodal (ver secção 4) o seu médico poderá prescrever-lhe um medicamento
+(um antiemético) que o ajude a evitar os vómitos.
+Se vomitar frequentemente antes ou durante o tratamento, pergunte ao seu médico qual a
+melhor altura para tomar Temodal até que a situação esteja controlada. Se vomitar após tomar a
+sua dose, não tome uma segunda dose nesse dia.
+contacte imediatamente o seu médico se desenvolver febre ou sintomas de uma infeção.
+se tem mais de 70 anos de idade pode estar mais suscetível a infeções, nódoas negras ou
+hemorragias (perdas de sangue).
+se sofre de problemas no fígado ou nos rins, a sua dose de Temodal pode necessitar de ser
+ajustada.
+Crianças e adolescentes
+Não dê este medicamento a crianças com idade inferior a 3 anos, pois não foi estudado para esta
+população. A informação relativa ao uso de Temodal por crianças com idade superior a 3 anos é
+limitada.
+Outros medicamentos e Temodal
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos.
+Gravidez, amamentação e fertilidade
+Se está grávida, se pensa estar grávida ou planeia engravidar, consulte o seu médico ou farmacêutico
+antes de tomar este medicamento, porque não poderá ser tratada com Temodal durante a gravidez a
+não ser que tal tenha sido expressamente indicado pelo seu médico.
+Os doentes do sexo feminino com capacidade de engravidar devem adotar medidas contracetivas
+eficazes durante o tratamento com Temodal e pelo menos durante 6 meses após o fim do tratamento.
+Deve parar de amamentar durante o tratamento com Temodal.
+
+Fertilidade masculina
+Temodal pode causar infertilidade permanente. Os doentes do sexo masculino devem usar um método
+contracetivo eficaz e não devem conceber uma criança durante pelo menos 3 meses após o fim do
+tratamento. Recomenda-se que procure aconselhamento sobre a conservação de esperma antes de
+iniciar o tratamento.
+
+65
+
+Condução de veículos e utilização de máquinas
+Enquanto tomar Temodal poderá sentir fadiga ou sonolência. Neste caso, não conduza nem utilize
+ferramentas, máquinas ou bicicletas até perceber como este medicamento o afeta (ver secção 4)
+Temodal contém lactose
+Este medicamento contém lactose (um tipo de açúcar). Se tiver sido informado pelo seu médico de
+que tem intolerância a alguns açúcares, contacte o seu médico antes de tomar este medicamento.
+Temodal contém sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por cápsula ou seja, é praticamente
+“isento de sódio”.
+
+3.
+
+Como tomar Temodal
+
+Tome este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale com o seu
+médico ou farmacêutico se tiver dúvidas.
+Dose e duração do tratamento
+O seu médico determinará qual a dose correta de Temodal que deverá tomar, com base no seu
+tamanho (altura e peso) e no facto de ter ou não um tumor recorrente e já ter sido submetido a um
+tratamento de quimioterapia no passado.
+Antes e/ou depois de tomar Temodal, pode ter de tomar outros medicamentos (antieméticos) para
+evitar ou controlar as náuseas e os vómitos.
+Doentes com glioblastoma multiforme recentemente diagnosticados:
+Se é um doente recentemente diagnosticado, o tratamento vai decorrer em duas fases:
+
+−
+−
+
+primeiro o tratamento simultaneamente com radioterapia (fase concomitante)
+seguido de tratamento apenas com Temodal (fase de monoterapia).
+
+Durante a fase concomitante, o seu médico iniciará o Temodal numa dose de 75 mg/m2 (dose usual).
+Irá tomar esta dose todos os dias durante 42 dias (até 49 dias) em associação com a radioterapia. A
+dose de Temodal poderá sofrer um atraso ou ser suspensa, com base nas contagens das suas células
+do sangue e na maneira como tolera o seu medicamento durante a fase concomitante.
+Uma vez terminada a terapêutica por radiação, irá interromper o tratamento durante 4 semanas. Isto
+dará oportunidade ao seu organismo para recuperar.
+Em seguida, iniciará a fase de monoterapia.
+Durante a fase de monoterapia, a dose e a forma como toma Temodal vão ser diferentes. O seu
+médico irá determinar a sua dose exata.
+Podem existir até 6 períodos (ciclos) de tratamento. Cada um tem a duração de 28 dias.
+Irá tomar a sua nova dose de Temodal sozinha uma vez por dia durante os primeiros 5 dias (“dias de
+toma”) de cada ciclo. A primeira dose será de 150 mg/m2. De seguida terá 23 dias sem Temodal. Isto
+totaliza um ciclo de tratamento de 28 dias.
+Depois do Dia 28, iniciar-se-á o ciclo seguinte. Irá tomar Temodal novamente uma vez por dia
+durante 5 dias seguindo-se 23 dias sem Temodal. Com base nas contagens das suas células do sangue
+e na maneira como tolera o seu medicamento durante cada ciclo de tratamento, a dose de Temodal
+poderá ser ajustada, ou a sua administração sofrer um atraso ou ser suspensa.
+Doentes com tumores recorrentes ou que pioraram (glioma maligno, tais como glioblastoma
+multiforme ou astrocitoma anaplásico) que tomem apenas Temodal:
+Cada ciclo de tratamento com Temodal tem a duração de 28 dias.
+Irá tomar apenas Temodal uma vez por dia, durante os primeiros 5 dias. Esta dose diária irá depender
+do facto de já ter recebido quimioterapia antes ou não.
+
+66
+
+Se não tiver sido previamente tratado com quimioterapia, a sua primeira dose de Temodal será de
+200 mg/m2 uma vez por dia, durante os primeiros 5 dias. Se tiver sido previamente tratado com
+quimioterapia, a sua primeira dose de Temodal será de 150 mg/m2 uma vez por dia, durante os
+primeiros 5 dias.
+Seguidamente terá 23 dias sem Temodal. Isto totaliza um ciclo de tratamento de 28 dias.
+Após o Dia 28 iniciar-se-á o ciclo seguinte. Irá receber Temodal novamente uma vez por dia durante
+5 dias, seguindo-se 23 dias sem Temodal.
+Antes de cada novo ciclo de tratamento, irá fazer análises ao sangue para verificar se a dose de
+Temodal deve ser ajustada. Dependendo dos resultados das suas análises ao sangue, o seu médico
+poderá ajustar a dose para o ciclo seguinte.
+Como tomar Temodal
+Tome a dose prescrita de Temodal uma vez por dia, de preferência à mesma hora todos os dias.
+Tome as cápsulas com o estômago vazio; por exemplo, pelo menos uma hora antes da hora a que
+pretende tomar o pequeno-almoço. Engula a(s) cápsula(s) inteiras com um copo de água. Não abra,
+esmague nem mastigue as cápsulas. Se uma cápsula estiver danificada, evite o contacto do pó com a
+pele, olhos ou nariz. Caso exista contacto acidental com os seus olhos ou nariz, lave essa zona com
+água.
+Dependendo da dose prescrita, poderá ter de tomar mais de uma cápsula ao mesmo tempo,
+eventualmente com dosagens (conteúdo de substância ativa, em mg) diferentes. A cor da cápsula
+difere para cada dosagem (ver tabela abaixo).
+Dosagem
+
+Cor da cápsula
+verde
+
+Temodal 5 mg cápsulas
+
+amarelo
+
+Temodal 20 mg cápsulas
+Temodal 100 mg cápsulas
+
+rosa
+
+Temodal 140 mg cápsulas
+
+azul
+
+Temodal 180 mg cápsulas
+
+laranja
+
+Temodal 250 mg cápsulas
+
+branco
+
+Deve assegurar-se que compreende na totalidade e se recorda do seguinte:
+
+•
+
+quantas cápsulas de cada dosagem necessita de tomar em cada dia de toma. Peça ao seu médico
+ou farmacêutico para escrever (incluindo a cor).
+
+que dias são os seus dias de toma.
+Reveja a dose com o seu médico de cada vez que inicia um novo ciclo, pois poderá ser diferente do
+último ciclo.
+
+•
+
+Tomar Temodal sempre de acordo com as indicações do médico. Fale com o seu médico ou
+farmacêutico se tiver dúvidas. Erros na forma como toma este medicamento podem ter consequências
+graves para a saúde.
+
+Se tomar mais Temodal do que deveria
+Se acidentalmente tomar mais cápsulas de Temodal do que as recomendadas, contacte imediatamente
+o seu médico, farmacêutico ou enfermeiro.
+
+67
+
+Caso se tenha esquecido de tomar Temodal
+Tome a dose que se esqueceu o mais cedo possível, ainda no próprio dia. Caso tenha passado um dia
+inteiro, consulte o seu médico. Não tome uma dose a dobrar para compensar uma dose que se
+esqueceu de tomar, a não ser por indicação do seu médico.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico
+ou enfermeiro.
+
+4.
+
+Efeitos secundários possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos secundários, embora estes não
+se manifestem em todas as pessoas.
+Contacte o seu médico imediatamente se ocorrer qualquer das seguintes situações:
+uma reação alérgica (hipersensibilidade) grave (urticária, sibilos ou outro tipo de dificuldade na
+respiração),
+hemorragia não controlada,
+ataques (convulsões),
+febre,
+arrepios,
+forte dor de cabeça que não desaparece.
+O tratamento com Temodal pode reduzir o número de certos tipos de células sanguíneas. Tal poderá
+provocar um aumento de equimoses ou hemorragias, anemia (uma diminuição de glóbulos
+vermelhos), febre e uma diminuição da resistência às infeções. A redução de células do sangue é
+geralmente transitória. Nalguns casos poderá ser prolongada e levar a uma forma muito grave de
+anemia (anemia aplástica). O seu médico pedirá, regularmente, análises ao seu sangue para detetar
+quaisquer alterações e decidirá se será necessário qualquer tratamento específico. Em alguns casos, a
+dose de Temodal será reduzida ou suspensa.
+Outros efeitos secundários que têm sido comunicados estão listados abaixo:
+
+Efeitos secundários muito frequentes (podem afetar mais do que 1 em 10 pessoas) são:
+perda de apetite, dificuldade em falar, dor de cabeça
+-
+
+vómito, náuseas, diarreia, obstipação
+
+-
+
+erupção cutânea, perda de cabelo
+
+-
+
+cansaço
+
+Efeitos secundários frequentes (podem afetar até 1 em 10 pessoas) são:
+-
+
+infeções, infeções orais
+
+-
+
+redução do número de células do sangue (neutropenia, linfopenia, trombocitopenia)
+
+-
+
+reação alérgica
+
+-
+
+aumento do açúcar no sangue
+
+-
+
+falhas de memória, depressão, ansiedade, confusão, dificuldade em adormecer ou manter-se
+adormecido
+
+-
+
+dificuldade de coordenação e de equilíbrio
+
+-
+
+dificuldade de concentração, alterações no estado de consciência ou de alerta, esquecimento
+
+-
+
+tonturas, sensibilidade alterada, sensação de formigueiro, tremores, paladar alterado
+
+-
+
+perda parcial da visão, visão alterada, visão dupla, olhos doridos
+
+-
+
+surdez, zumbido nos ouvidos, dor de ouvidos
+
+-
+
+coágulo de sangue nos pulmões ou nas pernas, pressão arterial alta
+
+-
+
+pneumonia, falta de ar, bronquite, tosse, inflamação dos seios nasais
+
+-
+
+dor de estômago ou abdominal, estômago irritado/azia, dificuldade em engolir
+
+68
+
+-
+
+pele seca, comichão
+
+-
+
+dano nos músculos, fraqueza muscular, dor muscular
+
+-
+
+dor nas articulações, dor nas costas
+
+-
+
+micção frequente, dificuldade em reter a urina
+
+-
+
+febre, sintomas tipo gripe, dor, mal-estar, constipação ou gripe
+
+-
+
+retenção de líquidos, pernas inchadas
+
+-
+
+enzimas do fígado aumentadas
+
+-
+
+perda de peso, aumento de peso
+
+-
+
+lesão por radiação
+
+Efeitos secundários pouco frequentes (podem afetar até 1 em 100 pessoas) são:
+infeções no cérebro (meningoencefalite herpética) incluindo casos fatais
+-
+
+infeções de feridas
+
+-
+
+infeções novas ou reativadas por citomegalovírus
+
+-
+
+infeções reativadas pelo vírus da hepatite B
+
+-
+
+cancros secundários incluindo leucemia
+
+-
+
+diminuição do número de células do sangue (pancitopenia, anemia, leucopenia)
+
+-
+
+manchas vermelhas debaixo da pele
+
+-
+
+diabetes insípida (os sintomas incluem aumento da micção e sensação de sede), baixos níveis de
+
+-
+
+alterações do humor, alucinações
+
+-
+
+paralisia parcial, alteração do olfato
+
+potássio no sangue
+
+-
+
+insuficiência auditiva, infeção do ouvido médio
+
+-
+
+palpitações (quando sente o bater do coração), afrontamentos
+
+-
+
+estômago inchado, dificuldade em controlar os movimentos intestinais, hemorroidas, boca seca
+
+-
+
+hepatite e lesão no fígado (incluindo falência do fígado fatal), colestase, bilirrubina aumentada
+
+-
+
+bolhas no corpo ou na boca, descamação da pele, erupção da pele, vermelhidão dolorosa da
+pele, erupção grave com inchaço da pele (incluindo palmas das mãos e dos pés)
+
+-
+
+aumento da sensibilidade da pele ao sol, urticária, aumento da sudorese, alteração da cor da pele
+
+-
+
+dificuldade em urinar
+
+-
+
+hemorragia vaginal, irritação vaginal, períodos menstruais ausentes ou abundantes, dor no peito,
+impotência sexual
+
+-
+
+calafrios, inchaço na face, descoloração da língua, sede, alterações nos dentes
+
+-
+
+olhos secos
+
+Comunicação de efeitos secundários
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+secundários diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos secundários, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+
+5.
+
+Como conservar Temodal
+
+Manter este medicamento fora da vista e do alcance das crianças, de preferência num armário
+fechado. A ingestão acidental pode ser letal para as crianças.
+Não utilize este medicamento após o prazo de validade impresso na saqueta e embalagem. O prazo de
+validade corresponde ao último dia do mês indicado.
+Não armazenar acima de 30ºC.
+
+69
+
+Informe o seu farmacêutico se detetar qualquer alteração no aspeto das cápsulas.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Temodal
+A substância ativa é a temozolomida.
+Temodal 5 mg cápsulas: Cada cápsula contém 5 mg de temozolomida.
+Temodal 20 mg cápsulas: Cada cápsula contém 20 mg de temozolomida.
+Temodal 100 mg cápsulas: Cada cápsula contém 100 mg de temozolomida.
+Temodal 140 mg cápsulas: Cada cápsula contém 140 mg de temozolomida.
+Temodal 180 mg cápsulas: Cada cápsula contém 180 mg de temozolomida.
+Temodal 250 mg cápsulas: Cada cápsula contém 250 mg de temozolomida.
+Os outros componentes são:
+conteúdo da cápsula:
+lactose anidra, sílica coloidal anidra, carboximetilamido sódico tipo A, ácido tartárico, ácido esteárico
+(ver secção 2 “Temodal contém lactose”).
+invólucro da cápsula:
+Temodal 5 mg cápsulas: gelatina, dióxido de titânio (E 171), laurilsulfato de sódio, óxido de ferro
+amarelo (E 172), carmim de indigo (E 132).
+Temodal 20 mg cápsulas: gelatina, dióxido de titânio (E 171), laurilsulfato de sódio, óxido de ferro
+amarelo (E 172).
+Temodal 100 mg cápsulas: gelatina, dióxido de titânio (E 171), laurilsulfato de sódio, oxido vermelho
+de ferro (E 172).
+Temodal 140 mg cápsulas: gelatina, dióxido de titânio (E 171), laurilsulfato de sódio, carmim de
+indigo (E 132).
+Temodal 180 mg cápsulas: gelatina, dióxido de titânio (E 171), laurilsulfato de sódio, óxido de ferro
+amarelo (E 172) e óxido vermelho de ferro (E 172).
+Temodal 250 mg cápsulas: gelatina, dióxido de titânio (E 171), laurilsulfato de sódio.
+tinta de impressão:
+goma laca, propilenoglicol (E 1520), água purificada, hidróxido de amónio, hidróxido de potássio e
+óxido de ferro preto (E 172).
+
+Qual o aspeto de Temodal e conteúdo da embalagem
+Temodal 5 mg cápsulas têm um corpo branco opaco, uma cabeça verde opaca e são impressas com
+tinta preta. A cabeça é impressa com “TEMODAL”. O corpo é impresso com “5 mg”, o logotipo
+Schering-Plough e duas riscas.
+Temodal 20 mg cápsulas têm um corpo branco opaco, uma cabeça amarela opaca e são impressas
+com tinta preta. A cabeça é impressa com “TEMODAL”. O corpo é impresso com “20 mg”, o
+logotipo Schering-Plough e duas riscas.
+Temodal 100 mg cápsulas têm um corpo branco opaco, uma cabeça cor-de-rosa opaca e são
+impressas com tinta preta. A cabeça é impressa com “TEMODAL”. O corpo é impresso com
+“100 mg”, o logotipo Schering-Plough e duas riscas.
+Temodal 140 mg cápsulas têm um corpo branco opaco, uma cabeça azul e são impressas com tinta
+preta. A cabeça é impressa com “TEMODAL”. O corpo é impresso com “140 mg”, o logotipo
+Schering-Plough e duas riscas.
+Temodal 180 mg cápsulas têm um corpo branco opaco, uma cabeça cor-de-laranja opaca e são
+impressas com tinta preta. A cabeça é impressa com “TEMODAL”. O corpo é impresso com
+“180 mg”, o logotipo Schering-Plough e duas riscas.
+
+70
+
+Temodal 250 mg cápsulas têm um corpo e uma cabeça brancos opacos e são impressas com tinta
+preta. A cabeça é impressa com “TEMODAL”. O corpo é impresso com “250 mg”, o logotipo
+Schering-Plough e duas riscas.
+As cápsulas para administração oral são seladas individualmente em saquetas e distribuídas em
+cartonagens contendo 5 ou 20 cápsulas.
+É possível que não sejam comercializadas todas as apresentações.
+
+Fabricante
+Organon Heist bv
+Industriepark 30
+2220 Heist-op-den-Berg
+Bélgica
+
+Titular da Autorização de Introdução no
+Mercado
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+
+België/Belgique/Belgien
+MSD Belgium
+Tél/Tel: +32 (0)27766211
+dpoc_belux@msd.com
+
+Lietuva
+UAB Merck Sharp & Dohme
+Tel.: + 5 278 02 47
+msd_lietuva@merck.com
+
+България
+Мерк Шарп и Доум България ЕООД
+Тел.: +359 2 819 3737
+
+Luxembourg/Luxemburg
+MSD Belgium
+Tél/Tel: +32 (0)27766211
+dpoc_belux@msd.com
+
+info-msdbg@merck.com
+
+Česká republika
+Merck Sharp & Dohme s.r.o.
+Tel.: +420 233 010 111
+dpoc_czechslovak@merck.com
+
+Magyarország
+MSD Pharma Hungary Kft.
+Tel.: +36 1 888 53 00
+hungary_msd@merck.com
+
+Danmark
+MSD Danmark ApS
+Tlf: + 45 4482 4000
+dkmail@merck.com
+
+Malta
+Merck Sharp & Dohme Cyprus Limited
+Tel: 8007 4433 (+356 99917558)
+malta_info@merck.com
+
+Deutschland
+MSD Sharp & Dohme GmbH
+Tel: 0800 673 673 673 (+ 49 (0)89 45610)
+e-mail@msd.de
+
+Nederland
+Merck Sharp & Dohme B.V.
+Tel: 0800 9999000 (+31 23 5153153)
+medicalinfo.nl@merck.com
+
+Eesti
+Merck Sharp & Dohme OÜ
+Tel.: + 372 6144 200
+msdeesti@merck.com
+
+Norge
+MSD (Norge) AS
+Tlf: +47 32 20 73 00
+msdnorge@msd.no
+
+71
+
+dpoc_greece@merck.com
+
+Österreich
+Merck Sharp & Dohme Ges.m.b.H.
+Tel: +43 (0) 1 26 044
+dpoc_austria@merck.com
+
+España
+Merck Sharp & Dohme de España, S.A.
+Tel: +34 91 321 06 00
+msd_info@merck.com
+
+Polska
+MSD Polska Sp. z o.o.
+Tel: +48 22 549 51 00
+msdpolska@merck.com
+
+France
+MSD France
+Tél: + 33 (0) 1 80 46 40 40
+
+Portugal
+Merck Sharp & Dohme, Lda
+Tel: +351 21 446 57 00
+inform_pt@merck.com
+
+Hrvatska
+Merck Sharp & Dohme d.o.o.
+Tel: + 385 1 6611 333
+croatia_info@merck.com
+
+România
+Merck Sharp & Dohme Romania S.R.L.
+Tel.: + 4021 529 29 00
+msdromania@merck.com
+
+Ireland
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 2998700
+medinfo_ireland@msd.com
+
+Slovenija
+Merck Sharp & Dohme, inovativna zdravila
+d.o.o.
+Tel: +386 1 5204 201
+Msd_slovenia@merck.com
+
+Ísland
+Vistor hf.
+Sími: + 354 535 7000
+
+Slovenská republika
+Merck Sharp & Dohme, s. r. o.
+Tel: +421 2 58282010
+dpoc_czechslovak@merck.com
+
+Italia
+MSD Italia S.r.l.
+Tel: 800 23 99 89 (+39 06 361911)
+medicalinformation.it@msd.com
+
+Suomi/Finland
+MSD Finland Oy
+Puh/Tel: + 358 (0)9 804650
+info@msd.fi
+
+Κύπρος
+
+Sverige
+Merck Sharp & Dohme (Sweden) AB
+Tel: +46 (0) 77 5700488
+medicinskinfo@merck.com
+
+Ελλάδα
+MSD Α.Φ.Β.Ε.Ε.
+Τηλ: +30 210 98 97 300
+
+Merck Sharp & Dohme Cyprus Limited
+
+Τηλ: 800 00 673 (+357 22866700)
+cyprus_info@merck.com
+
+Latvija
+SIA Merck Sharp & Dohme Latvija
+Tel: + 371 67364224
+msd_lv@merck.com
+
+United Kingdom (Northern Ireland)
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 2998700
+medinfoNI@msd.com
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+72
+
+Folheto informativo: Informação para o utilizador
+Temodal 2,5 mg/ml pó para solução para perfusão
+temozolomida
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+
+−
+−
+−
+−
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados
+neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+
+O que contém este folheto
+1.
+O que é Temodal e para que é utilizado
+2.
+O que precisa de saber antes de utilizar Temodal
+3.
+Como utilizar Temodal
+4.
+Efeitos secundários possíveis
+5.
+Como conservar Temodal
+6.
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Temodal e para que é utilizado
+
+Temodal contém um medicamento chamado temozolomida. Este medicamento é um agente
+antitumoral.
+Temodal é indicado para o tratamento de formas específicas de tumores cerebrais:
+em adultos com glioblastoma multiforme recentemente diagnosticado. Inicialmente o Temodal
+é utilizado em associação com radioterapia (fase concomitante do tratamento) e posteriormente
+sozinho (fase de monoterapia do tratamento).
+em crianças com idade igual ou superior a 3 anos e adultos com glioma maligno, tal como
+glioblastoma multiforme ou astrocitoma anaplásico. Temodal é utilizado nestes tumores caso
+demonstrem recorrência ou progressão após uma terapêutica padrão.
+
+2.
+
+O que precisa de saber antes de tomar Temodal
+
+Não utilize Temodal
+se tem alergia à temozolomida ou a qualquer outro componente deste medicamento (indicados
+na secção 6).
+se já teve qualquer reação alérgica à dacarbazina (um medicamento contra o cancro, por vezes
+chamado DTIC). Os sinais de reação alérgica incluem comichão, falta de ar ou dificuldade em
+respirar, inchaço da face, lábios, língua ou garganta.
+se a contagem de certos tipos de células do sangue estiver gravemente reduzida
+(mielosupressão), tais como o número de glóbulos brancos e de plaquetas. Estas células do
+sangue são importantes para combater infeções e para uma adequada coagulação do sangue. O
+seu médico irá fazer análises ao sangue para confirmar que possui uma quantidade suficiente
+destas células antes de iniciar o tratamento.
+Advertências e precauções
+Fale com o seu médico, farmacêutico ou enfermeiro antes de tomar Temodal,
+se deve ser acompanhado de perto quanto à possibilidade de desenvolvimento de uma forma
+grave de infeção no peito, chamada pneumonia por Pneumocystis jirovecii (PCP). Se o seu
+diagnóstico é recente (glioblastoma multiforme) poderá estar a receber Temodal durante o
+
+73
+
+-
+
+-
+
+-
+
+-
+
+regime de 42 dias, em associação com o tratamento por radioterapia. Neste caso, o seu médico
+irá prescrever-lhe medicamentos para ajudar a prevenir este tipo de pneumonia (PCP).
+se alguma vez teve ou tem agora uma infeção por hepatite B. Isto porque o Temodal pode
+causar que a hepatite B fique novamente ativa, o que pode ser fatal em alguns casos. Os
+doentes serão cuidadosamente avaliados pelo seu médico relativamente a sinais desta infeção
+antes do tratamento se iniciar.
+se tiver baixas contagens de glóbulos vermelhos (anemia), glóbulos brancos e plaquetas no
+sangue, ou tiver problemas de coagulação do sangue antes de iniciar o tratamento, ou se estas
+situações surgirem durante o tratamento. O seu médico pode decidir reduzir a dose,
+interromper, parar ou alterar o seu tratamento. Poderá também necessitar de outros tratamentos.
+Em alguns casos pode ser necessário interromper o tratamento com Temodal. Será
+regularmente submetido a análises ao sangue durante o tratamento para vigiar os efeitos
+secundários de Temodal sobre as suas células do sangue.
+se pode ter um pequeno risco de outras alterações nas células do sangue, incluindo leucemia.
+se tiver náuseas (indisposição gástrica (do estômago)) e/ou vómitos que são efeitos secundários
+muito comuns do Temodal (ver secção 4), o seu médico poderá prescrever-lhe um
+medicamento (um antiemético) que o ajude a evitar os vómitos.
+contacte imediatamente o seu médico se desenvolver febre ou sintomas de uma infeção.
+se tem mais de 70 anos de idade pode estar em maior risco de sofrer infeções, nódoas negras ou
+hemorragias (perdas de sangue).
+se sofre de problemas no fígado ou nos rins, a sua dose de Temodal pode necessitar de ser
+ajustada.
+
+Crianças e adolescentes
+Não dê este medicamento a crianças com idade inferior a 3 anos, pois não foi estudado para esta
+população. A informação relativa ao uso de Temodal por crianças com idade superior a 3 anos é
+limitada.
+Outros medicamentos e Temodal
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos.
+Gravidez, amamentação e fertilidade
+Se está grávida, se pensa estar grávida ou planeia engravidar, consulte o seu médico ou farmacêutico
+antes de tomar este medicamento, porque não poderá ser tratada com Temodal durante a gravidez a
+não ser que tal tenha sido expressamente indicado pelo seu médico.
+Os doentes do sexo feminino com capacidade de engravidar devem adotar medidas contracetivas
+eficazes durante o tratamento com Temodal e pelo menos durante 6 meses após o fim do tratamento.
+Deve parar de amamentar durante o tratamento com Temodal.
+
+Fertilidade masculina
+Temodal pode causar infertilidade permanente. Os doentes do sexo masculino devem usar um método
+contracetivo eficaz e não devem conceber uma criança durante pelo menos 3 meses após o fim do
+tratamento. Recomenda-se que procure aconselhamento sobre a conservação de esperma antes de
+iniciar o tratamento.
+Condução de veículos e utilização de máquinas
+Enquanto receber Temodal poderá sentir fadiga ou sonolência. Neste caso, não conduza nem utilize
+ferramentas, máquinas ou bicicletas até perceber como este medicamento o afeta (ver secção 4).
+Temodal contém sódio
+Este medicamento contém 55,2 mg de sódio (principal componente de sal de cozinha/sal de mesa) em
+cada frasco para injetáveis. Isto é equivalente a 2,8 % da ingestão diária máxima de sódio
+recomendada na dieta para um adulto.
+
+74
+
+3.
+
+Como tomar Temodal
+
+Tome este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale com o seu
+médico ou farmacêutico se tiver dúvidas.
+O seu médico determinará qual a dose correta de Temodal que deverá receber, com base no seu
+tamanho (altura e peso) e no facto de ter ou não um tumor recorrente e já ter sido submetido a um
+tratamento de quimioterapia no passado.
+Antes e/ou depois da administração de Temodal, podem ser-lhe dados outros medicamentos
+(antieméticos) para evitar ou controlar as náuseas e os vómitos.
+Doentes com glioblastoma multiforme recentemente diagnosticado:
+Se é um doente recentemente diagnosticado, o tratamento vai decorrer em duas fases:
+primeiro o tratamento simultaneamente com radioterapia (fase concomitante)
+seguido de tratamento apenas com Temodal (fase de monoterapia).
+Durante a fase concomitante, o seu médico iniciará o Temodal numa dose de 75 mg/m2 (dose usual).
+Irá receber esta dose todos os dias durante 42 dias (até 49 dias) em associação com a radioterapia. A
+dose de Temodal poderá sofrer um atraso ou ser suspensa, com base nas contagens das suas células
+do sangue e na maneira como tolera o seu medicamento durante a fase concomitante.
+Uma vez terminada a terapêutica por radiação, irá interromper o tratamento durante 4 semanas. Isto
+dará oportunidade ao seu organismo para recuperar.
+Em seguida, iniciará a fase de monoterapia.
+Durante a fase de monoterapia, a dose e a forma como recebe Temodal vão ser diferentes. O seu
+médico irá determinar a sua dose exata.
+Podem existir até 6 períodos (ciclos) de tratamento. Cada um tem a duração de 28 dias.
+Irá receber a sua nova dose de Temodal sozinho uma vez por dia durante os primeiros cinco dias de
+cada ciclo. A primeira dose será de 150 mg/m2. De seguida terá 23 dias sem Temodal. Isto totaliza
+um ciclo de tratamento de 28 dias.
+Após o Dia 28 iniciar-se-á o ciclo seguinte. Irá receber Temodal novamente uma vez por dia durante
+cinco dias, seguindo-se 23 dias sem Temodal.
+Com base nas contagens das suas células do sangue e na maneira como tolera o seu medicamento
+durante cada ciclo de tratamento, a dose de Temodal poderá ser ajustada, ou a sua administração
+sofrer um atraso ou ser suspensa.
+Doentes com tumores recorrentes ou que pioraram (glioma maligno, tais como glioblastoma
+multiforme ou astrocitoma anaplásico) que recebam apenas Temodal:
+Cada ciclo de tratamento com Temodal tem a duração de 28 dias.
+Irá receber apenas Temodal uma vez por dia, durante os primeiros cinco dias. Esta dose diária irá
+depender do facto de já ter recebido quimioterapia antes ou não.
+Se não tiver sido previamente tratado com quimioterapia, a sua primeira dose de Temodal será de
+200 mg/m2 uma vez por dia, durante os primeiros cinco dias. Se tiver sido previamente tratado com
+quimioterapia, a sua primeira dose de Temodal será de 150 mg/m2 uma vez por dia, durante os
+primeiros cinco dias.
+Seguidamente terá 23 dias sem Temodal. Isto totaliza um ciclo de tratamento de 28 dias.
+Depois do Dia 28 iniciar-se-á o ciclo seguinte. Irá receber Temodal novamente uma vez por dia
+durante cinco dias, seguindo-se 23 dias sem Temodal.
+Antes de cada novo ciclo de tratamento, irá fazer análises ao sangue para verificar se a dose de
+Temodal deve ser ajustada. Dependendo dos resultados das suas análises ao sangue, o seu médico
+poderá ajustar a dose para o ciclo seguinte.
+75
+
+Forma de administração do Temodal
+Temodal ser-lhe-á administrado pelo seu médico gota a gota (perfusão) numa veia durante,
+aproximadamente, 90 minutos. Não é aceitável nenhum outro local de perfusão que não seja uma
+veia.
+Se utilizar mais Temodal do que deveria
+Este medicamento é administrado por profissionais de saúde. Assim sendo, é pouco provável que
+receba mais Temodal do que deveria. No entanto, se tal acontecer, o médico ou o enfermeiro irão
+tratá-lo de forma adequada.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico
+ou enfermeiro.
+
+4.
+
+Efeitos secundários possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos secundários, embora estes não
+se manifestem em todas as pessoas.
+Contacte o seu médico imediatamente se tiver qualquer dos seguintes efeitos:
+uma reação alérgica (hipersensibilidade) grave (urticária, sibilos ou outro tipo de dificuldade na
+respiração),
+hemorragia não controlada,
+ataques (convulsões),
+febre,
+arrepios,
+forte dor de cabeça que não desaparece.
+O tratamento com Temodal pode reduzir o número de certos tipos de células do sangue. Tal poderá
+provocar um aumento de nódoas negras ou hemorragias, anemia (uma diminuição de glóbulos
+vermelhos), febre e/ou uma diminuição da resistência às infeções. A redução de células do sangue é
+geralmente transitória. Nalguns casos poderá ser prolongada e levar a uma forma muito grave de
+anemia (anemia aplástica). O seu médico pedirá, regularmente, análises ao seu sangue para detetar
+quaisquer alterações e decidirá se será necessário qualquer tratamento específico. Em alguns casos, a
+dose de Temodal será reduzida ou suspensa.
+Outros efeitos secundários que têm sido comunicados estão listados abaixo:
+
+Efeitos secundários muito frequentes (podem afetar mais do que 1 em 10 pessoas) são:
+perda de apetite, dificuldade em falar, dor de cabeça
+-
+
+vómito, náuseas, diarreia, obstipação
+
+-
+
+erupção cutânea, perda de cabelo
+
+-
+
+cansaço
+
+Efeitos secundários frequentes (podem afetar até 1 em 10 pessoas) são:
+-
+
+infeções, infeções orais
+
+-
+
+redução do número de células do sangue (neutropenia, linfopenia, trombocitopenia)
+
+-
+
+reação alérgica
+
+-
+
+aumento do açúcar no sangue
+
+-
+
+falhas de memória, depressão, ansiedade, confusão, dificuldade em adormecer ou manter-se
+adormecido
+
+-
+
+dificuldade de coordenação e de equilíbrio
+
+-
+
+dificuldade de concentração, alterações no estado de consciência ou de alerta, esquecimento
+
+-
+
+tonturas, sensibilidade alterada, sensação de formigueiro, tremores, paladar alterado
+
+76
+
+-
+
+perda parcial da visão, visão alterada, visão dupla, olhos doridos
+
+-
+
+surdez, zumbido nos ouvidos, dor de ouvidos
+
+-
+
+coágulo de sangue nos pulmões ou nas pernas, pressão arterial alta
+
+-
+
+pneumonia, falta de ar, bronquite, tosse, inflamação dos seios nasais
+
+-
+
+dor de estômago ou abdominal, estômago irritado/azia, dificuldade em engolir
+
+-
+
+pele seca, comichão
+
+-
+
+dano nos músculos, fraqueza muscular, dor muscular
+
+-
+
+dor nas articulações, dor nas costas
+
+-
+
+micção frequente, dificuldade em reter a urina
+
+-
+
+febre, sintomas tipo gripe, dor, mal-estar, constipação ou gripe
+
+-
+
+retenção de líquidos, pernas inchadas
+
+-
+
+enzimas do fígado aumentadas
+
+-
+
+perda de peso, aumento de peso
+
+-
+
+lesão por radiação
+
+Efeitos secundários pouco frequentes (podem afetar até 1 em 100 pessoas) são:
+infeções no cérebro (meningoencefalite herpética) incluindo casos fatais
+-
+
+infeções de feridas
+
+-
+
+infeções novas ou reativadas por citomegalovírus
+
+-
+
+infeções reativadas pelo vírus da hepatite B
+
+-
+
+cancros secundários incluindo leucemia
+
+-
+
+diminuição do número de células do sangue (pancitopenia, anemia, leucopenia)
+
+-
+
+manchas vermelhas debaixo da pele
+
+-
+
+diabetes insípida (os sintomas incluem aumento da micção e sensação de sede), baixos níveis de
+potássio no sangue
+
+-
+
+alterações do humor, alucinações
+
+-
+
+paralisia parcial, alteração do olfato
+
+-
+
+insuficiência auditiva, infeção do ouvido médio
+
+-
+
+palpitações (quando sente o bater do coração), afrontamentos
+
+-
+
+estômago inchado, dificuldade em controlar os movimentos intestinais, hemorroidas, boca seca
+
+-
+
+hepatite e lesão no fígado (incluindo falência do fígado fatal), colestase, bilirrubina aumentada
+
+-
+
+bolhas no corpo ou na boca, descamação da pele, erupção da pele, vermelhidão dolorosa da
+pele, erupção grave com inchaço da pele (incluindo palmas das mãos e dos pés)
+
+-
+
+aumento da sensibilidade da pele ao sol, urticária, aumento da sudorese, alteração da cor da pele
+
+-
+
+dificuldade em urinar
+
+-
+
+hemorragia vaginal, irritação vaginal, períodos menstruais ausentes ou abundantes, dor no peito,
+
+-
+
+calafrios, inchaço na face, descoloração da língua, sede, alterações nos dentes
+
+-
+
+olhos secos
+
+impotência sexual
+
+Temodal pó para solução para perfusão
+Adicionalmente aos efeitos indesejáveis listados acima, podem também ocorrer os seguintes com a
+utilização de Temodal pó para solução para perfusão: dor, irritação, comichão, calor, inchaço ou
+vermelhidão no local de injeção; também nódoas negras (hematoma).
+
+Comunicação de efeitos secundários
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+secundários diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos secundários, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+
+77
+
+5.
+
+Como conservar Temodal
+
+Manter este medicamento fora da vista e do alcance das crianças, de preferência num armário
+fechado. A ingestão acidental pode ser letal para as crianças.
+Não utilize este medicamento após o prazo de validade impresso no rótulo e embalagem. O prazo de
+validade corresponde ao último dia do mês indicado.
+Conservar no frigorífico (2ºC
+
+– 8ºC).
+
+Uma vez que o seu medicamento seja preparado para perfusão (reconstituído), a solução pode ser
+armazenada a temperatura ambiente (25ºC) até um máximo de 14 horas, incluindo o tempo de
+perfusão.
+A solução reconstituída não deve ser usada se ocorrer alteração da coloração ou se forem observadas
+partículas.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Temodal
+A substância ativa é a temozolomida. Cada frasco para injetáveis contém 100 mg de temozolomida.
+Após a reconstituição cada ml de solução para perfusão contém 2,5 mg de temozolomida.
+Os outros componentes são manitol (E421), treonina, polissorbato 80, citrato de sódio (para ajuste do
+pH) e ácido clorídrico concentrado (para ajuste do pH) (ver secção 2).
+
+Qual o aspeto de Temodal e conteúdo da embalagem
+O pó para solução para perfusão é de cor branca. Temodal é comercializado num frasco para injetáveis
+de vidro com uma rolha de borracha de butilo e um selo de alumínio com tampa flip-off.
+Cada embalagem contém 1 frasco para injetáveis de 100 mg de temozolomida.
+
+Titular da Autorização de Introdução no
+Mercado
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+Fabricante
+Organon Heist bv
+Industriepark 30
+2220 Heist-op-den-Berg
+Bélgica
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+
+België/Belgique/Belgien
+MSD Belgium
+Tél/Tel: +32(0)27766211
+dpoc_belux@msd.com
+
+Lietuva
+UAB Merck Sharp & Dohme
+Tel.: + 5 278 02 47
+msd_lietuva@merck.com
+
+78
+
+Luxembourg/Luxemburg
+MSD Belgium
+Tél/Tel: +32 (0)27766211
+dpoc_belux@msd.com
+
+България
+Мерк Шарп и Доум България ЕООД
+Тел.: +359 2 819 3737
+info-msdbg@merck.com
+
+Česká republika
+Merck Sharp & Dohme s.r.o.
+Tel: +420 233 010 111
+dpoc_czechslovak@merck.com
+
+Magyarország
+MSD Pharma Hungary Kft.
+Tel.: +36 1 888 53 00
+hungary_msd@merck.com
+
+Danmark
+MSD Danmark ApS
+Tlf: + 45 4482 4000
+dkmail@merck.com
+
+Malta
+Merck Sharp & Dohme Cyprus Limited
+Tel: 8007 4433 (+356 99917558)
+malta_info@merck.com
+
+Deutschland
+MSD Sharp & Dohme GmbH
+Tel: 0800 673 673 673 (+ 49 (0)89 45610)
+e-mail@msd.de
+
+Nederland
+Merck Sharp & Dohme B.V.
+Tel: 0800 9999000 (+31 23 5153153)
+medicalinfo.nl@merck.com
+
+Eesti
+Merck Sharp & Dohme OÜ
+Tel.: + 372 6144200
+msdeesti@merck.com
+
+Norge
+MSD (Norge) AS
+Tlf: +47 32 20 73 00
+msdnorge@msd.no
+
+Ελλάδα
+MSD Α.Φ.Β.Ε.Ε.
+Τηλ: +30 210 98 97 300
+dpoc_greece@merck.com
+
+Österreich
+Merck Sharp & Dohme Ges.m.b.H.
+Tel: +43 (0) 1 26 044
+dpoc_austria@merck.com
+
+España
+Merck Sharp & Dohme de España, S.A.
+Tel: +34 91 321 06 00
+msd_info@merck.com
+
+Polska
+MSD Polska Sp. z o.o.
+Tel: +48 22 549 51 00
+msdpolska@merck.com
+
+France
+MSD France
+Tél: + 33 (0) 1 80 46 40 40
+
+Portugal
+Merck Sharp & Dohme, Lda.
+Tel: +351 21 446 57 00
+inform_pt@merck.com
+
+Hrvatska
+Merck Sharp & Dohme d.o.o.
+Tel: + 385 1 6611 333
+croatia_info@merck.com
+
+România
+Merck Sharp & Dohme Romania S.R.L.
+Tel: +4021 529 2900
+msdromania@merck.com
+
+Ireland
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 2998700
+medinfo_ireland@msd.com
+
+Slovenija
+Merck Sharp & Dohme, inovativna zdravila
+d.o.o.
+Tel: +386 1 5204 201
+Msd_slovenia@merck.com
+
+Ísland
+Vistor hf.
+Sími: + 354 535 7000
+
+Slovenská republika
+Merck Sharp & Dohme, s. r. o.
+Tel: +421 2 58282010
+dpoc_czechslovak@merck.com
+
+79
+
+Italia
+MSD Italia S.r.l.
+Tel: 800 23 99 89 (+39 06 361911)
+medicalinformation.it@msd.com
+
+Suomi/Finland
+MSD Finland Oy
+Puh/Tel: +358 (0)9 804650
+info@msd.fi
+
+Κύπρος
+
+Sverige
+Merck Sharp & Dohme (Sweden) AB
+Tel: +46 (0) 77 5700488
+medicinskinfo@merck.com
+
+Merck Sharp & Dohme Cyprus Limited
+Τηλ: 800 00 673 (+357 22866700)
+cyprus_info@merck.com
+
+Latvija
+SIA Merck Sharp & Dohme Latvija
+Tel: +371 67364224
+msd_lv@merck.com
+
+United Kingdom (Northern Ireland)
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 2998700
+medinfoNI@msd.com
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+É necessária precaução ao manusear Temodal 2,5 mg/ml pó para solução para perfusão. É necessária a
+utilização de luvas e de técnica assética. Caso Temodal 2,5 mg/ml entre em contacto com a pele ou
+com as mucosas, deverá lavar-se de imediato a zona afetada, meticulosamente, com água e sabão.
+Cada frasco para injetáveis deve ser reconstituído com 41 ml de água esterilizada para preparações
+injetáveis. A solução resultante contém 2,5 mg/ml de TMZ. Os frascos para injetáveis devem ser
+ligeiramente rodados e não agitados. A solução deve ser inspecionada e qualquer frasco contendo
+partículas visíveis não deve ser utilizado. O produto reconstituído tem de ser utilizado num período de
+14 horas, incluindo o tempo de perfusão.
+Deve ser retirado um volume até 40 ml de solução reconstituída, de acordo com a dose total prescrita e
+transferido para um saco de perfusão (em PVC ou Poliolefina) vazio, com capacidade para 250 ml.
+Ligar o tubo da bomba ao saco, purgar o tubo e depois tapar. Temodal 2,5 mg/ml pó para solução para
+perfusão destina-se a ser administrado por perfusão intravenosa apenas, durante um período de
+90 minutos.
+Temodal 2,5 mg/ml pó para solução para perfusão pode ser administrado na mesma linha IV com
+Cloreto de Sódio 0,9% injetável. É incompatível com soluções de dextrose.
+Na ausência de informação adicional, este medicamento não deve ser misturado com outros
+medicamentos ou ser perfundido com outros medicamentos em simultâneo através da mesma linha
+intravenosa.
+Este medicamento é para utilização única. Os produtos não utilizados ou os resíduos devem ser
+eliminados de acordo com as exigências locais.
+
+80
+
+

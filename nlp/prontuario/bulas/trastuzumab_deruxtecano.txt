@@ -1,0 +1,2857 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+
+1.
+
+NOME DO MEDICAMENTO
+
+Enhertu 100 mg pó para concentrado para solução para perfusão
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Um frasco para injetáveis de pó para concentrado para solução para perfusão contém 100 mg de
+trastuzumab deruxtecano. Após a reconstituição, um frasco para injetáveis de 5 ml de solução contém
+20 mg/ml de trastuzumab deruxtecano (ver secção 6.6).
+O trastuzumab deruxtecano é um anticorpo-fármaco conjugado (ADC) que contém um anticorpo
+monoclonal (mAb) humanizado anti-HER2, do tipo IgG1, com a mesma sequência de aminoácidos
+que o trastuzumab, produzido por células de mamífero (Ovário de Hamster Chinês), ligado
+covalentemente ao DXd, um derivado do exatecano e inibidor da topoisomerase I, através de um
+ligante clivável baseado num tetrapéptido. Aproximadamente 8 moléculas de deruxtecano estão
+ligadas a cada molécula de anticorpo.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Pó para concentrado para solução para perfusão.
+Pó liofilizado branco a branco amarelado.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Cancro da mama
+Cancro da mama HER2-positivo
+Enhertu em monoterapia é indicado para o tratamento de doentes adultos com cancro da mama HER2positivo, irressecável ou metastizado, que receberam um ou mais regimes anteriores anti-HER2.
+Cancro da mama com baixa expressão de HER2
+Enhertu em monoterapia é indicado para o tratamento de doentes adultos com cancro da mama com
+baixa expressão de HER2, irressecável ou metastizado, que receberam quimioterapia anterior no
+enquadramento metastático ou que desenvolveram recorrência da doença durante a quimioterapia
+adjuvante ou no período de 6 meses após a conclusão da mesma (ver secção 4.2).
+Cancro do pulmão de não pequenas células (CPNPC)
+Enhertu em monoterapia é indicado para o tratamento de doentes adultos com CPNPC avançado cujos
+tumores apresentam uma mutação ativante do HER2 (ERBB2) e que requerem terapêutica sistémica
+após quimioterapia à base de platina, com ou sem imunoterapia.
+
+2
+
+Cancro gástrico
+Enhertu em monoterapia é indicado para o tratamento de doentes adultos com adenocarcinoma
+gástrico ou da junção gastroesofágica (JGE) HER2-positivo avançado, que receberam um regime
+anterior à base de trastuzumab.
+4.2
+
+Posologia e modo de administração
+
+Enhertu deve ser prescrito por um médico e administrado sob a supervisão de um profissional de saúde
+experiente na utilização de medicamentos anticancerígenos. De modo a evitar erros relacionados com
+o medicamento, é importante verificar os rótulos dos frascos para injetáveis para assegurar que o
+medicamento a ser preparado e administrado é Enhertu (trastuzumab deruxtecano) e não trastuzumab
+ou trastuzumab emtansina.
+Enhertu não deve ser substituído por trastuzumab ou por trastuzumab emtansina.
+Seleção de doentes
+Cancro da mama HER2-positivo
+Os doentes tratados com trastuzumab deruxtecano para o cancro da mama devem ter documentado o
+seu estado tumoral HER2-positivo, definido como uma pontuação de 3+ por imunohistoquímica (IHC)
+ou um rácio ≥ 2,0 por hibridização in situ (ISH) ou por hibridização fluorescente in situ (FISH)
+avaliadas utilizando um dispositivo médico para diagnóstico in vitro (DIV) com marcação CE. Se não
+estiver disponível um DIV com marcação CE, o estado de HER2 deve ser avaliado por um teste
+alternativo validado.
+Cancro da mama com baixa expressão de HER2
+Os doentes tratados com trastuzumab deruxtecano devem ter documentado o seu estado tumoral de
+baixa expressão de HER2, definido como uma pontuação de IHC 1+ ou IHC 2+/ISH-, avaliada
+utilizando um dispositivo médico para DIV com marcação CE. Se não estiver disponível um DIV com
+marcação CE, o estado de HER2 deve ser avaliado por um teste alternativo validado (ver secção 5.1).
+CPNPC
+Os doentes tratados com trastuzumab deruxtecano para o CPNPC avançado devem ter uma mutação
+ativante do HER2 (ERBB2) detetada por um dispositivo médico para diagnóstico in vitro (DIV) com
+marcação CE. Se não estiver disponível um DIV com marcação CE, o estado de mutação do HER2
+deve ser avaliado por um teste alternativo validado.
+Cancro gástrico
+Os doentes tratados com trastuzumab deruxtecano para o cancro gástrico ou da junção gastroesofágica
+devem ter documentado o seu estado tumoral HER2-positivo, definido como uma pontuação de 3+ por
+imunohistoquímica (IHC) ou um rácio ≥ 2 por hibridização in situ (ISH) ou por hibridização
+fluorescente in situ (FISH) avaliadas utilizando um dispositivo médico para diagnóstico in vitro (DIV)
+com marcação CE. Se não estiver disponível um DIV com marcação CE, o estado de HER2 deve ser
+avaliado por um teste alternativo validado.
+Posologia
+Cancro da mama
+A dose recomendada de Enhertu é de 5,4 mg/kg administrada por perfusão intravenosa uma vez, em
+intervalos de 3 semanas (ciclo de 21 dias), até à progressão da doença ou toxicidade inaceitável.
+CPNPC
+A dose recomendada de Enhertu é de 5,4 mg/kg administrada por perfusão intravenosa uma vez, em
+intervalos de 3 semanas (ciclo de 21 dias), até à progressão da doença ou toxicidade inaceitável.
+
+3
+
+Cancro gástrico
+A dose recomendada de Enhertu é de 6,4 mg/kg administrada por perfusão intravenosa uma vez, em
+intervalos de 3 semanas (ciclo de 21 dias), até à progressão da doença ou toxicidade inaceitável.
+A dose inicial deve ser administrada na forma de uma perfusão intravenosa de 90 minutos. Se a
+perfusão anterior foi bem tolerada, as doses subsequentes de Enhertu podem ser administradas na
+forma de perfusões de 30 minutos.
+A velocidade da perfusão de Enhertu deve ser diminuída ou interrompida se o doente desenvolver
+sintomas relacionados com a perfusão (ver secção 4.8). Enhertu deve ser descontinuado
+permanentemente no caso de reações graves à perfusão.
+Pré-medicação
+Enhertu é emetogénico (ver secção 4.8), o que inclui náuseas e/ou vómitos retardados. Antes de cada
+dose de Enhertu, os doentes devem ser pré-medicados com um regime de associação de dois ou três
+medicamentos (p. ex., dexametasona e um antagonista do recetor 5-HT3 e/ou um antagonista do
+recetor NK1, assim como outros medicamentos, conforme indicado) para a prevenção de náuseas e
+vómitos induzidos pela quimioterapia.
+Modificações da dose
+O tratamento das reações adversas pode exigir a interrupção temporária, redução da dose ou
+descontinuação do tratamento com Enhertu de acordo com as normas de orientação apresentadas nas
+Tabelas 1 e 2.
+A dose de Enhertu não deve ser novamente aumentada após ter sido efetuada uma redução da dose.
+Tabela 1: Esquema para redução da dose
+Esquema para redução da dose Cancro da mama e CPNPC
+Dose inicial recomendada
+5,4 mg/kg
+Primeira redução da dose
+4,4 mg/kg
+Segunda redução da dose
+3,2 mg/kg
+Necessidade de redução adicional Descontinuar o tratamento
+da dose
+
+Cancro gástrico
+6,4 mg/kg
+5,4 mg/kg
+4,4 mg/kg
+Descontinuar o tratamento
+
+Tabela 2: Modificações da dose devido a reações adversas
+Reação adversa
+Gravidade
+Modificação do tratamento
+Doença pulmonar
+DPI/pneumonite assintomática
+Interromper Enhertu até à resolução
+intersticial
+(Grau 1)
+para Grau 0, depois:
+(DPI)/pneumonite
+•
+se resolvida em 28 dias ou menos
+em relação à data de início, manter
+a dose.
+•
+se resolvida em mais de 28 dias
+em relação à data de início, reduzir
+a dose um nível (ver Tabela 1).
+•
+considerar o tratamento com
+corticosteroides logo que haja
+suspeita de DPI/pneumonite (ver
+secção 4.4).
+DPI/pneumonite sintomática
+•
+Descontinuar permanentemente
+(Grau 2 ou superior)
+Enhertu.
+•
+Iniciar imediatamente o tratamento
+com corticosteroides logo que haja
+suspeita de DPI/pneumonite (ver
+secção 4.4).
+4
+
+Reação adversa
+Neutropenia
+
+Gravidade
+Grau 3 (inferior a 1,0-0,5 × 109/l)
+
+•
+
+Grau 4 (inferior a 0,5 × 109/l)
+
+•
+•
+
+Neutropenia febril
+
+Diminuição da
+fração de ejeção
+ventricular
+esquerda (FEVE)
+
+Modificação do tratamento
+Interromper Enhertu até à
+resolução para Grau 2 ou inferior,
+depois manter a dose.
+Interromper Enhertu até à
+resolução para Grau 2 ou inferior.
+Reduzir a dose um nível (ver
+Tabela 1).
+Interromper Enhertu até à
+resolução.
+Reduzir a dose um nível (ver
+Tabela 1).
+
+Contagem absoluta de neutrófilos
+inferior a 1,0 × 109/l e temperatura
+superior a 38,3 °C ou uma
+temperatura persistente de 38 °C
+ou superior durante mais do que
+uma hora.
+FEVE superior a 45% e diminuição
+absoluta em relação ao valor inicial
+de 10% a 20%
+
+•
+
+•
+
+Continuar o tratamento com
+Enhertu.
+
+FEVE de
+40% a 45%
+
+E diminuição
+absoluta em relação
+ao valor inicial
+inferior a 10%
+
+•
+
+Continuar o tratamento com
+Enhertu.
+Repetir a avaliação da FEVE ao fim
+de 3 semanas.
+
+E diminuição
+absoluta em relação
+ao valor inicial de
+10% a 20%
+
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+FEVE inferior a 40% ou
+diminuição absoluta em relação ao
+valor inicial superior a 20%
+
+•
+•
+•
+
+Insuficiência cardíaca congestiva
+(ICC) sintomática
+
+•
+
+Interromper Enhertu.
+Repetir a avaliação da FEVE ao fim
+de 3 semanas.
+Se a FEVE não tiver recuperado
+para os 10% em relação ao valor
+inicial, descontinuar
+permanentemente Enhertu.
+Se a FEVE recuperar para os 10%
+em relação ao valor inicial, reiniciar
+o tratamento com Enhertu na
+mesma dose.
+Interromper Enhertu.
+Repetir a avaliação da FEVE ao fim
+de 3 semanas.
+Caso se confirme uma FEVE
+inferior a 40% ou uma diminuição
+absoluta em relação ao valor inicial
+superior a 20%, descontinuar
+permanentemente Enhertu.
+Descontinuar permanentemente
+Enhertu.
+
+Os graus de toxicidade são definidos em conformidade com os critérios National Cancer Institute
+Common Terminology Criteria for Adverse Events [Critérios de Terminologia Comum para Eventos
+Adversos do Instituto Nacional do Cancro]) versão 5.0 (NCI-CTCAE v.5.0).
+Atraso ou omissão de uma dose
+No caso de atraso ou omissão de uma dose planeada, esta deve ser administrada logo que for possível
+sem aguardar até ao ciclo planeado seguinte. O esquema de administração deve ser ajustado para
+manter um intervalo de 3 semanas entre as doses. A perfusão deve ser administrada na dose e
+velocidade que o doente tolerou na perfusão mais recente.
+
+5
+
+Populações especiais
+Idosos
+Não são necessários ajustes posológicos de Enhertu em doentes com idade igual ou superior a 65 anos.
+Os dados disponíveis em doentes com ≥ 75 anos de idade são limitados.
+Compromisso renal
+Não são necessários ajustes posológicos em doentes com compromisso renal ligeiro (depuração da
+creatinina [CLcr] ≥ 60 e < 90 ml/min) ou moderado (CLcr ≥ 30 e < 60 ml/min) (ver secção 5.2). A
+potencial necessidade de um ajuste posológico em doentes com compromisso renal grave ou com
+doença renal em fase terminal não pode ser determinada, uma vez que o compromisso renal grave
+constituiu um critério de exclusão dos estudos clínicos. Observou-se uma incidência mais elevada de
+DPI/pneumonite de Grau 1 e 2, que levou a um aumento na descontinuação da terapêutica, em doentes
+com compromisso renal moderado. Observou-se uma incidência mais elevada de reações adversas
+graves nos doentes com compromisso renal moderado no início do estudo que receberam Enhertu
+6,4 mg/kg, em comparação com os doentes com uma função renal normal. Os doentes com
+compromisso renal moderado ou grave devem ser monitorizados cuidadosamente para despistar
+reações adversas, incluindo DPI/pneumonite (ver secção 4.4).
+Compromisso hepático
+Não são necessários ajustes posológicos em doentes com um valor da bilirrubina total ≤ 1,5 vezes o
+limite superior dos valores normais (LSN), independentemente do valor da aspartato transaminase
+(AST). A potencial necessidade de um ajuste posológico em doentes com um valor da bilirrubina total
+> 1,5 vezes o LSN, independentemente do valor da AST, não pôde ser determinada devido a dados
+limitados; por conseguinte, estes doentes devem ser monitorizados cuidadosamente (ver secções 4.4
+e 5.2).
+População pediátrica
+A segurança e eficácia de Enhertu em crianças e adolescentes com menos de 18 anos de idade não
+foram estabelecidas. Não existem dados disponíveis.
+Modo de administração
+Enhertu é para utilização por via intravenosa. Tem de ser reconstituído e diluído por um profissional
+de saúde e administrado por perfusão intravenosa. Enhertu não pode ser administrado por injeção
+intravenosa rápida ou em bólus.
+Para instruções acerca da reconstituição e diluição do medicamento antes da administração, ver
+secção 6.6.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+4.4
+
+Advertências e precauções especiais de utilização
+
+De modo a evitar erros relacionados com o medicamento, é importante verificar os rótulos dos frascos
+para injetáveis para assegurar que o medicamento a ser preparado e administrado é Enhertu
+(trastuzumab deruxtecano) e não trastuzumab ou trastuzumab emtansina.
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+
+6
+
+Doença pulmonar intersticial/pneumonite
+Foram notificados casos de doença pulmonar intersticial (DPI) e/ou pneumonite com Enhertu (ver
+secção 4.8). Observaram-se casos com evolução fatal. Os doentes devem ser aconselhados a notificar
+imediatamente tosse, dispneia, febre e/ou quaisquer novos sintomas respiratórios ou agravamento dos
+mesmos. Os doentes devem ser monitorizados para deteção de sinais e sintomas de DPI/pneumonite.
+Qualquer evidência de DPI/pneumonite deve ser prontamente investigada. Doentes com suspeita de
+DPI/pneumonite devem ser avaliados por imagiologia radiográfica, preferencialmente por uma
+tomografia axial computadorizada (TAC). Deve ser considerada uma consulta com um pneumologista.
+No caso de DPI/pneumonite assintomática (Grau 1), deverá considerar-se o tratamento com
+corticosteroides (p. ex., prednisolona ≥ 0,5 mg/kg/dia ou equivalente). Enhertu deve ser suspenso até à
+recuperação para Grau 0 e pode ser reiniciado de acordo com as instruções da Tabela 2 (ver
+secção 4.2). No caso de DPI/pneumonite sintomática (Grau 2 ou superior), deverá iniciar-se
+imediatamente o tratamento com corticosteroides (p. ex., prednisolona ≥ 1 mg/kg/dia ou equivalente) e
+continuar durante pelo menos 14 dias seguido de uma diminuição gradual durante pelo menos
+4 semanas. Enhertu deve ser descontinuado permanentemente em doentes que são diagnosticados com
+DPI/pneumonite sintomática (Grau 2 ou superior) (ver secção 4.2). Doentes com antecedentes de
+DPI/pneumonite ou doentes com compromisso renal moderado ou grave podem ter um maior risco de
+desenvolverem uma DPI/pneumonite e devem ser cuidadosamente monitorizados (ver secção 4.2).
+Neutropenia
+Foram notificados casos de neutropenia, incluindo neutropenia febril com evolução fatal, em estudos
+clínicos de Enhertu. Devem ser monitorizados os hemogramas completos antes do início de Enhertu e
+antes de cada dose, e conforme clinicamente indicado. Com base na gravidade da neutropenia, Enhertu
+pode requerer uma interrupção ou redução da dose (ver secção 4.2).
+Diminuição da fração de ejeção ventricular esquerda
+Observou-se diminuição da fração de ejeção ventricular esquerda (FEVE) com as terapêuticas antiHER2.
+Devem ser realizados os testes padrão da função cardíaca (ecocardiograma ou MUGA [angiografia de
+radionuclídeos]) para avaliar a FEVE antes do início de Enhertu e em intervalos regulares durante o
+tratamento, como clinicamente indicado. A diminuição da FEVE deve ser controlada com a
+interrupção do tratamento. Enhertu deve ser descontinuado permanentemente caso se confirme uma
+FEVE inferior a 40% ou uma diminuição absoluta em relação ao valor inicial superior a 20%. Enhertu
+deve ser descontinuado permanentemente em doentes com insuficiência cardíaca congestiva (ICC)
+sintomática (ver Tabela 2 na secção 4.2).
+Toxicidade embriofetal
+Enhertu pode causar lesão fetal quando administrado a uma mulher grávida. Em notificações póscomercialização, a utilização do trastuzumab, um antagonista dos recetores HER2, durante a gravidez
+resultou em casos de oligohidrâmnios que se manifestaram por hipoplasia pulmonar fatal, anomalias
+esqueléticas e morte neonatal. Com base em observações em animais e no seu mecanismo de ação, o
+componente inibidor da topoisomerase I de Enhertu, DXd, também pode causar lesão embriofetal
+quando administrado a uma mulher grávida (ver secção 4.6).
+A gravidez em mulheres com potencial reprodutivo deve ser verificada antes de se iniciar Enhertu. A
+doente deve ser informada sobre os riscos potenciais para o feto. As mulheres com potencial
+reprodutivo devem ser aconselhadas a utilizar métodos contracetivos eficazes durante o tratamento
+com Enhertu e durante pelo menos 7 meses após a última dose de Enhertu. Os doentes do sexo
+masculino com parceiras com potencial reprodutivo devem ser aconselhados a utilizar métodos
+contracetivos eficazes durante o tratamento com Enhertu e durante pelo menos 4 meses após a última
+dose de Enhertu (ver secção 4.6).
+
+7
+
+Doentes com compromisso hepático moderado ou grave
+Existem dados limitados em doentes com compromisso hepático moderado e não existem dados em
+doentes com compromisso hepático grave. Como o metabolismo e a excreção biliar são as principais
+vias de eliminação do inibidor da topoisomerase I, DXd, Enhertu deve ser administrado com
+precaução em doentes com compromisso hepático moderado e grave (ver secções 4.2 e 5.2).
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+A coadministração com ritonavir, um inibidor da OATP1B, CYP3A e gp-P, ou com itraconazol, um
+inibidor potente da CYP3A e gp-P, resultou num aumento clinicamente não significativo (de
+aproximadamente 10-20%) das exposições do trastuzumab deruxtecano ou do inibidor da
+topoisomerase I libertado, DXd. Não são necessários ajustes posológicos durante a coadministração de
+trastuzumab deruxtecano com medicamentos que são inibidores da CYP3A ou dos transportadores
+OATP1B ou gp-P (ver secção 5.2).
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar/Contraceção masculina e feminina
+A gravidez em mulheres com potencial para engravidar deve ser verificada antes de se iniciar Enhertu.
+As mulheres com potencial para engravidar devem utilizar métodos contracetivos eficazes durante o
+tratamento com Enhertu e durante pelo menos 7 meses após a última dose.
+Os homens com parceiras com potencial para engravidar devem utilizar métodos contracetivos
+eficazes durante o tratamento com Enhertu e durante pelo menos 4 meses após a última dose.
+Gravidez
+Não existem dados sobre a utilização de Enhertu em mulheres grávidas. Contudo, o trastuzumab, um
+antagonista dos recetores HER2, pode causar lesão fetal quando administrado a uma mulher grávida.
+Em notificações pós-comercialização, a utilização do trastuzumab durante a gravidez resultou em
+casos de oligohidrâmnios que, em alguns casos, se manifestou por hipoplasia pulmonar fatal,
+anomalias esqueléticas e morte neonatal. Com base em observações em animais e no seu mecanismo
+de ação, é de prever que o componente inibidor da topoisomerase I de Enhertu, DXd, possa causar
+lesão embriofetal quando administrado a uma mulher grávida (ver secção 5.3).
+A administração de Enhertu a mulheres grávidas não é recomendada e as doentes devem ser
+informadas sobre os riscos potenciais para o feto antes de engravidarem. As mulheres que engravidem
+têm de contactar imediatamente o seu médico. Recomenda-se que seja efetuada uma monitorização
+rigorosa se uma mulher engravidar durante o tratamento com Enhertu ou no período de 7 meses após a
+última dose de Enhertu.
+Amamentação
+Desconhece-se se o trastuzumab deruxtecano é excretado no leite humano. A IgG humana é secretada
+no leite humano e o potencial para a sua absorção e de reações adversas graves para o bebé é
+desconhecido. Por conseguinte, as mulheres não devem amamentar durante o tratamento com Enhertu
+ou durante os 7 meses após a última dose. Deve ser tomada uma decisão sobre a descontinuação da
+amamentação ou a descontinuação da terapêutica com Enhertu tendo em conta o benefício da
+amamentação para a criança e/ou o benefício da terapêutica para a mãe.
+Fertilidade
+Não foram conduzidos estudos específicos da fertilidade com o trastuzumab deruxtecano. Com base
+nos resultados de estudos de toxicidade em animais, Enhertu pode alterar a função reprodutiva
+8
+
+masculina e a fertilidade. Desconhece-se se o trastuzumab deruxtecano ou os seus metabolitos são
+detetados no fluido seminal. Antes do início do tratamento, os doentes do sexo masculino devem ser
+informados de que devem procurar aconselhamento sobre conservação de espermatozoides. Os
+doentes do sexo masculino não podem congelar ou doar esperma durante todo o período de tratamento,
+e durante pelo menos 4 meses após a dose final de Enhertu.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Enhertu sobre a capacidade de conduzir e utilizar máquinas são reduzidos. Os doentes
+devem ser aconselhados a tomarem precauções quando conduzem ou utilizam máquinas caso sintam
+fadiga, tenham cefaleias ou tonturas durante o tratamento com Enhertu (ver secção 4.8).
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Enhertu 5,4 mg/kg
+A população de segurança agrupada foi avaliada em relação aos doentes que receberam, pelo menos,
+uma dose de 5,4 mg/kg de Enhertu (n = 1449) nos múltiplos tipos de tumores nos estudos clínicos. A
+duração mediana do tratamento neste grupo foi de 9,8 meses (intervalo: 0,7 a 45,1 meses).
+As reações adversas mais frequentes foram náuseas (75,0%), fadiga (57,3%), vómitos (42,1%),
+alopecia (37,6%), neutropenia (35,2%), obstipação (35,0%), anemia (34,4%), diminuição do apetite
+(33,1%), diarreia (28,8%), aumento das transaminases (26,5%), dor musculoesquelética (26,2%),
+trombocitopenia (24,5%) e leucopenia (23,7%).
+As reações adversas de Grau 3 ou 4 mais frequentes segundo os critérios do National Cancer Institute
+– Common Terminology Criteria for Adverse Events (NCI-CTCAE v.5.0) foram neutropenia (17,0%),
+anemia (9,5%), fadiga (8,4%), leucopenia (6,4%), náuseas (5,9%), trombocitopenia (5,0%), linfopenia
+(4,8%), hipocaliemia (3,8%), aumento das transaminases (3,6%), vómitos (2,7%), diarreia (2,0%),
+diminuição do apetite (1,7%), pneumonia (1,4%) e diminuição da fração de ejeção (1,1%). Ocorreram
+reações adversas de Grau 5 em 1,4% dos doentes, incluindo DPI (1,0%).
+As interrupções de administração da dose devido a reações adversas ocorreram em 34,3% dos doentes
+tratados com Enhertu. As reações adversas mais frequentes associadas com a interrupção da
+administração da dose foram neutropenia (13,3%), fadiga (5,0%), anemia (4,7%), leucopenia (3,7%),
+trombocitopenia (3,0%), infeção das vias respiratórias superiores (2,7%) e DPI (2,6%). As reduções da
+dose ocorreram em 20,6% dos doentes tratados com Enhertu. As reações adversas mais frequentes
+associadas com a redução da dose foram fadiga (5,0%), náuseas (4,9%) neutropenia (3,5%) e
+trombocitopenia (2,1%). A descontinuação da terapêutica devido a uma reação adversa ocorreu em
+13,0% dos doentes tratados com Enhertu. A reação adversa mais frequente associada com a
+descontinuação permanente da terapêutica foi a DPI (9,2%).
+Enhertu 6,4 mg/kg
+A população de segurança agrupada foi avaliada em relação aos doentes que receberam, pelo menos,
+uma dose de 6,4 mg/kg de Enhertu (n = 669), nos múltiplos tipos de tumores nos estudos clínicos. A
+duração mediana do tratamento neste grupo foi de 5,7 meses (intervalo: 0,7 a 41,0 meses).
+As reações adversas mais frequentes foram náuseas (72,2%), fadiga (58,4%), diminuição do apetite
+(53,5%), anemia (44,7%), neutropenia (43,5%), vómitos (40,1%), diarreia (35,9%), alopecia (35,4%),
+obstipação (32,3%), trombocitopenia (30,8%), leucopenia (29,3%) e aumento das transaminases
+(24,2%).
+As reações adversas de Grau 3 ou 4 mais frequentes segundo os critérios do National Cancer Institute
+– Common Terminology Criteria for Adverse Events (NCI-CTCAE v.5.0) foram neutropenia (28,7%),
+anemia (22,6%), leucopenia (13,3%), trombocitopenia (9,1%), fadiga (8,4%), diminuição do apetite
+(7,8%), linfopenia (6,9%), náuseas (5,8%), aumento das transaminases (4,3%), hipocaliemia (4,3%),
+9
+
+pneumonia (3,1%), neutropenia febril (2,8%), vómitos (2,4%), diarreia (2,2%), peso diminuído (1,9%),
+aumento da fosfatase alcalina no sangue (1,6%), doença pulmonar intersticial (DPI, 1,5%), dispneia
+(1,2%), diminuição da fração de ejeção (1,2%) e aumento da bilirrubina no sangue (1,2%). Ocorreram
+reações adversas de Grau 5 em 2,7% dos doentes, incluindo DPI (2,1%).
+As interrupções de administração da dose devido a reações adversas ocorreram em 40,7% dos doentes
+tratados com Enhertu. As reações adversas mais frequentes associadas com a interrupção da
+administração da dose foram neutropenia (16,6%), anemia (7,8%), fadiga (5,7%), DPI (4,8%),
+leucopenia (4,2%), diminuição do apetite (3,7%), pneumonia (3,6%), infeção das vias respiratórias
+superiores (3,4%) e trombocitopenia (3,1%). As reduções da dose ocorreram em 31,1% dos doentes
+tratados com Enhertu. As reações adversas mais frequentes associadas com a redução da dose foram
+fadiga (10,6%), neutropenia (6,6%), náuseas (6,4%), diminuição do apetite (5,4%) e trombocitopenia
+(3,0%). A descontinuação da terapêutica devido a uma reação adversa ocorreu em 17,6% dos doentes
+tratados com Enhertu. A reação adversa mais frequente associada com a descontinuação permanente
+da terapêutica foi a DPI (12,9%).
+Em doentes com cancro gástrico tratados com Enhertu 6,4 mg/kg (n = 229), 25,3% receberam uma
+transfusão no período de 28 dias após o início da anemia ou da trombocitopenia. As transfusões foram
+primariamente devido a anemia.
+Lista tabelada de reações adversas
+As reações adversas em doentes que receberam pelo menos uma dose de Enhertu em estudos clínicos
+são apresentadas na Tabela 3. As reações adversas são indicadas de acordo com as Classes de Sistemas
+de Órgãos (CSO) e as categorias de frequência do MedDRA. As categorias de frequência são definidas
+como: muito frequentes (≥1/10), frequentes (≥1/100, <1/10), pouco frequentes (≥1/1 000, <1/100),
+raros (≥1/10 000, <1/1 000), muito raros (<1/10 000) e desconhecida (a frequência não pode ser
+calculada a partir dos dados disponíveis). As reações adversas são apresentadas por ordem decrescente
+de gravidade dentro de cada classe de frequência.
+Tabela 3: Reações adversas em doentes tratados com 5,4 mg/kg e 6,4 mg/kg de trastuzumab
+deruxtecano em múltiplos tipos de tumores
+Classes de sistemas de órgãos
+5,4 mg/kg
+6,4 mg/kg
+Categoria de frequência
+Reação adversa
+Reação adversa
+Infeções e infestações
+Muito frequente
+
+Infeção das vias
+respiratórias superioresa
+
+Frequente
+
+Pneumonia
+
+Pneumonia, infeção das
+vias respiratórias
+superioresa
+
+Doenças do sangue e do sistema linfático
+Muito frequente
+
+Anemiab, neutropeniac,
+trombocitopeniad,
+leucopeniae, linfopeniaf
+
+Frequente
+Pouco frequente
+
+Anemiab, neutropeniac,
+trombocitopeniad,
+leucopeniae, linfopeniaf
+Neutropenia febril
+
+Neutropenia febril
+
+Doenças do metabolismo e da nutrição
+Muito frequente
+
+Hipocaliemiag,
+diminuição do apetite
+
+Hipocaliemiag, diminuição
+do apetite
+
+Frequente
+
+Desidratação
+
+Desidratação
+
+10
+
+Classes de sistemas de órgãos
+Categoria de frequência
+
+5,4 mg/kg
+Reação adversa
+
+6,4 mg/kg
+Reação adversa
+
+Muito frequente
+
+Cefaleiash, tonturas
+
+Cefaleiash, disgeusia
+
+Frequente
+
+Disgeusia
+
+Tonturas
+
+Olho seco, visão turvai
+
+Olho seco, visão turvai
+
+Doenças do sistema nervoso
+
+Afeções oculares
+Frequente
+
+Doenças respiratórias, torácicas e do mediastino
+Muito frequente
+
+Doença pulmonar
+intersticialj, dispneia,
+tosse, epistaxe
+
+Frequente
+
+Doença pulmonar
+intersticialj, dispneia, tosse
+Epistaxe
+
+Doenças gastrointestinais
+Muito frequente
+
+Náuseas, vómitos,
+obstipação, diarreia, dor
+abdominalk, estomatitel,
+dispepsia
+
+Náuseas, vómitos, diarreia,
+obstipação, dor abdominalk,
+estomatitel
+
+Frequente
+
+Distensão abdominal,
+gastrite, flatulência
+
+Dispepsia, distensão
+abdominal, gastrite,
+flatulência
+
+Aumento das
+transaminasesm
+
+Aumento das
+transaminasesm
+
+Afeções hepatobiliares
+Muito frequente
+
+Afeções dos tecidos cutâneos e subcutâneos
+Muito frequente
+
+Alopecia
+
+Alopecia
+
+Frequente
+
+Erupção cutânean,
+prurido,
+hiperpigmentação
+cutâneao
+
+Erupção cutânean, prurido,
+hiperpigmentação cutâneao
+
+Afeções musculosqueléticas e dos tecidos conjuntivos
+Muito frequente
+
+Dor musculosqueléticap
+
+Dor musculosqueléticap
+
+Perturbações gerais e alterações no local de administração
+Muito frequente
+
+Fadigaq, pirexia
+
+Frequente
+
+Edema periférico
+
+Fadigaq, pirexia, edema
+periférico
+
+Exames complementares de diagnóstico
+Muito frequente
+
+Diminuição da fração
+de ejeçãor, peso
+diminuído
+
+Diminuição da fração de
+ejeçãor, peso diminuído
+
+Frequente
+
+Aumento da fosfatase
+alcalina sérica, aumento
+da bilirrubina séricas,
+
+Aumento da fosfatase
+alcalina sérica, aumento da
+
+11
+
+Classes de sistemas de órgãos
+Categoria de frequência
+
+5,4 mg/kg
+Reação adversa
+
+6,4 mg/kg
+Reação adversa
+
+aumento da creatinina
+sérica
+
+bilirrubina séricas, aumento
+da creatinina sérica
+
+Complicações de intervenções relacionadas com lesões e intoxicações
+Frequente
+
+Reações relacionadas
+com a perfusãot
+
+a
+
+Reações relacionadas com a
+perfusãot
+
+Inclui gripe, doença tipo gripe, nasofaringite, faringite, sinusite, rinite, laringite e infeção das vias respiratórias
+superiores.
+b
+Para todos os tipos de tumores tratados com 5,4 mg/kg, inclui anemia, diminuição da hemoglobina, diminuição
+da contagem de eritrócitos e diminuição do hematócrito. Para todos os tipos de tumores tratados com
+6,4 mg/kg, inclui anemia, diminuição da hemoglobina e diminuição da contagem de eritrócitos.
+c
+Inclui neutropenia e diminuição da contagem de neutrófilos.
+d
+Inclui trombocitopenia e diminuição da contagem de plaquetas.
+e
+Inclui leucopenia e diminuição da contagem de leucócitos.
+f
+Inclui linfopenia e diminuição da contagem de linfócitos.
+g
+Inclui hipocaliemia e diminuição do potássio no sangue.
+h
+Para todos os tipos de tumores tratados com 5,4 mg/kg, inclui cefaleia, cefaleia sinusal e enxaqueca. Para todos
+os tipos de tumores tratados com 6,4 mg/kg, inclui cefaleia e enxaqueca.
+i
+Inclui visão turva e compromisso visual.
+j
+Para todos os tipos de tumores tratados com 5,4 mg/kg, a doença pulmonar intersticial inclui acontecimentos
+que foram adjudicados como sendo DPI: pneumonite (n = 88), doença pulmonar intersticial (n = 72),
+pneumonia organizativa (n = 6), pneumonia (n = 4), insuficiência respiratória (n = 5), pneumonite por radiação
+(n = 2), alveolite (n = 2), toxicidade pulmonar (n = 2), pneumonia fúngica (n = 1), massa pulmonar (n = 1),
+insuficiência respiratória aguda (n = 1), infiltração pulmonar (n = 1), linfangite (n = 1), fibrose pulmonar
+(n = 1), pneumonia intersticial idiopática (n = 1), doença pulmonar (n = 1), pneumonite de hipersensibilidade
+(n = 1) e opacidade pulmonar (n = 1). Para todos os tipos de tumores tratados com 6,4 mg/kg, a doença
+pulmonar intersticial inclui acontecimentos que foram adjudicados como sendo DPI: pneumonite (n = 75),
+doença pulmonar intersticial (n = 39), pneumonia organizativa (n = 4), insuficiência respiratória (n = 4),
+opacidade pulmonar (n = 2), pneumonia (n = 1) e pneumonite por radiação (n = 1).
+k
+Inclui desconforto abdominal, dor gastrointestinal, dor abdominal, dor na região inferior do abdómen e dor na
+região superior do abdómen.
+l
+Para todos os tipos de tumores tratados com 5,4 mg/kg, inclui estomatite, úlcera aftosa, ulceração da boca,
+erosão da mucosa oral e erupção da mucosa oral. Para todos os tipos de tumores tratados com 6,4 mg/kg, inclui
+apenas estomatite.
+m
+Inclui aumento das transaminases, aumento da alanina aminotransferase, aumento da aspartato
+aminotransferase, aumento da gama glutamiltransferase, função hepática alterada, provas da função hepática
+alteradas, provas da função hepática aumentadas e hipertransaminasemia.
+n
+Para todos os tipos de tumores tratados com 5,4 mg/kg, inclui erupção cutânea, erupção cutânea pustular,
+erupção cutânea maculopapular, erupção cutânea papular, erupção cutânea macular e erupção cutânea
+pruriginosa. Para todos os tipos de tumores tratados com 6,4 mg/kg, inclui erupção cutânea, erupção cutânea
+pustular, erupção cutânea maculopapular e erupção cutânea pruriginosa.
+o
+Para todos os tipos de tumores tratados com 5,4 mg/kg, inclui hiperpigmentação cutânea, descoloração da pele
+e alterações da pigmentação. Para todos os tipos de tumores tratados com 6,4 mg/kg, inclui hiperpigmentação
+cutânea e alterações da pigmentação.
+p
+Inclui lombalgia, mialgia, dor nas extremidades, dor musculosquelética, espasmos musculares, dor óssea, dor
+no pescoço, dor torácica musculosquelética e desconforto nos membros.
+q
+Inclui astenia, fadiga, mal-estar geral e letargia.
+r
+Para todos os tipos de tumores tratados com 5,4 mg/kg, a diminuição da fração de ejeção inclui os parâmetros
+laboratoriais da diminuição da FEVE (n = 214) e/ou os termos preferidos de diminuição da fração de ejeção
+(n = 52), de insuficiência cardíaca (n = 3), de insuficiência cardíaca congestiva (n = 1) e de disfunção
+ventricular esquerda (n = 2). Para todos os tipos de tumores tratados com 6,4 mg/kg, a diminuição da fração de
+ejeção inclui os parâmetros laboratoriais da diminuição da FEVE (n = 97) e/ou os termos preferidos de
+diminuição da fração de ejeção (n = 11) e de disfunção ventricular esquerda (n = 1).
+s
+Para todos os tipos de tumores tratados com 5,4 mg/kg, inclui aumento da bilirrubina sérica,
+hiperbilirrubinemia, aumento da bilirrubina conjugada e aumento da bilirrubina não conjugada no sangue. Para
+todos os tipos de tumores tratados com 6,4 mg/kg, inclui aumento da bilirrubina sérica, hiperbilirrubinemia e
+aumento da bilirrubina conjugada.
+12
+
+t
+
+Para todos os tipos de tumores tratados com 5,4 mg/kg, os casos de reações relacionadas com a perfusão
+incluem reação relacionada com a perfusão (n = 16) e hipersensibilidade (n = 2). Para todos os tipos de tumores
+tratados com 6,4 mg/kg, os casos de reações relacionadas com a perfusão incluem reação relacionada com a
+perfusão (n = 6) e hipersensibilidade (n = 1). Todos os casos de reações relacionadas com a perfusão foram de
+Grau 1 e Grau 2.
+
+Descrição de reações adversas selecionadas
+Doença pulmonar intersticial/pneumonite
+Em doentes tratados com 5,4 mg/kg de Enhertu em estudos clínicos em múltiplos tipos de tumores
+(n = 1449), a DPI ocorreu em 12,5% dos doentes. A maioria dos casos de DPI foi de Grau 1 (3,2%) e
+de Grau 2 (7,4%). Ocorreram casos de Grau 3 em 0,8% e não ocorreram casos de Grau 4. Os
+acontecimentos de Grau 5 (fatais) ocorreram em 1,0% dos doentes. O tempo mediano até ao primeiro
+aparecimento foi de 5,5 meses (intervalo: 26 dias a 31,5 meses) (ver secções 4.2 e 4.4).
+Em doentes tratados com 6,4 mg/kg de Enhertu em estudos clínicos em múltiplos tipos de tumores
+(n = 669), a DPI ocorreu em 17,9% dos doentes. A maioria dos casos de DPI foi de Grau 1 (4,9%) e de
+Grau 2 (9,4%). Ocorreram casos de Grau 3 em 1,3% e ocorreram casos de Grau 4 em 0,1% dos
+doentes. Os acontecimentos de Grau 5 (fatais) ocorreram em 2,1% dos doentes. Um doente tinha DPI
+preexistente que se agravou após o tratamento, levando a DPI de Grau 5 (fatal). O tempo mediano até
+ao primeiro aparecimento foi de 4,2 meses (intervalo: -0,5 a 21,0) (ver secções 4.2 e 4.4).
+Neutropenia
+Em doentes tratados com 5,4 mg/kg de Enhertu nos estudos clínicos em múltiplos tipos de tumores
+(n = 1449), foi notificada neutropenia em 35,2% dos doentes e 17,0% apresentaram acontecimentos de
+Grau 3 ou 4. O tempo mediano do início foi de 43 dias (intervalo: 1 dia a 31,9 meses) e a duração
+mediana do primeiro acontecimento foi de 22 dias (intervalo: 1 dia a 17,1 meses). A neutropenia febril
+foi notificada em 0,9% dos doentes e 0,1% era de Grau 5 (ver secção 4.2).
+Em doentes tratados com 6,4 mg/kg de Enhertu nos estudos clínicos em múltiplos tipos de tumores
+(n = 669), foi notificada neutropenia em 43,5% dos doentes e 28,7% apresentaram acontecimentos de
+Grau 3 ou 4. O tempo mediano até ao início foi de 16 dias (intervalo: 1 dia a 24,8 meses) e a duração
+mediana do primeiro acontecimento foi de 9 dias (intervalo: 2 dias a 17,2 meses). A neutropenia febril
+foi notificada em 3,0% dos doentes e 0,1% foram de Grau 5 (ver secção 4.2).
+Diminuição da fração de ejeção ventricular esquerda
+Em doentes tratados com 5,4 mg/kg de Enhertu nos estudos clínicos em múltiplos tipos de tumores
+(n = 1449), foi notificada uma diminuição da FEVE em 57 doentes (3,9%), dos quais 10 (0,7%) foram
+de Grau 1, 40 (2,8%) foram de Grau 2 e 7 (0,5%) foram de Grau 3. A frequência da diminuição da
+FEVE observada com base nos parâmetros laboratoriais (ecocardiograma ou exame por MUGA) foi de
+202/1341 (15,1%) para o Grau 2 e 12/1341 (0,9%) para o Grau 3. O tratamento com Enhertu não foi
+estudado em doentes com uma FEVE inferior a 50% antes do início do tratamento (ver secção 4.2).
+Em doentes tratados com 6,4 mg/kg de Enhertu nos estudos clínicos em múltiplos tipos de tumores
+(n = 669), foi notificada uma diminuição da FEVE em 12 doentes (1,8%), dos quais 1 (0,1%) foi de
+Grau 1, 8 (1,2%) foram de Grau 2, e 3 (0,4%) foram de Grau 3. A frequência da diminuição da FEVE
+observada com base nos parâmetros laboratoriais (ecocardiograma ou exame por MUGA) foi de
+89/597 (14,9%) para o Grau 2, e 8/597 (1,3%) para o Grau 3.
+Reações relacionadas com a perfusão
+Em doentes tratados com Enhertu 5,4 mg/kg em estudos clínicos (n = 1449), com múltiplos tipos de
+tumores, foram notificadas reações relacionadas com a perfusão em 18 doentes (1,2%), todas elas com
+uma intensidade de Grau 1 ou Grau 2. Não foram notificados acontecimentos de Grau 3. Três
+acontecimentos (0,2%) de reações relacionadas com a perfusão levaram a interrupções da dose e
+nenhum acontecimento levou à descontinuação.
+
+13
+
+Em doentes tratados com Enhertu 6,4 mg/kg em estudos clínicos (n = 669), com múltiplos tipos de
+tumores, foram notificadas reações relacionadas com a perfusão em 7 doentes (1,0%), todas elas com
+uma intensidade de Grau 1 ou Grau 2. Não foram notificados acontecimentos de Grau 3. Um
+acontecimento (0,1%) de reação relacionada com a perfusão levou à interrupção da dose e nenhum
+acontecimento levou à descontinuação.
+Imunogenicidade
+Como com todas as proteínas terapêuticas, existe um potencial para imunogenicidade. Em todas as
+doses avaliadas nos estudos clínicos, 2,1% (47/2213) dos doentes avaliáveis desenvolveram anticorpos
+contra o trastuzumab deruxtecano após o tratamento com Enhertu. A incidência de anticorpos
+neutralizantes contra o trastuzumab deruxtecano emergentes do tratamento foi de 0,1% (2/2213). Não
+houve associação entre o desenvolvimento de anticorpos e as reações de tipo alérgico.
+População pediátrica
+A segurança não foi estabelecida nesta população.
+Idosos
+Em doentes tratados com 5,4 mg/kg de Enhertu em estudos clínicos em múltiplos tipos de tumores
+(n = 1449), 24,2% tinham 65 anos ou mais de idade e 4.3% tinham 75 anos ou mais de idade.
+Observou-se uma incidência mais elevada de reações adversas de Grau 3-4 em doentes com 65 anos
+ou mais de idade (50,0%) em comparação com os doentes com menos de 65 anos de idade (42.7%),
+levando a mais descontinuações devido a reações adversas.
+Dos 669 doentes tratados em estudos clínicos, em múltiplos tipos de tumores, com 6,4 mg/kg de
+Enhertu, 39,2% tinham 65 anos ou mais de idade e 7,6% tinham 75 anos ou mais de idade. A
+incidência de reações adversas de Grau 3-4 observada nos doentes com 65 anos ou mais de idade foi
+de 59,9% e de 62,9% nos doentes mais jovens. Observou-se uma incidência mais elevada de reações
+adversas de Grau 3-4 nos doentes com 75 anos ou mais de idade (64,7%) em comparação com os
+doentes com menos de 75 anos de idade (61,5%). Nos doentes com 75 anos ou mais de idade,
+observou-se uma incidência mais elevada de reações adversas graves (37,3%) e de acontecimentos
+fatais (7,8%) em comparação com os doentes com menos de 75 anos de idade (20,7% e 2,3%). Os
+dados existentes para estabelecer a segurança em doentes com 75 anos ou mais de idade são limitados.
+Diferenças étnicas
+Nos estudos clínicos, não se observaram diferenças relevantes na exposição ou na eficácia entre os
+doentes de grupos étnicos diferentes. Os doentes asiáticos que receberam 6,4 mg/kg de Enhertu
+tiveram uma incidência mais elevada (diferença ≥ 10%) de neutropenia (58,1% vs. 18,6%), anemia
+(51,1% vs. 32,4%), leucopenia (42,7% vs. 6,9%), trombocitopenia (40,5% vs. 15,4%) e linfopenia
+(17,6% vs. 7,3%) em comparação com os doentes não asiáticos. Em doentes asiáticos, 4,3% tiveram
+um acontecimento hemorrágico no período de 14 dias após o aparecimento de trombocitopenia em
+comparação com 1,6% dos doentes não asiáticos.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+A dose máxima tolerada de trastuzumab deruxtecano não foi determinada. Nos estudos clínicos não se
+estudaram doses únicas superiores a 8,0 mg/kg. No caso de sobredosagem, os doentes têm de ser
+14
+
+atentamente monitorizados quanto à presença de sinais ou sintomas de reações adversas e o tratamento
+sintomático apropriado tem de ser iniciado.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: agentes antineoplásicos, inibidores do HER2 (Recetor do Factor de
+Crescimento Epidérmico Humano 2), código ATC: L01FD04
+Mecanismo de ação
+Enhertu, o trastuzumab deruxtecano, é um anticorpo-fármaco conjugado direcionado para HER2. O
+anticorpo é uma IgG1 humanizada anti-HER2 unida ao deruxtecano, um inibidor da topoisomerase I
+(DXd), através de uma ligação por um ligante clivável baseado num tetrapéptido. O anticorpo-fármaco
+conjugado é estável no plasma. A função da porção do anticorpo é a de se ligar ao HER2 expresso na
+superfície de certas células tumorais. Após a ligação, o complexo de trastuzumab deruxtecano é sujeito
+a internalização e a clivagem intracelular do ligante através de enzimas lisosomais que estão reguladas
+positivamente nas células tumorais. Após a libertação, o DXd com permeabilidade membranar causa
+lesão do ADN e morte celular por apoptose. O DXd, um derivado do exatecano, é aproximadamente
+10 vezes mais potente do que o SN-38, o metabolito ativo do irinotecano.
+Estudos in vitro indicam que a porção do anticorpo do trastuzumab deruxtecano, que tem a mesma
+sequência de aminoácidos que o trastuzumab, também se liga ao FcγRIIIa e ao complemento C1q. O
+anticorpo atua como mediador da citotoxicidade celular dependente de anticorpos (ADCC) nas células
+do cancro da mama humano que sobre-expressam HER2. Além disso, o anticorpo inibe a sinalização
+através da via da fosfatidilinositol 3-cinase (PI3-K) nas células do cancro da mama humano que sobreexpressam HER2.
+Eficácia clínica
+Cancro da mama HER2-positivo
+DESTINY-Breast03 (NCT03529110)
+A eficácia e segurança de Enhertu foram estudadas no DESTINY-Breast03, um estudo de fase 3,
+multicêntrico, aberto, controlado com ativo, aleatorizado, com dois braços, que incluiu doentes com
+cancro da mama HER2-positivo, irressecável ou metastizado, que receberam terapêutica anterior com
+trastuzumab e um taxano para a doença metastática, ou que desenvolveram recorrência da doença
+durante ou no período de 6 meses após terem concluído a terapêutica adjuvante.
+Foram necessárias amostras de arquivo de tumores da mama para demonstrar a positividade de HER2
+definida como HER2 IHC 3+ ou ISH-positivo. O estudo excluiu doentes com antecedentes de
+DPI/pneumonite requerendo tratamento com esteroides ou de DPI/pneumonite no rastreio, doentes
+com metástases cerebrais não tratadas e sintomáticas, doentes com antecedentes de doença cardíaca
+clinicamente significativa e doentes com tratamento anterior com um anticorpo-fármaco conjugado
+anti-HER2 no enquadramento metastático. Os doentes foram aleatorizados 1:1 para receberem
+5,4 mg/kg de Enhertu (N = 261) ou 3,6 mg/kg de trastuzumab emtansina (N = 263) administrados por
+perfusão intravenosa, uma vez em intervalos de três semanas. A aleatorização foi estratificada em
+função do estado do recetor hormonal, tratamento anterior com pertuzumab e antecedentes de doença
+visceral. O tratamento foi administrado até à progressão da doença, morte, retirada do consentimento
+ou toxicidade inaceitável.
+A medida do resultado primário da eficácia foi a sobrevida livre de progressão (progression-free
+survival - PFS), conforme avaliado por revisão central independente em ocultação (blinded
+independent central review - BICR), de acordo com os Critérios de Avaliação de Resposta em
+Tumores Sólidos v1.1 (Response Evaluation Criteria in Solid Tumors - RECIST). A sobrevida global
+15
+
+(overall survival - OS) era uma medida chave do resultado secundário da eficácia. A PFS com base na
+avaliação feita pelo investigador, a taxa de resposta objetiva (objective response rate - ORR)
+confirmada e a duração da resposta (duration of response - DOR) eram parâmetros de avaliação
+secundários.
+Os dados demográficos do doente e as características da doença no início do estudo estavam
+equilibrados entre os braços de tratamento. Dos 524 doentes aleatorizados, os dados demográficos e as
+características da doença no início do estudo eram: idade mediana 54 anos (intervalo: 20 a 83); 65 anos
+de idade ou mais (20,2%); sexo feminino (99,6%); asiáticos (59,9%), caucasianos (27,3%), negros ou
+afro-americanos (3,6%); estado de desempenho do Eastern Cooperative Oncology Group (ECOG)
+de 0 (62,8%) ou 1 (36,8%); estado do recetor hormonal (positivo: 51,9%); presença de doença visceral
+(73,3%); presença de metástases cerebrais em relação ao valor no início do estudo (15,6%); e 48,3%
+dos doentes tinham recebido uma linha de terapêutica sistémica anterior no enquadramento
+metastático. A percentagem de doentes que não tinham recebido tratamento anterior para a doença
+metastática foi de 9,5%. A percentagem de doentes que tinham sido tratados anteriormente com
+pertuzumab foi de 61,1%.
+Na análise interina pré-especificada para a PFS com base nos 245 acontecimentos (73% dos
+acontecimentos totais planeados para a análise final), o estudo revelou uma melhoria estatisticamente
+significativa da PFS, de acordo com a BICR, nos doentes aleatorizados para Enhertu em comparação
+com o trastuzumab emtansina. Os dados da PFS, de acordo com a BICR, da análise primária (corte dos
+dados a 21 de maio de 2021) e os resultados atualizados da OS, ORR e DOR do corte dos dados a 25
+de julho de 2022 estão apresentados na Tabela 4.
+Tabela 4: Resultados de eficácia no DESTINY-Breast03
+Parâmetro da eficácia
+Enhertu
+trastuzumab emtansina N = 263
+N = 261
+Sobrevida livre de progressão (PFS) de acordo com a BICRa
+Número de acontecimentos
+87 (33,3)
+158 (60,1)
+(%)
+Mediana, meses (IC 95%)
+NA (18,5; NE)
+6,8 (5,6; 8,2)
+Razão de risco (IC 95%)
+0,28 (0,22; 0,37)
+Valor de p
+p < 0,000001†
+Sobrevida global (OS)b
+Número de acontecimentos
+72 (27,6)
+97 (36,9)
+(%)
+Mediana, meses (IC 95%)
+NA (40,5, NE)
+NA (34,0, NE)
+Razão de risco (IC 95%)
+0,64 (0,47; 0,87)
+Valor de pc
+p = 0,0037
+PFS de acordo com a BICR (atualizada)b
+Número de acontecimentos
+117 (44,8)
+171 (65,0)
+(%)
+Mediana, meses (IC 95%)
+28,8 (22,4; 37,9)
+6,8 (5,6; 8,2)
+Razão de risco (IC 95%)
+0,33 (0,26; 0,43)
+Taxa de resposta objetiva confirmada (ORR) de acordo com a BICRb
+n (%)
+205 (78,5)
+92 (35,0)
+IC 95%
+(73,1; 83,4)
+(29,2; 41,1)
+Resposta completa n (%)
+55 (21,1)
+25 (9,5)
+Resposta parcial n (%)
+150 (57,5)
+67 (25,5)
+Duração da resposta de acordo com a BICRb
+Mediana, meses (IC 95%)
+36,6 (22,4; NE)
+23,8 (12,6; 34,7)
+IC = intervalo de confiança; NE = não estimável; NA = não atingido
+†
+apresentado na forma de 6 casas decimais
+a
+Corte dos dados a 21 de maio de 2021
+b
+Corte dos dados a 25 de julho de 2022 para uma análise da OS interina pré-planeada
+c
+O valor de p baseia-se num teste log-rank estratificado; ultrapassou a barreira de eficácia de 0,013.
+
+16
+
+Figura 1: Gráfico de Kaplan-Meier de sobrevida global (corte dos dados a 25 de julho de 2022)
+
+Figura 2: Gráfico de Kaplan-Meier de sobrevida livre de progressão de acordo com a BICR
+(corte dos dados a 25 de julho de 2022)
+
+Foram observados resultados semelhantes de PFS nos subgrupos pré-especificados, incluindo
+terapêutica anterior com pertuzumab, estado do recetor hormonal e presença de doença visceral.
+DESTINY-Breast02 (NCT03523585)
+A eficácia e a segurança de Enhertu foram estudadas no estudo DESTINY-Breast02, um estudo de
+fase 3, aleatorizado, multicêntrico, aberto, controlado com ativo, que incluiu doentes com cancro da
+mama HER2-positivo, irressecável ou metastizado, que eram resistentes ou refratários a terapêutica
+anterior com T-DM1. Foram necessárias amostras de arquivo de tumores da mama para demonstrar a
+positividade de HER2, definida como HER2 IHC 3+ ou ISH-positivo. O estudo excluiu doentes com
+antecedentes de DPI/pneumonite requerendo tratamento com esteroides ou DPI/pneumonite no
+rastreio, doentes com metástases cerebrais não tratadas e sintomáticas e doentes com antecedentes de
+doença cardíaca clinicamente significativa. Os doentes foram aleatorizados numa razão de 2:1 para
+receber 5,4 mg/kg de Enhertu (n = 406) por perfusão intravenosa, uma vez em intervalos de três
+semanas ou um tratamento à escolha do médico (n = 202, trastuzumab mais capecitabina ou lapatinib
+mais capecitabina). A aleatorização foi estratificada segundo o estado do recetor hormonal, tratamento
+
+17
+
+anterior com pertuzumab e antecedentes de doença visceral. O tratamento foi administrado até à
+progressão da doença, morte, retirada do consentimento ou toxicidade inaceitável.
+A medida do resultado primário da eficácia foi a sobrevida livre de progressão (progression-free
+survival - PFS), conforme avaliado por revisão central independente em ocultação (blinded
+independent central review - BICR), de acordo com os Response Evaluation Criteria in Solid Tumors
+(RECIST v1.1 - Critérios de Avaliação de Resposta em Tumores Sólidos). A sobrevida global (overall
+survival - OS) era uma medida chave do resultado secundário da eficácia. A PFS com base na
+avaliação feita pelo investigador, a taxa de resposta objetiva (objective response rate - ORR)
+confirmada e a duração da resposta (duration of response - DOR) eram parâmetros de avaliação
+secundários.
+As características demográficas e da doença no início do estudo foram semelhantes entre os braços de
+tratamento. Dos 608 doentes aleatorizados, a idade mediana foi 54 anos (intervalo: 22 a 88); sexo
+feminino (99,2%); raça branca (63,2%), asiática (29,3%), negra ou afro-americana (2,8%); estado de
+desempenho 0 (57,4%) ou 1 (42,4%) segundo o Eastern Cooperative Oncology Group (ECOG);
+estado dos recetores hormonais (positivo: 58,6%); presença de doença visceral (78,3%); presença de
+metástases cerebrais no início do estudo (18,1%) e 4,9% dos doentes recebeu uma linha de terapêutica
+sistémica anterior no contexto metastático.
+Os resultados da eficácia estão resumidos na Tabela 5 e nas Figuras 3 e 4.
+Tabela 5: Resultados de eficácia no DESTINY-Breast02
+Tratamento à escolha do
+médico
+N = 202
+
+Enhertu
+N = 406
+
+Parâmetro da eficácia
+
+Sobrevida livre de progressão (PFS) de acordo com a BICR
+Número de acontecimentos (%)
+Mediana, meses (IC 95%)
+
+200 (49,3)
+
+125 (61,9)
+
+17,8 (14,3; 20,8)
+
+6,9 (5,5; 8,4)
+
+Razão de risco (IC 95%)
+
+0,36 (0,28; 0,45)
+p < 0,000001†
+
+Valor de p
+Sobrevida global (OS)
+Número de acontecimentos (%)
+Mediana, meses (IC 95%)
+
+143 (35,2)
+
+86 (42,6)
+
+39,2 (32,7; NE)
+
+26,5 (21,0; NE)
+
+Razão de risco (IC 95%)
+Valor de p
+
+0,66 (0,50; 0,86)
+
+a
+
+p = 0,0021
+
+PFS de acordo com a avaliação do investigador
+Número de acontecimentos (%)
+Mediana, meses (IC 95%)
+
+206 (50,7)
+
+152 (75,2)
+
+16,7 (14,3; 19,6)
+
+5,5 (4,4; 7,0)
+
+Razão de risco (IC 95%)
+
+0,28 (0,23; 0,35)
+
+Taxa de resposta objetiva confirmada (ORR) de acordo com a BICR
+n (%)
+
+283 (69,7)
+
+59 (29,2)
+
+IC 95%
+
+(65,0; 74,1)
+
+(23,0; 36,0)
+
+Resposta completa n (%)
+
+57 (14,0)
+
+10 (5,0)
+
+Resposta parcial n (%)
+
+226 (55,7)
+
+49 (24,3)
+
+19,6 (15,9; NE)
+
+8,3 (5,8; 9,5)
+
+Duração da resposta de acordo com a BICR
+Mediana, meses (IC 95%)
+
+18
+
+IC = intervalo de confiança; NE = não estimável
+†
+apresentado na forma de 6 casas decimais
+a
+O valor de p baseia-se num teste log-rank estratificado; ultrapassou a barreira de eficácia de 0,004.
+
+Figura 3: Gráfico de Kaplan-Meier de sobrevida livre de progressão de acordo com a BICR
+
+Figura 4: Gráfico de Kaplan-Meier de sobrevida global
+
+DESTINY-Breast01 (NCT03248492)
+A eficácia e a segurança de Enhertu foram estudadas em DESTINY-Breast01, um estudo de fase 2,
+com um único braço de tratamento, em aberto, multicêntrico, que incluiu doentes com cancro da mama
+HER2-positivo, irressecável e/ou metastizado, que tinham recebido dois ou mais regimes anteriores
+anti-HER2, incluindo trastuzumab emtansina (100%), trastuzumab (100%) e pertuzumab (65,8%).
+Foram necessárias amostras de arquivo de tumores da mama para demonstrar a positividade de HER2
+definida como HER2 IHC 3+ ou ISH-positivo. O estudo excluiu doentes com antecedentes de DPI
+tratada ou de DPI no rastreio, doentes com metástases cerebrais não tratadas ou sintomáticas, e doentes
+com antecedentes de doença cardíaca clinicamente significativa. Os doentes incluídos tinham pelo
+menos uma lesão mensurável pelos RECIST v1.1. Enhertu foi administrado por perfusão intravenosa
+na dose de 5,4 mg/kg uma vez, em intervalos de três semanas, até à progressão da doença, morte,
+retirada do consentimento ou toxicidade inaceitável. A medida do resultado primário da eficácia
+consistiu na taxa de resposta objetiva (ORR - objective response rate) confirmada de acordo com os
+19
+
+RECIST v1.1 na população com intenção de tratar (ITT), avaliada por revisão central independente
+(RCI). A medida do resultado secundário da eficácia foi a duração da resposta (DOR - duration of
+response).
+Dos 184 doentes incluídos no estudo DESTINY-Breast01, as características demográficas e da doença
+no início do estudo foram: idade mediana 55 anos (intervalo: 28 a 96); 65 anos ou mais de idade
+(23,9%); sexo feminino (100%); raça branca (54,9%), asiática (38,0%), negra ou afro-americana
+(2,2%); estado de desempenho 0 (55,4%) ou 1 (44,0%) segundo o Eastern Cooperative Oncology
+Group (ECOG); estado dos recetores hormonais (positivo: 52,7%); presença de doença visceral
+(91,8%); metástases cerebrais previamente tratadas e estáveis (13,0%); número mediano de
+terapêuticas anteriores no contexto metastático: 5 (intervalo: 2 a 17); soma dos diâmetros das lesões
+alvo (< 5 cm: 42,4%, ≥ 5 cm: 50,0%).
+Uma análise anterior (duração mediana do seguimento de 11,1 meses [intervalo: 0,7 a 19,9 meses])
+revelou uma taxa de resposta objetiva confirmada de 60,9% (IC 95%: 53,4; 68,0) com 6,0% sendo
+respondedores completos e 54,9% respondedores parciais; 36,4% tinham doença estável, 1,6% tinham
+doença progressiva e 1,1% não eram avaliáveis. A duração mediana da resposta nessa altura foi de
+14,8 meses (IC 95%: 13,8; 16,9) tendo 81,3% dos respondedores uma resposta de ≥ 6 meses (IC 95%:
+71,9; 87,8). Os resultados da eficácia obtidos na data de corte dos dados atualizados com uma duração
+mediana do seguimento de 20,5 meses (intervalo: 0,7 a 31,4 meses) estão apresentados na Tabela 6.
+Tabela 6: Resultados da eficácia no estudo DESTINY-Breast01 (conjunto da análise com
+intenção de tratar)
+DESTINY-Breast01
+N = 184
+Taxa de resposta objetiva confirmada
+61,4% (54,0; 68,5)
+(IC 95%)*†
+Resposta completa (RC)
+
+6,5%
+
+Resposta parcial (RP)
+
+54,9%
+
+Duração da resposta‡
+Mediana, meses (IC 95%)
+% com uma duração da resposta ≥ 6 meses
+(IC 95%)§
+
+20,8 (15,0; NA)
+81,5% (72,2; 88,0)
+
+ORR: IC 95% calculado utilizando o método de Clopper-Pearson
+IC = intervalo de confiança
+ICs 95% calculados utilizando o método de Brookmeyer-Crowley
+*As respostas confirmadas (por revisão central independente sob ocultação) foram definidas como uma resposta
+registada de RC ou de RP, confirmada por repetição do exame imagiológico não menos de 4 semanas após a
+visita na qual foi observada a resposta pela primeira vez.
+†
+Dos 184 doentes, 35,9% tinham doença estável, 1,6% tinham doença progressiva e 1,1% não eram avaliáveis.
+‡
+Inclui 73 doentes com dados censurados
+§
+Baseado numa estimativa de Kaplan-Meier
+NA = não atingido
+
+Observou-se atividade antitumoral consistente em todos os subgrupos pré-especificados com base
+numa terapêutica anterior com pertuzumab e no estado dos recetores hormonais.
+Cancro da mama com baixa expressão de HER2
+DESTINY-Breast04 (NCT03734029)
+A eficácia e segurança de Enhertu foram estudadas no DESTINY-Breast04, um estudo de fase 3,
+multicêntrico, aberto, aleatorizado, que incluiu 557 doentes adultos com cancro da mama com baixa
+expressão de HER2, irressecável ou metastizado. O estudo incluiu 2 coortes: 494 doentes positivos
+para os recetores hormonais (HR+) e 63 doentes negativos para os recetores hormonais (HR-). A baixa
+20
+
+expressão de HER2 foi definida como IHC 1+ (definida como uma coloração ténue, parcial da
+membrana em mais de 10% das células cancerígenas) ou IHC 2+/ISH-, conforme determinada por
+PATHWAY/VENTANA anti-HER2/neu (4B5), avaliada num laboratório central. Os doentes tinham
+de ter recebido quimioterapia no enquadramento metastático ou desenvolvido doença recorrente
+durante a quimioterapia adjuvante ou no período de 6 meses após a conclusão da mesma. De acordo
+com os critérios de inclusão, os doentes HR+ teriam de ter recebido, pelo menos, uma terapêutica
+endócrina e não ser elegíveis para terapêutica endócrina adicional na altura da aleatorização. Os
+doentes foram aleatorizados numa razão de 2:1 para receber 5,4 mg/kg de Enhertu (N = 373) por
+perfusão intravenosa uma vez em intervalos de três semanas ou uma quimioterapia à escolha do
+médico (N = 184, eribulina 51,1%, capecitabina 20,1%, gemcitabina 10,3%, nab-paclitaxel 10,3% ou
+paclitaxel 8,2%). A aleatorização foi estratificada em função do estado do HER2 IHC (IHC 1+ ou
+IHC 2+/ISH-) das amostras tumorais, número de linhas anteriores de quimioterapia no enquadramento
+metastático (1 ou 2) e estado dos HR/tratamento anterior com CDK4/6i (HR+ com tratamento anterior
+com inibidores de CDK4/6, HR+ sem tratamento anterior com inibidores de CDK4/6, ou HR-). O
+tratamento foi administrado até à progressão da doença, morte, retirada do consentimento ou
+toxicidade inaceitável. O estudo excluiu doentes com antecedentes de DPI/pneumonite requerendo
+tratamento com esteroides ou DPI/pneumonite no rastreio e doença cardíaca clinicamente significativa.
+Foram também excluídos os doentes com metástases cerebrais não tratadas ou sintomáticas ou com
+estado de desempenho do ECOG > 1.
+O parâmetro de avaliação primário da eficácia foi a sobrevida livre de progressão (progression-free
+survival - PFS) em doentes com cancro da mama HR+, conforme avaliada pela BICR, de acordo com
+os RECIST v1.1. Os parâmetros de avaliação secundários chave da eficácia foram a PFS com base na
+avaliação feita pela BICR, de acordo com os RECIST v1.1. na população global (todos os doentes
+HR+ e HR- aleatorizados), a sobrevida global (overall survival - OS) nos doentes HR+ e a OS na
+população global. A ORR (objective response rate), a DOR (duration of response) e os resultados
+comunicados pelo doente (patient-reported outcomes - PROs) eram parâmetros de avaliação
+secundários.
+Os dados demográficos e as características do tumor no início do estudo eram semelhantes entre os
+braços de tratamento. Dos 557 doentes aleatorizados, a idade mediana era de 57 anos (intervalo:
+28 a 81); 23,5% tinham 65 anos de idade ou mais; 99,6% eram do sexo feminino e 0,4% eram do sexo
+masculino; 47,9% eram caucasianos, 40,0% eram asiáticos e 1,8% eram negros ou afro-americanos.
+Os doentes apresentavam um estado de desempenho do ECOG de 0 (54,8%) ou 1 (45,2%) no início do
+estudo; 57,6% eram IHC 1+, 42,4% eram IHC2+/ISH-; 88,7% eram HR+ e 11,3% HR-; 69,8% tinham
+metástases hepáticas; 32,9% tinham metástases pulmonares e 5,7% tinham metástases cerebrais. A
+percentagem de doentes que tinham recebido tratamento anterior com antraciclinas no enquadramento
+(neo)adjuvante era de 46,3% e de 19,4% no enquadramento localmente avançado e/ou metastático. No
+enquadramento metastático, os doentes tinham uma mediana de 3 linhas de terapêutica sistémica
+anterior (intervalo: 1 a 9), com 57,6% com 1 e 40,9% com 2 regimes anteriores de quimioterapia; 3,9%
+eram progressões precoces (progressão no enquadramento neo/adjuvante). Em doentes HR+, o número
+mediano de linhas anteriores de terapêutica endócrina foi de 2 (intervalo: 0 a 9) e 70% tinham feito
+tratamento anterior com inibidores de CDK4/6.
+Os resultados de eficácia estão resumidos na Tabela 7 e nas Figuras 5 e 6.
+
+21
+
+Tabela 7: Resultados de eficácia no DESTINY-Breast04
+Coorte HR+
+População global
+(Coorte
+HR+ e HR-)
+Parâmetro da
+eficácia
+Enhertu
+Quimioterapia
+Enhertu
+Quimioterapia
+(N = 331)
+(N = 163)
+(N = 373)
+(N = 184)
+Sobrevida global
+Número de
+acontecimentos
+126 (38,1)
+73 (44,8)
+149 (39,9)
+90 (48,9)
+(%)
+Mediana, meses
+23,9 (20,8;
+17,5 (15,2; 22,4) 23,4 (20,0; 24,8) 16,8 (14,5; 20,0)
+(IC 95 %)
+24,8)
+Razão de risco
+0,64 (0,48; 0,86)
+0,64 (0,49; 0,84)
+(IC 95 %)
+Valor de p
+0,0028
+0,001
+Sobrevida livre de progressão de acordo com a BICR
+Número de
+acontecimentos
+211 (63,7)
+110 (67,5)
+243 (65,1)
+127 (69,0)
+(%)
+Mediana, meses
+10,1 (9,5; 11,5)
+5,4 (4,4; 7,1)
+9,9 (9,0; 11,3)
+5,1 (4,2; 6,8)
+(IC 95 %)
+Razão de risco
+0,51 (0,40; 0,64)
+0,50 (0,40; 0,63)
+(IC 95 %)
+Valor de p
+< 0,0001
+< 0,0001
+Taxa de resposta objetiva confirmada de acordo com a BICR*
+175 (52,6)
+27 (16,3)
+195 (52,3)
+30 (16,3)
+n (%)
+47,0; 58,0
+
+11,0; 22,8
+
+47,1; 57,4
+
+11,3; 22,5
+
+Resposta
+completa n (%)
+
+12 (3,6)
+
+1 (0,6)
+
+13 (3,5)
+
+2 (1,1)
+
+Resposta parcial
+n (%)
+
+164 (49,2)
+
+26 (15,7)
+
+183 (49,1)
+
+28 (15,2)
+
+10,7 (8,5; 13,2)
+
+6,8 (6,0; 9,9)
+
+IC 95 %
+
+Duração da resposta de acordo com a BICR*
+Mediana, meses
+(IC 95 %)
+
+10,7 (8,5; 13,7)
+
+6,8 (6,5; 9,9)
+
+IC = intervalo de confiança
+*Com base nos dados do caderno de registo de dados eletrónico para a coorte HR+: N = 333 para o braço de
+Enhertu e N = 166 para o braço de quimioterapia.
+
+Observou-se um benefício consistente da OS e PFS nos subgrupos pré-especificados, incluindo o
+estado de HR, tratamento anterior com CDK4/6i, número de quimioterapias anteriores e estado de
+IHC 1+ e IHC 2+/ISH-. No subgrupo HR-, a OS mediana foi de 18,2 meses (IC 95%: 13,6, não
+estimável) nos doentes aleatorizados para Enhertu em comparação com 8,3 meses (IC 95%: 5,6; 20,6)
+nos doentes aleatorizados para quimioterapia, com uma razão de risco de 0,48 (IC 95%: 0,24; 0,95). A
+PFS mediana foi de 8,5 meses (IC 95%: 4,3; 11,7) nos doentes aleatorizados para Enhertu e 2,9 meses
+(IC 95%: 1,4; 5,1) nos doentes aleatorizados para quimioterapia, com uma razão de risco de 0,46
+(IC 95%: 0,24; 0,89).
+Numa análise descritiva atualizada com um seguimento mediano de 32 meses, as melhorias da OS
+foram consistentes com a análise primária. A razão de risco na população global foi de 0,69 (IC 95%:
+0,55; 0,86) com uma OS mediana de 22,9 meses (IC 95%: 21,2; 24,5) no braço de Enhertu versus
+16,8 meses (IC 95%: 14,1; 19,5) no braço de quimioterapia. A curva de Kaplan-Meier para a análise
+da OS atualizada é apresentada na Figura 5.
+
+22
+
+Figura 5: Gráfico de Kaplan-Meier de sobrevida global (população global) (análise atualizada)
+
+Figura 6: Gráfico de Kaplan-Meier de sobrevida livre de progressão de acordo com a BICR
+(população global)
+
+CPNPC
+DESTINY-Lung02 (NCT04644237)
+A eficácia e segurança de Enhertu foram estudadas no DESTINY-Lung02, um estudo de fase 2,
+aleatorizado, que avaliou dois níveis de doses. A dose de tratamento atribuída estava oculta para os
+doentes e investigadores. O estudo incluiu doentes adultos com CPNPC metastático com mutação do
+HER2 que tinham recebido, pelo menos, um regime contendo quimioterapia à base de platina. A
+identificação de uma mutação ativante do HER2 (ERBB2) foi determinada prospectivamente no tecido
+tumoral por laboratórios locais, utilizando um teste validado, tal como, sequenciação de próxima
+23
+
+geração, reação em cadeia da polimerase ou espectrometria de massa. Os doentes foram aleatorizados
+numa razão de 2:1 para receberem Enhertu 5,4 mg/kg ou 6,4 mg/kg em intervalos de 3 semanas,
+respetivamente. A aleatorização foi estratificada em função do tratamento anterior com anti-recetor de
+morte celular programada-1 (PD-1) e/ou anti-ligando de morte celular programada-1 (PD-L1) (sim
+versus não). O tratamento foi administrado até à progressão da doença, morte, retirada do
+consentimento ou toxicidade inaceitável. O estudo excluiu doentes com antecedentes de
+DPI/pneumonite requerendo tratamento com esteroides ou DPI/pneumonite no rastreio e doença
+cardíaca clinicamente significativa. Foram também excluídos os doentes com metástases cerebrais não
+tratadas e sintomáticas ou com estado de desempenho do ECOG >1.
+A medida do resultado primário da eficácia foi a ORR confirmada, conforme avaliada pela BICR
+utilizando os RECIST v1.1. A medida do resultado secundário da eficácia foi a DOR.
+As características demográficas e da doença no início do estudo dos 102 doentes incluídos no braço
+com 5,4 mg/kg eram: idade mediana de 59,4 anos (intervalo de 31 a 84); mulheres (63,7%); asiáticos
+(63,7%), caucasianos (22,5%) ou outros (13,7%); estado de desempenho ECOG 0 (28,4%) ou 1
+(71,6%); 97,1% tinham uma mutação no domínio da cinase do ERBB2, 2,9% no domínio extracelular;
+96,1% tinham uma mutação do HER2 no exão 19 ou no exão 20; 34,3% tinham metástases cerebrais
+estáveis; 46,1% tinham sido fumadores, nenhum era fumador ativo; 21,6% tinha tido uma ressecção
+anterior do pulmão. No enquadramento metastático, 32,4% tinham tido mais de 2 terapêuticas
+sistémicas anteriores, 100% receberam terapêutica à base de platina, 73,5% receberam terapêutica antiPD-1/PD-L1, e 50,0% tinham tido tratamento anterior com terapêutica com platina e terapêutica antiPD-1/PD-L1 em associação.
+Os resultados da eficácia estão resumidos na Tabela 8. A duração mediana do seguimento foi de
+11,5 meses (data de corte dos dados: 23 de dezembro de 2022).
+Tabela 8: Resultados da eficácia no DESTINY-Lung02
+DESTINY-Lung02
+5,4 mg/kg
+N = 102
+
+Parâmetro da eficácia
+Taxa de resposta objetiva confirmada (ORR) de acordo com a BICR
+
+50 (49,0)
+
+n (%)
+
+(39,0; 59,1)
+
+(IC 95%)*
+
+1 (1,0)
+
+Resposta completa (RC) n (%)
+
+49 (48,0)
+
+Resposta parcial (RP) n (%)
+Duração da resposta
+Mediana, meses (IC 95%) †
+
+16,8 (6,4; NE)
+
+*IC 95% calculado utilizando o método de Clopper-Pearson
+IC = intervalo de confiança, NE = não estimável
+†
+IC 95% calculado utilizando o método de Brookmeyer-Crowley
+
+Cancro gástrico
+DESTINY-Gastric02 (NCT04014075)
+A eficácia e a segurança de Enhertu foram estudadas no DESTINY-Gastric02, um estudo de fase 2,
+multicêntrico, aberto, de braço único, realizado em centros na Europa e nos Estados Unidos. O estudo
+incluiu doentes com adenocarcinoma gástrico ou da JGE HER2-positivo, localmente avançado ou
+metastizado, que tinham apresentado progressão com um regime anterior à base de trastuzumab. Os
+doentes tinham de apresentar HER2-positivo centralmente confirmado, definido como IHC 3+ ou
+IHC 2+/ISH-positivo. O estudo excluiu os doentes com antecedentes de DPI/pneumonite com
+necessidade de tratamento com esteroides ou com DPI/pneumonite no rastreio, os doentes com
+antecedentes de doença cardíaca clinicamente significativa e os doentes com metástases cerebrais
+ativas. Enhertu foi administrado por perfusão intravenosa numa dose de 6,4 mg/kg, uma vez em
+24
+
+intervalos de três semanas, até à progressão da doença, morte, retirada do consentimento ou toxicidade
+inaceitável. A medida do resultado primário da eficácia foi a ORR confirmada, avaliada por RCI, com
+base nos RECIST v1.1. A DOR e a OS foram parâmetros de avaliação secundários.
+Os 79 doentes incluídos no DESTINY-Gastric02 apresentavam as seguintes características
+demográficas e da doença no início do estudo: idade mediana de 61 anos (intervalo de 20 a 78); 72%
+do sexo masculino; 87% caucasianos, 5,0% asiáticos e 1,0% negros ou afroamericanos. Os doentes
+tinham um estado de desempenho do ECOG de 0 (37%) ou 1 (63%); 34% tinham adenocarcinoma
+gástrico e 66% tinham adenocarcinoma da JGE; 86% eram IHC 3+ e 13% eram IHC 2+/ISH-positivo e
+63% tinham metástases hepáticas.
+Os resultados da eficácia para a ORR e DOR estão resumidos na Tabela 9.
+Tabela 9: Resultados da eficácia no DESTINY-Gastric02 (conjunto de análise completo*)
+DESTINY-Gastric02
+N = 79
+
+Parâmetro da eficácia
+Data de corte dos dados a 8 de novembro de 2021
+Taxa de resposta objetiva confirmada†
+
+41,8 (30,8; 53,4)
+
+% (IC 95%)‡
+Resposta completa n (%)
+
+4 (5,1)
+
+Resposta parcial n (%)
+
+29 (36,7)
+
+Duração da resposta
+Mediana§, meses (IC 95%)
+
+8,1 (5,9; NE)
+
+NE = não estimável
+*Inclui todos os doentes que receberam pelo menos uma dose de Enhertu
+†
+Avaliado por revisão central independente
+‡
+Calculado utilizando o método de Clopper-Pearson
+§
+Com base na estimativa de Kaplan-Meier
+¶
+Calculado utilizando o método de Brookmeyer e Crowley
+
+DESTINY-Gastric01 (NCT03329690)
+A eficácia e a segurança de Enhertu foram estudadas no DESTINY-Gastric01, um estudo de fase 2,
+multicêntrico, aberto, aleatorizado, realizado em centros no Japão e na Coreia do Sul. Este estudo de
+suporte incluiu doentes adultos com adenocarcinoma gástrico ou da JGE HER2-positivo localmente
+avançado ou metastizado, que tinham apresentado progressão com, pelo menos, dois regimes
+anteriores, incluindo o trastuzumab, um agente à base de fluoropirimidina e um agente à base de
+platina. Os doentes foram aleatorizados numa razão de 2:1 de modo a receberem Enhertu (N = 126) ou
+quimioterapia à escolha do médico: irinotecano (N = 55) ou paclitaxel (N = 7). Foram necessárias
+amostras tumorais para se obter a confirmação centralizada de HER2-positivo, definido como IHC 3+
+ou IHC 2+/ISH-positivo. O estudo excluiu os doentes com antecedentes de DPI/pneumonite com
+necessidade de tratamento com esteroides ou com DPI/pneumonite no rastreio, os doentes com
+antecedentes de doença cardíaca clinicamente significativa e os doentes com metástases cerebrais
+ativas. O tratamento foi administrado até à progressão da doença, morte, retirada do consentimento ou
+toxicidade inaceitável. A medida do resultado primário da eficácia foi a ORR não confirmada avaliada
+por RCI, com base nos RECIST v1.1. A sobrevida global (overall survival - OS), a sobrevida livre de
+progressão (progression-free survival - PFS), a DOR (duration of response) e a ORR (objective
+response rate) confirmada foram medidas do resultado secundário.
+As características demográficas e da doença no início do estudo foram semelhantes entre os braços de
+tratamento. Dos 188 doentes, a idade mediana foi de 66 anos (intervalo de 28 a 82); 76% eram do sexo
+masculino; 100% eram asiáticos. Os doentes tinham um estado de desempenho do ECOG de 0 (49%)
+ou 1 (51%); 87% tinham um adenocarcinoma gástrico e 13% tinham adenocarcinoma da JGE; 76%
+eram IHC 3+ e 23% eram IHC 2+/ISH-positivo; 54% tinham metástases hepáticas; 29% tinham
+25
+
+metástases pulmonares; a soma dos diâmetros das lesões-alvo era < 5 cm em 47%, ≥ 5 a < 10 cm em
+30%, e ≥ 10 cm em 17%; 55% tinham recebido dois regimes anteriores e 45% tinham recebido três ou
+mais regimes anteriores no contexto localmente avançado ou metastizado.
+Os resultados da eficácia (data de corte dos dados: 3 de junho de 2020) para Enhertu (n = 126) vs. a
+quimioterapia à escolha do médico (n = 62) foram a ORR confirmada de 39,7% (IC 95%: 31,1; 48,8)
+vs. 11,3% (IC 95%: 4,7; 21,9). A taxa de resposta completa foi de 7,9% vs. 0% e a taxa de resposta
+parcial foi de 31,7% vs. 11,3%. Os resultados da eficácia adicionais para Enhertu vs. a quimioterapia à
+escolha do médico foram a DOR mediana de 12,5 meses (IC 95%: 5,6; NE) vs. 3,9 meses (IC 95%:
+3,0; 4,9). A PFS mediana foi de 5,6 meses (IC 95%: 4,3; 6,9) vs. 3,5 meses (IC 95%: 2,0; 4,3; razão de
+risco = 0,47 [IC 95%: 0,31; 0,71]). Uma análise da OS, pré-especificada em 133 mortes, mostrou um
+benefício em termos de sobrevida com o tratamento com Enhertu em comparação com o grupo a fazer
+quimioterapia à escolha do médico (razão de risco = 0,60). A OS mediana foi de 12,5 meses (IC 95%:
+10,3; 15,2) no grupo a fazer tratamento com Enhertu e de 8,9 meses (IC 95%: 6,4; 10,4) no grupo a
+fazer quimioterapia à escolha do médico.
+População pediátrica
+A Agência Europeia de Medicamentos dispensou a obrigação de apresentação dos resultados dos
+estudos em todos os subgrupos da população pediátrica para a indicação de cancro da mama, CPNPC e
+cancro gástrico (ver secção 4.2 para informação sobre utilização pediátrica).
+Foi concedida a este medicamento uma «Autorização de Introdução no Mercado condicional». Isto
+significa que se aguarda evidência adicional sobre este medicamento.
+A Agência Europeia de Medicamentos procederá, pelo menos anualmente, à análise da nova
+informação sobre este medicamento e, se necessário, à atualização deste RCM.
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+O trastuzumab deruxtecano é administrado por via intravenosa. Não se realizaram estudos com outras
+vias de administração.
+Distribuição
+Com base numa análise farmacocinética populacional, o volume de distribuição do compartimento
+central (Vc) de trastuzumab deruxtecano e do inibidor da topoisomerase I, DXd, foram estimados em
+2,68 l e 28,0 l, respetivamente.
+A média da ligação às proteínas plasmáticas humanas do DXd in vitro foi de aproximadamente 97%.
+A razão da concentração do sangue e do plasma do DXd in vitro foi de aproximadamente 0,6.
+Biotransformação
+O trastuzumab deruxtecano sofre uma clivagem intracelular pelas enzimas lisosomais para libertar o
+DXd.
+Prevê-se que o anticorpo monoclonal humanizado IgG1 anti-HER2 seja degradado em pequenos
+péptidos e aminoácidos através de vias catabólicas da mesma maneira que as IgG endógenas.
+Estudos in vitro do metabolismo em microssomas hepáticos humanos indicam que o DXd é
+metabolizado principalmente pela CYP3A4 através de vias oxidativas.
+
+26
+
+Eliminação
+Após administração intravenosa de trastuzumab deruxtecano em doentes com cancro da mama
+metastizado HER2-positivo, com baixa expressão de HER2 ou com CPNPC com mutação do HER2, a
+depuração do trastuzumab deruxtecano na análise farmacocinética populacional foi calculada como
+sendo de 0,4 l/dia e a depuração do DXd como sendo de 18,4 l/h. Em doentes com adenocarcinoma
+gástrico ou da JGE HER2-positivo, localmente avançado ou metastizado, a depuração do trastuzumab
+deruxtecano foi 20% mais elevada do que nos doentes com cancro da mama HER2-positivo
+metastizado. No ciclo 3, a semivida de eliminação aparente (t1/2) do trastuzumab deruxtecano e do
+DXd libertado foi de aproximadamente 7 dias. Observou-se uma acumulação moderada
+(aproximadamente 35% no ciclo 3 em comparação com o ciclo 1) do trastuzumab deruxtecano.
+Após a administração intravenosa do DXd a ratos, a principal via de excreção foram as fezes através
+da via biliar. O DXd foi o componente mais abundante na urina, fezes e bílis. Após uma administração
+intravenosa única de trastuzumab deruxtecano (6,4 mg/kg) a macacos, o DXd libertado inalterado foi o
+componente mais abundante na urina e nas fezes. A excreção do DXd não foi estudada em humanos.
+Interações in vitro
+Efeitos de Enhertu na farmacocinética de outros medicamentos
+Estudos in vitro indicam que o DXd não inibe as principais enzimas do CYP450 incluindo as
+CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 e 3A. Estudos in vitro indicam que o DXd não inibe os
+transportadores OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, MATE1, MATE2-K, gp-P,
+BCRP ou BSEP.
+Efeitos de outros medicamentos na farmacocinética de Enhertu
+In vitro, o DXd foi um substrato da gp-P, OATP1B1, OATP1B3, MATE2-K, MRP1 e BCRP.
+Não são de prever interações clinicamente significativas com medicamentos que são inibidores dos
+transportadores MATE2-K, MRP1, gp-P, OATP1B ou BCRP (ver secção 4.5).
+Linearidade/não linearidade
+A exposição do trastuzumab deruxtecano e do DXd libertado quando administrados por via
+intravenosa aumentou em proporção com a dose no intervalo de doses de 3,2 mg/kg a 8,0 mg/kg
+(aproximadamente 0,6 a 1,5 vezes a dose recomendada) com uma variabilidade interindividual baixa a
+moderada. Com base numa análise farmacocinética populacional, a variabilidade interindividual das
+depurações de eliminação do trastuzumab deruxtecano e do DXd foram de 24% e 28%,
+respetivamente, e relativamente ao volume de distribuição central foi de 16% e 55%, respetivamente.
+A variabilidade intraindividual dos valores da AUC (área sob a curva da concentração sérica versus
+tempo) do trastuzumab deruxtecano e do DXd foi de aproximadamente 8% e 14%, respetivamente.
+Populações especiais
+Com base numa análise farmacocinética populacional, a idade (20-96 anos), raça, etnia, sexo e peso
+corporal não tiveram um efeito clinicamente significativo na exposição do trastuzumab deruxtecano ou
+do DXd libertado.
+Idosos
+A análise farmacocinética populacional revelou que a idade (intervalo: 20-96 anos) não afetou a
+farmacocinética do trastuzumab deruxtecano.
+Compromisso renal
+Não foram realizados estudos específicos no compromisso renal. Com base numa análise
+farmacocinética populacional que incluiu doentes com compromisso renal ligeiro (depuração da
+creatinina [CLcr] ≥ 60 e < 90 ml/min) ou moderado (CLcr ≥ 30 e < 60 ml/min) (estimada pelo método
+de Cockcroft-Gault), a farmacocinética do DXd libertado não foi afetada pelo compromisso renal
+ligeiro ou moderado em comparação com a função renal normal (CLcr ≥ 90 ml/min).
+27
+
+Compromisso hepático
+Não foram realizados estudos específicos no compromisso hepático. Com base numa análise
+farmacocinética populacional, o impacto de alterações na farmacocinética do trastuzumab deruxtecano
+em doentes com um nível de bilirrubina total ≤ 1,5 vezes o LSN, independentemente do nível da AST,
+não é clinicamente significativo. Existem dados limitados em doentes com um nível de bilirrubina total
+> 1,5 a 3 vezes o LSN, independentemente do nível da AST para se chegar a qualquer conclusão, e não
+existem dados no caso de doentes com um nível de bilirrubina total > 3 vezes o LSN
+independentemente do nível da AST (ver secções 4.2 e 4.4).
+População pediátrica
+Não foram realizados estudos para investigar a farmacocinética do trastuzumab deruxtecano em
+crianças ou adolescentes.
+5.3
+
+Dados de segurança pré-clínica
+
+Observaram-se, em animais, toxicidades a nível dos órgãos linfáticos e hematopoiéticos, intestinos,
+rins, pulmões, testículos e pele após a administração de trastuzumab deruxtecano em níveis de
+exposição do inibidor da topoisomerase I (DXd) inferiores à exposição plasmática clínica. Nestes
+animais, os níveis de exposição do anticorpo-fármaco conjugado (ADC) foram semelhantes ou
+superiores à exposição plasmática clínica.
+O DXd foi clastogénico tanto no ensaio in vivo do micronúcleo de medula óssea de rato como no
+ensaio in vitro da aberração cromossómica no pulmão de hamster chinês e não foi mutagénico num
+ensaio in vitro de mutação reversa bacteriana.
+Não foram realizados estudos de carcinogenicidade com trastuzumab deruxtecano.
+Não foram realizados estudos específicos de fertilidade com trastuzumab deruxtecano. Com base nos
+resultados de estudos de toxicidade geral em animais, o trastuzumab deruxtecano pode prejudicar a
+função reprodutiva masculina e a fertilidade.
+Não foram realizados estudos de toxicidade reprodutiva ou do desenvolvimento em animais com
+trastuzumab deruxtecano. Com base em estudos de toxicidade geral em animais, o trastuzumab
+deruxtecano e o DXd foram tóxicos para células em divisão rápida (órgãos linfáticos/hematopoiéticos,
+intestino ou testículos) e o DXd foi genotóxico, sugerindo um potencial para embriotoxicidade e
+teratogenicidade.
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+L-histidina
+Cloridrato de L-histidina mono-hidratado
+Sacarose
+Polissorbato 80
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros
+medicamentos, exceto os mencionados na secção 6.6.
+A solução para perfusão de cloreto de sódio não pode ser utilizada para a reconstituição ou a diluição
+visto que pode causar formação de partículas.
+
+28
+
+6.3
+
+Prazo de validade
+
+Frasco para injetáveis antes da abertura
+4 anos.
+Solução reconstituída
+A estabilidade química e física em uso foi demonstrada durante 24 horas entre 2 °C e 8 ºC.
+Do ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente. Se não for
+imediatamente utilizado, os tempos e as condições de conservação antes da utilização são da
+responsabilidade do utilizador e, normalmente, não devem ser superiores a 24 horas entre 2 °C e 8 °C,
+a não ser que a reconstituição tenha sido efetuada em condições assépticas controladas e validadas.
+Solução diluída
+Recomenda-se que a solução diluída seja utilizada imediatamente. Se não for imediatamente utilizada,
+a solução reconstituída diluída em sacos de perfusão contendo solução de glucose a 5% pode ser
+conservada à temperatura ambiente (≤ 30 ºC) até 4 horas ou no frigorífico entre 2 ºC e 8 ºC até
+24 horas, protegida da luz. Estes períodos de conservação têm início na altura da reconstituição.
+6.4
+
+Precauções especiais de conservação
+
+Conservar no frigorífico (2 °C – 8 °C).
+Não congelar.
+Condições de conservação do medicamento após reconstituição e diluição, ver secção 6.3.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Enhertu é fornecido em frascos para injetáveis de vidro de borossilicato de cor âmbar de Tipo I de
+10 ml, vedados com uma rolha de borracha butílica laminada com resina fluorada e uma cápsula de
+fecho cravada amarela de destacar, de polipropileno/alumínio.
+Cada embalagem exterior contém 1 frasco para injetáveis.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+De modo a evitar erros relacionados com o medicamento, é importante verificar os rótulos dos frascos
+para injetáveis para assegurar que o medicamento a ser preparado e administrado é Enhertu
+(trastuzumab deruxtecano) e não trastuzumab ou trastuzumab emtansina.
+Devem utilizar-se procedimentos apropriados para a preparação de medicamentos quimioterapêuticos.
+Deve utilizar-se a técnica asséptica apropriada para os procedimentos seguintes de reconstituição e
+diluição.
+Reconstituição
+•
+•
+•
+•
+
+Reconstituir imediatamente antes da diluição.
+Poderá ser necessário mais do que um frasco para injetáveis para uma dose completa. Calcular a
+dose (mg), o volume total da solução reconstituída de Enhertu necessário, e o número de frascos
+para injetáveis de Enhertu necessários (ver secção 4.2).
+Reconstituir cada frasco para injetáveis de 100 mg utilizando uma seringa estéril para injetar
+lentamente 5 ml de água para preparações injetáveis em cada frasco para injetáveis de modo a
+obter uma concentração final de 20 mg/ml.
+Rodar cuidadosamente o frasco para injetáveis até à dissolução completa. Não agitar.
+29
+
+•
+•
+
+Se não forem imediatamente utilizados, conservar os frascos para injetáveis de Enhertu
+reconstituídos no frigorífico entre 2 ºC e 8 ºC até 24 horas a partir da altura da reconstituição,
+protegidos da luz. Não congelar.
+O medicamento reconstituído não contém conservantes e destina-se apenas a utilização única.
+
+Diluição
+•
+
+•
+
+•
+•
+•
+•
+
+Retirar a quantidade calculada do(s) frasco(s) para injetáveis utilizando uma seringa estéril.
+Inspecionar a solução reconstituída quanto à presença de partículas e alterações de coloração. A
+solução deve ser límpida e incolor a amarelo-claro. Não utilizar se observar partículas visíveis
+ou se a solução estiver turva ou com alterações de coloração.
+Diluir o volume calculado de Enhertu reconstituído num saco de perfusão contendo 100 ml de
+solução de glucose a 5%. Não utilizar uma solução de cloreto de sódio (ver secção 6.2).
+Recomenda-se um saco de perfusão de polivinilcloreto ou de poliolefina (copolímero de etileno
+e polipropileno).
+Inverter cuidadosamente o saco de perfusão para misturar muito bem a solução. Não agitar.
+Cobrir o saco de perfusão para proteger da luz.
+Se não for imediatamente utilizado, conservar à temperatura ambiente até 4 horas incluindo
+preparação e perfusão, ou no frigorífico entre 2 ºC e 8 ºC até 24 horas, protegido da luz. Não
+congelar.
+Eliminar qualquer porção não utilizada que reste no frasco para injetáveis.
+
+Administração
+•
+•
+•
+
+•
+•
+
+Se a solução preparada para a perfusão for conservada refrigerada (2 ºC a 8 ºC), recomenda-se
+que se deixe a solução equilibrar à temperatura ambiente antes da administração, protegida da
+luz.
+Administrar Enhertu por perfusão intravenosa apenas com um filtro de polietersulfona (PES) ou
+de polissulfona (PS) em linha, de 0,20 ou 0,22 mícrones.
+A dose inicial deve ser administrada na forma de uma perfusão intravenosa de 90 minutos. Se a
+perfusão anterior foi bem tolerada, as doses subsequentes de Enhertu podem ser administradas
+na forma de perfusões de 30 minutos. Não administrar por injeção intravenosa direta ou por
+bólus (ver secção 4.2).
+Cobrir o saco de perfusão para proteger da luz.
+Não misturar Enhertu com outros medicamentos nem administrar outros medicamentos através
+da mesma linha intravenosa.
+
+Eliminação
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Daiichi Sankyo Europe GmbH
+Zielstattstrasse 48
+81379 Munich
+Alemanha
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/20/1508/001
+
+30
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 18 de janeiro de 2021
+Data da última renovação: 24 de outubro de 2023
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+{DD de mês de AAAA}
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos https://www.ema.europa.eu/en
+
+31
+
+ANEXO II
+A.
+
+FABRICANTES DA SUBSTÂNCIA ATIVA DE ORIGEM
+BIOLÓGICA E FABRICANTE RESPONSÁVEL PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+SEGURA E EFICAZ DO MEDICAMENTO
+
+E.
+
+OBRIGAÇÕES ESPECÍFICAS PARA COMPLETAR AS
+MEDIDAS DE PÓS-AUTORIZAÇÃO DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO CONDICIONAL
+
+32
+
+A.
+
+FABRICANTES DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA E
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço dos fabricantes da substância ativa de origem biológica
+Daiichi Sankyo Chemical Pharma Co., Ltd.
+Onahama Plant
+389-4, Izumimachi Shimokawa Aza Otsurugi, Iwaki,
+Fukushima 971-8183
+Japão
+Lonza AG
+Lonzastrasse
+3930 Visp
+Suíça
+
+Nome e endereço do fabricante responsável pela libertação do lote
+Daiichi Sankyo Europe GmbH
+Luitpoldstrasse 1
+85276 Pfaffenhofen
+Alemanha
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos no artigo
+9.º do Regulamento (CE) n.º 507/2006 e, por conseguinte, o Titular da Autorização de
+Introdução no Mercado (AIM) deverá apresentar os RPS a cada 6 meses.
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do
+artigo 107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no
+portal europeu de medicamentos.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+
+33
+
+Deve ser apresentado um PGR atualizado:
+• A pedido da Agência Europeia de Medicamentos
+• Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+São necessárias medidas adicionais de minimização do risco para a utilização segura e eficaz do
+medicamento.
+Antes do lançamento do trastuzumab deruxtecano em cada Estado Membro, o Titular da Autorização
+de Introdução no Mercado (AIM) tem de chegar a acordo sobre o conteúdo e formato dos materiais
+educacionais (Guia do Profissional de Saúde (PS), Cartão do Doente para a DPI/pneumonite e Guia do
+Profissional de Saúde em relação a erros de medicação devido a confusão com o medicamento),
+incluindo meios de comunicação, modalidades de distribuição e outros aspetos do programa, com a
+Autoridade Nacional Competente.
+O programa educacional é direcionado a:
+I)
+assegurar o reconhecimento precoce da doença pulmonar intersticial (DPI)/pneumonite,
+para permitir o tratamento apropriado imediato e para minimizar o agravamento da
+doença.
+II)
+melhorar a consciencialização dos profissionais de saúde sobre o potencial risco de erros
+de medicação devido a confusão relacionada com o medicamento, dada a disponibilidade
+de múltiplos medicamentos que contêm trastuzumab e trastuzumab emtansina
+O Titular da AIM deve assegurar que, em cada Estado Membro onde trastuzumab deruxtecano é
+comercializado, todos os profissionais de saúde e doentes que poderão administrar/receber
+trastuzumab deruxtecano recebem o material educacional.
+I) Guia do Profissional de saúde (PS) para a DPI/pneumonite
+O Guia do PS contém os seguintes elementos chave:
+• Resumo dos dados importantes da DPI/pneumonite induzida pelo trastuzumab deruxtecano
+(p. ex., frequência, grau, período de tempo até ao início) observados no contexto dos ensaios
+clínicos.
+• Descrição da monitorização apropriada e da avaliação da DPI/pneumonite em doentes
+medicados com trastuzumab deruxtecano.
+• Descrição detalhada do tratamento da DPI/pneumonite em doentes tratados com trastuzumab
+deruxtecano, incluindo as orientações para a interrupção do medicamento, redução e
+descontinuação do tratamento na DPI/pneumonite.
+• Lembrar o PS que deve repetir a informação sobre os sinais e sintomas da DPI/pneumonite em
+cada visita do doente, incluindo quando este deverá consultar um PS (p. ex., os sintomas a que
+devem estar atentos; a importância de comparecer às consultas programadas).
+• Lembrar o PS que deve dar ao doente o Cartão do Doente (CD), incluindo o conselho de que o
+doente deve ter este cartão sempre com ele.
+Cartão do Doente
+O Cartão do Doente contém os seguintes elementos chave:
+• Descrição dos riscos importantes da DPI/pneumonite associados à utilização de trastuzumab
+deruxtecano.
+• Descrição dos principais sinais e sintomas da DPI/pneumonite e as orientações para quando
+deverá consultar um PS.
+• Detalhes de contacto do prescritor de trastuzumab deruxtecano.
+• Nota remissiva ao Folheto Informativo do Doente.
+34
+
+II) Guia do Profissional de Saúde para prevenção de erros de medicação
+O Guia do PS contém os seguintes elementos chave:
+• Alertar os PS para um risco de potencial confusão entre Enhertu (trastuzumab deruxtecano) e
+outros medicamentos contendo trastuzumab e o anticorpo-fármaco conjugado direcionado para
+HER2 Kadcyla (trastuzumab emtansina).
+• Medidas de mitigação relativas a erros de prescrição resultantes das semelhanças nos nomes das
+substâncias ativas e as medidas para evitar erros durante a fase de prescrição pelos médicos.
+• Comparação do aspeto comercial entre Enhertu (trastuzumab deruxtecano) e outros
+medicamentos contendo trastuzumab e o anticorpo-fármaco conjugado direcionado para HER2
+Kadcyla (trastuzumab emtansina).
+• Estratégias de mitigação potenciais para evitar erros durante a fase de preparação pelos
+farmacêuticos.
+• Informação detalhada sobre a posologia, modo de administração e preparação, assim como as
+instruções para evitar erros de medicação durante a fase de administração pelos enfermeiros.
+
+E.
+
+OBRIGAÇÕES ESPECÍFICAS PARA COMPLETAR AS MEDIDAS DE PÓSAUTORIZAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+CONDICIONAL
+
+Sendo esta uma autorização de introdução no mercado condicional e de acordo com o artigo 14-a do
+Regulamento (CE) n.º 726/2004, o Titular da AIM deverá completar, dentro dos prazos indicados, as
+seguintes medidas:
+Descrição
+De modo a confirmar a eficácia e segurança de Enhertu no tratamento de
+doentes adultos com cancro gástrico ou da junção gastroesofágica (JGE)
+HER2-positivo, avançado, que receberam um regime anterior à base de
+trastuzumab, o Titular da AIM deve submeter os resultados finais do estudo
+DS-8201-A-U306, um estudo de fase 3, multicêntrico, aleatorizado, aberto,
+com dois braços, com Enhertu em indivíduos com cancro gástrico ou da JGE
+HER2-positivo, metastático e/ou não ressecionável que progrediu durante o
+tratamento com um regime à base de trastuzumab ou após o mesmo.
+De modo a confirmar a eficácia e segurança de Enhertu no tratamento de
+doentes adultos com CPNPC avançado, cujos tumores têm uma mutação
+ativante do HER2 (ERBB2) e que requerem terapêutica sistémica após a
+quimioterapia à base de platina, com ou sem imunoterapia, o Titular da AIM
+deve submeter os resultados do estudo DESTINY-Lung04, um estudo de
+fase 3, multicêntrico, aleatorizado, aberto, para avaliar a eficácia e a
+segurança do trastuzumab deruxtecano, como primeira linha de tratamento,
+no CPNPC irressecável, localmente avançado ou metastático, com mutações
+do HER2 no exão 19 ou 20.
+
+35
+
+Data limite
+4º Trimestre de
+2025
+
+4º Trimestre de
+2025
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+36
+
+A. ROTULAGEM
+
+37
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+
+1.
+
+NOME DO MEDICAMENTO
+
+Enhertu 100 mg pó para concentrado para solução para perfusão
+trastuzumab deruxtecano
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Um frasco para injetáveis de pó para concentrado para solução para perfusão contém: 100 mg de
+trastuzumab deruxtecano.
+Após a reconstituição, um frasco para injetáveis de 5 ml de solução contém 20 mg/ml de trastuzumab
+deruxtecano.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Excipientes: L-histidina, cloridrato de L-histidina mono-hidratado, sacarose, polissorbato 80.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+1 frasco para injetáveis
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Para via intravenosa após reconstituição e diluição.
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Citotóxico
+Enhertu não deve ser substituído por trastuzumab ou por trastuzumab emtansina.
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+38
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico.
+Não congelar.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Daiichi Sankyo Europe GmbH
+Zielstattstrasse 48
+81379 Munich
+Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/20/1508/001
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+39
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO PARA INJETÁVEIS
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Enhertu 100 mg pó para concentrado para solução para perfusão
+trastuzumab deruxtecano
+Via i.v. após reconstituição e diluição
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+100 mg
+
+6.
+
+OUTROS
+
+Citotóxico
+
+40
+
+B. FOLHETO INFORMATIVO
+
+41
+
+Folheto informativo: Informação para o doente
+Enhertu 100 mg pó para concentrado para solução para perfusão
+trastuzumab deruxtecano
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de lhe ser administrado este medicamento, pois contém
+informação importante para si.
+•
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+•
+Caso ainda tenha dúvidas, fale com o seu médico ou enfermeiro.
+•
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou enfermeiro. Ver secção 4.
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Enhertu e para que é utilizado
+O que precisa de saber antes de lhe ser administrado Enhertu
+Como é administrado Enhertu
+Efeitos indesejáveis possíveis
+Como conservar Enhertu
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Enhertu e para que é utilizado
+
+O que é Enhertu
+Enhertu é um medicamento contra o cancro que contém a substância ativa trastuzumab deruxtecano.
+Uma parte do medicamento é um anticorpo monoclonal que se liga especificamente às células que têm
+a proteína HER2 na sua superfície (HER2-positivo), como acontece com algumas células do cancro. A
+outra parte ativa de Enhertu é o DXd, uma substância que pode matar as células cancerígenas. Assim
+que o medicamento se liga às células cancerígenas HER2-positivo, o DXd penetra nas células e mataas.
+Para que é utilizado Enhertu
+Enhertu é utilizado para tratar adultos que têm:
+Cancro da mama HER2-positivo que se disseminou para outras partes do corpo (doença
+metastizada) ou que não pode ser removido por cirurgia, e que fizeram um ou mais outros
+tratamentos especificamente para o cancro da mama HER2-positivo.
+•
+Cancro da mama com baixa expressão de HER2 que se disseminou para outras partes do
+corpo (doença metastizada) ou que não pode ser removido por cirurgia e que receberam
+terapêutica anterior para doença metastizada ou cuja doença voltou durante a quimioterapia
+adjuvante (após a cirurgia) ou no período de 6 meses após a conclusão da mesma. Será efetuado
+um exame para assegurar que Enhertu é adequado para si.
+•
+Cancro do pulmão de não pequenas células com mutação do HER2 que se disseminou para
+outras partes do corpo ou que não pode ser removido por cirurgia e que receberam terapêutica
+anterior. Será efetuado um exame para assegurar que Enhertu é adequado para si.
+•
+Cancro do estômago HER2-positivo que se disseminou para outras partes do corpo ou para
+zonas próximas do estômago que não pode ser removido por cirurgia, e que também fizeram
+outro tratamento especificamente para o cancro do estômago HER2-positivo.
+•
+
+42
+
+2.
+
+O que precisa de saber antes de lhe ser administrado Enhertu
+
+Não lhe pode ser administrado Enhertu
+•
+
+se tem alergia ao trastuzumab deruxtecano ou a qualquer outro componente deste medicamento
+(indicados na secção 6).
+
+Se não tiver a certeza se tem alergia, fale com o seu médico ou enfermeiro antes de lhe ser
+administrado Enhertu.
+Advertências e precauções
+Fale com o seu médico ou enfermeiro antes de lhe ser administrado Enhertu ou durante o tratamento,
+se tiver:
+•
+tosse, falta de ar, febre, ou outros novos problemas respiratórios ou agravamento dos mesmos.
+Estes podem ser sintomas de uma doença dos pulmões grave e potencialmente fatal chamada
+doença pulmonar intersticial. Antecedentes de doença pulmonar ou problemas renais poderão
+aumentar o risco de desenvolver doença pulmonar intersticial. O seu médico poderá ter de fazer
+monitorização pulmonar enquanto estiver a tomar este medicamento.
+•
+arrepios, febre, aftas na boca, dor de estômago ou dor ao urinar. Estes podem ser sintomas de
+uma infeção causada por uma diminuição do número de um tipo de glóbulos brancos chamados
+neutrófilos.
+•
+nova falta de ar ou agravamento da mesma, tosse, cansaço, inchaço dos tornozelos ou pernas,
+batimento irregular do coração, aumento súbito do peso, tonturas, ou perda de consciência. Estes
+podem ser sintomas de uma condição na qual o seu coração não consegue bombear
+suficientemente bem o sangue (diminuição da fração de ejeção ventricular esquerda).
+•
+problemas de fígado. O seu médico pode ter de monitorizar o seu fígado enquanto estiver a
+tomar este medicamento.
+O seu médico efetuará análises antes e durante o tratamento com Enhertu.
+Crianças e adolescentes
+Enhertu não é recomendado para ninguém com menos de 18 anos de idade. Isto porque não existe
+informação sobre como atua neste grupo de idades.
+Outros medicamentos e Enhertu
+Informe o seu médico ou enfermeiro se estiver a tomar, tiver tomado recentemente, ou se vier a tomar
+outros medicamentos.
+Gravidez, amamentação, contraceção e fertilidade
+•
+
+Gravidez
+Enhertu não é recomendado durante a gravidez porque este medicamento pode lesar o feto.
+Se está grávida, se pensa estar grávida ou planeia engravidar, consulte o seu médico antes de
+tomar este medicamento.
+
+•
+
+Amamentação
+Não deve amamentar durante o tratamento com Enhertu e durante pelo menos 7 meses após a
+última dose. Isto porque não se sabe se Enhertu passa para o leite materno. Fale com o seu
+médico sobre este assunto.
+
+•
+
+Contraceção
+Utilize métodos contracetivos eficazes (planeamento familiar) para evitar engravidar enquanto
+está a ser tratada com Enhertu.
+As mulheres que tomam Enhertu devem continuar a utilizar métodos contracetivos durante pelo
+menos 7 meses após a última dose de Enhertu.
+43
+
+Os homens que tomam Enhertu cuja parceira pode engravidar devem utilizar métodos
+contracetivos eficazes:
+durante o tratamento e
+durante pelo menos 4 meses após a última dose de Enhertu.
+Fale com o seu médico para saber qual é o melhor método contracetivo para si. Fale também
+com o seu médico antes de parar de utilizar o método contracetivo.
+•
+
+Fertilidade
+Se é um homem que está a ser tratado com Enhertu, não deve conceber uma criança durante
+4 meses após o tratamento e deve aconselhar-se sobre a conservação de esperma antes do
+tratamento porque o medicamento pode reduzir a sua fertilidade. Por conseguinte, discuta este
+assunto com o seu médico antes de iniciar o tratamento.
+
+Condução de veículos e utilização de máquinas
+Não é provável que Enhertu diminua a sua capacidade de conduzir ou utilizar máquinas. Tenha
+cuidado caso se sinta cansado, tenha tonturas ou dores de cabeça.
+
+3.
+
+Como é administrado Enhertu
+
+Enhertu ser-lhe-á administrado num hospital ou clínica:
+A dose recomendada de Enhertu para o tratamento do:
+cancro da mama HER2-positivo ou com baixa expressão de HER2 é de 5,4 mg por cada
+quilograma do seu peso, em intervalos de 3 semanas.
+cancro do pulmão de não pequenas células com mutação do HER2 é de 5,4 mg por cada
+quilograma do seu peso, em intervalos de 3 semanas.
+- cancro do estômago HER2-positivo é de 6,4 mg por cada quilograma do seu peso, em
+intervalos de 3 semanas.
+•
+O seu médico ou enfermeiro irá administrar-lhe Enhertu por perfusão (gota-a-gota) numa veia.
+•
+A primeira perfusão será administrada durante 90 minutos. Se esta correr bem, as perfusões das
+suas visitas seguintes podem ser-lhe administradas durante 30 minutos.
+•
+O seu médico decidirá quantos tratamentos irá necessitar.
+•
+Antes de cada perfusão de Enhertu, o seu médico poderá dar-lhe medicamentos para ajudar a
+prevenir náuseas e vómitos.
+•
+Se tiver sintomas relacionados com a perfusão, o seu médico ou enfermeiro pode diminuir a
+velocidade da perfusão ou interromper ou parar o seu tratamento.
+•
+Antes e durante o tratamento com Enhertu, o seu médico efetuará exames que podem incluir:
+­
+análises ao sangue para verificar as suas células sanguíneas, fígado e rins
+­
+exames para verificar o seu coração e pulmões.
+•
+O seu médico pode diminuir a sua dose, ou parar de forma temporária ou permanente o seu
+tratamento dependendo dos efeitos indesejáveis que tiver.
+•
+
+Se faltar a uma consulta para administração de Enhertu
+Contacte imediatamente o seu médico para agendar nova consulta.
+É muito importante que não se esqueça de uma dose deste medicamento.
+Se parar de receber Enhertu
+Não pare o tratamento com Enhertu sem perguntar ao seu médico.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou enfermeiro.
+
+44
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas. Informe o seu médico se tiver quaisquer efeitos indesejáveis,
+incluindo efeitos não indicados neste folheto.
+Fale imediatamente com o seu médico se detetar qualquer um dos seguintes sintomas. Podem ser
+sinais de uma situação grave, possivelmente fatal. Obter o tratamento médico imediatamente pode
+ajudar a evitar que estes problemas se agravem.
+Muito frequentes (podem afetar mais do que 1 em cada 10 pessoas)
+Uma doença pulmonar chamada doença pulmonar intersticial com sintomas que podem incluir
+tosse, falta de ar, febre, ou outros novos problemas respiratórios ou agravamento dos mesmos.
+•
+Uma infeção causada pela diminuição do número de neutrófilos (um tipo de glóbulo branco)
+com sintomas que podem incluir arrepios, febre, aftas na boca, dor de estômago ou dor ao
+urinar.
+•
+Um problema de coração chamado diminuição da fração de ejeção ventricular esquerda com
+sintomas que podem incluir nova falta de ar ou agravamento da mesma, tosse, cansaço, inchaço
+dos tornozelos ou pernas, batimento irregular do coração, aumento súbito do peso, tonturas ou
+perda de consciência.
+•
+
+Outros efeitos indesejáveis
+A frequência e a gravidade dos efeitos indesejáveis podem variar com a dose que recebeu. Informe o
+seu médico ou enfermeiro se detetar qualquer um dos seguintes efeitos indesejáveis:
+Muito frequentes (podem afetar mais do que 1 em cada 10 pessoas)
+•
+náuseas (sentir-se enjoado), vómitos
+•
+cansaço
+•
+diminuição do apetite
+•
+análises sanguíneas que indicam uma diminuição de glóbulos vermelhos ou de glóbulos
+brancos, ou de plaquetas
+•
+queda de cabelo e pelos
+•
+diarreia
+•
+prisão de ventre
+•
+análises sanguíneas que indicam um aumento dos níveis das enzimas do fígado, tais como as
+transaminases
+•
+dor nos músculos e nos ossos
+•
+perda de peso
+•
+febre
+•
+dor abdominal (dor de barriga)
+•
+infeções do nariz e garganta, incluindo sintomas semelhantes à gripe
+•
+dores de cabeça
+•
+bolhas na boca ou ao seu redor
+•
+tosse
+•
+análises sanguíneas que indicam um nível baixo do potássio no sangue
+•
+indigestão
+•
+infeção nos pulmões
+•
+dificuldade respiratória
+•
+sangrar do nariz
+•
+inchaço dos tornozelos e dos pés
+•
+tonturas
+•
+paladar alterado/sabor desagradável na boca
+Frequentes (podem afetar até 1 em cada 10 pessoas)
+erupção na pele
+
+•
+
+45
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+análises sanguíneas que indicam um aumento dos níveis de bilirrubina, fosfatase alcalina ou
+creatinina
+comichão
+olho seco
+descoloração da pele
+visão turva
+sentir sede, boca seca
+enfartamento
+febre acompanhada de uma diminuição no número de um tipo de glóbulos brancos chamados
+neutrófilos
+inflamação do estômago
+excesso de gases no estômago ou no intestino
+reações relacionadas com a perfusão do medicamento, que podem incluir febre, arrepios, rubor,
+comichão ou erupção na pele
+
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou enfermeiro. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+5.
+
+Como conservar Enhertu
+
+Enhertu será conservado pelos profissionais de saúde no hospital ou clínica onde recebe o tratamento.
+As informações sobre conservação são as seguintes:
+•
+Manter este medicamento fora da vista e do alcance das crianças.
+•
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no
+frasco para injetáveis, após EXP. O prazo de validade corresponde ao último dia do mês
+indicado.
+•
+Conservar no frigorífico (2 °C – 8 °C). Não congelar.
+•
+A solução para perfusão preparada é estável até 24 horas entre 2 °C – 8 °C protegida da luz e
+tem de ser eliminada depois desse período.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger o
+ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Enhertu
+•
+
+•
+
+A substância ativa é o trastuzumab deruxtecano.
+Um frasco para injetáveis de pó para concentrado para solução para perfusão contém 100 mg de
+trastuzumab deruxtecano. Após a reconstituição, um frasco para injetáveis de 5 ml de solução
+contém 20 mg/ml de trastuzumab deruxtecano.
+Os outros componentes são L-histidina, cloridrato de L-histidina mono-hidratado, sacarose,
+polissorbato 80.
+
+Qual o aspeto de Enhertu e conteúdo da embalagem
+Enhertu é um pó liofilizado branco a branco amarelado fornecido num frasco para injetáveis
+transparente de cor âmbar com uma rolha de borracha, um selo de alumínio e uma cápsula de fecho de
+plástico de destacar.
+Cada embalagem exterior contém 1 frasco para injetáveis.
+46
+
+Titular da Autorização de Introdução no Mercado
+Daiichi Sankyo Europe GmbH
+Zielstattstrasse 48
+81379 Munich
+Alemanha
+Fabricante
+Daiichi Sankyo Europe GmbH
+Luitpoldstrasse 1
+85276 Pfaffenhofen
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+
+België/Belgique/Belgien
+Daiichi Sankyo Belgium N.V.-S.A
+Tél/Tel: +32-(0) 2 227 18 80
+
+Lietuva
+UAB AstraZeneca Lietuva
+Tel: +370 5 2660550
+
+България
+АстраЗенека България ЕООД
+Тел.: +359 24455000
+
+Luxembourg/Luxemburg
+Daiichi Sankyo Belgium N.V.-S.A
+Tél/Tel: +32-(0) 2 227 18 80
+
+Česká republika
+AstraZeneca Czech Republic s.r.o.
+Tel: +420 222 807 111
+
+Magyarország
+AstraZeneca Kft.
+Tel.: +36 1 883 6500
+
+Danmark
+Daiichi Sankyo Nordics ApS
+Tlf: +45 (0) 33 68 19 99
+
+Malta
+Daiichi Sankyo Europe GmbH
+Tel: +49-(0) 89 7808 0
+
+Deutschland
+Daiichi Sankyo Deutschland GmbH
+Tel: +49-(0) 89 7808 0
+
+Nederland
+Daiichi Sankyo Nederland B.V.
+Tel: +31-(0) 20 4 07 20 72
+
+Eesti
+AstraZeneca
+Tel: +372 6549 600
+
+Norge
+Daiichi Sankyo Nordics ApS
+Tlf: +47 (0) 21 09 38 29
+
+Ελλάδα
+AstraZeneca A.E.
+Τηλ: +30 210 6871500
+
+Österreich
+Daiichi Sankyo Austria GmbH
+Tel: +43 (0) 1 485 86 42 0
+
+España
+Daiichi Sankyo España, S.A.
+Tel: +34 91 539 99 11
+
+Polska
+AstraZeneca Pharma Poland Sp. z o.o.
+Tel: +48 22 245 73 00
+
+France
+Daiichi Sankyo France S.A.S.
+Tél: +33 (0) 1 55 62 14 60
+
+Portugal
+Daiichi Sankyo Portugal, Unip. LDA
+Tel: +351 21 4232010
+
+Hrvatska
+AstraZeneca d.o.o.
+Tel: +385 1 4628 000
+
+România
+AstraZeneca Pharma SRL
+Tel: +40 21 317 60 41
+
+47
+
+Ireland
+Daiichi Sankyo Ireland Ltd
+Tel: +353-(0) 1 489 3000
+
+Slovenija
+AstraZeneca UK Limited
+Tel: +386 1 51 35 600
+
+Ísland
+Daiichi Sankyo Nordics ApS
+Sími: +354 5357000
+
+Slovenská republika
+AstraZeneca AB, o.z.
+Tel: +421 2 5737 7777
+
+Italia
+Daiichi Sankyo Italia S.p.A.
+Tel: +39-06 85 2551
+
+Suomi/Finland
+Daiichi Sankyo Nordics ApS
+Puh/Tel: +358 (0) 9 3540 7081
+
+Κύπρος
+Αλέκτωρ Φαρµακευτική Λτδ
+Τηλ: +357 22490305
+
+Sverige
+Daiichi Sankyo Nordics ApS
+Tel: +46 (0) 40 699 2524
+
+Latvija
+SIA AstraZeneca Latvija
+Tel: +371 67377100
+
+United Kingdom (Northern Ireland)
+Daiichi Sankyo Europe GmbH
+Tel: +49 (0) 89 7808 0
+
+Este folheto foi revisto pela última vez em {MM/AAAA}.
+Foi concedida a este medicamento uma «Autorização de Introdução no Mercado condicional». Isto
+significa que se aguarda mais informação sobre este medicamento.
+A Agência Europeia de Medicamentos irá analisar, pelo menos uma vez por ano, nova informação
+sobre este medicamento e este folheto será atualizado se necessário.
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: https://www.ema.europa.eu/en.
+------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos profissionais de saúde:
+De modo a evitar erros relacionados com o medicamento, é importante verificar os rótulos dos frascos
+para injetáveis para assegurar que o medicamento a ser preparado e administrado é Enhertu
+(trastuzumab deruxtecano) e não trastuzumab ou trastuzumab emtansina.
+Devem utilizar-se procedimentos apropriados para a preparação de medicamentos quimioterapêuticos.
+Deve utilizar-se a técnica asséptica apropriada para os procedimentos seguintes de reconstituição e
+diluição.
+Reconstituição
+•
+Reconstituir imediatamente antes da diluição.
+•
+Poderá ser necessário mais do que um frasco para injetáveis para uma dose completa. Calcular a
+dose (mg), o volume total da solução reconstituída de Enhertu necessário e o número de frascos
+para injetáveis de Enhertu necessários.
+•
+Reconstituir cada frasco para injetáveis de 100 mg utilizando uma seringa estéril para injetar
+lentamente 5 ml de água para preparações injetáveis em cada frasco para injetáveis de modo a
+obter uma concentração final de 20 mg/ml.
+•
+Rodar cuidadosamente o frasco para injetáveis até à dissolução completa. Não agitar.
+•
+Se não forem imediatamente utilizados, conservar os frascos para injetáveis de Enhertu
+reconstituídos no frigorífico entre 2 ºC e 8 ºC até 24 horas a partir da altura da reconstituição,
+protegidos da luz. Não congelar.
+48
+
+•
+
+O medicamento reconstituído não contém conservantes e destina-se apenas a utilização única.
+
+Diluição
+•
+Retirar a quantidade calculada do(s) frasco(s) para injetáveis utilizando uma seringa estéril.
+Inspecionar a solução reconstituída quanto à presença de partículas e alterações de coloração. A
+solução deve ser límpida e incolor a amarelo-claro. Não utilizar se observar partículas visíveis
+ou se a solução estiver turva ou com alterações de coloração.
+•
+Diluir o volume calculado de Enhertu reconstituído num saco de perfusão contendo 100 ml de
+solução de glucose a 5%. Não utilizar uma solução de cloreto de sódio. Recomenda-se um saco
+de perfusão de polivinilcloreto ou de poliolefina (co-polímero de etileno e polipropileno).
+•
+Inverter cuidadosamente o saco de perfusão para misturar muito bem a solução. Não agitar.
+•
+Cobrir o saco de perfusão para proteger da luz.
+•
+Se não for imediatamente utilizado, conservar à temperatura ambiente até 4 horas incluindo
+preparação e perfusão, ou no frigorífico entre 2 ºC e 8 ºC até 24 horas, protegido da luz. Não
+congelar.
+•
+Eliminar qualquer porção não utilizada que reste no frasco para injetáveis.
+Administração
+•
+Se a solução preparada para a perfusão for conservada refrigerada (2 ºC a 8 ºC), recomenda-se
+que se deixe a solução equilibrar à temperatura ambiente antes da administração, protegida da
+luz.
+•
+Administrar Enhertu por perfusão intravenosa apenas com um filtro de polietersulfona (PES) ou
+de polissulfona (PS) em linha, de 0,20 ou 0,22 mícrones.
+•
+A dose inicial deve ser administrada na forma de uma perfusão intravenosa de 90 minutos. Se a
+perfusão anterior foi bem tolerada, as doses subsequentes de Enhertu podem ser administradas
+na forma de perfusões de 30 minutos. Não administrar por injeção intravenosa direta ou por
+bólus.
+•
+Cobrir o saco de perfusão para proteger da luz.
+•
+Não misturar Enhertu com outros medicamentos nem administrar outros medicamentos através
+da mesma linha intravenosa.
+Eliminação
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+49
+
+

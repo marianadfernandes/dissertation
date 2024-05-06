@@ -1,0 +1,4076 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+Ritonavir Mylan 100 mg comprimidos revestidos por película
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada comprimido revestido por película contém 100 mg de ritonavir.
+Excipiente com efeito conhecido
+Cada comprimido revestido por película contém 87,75 mg de sódio.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimido revestido por película
+Comprimido revestido por película amarelo, em forma de cápsula, biconvexo, de bordos biselados,
+com aproximadamente 19,1 mm × 10,2 mm, gravado com «M163» numa das faces e em branco na
+outra face.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Ritonavir está indicado, em combinação com outros medicamentos antirretrovirais, no tratamento de
+doentes com infeção pelo VIH­1 (adultos e crianças com 2 anos de idade ou mais).
+4.2
+
+Posologia e modo de administração
+
+Ritonavir Mylan deve ser administrado por médicos com experiência no tratamento da infeção por
+VIH.
+Posologia
+Ritonavir administrado como potenciador farmacocinético
+Quando ritonavir é usado como potenciador farmacocinético de outros inibidores da protease deve ser
+consultado o Resumo das Características do Medicamento para o inibidor da protease específico.
+Os seguintes inibidores da protease VIH­1 foram aprovados para utilização com ritonavir como
+potenciador farmacocinético, nas doses referidas.
+Adultos
+Amprenavir 600 mg duas vezes ao dia com ritonavir 100 mg duas vezes ao dia
+Atazanavir 300 mg uma vez ao dia com ritonavir 100 mg uma vez ao dia
+Fosamprenavir 700 mg duas vezes ao dia com ritonavir 100 mg duas vezes ao dia
+Lopinavir coformulado com ritonavir (lopinavir/ritonavir) 400 mg/100 mg ou 800 mg/200 mg
+Saquinavir 1000 mg duas vezes ao dia com ritonavir 100 mg duas vezes ao dia, nos doentes
+previamente tratados com terapêutica antirretroviral (ART).
+Iniciar o tratamento com saquinavir 500 mg duas vezes ao dia com ritonavir 100 mg duas vezes ao dia
+durante os primeiros 7 dias, depois saquinavir 1000 mg duas vezes ao dia com ritonavir 100 mg duas
+vezes ao dia nos doentes sem ART prévia.
+
+2
+
+Tipranavir 500 mg duas vezes ao dia com ritonavir 200 mg duas vezes ao dia (tipranavir com ritonavir
+não deve ser usado nos doentes sem ART prévia).
+Darunavir 600 mg duas vezes ao dia com ritonavir 100 mg duas vezes ao dia em doentes previamente
+submetidos a ART. Darunavir 800 mg uma vez ao dia com ritonavir 100 mg uma vez ao dia podem ser
+usados em alguns doentes previamente tratados com ART. Consultar o Resumo das Características do
+Medicamento de darunavir para informação adicional sobre a administração uma vez ao dia em
+doentes previamente tratados com ART.
+Darunavir 800 mg uma vez ao dia com ritonavir 100 mg em doentes não submetidos a terapêutica
+antirretroviral prévia
+Crianças e adolescentes
+Ritonavir é recomendado para crianças com 2 anos de idade ou mais. Para recomendações posológicas
+adicionais, consultar a informação do produto dos outros Inibidores da Protease aprovados para
+coadministração com ritonavir.
+Populações especiais
+Compromisso renal
+Dado que ritonavir é sobretudo metabolizado pelo fígado, pode ser adequado para uso com precaução
+como potenciador farmacocinético em doentes com insuficiência renal, dependendo do inibidor da
+protease específico com o qual for coadministrado. No entanto, visto que a depuração renal do
+ritonavir é negligenciável, não se prevê diminuição na depuração total nos doentes com compromisso
+renal. Para informação específica sobre a posologia em doentes com compromisso renal, consultar o
+Resumo das Características do Medicamento (RCM) do inibidor da protease coadministrado.
+Compromisso hepático
+Ritonavir não deve ser administrado como potenciador farmacocinético nos doentes com insuficiência
+hepática descompensada (ver secção 4.3). Na ausência de estudos de farmacocinética nos doentes com
+compromisso hepático grave estabilizado (Child Pugh Grau C) sem descompensação, deverá ter-se
+precaução quando ritonavir é usado como potenciador farmacocinético, dado que podem ocorrer níveis
+aumentados do IP administrado. Recomendações específicas para o uso de ritonavir como potenciador
+farmacocinético nos doentes com compromisso hepático dependem do inibidor da protease com o qual
+ele for coadministrado. O RCM do IP coadministrado deve ser revisto relativamente a inclusão de
+informação posológica específica nestes doentes.
+Ritonavir administrado como medicamento antirretroviral
+Adultos
+A dose recomendada de ritonavir é de 600 mg (6 comprimidos) duas vezes ao dia (total de 1200 mg
+por dia), por via oral.
+Aumentando gradualmente a dose de ritonavir quando se inicia o tratamento pode ajudar a melhorar a
+tolerância. O tratamento deve ser iniciado com 300 mg (3 comprimidos) duas vezes ao dia durante um
+período de 3 dias e aumentado com incrementos de 100 mg (1 comprimido) duas vezes ao dia, até
+600 mg, 2 × dia, por um período de tempo não superior a 14 dias. Os doentes não deverão continuar
+com 300 mg, duas vezes ao dia, por um período superior a 3 dias.
+População pediátrica (2 anos de idade ou mais)
+A dose recomendada de ritonavir em crianças é de 350 mg/m², por via oral, duas vezes ao dia e não
+deve exceder 600 mg, duas vezes ao dia. O ritonavir deve ser iniciado com uma dose de 250 mg/m²,
+com aumentos de 50 mg/m², duas vezes ao dia, em intervalos de 2 a 3 dias.
+Outras dosagens/formas farmacêuticas poderão ser mais adequadas para administração nesta
+população.
+Nas crianças mais crescidas poderá ser possível usar comprimidos para manutenção da dose de outras
+formas farmacêuticas.
+3
+
+Tabela 1. Conversão da dose de pó para suspensão oral para comprimidos, em crianças
+Dose de pó para suspensão oral
+175 mg (2,2 ml) 2 × dia
+350 mg (4,4 ml) 2 × dia
+437,5 mg (5,5 ml) 2 × dia
+525 mg (6,6 ml) 2 × dia
+
+Dose de comprimido
+200 mg de manhã e 200 mg à noite
+400 mg de manhã e 300 mg à noite
+500 mg de manhã e 400 mg à noite
+500 mg de manhã e 500 mg à noite
+
+Não se recomenda o uso de ritonavir em crianças com idade inferior a 2 anos devido à ausência de
+dados de segurança e eficácia.
+Populações especiais
+Idosos
+Os dados de farmacocinética indicaram que não é necessário ajuste da dose para doentes idosos (ver
+secção 5.2).
+Compromisso renal
+Atualmente, não existem dados específicos para este tipo de doentes e, por conseguinte, não é possível
+recomendar uma dose específica. A depuração renal do ritonavir é negligenciável; por isso, não se
+prevê uma diminuição na depuração total nos doentes com compromisso renal. Dado que o ritonavir
+possui uma forte ligação às proteínas é pouco provável que seja removido de forma significativa
+através da hemodiálise ou diálise peritoneal.
+Compromisso hepático
+Ritonavir é sobretudo metabolizado e eliminado pelo fígado. Os dados de farmacocinética indicam que
+não é necessário qualquer ajuste na dose dos doentes com compromisso hepático ligeiro ou moderado
+(ver secção 5.2). Ritonavir não deve ser administrado em doentes com compromisso hepático grave
+(ver secção 4.3).
+População pediátrica
+A segurança e a eficácia de ritonavir em crianças com idade inferior a 2 anos não foi estabelecida. Os
+dados atualmente disponíveis encontram-se descritos nas secções 5.1 e 5.2 mas não pode ser feita
+qualquer recomendação posológica.
+Modo de administração
+Os comprimidos revestidos por película de Ritonavir Mylan são administrados por via oral e devem
+ser tomados com alimentos (ver secção 5.2).
+Os comprimidos revestidos por película de Ritonavir Mylan devem ser engolidos inteiros e não devem
+ser mastigados, partidos ou esmagados.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Quando o ritonavir é usado como potenciador farmacocinético de outros IPs, consultar o Resumo das
+Características do Medicamento do inibidor da protease coadministrado para contraindicações.
+Ritonavir não deve ser administrado como potenciador farmacocinético ou como medicamento
+antirretroviral em doentes com doença hepática descompensada.
+Estudos in vitro e in vivo demonstraram que o ritonavir é um potente inibidor das biotransformações
+mediadas pela CYP3A e CYP2D6. Os seguintes medicamentos são contraindicados quando usados
+4
+
+com ritonavir e, salvo aviso em contrário, a contraindicação baseia-se no potencial do ritonavir inibir o
+metabolismo do medicamento coadministrado, resultando em exposição aumentada ao medicamento
+coadministrado e risco de acontecimentos adversos clinicamente importantes.
+O efeito modulador enzimático do ritonavir pode depender da dose. Para alguns medicamentos as
+contraindicações podem ser mais relevantes quando o ritonavir é usado como medicamento
+antirretroviral do que quando é usado como potenciador farmacocinético (por ex. rifabutina e
+voriconazol):
+Tabela 2. Medicamentos contraindicados quando usados com Ritonavir
+Classe de
+Medicamentos na classe Fundamentação
+medicamento
+Níveis aumentados ou diminuídos do medicamento concomitante
+Antagonista dos
+Alfuzosina
+Concentrações plasmáticas aumentadas de
+Recetores Alfa1
+alfuzosina que podem causar hipotensão grave
+Adrenérgicos
+(ver secção 4.5).
+Analgésicos
+Petidina, propoxifeno
+Concentrações plasmáticas aumentadas de
+norpetidina e propoxifeno. Por conseguinte,
+aumentando o risco de depressão respiratória
+grave ou anomalias hematológicas ou outros
+efeitos adversos graves causados por estes
+medicamentos.
+Antianginosos
+Ranolazina
+Concentrações plasmáticas aumentadas de
+ranolazina que podem aumentar o potencial
+para reações graves e/ou que colocam a vida em
+risco (ver secção 4.5).
+Antineoplásicos
+Neratinib
+Concentrações plasmáticas aumentadas de
+neratinib que podem aumentar o potencial para
+reações graves e/ou que colocam a vida em
+risco incluindo hepatotoxicidade (ver
+secção 4.5).
+Venetoclax
+Concentrações plasmáticas aumentadas de
+venetoclax. Risco aumentado de síndrome de
+lise tumoral no início e durante a fase de
+aumento de dose (ver secção 4.5).
+Antiarrítmicos
+Amiodarona, bepridilo,
+Concentrações plasmáticas aumentadas de
+dronedarona, encaínida,
+amiodarona, bepridilo, dronedarona, encaínida,
+flecaínida, propafenona,
+flecaínida, propafenona, quinidina. Por
+quinidina
+conseguinte, aumentando o risco de arritmias
+ou outros efeitos adversos graves causados por
+estes medicamentos.
+Antibióticos
+Ácido fusídico
+Concentrações plasmáticas aumentadas de
+ácido fusídico e de ritonavir.
+Antifúngicos
+Voriconazol
+O uso concomitante de ritonavir (400 mg duas
+vezes dia e mais) e voriconazol é
+contraindicado devido a redução nas
+concentrações plasmáticas de voriconazol e
+possível perda de efeito (ver secção 4.5)
+Anti-histamínicos
+Astemizol, terfenadina
+Concentrações plasmáticas aumentadas de
+astemizol e terfenadina. Por conseguinte,
+aumentando o risco de arritmias graves
+causadas por estes medicamentos.
+
+5
+
+Classe de
+medicamento
+Medicamentos antigota
+
+Medicamentos na classe
+
+Fundamentação
+
+Colquicina
+
+Antimicobacterianos
+
+Rifabutina
+
+Antipsicóticos/
+Neurolépticos
+
+Lurasidona
+
+Potencial para reações graves e/ou que colocam
+a vida em risco em doentes com compromisso
+renal e/ou hepático (ver secções 4.4 e 4.5).
+O uso concomitante de ritonavir (500 mg duas
+vezes ao dia) administrado como medicamento
+antirretroviral e rifabutina devido a um aumento
+nas concentrações séricas de rifabutina e risco
+de reações adversas, incluindo uveíte (ver
+secção 4.4).
+As recomendações relativas ao uso de ritonavir
+como potenciador farmacocinético com
+rifabutina estão descritas na secção 4.5.
+Concentrações plasmáticas aumentadas de
+lurasidona que podem aumentar o potencial
+para reações graves e/ou que colocam a vida em
+risco (ver secção 4.5).
+Concentrações plasmáticas aumentadas de
+clozapina e pimozida. Por conseguinte,
+aumentando o risco de anomalias
+hematológicas graves ou outros efeitos
+adversos graves causados por estes
+medicamentos.
+Concentrações plasmáticas aumentadas de
+quetiapina que podem causar coma. A
+administração concomitante com quetiapina é
+contraindicada (ver secção 4.5).
+Concentrações plasmáticas aumentadas de
+derivados da cravagem do centeio causando
+toxicidade aguda pelos derivados da cravagem
+do centeio, incluindo vasospasmo e isquemia.
+Concentrações plasmáticas aumentadas de
+cisaprida.
+Por conseguinte, aumentando o risco de
+arritmias graves causadas por este
+medicamento.
+
+Clozapina, pimozida
+
+Quetiapina
+
+Derivados da Cravagem Di-hidroergotamina,
+do Centeio
+ergonovina, ergotamina,
+metilergonovina
+Modificadores da
+Motilidade GI
+
+Cisaprida
+
+Agentes modificadores
+de lípidos
+Inibidores da HMG
+Co­A Reductase
+
+Lovastatina, sinvastatina
+
+Concentrações plasmáticas aumentadas de
+lovastatina e sinvastatina; aumentando por
+conseguinte o risco de miopatia, incluindo
+rabdomiólise (ver secção 4.5).
+
+Inibidor de proteína de
+transferência de
+triglicerídeos
+microssomal (MTTP)
+Inibidores da PDE5
+
+Lomitapida
+
+Concentrações plasmáticas aumentadas de
+lomitapida (ver secção 4.5).
+
+Avanafil
+
+Concentrações plasmáticas aumentadas de
+avanafil (ver secções 4.4 e 4.5).
+
+6
+
+Classe de
+medicamento
+
+Medicamentos na classe
+
+Fundamentação
+
+Sildenafil
+
+Contraindicado quando usado apenas para o
+tratamento da hipertensão arterial pulmonar
+(HAP).
+Concentrações plasmáticas aumentadas de
+sildenafil.
+Por conseguinte, aumentando o potencial para
+efeitos adversos associados ao sildenafil (que
+incluem hipertensão e síncope). Ver secções 4.4
+e 4.5 para administração concomitante de
+sildenafil em doentes com disfunção erétil.
+Concentrações plasmáticas aumentadas de
+vardenafil (ver secções 4.4 e 4.5).
+Concentrações plasmáticas aumentadas de
+clorazepato, diazepam, estazolam, flurazepam,
+midazolam por via oral e triazolam. Por
+conseguinte, aumentando o risco de sedação
+extrema e depressão respiratória causadas por
+estes medicamentos. (Para precauções sobre a
+administração parentérica de midazolam, ver
+secção 4.5)
+
+Vardenafil
+Sedativos/hipnóticos
+
+Clorazepato, diazepam,
+estazolam, flurazepam,
+midazolam por via oral e
+triazolam
+
+Nível diminuído do medicamento ritonavir
+Preparações de Plantas Hipericão
+Medicinais
+
+4.4
+
+Preparações de plantas medicinais contendo
+Hipericão (Hypericum perforatum) devido ao
+risco de concentrações plasmáticas diminuídas
+e de efeitos clínicos diminuídos do ritonavir
+(ver secção 4.5).
+
+Advertências e precauções especiais de utilização
+
+O ritonavir não é uma cura para a infeção pelo VIH­1 ou SIDA. Os doentes tratados com ritonavir ou
+com qualquer outra terapêutica antirretroviral podem continuar a desenvolver infeções oportunistas e
+outras complicações da infeção pelo VIH­1.
+Quando o ritonavir é usado como potenciador farmacocinético com outros IPs, deverá ter-se em
+consideração toda a informação acerca das advertências e precauções relevantes para esse IP
+específico, pelo que deve ser consultado o Resumo das Características desse IP.
+Ritonavir administrado como medicamento antirretroviral ou como potenciador farmacocinético
+Doentes com diarreia crónica ou malabsorção
+Recomenda-se acompanhamento extra em caso de diarreia. A frequência relativamente elevada de
+diarreia durante o tratamento com ritonavir pode comprometer a absorção e a eficácia (devido a
+redução na adesão ao tratamento) do ritonavir ou de outros medicamentos concomitantes. Vómitos
+graves e persistentes e/ou diarreia associados ao uso de ritonavir podem também comprometer a
+função renal. É aconselhável vigiar a função renal nos doentes com insuficiência renal.
+Hemofilia
+Em doentes hemofílicos tipo A e B tratados com inibidores da protease foram notificados casos de
+aumento de hemorragia, incluindo aparecimento espontâneo de hematomas e hemartroses. Em alguns
+doentes foi administrado adicionalmente fator VIII. Em mais de metade dos casos notificados, o
+tratamento com inibidores da protease continuou ou foi reintroduzido nos casos em que o tratamento
+foi interrompido. Foi evocada uma relação de causalidade, embora o mecanismo de ação não esteja
+esclarecido. Deste modo, os doentes hemofílicos deverão ser informados sobre a possibilidade de um
+aumento de hemorragias.
+7
+
+Peso e parâmetros metabólicos
+Durante a terapêutica antirretroviral pode ocorrer um aumento do peso e dos níveis de lípidos e
+glucose no sangue. Estas alterações podem estar em parte associadas ao controlo da doença e ao estilo
+de vida. Para os lípidos, existe em alguns casos evidência de um efeito do tratamento, enquanto para o
+aumento do peso não existe uma evidência forte que o relacione com um tratamento em particular.
+Para a monitorização dos lípidos e glucose no sangue é feita referência às orientações estabelecidas
+para o tratamento do VIH. As alterações lipídicas devem ser tratadas de modo clinicamente
+apropriado.
+Pancreatite
+Deve ter-se em consideração a possibilidade de pancreatite caso se verifiquem sintomas clínicos
+(náuseas, vómitos, dor abdominal) ou anomalias nos valores laboratoriais (tais como valores séricos
+aumentados de lipase ou amilase) sugestivos de ocorrência de pancreatite. Os doentes que apresentam
+estes sinais ou sintomas devem ser avaliados e o tratamento com ritonavir suspenso no caso de
+diagnóstico de pancreatite (ver secção 4.8).
+Síndrome Inflamatória de Reconstituição Imunológica
+Em doentes infetados pelo VIH com deficiência imunológica grave à data da instituição da terapêutica
+antirretroviral combinada (TARC), pode ocorrer uma reação inflamatória a infeções oportunistas
+assintomáticas ou residuais e causar várias situações clínicas graves, ou o agravamento dos sintomas.
+Tipicamente, estas reações foram observadas durante as primeiras semanas ou meses após início da
+TARC. São exemplos relevantes a retinite por citomegalovírus, as infeções micobacterianas
+generalizadas e/ou focais e a pneumonia por Pneumocystis jiroveci. Quaisquer sintomas de inflamação
+devem ser avaliados e, quando necessário, instituído o tratamento.
+As doenças autoimunes (tais como a doença de Graves e a hepatite autoimune), também têm sido
+descritas como tendo ocorrido no contexto de reconstituição imunológica, no entanto, o tempo descrito
+de início dos primeiros sintomas é mais variável e pode ocorrer muitos meses após o início do
+tratamento.
+Doença hepática
+Ritonavir não deve ser administrado em doentes com doença hepática descompensada (ver
+secção 4.2). Os doentes com hepatite B ou C crónica e tratados com terapêutica antirretroviral
+combinada apresentam um risco aumentado para reações adversas hepáticas graves e potencialmente
+fatais. No caso de terapêutica antivírica concomitante para a hepatite B ou C, consultar a informação
+do produto relevante para estes medicamentos.
+Os doentes com disfunção hepática preexistente, incluindo hepatite crónica ativa, têm uma frequência
+aumentada de anomalias da função hepática durante a terapêutica antirretroviral combinada e deverão
+ser monitorizados de acordo com a prática clínica habitual. Se houver evidência de agravamento da
+doença hepática nestes doentes, deverá considerar-se a interrupção ou suspensão do tratamento.
+Doença renal
+Visto que a depuração renal do ritonavir é negligenciável, não se prevê diminuição na depuração total
+nos doentes com compromisso renal (ver também secção 4.2).
+Com o uso de tenofovir disoproxil fumarato (DF) na prática clínica foi descrita insuficiência renal,
+compromisso renal, creatinina elevada, hipofosfatemia e tubulopatia proximal (incluindo síndrome de
+Fanconi) (ver secção 4.8).
+Osteonecrose
+Foram notificados casos de osteonecrose, particularmente em doentes com doença por VIH avançada
+e/ou exposição prolongada a terapêutica antirretroviral combinada (TARC), apesar de a etiologia ser
+considerada multifatorial (incluindo a utilização de corticosteroides, o consumo de álcool, a
+imunossupressão grave, um índice de massa corporal aumentado). Os doentes devem ser instruídos a
+
+8
+
+procurar aconselhamento médico caso sintam mal-estar e dor articular, rigidez articular ou dificuldade
+de movimentos.
+Prolongamento do intervalo PR
+Ritonavir mostrou causar um prolongamento do intervalo PR, modesto e assintomático, em alguns
+adultos saudáveis. Foram notificados casos raros de bloqueio auriculoventricular de 2º ou 3º grau em
+doentes tratados com ritonavir com doença cardíaca estrutural subjacente e anomalias pré-existentes
+no sistema de condução, ou em doentes tratados com medicamentos com reconhecida capacidade para
+prolongarem o intervalo PR (por ex. verapamilo e atazanavir). O ritonavir deve ser utilizado com
+precaução nestes doentes (ver secção 5.1).
+Interações com outros medicamentos
+Ritonavir administrado como medicamento antirretroviral
+As seguintes advertências e precauções deverão ser consideradas quando ritonavir é administrado
+como medicamento antirretroviral. Quando o ritonavir é administrado como potenciador
+farmacocinético, nas doses de 100 mg e 200 mg, não se pode assumir que também se aplicarão as
+advertências e precauções seguintes. Quando o ritonavir é administrado como potenciador
+farmacocinético, devem considerar-se as informações completas de advertências e precauções desse IP
+específico, pelo que deve ser consultada a secção 4.4 do Resumo das Características do Medicamento
+desse IP para determinar se a informação abaixo é aplicável.
+Inibidores da PDE5
+Deverá ter-se precaução especial ao prescrever sildenafil ou tadalafil no tratamento da disfunção
+eréctil em doentes tratados com ritonavir. A coadministração de ritonavir com estes medicamentos
+pode aumentar substancialmente as suas concentrações e pode resultar em reações adversas
+associadas, como por exemplo hipotensão e ereção prolongada (ver secção 4.5). O uso concomitante
+de avanafil ou vardenafil com ritonavir é contraindicado (ver secção 4.3). O uso concomitante de
+sildenafil com ritonavir está contraindicado nos doentes com hipertensão arterial pulmonar (ver
+secção 4.3).
+Inibidores da HMG-CoA reductase
+Os inibidores da HMG-CoA reductase, sinvastatina e lovastatina, são largamente dependentes da
+CYP3A4 para o seu metabolismo, pelo que não se recomenda o uso concomitante de ritonavir com
+sinvastatina ou lovastatina devido ao risco aumentado de miopatia, incluindo rabdomiólise. Deverá
+também ter-se precaução e deverá considerar-se uma redução nas doses se o ritonavir for usado
+concomitantemente com atorvastatina, que é metabolizada em menor grau pela CYP3A. Embora a
+eliminação da rosuvastatina não seja dependente da CYP3A, foi descrito um aumento na exposição à
+rosuvastatina com a administração concomitante com ritonavir. O mecanismo desta interação não é
+claro, mas pode ser o resultado de inibição do transportador. Quando utilizadas com ritonavir como
+potenciador farmacocinético ou como antirretroviral, deverão administrar-se as doses mais baixas de
+atorvastatina ou rosuvastatina. O metabolismo da pravastatina ou fluvastatina não depende da CYP3A
+e não se esperam interações com ritonavir. Se for indicado tratamento com um inibidor da HMG-CoA
+reductase, recomenda-se o uso de pravastatina ou fluvastatina (ver secção 4.5).
+Colquicina
+Foram notificadas interações fatais e que colocam a vida em risco em doentes tratados com colquicina
+e inibidores potentes da CYP3A como o ritonavir (ver secções 4.3 e 4.5).
+Digoxina
+Ter especial precaução ao prescrever ritonavir a doentes a receber tratamento com digoxina porque se
+prevê que a coadministração de ritonavir com digoxina aumente os níveis de digoxina. Os níveis
+aumentados de digoxina podem diminuir ao longo do tempo (ver secção 4.5).
+Nos doentes que já estejam a tomar digoxina quando é iniciado o tratamento com ritonavir, a dose de
+digoxina deve ser reduzida para metade da dose normal do doente e este deve ser vigiado mais
+
+9
+
+cuidadosamente do que o habitual, durante várias semanas, após iniciada a coadministração de
+ritonavir e digoxina.
+Nos doentes que já estejam a tomar ritonavir quando é iniciado o tratamento com digoxina, esta deve
+ser introduzida de forma mais gradual do que o habitual. Durante este período os níveis de digoxina
+devem ser monitorizados de forma mais rigorosa do que a habitual, fazendo ajustes da dose, como
+necessário, com base nos resultados clínicos, eletrocardiográficos e níveis de digoxina.
+Etinilestradiol
+Devem ser considerados métodos contracetivos locais ou outros métodos não hormonais quando
+ritonavir é administrado em doses terapêuticas ou doses baixas, dado que o ritonavir pode diminuir o
+efeito e alterar o perfil hemorrágico uterino quando coadministrado com contracetivos contendo
+estradiol.
+Glucocorticoides
+Não é recomendado o uso concomitante de ritonavir e fluticazona ou outros glucocorticoides que são
+metabolizados pela CYP3A4, a não ser que o benefício potencial supere o risco de efeitos sistémicos
+dos corticosteroides, incluindo síndrome de Cushing e supressão suprarrenal (ver secção 4.5).
+Trazodona
+Ter precaução especial ao prescrever ritonavir a doentes a receber tratamento com trazodona. A
+trazodona é um substrato da CYP3A4 e prevê-se que a coadministração de ritonavir aumente os seus
+níveis. Em estudos de interação de doses simples em voluntários saudáveis observaram-se reações
+adversas de náuseas, tonturas, hipotensão e síncope (ver secção 4.5).
+Rivaroxabano
+Não é recomendado o uso de ritonavir em doentes a receber tratamento com rivaroxabano, devido ao
+risco aumentado de hemorragia (ver secção 4.5).
+Riociguat
+O uso concomitante de ritonavir não é recomendado devido ao potencial aumento na exposição de
+riociguat (ver secção 4.5).
+Vorapaxar
+O uso concomitante de ritonavir não é recomendado devido ao potencial aumento na exposição de
+vorapaxar (ver secção 4.5).
+Bedaquilina
+Inibidores potentes do CYP3A4, tais como os inibidores da protease, podem aumentar a exposição à
+bedaquilina, o que pode potencialmente aumentar o risco de reações adversas relacionadas com a
+bedaquilina. Por conseguinte, a associação de bedaquilina com ritonavir deve ser evitada. No entanto,
+se o benefício for superior ao risco, a coadministração de bedaquilina com ritonavir deve ser realizada
+com precaução. Recomenda-se a monitorização mais frequente através do eletrocardiograma e a
+monitorização das transaminases (ver secção 4.5 e consultar o Resumo das Características do
+Medicamento bedaquilina).
+Delamanid
+A coadministração de delamanid com um inibidor potente do CYP3A (ritonavir) pode aumentar a
+exposição ao metabolito de delamanid, que tem sido associado a prolongamento do intervalo QTc. Por
+conseguinte, caso se considere necessária a coadministração de delamanid com ritonavir, recomendase a monitorização muito frequente do ECG durante todo o período de tratamento com delamanid (ver
+secção 4.5 e consultar o Resumo das Características do Medicamento de delamanid).
+Ritonavir administrado como potenciador farmacocinético
+Os perfis de interação dos inibidores da protease VIH, coadministrados com dose baixa de ritonavir,
+dependem do inibidor da protease específico coadministrado.
+
+10
+
+Para uma descrição dos mecanismos e potenciais mecanismos que contribuem para o perfil de
+interação dos IPs, ver secção 4.5. Por favor, rever também o Resumo das Características do
+Medicamento para o IP potenciado específico.
+Saquinavir
+Não devem usar-se doses de ritonavir superiores a 100 mg duas vezes ao dia. Doses mais elevadas de
+ritonavir foram associadas a uma incidência aumentada de reações adversas. A coadministração de
+saquinavir e ritonavir causou reações adversas graves, principalmente cetoacidose e problemas
+hepáticos, especialmente em doentes com doença hepática preexistente.
+A combinação saquinavir/ritonavir não deve ser administrada juntamente com rifampicina, devido ao
+risco de hepatotoxicidade grave (manifestando-se com transaminases hepáticas elevadas) se os três
+fármacos forem administrados em conjunto (ver secção 4.5).
+Tipranavir
+A coadministração de tipranavir com 200 mg de ritonavir foi associado a notificações de hepatite
+clínica e descompensação hepática, incluindo algumas mortes. Recomenda-se vigilância extra nos
+doentes com hepatite B crónica ou com coinfeção com hepatite C, dado que estes doentes têm um
+risco aumentado de hepatotoxicidade.
+Não devem ser usadas doses de ritonavir inferiores a 200 mg, duas vezes ao dia, porque podem alterar
+o perfil de eficácia da associação.
+Fosamprenavir
+A coadministração de fosamprenavir com ritonavir em doses superiores a 100 mg, duas vezes ao dia,
+não foi clinicamente avaliada. O uso de doses mais elevadas de ritonavir pode alterar o perfil de
+segurança da associação, pelo que a mesma não é recomendada.
+Atazanavir
+A coadministração de atazanavir com ritonavir em doses superiores a 100 mg, uma vez ao dia, não foi
+clinicamente avaliada. O uso de doses mais elevadas de ritonavir pode alterar o perfil de segurança de
+atazanavir (efeitos cardíacos, hiperbilirrubinemia), pelo que não é recomendado. Apenas quando
+atazanavir e ritonavir são coadministrados com efavirenz, pode ser considerado um aumento na dose
+de ritonavir para 200 mg, uma vez ao dia. Neste caso, recomenda-se monitorização clínica rigorosa.
+Para mais informação consultar o Resumo das Características do Medicamento de atazanavir.
+Excipientes
+Este medicamento contém 87,75 mg de sódio por comprimido, equivalente a 4,4% da ingestão diária
+máxima recomendada pela OMS de 2 g de sódio para um adulto.
+A dose diária máxima deste produto é equivalente a 53% da ingestão diária máxima recomendada da
+OMS de sódio.
+O Ritonavir é considerado um medicamente com um alto teor de sódio. Tal deve ser tomado em
+consideração especialmente para pessoas numa dieta baixa em sódio.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Ritonavir administrado como potenciador farmacocinético ou como medicamento antirretroviral
+O ritonavir possui elevada afinidade para várias isoformas do citocromo P450 (CYP) e pode inibir a
+oxidação pela seguinte ordem de grandeza: CYP3A > CYP2D6. A administração concomitante de
+ritonavir e produtos medicinais metabolizados essencialmente pela CYP3A pode resultar em
+concentrações plasmáticas aumentadas dos outros medicamentos, o que pode aumentar ou prolongar
+os seus efeitos terapêuticos e os seus efeitos adversos. Para determinados medicamentos (por ex.
+alprazolam) os efeitos inibitórios de ritonavir na CYP3A4 podem diminuir ao longo do tempo.
+11
+
+Ritonavir possui também elevada afinidade para a glicoproteína P e pode inibir este transportador. O
+efeito inibitório do ritonavir (com ou sem outros inibidores da protease) na atividade gp­P pode
+diminuir ao longo do tempo (por ex. digoxina e fexofenadina – ver quadro abaixo «Efeitos do ritonavir
+nos medicamentos não antirretrovirais». Ritonavir pode induzir glucuronidação e oxidação pelas
+CYP1A2, CYP2C8, CYP2C9 e CYP2C19, aumentando desse modo a biotransformação de alguns
+medicamentos metabolizados por estas vias e pode resultar numa exposição sistémica diminuída a
+esses medicamentos, a qual pode diminuir ou reduzir o seu efeito terapêutico.
+O Resumo das Características do Medicamento do inibidor da protease coadministrado também inclui
+informação importante sobre interações medicamentosas quando o ritonavir é usado como potenciador
+farmacocinético.
+Medicamentos que afetam os níveis de ritonavir
+Os níveis séricos de ritonavir podem ser reduzidos pelo uso concomitante de preparações de plantas
+medicinais com hipericão (Hypericum perforatum). Isto deve-se à indução das enzimas que
+metabolizam os medicamentos pelo hipericão. As preparações de plantas medicinais que contenham
+hipericão não devem ser usadas em associação com ritonavir. Se um doente estiver já a tomar
+hipericão, deverá suspender a sua administração e, se possível, verificar os níveis virais. Os níveis de
+ritonavir podem aumentar quando a administração de hipericão é interrompida. A dose de ritonavir
+pode necessitar de ajuste. O efeito indutor pode persistir durante pelo menos 2 semanas após a
+suspensão do tratamento com hipericão (ver secção 4.3).
+Os níveis séricos de ritonavir podem ser afetados por determinados produtos medicinais
+coadministrados (por ex. delavirdina, efavirenz, fenitoína e rifampicina). Estas interações são descritas
+nos quadros de interações medicamentosas abaixo.
+Medicamentos que são afetados pelo uso de ritonavir
+As interações entre ritonavir e inibidores da protease, medicamentos antirretrovirais além dos
+inibidores da protease e outros medicamentos antirretrovirais são descritas nos quadros abaixo. Esta
+lista não se destina a ser inclusiva ou abrangente. Devem ser consultados os RCM individuais.
+Tabela 3. Interações Medicamentosas – Ritonavir com Inibidores da Protease
+Medicamento
+coadministrado
+Amprenavir
+
+Atazanavir
+
+Dose de
+Dose de
+Medicamento
+AUC
+Cmin
+medicamento
+ritonavir (mg) avaliado
+coadministrado
+(mg)
+600 cada 12 h
+100 cada 12 h Amprenavir2
+↑ 64%
+↑ 5 vezes
+Ritonavir aumenta os níveis séricos de amprenavir como resultado da inibição da CYP3A4.
+Os estudos clínicos confirmaram a segurança e eficácia de 600 mg de amprenavir, duas
+vezes ao dia, com ritonavir 100 mg, duas vezes ao dia. Ritonavir solução oral não deve ser
+coadministrado com amprenavir solução oral em crianças devido ao risco de toxicidade dos
+excipientes de ambas as formulações. Para informação adicional, os médicos devem
+consultar o Resumo das Características do Medicamento de amprenavir.
+300 cada 24 h
+100 cada 24 h Atazanavir
+↑ 86%
+↑ 11 vezes
+Atazanavir1
+↑ 2 vezes
+↑ 3 – 7 vezes
+Ritonavir aumenta os níveis séricos de atazanavir como resultado da inibição da CYP3A4.
+Os estudos clínicos confirmaram a segurança e eficácia de 300 mg de atazanavir, uma vez
+ao dia, com ritonavir 100 mg, uma vez ao dia, em doentes previamente tratados. Para
+informação adicional, os médicos devem consultar o Resumo das Características do
+Medicamento de atazanavir.
+
+12
+
+Medicamento
+coadministrado
+Darunavir
+
+Fosamprenavir
+
+Indinavir
+
+Nelfinavir
+
+Saquinavir
+
+Dose de
+Dose de
+Medicamento
+AUC
+Cmin
+medicamento
+ritonavir (mg) avaliado
+coadministrado
+(mg)
+600, dose única
+100 cada 12 h Darunavir
+↑ 14 vezes
+Ritonavir aumenta os níveis séricos de darunavir como resultado da inibição da CYP3A.
+Darunavir deve ser administrado com ritonavir para assegurar o seu efeito terapêutico. Não
+foram estudadas doses de ritonavir superiores a 100 mg duas vezes ao dia com darunavir.
+Para informação adicional, consultar o Resumo das Características do Medicamento de
+darunavir.
+700 cada 12 h
+100 cada 12 h Amprenavir
+↑ 2.4 vezes
+↑ 11 vezes
+Ritonavir aumentou os níveis séricos de amprenavir (de fosamprenavir) como resultado da
+inibição da CYP3A4. O fosamprenavir deve ser administrado com ritonavir para assegurar o
+seu efeito terapêutico. Os estudos clínicos confirmaram a segurança e eficácia do
+fosamprenavir 700 mg, duas vezes ao dia, com ritonavir 100 mg, duas vezes ao dia. Não
+foram estudadas doses de ritonavir superiores a 100 mg, duas vezes ao dia, com
+fosamprenavir. Para informação adicional, os médicos devem consultar o Resumo das
+Características do Medicamento de fosamprenavir.
+800 cada 12 h
+100 cada 12 h Indinavir3
+↑ 178%
+ND
+Ritonavir
+↑ 72%
+ND
+400 cada 12 h
+400 cada 12 h Indinavir3
+↔
+↑ 4 vezes
+Ritonavir
+↔
+↔
+Ritonavir aumenta os níveis séricos de indinavir como resultado da inibição da CYP3A4.
+Não foram estabelecidas doses apropriadas para esta associação com respeito a segurança e
+eficácia. O benefício mínimo da potenciação farmacocinética mediada pelo ritonavir é
+conseguido com doses superiores a 100 mg, duas vezes ao dia. Nos casos de
+coadministração de ritonavir (100 mg, duas vezes ao dia) e indinavir (800 mg, duas vezes ao
+dia) deve ter-se precaução, dado que o risco de nefrolítiase pode estar aumentado.
+1250 cada 12 h
+100 cada 12 h Nelfinavir
+↑ 20 a 39%
+ND
+750, única
+500 cada 12 h Nelfinavir
+↑ 152%
+ND
+Ritonavir
+↔
+↔
+Ritonavir aumenta os níveis séricos de nelfinavir como resultado da inibição da CYP3A4.
+Não foram estabelecidas doses apropriadas para esta associação, com respeito a eficácia e
+segurança. O benefício mínimo da potenciação farmacocinética mediada pelo ritonavir é
+conseguido com doses superiores a 100 mg, duas vezes ao dia.
+1000 cada 12 h
+100 cada 12 h Saquinavir4
+↑ 15­vezes
+↑ 5­vezes
+Ritonavir
+↔
+↔
+400 cada 12 h
+400 cada 12 h Saquinavir4
+↑ 17­vezes
+ND
+Ritonavir
+↔
+↔
+Ritonavir aumenta os níveis séricos de saquinavir como resultado da inibição do CYP3A4.
+Saquinavir não deve ser administrado em associação com ritonavir. Ritonavir 100 mg, duas
+vezes ao dia com saquinavir 1000 mg, duas vezes ao dia, proporciona uma exposição
+sistémica a saquinavir durante 24 horas semelhante ou superior à obtida com saquinavir
+1200 mg, três vezes ao dia, sem ritonavir.
+Num estudo clínico investigando a interação entre a rifampicina 600 mg uma vez ao dia e
+saquinavir 1000 mg com ritonavir 100 mg duas vezes ao dia, em voluntários saudáveis,
+verificou-se após 1 a 5 dias de coadministração, uma toxicidade hepatocelular grave com
+aumento de transaminases até 20 vezes superior ao limite superior dos valores normais. A
+combinação saquinavir/ritonavir não deve ser administrada juntamente com rifampicina,
+devido ao risco de hepatotoxicidade grave.
+Para informação adicional, os médicos devem consultar o Resumo das Características do
+Medicamento de saquinavir.
+
+13
+
+Medicamento
+coadministrado
+Tipranavir
+
+Dose de
+medicamento
+coadministrado
+(mg)
+500 cada 12 h
+
+Dose de
+Medicamento
+ritonavir (mg) avaliado
+
+AUC
+
+Cmin
+
+200 cada 12 h
+
+Tipranavir
+↑ 11 vezes
+↑ 29 vezes
+Ritonavir
+↓ 40%
+ND
+Ritonavir aumenta os níveis sanguíneos de tipranavir como resultado da inibição da
+CYP3A. Tipranavir deve ser administrado com doses baixas de ritonavir para assegurar o
+seu efeito terapêutico. Doses de ritonavir inferiores a 200 mg, duas vezes ao dia, não devem
+ser usadas com tipranavir porque podem alterar a eficácia da associação. Para informação
+adicional, os médicos devem consultar o Resumo das Características do Medicamento de
+tipranavir.
+ND: Não determinado.
+1
+Baseado na comparação de estudo cruzado para 400 mg atazanavir, uma vez ao dia.
+2
+Baseado na comparação de estudo cruzado para 1200 mg amprenavir, duas vezes ao
+dia.
+3
+Baseado na comparação de estudo cruzado para 800 mg indinavir, três vezes ao dia.
+4
+Baseado na comparação de estudo cruzado para 600 mg saquinavir, três vezes ao dia.
+
+Tabela 4. Interações medicamentosas – Ritonavir com medicamentos antirretrovirais além dos
+inibidores da protease
+Medicamento
+coadministrado
+Didanosina
+
+Delavirdina
+
+Efavirenz
+
+Maraviroc
+
+Nevirapina
+
+Raltegravir
+Zidovudina
+
+Dose de
+medicamento
+coadministrado
+(mg)
+200 cada 12 h
+
+Dose de
+ritonavir (mg)
+
+Medicamento
+avaliado
+
+AUC
+
+Cmin
+
+600 cada 12 h,
+Didanosina
+↓ 13%
+↔
+2 h depois
+Dado que ritonavir é recomendado para ser tomado com alimentos e a didanosina deve ser
+tomada com o estômago vazio, estes medicamentos devem ser tomados com um intervalo
+de 2,5 h. Não devem ser necessárias alterações na dose.
+400 cada 8 h
+600 cada 12 h
+Delavirdina1
+↔
+↔
+Ritonavir
+↑ 50%
+↑ 75%
+Com base na comparação dos dados históricos, a farmacocinética da delavirdina não
+pareceu ser afetada pelo ritonavir. Quando usado em associação com delavirdina, pode ser
+necessária redução na dose de ritonavir.
+600 cada 24 h
+500 cada 12 h
+Efavirenz
+↑ 21%
+Ritonavir
+↑ 17%
+Quando o efavirenz foi coadministrado com o ritonavir como antirretroviral observou-se
+uma frequência mais elevada de reações adversas (por ex, tonturas, náuseas, parestesia) e de
+anomalias laboratoriais (enzimas hepáticas elevadas).
+100 cada 12 h
+100 cada 12 h
+Maraviroc
+↑ 161%
+↑ 28%
+Ritonavir aumenta os níveis séricos de maraviroc como resultado da inibição da CYP3A.
+Maraviroc pode ser administrado com ritonavir para potenciar a exposição ao maraviroc.
+Para informação adicional, consultar o Resumo das Características do Medicamento de
+maraviroc.
+200 cada 12 h
+600 cada 12 h
+Nevirapina
+↔
+↔
+Ritonavir
+↔
+↔
+A coadministração de ritonavir com nevirapina não causou alterações clinicamente
+relevantes na farmacocinética tanto da nevirapina como do ritonavir.
+400 única
+100 cada 12 h
+Raltegravir
+↓ 16%
+↓ 1%
+A coadministração de ritonavir e raltegravir resulta numa ligeira redução dos níveis de
+raltegravir
+200 cada 8 h
+300 cada 6 h
+Zidovudina
+↓ 25%
+ND
+Ritonavir pode induzir glucuronidação da zidovudina, resultando em níveis ligeiramente
+diminuídos de zidovudina. Não deverão ser necessárias alterações nas doses.
+ND: Não determinado
+1
+Baseado na comparação de grupos paralelos.
+14
+
+Tabela 5. Efeitos do Ritonavir nos Medicamentos Não Antirretrovirais Coadministrados
+Medicamentos
+coadministrados
+
+Dose de
+Dose de Ritonavir Efeito na AUC dos Efeito na Cmax dos
+medicamentos
+(mg)
+medicamentos
+medicamentos
+coadministrados
+coadministrados
+coadministrados
+(mg)
+Antagonista dos Recetores Alfa1 Adrenérgicos
+Alfuzosina
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+aumentadas de alfuzosina, pelo que está contraindicada (ver secção 4.3).
+Derivados Anfetamínicos
+Anfetamina
+É possível que Ritonavir administrado como medicamento antirretroviral iniba a
+CYP2D6, pelo que se prevê aumento nas concentrações de anfetaminas e seus derivados.
+Recomenda-se monitorização cuidadosa dos efeitos terapêuticos e efeitos adversos
+quando estes medicamentos são administrados concomitantemente com doses
+antirretrovirais de ritonavir (ver secção 4.4).
+Analgésicos
+Buprenorfina
+Norbuprenorfina
+Metabolitos
+glucurónidos
+
+16, cada 24 h
+
+100, cada 12 h
+
+↑ 57%
+↑ 33%
+↔
+
+↑ 77%
+↑ 108%
+↔
+
+Os aumentos nos níveis plasmáticos de buprenorfina e dos seus metabolitos ativos não
+provocaram alterações farmacodinâmicas clinicamente importantes numa população de
+doentes com tolerância aos medicamentos opioides. Por conseguinte, pode não ser
+necessário o ajuste da dose de buprenorfina ou de ritonavir quando ambos são
+coadministrados. Quando o ritonavir é usado em associação com outro inibidor da
+protease e buprenorfina, o RCM do inibidor da protease coadministrado deve ser revisto
+relativamente à informação específica da dose.
+Petidina, propoxifeno
+
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+aumentadas de norpetidina e propoxifeno, pelo é contraindicada (ver secção 4.3).
+
+Fentanilo
+
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+antirretroviral inibe a CYP3A4 pelo que se prevê aumento nas concentrações plasmáticas
+de fentanilo. Recomenda-se monitorização dos efeitos terapêuticos e adversos (incluindo
+depressão respiratória) quando o fentanilo é administrado concomitantemente com
+ritonavir.
+
+Metadona1
+
+5, dose única
+500 cada 12 h,
+↓ 36%
+↓ 38%
+Pode ser necessário aumentar a dose de metadona quando administrada
+concomitantemente com ritonavir administrado como antirretroviral ou como potenciador
+farmacocinético devido à indução de glucuronidação. Deverá ser considerado ajuste na
+dose com base na resposta clínica do doente ao tratamento com metadona.
+
+15
+
+Medicamentos
+coadministrados
+Morfina
+
+Antianginosos
+Ranolazina
+
+Antiarrítmicos
+Amiodarona,
+bepridilo,
+dronedarona,
+encaínida, flecaínida,
+propafenona,
+quinidina
+Digoxina
+
+Antiasmáticos
+Teofilina1
+
+Dose de
+Dose de Ritonavir Efeito na AUC dos Efeito na Cmax dos
+medicamentos
+(mg)
+medicamentos
+medicamentos
+coadministrados
+coadministrados
+coadministrados
+(mg)
+Os níveis de morfina podem estar diminuídos devido a indução de glucuronidação pelo
+ritonavir coadministrado como medicamento antirretroviral ou como potenciador
+farmacocinético.
+Devido à inibição da CYP3A pelo ritonavir, prevê-se que as concentrações de ranolazina
+aumentem. A administração concomitante com ranolazina é contraindicada (ver
+secção 4.3).
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+aumentadas de amiodarona, bepridilo, dronedarona, encaínida, flecaínida, propafenona, e
+quinidina, pelo que é contraindicada (ver secção 4.3).
+
+0.5 dose única IV
+
+300 cada 12 h,
+↑ 86%
+ND
+3 dias
+0.4 dose única oral
+200 cada 12 h,
+↑ 22%
+↔
+13 dias
+Esta interação pode dever-se à modificação da glicoproteína P, do efluxo da digoxina
+mediado pelo ritonavir administrado como medicamento antirretroviral ou como
+potenciador farmacocinético. Os níveis aumentados de digoxina observados nos doentes
+tratados com ritonavir podem diminuir ao longo do tempo (ver secção 4.4).
+3 mg/kg cada 8 h
+500 cada 12 h
+↓ 43%
+↓ 32%
+Quando coadministrada com ritonavir pode ser necessária uma dose aumentada de
+teofilina, devido à indução da CYP1A2.
+
+Antineoplásicos e inibidores de cinase
+Afatinib
+20 mg, dose única
+
+200 cada 12 h/1 h
+↑ 48%
+↑ 39%
+antes
+40 mg, dose única
+200 cada 12 h/
+↑ 19%
+↑ 4%
+coadministrado
+40 mg, dose única
+200 cada 12 h/6 h
+↑ 11%
+↑ 5%
+depois
+As concentrações séricas podem estar aumentadas devido à Proteína de Resistência do
+Cancro da Mama (BCRP) e à inibição aguda da P­gp pelo ritonavir. A extensão do
+aumento na AUC e Cmax depende do momento da administração do ritonavir. Precaução
+ao administrar afatinib com ritonavir (consultar o RCM de afatinib). Monitorizar as
+RAMs relacionadas com afatinib.
+
+Abemaciclib
+
+As concentrações séricas podem estar aumentadas devido à inibição da CYP3A4 pelo
+ritonavir.
+A coadministração de abemaciclib e ritonavir deve ser evitada. Se esta coadministração
+for considerada inevitável, consultar o RCM de abemaciclib para recomendações de ajuste
+de dose. Monitorizar as RAM relacionadas com abemaciclib.
+
+16
+
+Medicamentos
+coadministrados
+Apalutamida
+
+Dose de
+Dose de Ritonavir Efeito na AUC dos Efeito na Cmax dos
+medicamentos
+(mg)
+medicamentos
+medicamentos
+coadministrados
+coadministrados
+coadministrados
+(mg)
+A apalutamida é um indutor moderado a forte da CYP3A4 e poderá levar a uma
+diminuição da exposição ao ritonavir e à potencial perda de resposta virológica. Além
+disso, as concentrações séricas podem estar aumentadas quando coadministrada com
+ritonavir, o que pode resultar em potenciais acontecimentos adversos graves, incluindo
+convulsões.
+A utilização concomitante de ritonavir com apalutamida não é recomendada.
+
+Ceritinib
+
+As concentrações séricas podem estar aumentadas devido à inibição da CYP3A e P­gp
+pelo ritonavir. Precaução ao administrar ceritinib com ritonavir. Consultar o RCM de
+ceritinib para recomendações de ajuste de dose. Monitorizar as RAMs relacionadas com
+ceritinib.
+
+Dasatinib, nilotinib,
+vincristina,
+vinblastina
+
+As concentrações séricas podem aumentar quando coadministrados com ritonavir,
+resultando em potencial aumento na incidência de reações adversas.
+
+Encorafenib
+
+As concentrações séricas podem estar aumentadas quando coadministrado com ritonavir,
+o que pode resultar no aumento do risco de toxicidade, incluindo do risco de
+acontecimentos adversos graves, tais como o prolongamento do intervalo QT. A
+coadministração de encorafenib e ritonavir deve ser evitada. Se o benefício for
+considerado superior ao risco e se ritonavir tiver de ser utilizado, os doentes devem ser
+cuidadosamente monitorizados por questões de segurança.
+
+Fostamatinib
+
+A coadministração de fostamatinib com ritonavir pode aumentar a exposição ao
+metabolito de fostamatinib R406, resultando em acontecimentos adversos relacionados
+com a dose, tais como hepatoxicidade, neutropenia, hipertensão ou diarreia. Consultar o
+RCM de fostamatinib para recomendações de redução da dose, se ocorrerem tais
+acontecimentos.
+
+Ibrutinib
+
+As concentrações séricas de ibrutinib podem estar aumentadas devido à inibição da
+CYP3A pelo ritonavir, resultando no aumento do risco de toxicidade, incluindo o risco
+aumentado de síndrome de lise tumoral. A coadministração de ibrutinib e ritonavir deve
+ser evitada. Se o benefício for considerado superior ao risco e se ritonavir tiver que ser
+usado, reduza a dose de ibrutinib para 140 mg e monitorize de perto a toxicidade do
+doente.
+
+Neratinib
+
+As concentrações séricas podem estar aumentadas devido à inibição da CYP3A4 pelo
+ritonavir.
+O uso concomitante de neratinib com ritonavir é contraindicado devido a reações
+potenciais graves e/ou que ameaçam a vida, incluindo hepatotoxicidade (ver secção 4.3).
+
+Venetoclax
+
+As concentrações séricas podem estar aumentadas devido à inibição da CYP3A pelo
+ritonavir, resultando em risco aumentado de síndrome de lise tumoral no início e durante a
+fase de aumento de dose (ver secção 4.3 e consultar o RCM de venetoclax).
+Nos doentes que completaram a fase de aumento de dose e estão a receber uma dose
+diária estável de venetoclax, a dose de venetoclax deve ser reduzida em pelo menos 75%
+quando utilizada com inibidores fortes do CYP3A (consultar o RCM de venetoclax para
+recomendações de dose).
+
+17
+
+Medicamentos
+coadministrados
+Anticoagulantes
+Dabigatrano etexilato
+Edoxabano
+
+Dose de
+medicamentos
+coadministrados
+(mg)
+
+Dose de Ritonavir
+(mg)
+
+Efeito na AUC dos
+medicamentos
+coadministrados
+
+Efeito na Cmax dos
+medicamentos
+coadministrados
+
+As concentrações séricas podem estar aumentadas devido à inibição da P-gp por
+ritonavir. A monitorização clínica e/ou a redução de dose dos anticoagulantes orais
+diretos (ACOD) deve ser considerada quando um ACOD transportado pela P-gp mas
+não metabolizado pela CYP3A4, incluindo o dabigatrano etexilato e o edoxabano, é
+coadministrado com ritonavir.
+
+Rivaroxabano
+
+10, dose única
+600 cada 12 h
+↑ 153%
+↑ 55%
+A inibição da CYP3A e gp­P causou níveis plasmáticos aumentados e efeitos
+farmacodinâmicos de rivaroxabano que podem causar um risco aumentado de hemorragia.
+Portanto, o uso de ritonavir não é recomendado em doentes a receber tratamento com
+rivaroxabano.
+
+Vorapaxar
+
+As concentrações séricas podem estar aumentadas devido à inibição da CYP3A pelo
+ritonavir. A coadministração de vorapaxar com ritonavir não é recomendada (ver
+secção 4.4 e consultar o RCM de vorapaxar).
+
+Varfarina
+S­Varfarina
+R­Varfarina
+
+5, dose única
+
+Anticonvulsivantes
+Carbamazepina
+
+Divalproato,
+lamotrigina, fenitoína
+
+Antidepressivos
+Amitriptilina,
+fluoxetina,
+imipramina,
+nortriptilina,
+paroxetina, sertralina
+Desipramina
+
+400 cada 12 h
+
+↑ 9%
+↓ 9%
+↓ 33%
+↔
+A indução da CYP1A2 e CYP2C9 causou níveis diminuídos de varfarina, verificando-se
+pequeno efeito farmacocinético na S­varfarina quando coadministrada com ritonavir.
+Níveis diminuídos de R­varfarina podem originar redução na anticoagulação, pelo que se
+recomenda monitorização dos parâmetros de anticoagulação quando a varfarina é
+coadministrada com ritonavir como medicamento antirretroviral ou como potenciador
+farmacocinético.
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+antirretroviral inibe a CYP3A4, pelo que se prevê que aumente as concentrações
+plasmáticas da carbamazepina. Recomenda-se monitorização cuidadosa quando a
+carbamazepina é administrada concomitantemente com ritonavir.
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+antirretroviral induz oxidação pela CYP2C9 e glucuronidação, pelo que se prevê que
+diminua as concentrações plasmáticas dos anticonvulsivantes. Recomenda-se
+monitorização cuidadosa dos níveis séricos ou efeitos terapêuticos quando estes
+medicamentos são administrados concomitantemente com ritonavir. A fenitoína pode
+diminuir os níveis séricos de ritonavir.
+É possível que ritonavir administrado como medicamento antirretroviral iniba a CYP2D6,
+pelo que se prevê que aumente as concentrações de imipramina, amitriptilina,
+nortriptilina, fluoxetina, paroxetina ou sertralina. Recomenda-se monitorização cuidadosa
+dos efeitos terapêuticos e efeitos adversos quando estes medicamentos são administrados
+concomitantemente com doses antirretrovirais de ritonavir (ver secção 4.4).
+100 dose única oral
+500 cada 12 h
+↑ 145%
+↑ 22%
+A AUC e Cmax do metabolito 2­hidroxi diminuíram 15 e 67%, respetivamente.
+Recomenda-se redução na dose da desipramina quando coadministrada com ritonavir
+como antirretroviral.
+
+18
+
+Medicamentos
+coadministrados
+Trazodona
+
+Dose de
+Dose de Ritonavir Efeito na AUC dos Efeito na Cmax dos
+medicamentos
+(mg)
+medicamentos
+medicamentos
+coadministrados
+coadministrados
+coadministrados
+(mg)
+50, dose única
+200 cada 12 h
+↑ 2,4­vezes
+↑ 34%
+Verificou-se um aumento na incidência de reações adversas relacionadas com trazodona
+quando coadministrada com ritonavir como medicamento antirretroviral ou como
+potenciador farmacocinético. Se a trazodona for coadministrada com ritonavir, a
+associação deve ser usada com precaução, iniciando a trazodona na dose mais baixa e
+monitorizando a resposta clínica e a tolerabilidade.
+
+Medicamentos usados para o tratamento da gota
+Colquicina
+Espera-se que as concentrações de colquicina aumentem quando coadministrada com
+ritonavir.
+Foram notificadas interações medicamentosas fatais e que colocam a vida em risco em
+doentes tratados com colquicina e ritonavir (inibição da CYP3A4 e gp­P) em doentes com
+compromisso renal e/ou hepático (ver secções 4.3 e 4.4). Consultar o Resumo das
+Características do Medicamento de colquicina.
+Anti-histamínicos
+Astemizol,
+terfenadina
+
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+aumentadas de astemizol e terfenadina, pelo que é contraindicada (ver secção 4.3).
+
+Fexofenadina
+
+Ritonavir pode modificar a glicoproteína P mediada pelo efluxo da fexofenadina, quando
+administrado como medicamento antirretroviral ou como potenciador farmacocinético,
+resultando em concentrações aumentadas de fexofenadina. Os níveis aumentados de
+fexofenadina podem diminuir ao longo do tempo, durante a indução.
+
+Loratadina
+
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+antirretroviral inibe a CYP3A, pelo que se prevê que aumente as concentrações
+plasmáticas da loratadina. Recomenda-se monitorização cuidadosa dos efeitos
+terapêuticos e efeitos adversos quando a loratadina é administrada concomitantemente
+com ritonavir.
+
+Anti-infecciosos
+Ácido fusídico
+
+Rifabutina1
+Metabolito
+25­O­desacetil
+rifabutina
+
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+aumentadas tanto do ácido fusídico como do ritonavir, pelo que é contraindicada (ver
+secção 4.3).
+150 por dia
+
+500 cada 12 h
+
+↑ 4­vezes
+↑ 38­vezes
+
+↑ 2.5­ vezes
+↑ 16­ vezes
+
+Devido ao elevado aumento na AUC da rifabutina, o uso concomitante desta com
+ritonavir administrado como medicamento antirretroviral é contraindicado (ver
+secção 4.3). Pode ser indicada redução na dose de rifabutina para 150 mg três vezes por
+semana para determinados IPs, quando coadministrada com ritonavir como potenciador
+farmacocinético. Consultar o Resumo das Características do Medicamento para
+recomendações específicas.
+Devem ser consideradas orientações oficiais sobre o tratamento adequado da tuberculose
+em doentes infetados pelo VIH.
+Rifampicina
+
+Embora a rifampicina possa induzir metabolismo do ritonavir, dados limitados indicam
+que quando são coadministradas doses elevadas de ritonavir (600 mg duas vezes ao dia)
+com rifampicina, o efeito adicional indutor da rifampicina (próximo daquele do próprio
+ritonavir) é insignificante e pode não ter um efeito clínico relevante nos níveis do ritonavir
+na terapêutica com doses elevadas de ritonavir. Desconhece-se o efeito do ritonavir na
+rifampicina.
+
+19
+
+Medicamentos
+coadministrados
+Voriconazol
+
+Dose de
+Dose de Ritonavir Efeito na AUC dos Efeito na Cmax dos
+medicamentos
+(mg)
+medicamentos
+medicamentos
+coadministrados
+coadministrados
+coadministrados
+(mg)
+200 cada 12 h
+400 cada 12 h
+↓ 82%
+↓ 66%
+200 cada 12 h
+100 cada 12 h
+↓ 39%
+↓ 24%
+O uso concomitante de ritonavir administrado como medicamento antirretroviral e
+voriconazol está contraindicado, devido a redução nas concentrações de voriconazol (ver
+secção 4.3). Deve ser evitada a coadministração de voriconazol e ritonavir administrado
+como potenciador farmacocinético, a não ser que a avaliação do benefício/risco para o
+doente justifique o uso de voriconazol.
+
+Atovaquona
+
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+antirretroviral induz glucuronidação, pelo que se prevê diminuição nas concentrações
+plasmáticas da atovaquona. Recomenda-se monitorização cuidadosa dos níveis séricos ou
+dos efeitos terapêuticos quando a atovaquona é administrada concomitantemente com
+ritonavir.
+
+Bedaquilina
+
+Não existe um estudo de interação apenas com ritonavir. Num estudo de interação de dose
+única de bedaquilina e dose múltipla de lopinavir/ritonavir, a AUC da bedaquilina
+aumentou em 22%. Este aumento é provavelmente devido ao ritonavir e pode ser
+observado um efeito mais pronunciado durante a coadministração prolongada. Devido ao
+risco de reações adversas relacionadas com a bedaquilina, a coadministração deve ser
+evitada. Se o benefício for superior ao risco, a coadministração de bedaquilina com
+ritonavir deve ser realizada com precaução. Recomenda-se a monitorização mais
+frequente através do eletrocardiograma e a monitorização das transaminases (ver
+secção 4.4 e consultar o Resumo das Características do Medicamento bedaquilina).
+
+Claritromicina
+Metabolito 14­OH
+claritromicina
+
+500 cada 12 h,
+
+200 cada 8 h
+
+↑ 77%
+↓ 100%
+
+↑ 31%
+↓ 99%
+
+Devido à ampla janela terapêutica da claritromicina não deve ser necessária redução na
+dose em doentes com função renal normal. Doses de claritromicina superiores a 1 g por
+dia não deverão ser coadministradas com ritonavir administrado como medicamento
+antirretroviral ou como potenciador farmacocinético. Nos doentes com insuficiência renal
+deverá ser considerada redução na dose: nos doentes com uma depuração da creatinina de
+30 a 60 ml/min a dose deve ser reduzida 50%, nos doentes com uma depuração da
+creatinina inferior a 30 ml/min a dose deve ser reduzida 75%.
+Delamanid
+
+Não existe um estudo de interação apenas com ritonavir. Num estudo de interação
+medicamentosa em voluntários saudáveis com delamanid 100 mg duas vezes ao dia e
+lopinavir/ritonavir 400/100 mg duas vezes ao dia durante 14 dias, a exposição do
+metabolito de delamanid DM-6705 estava 30% aumentada. Devido ao risco de
+prolongamento do intervalo QTc associado ao DM-6705, caso se considere necessária a
+coadministração de delamanid com ritonavir, recomenda-se monitorização muito
+frequente do ECG durante todo o período de tratamento com delamanid (ver secção 4.4 e
+consultar o Resumo das Características do Medicamento de delamanid).
+
+Eritromicina,
+itraconazol
+
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+antirretroviral inibe a CYP3A4, pelo que se prevê aumento nas concentrações plasmáticas
+da eritromicina e itraconazol. Recomenda-se monitorização cuidadosa dos efeitos
+terapêuticos e efeitos adversos quando a eritromicina ou itraconazol são administrados
+concomitantemente com ritonavir.
+
+Cetoconazol
+
+200 por dia
+500 cada 12 h
+↑ 3,4­vezes
+↑ 55%
+Ritonavir inibe o metabolismo do cetoconazol mediado pela CYP3A. Devido a uma
+incidência aumentada de reações adversas hepáticas e gastrointestinais, deverá ser
+considerada uma redução na dose de cetoconazol quando coadministrado com ritonavir
+como medicamento antirretroviral ou como potenciador farmacocinético.
+
+20
+
+Medicamentos
+coadministrados
+Sulfametoxazol/
+Trimetoprim2
+
+Dose de
+medicamentos
+coadministrados
+(mg)
+800/160, dose única
+
+Dose de Ritonavir
+(mg)
+
+Efeito na AUC dos
+medicamentos
+coadministrados
+
+Efeito na Cmax dos
+medicamentos
+coadministrados
+
+500 cada 12 h
+
+↓ 20% / ↑ 20%
+
+↔
+
+Não deverá ser necessária alteração na dose de sulfametoxazol/trimetoprim durante o
+tratamento concomitante com ritonavir.
+Antipsicóticos/Neurolépticos
+Clozapina, pimozida
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+aumentadas de clozapina ou pimozida, pelo que é contraindicada (ver secção 4.3).
+Haloperidol,
+risperidona,
+tioridazina
+
+É possível que o ritonavir administrado como medicamento antirretroviral iniba a
+CYP2D6, pelo que se prevê aumento nas concentrações de haloperidol, risperidona e
+tioridazina. Recomenda-se monitorização cuidadosa dos efeitos terapêuticos e efeitos
+adversos quando estes medicamentos são administrados concomitantemente com doses
+antirretrovirais de ritonavir.
+
+Lurasidona
+
+Devido à inibição da CYP3A pelo ritonavir, é expectável que as concentrações de
+lurasidona aumentem. A administração concomitante com lurasidona é contraindicada
+(ver secção 4.3).
+
+Quetiapina
+
+Devido à inibição da CYP3A pelo ritonavir, é expectável que as concentrações de
+quetiapina aumentem. A administração concomitante de ritonavir e quetiapina é
+contraindicada, pois pode aumentar a toxicidade relacionada com a quetiapina (ver
+secção 4.3).
+
+Agonistas β2 (longa ação)
+Salmeterol
+Ritonavir inibe a CYP3A4 pelo que se prevê um aumento pronunciado nas concentrações
+plasmáticas de salmeterol. Por conseguinte, não se recomenda o seu uso concomitante.
+Antagonistas dos Canais de Cálcio
+Amlodipina,
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+diltiazem, nifedipina
+antirretroviral inibe a CYP3A4, pelo que se prevê que aumente as concentrações
+plasmáticas dos antagonistas dos canais de cálcio. Recomenda-se monitorização
+cuidadosa dos efeitos terapêuticos e efeitos adversos quando estes medicamentos são
+administrados concomitantemente com ritonavir.
+Antagonistas dos recetores da endotelina
+Bosentano
+A coadministração de bosentano e ritonavir pode aumentar as concentrações máximas de
+bosentano no estado estacionário (Cmax) e área sob a curva (AUC).
+Riociguat
+
+As concentrações séricas podem estar aumentadas devido à inibição da CYP3A e P­gp
+pelo ritonavir. A coadministração de riociguat com ritonavir não é recomendada (ver
+secção 4.4 e consultar o RCM de riociguat).
+
+Derivados da Cravagem do Centeio
+Di-hidroergotamina,
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+ergonovina,
+aumentadas dos derivados da cravagem do centeio, pelo que é contraindicada (ver
+ergotamina,
+secção 4.3).
+metilergonovina
+Modificadores da motilidade GI
+Cisaprida
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+aumentadas de cisaprida, pelo que é contraindicada (ver secção 4.3).
+
+21
+
+Medicamentos
+coadministrados
+
+Dose de
+Dose de Ritonavir Efeito na AUC dos Efeito na Cmax dos
+medicamentos
+(mg)
+medicamentos
+medicamentos
+coadministrados
+coadministrados
+coadministrados
+(mg)
+Antivírico de ação direta para o VHC
+Glecaprevir/
+As concentrações séricas podem estar aumentadas devido à inibição de glicoproteína-P,
+pibrentasvir
+BCRP e OATP1B pelo ritonavir.
+Não se recomenda a administração concomitante de glecaprevir/pibrentasvir e ritonavir
+devido a um risco aumentado de aumentos de ALT associados com o aumento da
+exposição ao glecaprevir.
+Inibidores da Protease do VHC
+Simeprevir
+200 qd
+100 q12 h
+↑ 7,2­vezes
+↑ 4,7­vezes
+Devido à inibição da CYP3A4, o ritonavir aumenta as concentrações plasmáticas de
+simeprevir. Não se recomenda a coadministração de ritonavir com simeprevir.
+Inibidores da HMG Co­A Reductase
+Atorvastatina,
+Os inibidores da HMG-CoA reductase que são altamente dependentes do metabolismo
+Fluvastatina,
+pela CYP3A, tais como a lovastatina e sinvastatina, podem ter as suas concentrações
+Lovastatina,
+plasmáticas substancialmente aumentadas quando coadministrados com ritonavir como
+Pravastatina,
+medicamento antirretroviral ou como potenciador farmacocinético. Dado que as
+Rosuvastatina,
+concentrações aumentadas de lovastatina e sinvastatina podem causar miopatias,
+Sinvastatina
+incluindo rabdomiólise, a associação destes medicamentos com ritonavir é
+contraindicada (ver secção 4.3). A atorvastatina é menos dependente do metabolismo
+pela CYP3A. Embora a eliminação da rosuvastatina não seja dependente da CYP3A, foi
+descrito um aumento na exposição à rosuvastatina com a administração concomitante de
+ritonavir. O mecanismo desta interação não é claro, mas pode ser o resultado de inibição
+do transportador.
+Quando usadas com ritonavir como potenciador farmacocinético ou como medicamento
+antirretroviral, devem administrar-se as doses mais baixas possíveis de atorvastatina ou
+rosuvastatina. O metabolismo da pravastatina e fluvastatina não depende da CYP3A e não
+se esperam interações com ritonavir. Se for recomendado tratamento com um inibidor da
+HMG-CoA reductase, recomenda-se o uso de pravastatina ou fluvastatina.
+Contracetivos hormonais
+Etinilestradiol
+50 µg dose única
+500 cada 12 h
+↓ 40%
+↓ 32%
+Devido a reduções nas concentrações de etinilestradiol, deve ser considerado o uso de
+métodos contracetivos de barreira ou não hormonais com o uso concomitante com
+ritonavir administrado como medicamento antirretroviral ou como potenciador
+farmacocinético. É possível que ritonavir altere o perfil de hemorragia uterina e reduza a
+eficácia dos contracetivos contendo estradiol (ver secção 4.4).
+Imunossupressores
+Ciclosporina,
+tacrolímus,
+everolímus
+
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+antirretroviral inibe a CYP3A4, pelo que se prevê que aumente as concentrações
+plasmáticas de ciclosporina, tacrolímus ou everolímus. Recomenda-se monitorização
+cuidadosa dos efeitos terapêuticos e efeitos adversos quando estes medicamentos são
+administrados concomitantemente com ritonavir.
+
+Agentes modificadores de lípidos
+Lomitapida
+Os inibidores de CYP3A4 aumentam a exposição de lomitapida, com inibidores fortes
+aumentando a exposição de, aproximadamente, 27 vezes. Devido à inibição da CYP3A
+pelo ritonavir, é expectável que as concentrações de lomitapida aumentem. A utilização
+concomitante de ritonavir com lomitapida é contraindicada (ver as informações de
+prescrição para lomitapida) (ver secção 4.3).
+Inibidores da fosfodiesterase (PDE5)
+Avanafil
+50, dose única
+600 cada 12 h
+↑ 13­vezes
+↑ 2,4­vezes
+O uso concomitante de avanafil com ritonavir é contraindicado (ver secção 4.3).
+
+22
+
+Medicamentos
+coadministrados
+Sildenafil
+
+Tadalafil
+
+Dose de
+Dose de Ritonavir Efeito na AUC dos Efeito na Cmax dos
+medicamentos
+(mg)
+medicamentos
+medicamentos
+coadministrados
+coadministrados
+coadministrados
+(mg)
+100, dose única
+500 cada 12 h
+↑ 11­vezes
+↑ 4­vezes
+O uso concomitante de sildenafil com ritonavir para o tratamento da disfunção eréctil
+administrado como medicamento antirretroviral ou como potenciador farmacocinético
+deve ser efetuado com precaução e em nenhuma circunstância deverão as doses de
+sildenafil exceder 25 mg em 48 horas (ver secção 4.4). O uso concomitante de sildenafil
+com ritonavir está contraindicado nos doentes com hipertensão arterial pulmonar (ver
+secção 4.3).
+20, dose única
+200 cada 12 h
+↑ 124%
+↔
+O uso concomitante de tadalafil com ritonavir para o tratamento da disfunção eréctil
+administrado como medicamento antirretroviral ou como potenciador farmacocinético
+deve ser feito com precaução com doses reduzidas não superiores a 10 mg de tadalafil,
+cada 72 horas, com maior monitorização das reações adversas (ver secção 4.4).
+Quando o tadalafil é usado concomitantemente com ritonavir em doentes com hipertensão
+arterial pulmonar, consultar o Resumo das Características do Medicamento de tadalafil.
+
+Vardenafil
+
+Sedativos/hipnóticos
+Clorazepato,
+diazepam, estazolam,
+flurazepam,
+midazolam por via
+oral e parentérica
+
+5, dose única
+600 cada 12 h
+↑ 49­vezes
+↑ 13­vezes
+O uso concomitante de vardenafil com ritonavir é contraindicado (ver secção 4.3).
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+aumentadas de clorazepato, diazepam, estazolam e flurazepam, pelo que é
+contraindicada (ver secção 4.3).
+Midazolam é extensamente metabolizado pelo CYP3A4. A coadministração com ritonavir
+pode causar um grande aumento na concentração desta benzodiazepina. Não se realizou
+nenhum estudo de interação medicamentosa para a coadministração de ritonavir com
+benzodiazepinas.
+Com base em informação referente a outros inibidores da CYP3A4, espera-se que as
+concentrações plasmáticas do midazolam aumentem significativamente quando o
+midazolam é administrado por via oral. Por conseguinte, ritonavir não deve ser
+coadministrado com midazolam administrado por via oral (ver secção 4.3), no entanto
+deve usar-se de precaução ao coadministrar ritonavir com midazolam administrado por
+via parentérica. A informação relativa ao uso concomitante de midazolam administrado
+por via parentérica com outros inibidores da protease sugere um possível aumento de 3 –
+4 vezes nos níveis plasmáticos de midazolam. Se ritonavir for coadministrado com
+midazolam administrado por via parentérica, a administração deverá ser feita numa
+unidade de cuidados intensivos (UCI) ou em local semelhante, de modo a garantir uma
+monitorização clínica rigorosa e gestão médica adequado em caso de depressão
+respiratória e/ou sedação prolongada. Deve ser considerado o ajuste da dose de
+midazolam, especialmente se for administrada mais do que uma dose única de midazolam.
+
+Triazolam
+
+0.125 dose única
+200, 4 doses
+↑ > 20 vezes
+↑ 87%
+É possível que a coadministração de ritonavir resulte em concentrações plasmáticas
+aumentadas de triazolam, pelo que é contraindicada (ver secção 4.3).
+
+Petidina
+Metabolito
+norpetidina
+
+50 dose única oral
+
+500 cada 12 h
+
+↓ 62%
+↑ 47%
+
+↓ 59%
+↑ 87%
+
+É contraindicado o uso de petidina com ritonavir devido a concentrações aumentadas do
+metabolito, norpetidina, que possui atividade analgésica e estimuladora do SNC.
+Concentrações elevadas de norpetidina podem aumentar o risco de efeitos no SNC (por
+ex., convulsões), ver secção 4.3.
+
+23
+
+Medicamentos
+coadministrados
+Alprazolam
+
+Buspirona
+
+Sedativos
+Zolpidem
+
+Antitabágicos
+Bupropiona
+
+Esteroides
+Propionato de
+fluticasona,
+budesonida,
+triamcinolona, por via
+inalatória, injetável ou
+nasal
+
+Dose de
+medicamentos
+coadministrados
+(mg)
+1, dose única
+
+Dose de Ritonavir
+(mg)
+
+Efeito na AUC dos
+medicamentos
+coadministrados
+
+Efeito na Cmax dos
+medicamentos
+coadministrados
+
+200 cada 12 h,
+↑ 2,5 vezes
+↔
+2 dias
+500 cada 12 h,
+↓ 12%
+↓ 16%
+10 dias
+O metabolismo do alprazolam foi inibido após a introdução de ritonavir. Após o uso de
+ritonavir durante 10 dias, não se observou qualquer efeito inibitório do ritonavir. Deve terse precaução durante os primeiros dias quando alprazolam é coadministrado com ritonavir
+como medicamento antirretroviral ou como potenciador farmacocinético, antes de ter
+ocorrido indução do metabolismo do alprazolam.
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+antirretroviral inibe a CYP3A, pelo que se prevê aumento das concentrações plasmáticas
+da buspirona. Recomenda-se monitorização cuidadosa dos efeitos terapêuticos e efeitos
+adversos quando a buspirona é administrada concomitantemente com ritonavir.
+5
+200, 4 doses
+↑ 28%
+↑ 22%
+Zolpidem e ritonavir podem ser coadministrados com monitorização cuidadosa de efeitos
+sedativos excessivos.
+
+150
+100 cada 12 h
+↓ 22%
+↓ 21%
+150
+600 cada 12 h
+↓ 66%
+↓ 62%
+A bupropiona é essencialmente metabolizada pela CYP2B6. Espera-se que a
+administração concomitante de bupropiona com doses repetidas de ritonavir diminua os
+níveis da bupropiona. Considera-se que estes efeitos representam indução no metabolismo
+da bupropiona. No entanto, dado que o ritonavir mostrou também inibir a CYP2B6
+in vitro, a dose recomendada de bupropiona não deve ser excedida. Contrariamente à
+administração prolongada de ritonavir, não se observou interação importante com a
+bupropiona após a administração a curto prazo de doses baixas de ritonavir (200 mg duas
+vezes ao dia durante 2 dias) sugerindo que possam ocorrer reduções nas concentrações de
+bupropiona vários dias após o início da administração concomitante de ritonavir.
+Em doentes tratados com ritonavir e propionato de fluticasona administrado por via
+inalatória ou nasal foram notificados efeitos sistémicos dos corticosteroides, incluindo
+síndrome de Cushing e supressão suprarrenal (os níveis plasmáticos de cortisol estavam
+diminuídos 86% no estudo referido acima); efeitos semelhantes podem igualmente
+verificar-se com outros corticosteroides metabolizados pela CYP3A, como por exemplo
+budesonida e triamcinolona. Consequentemente, não se recomenda a administração
+concomitante de ritonavir administrado como medicamento antirretroviral ou como
+potenciador farmacocinético a não ser que o potencial benefício supere o risco de efeitos
+sistémicos dos corticosteroides (ver secção 4.4). Deverá ser considerada uma redução na
+dose do glucocorticoide com monitorização cuidadosa dos efeitos sistémicos e locais ou a
+substituição por um glucocorticoide que não seja substrato da CYP3A4 (por ex.
+beclometasona). Além disso, no caso de suspensão dos glucocorticoides, pode ser
+necessária redução progressiva da dose por um período de tempo mais longo.
+
+24
+
+Medicamentos
+coadministrados
+Dexametasona
+
+Prednisolona
+
+Dose de
+Dose de Ritonavir Efeito na AUC dos Efeito na Cmax dos
+medicamentos
+(mg)
+medicamentos
+medicamentos
+coadministrados
+coadministrados
+coadministrados
+(mg)
+Ritonavir administrado como potenciador farmacocinético ou como medicamento
+antirretroviral inibe a CYP3A, pelo que se prevê aumento nas concentrações plasmáticas
+da dexametasona. Recomenda-se monitorização cuidadosa dos efeitos terapêuticos e
+efeitos adversos quando a dexametasona é administrada concomitantemente com
+ritonavir.
+20
+200 cada 12 h
+↑ 28%
+↑ 9%
+Recomenda-se monitorização cuidadosa dos efeitos terapêuticos e efeitos adversos
+quando a prednisolona é administrada concomitantemente com ritonavir. A AUC do
+metabolito prednisolona aumentou 37 a 28%, respetivamente, após 4 e 14 dias com
+ritonavir.
+
+Terapêutica hormonal de substituição da tiroide
+Levotiroxina
+Foram notificados casos pós-comercialização que indicam uma eventual interação entre
+medicamentos que contêm ritonavir e levotiroxina. A hormona estimuladora da tiroide
+(TSH) deve ser monitorizada nos doentes tratados com levotiroxina pelo menos durante o
+primeiro mês após o início e/ou interrupção do tratamento com ritonavir.
+ND: Não determinado
+1
+Baseado na comparação de um grupo paralelo
+2
+Sulfametoxazol foi coadministrado com trimetoprim.
+
+Quando o ritonavir foi coadministrado com disopiramida, mexiletina ou nefazodona foram notificados
+acontecimentos neurológicos e cardíacos. Não pode ser excluída a possibilidade de interação
+medicamentosa.
+Além das interações descritas acima, dado que ritonavir possui elevada ligação às proteínas, deve ser
+considerada a possibilidade de aumento de efeitos tóxicos e efeitos terapêuticos, devido a substituição
+da ligação às proteínas dos medicamentos concomitantes.
+Ritonavir administrado como potenciador farmacocinético
+No Resumo das Características do Medicamento do inibidor da protease coadministrado é incluída
+informação importante relativa às interações medicamentosas quando ritonavir é usado como
+potenciador farmacocinético.
+Inibidores da bomba de protões e antagonistas dos recetores H2
+Os inibidores da bomba de protões e antagonistas dos recetores H2 (por ex. omeprazol ou ranitidina)
+podem diminuir as concentrações dos inibidores da protease coadministrados. Para informação
+específica relativa ao impacto da administração concomitante de fármacos redutores de acidez,
+consultar o Resumo das Características do Medicamento do inibidor da protease coadministrado. Com
+base nos estudos de interação com inibidores da protease potenciados com ritonavir
+(lopinavir/ritonavir, atazanavir), a administração concomitante de omeprazol ou ranitidina não
+modifica significativamente a eficácia do ritonavir como potenciador farmacocinético, apesar de uma
+ligeira alteração na exposição (cerca de 6 – 18%).
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+Um número elevado (6100 nados-vivos) de mulheres grávidas foi exposto a ritonavir durante a
+gravidez; destes, 2800 nados-vivos foram expostos durante o primeiro trimestre de gravidez. Estes
+dados referem-se largamente a exposições nas quais o ritonavir foi usado com terapêutica
+concomitante, não nas doses terapêuticas de ritonavir mas em doses mais baixas como um potenciador
+farmacocinético de outros IPs. Estes dados não mostram qualquer aumento na percentagem de
+25
+
+malformações relativamente às percentagens observadas nos sistemas de vigilância de malformações
+na população geral. Os dados em animais demonstraram toxicidade reprodutiva (ver 5.3). Ritonavir
+pode ser utilizado durante a gravidez se clinicamente necessário.
+O ritonavir interage de modo adverso com os contracetivos orais (COs). Por conseguinte, durante o
+tratamento deverá ser usado um método contracetivo alternativo, seguro e eficaz.
+Amamentação
+Dados limitados e publicados reportam que ritonavir está presente no leite humano.
+Não existe informação sobre os efeitos do ritonavir na amamentação do recém-nascido ou sobre os
+efeitos do medicamento na lactação. Devido ao potencial risco de (1) transmissão do VIH (em recémnascidos VIH-negativos), (2) desenvolvimento de resistência aos antirretrovirais (em recém-nascidos
+VIH-positivos) e (3) reações adversas graves no recém-nascido em amamentação, as mulheres que
+vivem com VIH e em tratamento com ritonavir não deverão amamentar os recém-nascidos.
+Fertilidade
+Não estão disponíveis dados sobre o efeito do ritonavir na fertilidade em humanos. Os estudos em
+animais não indicam efeitos nocivos do ritonavir sobre a fertilidade (ver secção 5.3).
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. As tonturas são
+um efeito adverso conhecido que deverá ser tomado em consideração na condução de veículos e na
+utilização de máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Ritonavir administrado como potenciador farmacocinético
+As reações adversas associadas ao uso de ritonavir como potenciador farmacocinético dependem do IP
+específico coadministrado. Para informação sobre reações adversas, consultar o RCM do IP específico
+coadministrado.
+Ritonavir administrado como medicamento antirretroviral
+Reações adversas de estudos clínicos e experiência pós-comercialização em doentes adultos
+As reações adversas mais frequentemente descritas entre os doentes tratados com ritonavir isolado ou
+em associação com outros medicamentos antirretrovirais foram gastrointestinais (incluindo diarreia,
+náuseas, vómitos, dor abdominal (quadrantes superiores e inferiores)), problemas neurológicos
+(incluindo parestesias e parestesias orais) e fadiga/astenia.
+Tabela de reações adversas
+Foram descritas as seguintes reações adversas de intensidade moderada a grave, com possível ou
+provável relação com ritonavir. As reações adversas são apresentadas por ordem decrescente de
+gravidade dentro de cada classe de frequência: muito frequentes (≥ 1/10); frequentes (≥ 1/100, < 1/10);
+pouco frequentes (≥ 1/1.000, < 1/100); raros (≥ 1/10.000, < 1/1.000); desconhecido (não pode ser
+calculado a partir dos dados disponíveis).
+Os acontecimentos descritos como sendo de frequência desconhecida foram identificados através da
+vigilância pós-comercialização.
+
+26
+
+Tabela 6. Reações adversas em estudos clínicos e pós-comercialização, em doentes adultos
+Classes de sistemas
+de órgãos
+
+Frequência
+
+Reação adversa
+
+Doenças do sangue e
+do sistema linfático
+
+Frequentes
+
+Leucócitos diminuídos, hemoglobina diminuída,
+neutrófilos diminuídos, eosinófilos aumentados,
+trombocitopenia
+
+Pouco frequentes
+
+Neutrófilos aumentados
+
+Doenças do sistema
+imunitário
+
+Frequentes
+
+Hipersensibilidade, incluindo urticária e edema da face
+
+Raros
+
+Anafilaxia
+
+Doenças do
+metabolismo e da
+nutrição
+
+Frequentes
+
+Hipercolesterolemia, hipertrigliceridemia, gota, edema
+e edema periférico, desidratação (geralmente associada
+a sintomas gastrointestinais)
+
+Pouco frequentes
+
+Diabetes mellitus
+
+Raros
+
+Hiperglicemia
+
+Muito frequentes
+
+Disgeusia, parestesia oral e periférica, cefaleias,
+tonturas, neuropatia periférica
+
+Frequentes
+
+Insónias, ansiedade, confusão, perturbações da atenção,
+síncope, convulsões
+
+Afeções oculares
+
+Frequentes
+
+Visão turva
+
+Cardiopatias
+
+Pouco frequentes
+
+Enfarte do miocárdio
+
+Vasculopatias
+
+Frequentes
+
+Hipertensão, hipotensão incluindo hipotensão
+ortostática, extremidades frias
+
+Doenças do sistema
+nervoso
+
+Doenças respiratórias, Muito frequentes
+torácicas e do
+mediastino
+
+Faringite, dor orofaríngea, tosse
+
+Doenças
+gastrointestinais
+
+Muito frequentes
+
+Dor abdominal (quadrantes superiores e inferiores),
+náuseas, diarreia (incluindo grave com desequilíbrio
+eletrolítico), vómitos, dispepsia
+
+Frequentes
+
+Anorexia, flatulência, ulcerações da boca, hemorragia
+gastrointestinal, doença de refluxo gastroesofágico,
+pancreatite
+
+Afeções
+hepatobiliares
+
+Frequentes
+
+Hepatite (incluindo AST, ALT e GGT aumentadas),
+bilirrubina sérica aumentada (incluindo icterícia)
+
+Afeções dos tecidos
+cutâneos e
+subcutâneos
+
+Muito frequentes
+
+Prurido, erupção (incluindo eritematosa e
+maculopapular)
+
+Frequentes
+
+Acne
+
+Raros
+
+Síndrome de Stevens Johnson, necrólise epidérmica
+tóxica (TEN)
+
+Muito frequentes
+
+Artralgia e dor nas costas
+
+Frequentes
+
+Miosite, rabdomiólise, mialgia, miopatia/CPK
+aumentado
+
+Afeções
+musculosqueléticas e
+dos tecidos
+conjuntivos
+
+27
+
+Classes de sistemas
+de órgãos
+
+Frequência
+
+Reação adversa
+
+Doenças renais e
+urinárias
+
+Frequentes
+
+Micção aumentada, insuficiência renal (por ex.
+oligúria, creatinina elevada)
+
+Pouco frequentes
+
+Insuficiência renal aguda
+
+Desconhecido
+
+Nefrolitíase
+
+Doenças dos órgãos
+genitais e da mama
+
+Frequente
+
+Menorragia
+
+Perturbações gerais e
+alterações no local de
+administração
+
+Muito frequentes
+
+Fadiga incluindo astenia, rubor, sensação de calor
+
+Frequentes
+
+Febre, perda de peso
+
+Exames
+complementares de
+diagnóstico
+
+Frequentes
+
+Amílase aumentada, tiroxina total e livre diminuída.
+
+Pouco frequentes
+
+Glucose aumentada, magnésio aumentado, fosfatase
+alcalina aumentada.
+
+Descrição das reações adversas selecionadas
+Em doentes tratados com ritonavir, isolado ou em associação com outros medicamentos
+antirretrovirais, observaram-se aumentos nas transaminases hepáticas, excedendo cinco vezes o limite
+máximo normal, hepatite clínica e icterícia.
+Parâmetros metabólicos
+O peso e os níveis de lípidos e glucose no sangue podem aumentar durante a terapêutica antirretroviral
+(ver secção 4.4).
+Em doentes infetados pelo VIH com deficiência imunológica grave à data de início da terapêutica
+antirretroviral combinada (TARC), pode ocorrer uma reação inflamatória a infeções oportunistas
+assintomáticas ou residuais. As doenças autoimunes (tais como a doença de Graves e a hepatite
+autoimune), também têm sido descritas; no entanto, o tempo descrito de início dos primeiros sintomas
+é mais variável e pode ocorrer muitos meses após o início do tratamento (ver secção 4.4).
+Nos doentes tratados com ritonavir observou-se pancreatite, incluindo naqueles que desenvolveram
+hipertrigliceridemia. Observaram-se alguns casos fatais. Os doentes com doença por VIH avançada
+podem estar em risco de aumento de triglicéridos e de pancreatite (ver secção 4.4).
+Foram notificados casos de osteonecrose, particularmente em doentes com fatores de risco
+identificados, doença por VIH avançada ou exposição prolongada a terapêutica antirretroviral
+combinada (TARC). A sua frequência é desconhecida (ver secção 4.4).
+Populações pediátricas
+O perfil de segurança de ritonavir em crianças com 2 anos de idade e mais velhas é semelhante ao
+observado nos adultos.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+
+28
+
+4.9
+
+Sobredosagem
+
+Sintomas
+A experiência humana da sobredosagem aguda com ritonavir é limitada. Um doente num estudo
+clínico recebeu 1500 mg/dia de ritonavir durante dois dias e referiu parestesias que desapareceram
+depois da redução da dose. Na pós-comercialização foi descrito um caso de insuficiência renal com
+eosinofilia.
+Os sinais de toxicidade observados em animais (ratinhos e ratos) incluíram diminuição da atividade,
+ataxia, dispneia e tremores.
+Gestão
+Não existe um antídoto específico para a sobredosagem com ritonavir. O tratamento da sobredosagem
+deverá consistir em medidas de suporte gerais incluindo os sinais vitais e observação do estado clínico
+do doente. Devido às características de solubilidade e possibilidade de eliminação trans-intestinal,
+propõe-se, como tratamento para a sobredosagem, a lavagem gástrica e a utilização de carvão ativado.
+Dado que o ritonavir é largamente metabolizado pelo fígado e possui uma ligação forte às proteínas, é
+pouco provável que a diálise seja benéfica na remoção significativa do medicamento.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: antivírico para uso sistémico, inibidores da protease, código ATC:
+J05A E03
+Ritonavir administrado como potenciador farmacocinético
+A potenciação farmacocinética do ritonavir baseia-se na atividade do ritonavir como um potente
+inibidor do metabolismo mediado pela CYP3A4. O grau de potenciação está relacionado com a via
+metabólica do inibidor da protease coadministrado e o impacto do inibidor da protease coadministrado
+no metabolismo do ritonavir. Geralmente obtém-se inibição máxima do metabolismo do inibidor da
+protease coadministrado com doses de ritonavir de 100 mg por dia ou 200 mg duas vezes ao dia e esta
+depende do inibidor da protease coadministrado. Para informação adicional sobre o efeito de ritonavir
+no metabolismo do inibidor da protease coadministrado, ver secção 4.5 e consultar o Resumo das
+Características do Medicamento dos IPs específicos coadministrados.
+Ritonavir administrado como medicamento antirretroviral
+O ritonavir é um inibidor peptidomimético das aspartil proteases do VIH­1 e VIH­2, ativo por via oral.
+A inibição da protease do VIH torna a enzima incapaz de processar o precursor da poliproteína gagpol, o que conduz à produção de partículas VIH com morfologia imatura, incapazes de iniciar novos
+ciclos de infeção. O ritonavir possui uma afinidade seletiva para a protease do VIH e possui reduzida
+atividade inibidora das aspartil proteases humanas.
+Ritonavir foi o primeiro inibidor da protease (aprovado em 1996) para o qual foi demonstrada eficácia
+num estudo com objetivos clínicos. No entanto, devido às propriedades inibitórias do metabolismo do
+ritonavir, o seu uso mais predominante na prática clínica é a administração como potenciador
+farmacocinético de outros inibidores da protease (ver secção 4.2).
+Efeitos no eletrocardiograma
+O intervalo QTcF foi avaliado num estudo cruzado, aleatorizado, controlado com placebo e substância
+ativa (400 mg de moxifloxacina, uma vez ao dia) em 45 adultos saudáveis, nos quais foram efetuadas
+29
+
+10 medições durante 12 horas no Dia 3. A diferença média máxima (limite superior do intervalo de
+confiança de 95%) no QTcF do placebo foi de 5,5 (7,6) para a dosagem de ritonavir de 400 mg duas
+vezes ao dia. A exposição ao ritonavir no Dia 3 foi aproximadamente 1,5 vezes superior à observada
+com 600 mg, duas vezes ao dia, no estado estacionário. Nenhum indivíduo apresentou um aumento no
+intervalo QTcF ≥ 60 milésimos de segundo (msec) comparativamente aos valores iniciais ou um
+intervalo QTcF que excedesse o limite potencialmente relevante do ponto de vista clínico de
+500 milésimos de segundo (msec).
+No mesmo estudo e no Dia 3 também se observou um prolongamento modesto do intervalo PR nos
+indivíduos tratados com ritonavir. As alterações médias relativamente aos valores iniciais no intervalo
+PR foram de 11,0 a 24,0 milésimos de segundo (msec) no intervalo de 12 horas após a administração.
+O intervalo PR máximo observado foi de 252 milésimos de segundo (msec) e não se observaram
+bloqueios cardíacos de segundo ou de terceiro grau (ver secção 4.4).
+Resistência
+Foram selecionados in vitro isolados de VIH­1 resistentes ao ritonavir e isolados de doentes tratados
+com doses terapêuticas de ritonavir.
+A redução na atividade antirretroviral de ritonavir está essencialmente associada às mutações
+V28A/F/T/S e 184V da protease. A acumulação de outras mutações no gene da protease (incluindo nas
+posições 20, 33, 36, 46, 54, 71 e 90) pode também contribuir para resistência ao ritonavir. Em geral,
+porque as mutações associadas à resistência ao ritonavir se acumulam, a sensibilidade para selecionar
+outros IP pode diminuir devido a resistência cruzada. Para informação específica relativa às mutações
+da protease associadas a redução na resposta a estes medicamentos devem ser consultados os Resumo
+das Características do Medicamento de outros inibidores da protease ou as atualizações oficiais
+contínuas.
+Resultados clínicos de farmacodinâmica
+Os efeitos do ritonavir (isoladamente ou em combinação com outros antirretrovirais) nos marcadores
+biológicos de atividade da doença, tais como a contagem de células CD4 e ARN vírico, foram
+avaliados em vários estudos com doentes infetados pelo VIH­1. Os estudos seguintes são os mais
+importantes.
+Uso em adultos
+Um estudo controlado, completado em 1996, com ritonavir como terapêutica adicional em doentes
+infetados pelo VIH­1, com extensa terapêutica prévia com análogos de nucleósidos e contagens
+iniciais de células CD4 ≤ 100 células/µl mostrou uma redução na mortalidade e no número de
+elementos de diagnóstico de SIDA. A alteração média, ao longo das 16 semanas, a partir do valor
+inicial, para os níveis de ARN do VIH foi de −0,79 log10 (redução média máxima: 1,29 log10) no grupo
+tratado com ritonavir versus −0,01 log10 no grupo de controlo. Os análogos de nucleósidos mais
+utilizados neste estudo foram a zidovudina, estavudina, didanosina e zalcitabina.
+Num estudo completado em 1996 em doentes com infeção pelo VIH­1 em fase menos avançada (CD4
+200 – 500 células/µl) e sem terapêutica antirretroviral prévia, o ritonavir, em combinação com a
+zidovudina ou isoladamente, reduziu a carga vírica plasmática e aumentou a contagem de células CD4.
+A variação média a partir dos valores iniciais e durante as 48 semanas, dos níveis de ARN do VIH foi
+de −0,88 log10 no grupo tratado com ritonavir, comparativamente com −0,66 log10 no grupo tratado
+com ritonavir e zidovudina e com −0,42 log10 no grupo tratado com zidovudina.
+A continuação do tratamento com ritonavir deverá ser avaliada pela carga vírica devido à possibilidade
+de emergência de resistência como descrito na secção 4.1.
+
+30
+
+Uso em pediatria
+Num estudo aberto, completado em 1998, efetuado em crianças clinicamente estáveis, infetadas pelo
+VIH, observou-se uma diferença significativa (p=0,03) nos níveis detetáveis de ARN a favor de um
+regime triplo (ritonavir, zidovudina e lamivudina) após 48 semanas de tratamento.
+Num estudo completado em 2003, 50 crianças com infeção VIH­1, com idades compreendidas entre
+4 semanas e 2 anos e não tratadas previamente com inibidor da protease e lamivudina, receberam 350
+ou 450 mg/m² de ritonavir cada 12 horas, coadministrado com zidovudina 160 mg/m² cada 8 horas e
+lamivudina 4 mg/kg cada 12 horas. Na análise de intenção de tratar 72% e 36% dos doentes atingiram
+redução no ARN VIH­1 plasmático ≤ 400 cópias/ml às Semanas 16 e 104, respetivamente. A resposta
+foi semelhante em ambos os regimes de tratamento e grupos etários.
+Num estudo completado em 2000, 76 crianças com infeção VIH­1, com idades compreendidas entre
+6 meses e 12 anos e não tratadas previamente com inibidor da protease e lamivudina e/ou estavudina,
+receberam 350 ou 450 mg/m² de ritonavir a cada 12 horas, coadministrado com lamivudina e
+estavudina. Na análise de intenção de tratar, 50% e 57% dos doentes nos grupos que receberam as
+doses de 350 e 450 mg/m², respetivamente, atingiram redução no ARN VIH­1 plasmático
+≤ 400 cópias/ml à Semana 48.
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+Não existe uma formulação parentérica de ritonavir, não tendo sido, por conseguinte, determinada a
+extensão de absorção e a biodisponibilidade absoluta. A farmacocinética do ritonavir nos regimes de
+dose múltipla com alimentos, foi estudada em voluntários adultos infetados pelo VIH. Com doses
+múltiplas, a acumulação de ritonavir situa-se ligeiramente abaixo dos valores previstos para uma dose
+única devido a um aumento na depuração aparente (Cl/F) relacionado com a dose e o tempo. As
+concentrações de vale do ritonavir diminuem com o tempo, possivelmente devido a indução
+enzimática, mas parecem estabilizar após 2 semanas. O tempo até à concentração máxima (Tmax)
+permaneceu constante em aproximadamente 4 horas com doses crescentes. A depuração renal foi em
+média inferior a 0,1 l/h e foi relativamente constante nos limites de dose.
+Os parâmetros de farmacocinética observados com vários esquemas de dosagem de ritonavir isolado
+são apresentados no quadro abaixo. As concentrações plasmáticas de ritonavir após administração de
+uma dose única de um comprimido de 100 mg são semelhantes às da cápsula de gelatina mole de
+100 mg, com alimentos.
+Tabela 7. Regime posológico de Ritonavir
+100 mg
+100 mg
+200 mg
+200 mg
+600 mg
+1 × dia
+2 × dia1
+1 × dia
+2 × dia
+2 × dia
+Cmax (µg/ml)
+0,84 ± 0,39
+0,89
+3,4 ± 1,3
+4,5 ± 1,3
+11,2 ± 3,6
+Cvale (µg/ml)
+0,08 ± 0,04
+0,22
+0,16 ± 0,10
+0,6 ± 0,2
+3,7 ± 2,6
+AUC12 ou 24 (µg·h/ml) 6,6 ± 2,4
+6,2
+20,0 ± 5,6
+21,92 ± 6,48 77,5 ± 31,5
+t½ (h)
+~5
+~5
+~4
+~8
+~3 a 5
+Cl/F (l/h)
+17,2 ± 6,6
+16,1
+10,8 ± 3,1
+10,0 ± 3.2,
+8,8 ± 3,2
+1
+Valores expressos como média geométrica. Nota: ritonavir foi administrado após uma refeição
+em todos os regimes descritos.
+Efeitos dos alimentos na absorção oral
+Os alimentos diminuem ligeiramente a biodisponibilidade do comprimido de ritonavir. A
+administração de uma dose única de ritonavir comprimido de 100 mg com uma refeição com teor
+moderado de gordura (857 kcal, 31% de gordura) ou uma refeição com elevado teor de gordura
+
+31
+
+(907 kcal, 52% de gordura) foi associada a uma redução média de 20 – 23% na AUC e Cmax de
+ritonavir.
+Distribuição
+O volume de distribuição aparente (VB/F) de ritonavir é de aproximadamente 20 – 40 l após uma dose
+única de 600 mg. Verificou-se que a ligação do ritonavir às proteínas plasmáticas foi de
+aproximadamente 98 – 99% e é constante no intervalo das concentrações de 1,0 – 100 µg/ml. O
+ritonavir liga-se quer à glicoproteína ácida alfa­l humana (AAG), quer à albumina do soro humano
+(HSA), com afinidades comparáveis.
+Estudos de distribuição nos tecidos com ritonavir marcado com carbono 14, em ratos, revelaram que
+as concentrações mais elevadas de ritonavir ocorreram no fígado, suprarrenais, pâncreas, rins e tiroide.
+A relação tecido/plasma de aproximadamente 1, medida nos gânglios linfáticos de ratos, sugere que o
+ritonavir se distribui pelos tecidos linfáticos. A penetração do ritonavir no cérebro é mínima.
+Biotransformação
+Verificou-se que o ritonavir é largamente metabolizado pelo sistema do citocromo P450 hepático,
+principalmente pela família da isoenzima CYP3A e, a um nível inferior, a isoforma CYP2D6. Os
+estudos em animais bem como as experiências in vitro com microssomas hepáticos humanos
+indicaram que o ritonavir sofreu um metabolismo essencialmente oxidativo. Foram identificados
+quatro metabolitos de ritonavir no ser humano. O metabolito de oxidação isopropiltiazol (M­2) é o
+principal metabolito e possui uma atividade antiviral semelhante à do medicamento original. Contudo,
+a AUC do metabolito M­2 foi aproximadamente 3% da AUC do medicamento original.
+Doses baixas de ritonavir têm efeitos importantes na farmacocinética de outros inibidores da protease
+(e outros medicamentos metabolizados pela CYP3A4) e os outros inibidores da protease podem
+influenciar a farmacocinética do ritonavir (ver secção 4.5).
+Eliminação
+Os estudos efetuados no ser humano com ritonavir marcado radioativamente demonstraram que a
+eliminação de ritonavir ocorreu principalmente através do sistema hepatobiliar; aproximadamente 86%
+do produto marcado radioativamente foi recuperado nas fezes, parte do qual deverá corresponder a
+ritonavir não absorvido. Nestes estudos, a eliminação renal não foi considerada como uma das
+principais vias de eliminação de ritonavir. Estes dados estão de acordo com as observações feitas nos
+estudos em animais.
+Populações especiais
+Não foram observadas diferenças clinicamente significativas na AUC e Cmax entre indivíduos do sexo
+masculino e feminino. Os parâmetros farmacocinéticos do ritonavir não foram associados de forma
+estatisticamente significativa ao peso corporal ou massa corporal magra. As exposições plasmáticas ao
+ritonavir em doentes com 50 – 70 anos de idade quando receberam 100 mg em associação com
+lopinavir ou em doses mais elevadas, sem outros inibidores da protease, são semelhantes às
+observadas em adultos mais jovens.
+Doentes com compromisso da função hepática
+Após administração de doses múltiplas de ritonavir em voluntários saudáveis (500 mg, duas vezes dia)
+e em indivíduos com compromisso hepático ligeiro a moderado (400 mg, duas vezes ao dia), a
+exposição ao ritonavir após normalização da dose não foi significativamente diferente entre os dois
+grupos.
+
+32
+
+Doentes com compromisso da função renal
+Os parâmetros farmacocinéticos de ritonavir não foram estudados em doentes com compromisso renal.
+No entanto, visto que a depuração renal do ritonavir é negligenciável, não se esperam alterações na
+depuração total em doentes com compromisso renal.
+População pediátrica
+Os parâmetros de farmacocinética do ritonavir, em fase de equilíbrio, foram avaliados em crianças
+com mais de 2 anos infetadas pelo VIH que foram tratadas com doses desde 250 mg/m², duas vezes ao
+dia, até 400 mg/m², duas vezes ao dia. As concentrações de ritonavir obtidas após 350 a 400 mg/m²,
+duas vezes ao dia, em crianças, foram comparáveis às obtidas nos adultos tratados com 600 mg
+(aproximadamente 330 mg/m²), duas vezes ao dia. Nos vários grupos de dosagem, a depuração oral do
+ritonavir (CL/F/m²) foi aproximadamente 1,5 a 1,7 vezes mais rápida nas crianças com mais de 2 anos
+de idade do que nos adultos.
+Os parâmetros de farmacocinética do ritonavir, em fase de equilíbrio, foram avaliados em crianças
+infetadas pelo VIH, com menos de 2 anos de idade, que receberam doses de 350 a 450 mg/m², duas
+vezes ao dia. Neste estudo, as concentrações de ritonavir foram muito variáveis e até certo ponto mais
+baixas do que as obtidas em adultos tratados com 600 mg (aproximadamente 330 mg/m²) duas vezes
+ao dia. Nesses grupos de dosagem, a depuração oral do ritonavir (CL/F/m²) diminuiu com a idade,
+com valores médios de 9,0 l/h/m² em crianças com idade inferior a 3 meses, 7,8 l/h/m² em crianças
+entre 3 e 6 meses de idade e 4,4 l/h/m² em crianças entre 6 e 24 meses de idade.
+5.3
+
+Dados de segurança pré-clínica
+
+Os estudos de toxicidade de doses repetidas em animais identificaram órgãos alvo importantes como
+seja o fígado, retina, glândula tiroide e rim. As alterações hepáticas envolveram elementos
+hepatocelulares, biliares e elementos fagocitários e foram acompanhadas de aumentos das enzimas
+hepáticas. Observou-se uma hipertrofia do epitélio pigmentar da retina (RPE) e degenerescência da
+retina em todos os estudos com roedores, conduzidos com ritonavir, não tendo sido no entanto
+observadas em cães. Os sinais ultra estruturais sugerem que estas alterações na retina podem ser
+secundárias à fosfolipidose. Contudo, os estudos clínicos não revelaram qualquer evidência de
+alterações oculares induzidas pelo medicamento nos seres humanos. Todas as alterações na tiroide
+foram reversíveis logo após a interrupção do ritonavir. A investigação clínica no ser humano não
+revelou qualquer alteração clínica significativa nos testes da função tiroideia. As alterações renais
+incluindo degenerescência tubular, inflamação crónica e proteinúria foram observadas em ratos e
+parecem ser atribuíveis a doença espontânea específica da espécie. Além disso, não foram observadas
+quaisquer anomalias renais clinicamente significativas, em estudos clínicos.
+A toxicidade sobre o desenvolvimento observada nos ratos (letalidade embrionária, redução do peso
+corporal do feto e atrasos na ossificação e alterações viscerais, incluindo descida testicular retardada)
+ocorreu, principalmente, com uma dose tóxica materna. A toxicidade sobre o desenvolvimento nos
+coelhos (letalidade embrionária, tamanho reduzido das ninhadas e redução no peso dos fetos) ocorreu
+com uma dose tóxica materna.
+Não foi demonstrado que o ritonavir fosse mutagénico ou clastogénico numa série de testes in vitro e
+in vivo, incluindo o teste de Ames de mutação bacteriana inversa, utilizando S. typhimurium e E. coli,
+o teste de linfoma no ratinho, o teste de micronúcleo no ratinho e os testes de aberrações
+cromossómicas em linfócitos humanos.
+Os estudos de carcinogenicidade a longo prazo do ritonavir em ratinhos e ratos revelaram potencial
+tumorigénico específico para estas espécies, mas são considerados sem qualquer relevância para o ser
+humano.
+
+33
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Comprimido
+Copovidona
+Laurato de sorbitano
+Sílica coloidal anidra
+Cloreto de sódio
+Fumarato sódico de estearilo
+Revestimento
+Hipromelose
+Dióxido de titânio (E171)
+Macrogol
+Hidroxipropilcelulose
+Talco
+Óxido de ferro amarelo (E172)
+Sílica coloidal anidra
+Polissorbato 80
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+2 anos.
+Para frasco de polietileno de alta densidade (HDPE): após a primeira abertura, utilizar no prazo de
+45 dias.
+6.4
+
+Precauções especiais de conservação
+
+Não conservar acima de 30 °C.
+Conservar na embalagem de origem para proteger da humidade.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Frasco de polietileno de alta densidade (HDPE) com tampa de rosca de polipropileno, com selo de
+indução de alumínio e um exsicante.
+Apresentações: 30, 90, 100 e embalagem múltipla com 90 (3 frascos de 30) comprimidos revestidos
+por película.
+Embalagem de blister em OPA/Alu/PVC-Alu com 30 e 90 comprimidos.
+Embalagem de blister de dose unitária perfurada em OPA/Alu/PVC-Alu com 30 x 1,
+90 x 1 comprimidos.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Não existem requisitos especiais.
+
+34
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Mylan Pharmaceuticals Limited
+Damastown Industrial Park,
+Mulhuddart, Dublin 15,
+DUBLIN
+Irlanda
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/17/1242/001
+EU/1/17/1242/002
+EU/1/17/1242/003
+EU/1/17/1242/004
+EU/1/17/1242/005
+EU/1/17/1242/006
+EU/1/17/1242/007
+EU/1/17/1242/008
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 10 de Novembro de 2017
+Data da última renovação:
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+35
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA
+E EFICAZ DO MEDICAMENTO
+
+36
+
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+McDermott Laboratories Limited T/A Gerard Laboratories
+35/36 Baldoyle Industrial Estate
+Grange Road
+Dublin 13
+Irlanda
+Mylan Hungary Kft./Mylan Hungary Ltd.
+Mylan utca 1
+2900 Komarom
+Hungria
+Mylan Germany GmbH
+Zweigniederlassung Bad Homburg v. d. Hoehe,
+Benzstrasse 1,
+Bad Homburg v. d. Hoehe,
+Hessen, 61352,
+Alemanha
+O folheto informativo que acompanha o medicamento tem de mencionar o nome e endereço do
+fabricante responsável pela libertação do lote em causa.
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º­C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+
+37
+
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+38
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+39
+
+A. ROTULAGEM
+
+40
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM DO FRASCO DE HDPE
+1.
+
+NOME DO MEDICAMENTO
+
+Ritonavir Mylan 100 mg comprimidos revestidos por película
+ritonavir
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 100 mg de ritonavir.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Alto teor de sódio – ver folheto informativo para informação adicional.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+30 comprimidos revestidos por película
+90 comprimidos revestidos por película
+100 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral.
+Deve ser tomado com alimentos.
+Os comprimidos devem ser engolidos inteiros e não devem ser mastigados, partidos ou esmagados.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+Após a primeira abertura, utilizar no prazo de 45 dias.
+Data de abertura: __________
+41
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30 °C.
+Conservar na embalagem de origem para proteger da humidade.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Mylan Pharmaceuticals Limited
+Damastown Industrial Park,
+Mulhuddart, Dublin 15,
+DUBLIN
+Irlanda
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/17/1242/001 - 30 comprimidos revestidos por película
+EU/1/17/1242/002 - 90 comprimidos revestidos por película
+EU/1/17/1242/003 - 100 comprimidos revestidos por película
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+ritonavir mylan
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+42
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+43
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO
+1.
+
+NOME DO MEDICAMENTO
+
+Ritonavir Mylan 100 mg comprimidos revestidos por película
+ritonavir
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 100 mg de ritonavir.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Alto teor de sódio – ver folheto informativo para informação adicional.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+30 comprimidos revestidos por película
+90 comprimidos revestidos por película
+100 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral.
+Deve ser tomado com alimentos.
+Os comprimidos devem ser engolidos inteiros e não devem ser mastigados, partidos ou esmagados.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+Após a primeira abertura, utilizar no prazo de 45 dias.
+
+44
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30 °C.
+Conservar na embalagem de origem para proteger da humidade.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Mylan Pharmaceuticals Limited
+Damastown Industrial Park,
+Mulhuddart, Dublin 15,
+DUBLIN
+Irlanda
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/17/1242/001 - 30 comprimidos revestidos por película
+EU/1/17/1242/002 - 90 comprimidos revestidos por película
+EU/1/17/1242/003 - 100 comprimidos revestidos por película
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+ritonavir mylan
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+45
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM EXTERIOR DA EMBALAGEM MÚLTIPLA DO FRASCO (INCLUINDO
+BLUE BOX)
+1.
+
+NOME DO MEDICAMENTO
+
+Ritonavir Mylan 100 mg comprimidos revestidos por película
+ritonavir
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 100 mg de ritonavir.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Alto teor de sódio – ver folheto informativo para informação adicional.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+Embalagem múltipla: 90 (3 frascos de 30) comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral.
+Deve ser tomado com alimentos.
+Os comprimidos devem ser engolidos inteiros e não devem ser mastigados, partidos ou esmagados.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+Após a primeira abertura, utilizar no prazo de 45 dias.
+
+46
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30 °C.
+Conservar no frasco de origem para proteger da humidade.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Mylan Pharmaceuticals Limited
+Damastown Industrial Park,
+Mulhuddart, Dublin 15,
+DUBLIN
+Irlanda
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/17/1242/004
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+ritonavir mylan
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+47
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO DA EMBALAGEM MÚLTIPLA (EXCLUINDO BLUE BOX)
+1.
+
+NOME DO MEDICAMENTO
+
+Ritonavir Mylan 100 mg comprimidos revestidos por película
+ritonavir
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 100 mg de ritonavir.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Alto teor de sódio – ver folheto informativo para informação adicional.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+30 comprimidos revestidos por película. Componente de uma embalagem múltipla, não pode ser
+vendido separadamente.
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral.
+Deve ser tomado com alimentos.
+Os comprimidos devem ser engolidos inteiros e não devem ser mastigados, partidos ou esmagados.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+Após a primeira abertura, utilizar no prazo de 45 dias.
+Data de abertura: __________
+
+48
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30 °C.
+Conservar no frasco de origem para proteger da humidade.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Mylan Pharmaceuticals Limited
+Damastown Industrial Park,
+Mulhuddart, Dublin 15,
+DUBLIN
+Irlanda
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/17/1242/004
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+49
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM DO BLISTER
+1.
+
+NOME DO MEDICAMENTO
+
+Ritonavir Mylan 100 mg comprimidos revestidos por película
+ritonavir
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 100 mg de ritonavir.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Alto teor de sódio – ver folheto informativo para informação adicional.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+30 comprimidos revestidos por película
+90 comprimidos revestidos por película
+30 x 1 comprimidos revestidos por película (dose unitária)
+90 x 1 comprimidos revestidos por película (dose unitária)
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral.
+Deve ser tomado com alimentos.
+Os comprimidos devem ser engolidos inteiros e não devem ser mastigados, partidos ou esmagados.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+50
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30 °C.
+Conservar na embalagem de origem para proteger da humidade.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Mylan Pharmaceuticals Limited
+Damastown Industrial Park,
+Mulhuddart, Dublin 15,
+DUBLIN
+Irlanda
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/17/1242/005 - 30 comprimidos revestidos por película
+EU/1/17/1242/006 - 90 comprimidos revestidos por película
+EU/1/17/1242/007 - 30 x 1 comprimidos revestidos por película (dose unitária)
+EU/1/17/1242/008 - 90 x 1 comprimidos revestidos por película (dose unitária)
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Ritonavir Mylan
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+51
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+1.
+
+NOME DO MEDICAMENTO
+
+Ritonavir Mylan 100 mg comprimidos revestidos por película
+ritonavir
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Mylan Pharmaceuticals Limited
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+OUTROS
+
+52
+
+B. FOLHETO INFORMATIVO
+
+53
+
+Folheto informativo: Informação para o utilizador
+Ritonavir Mylan 100 mg comprimidos revestidos por película
+ritonavir
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si ou para o seu filho.
+–
+–
+–
+–
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+
+O que contém este folheto:
+1.
+O que é Ritonavir Mylan e para que é utilizado
+2.
+O que precisa de saber antes de tomar ou o seu filho tomar Ritonavir Mylan
+3.
+Como tomar Ritonavir Mylan
+4.
+Efeitos indesejáveis possíveis
+5.
+Como conservar Ritonavir Mylan
+6.
+Conteúdo da embalagem e outras informações
+1.
+
+O que é Ritonavir Mylan e para que é utilizado
+
+Ritonavir Mylan contém a substância ativa ritonavir. Ritonavir é um inibidor da protease usado para
+controlar a infeção pelo VIH. Ritonavir é usado em associação com outros medicamentos anti-VIH
+(antirretrovirais) para controlar a sua infeção pelo VIH. O seu médico discutirá consigo qual a
+associação de medicamentos que é melhor para si.
+Ritonavir Mylan é usado por crianças com 2 anos de idade ou mais, adolescentes e adultos que estão
+infetados pelo VIH, o vírus que causa SIDA.
+2.
+
+O que precisa de saber antes de tomar ou o seu filho tomar Ritonavir Mylan
+
+Não tome Ritonavir Mylan
+–
+–
+–
+
+se tem alergia ao ritonavir ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+se sofre de doença hepática grave.
+se está atualmente a tomar algum dos seguintes medicamentos:
+–
+astemizol ou terfenadina (habitualmente usados para tratar sintomas de alergia – estes
+medicamentos podem estar disponíveis sem receita médica);
+–
+amiodarona, bepridilo, dronedarona, encaínida, flecaínida, propafenona, quinidina
+(usados para corrigir alterações dos batimentos cardíacos);
+–
+di-hidroergotamina, ergotamina (usados para tratar enxaquecas);
+–
+ergonovina, metilergonovina (usados para parar hemorragias excessivas que podem
+ocorrer após o parto ou um aborto);
+–
+clorazepato, diazepam, estazolam, flurazepam, triazolam ou midazolam por via oral
+(tomado pela boca) (usados para o ajudar a dormir e/ou para aliviar a ansiedade);
+–
+clozapina, pimozida (usados para tratar pensamentos ou sentimentos anormais);
+–
+lurasidona (usado para tratar a depressão);
+–
+ranolazina (usado para tratar a dor no peito crónica angina);
+–
+quetiapina (usada para tratar esquizofrenia, doença bipolar e perturbação depressiva
+major);
+54
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+*
+
+petidina, propoxifeno (usados no alívio da dor);
+cisaprida (usado no alívio de certos problemas do estômago);
+rifabutina (usado na prevenção/tratamento de certas infeções);*
+voriconazol (usado para tratar infeções fúngicas);*
+sinvastatina, lovastatina (usados para diminuir o colesterol sanguíneo);
+neratinib (utilizado para tratar o cancro da mama)
+lomitapida (utilizada para diminuir o colesterol no sangue);
+alfuzosina (usado para tratar a glândula prostática aumentada);
+ácido fusídico (usado para tratar infeções bacterianas);
+sildenafil se sofrer de uma doença pulmonar chamada hipertensão arterial pulmonar que
+torna difícil a respiração. Os doentes sem esta doença podem usar sildenafil para a
+impotência (disfunção eréctil) com a supervisão de um médico (ver a secção Outros
+medicamentos e Ritonavir Mylan);
+–
+avanafil ou vardenafil (usados para tratar a disfunção erétil);
+–
+colquicina (usada para tratar a gota) se tiver problemas de rins e/ou fígado (ver a secção
+Outros medicamentos e Ritonavir Mylan);
+–
+medicamentos contendo hipericão (Hypericum perforatum) porque pode impedir ritonavir
+de atuar convenientemente. O hipericão é geralmente usado em medicamentos à base de
+plantas que pode comprar sem receita médica.
+O seu médico pode decidir que pode tomar rifabutina e/ou voriconazol com uma dose (baixa)
+potenciadora de ritonavir, mas não deve ser tomada uma dose total de ritonavir com estes dois
+medicamentos.
+
+Se atualmente está a tomar algum destes medicamentos, pergunte ao seu médico se pode mudar para
+um medicamento diferente enquanto estiver a tomar Ritonavir Mylan.
+Leia também a lista de medicamentos em «Outros medicamentos e Ritonavir Mylan» sobre a
+utilização de outros medicamentos que requerem cuidado especial.
+Advertências e precauções
+Fale com o seu médico antes de tomar Ritonavir Mylan.
+Informação importante
+–
+Se Ritonavir Mylan for tomado em associação com outros medicamentos antirretrovirais, é
+importante que também leia cuidadosamente os folhetos que são fornecidos com esses
+medicamentos. Pode existir informação adicional nesses folhetos sobre situações nas quais
+ritonavir deve ser evitado. Se tiver mais questões acerca de Ritonavir Mylan (ritonavir) ou os
+outros medicamentos receitados, pergunte ao seu médico ou farmacêutico.
+–
+Ritonavir não é uma cura para a infeção por VIH ou SIDA.
+–
+As pessoas que tomam ritonavir podem ainda desenvolver infeções ou outras doenças
+associadas à infeção por VIH ou SIDA. É pois importante que continue sob a supervisão do seu
+médico enquanto toma Ritonavir Mylan.
+Informe o seu médico se tem/teve:
+–
+–
+
+–
+
+–
+
+Antecedentes de doença hepática.
+Hepatite B ou C e está a ser tratado com uma associação de medicamentos antirretrovirais,
+porque está em risco aumentado para uma reação grave e potencialmente fatal, devido ao efeito
+no fígado. Podem ser necessárias análises regulares ao sangue para verificar se o seu fígado está
+a funcionar convenientemente.
+Hemofilia, porque foram notificados casos de aumento de hemorragia nos doentes com
+hemofilia tratados com este tipo de medicamentos (inibidores da protease). Desconhece-se qual
+a razão. Pode necessitar de um medicamento adicional para ajudar o seu sangue a coagular
+(fator VIII), para controlar qualquer hemorragia.
+Disfunção eréctil, porque os medicamentos usados para tratar a disfunção eréctil podem causar
+hipotensão e ereção prolongada.
+55
+
+–
+–
+
+Diabetes, porque foram notificados casos de agravamento ou desenvolvimento de diabetes
+(diabetes mellitus) em alguns doentes tratados com inibidores da protease.
+Doença do rim (renal) porque o seu médico pode ter que verificar a dose dos outros
+medicamentos que esteja a tomar (como os inibidores da protease).
+
+Informe o seu médico se tiver:
+–
+–
+–
+
+–
+
+–
+–
+–
+
+Diarreia ou vómitos que não melhoraram (persistentes), porque isso pode reduzir a eficácia dos
+medicamentos que estiver a tomar.
+Indisposição (náuseas), vómitos ou dor de estômago, porque podem ser sinais de inflamação
+do pâncreas (pancreatite). Alguns doentes a tomar ritonavir podem desenvolver problemas
+graves no pâncreas. Informe o seu médico imediatamente se for este o seu caso.
+Sintomas de infeção – informe o seu médico imediatamente. Alguns doentes com infeção
+avançada por VIH (SIDA) que iniciam tratamento anti-VIH podem desenvolver sintomas de
+infeção que tiveram no passado, mesmo que desconheçam que as tiveram. Pensa-se que isto
+acontece devido a uma melhoria na resposta imunitária do organismo, permitindo que o corpo
+combata estas infeções.
+Além das infeções oportunistas, depois de iniciar os medicamentos para o tratamento da sua
+infeção pelo VIH, podem também ocorrer doenças autoimunes (uma condição que ocorre
+quando o sistema imunitário ataca os tecidos saudáveis do corpo). As doenças autoimunes
+podem ocorrer muitos meses após o início do tratamento. Se sentir alguns sintomas de infeção
+ou outros sintomas tais como fraqueza muscular, fraqueza que se inicia nas mãos e nos pés
+progredindo em direção ao tronco, palpitações, tremores ou hiperatividade, deve informar o seu
+médico imediatamente para receber o tratamento necessário.
+Rigidez, mal-estar e dores nas articulações (especialmente na anca, joelho e ombro) e
+dificuldade de movimentos, informe o seu médico, porque isto pode ser um sinal de um
+problema que pode destruir o osso (osteonecrose). Alguns doentes que tomam vários
+medicamentos antirretrovirais podem desenvolver esta doença.
+Dor muscular, sensibilidade ou fraqueza, particularmente associadas à terapêutica
+antirretroviral incluindo inibidores da protease e análogos nucleósidos. Em raras ocasiões estes
+problemas musculares foram graves. (Ver secção 4 «Possíveis efeitos indesejáveis»).
+Tonturas, vertigens (sensação de andar à roda), desmaio ou batimento cardíaco anormal.
+Alguns doentes a tomar ritonavir podem ter alterações no eletrocardiograma (ECG). Informe o
+seu médico se tiver problemas cardíacos ou problemas na condução cardíaca.
+se tem quaisquer outras preocupações de saúde, deve discuti-las com o seu médico, logo que
+possível.
+
+Crianças e adolescentes
+Ritonavir Mylan não é recomendado em crianças com idade inferior a 2 anos.
+Outros medicamentos e Ritonavir Mylan
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos, incluindo medicamentos obtidos sem uma receita médica. Existem alguns
+medicamentos que não podem ser tomados com ritonavir. Esses medicamentos estão descritos na
+Secção 2, em «Não tome Ritonavir Mylan». Existem outros medicamentos que só podem ser usados
+em certas situações, como descrito abaixo.
+As advertências seguintes são aplicáveis quando Ritonavir Mylan é tomado numa dose total. No
+entanto, estas advertências podem também aplicar-se quando Ritonavir Mylan é usado em doses
+baixas (como potenciador) com outros medicamentos.
+
+56
+
+Informe o seu médico se está a tomar algum dos medicamentos descritos abaixo, porque deverá
+ser tomado cuidado especial.
+–
+
+–
+–
+–
+
+–
+
+–
+
+–
+–
+–
+
+Sildenafil ou tadalafil para a impotência (disfunção eréctil). Pode ser necessário diminuir a
+dose e/ou frequência destes medicamentos para evitar hipotensão e ereção prolongada. Não
+deve tomar Ritonavir Mylan com sildenafil se sofrer de hipertensão arterial pulmonar (ver
+também secção 2. O que precisa de saber antes de tomar ou o seu filho tomar Ritonavir
+Mylan). Informe o seu médico se está a tomar tadalafil para a hipertensão arterial pulmonar.
+Colquicina (para a gota) porque ritonavir pode aumentar os níveis sanguíneos deste
+medicamento. Não deve tomar ritonavir com colquicina se tiver problemas de rins e/ou fígado
+(ver também acima «Não tome Ritonavir Mylan»).
+Digoxina (medicamento para o coração). O seu médico pode precisar de ajustar a dose de
+digoxina e vigiá-lo se estiver a tomar digoxina e Ritonavir Mylan, para evitar problemas
+cardíacos.
+Contracetivos hormonais contendo etinilestradiol porque ritonavir pode diminuir a eficácia
+destes medicamentos. Em alternativa, recomenda-se o uso de um preservativo ou de outro
+método de contraceção não hormonal. Pode também observar hemorragia uterina irregular se
+estiver a tomar este tipo de contracetivo hormonal com ritonavir.
+Atorvastatina ou rosuvastatina (para o colesterol elevado) porque ritonavir pode aumentar os
+níveis sanguíneos destes medicamentos. Fale com o seu médico antes de tomar qualquer
+medicamento para baixar o colesterol com ritonavir (ver também acima «Não tome Ritonavir
+Mylan»).
+Esteroides (por ex. dexametasona, propionato de fluticasona, prednisolona, triamcinolona)
+porque ritonavir pode aumentar os níveis sanguíneos destes medicamentos, o que pode levar a
+síndrome de Cushing (desenvolvimento de face redonda) e diminuir a produção da hormona
+cortisol. O seu médico pode diminuir a dose de esteroide ou vigiar os seus efeitos indesejáveis
+mais atentamente.
+Trazodona (um medicamento para a depressão) porque podem ocorrer efeitos indesejáveis
+como náuseas, tonturas, tensão arterial baixa e desmaio quando tomada com ritonavir.
+Rifampicina e saquinavir (usados, respetivamente, para a tuberculose e VIH) porque pode
+ocorrer lesão hepática grave quando tomados com ritonavir.
+Bosentano, riociguat (usado para a hipertensão arterial pulmonar) porque ritonavir pode
+aumentar os níveis sanguíneos deste medicamento.
+
+Existem medicamentos que não podem ser misturados com ritonavir porque os seus efeitos podem
+aumentar ou diminuir quando tomados em associação. Nalguns casos o seu médico pode precisar de
+efetuar algumas análises, alterar a dose ou vigiá-lo regularmente. Por isso é que deve informar o seu
+médico se está a tomar outros medicamentos, incluindo aqueles que comprou por iniciativa própria ou
+produtos à base de plantas, sendo particularmente importante mencionar os seguintes:
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+–
+
+anfetaminas ou derivados de anfetaminas;
+antibióticos (por ex. eritromicina, claritromicina);
+tratamentos antineoplásicos (por ex., abemaciclib, afatinib, apalutamida, ceritinib, encorafenib,
+dasatinib, ibrutinib, nilotinib, venetoclax, vincristina, vinblastina);
+medicamentos usados para tratar a contagem baixa de plaquetas no sangue (por ex.
+fostamatinib);
+anticoagulantes (por ex. dabigatrano etexilato, edoxabano, rivaroxabano, vorapaxar, varfarina);
+antidepressivos (por ex: amitriptilina, desipramina, fluoxetina, imipramina, nefazodona,
+nortriptilina, paroxetina, sertralina, trazodona);
+antifúngicos (por ex. cetoconazol, itraconazol);
+anti-histamínicos (por ex. loratadina, fexofenadina);
+medicamentos antirretrovirais incluindo inibidores da protease do VIH (amprenavir, atazanavir,
+darunavir, fosamprenavir, indinavir, nelfinavir, saquinavir, tipranavir), inibidores não
+nucleósidos da transcriptase reversa (NNRTI) (delavirdina, efavirenz, nevirapina), e outros
+(didanosina, maraviroc, raltegravir, zidovudina);
+medicamento para a tuberculose (bedaquilina e delamanid);
+
+57
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+medicamentos antivirais usados para tratar a infeção crónica pelo vírus da hepatite C (VHC) em
+adultos (p. ex., glecaprevir/pibrentasvir e simeprevir);
+medicamento para a ansiedade, buspirona;
+medicamentos para a asma, teofilina, salmeterol;
+atovaquona, um medicamento usado para tratar um certo tipo de pneumonia e malária;
+buprenorfina, um medicamento usado para o tratamento da dor crónica;
+bupropiona, um medicamento usado para ajudar a deixar de fumar;
+medicamentos para a epilepsia (por ex. carbamazepina, divalproato, lamotrigina, fenitoína);
+medicamentos para o coração (por ex. disopiramida, mexiletina e antagonistas dos canais do
+cálcio, como por exemplo amlodipina, diltiazem e nifedipina);
+medicamentos para o sistema imunitário (por ex. ciclosporina, tacrolímus, everolímus);
+levotiroxina (utilizado para tratar problemas na tiroide);
+morfina e medicamentos tipo morfina usados para tratar a dor grave (por ex. metadona,
+fentanilo);
+comprimidos para dormir (por ex. alprazolam, zolpidem) e também midazolam administrados
+por injeção;
+tranquilizantes (por ex. haloperidol, risperidona, tioridazina);
+colquicina, um tratamento para a gota.
+
+Existem alguns medicamentos que não podem ser tomados com ritonavir. Estes medicamentos estão
+descritos na secção 2 sob o título «Não tome Ritonavir Mylan».
+Ritonavir Mylan com alimentos e bebidas
+Ritonavir Mylan comprimidos deve ser tomado com alimentos.
+Gravidez e amamentação
+Se está grávida, se pensa estar grávida ou planeia engravidar, consulte o seu médico antes de
+tomar este medicamento.
+Existe um elevado número de dados sobre o uso de ritonavir (a substância ativa de Ritonavir Mylan)
+durante a gravidez. Em geral, as grávidas receberam ritonavir após os primeiros três meses de gravidez
+numa dose mais baixa (como potenciador) juntamente com outros inibidores da protease. Ritonavir
+não pareceu aumentar a possibilidade de desenvolvimento de anomalias à nascença comparativamente
+com a população em geral.
+A amamentação não é recomendada em mulheres que vivem com VIH, uma vez que a infeção pelo
+VIH pode ser transmitida ao bebé através do leite materno.
+Se estiver a amamentar ou planeia vir a amamentar, deve falar com o seu médico o mais rapidamente
+possível.
+Condução de veículos e utilização de máquinas
+Ritonavir Mylan pode causar tonturas. Se tiver este efeito não deve conduzir nem utilizar máquinas.
+Ritonavir Mylan contém sódio
+Este medicamento contém 87,75 mg de sódio (principal componente de sal de cozinha/sal de mesa)
+em cada comprimido. Isto é equivalente a 4,4% da ingestão diária máxima de sódio recomendada na
+dieta para um adulto. Fale com o seu médico ou farmacêutico se precisar de cinco ou mais
+comprimidos diariamente durante um período prolongado, especialmente se foi aconselhado a seguir
+uma dieta com pouco sal (sódio).
+
+58
+
+3.
+
+Como tomar Ritonavir Mylan
+
+Tome este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale com o seu
+médico ou farmacêutico se tiver dúvidas. Tome este medicamento uma ou duas vezes ao dia, todos os
+dias com alimentos.
+É importante que os comprimidos de Ritonavir Mylan sejam engolidos inteiros e não devem ser
+mastigados, partidos ou esmagados.
+As doses recomendadas de Ritonavir Mylan são:
+•
+se Ritonavir Mylan for usado para potenciar os efeitos de outros medicamentos anti-VIH, a dose
+habitual para adultos é 1 a 2 comprimidos, uma ou duas vezes ao dia. Para recomendações de
+posologia mais detalhadas, incluindo as relativas às crianças, ver o Folheto Informativo dos
+medicamentos anti-VIH com os quais Ritonavir Mylan é administrado em associação.
+•
+se o seu médico receitar uma dose total, os adultos podem iniciar com uma dose de 3
+comprimidos de manhã e 3 comprimidos 12 horas depois, aumentando gradualmente durante
+um período de 14 dias até à dose total de 6 comprimidos, duas vezes ao dia (um total de
+1200 mg por dia). As crianças (2 – 12 anos de idade) começarão com uma dose inferior a esta e
+continuam até à dose máxima permitida para o seu tamanho.
+O seu médico dir-lhe­á qual a dose que deve tomar.
+Outras formas deste medicamento podem ser mais adequadas para crianças que têm dificuldades em
+engolir comprimidos.
+Ritonavir Mylan deve ser tomado todos os dias para controlar a sua infeção pelo VIH, quer se sinta
+melhor ou não. Se algum efeito secundário o impedir de tomar Ritonavir Mylan conforme prescrito,
+informe o seu médico imediatamente. Durante os episódios de diarreia o seu médico pode decidir que
+pode ser necessária monitorização extra.
+Tenha sempre Ritonavir Mylan suficiente de modo a não interromper o tratamento. Quando viajar ou
+precisar de ficar no hospital, garanta que terá Ritonavir Mylan em quantidade suficiente até que
+consiga obter uma nova embalagem.
+Se tomar mais Ritonavir Mylan do que deveria
+Se tomar ritonavir a mais pode sentir dormência, formigueiro ou uma sensação de «picadas». Caso se
+aperceba que tomou mais Ritonavir Mylan do que devia, contacte o seu médico ou dirija-se a um
+Serviço de Urgência do hospital mais próximo de imediato.
+Caso se tenha esquecido de tomar Ritonavir Mylan
+Caso se tenha esquecido de tomar uma dose, tome­a logo que possível. Se estiver próximo de tomar a
+dose seguinte, deve fazê-lo. Não tome uma dose a dobrar para compensar uma dose que se esqueceu
+de tomar.
+Se parar de tomar Ritonavir Mylan
+Mesmo que se sinta melhor, não deixe de tomar Ritonavir Mylan sem falar com o seu médico. Tomar
+Ritonavir Mylan como lhe foi recomendado dá-lhe mais possibilidade de atrasar a resistência aos
+medicamentos.
+4.
+
+Efeitos indesejáveis possíveis
+
+Durante a terapêutica para o VIH pode haver um aumento do peso e dos níveis de lípidos e glucose no
+sangue. Isto está em parte associado a uma recuperação da saúde e do estilo de vida e, no caso dos
+59
+
+lípidos no sangue, por vezes aos próprios medicamentos para o VIH. O seu médico irá realizar testes
+para determinar estas alterações.
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas. Do mesmo modo, os efeitos indesejáveis de ritonavir quando é
+administrado com outros medicamentos antirretrovirais dependem desses medicamentos. É pois
+importante que leia cuidadosamente a secção relativa aos efeitos indesejáveis no Folheto Informativo
+que é fornecido com os outros medicamentos.
+Muito frequentes: podem afetar mais de 1 em cada 10 pessoas
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+dor na parte superior ou inferior do
+estômago
+vómitos
+diarreia (que pode ser grave)
+indisposição (náuseas)
+rubor, sensação de calor
+dor de cabeça
+tonturas
+dor de garganta
+tosse
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+dor de estômago ou indigestão
+sensação de formigueiro ou dormência nas
+mãos, pés ou à volta dos lábios e boca
+sensação de fraqueza/fadiga
+sabor desagradável na boca
+lesões nos nervos que podem causar
+fraqueza e dor
+comichão
+erupção na pele
+dor nas articulações e nas costas
+
+Frequentes: podem afetar até 1 em cada 10 pessoas
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+reações alérgicas incluindo erupções na
+pele (por ex. vermelhidão, inchaço,
+comichão), edema grave da pele e outros
+tecidos
+dificuldade em dormir (insónias)
+ansiedade
+aumento do colesterol
+aumento nos triglicéridos
+gota
+hemorragia no estômago
+inflamação do fígado e coloração
+amarelada da pele ou da parte branca dos
+olhos
+aumento da micção
+função renal diminuída
+convulsões (ataques)
+níveis baixos de contagem de plaquetas
+sede (desidratação)
+períodos anormalmente abundantes
+gases (flatulência)
+
+•
+•
+•
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+perda de apetite
+úlceras (feridas) na boca
+dores musculares, (dor), sensibilidade ou
+fraqueza
+febre
+perda de peso
+resultados dos testes laboratoriais:
+alterações nos resultados das análises ao
+sangue (como a química do sangue e
+contagem sanguínea)
+confusão
+dificuldade de concentração
+desmaio
+visão turva
+inchaço nas mãos e pés
+tensão arterial elevada
+tensão arterial baixa e sensação de desmaio
+ao levantar
+mãos e pés frios
+acne
+
+Pouco frequentes: podem afetar até 1 em cada 100 pessoas
+•
+•
+
+ataque cardíaco
+diabetes
+
+•
+
+60
+
+insuficiência renal
+
+Raros: podem afetar até 1 em cada 1.000 pessoas
+•
+
+reações dermatológicas graves ou de
+compromisso vital, incluindo bolhas
+(síndrome de Stevens Johnson, necrólise
+epidérmica tóxica)
+
+•
+•
+
+reação alérgica grave (anafilaxia)
+níveis elevados de açúcar no sangue
+
+Desconhecido: a frequência não pode ser calculada a partir dos dados disponíveis
+•
+
+pedras nos rins
+
+Informe o seu médico quando se sentir maldisposto (nauseado), se vomitar ou tiver dor de estômago,
+porque estes podem ser sinais de inflamação do pâncreas. Informe também o seu médico se sentir
+rigidez, mal-estar e dores nas articulações (especialmente da anca, joelho e ombro) e dificuldade nos
+movimentos, porque isso pode ser um sinal de osteonecrose. Ver também a secção 2. O que precisa
+de saber antes de tomar ou o seu filho tomar Ritonavir Mylan.
+Foram notificados em doentes com hemofilia do tipo A e B casos de aumentos de hemorragias durante
+o tratamento com este medicamento ou outro inibidor da protease. Se estiver nesta situação deverá
+consultar imediatamente o seu médico.
+Nos doentes tratados com ritonavir foram descritos testes anormais da função hepática, hepatite
+(inflamação hepática) e raramente icterícia. Alguns doentes sofriam de outras doenças ou estavam a
+tomar outros medicamentos. As pessoas com doença hepática (do fígado) ou hepatite podem sofrer
+agravamento da doença hepática.
+Foram descritos casos de dor, sensibilidade ou fraqueza muscular, particularmente quando foram
+tomados medicamentos para diminuir o colesterol em associação com terapêutica antirretroviral que
+inclua inibidores da protease e análogos dos nucleósidos. Em ocasiões raras estes distúrbios
+musculares foram graves (rabdomiólise). Em caso de dor muscular, sensibilidade, fraqueza ou cãibras,
+inexplicáveis ou contínuas, parar de tomar o medicamento, contactar o seu médico imediatamente ou
+dirigir-se a um Serviço de Urgência do hospital mais próximo.
+Informe o seu médico imediatamente se tiver quaisquer sintomas que sugiram uma reação alérgica
+depois de tomar Ritonavir Mylan, como por exemplo erupção cutânea, urticária ou dificuldades
+respiratórias.
+Se algum dos efeitos indesejáveis se agravar ou se detetar quaisquer efeitos indesejáveis não
+mencionados neste folheto, informe o seu médico ou farmacêutico ou, se for urgente, procure
+ajuda médica de imediato.
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico, ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar Ritonavir Mylan
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior ou no rótulo
+do frasco, após «EXP». O prazo de validade corresponde ao último dia do mês indicado.
+
+61
+
+Para frasco de polietileno de alta densidade (HDPE): após a primeira abertura, utilizar no prazo de
+45 dias.
+Não conservar acima de 30 °C. Conservar na embalagem de origem para proteger da humidade.
+Não deite fora quaisquer medicamentos na canalização. Pergunte ao seu farmacêutico como deitar fora
+os medicamentos que já não utiliza. Estas medidas ajudarão a proteger o ambiente.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Ritonavir Mylan
+–
+–
+–
+
+A substância ativa é o ritonavir. Cada comprimido revestido por película contém 100 mg de
+ritonavir.
+Os outros componentes do comprimido são: copovidona, laurato de sorbitano, sílica coloidal
+anidra, cloreto de sódio, fumarato sódico de estearilo (ver secção 2 "Ritonavir Mylan contém
+sódio").
+O revestimento do comprimido é composto de: hipromelose, dióxido de titânio (E171),
+macrogol, hidroxipropilcelulose, talco, óxido de ferro amarelo (E172), sílica coloidal anidra,
+polissorbato 80.
+
+Qual o aspeto de Ritonavir Mylan e conteúdo da embalagem
+Os comprimidos revestidos por película de Ritonavir Mylan são amarelos, em forma de cápsula,
+biconvexos, de bordos biselados e marcados com «M163» numa das faces e em branco na outra face.
+Os comprimidos revestidos por película de Ritonavir Mylan estão disponíveis em frascos de plástico
+com tampas de rosca e selos de alumínio contendo 30, 90 ou 100 comprimidos e em embalagens
+múltiplas de 90 comprimidos contendo 3 frascos, cada um com 30 comprimidos. Os frascos também
+contêm um exsicante. Não coma o exsicante.
+Também disponível em embalagens de blister com 30 e 90 comprimidos e em embalagens de blister
+de dose unitária perfurada com 30 x 1 e 90 x 1 comprimidos.
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado
+Mylan Pharmaceuticals Limited
+Damastown Industrial Park,
+Mulhuddart, Dublin 15,
+DUBLIN
+Irlanda
+Fabricantes
+McDermott Laboratories Limited trading as Gerard Laboratories trading as Mylan Dublin,
+Unit 35/36 Baldoyle Industrial Estate,
+Grange Road, Dublin 13,
+Irlanda
+Mylan Hungary Kft,
+Mylan utca 1, Komárom, H­2900
+Hungria
+
+62
+
+Mylan Germany GmbH
+Zweigniederlassung Bad Homburg v. d. Hoehe,
+Benzstrasse 1, Bad Homburg v. d. Hoehe,
+Hessen, 61352,
+Alemanha
+
+63
+
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado.
+België/Belgique/Belgien
+Viatris
+Tél/Tel: + 32 (0)2 658 61 00
+
+Lietuva
+Viatris UAB
+Tel: + 370 5 205 1288
+
+България
+Майлан ЕООД
+Тел.: + 359 2 44 55 400
+
+Luxembourg/Luxemburg
+Viatris
+Tél/Tel: + 32 (0)2 658 61 00
+(Belgique/Belgien)
+
+Česká republika
+Viatris CZ s.r.o.
+Tel: + 420 222 004 400
+
+Magyarország
+Viatris Healthcare Kft.
+Tel.: + 36 1 465 2100
+
+Danmark
+Viatris ApS
+Tlf: + 45 28 11 69 32
+
+Malta
+V.J. Salomone Pharma Ltd
+Tel: + 356 21 22 01 74
+
+Deutschland
+Viatris Healthcare GmbH
+Tel: + 49800 0700 800
+
+Nederland
+Mylan BV
+Tel: + 31 (0)20 426 3300
+
+Eesti
+Viatris OÜ
+Tel: + 372 6363 052
+
+Norge
+Viatris AS
+Tlf: + 47 66 75 33 00
+
+Ελλάδα
+Viatris Hellas Ltd
+Τηλ: + 30 2100 100 002
+
+Österreich
+Arcana Arzneimittel GmbH
+Tel: + 43 1 416 2418
+
+España
+Viatris Pharmaceuticals, S.L.U.
+Tel: + 34 900 102 712
+
+Polska
+Mylan Healthcare Sp. z o.o.
+Tel.: + 48 22 546 64 00
+
+France
+Viatris Santé
+Tél: + 33 4 37 25 75 00
+
+Portugal
+Mylan, Lda.
+Tel: + 351 214 127200
+
+Hrvatska
+Viatris Hrvatska d.o.o.
+Tel: + 385 1 23 50 599
+
+România
+BGP Products SRL
+Tel: + 40 372 579 000
+
+Ireland
+Mylan Ireland Limited
+Tel: +353 1 8711600
+
+Slovenija
+Viatris d.o.o.
+Tel: + 386 1 23 63 180
+
+Ísland
+Icepharma hf.
+Sími: + 354 540 8000
+
+Slovenská republika
+Viatris Slovakia s.r.o.
+Tel: + 421 2 32 199 100
+
+Italia
+Viatris Italia S.r.l.
+Tel: + 39 (0) 2 612 46921
+
+Suomi/Finland
+Viatris Oy
+Puh/Tel: + 358 20 720 9555
+
+64
+
+Κύπρος
+Varnavas Hadjipanayis Ltd.
+Τηλ: + 357 2220 7700
+
+Sverige
+Viatris AB
+Tel: +46 (0) 8 630 19 00
+
+Latvija
+Viatris SIA
+Tel: + 371 676 055 80
+
+United Kingdom (Northern Ireland)
+Mylan IRE Healthcare Limited
+Tel: + 353 18711600
+
+Este folheto foi revisto pela última vez em
+Está disponível informação pormenorizada sobre este medicamento no sítio da Internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+65
+
+

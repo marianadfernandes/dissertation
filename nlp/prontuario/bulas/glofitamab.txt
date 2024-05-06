@@ -1,0 +1,2538 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+
+1.
+
+NOME DO MEDICAMENTO
+
+Columvi 2,5 mg concentrado para solução para perfusão
+Columvi 10 mg concentrado para solução para perfusão
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Columvi 2,5 mg concentrado para solução para perfusão
+Cada frasco para injetáveis de 2,5 ml de concentrado contém 2,5 mg de glofitamab na concentração de
+1 mg/ml.
+Columvi 10 mg concentrado para solução para perfusão
+Cada frasco para injetáveis de 10 ml de concentrado contém 10 mg de glofitamab na concentração de
+1 mg/ml.
+O glofitamab é um anticorpo monoclonal humanizado, biespecífico, anti-CD20/anti-CD3, que é
+produzido em células de ovário de hamster chinês (CHO) por tecnologia de ADN recombinante.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Concentrado para solução para perfusão (concentrado estéril).
+Solução límpida e incolor, com pH de 5,5 e osmolalidade de 270-350 mOsmol/kg.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Columvi em monoterapia é indicado para o tratamento de doentes adultos com linfoma difuso de
+grandes células B (LDGCB) recidivante ou refratário, após duas ou mais linhas de tratamento
+sistémico.
+4.2
+
+Posologia e modo de administração
+
+Columvi só pode ser administrado sob supervisão de um profissional de saúde experiente no
+diagnóstico e tratamento de doentes oncológicos e que tenha acesso a suporte médico apropriado para
+a gestão de reações graves associadas à síndrome de libertação de citocinas (SLC).
+Deve estar disponível, pelo menos, uma dose de tocilizumab para utilização em caso de SLC antes da
+perfusão de Columvi nos Ciclos 1 e 2. Tem de estar assegurado o acesso a uma dose adicional de
+tocilizumab no período de 8 horas após a utilização da dose anterior de tocilizumab (ver secção 4.4).
+Pré-tratamento com obinutuzumab
+Todos os doentes do estudo NP30179 receberam uma dose única de 1 000 mg de obinutuzumab como
+2
+
+pré-tratamento no Dia 1 do Ciclo 1 (7 dias antes do início do tratamento com Columvi) para reduzir as
+células B circulantes e linfoides (ver Tabela 2, Atraso ou omissão de doses e a secção 5.1).
+O obinutuzumab foi administrado na forma de uma perfusão intravenosa a 50 mg/h. A taxa de
+perfusão foi aumentada em incrementos de 50 mg/h a cada 30 minutos, até um máximo de 400 mg/h.
+Consulte a informação de prescrição do obinutuzumab para obter informações completas sobre a
+pré-medicação, preparação, administração e gestão de reações adversas do obinutuzumab.
+Pré-medicação e profilaxia
+Profilaxia da síndrome de libertação de citocinas
+Columvi deve ser administrado a doentes bem hidratados. Na Tabela 1, é descrita a pré-medicação
+recomendada para a SLC (ver secção 4.4).
+Tabela 1. Pré-medicação anterior à perfusão de Columvi
+
+Ciclo de tratamento (Dia)
+
+Ciclo 1 (Dia 8, Dia 15);
+Ciclo 2 (Dia 1);
+Ciclo 3 (Dia 1)
+
+Doentes que
+requerem prémedicação
+
+Pré-medicação
+
+Glucocorticoide
+intravenoso1
+Todos os doentes
+
+Analgésico /
+antipirético oral2
+Anti-histamínico3
+Analgésico /
+antipirético oral2
+
+Todos os doentes
+
+Anti-histamínico3
+Todas as perfusões
+subsequentes
+
+Doentes que
+tenham tido SLC
+com a
+administração
+anterior
+
+Glucocorticoide
+intravenoso1, 4
+
+Administração
+Concluída pelo menos uma
+hora antes da perfusão de
+Columvi
+Pelo menos 30 minutos
+antes da perfusão de
+Columvi
+Pelo menos 30 minutos
+antes da perfusão de
+Columvi
+Concluída pelo menos uma
+hora antes da perfusão de
+Columvi
+
+-
+
+1
+
+20 mg de dexametasona ou 100 mg de prednisona/prednisolona ou 80 mg de metilprednisolona.
+Por exemplo, 1 000 mg de paracetamol.
+3
+Por exemplo, 50 mg de difenidramina.
+4
+A administrar além da pré-medicação necessária para todos os doentes.
+2
+
+Posologia
+A administração de Columvi inicia-se com um regime posológico caracterizado por um aumento
+gradual da dose (concebido para reduzir o risco de SLC), que culmina na dose recomendada de 30 mg.
+Regime posológico com aumento gradual da dose de Columvi
+Columvi deve ser administrado na forma de uma perfusão intravenosa, de acordo com o regime de
+aumento gradual da dose que culmina na dose recomendada de 30 mg (como indicado na Tabela 2),
+após o pré-tratamento com obinutuzumab no Dia 1 do Ciclo 1. Cada ciclo tem 21 dias.
+
+3
+
+Tabela 2. Regime posológico com aumento gradual da dose de Columvi em monoterapia para
+doentes com LDGCB recidivante ou refratário
+Ciclo de tratamento, Dia
+
+Dose de Columvi
+
+Duração da perfusão
+
+Dia 1
+
+Pré-tratamento com obinutuzumab1
+
+Dia 8
+
+2,5 mg
+
+Dia 15
+
+10 mg
+
+Ciclo 2
+
+Dia 1
+
+30 mg
+
+Ciclo 3 a 12
+
+Dia 1
+
+30 mg
+
+Ciclo 1
+(Pré-tratamento e
+aumento gradual da
+dose)
+
+4 horas2
+2 horas3
+
+1
+
+Ver “Pré-tratamento com obinutuzumab”, descrito acima.
+Em doentes nos quais ocorra SLC com a administração anterior de Columvi, a duração da perfusão pode ser
+estendida até 8 horas (ver secção 4.4).
+3
+Ao critério do médico assistente, se a perfusão anterior tiver sido bem tolerada. Se o doente tiver tido SLC
+com uma administração anterior, a duração da perfusão deve manter-se nas 4 horas.
+2
+
+Monitorização dos doentes
+•
+Todos os doentes têm de ser monitorizados quanto a sinais e sintomas de possível SLC durante
+a perfusão e durante, pelo menos, 10 horas após a conclusão da perfusão da primeira dose de
+Columvi (2,5 mg no Ciclo 1, Dia 8) (ver secção 4.8).
+•
+
+Os doentes que tenham tido SLC de Grau ≥ 2 na perfusão anterior devem ser monitorizados
+após a conclusão da perfusão (ver Tabela 3, na secção 4.2).
+
+Todos os doentes têm de ser aconselhados relativamente ao risco, sinais e sintomas de SLC e
+advertidos para contactar de imediato o seu profissional de saúde caso tenham sinais e sintomas de
+SLC (ver secção 4.4).
+Duração do tratamento
+O tratamento com Columvi é recomendado durante um máximo de 12 ciclos ou até progressão da
+doença ou toxicidade não controlável. Cada ciclo tem 21 dias.
+Atraso ou omissão de doses
+Durante o aumento gradual da dose (administração semanal):
+•
+Após o pré-tratamento com obinutuzumab, caso haja um atraso na administração da dose de
+2,5 mg de Columvi superior a uma semana, deve repetir-se o pré-tratamento com
+obinutuzumab.
+•
+
+Após a administração da dose de 2,5 mg ou de 10 mg de Columvi, caso haja um intervalo livre
+de tratamento de Columvi de 2 a 6 semanas, deve repetir-se a última dose tolerada de Columvi e
+retomar-se o regime de aumento gradual da dose planeado.
+
+•
+
+Após a administração da dose de 2,5 mg ou de 10 mg de Columvi, caso haja um intervalo livre
+de tratamento de Columvi superior a 6 semanas, deve repetir-se o pré-tratamento com
+obinutuzumab e o regime de aumento gradual da dose de Columvi (ver Ciclo 1, na Tabela 2).
+
+Após o Ciclo 2 (dose de 30 mg):
+•
+Caso haja um intervalo livre de tratamento de Columvi superior a 6 semanas entre ciclos, deve
+repetir-se o pré-tratamento com obinutuzumab e o regime de aumento gradual da dose de
+Columvi (ver Ciclo 1, na Tabela 2) e, seguidamente, retomar-se o ciclo de tratamento planeado
+(dose de 30 mg).
+Modificações de dose
+Não se recomendam reduções da dose de Columvi.
+4
+
+Gestão da síndrome de libertação de citocinas
+A SLC deve ser identificada com base na apresentação clínica (ver secções 4.4 e 4.8). Os doentes
+devem ser avaliados quanto a outras causas de febre, hipoxia e hipotensão, tais como infeções ou
+sépsis. Em caso de suspeita de SLC, esta deve ser gerida de acordo com as recomendações para a
+gestão da SLC baseadas nos critérios de classificação da American Society for Transplantation and
+Cellular Therapy (ASTCT), que se apresentam na Tabela 3.
+Tabela 3. Critérios de classificação da SLC da ASTCT e recomendações para a gestão da SLC
+Grau1
+
+Gestão da SLC
+
+Grau 1
+Febre ≥ 38 °C
+
+Caso a SLC ocorra durante a perfusão:
+• Interromper a perfusão e tratar os sintomas
+• Retomar a perfusão numa velocidade
+inferior após resolução dos sintomas
+• Em caso de recorrência dos sintomas,
+descontinuar a perfusão em curso
+Caso a SLC ocorra após a perfusão:
+• Tratar os sintomas
+Se a SLC durar mais de 48 h após a gestão
+sintomática:
+• Considerar a utilização de corticosteroides3
+• Considerar a utilização de tocilizumab4
+Caso a SLC ocorra durante a perfusão:
+• Descontinuar a perfusão em curso e tratar
+os sintomas
+• Administrar corticosteroides3
+• Considerar a utilização de tocilizumab4
+
+Grau 2
+Febre ≥ 38 °C e/ou
+hipotensão sem
+necessidade de
+vasoconstritores e/ou
+hipoxia que requeira
+Caso a SLC ocorra após a perfusão:
+oxigenoterapia de
+• Tratar os sintomas
+baixo fluxo por cânula
+• Administrar corticosteroides3
+nasal ou método blow• Considerar a utilização de tocilizumab4
+by
+Em caso de Grau 2: Utilização de tocilizumab
+Não exceder 3 doses de tocilizumab no espaço de 6 semanas.
+
+Próxima perfusão
+prevista de Columvi
+• Garantir que a
+resolução dos sintomas
+ocorreu, pelo menos, 72
+horas antes da perfusão
+seguinte
+• Considerar utilizar uma
+velocidade de perfusão
+inferior2
+
+• Garantir que a
+
+resolução dos sintomas
+ocorreu, pelo menos, 72
+horas antes da perfusão
+seguinte
+• Considerar utilizar uma
+velocidade de perfusão
+inferior2
+• Monitorizar os doentes
+após a perfusão5, 6
+
+Se tocilizumab ainda não tiver sido utilizado ou se tiver sido utilizada uma dose de tocilizumab nas
+últimas 6 semanas:
+• Administrar uma primeira dose de tocilizumab4
+• Se não se verificar melhoria após 8 horas, administrar uma segunda dose de tocilizumab4
+• Após duas doses de tocilizumab, considerar a utilização de uma terapêutica anticitocinas
+alternativa e/ou uma terapêutica imunossupressora alternativa
+Se tiverem sido utilizadas duas doses de tocilizumab nas últimas 6 semanas:
+• Administrar apenas uma dose de tocilizumab4
+• Se não se verificar melhoria após 8 horas, considerar a utilização de uma terapêutica anticitocinas
+alternativa e/ou uma terapêutica imunossupressora alternativa
+
+5
+
+Grau1
+
+Gestão da SLC
+
+Caso a SLC ocorra durante a perfusão:
+Grau 3
+• Descontinuar a perfusão em curso e tratar
+Febre ≥38 °C e/ou
+os sintomas
+hipotensão com
+• Administrar corticosteroides3
+necessidade de
+• Administrar tocilizumab4
+vasoconstritor (com ou
+sem vasopressina) e/ou Caso a SLC ocorra após a perfusão:
+hipoxia que requeira
+• Tratar os sintomas
+oxigenoterapia de alto
+• Administrar corticosteroides3
+fluxo por cânula nasal,
+• Administrar tocilizumab4
+máscara facial,
+máscara de não
+reinalação ou máscara
+de Venturi
+
+Grau 4
+Febre ≥38 °C e/ou
+hipotensão com
+necessidade de vários
+vasoconstritores
+(excluindo
+vasopressina) e/ou
+hipoxia que requeira
+oxigenoterapia com
+ventilação por pressão
+positiva (p. ex. CPAP,
+BiPAP, intubação e
+ventilação mecânica)
+
+Próxima perfusão
+prevista de Columvi
+• Garantir que a
+resolução dos sintomas
+ocorreu, pelo menos, 72
+horas antes da perfusão
+seguinte
+• Considerar utilizar uma
+velocidade de perfusão
+inferior2
+• Monitorizar os doentes
+após a perfusão5, 6
+• Em caso de recorrência
+de SLC de Grau ≥ 3
+numa perfusão
+subsequente, parar
+imediatamente a
+perfusão e descontinuar
+permanentemente
+Columvi
+
+Caso a SLC ocorra durante ou após a perfusão:
+• Descontinuar permanentemente Columvi e tratar os sintomas
+• Administrar corticosteroides3
+• Administrar tocilizumab4
+
+6
+
+Grau1
+
+Gestão da SLC
+
+Próxima perfusão
+prevista de Columvi
+
+Em caso de Grau 3 e Grau 4: Utilização de tocilizumab
+Não exceder 3 doses de tocilizumab no espaço de 6 semanas.
+Se tocilizumab ainda não tiver sido utilizado ou se tiver sido utilizada uma dose de tocilizumab nas
+últimas 6 semanas:
+• Administrar uma primeira dose de tocilizumab4
+• Se não se verificar melhoria após 8 horas ou ocorrer uma rápida progressão da SLC, administrar
+uma segunda dose de tocilizumab4
+• Após duas doses de tocilizumab, considerar a utilização de uma terapêutica anticitocinas
+alternativa e/ou uma terapêutica imunossupressora alternativa
+Se tiverem sido utilizadas duas doses de tocilizumab nas últimas 6 semanas:
+• Administrar apenas uma dose de tocilizumab4
+• Se não se verificar melhoria após 8 horas ou ocorrer uma rápida progressão da SLC, considerar a
+utilização de uma terapêutica anticitocinas alternativa e/ou uma terapêutica imunossupressora
+alternativa
+1
+
+Critérios de classificação da ASTCT (Lee 2019).
+A duração da perfusão pode ser estendida até 8 horas, conforme apropriado para o ciclo em questão (ver
+Tabela 2).
+3
+Corticosteroides (p. ex. 10 mg de dexametasona intravenosa, 100 mg de prednisolona intravenosa, 1-2 mg/kg
+de metilprednisolona intravenosa por dia ou equivalente).
+4
+Tocilizumab 8 mg/kg intravenoso (sem exceder 800 mg), como administrado no estudo NP30179.
+5
+No estudo NP30179, ocorreu SLC de Grau ≥ 2 após a administração de 10 mg de Columvi no Ciclo 1, Dia 15
+em 5,2% dos doentes, com uma mediana do tempo até ao aparecimento de 26,2 horas desde o início da
+perfusão (intervalo: 6,7 a 144,2 horas).
+6
+No estudo NP30179, ocorreu SLC de Grau ≥ 2 após a administração de 30 mg de Columvi no Ciclo 2, Dia 1
+num doente (0,8%), com um tempo até ao aparecimento de 15,0 horas desde o início da perfusão.
+2
+
+Populações especiais
+Idosos
+Não é necessário ajuste posológico em doentes com idade igual ou superior a 65 anos (ver secção 5.2).
+Compromisso hepático
+Não é necessário ajuste posológico em doentes com compromisso hepático ligeiro (bilirrubina
+total > limite superior do normal [LSN] a ≤ 1,5 × LSN ou aspartato transaminase [AST] > LSN).
+Columvi não foi estudado em doentes com compromisso hepático moderado ou grave (ver secção 5.2).
+Compromisso renal
+Não é necessário ajuste da dose em doentes com compromisso renal ligeiro ou moderado (ClCr 30 a
+< 90 ml/min). Columvi não foi estudado em doentes com compromisso renal grave (ver secção 5.2).
+População pediátrica
+A segurança e eficácia de Columvi em crianças com menos de 18 anos de idade não foram
+estabelecidas. Não existem dados disponíveis.
+Modo de administração
+Columvi destina-se apenas a utilização por via intravenosa.
+Columvi tem de ser diluído por um profissional de saúde, utilizando técnica asséptica, antes da
+administração intravenosa. Tem de ser administrado na forma de uma perfusão intravenosa através de
+um sistema de perfusão individualizado.
+Columvi não pode ser administrado por injeção intravenosa rápida ou bólus.
+7
+
+Para instruções acerca da diluição do medicamento antes da administração, ver secção 6.6.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa, ao obinutuzumab, ou a qualquer um dos excipientes
+mencionados na secção 6.1.
+Consultar as contraindicações específicas de obinutuzumab na informação de prescrição do
+obinutuzumab.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+Doença CD20- negativa
+Os dados disponíveis sobre doentes com LDGCB CD20-negativo tratados com Columvi são limitados
+e é possível que os doentes com LDGCB CD20-negativo possam ter um benefício inferior em
+comparação com os doentes com LDGCB CD20-positivo. Devem ser considerados os potenciais
+riscos e benefícios associados ao tratamento de doentes com LDGCB CD20-negativo com Columvi.
+Síndrome de libertação de citocinas
+Foi notificada SLC, incluindo reações que colocaram a vida em risco, em doentes a receber Columvi
+(ver secção 4.8).
+As manifestações mais frequentes de SLC foram pirexia, taquicardia, hipotensão, arrepios e hipoxia.
+As reações relacionadas com a perfusão podem ser clinicamente indistinguíveis das manifestações de
+SLC.
+A maioria dos acontecimentos de SLC ocorreram após a primeira administração de Columvi. Foram
+notificadas elevações nos testes da função hepática (AST e alanina transaminase [ALT] > 3 × LSN
+e/ou bilirrubina total > 2 × LSN) concomitantemente com SLC após a utilização de Columvi (ver
+secção 4.8).
+Os doentes no estudo NP30179 foram pré-tratados com obinutuzumab, 7 dias antes do início do
+tratamento com Columvi, e os doentes deverão ser pré-medicados com um antipirético, um
+anti-histamínico e um glucocorticoide (ver secção 4.2).
+Deve estar disponível, pelo menos, uma dose de tocilizumab para utilização em caso de SLC antes da
+perfusão de Columvi nos Ciclos 1 e 2. Tem de estar assegurado o acesso a uma dose adicional de
+tocilizumab no período de 8 horas após a utilização da dose anterior de tocilizumab.
+Os doentes têm de ser monitorizados durante todas as perfusões de Columvi e durante, pelo menos, 10
+horas após a conclusão da primeira perfusão. Consulte as informações completas relativas à
+monitorização na secção 4.2. Os doentes têm de ser aconselhados a procurar assistência médica
+imediata em caso de aparecimento, em qualquer altura, de sinais ou sintomas de SLC (ver Cartão do
+doente, em seguida).
+Os doentes devem ser avaliados quanto a outras causas de febre, hipoxia e hipotensão, tais como
+infeções ou sépsis. A SLC deve ser gerida com base na apresentação clínica do doente e segundo as
+recomendações para a gestão da SLC fornecidas na Tabela 3 (ver secção 4.2).
+
+8
+
+Cartão do doente
+O médico prescritor tem de informar o doente sobre o risco de SLC e os sinais e sintomas de SLC. Os
+doentes têm de ser advertidos para procurar assistência médica imediata se tiverem sinais e sintomas
+de SLC. O cartão do doente deve ser entregue aos doentes e estes devem ser instruídos a trazê-lo
+sempre consigo. Este cartão descreve os sintomas da SLC que, caso ocorram, devem incentivar o
+doente a procurar assistência médica imediata.
+Interação com substratos do CYP450
+A libertação inicial de citocinas associada ao início do tratamento com Columvi poderá suprimir as
+enzimas CYP450 e levar a flutuações na concentração de fármacos administrados concomitantemente.
+No início da terapêutica com Columvi, os doentes em tratamento com substratos do CYP450 com um
+índice terapêutico estreito devem ser monitorizados, uma vez que as flutuações na concentração de
+fármacos concomitantes podem conduzir a toxicidade, perda de efeito ou acontecimentos adversos
+(ver secção 4.5).
+Infeções graves
+Ocorreram infeções graves (tais como sépsis e pneumonia) em doentes tratados com Columvi (ver
+secção 4.8).
+Columvi não pode ser administrado em doentes com uma infeção ativa. Deve ter-se precaução ao
+ponderar a utilização de Columvi em doentes com antecedentes de infeção recorrente ou crónica, com
+patologias subjacentes que os possam predispor a infeções ou que tenham feito previamente um
+tratamento imunossupressor significativo. Os doentes devem ser monitorizados antes e durante o
+tratamento com Columvi quanto ao aparecimento de possíveis infeções bacterianas, infeções fúngicas
+e infeções virais novas ou reativações de infeções virais, e tratados conforme apropriado.
+Columvi deve ser temporariamente suspenso na presença de uma infeção ativa até a infeção estar
+resolvida. Os doentes devem ser advertidos para procurar assistência médica se surgirem sinais ou
+sintomas sugestivos de uma infeção.
+Foi notificada neutropenia febril durante o tratamento com Columvi. Os doentes com neutropenia
+febril devem ser avaliados quanto à presença de infeção e tratados atempadamente.
+Exacerbação tumoral
+Foi notificada exacerbação tumoral em doentes a receber Columvi (ver secção 4.8). As manifestações
+incluíram dor e inchaço localizados.
+De acordo com o mecanismo de ação de Columvi, é provável que a exacerbação tumoral se deva à
+concentração de células T nos locais do tumor após a administração de Columvi, podendo mimetizar
+progressão da doença. A exacerbação tumoral não pressupõe uma falência do tratamento nem
+representa progressão tumoral.
+Não foram identificados fatores de risco específicos de exacerbação tumoral, no entanto, existe um
+risco aumentado de compromisso e morbilidade devido ao efeito de massa secundário à exacerbação
+tumoral em doentes com tumores volumosos localizados nas proximidades das vias respiratórias e/ou
+de um órgão vital. Recomenda-se a monitorização e avaliação da presença de exacerbação tumoral em
+regiões anatómicas críticas em doentes tratados com Columvi, devendo ser tratada conforme indicação
+clínica. Devem considerar-se corticosteroides e analgésicos para o tratamento da exacerbação tumoral.
+
+9
+
+Síndrome de lise tumoral
+Foi notificada síndrome de lise tumoral (SLT) em doentes a receber Columvi (ver secção 4.8). Os
+doentes com elevada carga tumoral, tumores de rápida proliferação, insuficiência renal ou desidratação
+têm maior risco de síndrome de lise tumoral.
+Os doentes em risco devem ser monitorizados atentamente quanto ao seu estado eletrolítico,
+hidratação e função renal através de testes laboratoriais e clínicos apropriados. Deve considerar-se a
+tomada de medidas profiláticas apropriadas com anti-hiperuricémicos (p. ex. alopurinol ou
+rasburicase) e hidratação adequada antes do pré-tratamento com obinutuzumab e antes da perfusão de
+Columvi.
+A gestão da SLT pode incluir hidratação agressiva, correção de alterações eletrolíticas, terapêutica
+anti-hiperuricémica e cuidados de suporte.
+Imunização
+A segurança da imunização com vacinas vivas durante ou após o tratamento com Columvi não foi
+estudada. Não se recomenda a imunização com vacinas vivas durante o tratamento com Columvi.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Não foram realizados estudos de interação. Não são esperadas interações com Columvi através das
+enzimas do citocromo P450, outras enzimas metabolizadoras ou transportadores.
+A libertação inicial de citocinas associada ao início do tratamento com Columvi poderá suprimir as
+enzimas do CYP450. O risco de interações medicamentosas é mais elevado durante o período de uma
+semana após cada uma das primeiras duas doses de Columvi (i.e., Ciclo 1, Dia 8 e 15) em doentes que
+estejam a receber concomitantemente substratos do CYP450 com índice terapêutico estreito (p. ex.
+varfarina, ciclosporina). Aquando do início do tratamento com Columvi, os doentes tratados com
+substratos do CYP450 com índice terapêutico estreito devem ser monitorizados.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar/Contraceção
+As doentes com potencial para engravidar têm de utilizar métodos contracetivos altamente eficazes
+durante o tratamento com Columvi e durante, pelo menos, 2 meses após a última dose de Columvi.
+Gravidez
+Não existem dados sobre a utilização de Columvi em mulheres grávidas. Não foram feitos estudos de
+toxicidade reprodutiva em animais (ver secção 5.3).
+O glofitamab é uma imunoglobulina G (IgG). Sabe-se que as IgG atravessam a placenta. Tendo em
+conta o seu mecanismo de ação, é provável que o glofitamab provoque depleção das células B fetais
+quando administrado a uma mulher grávida.
+Columvi não é recomendado durante a gravidez e em mulheres com potencial para engravidar que não
+utilizam métodos contracetivos. As doentes que estejam a receber Columvi devem ser alertadas quanto
+ao potencial dano no feto. As doentes devem ser aconselhadas a contactar o médico assistente em caso
+de gravidez.
+Amamentação
+Desconhece-se se o glofitamab é excretado no leite humano. Não foram realizados estudos para
+avaliar o impacto do glofitamab na produção de leite ou a sua presença no leite materno. Sabe-se que a
+10
+
+IgG humana está presente no leite humano. Desconhece-se o potencial de absorção do glofitamab e o
+potencial de reações adversas no lactente. As mulheres devem ser aconselhadas a interromper a
+amamentação durante o tratamento com Columvi e durante 2 meses após a última dose de Columvi.
+Fertilidade
+Não estão disponíveis dados sobre a fertilidade no ser humano. Não foram feitas avaliações da
+fertilidade em animais para avaliar o efeito do glofitamab na fertilidade (ver secção 5.3).
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Columvi sobre a capacidade de conduzir e utilizar máquinas são reduzidos. Os doentes
+que tenham sintomas acontecimentos adversos neurológicos e/ou SLC (pirexia, taquicardia,
+hipotensão, arrepios, hipoxia) devem ser aconselhados a não conduzir nem utilizar máquinas até à
+resolução dos sintomas (ver secções 4.4 e 4.8).
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas mais frequentes (≥ 20%) foram síndrome de libertação de citocinas, neutropenia,
+anemia, trombocitopenia e erupção cutânea.
+As reações adversas graves mais frequentes notificadas em ≥ 2% dos doentes foram síndrome de
+libertação de citocinas (22,1%), sépsis (4,1%), COVID-19 (3,4%), exacerbação tumoral (3,4%),
+pneumonia por COVID-19 (2,8%), neutropenia febril (2,1%), neutropenia (2,1%) e derrame pleural
+(2,1%).
+Ocorreu descontinuação permanente de Columvi por motivos de reação adversa em 5,5% dos doentes.
+As reações adversas mais frequentes conducentes à descontinuação permanente de Columvi foram
+COVID-19 (1,4%) e neutropenia (1,4%).
+Lista tabelada de reações adversas
+As reações adversas que ocorreram em doentes com LDGCB recidivante ou refratário tratados com
+Columvi em monoterapia (n=145) no estudo NP30179 são apresentadas na Tabela 4. Os doentes
+receberam uma mediana de 5 ciclos de tratamento com Columvi (intervalo: 1 a 13 ciclos).
+As reações adversas encontram-se listadas por classe de sistemas de órgãos MedDRA e por categorias
+de frequência. Utilizaram-se as seguintes categorias de frequência: muito frequentes (≥ 1/10),
+frequentes (≥ 1/100 a < 1/10), pouco frequentes (≥ 1/1 000 a < 1/100), raras (≥ 1/10 000 a < 1/1 000),
+muito raras (< 1/10 000). Dentro de cada classe de frequência, as reações adversas são apresentadas
+por ordem decrescente de gravidade.
+
+11
+
+Tabela 4. Reações adversas notificadas em doentes com LDGCB recidivante ou refratário
+tratados com Columvi em monoterapia
+Classe de sistemas
+de órgãos
+
+Reação adversa
+
+Todos os graus
+
+Grau 3−4
+
+Muito frequentes
+Frequentes
+
+Frequentes*
+Frequentes
+
+Frequentes
+
+Muito raras**
+
+Infeções e
+infestações
+
+Infeções virais1
+Infeções bacterianas2
+Infeções das vias
+respiratórias superiores3
+Sépsis4
+Infeções das vias
+respiratórias inferiores5
+Pneumonia
+Infeção do trato urinário6
+Infeções fúngicas7
+
+Frequentes
+
+Frequentes*
+
+Frequentes
+
+Muito raras**
+
+Frequentes
+Frequentes
+Frequentes
+
+Pouco frequentes
+Pouco frequentes
+Muito raras**
+
+Muito frequentes
+
+Frequentes
+
+Muito frequentes
+Muito frequentes
+Muito frequentes
+Frequentes
+Frequentes
+
+Muito frequentes
+Frequentes
+Frequentes
+Frequentes
+Frequentes
+
+Muito frequentes
+
+Frequentes
+
+Muito frequentes
+Muito frequentes
+Muito frequentes
+Muito frequentes
+Frequentes
+Frequentes
+
+Frequentes
+Muito raras**
+Muito raras**
+Pouco frequentes
+Frequentes
+Frequentes
+
+Frequentes
+
+Muito raras**
+
+Muito frequentes
+Frequentes
+Frequentes
+Pouco frequentes
+Muito frequentes
+Muito frequentes
+Muito frequentes
+Frequentes
+Frequentes
+
+Muito raras**
+Pouco frequentes
+Muito raras**
+Pouco frequentes
+Muito raras**
+Muito raras**
+Muito raras**
+Frequentes
+Muito raras**
+
+Muito frequentes
+
+Frequentes
+
+Muito frequentes
+
+Muito raras**
+
+Neoplasias
+benignas, malignas
+e não especificadas Exacerbação tumoral
+(incl. quistos e
+pólipos)
+Neutropenia
+Doenças do sangue Anemia
+Trombocitopenia
+e do sistema
+linfático
+Linfopenia
+Neutropenia febril8
+Doenças do sistema Síndrome de libertação de
+citocinas9
+imunitário
+Hipofosfatemia
+Hipomagnesemia
+Doenças do
+Hipocalcemia
+metabolismo e da
+Hipocaliemia
+nutrição
+Hiponatremia
+Síndrome de lise tumoral
+Perturbações do
+Estado confusional
+foro psiquiátrico
+Cefaleia
+Doenças do sistema Sonolência
+nervoso
+Tremor
+Mielite10
+Obstipação
+Diarreia
+Doenças
+Náuseas
+gastrointestinais
+Hemorragia gastrointestinal11
+Vómitos
+Afeções dos tecidos
+Erupção cutânea12
+cutâneos e
+subcutâneos
+Perturbações
+gerais e alterações
+Pirexia
+no local de
+administração
+
+12
+
+Classe de sistemas
+de órgãos
+
+Reação adversa
+
+Aumento da alanina
+aminotransferase
+Aumento da aspartato
+aminotransferase
+Aumento da fosfatase
+Exames
+alcalina no sangue
+complementares de
+Aumento da gamadiagnóstico
+glutamiltransferase
+Aumento da bilirrubina no
+sangue
+Aumento das enzimas
+hepáticas
+
+Todos os graus
+
+Grau 3−4
+
+Frequentes
+
+Frequentes
+
+Frequentes
+
+Frequentes
+
+Frequentes
+
+Frequentes
+
+Frequentes
+
+Frequentes
+
+Frequentes
+
+Pouco frequentes
+
+Frequentes
+
+Frequentes
+
+* Foram notificadas reações de Grau 5. Ver infeções graves na secção Descrição de reações adversas
+selecionadas.
+** Não foram notificados acontecimentos de Grau 3-4.
+1
+Inclui COVID-19, pneumonia por COVID-19, herpes zóster, gripe e herpes zóster oftálmico.
+2
+Inclui infeção do dispositivo de acesso vascular, infeção bacteriana, infeção por Campylobacter, infeção
+bacteriana do trato biliar, infeção bacteriana do trato urinário, infeção por Clostridium difficile, infeção por
+Escherichia e peritonite.
+3
+Inclui infeção das vias respiratórias superiores, sinusite, nasofaringite, sinusite crónica e rinite.
+4
+Inclui sépsis e choque séptico.
+5
+Inclui infeção das vias respiratórias inferiores e bronquite.
+6
+Inclui infeção do trato urinário e infeção do trato urinário por Escherichia.
+7
+Inclui candidíase esofágica e candidíase oral.
+8
+Inclui neutropenia febril e infeção neutropénica.
+9
+Com base nos critérios de classificação da ASTCT (Lee 2019).
+10
+A mielite ocorreu concomitantemente com a SLC.
+11
+Inclui hemorragia gastrointestinal, hemorragia do intestino grosso e hemorragia gástrica.
+12
+Inclui erupção cutânea, erupção cutânea pruriginosa, erupção cutânea maculopapular, dermatite, dermatite
+acneiforme, dermatite esfoliativa, eritema, eritema palmar, prurido e erupção cutânea eritematosa.
+
+Descrição de reações adversas selecionadas
+Síndrome de libertação de citocinas
+No estudo NP30179, ocorreu SLC de qualquer grau (segundo os critérios da ASTCT) em 67,6% dos
+doentes, tendo ocorrido SLC de Grau 1 em 50,3% dos doentes, SLC de Grau 2 em 13,1% dos doentes,
+SLC de Grau 3 em 2,8% dos doentes e SLC de Grau 4 em 1,4% dos doentes. A SLC ocorreu mais de
+uma vez em 32,4% (47/145) dos doentes; 36/47 doentes tiveram apenas acontecimentos múltiplos de
+SLC de Grau 1. Não houve casos fatais de SLC. A SLC teve resolução em todos os doentes, exceto
+um. Um doente descontinuou o tratamento devido à SLC.
+Em doentes com SLC, as manifestações mais frequentes de SLC incluíram pirexia (99,0%),
+taquicardia (25,5%), hipotensão (23,5%), arrepios (14,3%) e hipoxia (12,2%). Os acontecimentos de
+Grau 3 ou superior associados à SLC incluíram hipotensão (3,1%), hipoxia (3,1%), pirexia (2,0%) e
+taquicardia (2,0%).
+Ocorreu SLC de qualquer grau em 54,5% dos doentes após a primeira dose de 2,5 mg de Columvi no
+Ciclo 1, Dia 8, com uma mediana do tempo até ao aparecimento (desde o início da perfusão) de
+12,6 horas (intervalo: 5,2 a 50,8 horas) e uma mediana da duração de 31,8 horas (intervalo: 0,5 a
+316,7 horas); em 33,3% dos doentes após a dose de 10 mg no Ciclo 1, Dia 15, com uma mediana do
+tempo até ao aparecimento de 26,8 horas (intervalo: 6,7 a 125,0 horas) e uma mediana da duração de
+16,5 horas (intervalo: 0,3 a 109,2 horas); e em 26,8% dos doentes após a dose de 30 mg no Ciclo 2,
+com uma mediana do tempo até ao aparecimento de 28,2 horas (intervalo: 15,0 a 44,2 horas) e uma
+13
+
+mediana da duração de 18,9 horas (intervalo: 1,0 a 180,5 horas). Foi notificada SLC em 0,9% dos
+doentes no Ciclo 3 e em 2% dos doentes após o Ciclo 3.
+Ocorreu SLC de Grau ≥ 2 em 12,4% dos doentes após a primeira dose de Columvi (2,5 mg), com uma
+mediana do tempo até ao aparecimento de 9,7 horas (intervalo: 5,2 a 19,1 horas) e uma mediana da
+duração de 50,4 horas (intervalo: 6,5 a 316,7 horas). Após a dose de 10 mg de Columvi no Ciclo 1,
+Dia 15, a incidência de SLC de Grau ≥ 2 diminuiu para 5,2% dos doentes, com uma mediana do tempo
+até ao aparecimento de 26,2 horas (intervalo: 6,7 a 144,2 horas) e uma mediana da duração de 30,9
+horas (intervalo: 3,7 a 227,2 horas). Ocorreu SLC de Grau ≥ 2 após a dose de 30 mg de Columvi no
+Ciclo 2, Dia 1 em um doente (0,8%) com um tempo até ao aparecimento de 15,0 horas e duração de
+44,8 horas. Não foi notificada SLC de Grau ≥ 2 após o Ciclo 2.
+Em 145 doentes, 7 (4,8%) tiveram elevações nos testes da função hepática (AST e ALT > 3 × LSN
+e/ou bilirrubina total > 2 × LSN) notificadas concomitantemente com SLC (n=6) ou com progressão
+da doença (n=1).
+Dos 25 doentes que tiveram SLC de Grau ≥ 2 após Columvi, 22 (88,0%) receberam tocilizumab, 15
+(60,0%) receberam corticosteroides e 14 (56,0%) receberam tocilizumab e corticosteroides. Dez
+doentes (40,0%) receberam oxigénio. Os 6 doentes (24,0%) com SLC de Grau 3 ou 4 receberam um só
+vasoconstritor.
+Ocorreram hospitalizações devido a doentes apresentarem SLC após administração de Columvi em
+22,1% dos doentes e a mediana da duração da hospitalização notificada foi de 4 dias (intervalo: 2 a 15
+dias).
+Infeções graves
+No estudo NP30179, foram notificadas infeções graves em 15,9% dos doentes. As infeções graves
+mais frequentes notificadas em ≥ 2% dos doentes foram sépsis (4,1%), COVID-19 (3,4%) e
+pneumonia por COVID-19 (2,8%). Foram notificadas mortes relacionadas com infeções em 4,8% dos
+doentes (devido a sépsis, pneumonia por COVID-19 e COVID-19). Quatro doentes (2,8%) tiveram
+infeções graves concomitantemente com neutropenia de Grau 3 ou 4.
+Neutropenia
+Foi notificada neutropenia (incluindo diminuição da contagem de neutrófilos) em 40,0% dos doentes e
+neutropenia grave (de Grau 3 ou 4) em 29,0% dos doentes. A mediana do tempo até ao aparecimento
+do primeiro acontecimento de neutropenia foi de 29 dias (intervalo: 1 a 203 dias). Ocorreu neutropenia
+prolongada (com duração superior a 30 dias) em 11,7% dos doentes. A maioria dos doentes com
+neutropenia (79,3%) foram tratados com G-CSF. Foi notificada neutropenia febril em 3,4% dos
+doentes.
+Exacerbação tumoral
+Foi notificada exacerbação tumoral em 11,7% dos doentes, incluindo exacerbação tumoral de Grau 2
+em 4,8% dos doentes e exacerbação tumoral de Grau 3 em 2,8% dos doentes. Foi notificada
+exacerbação tumoral com envolvimento dos gânglios linfáticos da cabeça e do pescoço com dor e com
+envolvimento dos gânglios linfáticos torácicos com sintomas de falta de ar devido ao desenvolvimento
+de derrame pleural. A maioria dos acontecimentos de exacerbação tumoral (16/17) ocorreram durante
+o Ciclo 1, não tendo sido notificados acontecimentos de exacerbação tumoral após o Ciclo 2. A
+mediana do tempo até ao aparecimento de exacerbação tumoral de qualquer grau foi de 2 dias
+(intervalo: 1 a 16 dias) e a mediana da duração foi de 3,5 dias (intervalo: 1 a 35 dias).
+Dos 11 doentes que tiveram exacerbação tumoral de Grau ≥ 2, 2 doentes (18,2%) receberam
+analgésicos, 6 doentes (54,5%) receberam corticosteroides e analgésicos, incluindo derivados da
+morfina, 1 doente (9,1%) recebeu corticosteroides e antieméticos e 2 doentes (18,2%) não
+necessitaram de tratamento. Todos os acontecimentos de exacerbação tumoral tiveram resolução,
+exceto no caso de um doente com um acontecimento de Grau ≥ 2. Nenhum doente descontinuou o
+tratamento devido à exacerbação tumoral.
+14
+
+Síndrome de lise tumoral
+Foi notificada SLT em 2 doentes (1,4%), com severidade de Grau 3 em ambos os casos. A mediana do
+tempo até ao aparecimento de SLT foi de 2 dias e a mediana da duração foi de 4 dias (intervalo: 3 a 5
+dias).
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Não existe experiência de sobredosagem em ensaios clínicos. Em caso de sobredosagem, os doentes
+devem ser cuidadosamente monitorizados quanto a sinais e sintomas de reações adversas, devendo ser
+instituído tratamento sintomático adequado.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: agentes antineoplásicos; outros anticorpos monoclonais e conjugados
+anticorpo-fármaco, código ATC: L01FX28
+Mecanismo de ação
+O glofitamab é um anticorpo monoclonal biespecífico que se liga de forma bivalente ao CD20
+presente na superfície das células B e de forma monovalente ao CD3 no complexo de recetores de
+células T, presente na superfície das células T. Ao ligar-se simultaneamente ao CD20 na célula B e ao
+CD3 na célula T, o glofitamab medeia a formação de uma sinapse imunológica com subsequente
+ativação e proliferação das células T, secreção de citocinas e libertação de proteínas citolíticas,
+conduzindo à lise de células B que expressam CD20.
+Efeitos farmacodinâmicos
+No estudo NP30179, 84% dos doentes (84/100) já tinham depleção de células B (< 70 células/µl) antes
+do pré-tratamento com obinutuzumab. A depleção de células B aumentou para 100% (94/94) após o
+pré-tratamento com obinutuzumab, antes do início do tratamento com Columvi, e a contagem de
+células B manteve-se baixa durante o tratamento com Columvi.
+Durante o Ciclo 1 (aumento gradual da dose), aumentos transitórios nos valores plasmáticos de IL-6
+foram observados 6 horas após a perfusão de Columvi, os quais se mantiveram elevados 20 horas após
+a perfusão e regressaram aos valores basais antes da perfusão seguinte.
+Eletrofisiologia cardíaca
+No estudo NP30179, 16/145 doentes expostos a glofitamab apresentaram valores de QTc pós- baseline
+> 450 ms. Um destes casos foi avaliado pelo investigador como tendo significância clínica. Nenhum
+doente descontinuou o tratamento devido ao prolongamento do QTc.
+Eficácia e segurança clínicas
+LDGCB recidivante ou refratário
+Realizou-se um estudo aberto, multicêntrico e de coortes múltiplas (NP30179) para avaliação de
+Columvi em doentes com linfoma não Hodgkin de células B recidivante ou refratário. Na coorte de
+15
+
+LDGCB (n=108) de braço único em monoterapia, os doentes com LDGCB recidivante ou refratário
+tinham de ter recebido, pelo menos, duas linhas de tratamento sistémico anteriores, incluindo um
+anticorpo monoclonal anti-CD20 e uma antraciclina. Não eram elegíveis doentes com LF de Grau 3b e
+transformação de Richter. Era esperado que os doentes apresentassem LDGCB CD20-positivo, mas a
+elegibilidade do biomarcador não era um requisito para inclusão (ver secção 4.4).
+O estudo excluiu doentes com performance status ECOG ≥ 2, doença cardiovascular significativa
+(como doença cardíaca de Classe III ou IV segundo a New York Heart Association, enfarte do
+miocárdio nos 6 meses anteriores, arritmias instáveis ou angina instável), doença pulmonar ativa
+significativa, compromisso da função renal (ClCr < 50 ml/min com níveis elevados de creatinina
+sérica), doença autoimune ativa que requeira terapêutica imunossupressora, infeções ativas (i.e.,
+infeção ativa crónica por VEB, hepatite C aguda ou crónica, hepatite B, VIH), leucoencefalopatia
+multifocal progressiva, presença atual ou antecedentes de linfoma do SNC ou doença no SNC,
+antecedentes de síndrome de ativação macrofágica / linfohistiocitose hemofagocítica, transplante
+alogénico de células estaminais prévio, transplante de órgão prévio ou transaminases hepáticas ≥ 3 ×
+LSN.
+Todos os doentes receberam pré-tratamento com obinutuzumab no Dia 1 do Ciclo 1. Os doentes
+receberam 2,5 mg de Columvi no Dia 8 do Ciclo 1, 10 mg de Columvi no Dia 15 do Ciclo 1, e 30 mg
+de Columvi no Dia 1 do Ciclo 2, de acordo com o regime de aumento gradual da dose. Os doentes
+continuaram a receber 30 mg de Columvi no Dia 1 dos Ciclos 3 a 12. A duração de cada ciclo foi de
+21 dias. Os doentes receberam uma mediana de 5 ciclos de tratamento com Columvi (intervalo: 1 a
+13 ciclos), sendo que 34,7% receberam 8 ou mais ciclos e 25,7% receberam 12 ciclos de tratamento
+com Columvi.
+As características demográficas e da doença iniciais foram: mediana da idade de 66 anos (intervalo: 21
+a 90 anos), sendo que 53,7% tinham 65 anos ou mais e 15,7% tinham 75 anos ou mais; 69,4% eram do
+sexo masculino; 74,1% eram caucasianos, 5,6% eram asiáticos e 0,9% eram negros ou
+afroamericanos; 5,6% eram hispânicos ou latinoamericanos; e o performance status ECOG era de 0
+(46,3%) ou 1 (52,8%). A maioria dos doentes (71,3%) tinham LDGCB sem outras especificações,
+7,4% tinham LDGCB resultante da transformação de linfoma folicular, 8,3% tinham linfoma de
+células B de alto grau (LCBAG) ou outra histologia resultante da transformação de linfoma folicular,
+7,4% tinham LCBAG e 5,6% tinham linfoma de células B primário do mediastino (LCBPM ). A
+mediana do número de linhas de tratamento anteriores foi de 3 (intervalo: 2 a 7), sendo que 39,8% dos
+doentes tinham recebido 2 linhas anteriores e 60,2% tinham recebido 3 ou mais linhas de tratamento
+anteriores. Todos os doentes tinham recebido quimioterapia prévia (todos os doentes tinham recebido
+um agente alquilante e 98,1% dos doentes tinham recebido terapêutica com antraciclinas) e todos os
+doentes tinham recebido terapêutica prévia com anticorpo monoclonal anti-CD20; 35,2% dos doentes
+tinham recebido terapêutica CAR-T prévia e 16,7% dos doentes tinham recebido um transplante
+autólogo de células estaminais. A maioria dos doentes (89,8%) tinham doença refratária, 60,2% dos
+doentes tinham doença refratária primária e 83,3% dos doentes eram refratários à sua última
+terapêutica prévia.
+O objetivo principal de eficácia foi a taxa de resposta completa (CR) avaliada por um comité de
+revisão independente (CRI), utilizando os critérios de Lugano de 2014. A mediana global da duração
+do seguimento foi de 15 meses (intervalo: 0 a 21 meses). Os objetivos secundários de eficácia
+incluíram a taxa de resposta global (ORR), duração de resposta (DOR), duração da resposta completa
+(DOCR) e tempo até à primeira resposta completa (TFCR), conforme avaliado pelo CRI.
+Os resultados de eficácia estão resumidos na Tabela 5.
+
+16
+
+Tabela 5. Resumo da eficácia em doentes com LDGCB recidivante ou refratário
+Parâmetros de eficácia
+
+Columvi
+N=108
+
+Resposta completa
+Doentes com CR, n (%)
+IC 95%
+Taxa de resposta global
+Doentes com CR ou PR, n (%)
+IC 95%
+Duração da resposta completa1
+Mediana da DOCR, meses [IC 95%]
+Intervalo, meses
+DOCR a 12 meses, % [IC 95%]3
+Duração da resposta4
+Mediana da duração, meses [IC 95%]
+Intervalo, meses
+Tempo até à primeira resposta completa
+Mediana do TFCR, dias [IC 95%]
+Intervalo, dias
+
+38 (35,2)
+[26,24; 44,96]
+54 (50,0)
+[40,22; 59,78]
+NE [18,4; NE]
+02−202
+74,6 [59,19; 89,93]
+14,4 [8,6; NE]
+02−202
+42 [41; 47]
+31–308
+
+IC = intervalo de confiança; NE = não estimável; PR = resposta parcial.
+Foi feito um teste de hipóteses ao objetivo primário, a taxa de CR avaliada pelo CRI.
+1
+A DOCR define-se como o tempo que decorre entre a primeira resposta completa e progressão da doença ou
+morte por qualquer causa.
+2
+Observações censuradas.
+3
+Taxas livres de acontecimento, com base em estimativas de Kaplan-Meier.
+4
+A DOR define-se como o tempo que decorre entre a primeira resposta (RP ou RC) e progressão da doença ou
+morte por qualquer causa.
+
+A mediana do seguimento para a DOR foi de 12,8 meses (intervalo: 0 a 20 meses).
+Imunogenicidade
+Dos 418 doentes no estudo NP30179, apenas dois doentes (0,5%) tinham um resultado basal negativo
+para anticorpos anti-glofitamab e passaram a ter um resultado positivo após o tratamento. Devido ao
+número reduzido de doentes com anticorpos contra o glofitamab, não é possível tirar conclusões
+relativamente a um eventual efeito da imunogenicidade na eficácia ou na segurança.
+População pediátrica
+A Agência Europeia de Medicamentos diferiu a obrigação de apresentação dos resultados dos estudos
+com Columvi em um ou mais subgrupos da população pediátrica no tratamento das neoplasias de
+células B maduras (ver secção 4.2 para informação sobre utilização pediátrica).
+Autorização de Introdução no Mercado condicional
+Foi concedida a este medicamento uma «Autorização de Introdução no Mercado condicional».
+Isto significa que se aguarda evidência adicional sobre este medicamento.
+A Agência Europeia de Medicamentos procederá, pelo menos anualmente, à análise da nova
+informação sobre este medicamento e, se necessário, à atualização deste RCM.
+
+17
+
+5.2
+
+Propriedades farmacocinéticas
+
+As análises não compartimentais indicam que a concentração sérica de glofitamab atinge o valor
+máximo (Cmáx) no final da perfusão e diminui de forma biexponencial. O glofitamab apresenta uma
+farmacocinética linear e proporcional à dose ao longo do intervalo de doses estudado (0,005 a 30 mg)
+e é independente do tempo.
+Absorção
+Columvi é administrado na forma de uma perfusão intravenosa. A concentração máxima de glofitamab
+(Cmáx) foi atingida no final da perfusão.
+Distribuição
+Após a administração intravenosa, o volume de distribuição central foi de 3,33 l, um valor próximo do
+volume sérico total. O volume de distribuição periférico foi de 2,18 l.
+Biotransformação
+O metabolismo do glofitamab não foi estudado. Os anticorpos são degradados principalmente por
+catabolismo.
+Eliminação
+Os dados de concentração sérica-tempo de glofitamab são descritos por um modelo farmacocinético
+da população com dois compartimentos, com uma depuração independente do tempo e uma depuração
+variável com o tempo.
+A via de depuração independente do tempo foi estimada em 0,602 l/dia e a via de depuração variável
+com o tempo inicial foi estimada em 0,396 l/dia, com um decaimento exponencial ao longo do tempo
+(Kdes ~ 0,445/dia). A estimativa da semivida de decaimento do valor de depuração total inicial para a
+depuração independente do tempo isolada foi estimada em 1,56 dias.
+A semivida efetiva na fase linear (i.e., após a contribuição da depuração variável com o tempo ter
+diminuído para uma quantidade negligenciável) é de 6,54 dias (IC 95%: 3,74; 9,41), com base na
+análise farmacocinética da população.
+Populações especiais
+Idosos
+Não foram identificadas diferenças na exposição ao glofitamab entre doentes com idade igual ou
+superior a 65 anos e doentes com menos de 65 anos, com base na análise farmacocinética da
+população.
+Compromisso renal
+A análise farmacocinética da população de glofitamab demonstrou que a depuração da creatinina não
+afeta a farmacocinética do glofitamab. A farmacocinética do glofitamab em doentes com compromisso
+renal ligeiro ou moderado (ClCr 30 a < 90 ml/min) foi semelhante àquela observada em doentes com
+função renal normal. Columvi não foi estudado em doentes com compromisso renal grave.
+Compromisso hepático
+As análises farmacocinéticas da população demonstraram que o compromisso hepático ligeiro não
+afeta a farmacocinética do glofitamab. A farmacocinética do glofitamab em doentes com compromisso
+hepático ligeiro (bilirrubina total > LSN a ≤ 1,5 × LSN ou AST > LSN) foi semelhante àquela
+observada em doentes com função hepática normal. Columvi não foi estudado em doentes com
+compromisso hepático moderado ou grave.
+18
+
+Efeitos da idade, género e peso corporal
+Não foram observadas diferenças clinicamente significativas na farmacocinética do glofitamab com
+base na idade (21 anos a 90 anos), no género e no peso corporal (31 kg a 148 kg).
+5.3
+
+Dados de segurança pré-clínica
+
+Não foram realizados estudos para estabelecer o potencial carcinogénico e mutagénico do glofitamab.
+Fertilidade
+Não foram feitas avaliações da fertilidade em animais para avaliar o efeito do glofitamab.
+Toxicidade reprodutiva
+Não foram realizados estudos de toxicidade reprodutiva e do desenvolvimento em animais para avaliar
+o efeito do glofitamab. Com base na baixa transferência placentária de anticorpos durante o primeiro
+trimestre, no mecanismo de ação do glofitamab (depleção de células B, ativação de células T
+dependente do alvo e libertação de citocinas), nos dados de segurança disponíveis para o glofitamab e
+nos dados relativos a outros anticorpos anti-CD20, o risco de teratogenicidade é baixo. A depleção
+prolongada de células B pode conduzir a um risco aumentado de infeção oportunista, o que pode
+provocar perda do feto. A SLC transitória associada à administração de Columvi pode também ser
+prejudicial ao feto (ver secção 4.6).
+Toxicidade sistémica
+Num estudo em macacos cynomolgus, os animais com SLC grave após uma dose intravenosa única de
+glofitamab (0,1 mg/kg) sem pré-tratamento com obinutuzumab apresentaram erosões no trato
+gastrointestinal e infiltrados de células inflamatórias no baço e nos sinusoides do fígado e,
+esporadicamente, noutros órgãos. É provável que estes infiltrados de células inflamatórias tenham sido
+secundários à ativação de células imunitárias induzida pelas citocinas. O pré-tratamento com
+obinutuzumab levou à atenuação da libertação de citocinas induzida pelo glofitamab e efeitos adversos
+relacionados, através da depleção de células B no sangue periférico e no tecido linfoide. Isto permitiu
+a administração de doses de glofitamab pelo menos 10 vezes superiores (1 mg/kg) em macacos
+cynomolgus, produzindo uma Cmáx até 3,74 vezes superior à Cmáx humana na dose recomendada de
+30 mg.
+Todos os resultados obtidos com glofitamab foram considerados efeitos farmacologicamente mediados
+e reversíveis. Não foram conduzidos estudos com duração superior a 4 semanas, uma vez que o
+glofitamab foi altamente imunogénico em macacos cynomolgus, o que conduziu à perda de exposição
+e do efeito farmacológico.
+Uma vez que todos os doentes com LDGCB recidivante ou refratário a tratar foram anteriormente
+expostos a tratamento anti-CD20, a maioria provavelmente apresentará níveis baixos de células B
+circulantes devido aos efeitos residuais da terapêutica anti-CD20 prévia, anterior ao tratamento com
+obinutuzumab. Consequentemente, o modelo animal sem tratamento prévio com rituximab (ou outro
+fármaco anti-CD20) pode não refletir totalmente o contexto clínico.
+
+19
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+L-histidina
+Cloridrato de L-histidina monohidratada
+L-metionina
+Sacarose
+Polissorbato 20 (E432)
+Água para preparações injetáveis
+6.2
+
+Incompatibilidades
+
+Este medicamento não pode ser misturado com outros medicamentos, exceto os mencionados na
+secção 6.6.
+6.3
+
+Prazo de validade
+
+Frasco para injetáveis fechado
+30 meses.
+Solução diluída para perfusão intravenosa
+A estabilidade física e química após diluição foi demonstrada durante até 72 horas a 2 ºC a 8 ºC e até
+24 horas a 30 °C, seguidas de um tempo de perfusão máximo de 8 horas.
+Do ponto de vista microbiológico, a solução diluída deve ser utilizada imediatamente. Se não for
+utilizada imediatamente, os tempos e as condições de conservação após a abertura, antes da utilização,
+são da responsabilidade do utilizador e, em princípio, não deveriam ser superiores a 24 horas entre
+2 ºC e 8 ºC, exceto se a diluição tiver ocorrido sob condições assépticas controladas e validadas.
+6.4
+
+Precauções especiais de conservação
+
+Conservar no frigorífico (2 ºC – 8 ºC).
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+Condições de conservação do medicamento após diluição, ver secção 6.3.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Columvi 2,5 mg concentrado para solução para perfusão
+2,5 ml de concentrado para solução para perfusão num frasco para injetáveis de 6 ml (vidro tipo I
+incolor) com rolha (borracha butílica).
+Embalagem de um frasco para injetáveis.
+Columvi 10 mg concentrado para solução para perfusão
+10 ml de concentrado para solução para perfusão num frasco para injetáveis de 15 ml (vidro tipo I
+incolor) com rolha (borracha butílica).
+Embalagem de um frasco para injetáveis.
+
+20
+
+6.6
+
+Precauções especiais de eliminação e de manuseamento
+
+Instruções de diluição
+•
+•
+•
+
+•
+
+•
+
+•
+•
+•
+•
+
+Columvi não contém conservantes e destina-se apenas a uma utilização única.
+Columvi tem de ser diluído por um profissional de saúde, utilizando técnica asséptica, antes da
+administração intravenosa.
+Inspecionar visualmente o frasco para injetáveis de Columvi quanto à presença de partículas em
+suspensão ou descoloração antes da administração. Columvi é uma solução incolor e límpida.
+Eliminar o frasco para injetáveis se a solução estiver turva, com alteração da cor ou com
+partículas visíveis.
+Retirar o volume apropriado de solução injetável de cloreto de sódio 9 mg/ml (0,9%) ou de
+solução injetável de cloreto de sódio 4,5 mg/ml (0,45%), conforme descrito na Tabela 6, do saco
+de perfusão, usando uma agulha e uma seringa estéril, e eliminar.
+Retirar o volume necessário de concentrado de Columvi do frasco para injetáveis para perfazer a
+dose pretendida, usando uma agulha e uma seringa estéril, e diluir no saco para perfusão (ver
+Tabela 6). Eliminar qualquer porção remanescente no frasco para injetáveis.
+A concentração final de glofitamab após a diluição tem de estar entre 0,1 mg/ml e 0,6 mg/ml.
+Inverter suavemente o saco para perfusão para misturar a solução, de forma a evitar a formação
+excessiva de espuma. Não agitar.
+Inspecionar o saco para perfusão quanto à presença de partículas e eliminá-lo caso existam.
+Antes de se iniciar a perfusão intravenosa, o conteúdo do saco para perfusão deverá estar à
+temperatura ambiente (25 °C).
+
+Tabela 6. Diluição de Columvi para perfusão
+
+Dose de Columvi a
+administrar
+
+2,5 mg
+10 mg
+30 mg
+
+Volume do saco de
+perfusão
+50 ml
+100 ml
+50 ml
+100 ml
+50 ml
+100 ml
+
+Volume de solução
+injetável de cloreto de
+sódio 9 mg/ml (0,9%) ou
+4,5 mg/ml (0,45%) a
+retirar e eliminar
+27,5 ml
+77,5 ml
+10 ml
+10 ml
+30 ml
+30 ml
+
+Volume de
+concentrado de
+Columvi a adicionar
+2,5 ml
+2,5 ml
+10 ml
+10 ml
+30 ml
+30 ml
+
+Deve usar-se apenas uma solução injetável de cloreto de sódio 9 mg/ml (0,9%) ou 4,5 mg/ml (0,45%)
+para diluir Columvi, dado que não foram estudados outros solventes.
+Quando diluído em solução injetável de cloreto de sódio 9 mg/ml (0,9%), Columvi é compatível com
+sacos para perfusão intravenosa compostos por cloreto de polivinilo (PVC), polietileno (PE),
+polipropileno (PP) ou poliolefina não-PVC. Quando diluído em solução injetável de cloreto de sódio
+4,5 mg/ml (0,45%), Columvi é compatível com sacos para perfusão intravenosa compostos por PVC.
+Não se observaram incompatibilidades com sistemas de perfusão com superfícies de contacto com o
+produto em poliuretano (PUR), PVC ou PE e filtros em linha com membranas compostas por
+polietersulfona (PES) ou polisulfona. A utilização de filtros em linha com membranas é opcional.
+Eliminação
+O frasco para injetáveis de Columvi destina-se apenas a uma utilização única.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+21
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/23/1742/001
+EU/1/23/1742/002
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização:
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+22
+
+ANEXO II
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM
+BIOLÓGICA E FABRICANTE RESPONSÁVEL PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+E.
+
+OBRIGAÇÕES ESPECÍFICAS PARA COMPLETAR AS
+MEDIDAS DE PÓS-AUTORIZAÇÃO DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO CONDICIONAL
+
+23
+
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA E FABRICANTE
+RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante da substância ativa de origem biológica
+Roche Registration GmbH
+Nonnenwald 2
+82377 Penzberg
+Alemanha
+Nome e endereço do fabricante responsável pela libertação do lote
+Roche Pharma AG
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos no artigo
+9.º do Regulamento (CE) n.º 507/2006 e, por conseguinte, o Titular da Autorização de
+Introdução no Mercado (AIM) deverá apresentar os RPS a cada 6 meses.
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo
+107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal
+europeu de medicamentos.
+O Titular da Autorização de Introdução no Mercado (AIM) deverá apresentar o primeiro RPS para
+este medicamento no prazo de 6 meses após a concessão da autorização.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos;
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+24
+
+•
+
+Medidas adicionais de minimização do risco
+
+Antes da utilização de Columvi em cada Estado Membro, o Titular da AIM deve acordar o conteúdo e
+formato do programa educacional, incluindo o plano de comunicação, modo de distribuição e
+quaisquer outros aspetos do programa, com a Autoridade Nacional Competente.
+O programa educativo destina-se a:
+Informar os médicos de que devem fornecer o cartão do doente a todos os doentes e educá-los
+sobre o seu conteúdo, que inclui uma lista de sintomas de SLC com o intuito de os incentivar a
+tomar determinadas medidas, como procurar assistência médica imediata caso ocorram.
+•
+Incentivar os doentes a tomar determinadas medidas, como procurar assistência médica imediata
+em caso de ocorrência de sintomas de SLC.
+•
+Informar os médicos sobre o risco de exacerbação tumoral e sobre as suas manifestações.
+•
+
+O Titular da AIM deve garantir que, em todos os Estados Membros em que Columvi é comercializado,
+todos os profissionais de saúde que venham a prescrever, dispensar ou utilizar Columvi tenham acesso
+a/recebam uma brochura para os profissionais de saúde, a qual incluirá:
+•
+Uma descrição da exacerbação tumoral e informação sobre a sua identificação atempada,
+diagnóstico apropriado e monitorização.
+•
+Um lembrete para fornecer a todos os doentes o cartão do doente, que inclui uma lista de
+sintomas de SLC com o intuito de os incentivar a procurar assistência médica imediata caso
+ocorram.
+Todos os doentes que recebam Columvi receberão um cartão do doente com os seguintes elementos
+fundamentais:
+•
+Contactos do prescritor de Columvi.
+•
+Lista de sintomas de SLC para incentivar os doentes a tomar determinadas medidas, como
+procurar assistência médica imediata caso ocorram.
+•
+Instruções para o doente trazer sempre consigo o cartão do doente e apresentá-lo aos
+profissionais de saúde envolvidos nos seus cuidados de saúde (i.e., profissionais de saúde do
+serviço de urgência, etc.).
+•
+Informações para os profissionais de saúde que cuidam do doente sobre o facto de o tratamento
+com Columvi estar associado ao risco de SLC.
+
+E.
+
+OBRIGAÇÕES ESPECÍFICAS PARA COMPLETAR AS MEDIDAS DE PÓSAUTORIZAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+CONDICIONAL
+
+Sendo esta uma autorização de introdução no mercado condicional e de acordo com o artigo 14-a do
+Regulamento (CE) n.º 726/2004, o Titular da AIM deverá completar, dentro dos prazos indicados, as
+seguintes medidas:
+Descrição
+O Titular da AIM apresentará o relatório do estudo clínico atualizado com um
+mínimo de 2 anos de seguimento após o fim do tratamento do último doente
+incluído na população primária de segurança do estudo NP30179, no âmbito do
+procedimento EMEA/H/C/005751/0000.
+De forma a fornecer mais evidência sobre a eficácia e segurança do glofitamab no
+LDGCB, o Titular da AIM apresentará os resultados do estudo GO41944, um
+estudo de fase III aberto, multicêntrico e aleatorizado para avaliar a eficácia e a
+segurança de glofitamab em associação com gemcitabina + oxaliplatina versus
+rituximab em associação com gemcitabina e oxaliplatina em doentes com
+LDGCB recidivante ou refratário.
+
+25
+
+Data limite
+Q4 2024
+
+Q3 2024
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+26
+
+A. ROTULAGEM
+
+27
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM
+
+1.
+
+NOME DO MEDICAMENTO
+
+Columvi 2,5 mg concentrado para solução para perfusão
+glofitamab
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Um frasco para injetáveis de 2,5 ml contém 2,5 mg de glofitamab na concentração de 1 mg/ml.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Excipientes: L-histidina, cloridrato de L-histidina monohidratada, L-metionina, sacarose,
+polissorbato 20, água para preparações injetáveis.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Concentrado para solução para perfusão
+2,5 mg/2,5 ml
+1 frasco para injetáveis
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Utilização intravenosa após diluição
+Utilização única
+Consultar o folheto informativo antes de utilizar
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Não agitar
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+28
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico
+Não congelar
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/23/1742/001
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+29
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+Columvi 2,5 mg concentrado estéril para solução para perfusão
+glofitamab
+Utilização intravenosa
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+IV após diluição
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+2,5 mg/2,5 ml
+
+6.
+
+OUTROS
+
+30
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM
+
+1.
+
+NOME DO MEDICAMENTO
+
+Columvi 10 mg concentrado para solução para perfusão
+glofitamab
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Um frasco para injetáveis de 10 ml contém 10 mg de glofitamab na concentração de 1 mg/ml.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Excipientes: L-histidina, cloridrato de L-histidina monohidratada, L-metionina, sacarose, polissorbato
+20, água para preparações injetáveis.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Concentrado para solução para perfusão
+10 mg/10 ml
+1 frasco para injetáveis
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Utilização intravenosa após diluição
+Utilização única
+Consultar o folheto informativo antes de utilizar
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Não agitar
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+31
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico
+Não congelar
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/23/1742/002
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+32
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Columvi 10 mg concentrado estéril para solução para perfusão
+glofitamab
+Utilização intravenosa
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+IV após diluição
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+10 mg/10 ml
+
+6.
+
+OUTROS
+
+33
+
+B. FOLHETO INFORMATIVO
+
+34
+
+Folheto informativo: Informação para o doente
+Columvi 2,5 mg concentrado para solução para perfusão
+Columvi 10 mg concentrado para solução para perfusão
+glofitamab
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de lhe ser administrado este medicamento, pois contém
+informação importante para si.
+•
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+O seu médico irá dar-lhe um Cartão do Doente. Leia-o com atenção e siga as instruções
+nele contidas. Traga este cartão sempre consigo.
+Apresente o Cartão do Doente ao médico ou enfermeiro quando tiver uma consulta ou for
+ao hospital.
+•
+Caso ainda tenha dúvidas, fale com o seu médico ou enfermeiro.
+•
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou enfermeiro. Ver secção 4.
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Columvi e para que é utilizado
+O que precisa de saber antes de lhe ser administrado Columvi
+Como Columvi é administrado
+Efeitos indesejáveis possíveis
+Como conservar Columvi
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Columvi e para que é utilizado
+
+O que é Columvi
+Columvi é um medicamento contra o cancro que contém a substância ativa glofitamab.
+Para que é que Columvi é utilizado
+Columvi é utilizado para tratar adultos com um cancro chamado “linfoma difuso de grandes células B”
+(LDGCB). É utilizado quando o cancro:
+•
+reapareceu (recidivou) ou
+•
+não respondeu aos tratamentos anteriores.
+O linfoma difuso de grandes células B é um cancro de uma parte do sistema imunitário (as defesas do
+organismo).
+•
+Afeta um tipo de glóbulos brancos chamados “células B”.
+•
+No LDGCB, as células B multiplicam-se de forma descontrolada e acumulam-se nos tecidos.
+Como funciona Columvi
+•
+
+A substância ativa de Columvi, glofitamab, é um anticorpo monoclonal biespecífico, um tipo de
+proteína que se liga a dois alvos específicos no organismo. Liga-se a uma proteína específica na
+superfície das células B, incluindo as células B cancerígenas, e também a outra proteína na
+superfície das células T (outro tipo de glóbulo branco). Isto ativa as células T e faz com que
+estas se multipliquem. Por sua vez, isto resulta na destruição das células B, incluindo as células
+cancerígenas.
+35
+
+2.
+
+O que precisa de saber antes de lhe ser administrado Columvi
+
+Não pode receber Columvi
+•
+•
+
+se tem alergia ao glofitamab ou a qualquer outro componente deste medicamento (indicados na
+secção 6)
+se tem alergia ao obinutuzumab, que é um outro medicamento administrado antes do início do
+tratamento com Columvi (ver também a secção 3 “Como Columvi é administrado”), ou a
+qualquer outro componente deste medicamento
+
+Se não tiver a certeza se alguma das situações anteriores se aplica a si, fale com o seu médico ou
+enfermeiro antes de lhe administrarem Columvi.
+Advertências e precauções
+Fale com o seu médico antes de lhe ser administrado Columvi
+se tem uma infeção
+se teve uma infeção que durou muito tempo (crónica) ou uma infeção que tem continuado a
+aparecer (recorrente)
+•
+se tem ou teve quaisquer problemas de rins, fígado ou coração
+•
+se estiver planeado levar uma vacina num futuro próximo
+•
+•
+
+Se alguma das situações anteriores se aplicar a si (ou se não tiver a certeza), fale com o seu médico
+antes de lhe ser administrado Columvi.
+Esteja atento aos efeitos indesejáveis graves.
+Alguns efeitos indesejáveis de Columvi são graves e podem colocar a vida em risco. Estes efeitos
+indesejáveis podem ocorrer em qualquer altura durante o tratamento com Columvi.
+Informe imediatamente o seu médico se tiver qualquer um dos seguintes efeitos indesejáveis
+enquanto estiver a receber Columvi. Os sintomas de cada efeito indesejável são apresentados na
+secção 4.
+•
+
+•
+
+•
+•
+
+Síndrome de libertação de citocinas: uma condição inflamatória exagerada associada a
+medicamentos que estimulam as células T, caracterizada por febre e disfunção de múltiplos
+órgãos no corpo. É mais provável que ocorra síndrome de libertação de citocinas durante o
+Ciclo 1 após a administração de Columvi (ver secção 3 "Como é administrado Columvi"). É
+necessária uma monitorização atenta. Antes de cada perfusão, poderão ser-lhe administrados
+medicamentos para ajudar a reduzir possíveis efeitos indesejáveis da síndrome de libertação de
+citocinas.
+Síndrome de lise tumoral: algumas pessoas podem desenvolver valores pouco habituais de
+alguns sais no sangue (como o potássio e o ácido úrico), provocados pela degradação rápida de
+células cancerígenas durante o tratamento. O seu médico ou enfermeiro irá verificar se tem esta
+síndrome através de análises ao sangue. Antes de cada perfusão, deverá estar bem hidratado e
+poderão ser-lhe administrados medicamentos que podem ajudar a reduzir valores elevados de
+ácido úrico. Estes poderão ajudar a reduzir possíveis efeitos indesejáveis da síndrome de lise
+tumoral.
+Exacerbação tumoral: uma reação a determinados medicamentos que atuam no sistema
+imunitário, que é/parece ser semelhante a um agravamento do cancro.
+Infeções: pode ter sinais de infeção, os quais podem variar dependendo do local do organismo
+onde se localiza a infeção.
+
+Se tem ou pensa que poderá ter qualquer um dos sintomas anteriores, informe imediatamente o seu
+médico.
+36
+
+O seu médico poderá:
+•
+dar-lhe outros medicamentos para reduzir os sintomas e prevenir complicações,
+•
+parar o tratamento durante um curto período de tempo ou
+•
+parar permanentemente o tratamento.
+Crianças e adolescentes
+Este medicamento não deve ser administrado a crianças e adolescentes com idade inferior a 18 anos.
+Isto porque Columvi não foi estudado neste grupo etário.
+Outros medicamentos e Columvi
+Informe o seu médico ou enfermeiro se estiver a tomar, tiver tomado recentemente, ou se vier a tomar
+outros medicamentos. Isto inclui medicamentos obtidos sem receita médica e medicamentos à base de
+plantas.
+Gravidez e contraceção
+•
+•
+•
+•
+
+Se está grávida, se pensa estar grávida ou planeia engravidar, consulte o seu médico antes de
+tomar este medicamento.
+Não deve receber Columvi se estiver grávida. Isto porque existe a possibilidade de Columvi ser
+prejudicial ao feto.
+Se tiver possibilidade de engravidar, terá de utilizar contraceção eficaz durante o tratamento com
+Columvi e durante 2 meses após a última dose.
+Se engravidar durante o tratamento com Columvi, informe imediatamente o seu médico.
+
+Amamentação
+Não amamente enquanto estiver a receber Columvi e durante, pelo menos, 2 meses após a última dose.
+Isto porque não se sabe se este medicamento poderá passar para o leite materno e ser prejudicial ao
+bebé.
+Condução de veículos e utilização de máquinas
+Columvi tem uma influência reduzida na sua capacidade de conduzir, andar de bicicleta ou utilizar
+ferramentas ou máquinas.
+Se sentir quaisquer sintomas que possam afetar sua capacidade de conduzir, incluindo sintomas de
+síndrome de libertação de citocinas (como febre, batimento cardíaco rápido, tonturas ou vertigens,
+arrepios ou falta de ar), não conduza, não ande de bicicleta nem use ferramentas ou máquinas até se
+sentir melhor. Ver a secção 4 para mais informação sobre efeitos indesejáveis.
+
+3.
+
+Como é administrado Columvi
+
+Columvi será administrado sob a supervisão de um médico com experiência no tratamento do cancro,
+num hospital ou numa clínica.
+
+37
+
+Medicamentos administrados antes do tratamento com Columvi
+•
+•
+
+Sete dias antes de iniciar o tratamento com Columvi, receberá outro medicamento,
+obinutuzumab, para reduzir o número de células B no sangue.
+30 a 60 minutos antes de receber Columvi, poderão dar-lhe outros medicamentos (prémedicação) para ajudar a reduzir as reações associadas à síndrome de libertação de citocinas.
+Estes medicamentos podem incluir:
+Um corticosteroide, como a dexametasona
+Um medicamento para reduzir a febre, como o paracetamol
+Um anti-histamínico, como a difenidramina
+
+Que quantidade e com que frequência lhe será administrado Columvi
+Poderá receber até 12 ciclos de tratamento com Columvi. Cada ciclo dura 21 dias. Durante os dois
+primeiros ciclos, o seu médico iniciará o tratamento com Columvi numa dose baixa, aumentando-a
+gradualmente até à dose completa.
+Em seguida, apresenta-se um calendário habitual.
+Ciclo 1: Este inclui um pré-tratamento e duas doses baixas de Columvi ao longo dos 21 dias:
+•
+Dia 1 – Pré-tratamento com obinutuzumab
+•
+Dia 8 – Dose inicial de 2,5 mg de Columvi
+•
+Dia 15 – Dose intermédia de 10 mg de Columvi
+Ciclo 2 ao Ciclo 12: Será administrada apenas uma dose nos 21 dias:
+Dia 1 – Dose completa de 30 mg de Columvi
+
+•
+
+Como é administrado Columvi e monitorização
+Columvi é administrado, gota a gota, numa veia (perfusão intravenosa). O seu médico irá ajustar o
+tempo necessário à perfusão conforme a sua resposta ao tratamento.
+•
+A primeira perfusão será administrada durante 4 horas. O seu médico irá monitorizá-lo
+atentamente durante a primeira perfusão e durante 10 horas após a conclusão da perfusão. O
+objetivo é identificar possíveis sinais ou sintomas de síndrome de libertação de citocinas.
+•
+Nas perfusões seguintes, o seu médico poderá ter de monitorizá-lo após a conclusão da
+perfusão. Isto será necessário se tiver tido síndrome de libertação de citocinas moderada ou
+grave com a dose anterior.
+•
+Se não tiver qualquer síndrome de libertação de citocinas após 3 doses, o seu médico poderá
+administrar as perfusões seguintes em 2 horas.
+Se falhar uma dose de Columvi
+Se faltar a uma marcação para administração do medicamento, marque outra consulta imediatamente.
+Para que o tratamento seja completamente eficaz, é muito importante que não falte a uma
+administração.
+Antes de parar o tratamento com Columvi
+Fale com o seu médico antes de parar o tratamento. Isto porque parar o tratamento pode fazer com que
+a sua doença piore.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou enfermeiro.
+
+38
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não
+se manifestem em todas as pessoas.
+Efeitos indesejáveis graves
+Informe imediatamente o seu médico se tiver algum dos efeitos indesejáveis graves a seguir
+descritos, pois poderá necessitar de tratamento médico urgente.
+•
+
+•
+•
+
+•
+
+Síndrome de libertação de citocinas (muito frequente): os sintomas podem incluir, mas não
+são limitados a, febre, batimento cardíaco rápido, tonturas ou vertigens, náusea, dor de cabeça,
+erupção da pele, confusão, arrepios, falta de ar
+Infeções (muito frequente): os sintomas podem incluir, mas não são limitados a, febre,
+arrepios, dificuldade em respirar, ardor ao urinar
+Exacerbação tumoral (muito frequente): os sintomas podem incluir, mas não são limitados a,
+gânglios linfáticos inchados e dolorosos, dor no peito, dificuldade em respirar, dor no local do
+tumor
+Síndrome de lise tumoral (frequente): os sintomas podem incluir, mas não são limitados a,
+fraqueza, falta de ar, confusão, batimento cardíaco irregular, cãibras musculares
+
+Outros efeitos indesejáveis
+Informe imediatamente o seu médico ou enfermeiro se tiver algum dos seguintes efeitos indesejáveis
+ou se estes se agravarem:
+Muito frequentes (podem afetar mais do que 1 em cada 10 pessoas)
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+valores baixos, nas análises ao sangue, de:
+neutrófilos (um tipo de glóbulo branco; neutropenia), o que pode provocar febre ou
+sintomas de infeção
+glóbulos vermelhos (anemia), o que pode provocar cansaço, mal-estar e palidez
+plaquetas (um tipo de célula do sangue; trombocitopenia), o que pode provocar nódoas
+negras ou hemorragias
+febre
+valores baixos de fosfato, magnésio, cálcio ou potássio, medidos em análises ao sangue
+erupção cutânea
+obstipação
+diarreia
+enjoos (náuseas)
+infeções virais, como infeção pulmonar, zona
+dor de cabeça
+
+Frequentes (podem afetar até 1 em cada 10 pessoas)
+•
+•
+•
+•
+•
+•
+•
+
+valores baixos de sódio, medidos em análises ao sangue, o que pode provocar cansaço,
+espasmos musculares ou cãibras
+valores aumentados de enzimas do fígado e bilirrubina (substância amarela no sangue), medidos
+em análises ao sangue, o que pode provocar amarelecimento da pele ou dos olhos, e urina escura
+infeções bacterianas, como infeção do trato urinário, infeção no estômago ou em torno do
+mesmo
+infeção fúngica
+infeções do nariz e da garganta (infeções das vias respiratórias superiores)
+infeções dos pulmões, como bronquite ou pneumonia (infeções das vias respiratórias inferiores),
+o que pode provocar febre, tosse e dificuldade em respirar
+infeção do sangue (sépsis), o que pode provocar febre, arrepios e confusão
+39
+
+•
+•
+•
+•
+•
+•
+•
+
+valores baixos de linfócitos (um tipo de glóbulo branco; linfopenia), medidos em análises ao
+sangue
+febre com valores baixos de neutrófilos (neutropenia febril)
+vómitos
+hemorragia no estômago ou nos intestinos (hemorragia gastrointestinal), o que pode provocar
+fezes negras ou sangue no vómito
+confusão
+tremores
+sonolência
+
+Pouco frequentes (podem afetar menos de 1 em 100 pessoas)
+•
+
+inchaço da medula espinal (mielite), o que pode provocar fraqueza muscular ou falta de
+sensibilidade
+
+Informe imediatamente o seu médico se tiver algum dos efeitos indesejáveis anteriores ou se estes se
+agravarem.
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou enfermeiro. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+5.
+
+Como conservar Columvi
+
+O seu médico, farmacêutico ou enfermeiro são responsáveis por conservar este medicamento e
+eliminar corretamente qualquer medicamento não utilizado. A informação que se segue destina-se aos
+profissionais de saúde.
+•
+Manter este medicamento fora da vista e do alcance das crianças.
+•
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no
+rótulo do frasco para injetáveis, após EXP. O prazo de validade corresponde ao último dia do
+mês indicado.
+•
+Conservar no frigorífico (2 °C a 8 °C)
+•
+Não congelar.
+•
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+•
+Não utilize este medicamento se aparentar estar turvo, com alteração da cor ou com partículas.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Columvi
+•
+•
+•
+•
+
+A substância ativa é o glofitamab.
+Columvi 2,5 mg: Cada frasco para injetáveis contém 2,5 miligramas de glofitamab (em 2,5 ml
+de concentrado) na concentração de 1 mg/ml
+Columvi 10 mg: Cada frasco para injetáveis contém 10 miligramas de glofitamab (em 10 ml de
+concentrado) na concentração de 1 mg/ml
+Os outros componentes são: L-histidina, cloridrato de L-histidina monohidratada, L-metionina,
+sacarose, polissorbato 20 (E 432) e água para preparações injetáveis.
+
+40
+
+Qual o aspeto de Columvi e conteúdo da embalagem
+Columvi concentrado para solução para perfusão (concentrado estéril) é uma solução incolor e límpida
+fornecida num frasco para injetáveis de vidro.
+Cada embalagem de Columvi contém um frasco para injetáveis.
+Titular da Autorização de Introdução no Mercado
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+Fabricante
+Roche Pharma AG
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+N.V. Roche S.A.
+Tél/Tel: +32 (0) 2 525 82 11
+
+Lietuva
+UAB “Roche Lietuva”
+Tel: +370 5 2546799
+
+България
+Рош България ЕООД
+Тел: +359 2 818 44 44
+
+Luxembourg/Luxemburg
+(Voir/siehe Belgique/Belgien)
+
+Česká republika
+Roche s. r. o.
+Tel: +420 - 2 20382111
+
+Magyarország
+Roche (Magyarország) Kft.
+Tel: +36 - 1 279 4500
+
+Danmark
+Roche Pharmaceuticals A/S Tlf: +45 - 36 39 99
+99
+
+Malta
+(See Ireland)
+
+Deutschland
+Roche Pharma AG
+Tel: +49 (0) 7624 140
+
+Nederland
+Roche Nederland B.V.
+Tel: +31 (0) 348 438050
+
+Eesti
+Roche Eesti OÜ
+Tel: + 372 - 6 177 380
+
+Norge
+Roche Norge AS
+Tlf: +47 - 22 78 90 00
+
+Ελλάδα
+Roche (Hellas) A.E.
+Τηλ: +30 210 61 66 100
+
+Österreich
+Roche Austria GmbH
+Tel: +43 (0) 1 27739
+
+41
+
+España
+Roche Farma S.A.
+Tel: +34 - 91 324 81 00
+
+Polska
+Roche Polska Sp.z o.o.
+Tel: +48 - 22 345 18 88
+
+France
+Roche
+Tél: +33 (0) 1 47 61 40 00
+
+Portugal
+Roche Farmacêutica Química, Lda
+Tel: +351 - 21 425 70 00
+
+Hrvatska
+Roche d.o.o.
+Tel: +385 1 4722 333
+
+România
+Roche România S.R.L.
+Tel: +40 21 206 47 01
+
+Ireland
+Roche Products (Ireland) Ltd.
+Tel: +353 (0) 1 469 0700
+
+Slovenija
+Roche farmacevtska družba d.o.o.
+Tel: +386 - 1 360 26 00
+
+Ísland
+Roche Pharmaceuticals A/S
+c/o Icepharma hf
+Sími: +354 540 8000
+Italia
+Roche S.p.A.
+Tel: +39 - 039 2471
+
+Slovenská republika
+Roche Slovensko, s.r.o.
+Tel: +421 - 2 52638201
+
+Κύπρος
+Γ.Α.Σταμάτης & Σια Λτδ.
+Τηλ: +357 - 22 76 62 76
+
+Sverige
+Roche AB
+Tel: +46 (0) 8 726 1200
+
+Latvija
+Roche Latvija SIA
+Tel: +371 - 6 7039831
+
+United Kingdom (Northern Ireland)
+Roche Products (Ireland) Ltd.
+Tel: +44 (0) 1707 366000
+
+Suomi/Finland
+Roche Oy
+Puh/Tel: +358 (0) 10 554 500
+
+Este folheto foi revisto pela última vez em
+Foi concedida a este medicamento uma «Autorização de Introdução no Mercado condicional». Isto
+significa que se aguarda mais informação sobre este medicamento.
+A Agência Europeia de Medicamentos irá analisar, pelo menos uma vez por ano, nova informação
+sobre este medicamento e este folheto será atualizado se necessário.
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu
+
+42
+
+-----------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos profissionais de saúde:
+Columvi tem de ser administrado na forma de uma perfusão intravenosa através de um sistema de
+perfusão individualizado. Não pode ser administrado por injeção intravenosa rápida ou bólus.
+Para instruções acerca da diluição de Columvi antes da administração, ver a secção seguinte.
+Instruções de diluição
+•
+•
+•
+
+•
+
+•
+
+•
+•
+•
+•
+
+Columvi não contém conservantes e destina-se apenas a uma utilização única.
+Columvi tem de ser diluído por um profissional de saúde, utilizando técnica asséptica, antes da
+administração intravenosa.
+Não agitar o frasco para injetáveis. Inspecionar visualmente o frasco para injetáveis de Columvi
+quanto à presença de partículas em suspensão ou descoloração antes da administração. Columvi
+é uma solução incolor e límpida. Eliminar o frasco para injetáveis se a solução estiver turva,
+com alteração da cor ou com partículas visíveis.
+Retirar o volume apropriado de solução injetável de cloreto de sódio 9 mg/ml (0,9%) ou de
+solução injetável de cloreto de sódio 4,5 mg/ml (0,45%), conforme descrito na Tabela 1, do saco
+de perfusão, usando uma agulha e uma seringa estéril, e eliminar.
+Retirar o volume necessário de concentrado de Columvi do frasco para injetáveis para perfazer a
+dose pretendida, usando uma agulha e uma seringa estéril, e diluir no saco para perfusão (ver
+Tabela 1, abaixo). Eliminar qualquer porção remanescente no frasco para injetáveis.
+A concentração final de glofitamab após a diluição tem de estar entre 0,1 mg/ml e 0,6 mg/ml.
+Inverter suavemente o saco para perfusão para misturar a solução, de forma a evitar a formação
+excessiva de espuma. Não agitar.
+Inspecionar o saco para perfusão quanto à presença de partículas e eliminá-lo caso existam.
+Antes de se iniciar a perfusão intravenosa, o conteúdo do saco para perfusão deverá estar à
+temperatura ambiente (25 °C).
+
+Tabela 1. Diluição de Columvi para perfusão
+
+Dose de Columvi a
+administrar
+
+2,5 mg
+10 mg
+30 mg
+
+Volume do saco de
+perfusão
+50 ml
+100 ml
+50 ml
+100 ml
+50 ml
+100 ml
+
+Volume de solução
+injetável de cloreto de
+sódio 9 mg/ml (0,9%) ou
+4,5 mg/ml (0,45%) a
+retirar e eliminar
+27,5 ml
+77,5 ml
+10 ml
+10 ml
+30 ml
+30 ml
+
+Volume de
+concentrado de
+Columvi a adicionar
+2,5 ml
+2,5 ml
+10 ml
+10 ml
+30 ml
+30 ml
+
+Deve usar-se apenas uma solução injetável de cloreto de sódio 9 mg/ml (0,9%) ou 4,5 mg/ml (0,45%)
+para diluir Columvi, dado que não foram estudados outros solventes.
+Quando diluído em solução injetável de cloreto de sódio 9 mg/ml (0,9%), Columvi é compatível com
+sacos para perfusão intravenosa compostos por cloreto de polivinilo (PVC), polietileno (PE),
+polipropileno (PP) ou poliolefina não-PVC. Quando diluído em solução injetável de cloreto de sódio
+4,5 mg/ml (0,45%), Columvi é compatível com sacos para perfusão intravenosa compostos por PVC.
+Não se observaram incompatibilidades com sistemas de perfusão com superfícies de contacto com o
+produto em poliuretano (PUR), PVC ou PE e filtros em linha com membranas compostas por
+polietersulfona (PES) ou polisulfona. A utilização de filtros em linha com membranas é opcional.
+43
+
+Solução diluída para perfusão intravenosa
+A estabilidade física e química após diluição foi demonstrada durante até 72 horas a 2 ºC a 8 ºC e até
+24 horas a 30 °C, seguidas de um tempo de perfusão máximo de 8 horas.
+Do ponto de vista microbiológico, a solução diluída deve ser utilizada imediatamente. Se não for
+utilizada imediatamente, os tempos e as condições de conservação após a abertura, antes da utilização,
+são da responsabilidade do utilizador e, em princípio, não deveriam ser superiores a 24 horas entre
+2 ºC e 8 ºC, exceto se a diluição tiver ocorrido sob condições assépticas controladas e validadas.
+Eliminação
+O frasco para injetáveis de Columvi destina-se apenas a uma utilização única.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+44
+
+

@@ -1,0 +1,2491 @@
+                 ANEXO I
+
+
+
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+
+
+
+                    1
+1.       NOME DO MEDICAMENTO
+
+ZOSTAVAX pó e veículo para suspensão injetável
+ZOSTAVAX pó e veículo para suspensão injetável em seringa pré-cheia
+
+Vacina viva contra a zona (Herpes zoster)
+
+
+
+2.       COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Após reconstituição, uma dose (0,65 ml) contém:
+
+Vírus da varicela-zoster 1, estirpe Oka/Merck, (vivo, atenuado) não menos de 19.400 UFP2
+1
+    produzido em células diploides humanas (MRC-5)
+2
+    UFP = Unidades formadoras de placas
+
+Esta vacina pode conter vestígios de neomicina. Ver secções 4.3 e 4.4.
+
+Lista completa de excipientes, ver secção 6.1.
+
+
+
+3.       FORMA FARMACÊUTICA
+
+Pó e veículo para suspensão injetável.
+
+O pó é uma massa cristalina, compacta, branca a esbranquiçada.
+O veículo é um líquido incolor límpido.
+
+
+
+4.       INFORMAÇÕES CLÍNICAS
+
+4.1      Indicações terapêuticas
+
+ZOSTAVAX está indicado na prevenção do herpes zoster (“zoster” ou zona) e da nevralgia pós-herpética
+(NPH) relacionada com o herpes zoster.
+
+ZOSTAVAX está indicado na imunização de indivíduos com 50 ou mais anos de idade.
+
+4.2      Posologia e modo de administração
+
+Posologia
+
+Os indivíduos devem receber uma dose única (0,65 ml).
+
+A necessidade de uma dose de reforço não é conhecida. Ver secções 4.8 e 5.1.
+
+População pediátrica
+
+A segurança e eficácia de ZOSTAVAX em crianças e adolescentes não foram estabelecidas. Não existem
+dados disponíveis.
+
+
+
+
+                                                     2
+Não existe utilização relevante de ZOSTAVAX em crianças e adolescentes para a prevenção de infeção
+primária da varicela.
+
+Modo de administração
+
+A vacina pode ser injetada por via subcutânea (SC) ou por via intramuscular (IM), preferencialmente na
+região deltoide (ver secções 4.8 e 5.1).
+
+A vacina deve ser administrada por via subcutânea em indivíduos com trombocitopenia grave ou doenças
+de coagulação (ver secção 4.4).
+
+A vacina não deve ser administrada por via intravascular em nenhuma circunstância.
+
+Precauções a ter em conta antes de manusear ou administrar o medicamento, ver secção 6.6.
+
+Para instruções acerca da reconstituição do medicamento antes da administração, ver secção 6.6.
+
+4.3   Contraindicações
+
+     Hipersensibilidade à substância ativa, a qualquer dos excipientes mencionados na secção 6.1 ou à
+      neomicina (que pode estar presente em vestígios residuais, ver secções 2 e 4.4).
+     Estados de imunodeficiência primária e adquirida devidos a situações tais como: leucemias agudas
+      e crónicas; linfomas; outras condições que afetem a medula óssea ou o sistema linfático;
+      imunossupressão devida ao VIH/SIDA (ver secções 4.4, 4.8 e 5.1); deficiências imunocelulares.
+     Terapêutica imunossupressora (incluindo doses elevadas de corticosteroides) (ver secções 4.4 e
+      4.8); contudo, ZOSTAVAX não está contraindicado para utilização em indivíduos medicados com
+      corticosteroides tópicos/de inalação ou com doses baixas de corticosteroides administradas por via
+      sistémica ou em doentes que recebem corticosteroides como terapêutica de substituição, ex: para a
+      insuficiência supra-renal (ver secções 4.8 e 5.1).
+     Tuberculose ativa não tratada.
+     Gravidez. Adicionalmente, a gravidez deve ser evitada durante 1 mês após a vacinação (ver
+      secção 4.6).
+
+4.4   Advertências e precauções especiais de utilização
+
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+
+Deverão estar prontamente à disposição um tratamento e uma supervisão adequados no caso de uma
+reação anafilática/anafilatoide rara após a administração da vacina, pois existe a possibilidade de
+ocorrência de reações de hipersensibilidade, não apenas às substâncias ativas, mas também aos excipientes
+e aos vestígios residuais (ex. neomicina) presentes na vacina (ver secções 4.3, 4.8 e 6.1).
+
+A alergia à neomicina manifesta-se geralmente sob a forma de dermatite de contacto. Contudo,
+antecedentes de dermatite de contacto devida à neomicina não constituem uma contraindicação para
+receber vacinas de vírus vivos.
+
+ZOSTAVAX é uma vacina viva, atenuada, contra a varicela-zoster e a sua administração a indivíduos
+imunossuprimidos ou imunodeficientes pode resultar na disseminação da doença pelo vírus da
+varicela-zoster, incluindo desfechos fatais. Os indivíduos que receberam previamente terapêutica
+imunossupressora devem ser cuidadosamente avaliados para a recuperação do sistema imunitário antes de
+serem vacinados com ZOSTAVAX (ver secção 4.3).
+
+                                                    3
+A segurança e a eficácia do ZOSTAVAX não foram estabelecidas em adultos com infeção conhecida pelo
+VIH, com ou sem evidência de imunossupressão (ver secção 4.3), contudo foi realizado um ensaio de fase
+II, de imunogenicidade e segurança em adultos com infeção VIH com função imunitária preservada
+(contagem de células T CD4+ ≥ 200 células/µl) (ver secções 4.8 e 5.1).
+
+Esta vacina deve ser administrada por via subcutânea a indivíduos com trombocitopenia grave ou qualquer
+doença de coagulação, uma vez que estes indivíduos podem ter uma hemorragia no seguimento de
+injeções intramusculares.
+
+ZOSTAVAX não está indicado no tratamento do herpes zoster ou da NPH.
+
+A imunização deverá ser adiada na presença de qualquer doença febril aguda moderada a grave ou
+infeção.
+
+Tal como para qualquer vacina, a vacinação com ZOSTAVAX poderá não resultar na proteção de todos os
+indivíduos vacinados. Ver secção 5.1.
+
+Transmissão
+Nos ensaios clínicos realizados com ZOSTAVAX, não foram referidos casos de transmissão do vírus da
+vacina. Contudo, a experiência pós-comercialização com as vacinas contra a varicela sugere que a
+transmissão do vírus da vacina pode ocorrer raramente entre indivíduos vacinados que desenvolvem uma
+erupção cutânea do tipo varicela e contactos suscetíveis [(por exemplo, criança suscetível ao vírus da
+varicela-zoster (VVZ), neto de vacinado)]. Tem também sido referida a transmissão do vírus da vacina a
+partir de indivíduos vacinados com a vacina contra a varicela que não desenvolvem uma erupção cutânea
+tipo varicela. Trata-se de um risco teórico da vacinação com ZOSTAVAX. O risco de transmissão do
+vírus atenuado da vacina a partir de uma pessoa vacinada a um contacto suscetível deve ser ponderado
+contra o risco de desenvolvimento de herpes zoster natural e de potencial transmissão do VVZ selvagem a
+um contacto suscetível.
+
+Sódio
+Este medicamento contém menos do que 1 mmol (23 miligramas) de sódio por dose ou seja, é
+praticamente “isento de sódio”.
+
+Potássio
+Este medicamento contém menos do que 1 mmol (39 miligramas) de potássio por dose, ou seja, é
+praticamente “isento de potássio”.
+
+4.5   Interações medicamentosas e outras formas de interação
+
+ZOSTAVAX pode ser administrado concomitantemente com a vacina contra a gripe inativada, como
+injeções separadas e em locais do corpo diferentes (ver secção 5.1).
+
+A administração concomitante de ZOSTAVAX com uma vacina antipneumocócica polissacarídica
+23-valente, resultou em imunogenicidade reduzida de ZOSTAVAX num pequeno ensaio clínico. Contudo,
+os dados recolhidos num estudo observacional de grande dimensão não indicaram um risco aumentado
+para o desenvolvimento de herpes zoster após a administração concomitante das duas vacinas.
+
+Não estão atualmente disponíveis dados relativos à utilização concomitante com outras vacinas.
+
+Não foi avaliada a administração simultânea de ZOSTAVAX e de medicações antivirais com reconhecida
+eficácia contra o VVZ.
+
+
+
+                                                   4
+4.6   Fertilidade, gravidez e aleitamento
+
+Gravidez
+A quantidade de dados sobre a utilização de ZOSTAVAX em mulheres grávidas é inexistente. Os estudos
+não clínicos tradicionais são insuficientes no que respeita à toxicidade reprodutiva (ver secção 5.3).
+Contudo sabe-se que, por vezes, a infeção natural provocada pelo vírus da varicela-zoster provoca lesões
+fetais. ZOSTAVAX não é recomendado para ser administrado a mulheres grávidas. Em qualquer caso,
+deve evitar-se a gravidez durante um mês após a vacinação (ver secção 4.3).
+
+Amamentação
+Desconhece-se se o VVZ é secretado no leite materno. Não pode ser excluído qualquer risco para os
+recém-nascidos/lactentes. Tem que ser tomada uma decisão sobre a descontinuação da amamentação ou
+não administrar ZOSTAVAX tendo em conta o benefício da amamentação para a criança e o benefício da
+vacinação para a mulher.
+
+Fertilidade
+ZOSTAVAX não foi avaliado em ensaios de fertilidade.
+
+4.7   Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram realizados ensaios acerca dos efeitos sobre a capacidade de conduzir ou utilizar máquinas. No
+entanto, é esperado que os efeitos de ZOSTAVAX sobre a capacidade de conduzir e utilizar máquinas
+sejam nulos ou desprezáveis.
+
+4.8   Efeitos indesejáveis
+
+a. Resumo do perfil de segurança
+
+As reações adversas mais frequentes nos ensaios clínicos principais foram reações no local de injeção. As
+reações adversas sistémicas mais frequentes foram cefaleias e dor nas extremidades. A maioria destas
+reações locais e sistémicas foram notificadas como de intensidade ligeira. Foram notificadas reações
+adversas graves relacionadas com a vacina em 0,01 % dos indivíduos vacinados com ZOSTAVAX e
+indivíduos que receberam placebo.
+
+Os dados de um ensaio clínico (n=368) demonstraram que a formulação refrigerada atual tem um perfil de
+segurança comparável ao da formulação congelada.
+
+b. Resumo das reações adversas em forma tabelar
+
+Nos ensaios clínicos, a segurança global foi avaliada em mais de 57000 adultos vacinados com
+ZOSTAVAX.
+A Tabela 1 apresenta as reações adversas da vacina relacionadas com o local de injeção e as sistémicas,
+notificadas com uma incidência significativamente superior no grupo vacina, em comparação com o grupo
+placebo, nos 42 dias pós-vacinação, no estudo do Ensaio de Eficácia e Segurança de ZOSTAVAX (ZEST)
+e no Sub-estudo de Monitorização de Acontecimentos Adversos do Ensaio de Prevenção da Zona (SPS).
+
+Encontram-se incluídas na Tabela 1 reações adversas adicionais, notificadas espontaneamente através da
+vigilância pós-comercialização. Como estes acontecimentos foram notificados espontaneamente a partir
+de uma população de tamanho desconhecido, nem sempre é possível estimar com precisão a sua
+frequência ou estabelecer uma relação causal com a exposição à vacina. Consequentemente, a frequência
+destas reações adversas foi estimada com base nos acontecimentos adversos notificados no SPS e ZEST
+(independentemente da relação com a vacina atribuída pelo investigador).
+
+
+
+                                                    5
+As reações adversas encontram-se apresentadas por categorias de frequência utilizando a seguinte
+convenção:
+Muito frequentes (≥ 1/10);
+Frequentes (≥ 1/100, < 1/10);
+Pouco frequentes (≥ 1/1.000, < 1/100);
+Raros (≥ 1/10.000, < 1/1.000);
+Muito raros (< 1/10.000)
+
+Tabela 1: Reações adversas resultantes de ensaios clínicos e da vigilância pós-comercialização
+
+ Classes de sistemas de órgãos         Termos das reações adversas             Frequência
+            MedDRA
+Infeções e infestações                Varicela, Herpes zoster (estirpe         Muito raros
+                                      da vacina)
+Doenças do sangue e do sistema        Linfadenopatia (cervical, axilar)      Pouco frequentes
+linfático
+Doenças do sistema imunitário         Reações de hipersensibilidade               Raros
+                                      incluindo reações anafiláticas
+Doenças do sistema nervoso            Cefaleia1                                Frequentes
+Afeções oculares                      Retinite necrosante (indivíduos          Muito raros
+                                      sob terapêutica
+                                      imunossupressora)
+Doenças gastrointestinais             Náuseas                                Pouco frequentes
+Afeções dos tecidos cutâneos e        Erupção cutânea                          Frequentes
+subcutâneos
+Afeções musculosqueléticas        e   Artralgia, Mialgia,     Dor      nas     Frequentes
+dos tecidos conjuntivos               extremidades1
+Perturbações gerais e alterações      Local de injeção: Eritema1,2,          Muito frequentes
+no local de administração             Dor/sensibilidade ao toque1,2,
+                                      Prurido1,2, Tumefação1,2
+
+                                      Local de injeção: Induração1,            Frequentes
+                                      Hematoma1,   Calor1, erupção
+                                      cutânea
+                                      Pirexia
+
+                                      Urticária no local de injeção               Raros
+1
+    Experiência dos ensaios clínicos
+2
+    Reações adversas solicitadas nos 5 dias pós-vacinação
+
+c. Descrição de reações adversas selecionadas
+
+Reações no local de injeção
+As reações adversas no local de injeção relacionadas com a vacina foram significativamente superiores
+nos indivíduos vacinados com ZOSTAVAX em comparação com os indivíduos que receberam placebo.
+No SPS, a incidência global de reações adversas da vacina relacionadas com o local de injeção foi de
+48 % para o grupo de ZOSTAVAX e 17 % para o grupo de placebo, nos indivíduos com 60 ou mais anos
+de idade.
+
+No ZEST, a incidência global de reações adversas no local de injeção relacionadas com a vacina foi de
+63,9 % para o grupo ZOSTAVAX e 14,4 % para o grupo placebo em indivíduos dos 50 aos 59 anos de
+idade. A maioria das reações adversas foi notificada como sendo de intensidade ligeira.
+
+
+                                                        6
+Em outros ensaios clínicos para avaliação de ZOSTAVAX em indivíduos com 50 ou mais anos de idade,
+incluindo um ensaio de administração concomitante com a vacina contra a gripe inativada, foi notificada
+uma taxa mais elevada de reações adversas no local de injeção com intensidade ligeira a moderada, nos
+indivíduos entre os 50-59 anos de idade em comparação com os indivíduos com idade ≥ 60 anos (ver
+secção 5.1).
+
+ZOSTAVAX foi administrado quer por via subcutânea (SC) quer por via intramuscular (IM) em
+indivíduos com 50 ou mais anos de idade (ver secção 5.1). Os perfis globais de segurança das vias SC e
+IM foram de alguma forma comparáveis mas as reações adversas no local de injeção foram
+significativamente menos frequentes no grupo IM (34 %) comparativamente com o grupo SC (64 %).
+
+Herpes zoster/erupções cutâneas tipo herpes zoster e varicela/erupções cutâneas tipo varicela em ensaios
+clínicos
+Em ensaios clínicos, o número de herpes zoster/erupções cutâneas tipo herpes zoster nos 42 dias
+pós-vacinação foi baixo tanto no grupo ZOSTAVAX como no grupo placebo. A maioria das erupções
+cutâneas foi classificada como ligeira a moderada; não foram observadas complicações das erupções
+cutâneas no cenário clínico. A maioria das erupções cutâneas notificadas que foram VVZ positivas por
+análise PCR, foram associadas com VVZ de tipo selvagem.
+
+No SPS e ZEST, o número de indivíduos que notificaram herpes zoster/erupção cutânea tipo herpes zoster
+foi inferior a 0,2 % para os grupos ZOSTAVAX e placebo, sem diferença significativa observada entre os
+dois grupos. O número de indivíduos que notificou varicela/erupção cutânea tipo varicela foi inferior a
+0,7 % para os grupos ZOSTAVAX e placebo.
+
+A estirpe OKA/Merck de VVZ não foi detetada a partir de qualquer uma das amostras no SPS ou ZEST.
+O VVZ foi detetado em uma (0,01 %) amostra de um indivíduo que recebeu ZOSTAVAX que notificou
+um caso de varicela/erupção cutânea tipo varicela; contudo, a estirpe do vírus (tipo selvagem ou estirpe
+Oka/Merck) não pode ser determinada. Em todos os outros ensaios clínicos, a estirpe Oka/Merck foi
+identificada pela análise PCR a partir de amostras de lesões de apenas dois indivíduos que notificaram
+erupções cutâneas tipo varicela (com início nos Dias 8 e 17).
+
+d. Populações especiais
+
+Adultos com história de herpes zoster (HZ) antes da vacinação
+ZOSTAVAX foi administrado a indivíduos com 50 ou mais anos de idade com história de herpes zoster
+(HZ) antes da vacinação (ver secção 5.1). O perfil de segurança foi de um modo geral similar ao
+observado no Sub-estudo de Monitorização de Acontecimentos Adversos do SPS.
+
+Adultos em corticoterapia sistémica crónica ou de manutenção
+Em indivíduos com 60 ou mais anos de idade a receber terapêutica sistémica com corticosteroides, crónica
+ou de manutenção, numa dose diária equivalente de 5 a 20 mg de prednisona, durante pelo menos
+2 semanas antes do recrutamento e 6 ou mais semanas após a vacinação, o perfil de segurança foi de um
+modo geral comparável ao observado no Sub-estudo de Monitorização de Acontecimentos Adversos no
+SPS (ver secções 4.3 e 5.1).
+
+Adultos com infeção VIH com função imunitária preservada
+Num ensaio clínico, ZOSTAVAX foi administrado a adultos com infeção VIH (com 18 ou mais anos de
+idade, contagem de células T CD4+ ≥ 200 células/µl) (ver secção 5.1). O perfil de segurança foi
+globalmente similar ao Sub-estudo de Monitorização de Acontecimentos Adversos no SPS. Os
+acontecimentos adversos foram seguidos até ao Dia 42 pós-vacinação e os acontecimentos adversos
+graves foram seguidos durante todo o período de ensaio (i.e., até ao Dia 180). Dos 295 indivíduos que
+receberam ZOSTAVAX, foi notificado no Dia 4 após a primeira dose de ZOSTAVAX, um caso grave de
+erupção maculo-papular relacionado com a vacina (ver secção 4.3).
+
+
+                                                   7
+Adultos VVZ-seronegativos
+Com base em dados limitados de 2 ensaios clínicos, que envolveram indivíduos VVZ-seronegativos ou
+com baixa seropositividade (30 ou mais anos de idade), que receberam a vacina viva atenuada para
+prevenção de herpes zoster, os acontecimentos adversos sistémicos e no local de injeção foram geralmente
+semelhantes aos notificados por outros indivíduos que receberam ZOSTAVAX em ensaios clínicos, com 2
+dos 27 indivíduos a notificarem febre. Nenhum indivíduo notificou erupções cutâneas tipo varicela ou tipo
+herpes zoster. Não foram notificados acontecimentos adversos graves relacionados com a vacina.
+
+e. Outros ensaios
+
+Adultos que receberam doses adicionais/revacinação
+Num ensaio clínico, adultos com 60 ou mais anos de idade, receberam uma segunda dose de
+ZOSTAVAX, 42 dias após a dose inicial (ver secção 5.1). A frequência de acontecimentos adversos
+relacionados com a vacina após a segunda dose de ZOSTAVAX foi globalmente semelhante à observada
+com a primeira dose.
+
+Num outro ensaio, ZOSTAVAX foi administrado como dose de reforço a indivíduos com 70 ou mais anos
+de idade, sem história de HZ, que tinham recebido uma primeira dose da vacina aproximadamente 10 anos
+antes e foi administrado como primeira dose a indivíduos com 70 ou mais anos de idade, sem história de
+HZ (ver secção 5.1). A frequência de acontecimentos adversos com a vacina após a dose de reforço de
+ZOSTAVAX foi globalmente semelhante à observada com a primeira dose.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma vez
+que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema nacional
+de notificação mencionado no Apêndice V.
+
+4.9   Sobredosagem
+
+A administração de doses de ZOSTAVAX superiores às recomendadas foi raramente notificada e o perfil
+de reações adversas foi comparável ao observado com a dosagem de ZOSTAVAX recomendada.
+
+
+
+5.    PROPRIEDADES FARMACOLÓGICAS
+
+5.1   Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Vacinas, Vacina viral, código ATC: J07BK02
+
+Mecanismo de ação
+Qualquer pessoa que tenha sido infetada com o VVZ, incluindo quem não tenha antecedentes clínicos de
+varicela, encontra-se em risco de desenvolver herpes zoster. O risco parece estar causalmente relacionado
+com uma diminuição na imunidade específica contra o VVZ. O ZOSTAVAX revelou reforçar a
+imunidade específica contra o VVZ, pelo que se pensa ser este o mecanismo através do qual protege
+contra o herpes zoster e suas complicações (ver Imunogenicidade).
+
+Eficácia Clínica
+A eficácia clínica protetora de ZOSTAVAX foi demonstrada em dois ensaios clínicos, de grande
+dimensão, aleatorizados, controlados por placebo (ver Tabelas 2 e 3).
+
+Ensaio de Eficácia e Segurança de ZOSTAVAX (ZEST) em indivíduos dos 50 aos 59 anos de idade:
+
+
+                                                    8
+O estudo ZEST foi um ensaio clínico, controlado por placebo, em dupla ocultação, em que
+22.439 indivíduos foram aleatorizados para receber uma dose única de ZOSTAVAX ou placebo e foram
+monitorizados para o desenvolvimento de herpes zoster durante um período mediano de 1,3 anos (entre 0
+e 2 anos). A determinação final de casos de herpes zoster foi realizada por reação em cadeia de polimerase
+(PCR) [86 %], ou na ausência de deteção de vírus, como determinado por uma comissão de avaliação
+clínica [14 %]. ZOSTAVAX diminuiu significativamente a incidência de herpes zoster comparativamente
+ao placebo (ver Tabela 2).
+
+Tabela 2: Eficácia de ZOSTAVAX na incidência de herpes zoster em comparação com placebo no
+ensaio ZEST, em indivíduos dos 50 aos 59 anos de idade*
+
+               ZOSTAVAX                                             Placebo                      Eficácia da
+                                                                                                    vacina
+  Número        Número           Taxa de          Número           Número         Taxa de         (IC 95%)
+     de         de casos        incidência           de               de        incidência
+ indivíduos        de         herpes zoster      indivíduos         casos        de herpes
+                 herpes
+                                por 1.000                             de        zoster por
+                 zoster
+                               pessoas ano                         herpes          1.000
+                                                                    zoster     pessoas ano
+   11.211           30              2,0            11.228            99             6,6              70 %
+                                                                                                 (54 %, 81 %)
+*A análise foi realizada na população intenção-de-tratar (ITT) que incluiu todos os indivíduos aleatorizados no estudo ZEST
+
+
+Ensaio de Prevenção da Zona (SPS) em Indivíduos de 60 anos de idade ou mais:
+O estudo SPS foi um ensaio clínico em dupla ocultação, controlado por placebo em que 38.546 indivíduos
+foram aleatorizados para receber uma dose única de ZOSTAVAX ou placebo e foram monitorizados para
+o desenvolvimento de herpes zoster durante um período mediano de 3,1 anos (entre 31 dias a 4,9 anos).
+
+ZOSTAVAX diminuiu significativamente a incidência de herpes zoster em comparação com o placebo
+(ver Tabela 3).
+
+Tabela 3: Eficácia de ZOSTAVAX na incidência de herpes zoster em comparação com placebo no
+SPS em indivíduos dos 60 anos ou mais de idade*
+
+ Grupo                     ZOSTAVAX                                            Placebo                        Eficácia da
+ de                                                                                                              vacina
+               Número         Número           Taxa de        Número           Número          Taxa de         (IC 95%)
+       †
+ idades
+                  de         de casos        incidência          de           de casos       incidência
+              indivíduos     de herpes        de herpes      indivíduos       de herpes       de herpes
+                               zoster        zoster por                         zoster       zoster por
+                                                1.000                                           1.000
+                                            pessoas ano                                     pessoas ano
+ ≥ 60          19.254            315             5,4           19.247            642            11,1         51 % (44 %,
+                                                                                                                58 %)
+ 60-69         10.370            122             3,9           10.356            334            10,8         64 % (56 %,
+                                                                                                                71 %)
+ ≥ 70           8.884            193             7,2            8.891            308            11,5         38 % (25 %,
+                                                                                                                48%)
+ 70-79          7.621            156             6,7            7.559            261            11,4         41 % (28 %;
+                                                                                                                52 %)
+* A análise foi realizada na população intenção-de-tratar modificada (MITT) que incluiu todos os indivíduos aleatorizados no
+estudo, que foram seguidos pelo menos 30 dias pós-vacinação e não desenvolveram um caso avaliável de herpes zoster nos 30
+primeiros dias pós-vacinação
+† Estratos de idade na aleatorização foram de 60-69 e ≥ 70 anos de idade
+
+
+                                                               9
+No SPS, a redução no herpes zoster foi observada em quase todos os dermátomos. Verificou-se a
+ocorrência de herpes zoster oftálmico em 35 indivíduos vacinados com ZOSTAVAX vs. 69 indivíduos
+que receberam placebo. Verificou-se diminuição da visão em 2 indivíduos vacinados com ZOSTAVAX
+vs. 9 que receberam placebo.
+
+ZOSTAVAX diminuiu significativamente a incidência de Nevralgia Pós-Herpética (NPH) em comparação
+com o placebo (ver Tabela 4). Em indivíduos que desenvolveram herpes zoster, ZOSTAVAX diminuiu o
+risco de desenvolvimento subsequente de NPH. No grupo da vacina, o risco de desenvolvimento de NPH
+após herpes zoster foi de 9 % (27/315), enquanto que no grupo do placebo foi de 13 % (80/642). Este
+efeito foi mais acentuado no grupo dos indivíduos mais idosos (≥ 70 anos de idade), em que o risco de
+desenvolvimento de NPH após herpes zoster apresentou uma redução para 10 % no grupo da vacina vs.
+19 % no grupo do placebo.
+
+Tabela 4: Eficácia de ZOSTAVAX na incidência de NPH† em comparação com placebo no SPS nos
+indivíduos com 60 ou mais anos de idade*
+
+Grupo                     ZOSTAVAX                                           Placebo                          Eficácia da
+  de                                                                                                             vacina
+idades‡      Número         Número          Taxa de          Número          Número         Taxa de            (IC 95%)
+                de          de casos       incidência           de           de casos      incidência
+            indivíduos      de NPH        de NPH por        indivíduos       de NPH         de NPH
+                                             1.000                                         por 1.000
+                                          pessoas ano                                       pessoas
+                                                                                              ano
+≥ 60          19.254            27              0,5           19.247            80             1,4               67 %§
+                                                                                                             (48 %, 79 %)
+60-69         10.370             8              0,3           10.356            23             0,7               66 %
+                                                                                                             (20 %, 87 %)
+≥ 70           8.884            19              0,7            8.891            57             2,1               67 %
+                                                                                                             (43 %, 81 %)
+70-79          7.621            12              0,5            7.559            45             2,0               74 %
+                                                                                                             (49 %, 87 %)
+† NPH foi definida como uma dor associada a herpes zoster classificada como ≥ 3 (numa escala de 0-10), persistindo ou
+aparecendo mais de 90 dias após o aparecimento de erupção tipo herpes zoster utilizando o Zoster Brief Pain Inventory (ZBPI).
+* A tabela baseia-se na população intenção-de-tratar modificada (MITT) que incluiu todos os indivíduos aleatorizados no estudo
+que foram monitorizados pelo menos 30 dias pós-vacinação e não desenvolveram um caso avaliável de herpes zoster nos
+primeiros 30 dias pós-vacinação.
+‡ Estratos de idade na aleatorização foram de 60-69 e ≥ 70 anos de idade
+§
+  Estimativa ajustada da idade estimada com base no estrato de idade (60-69 anos e ≥ 70 anos de idade) na aleatorização
+
+
+ZOSTAVAX reduziu significativamente o valor de Burden of Illness (BOI) para dor associada ao herpes
+zoster (ver Tabela 5).
+
+
+
+
+                                                              10
+Tabela 5: Redução de dor associada a herpes zoster pelo valor de BOI† no SPS em indivíduos com
+60 ou mais anos de idade
+
+Grupo                      ZOSTAVAX                                             Placebo                        Eficácia da
+  de                                                                                                             vacina
+idades‡     Número           Número de          Taxa de        Número           Número de      Taxa de         (IC 95 %)
+            de                 casos             BOI              de              casos         BOI
+            indivíduos      confirmados          média        indivíduos       confirmados      média
+                             de herpes                                          de herpes
+                               zoster                                             zoster
+≥ 60          19.254             315              2,21           19.247           642             5,68            61 %
+                                                                                                              (51 %, 69 %)
+60-69         10.370             122               1,5           10.356           334             4,33            66 %
+                                                                                                              (52 %, 76 %)
+≥ 70           8.884             193              3,47           8.891            308             7,78            55 %
+                                                                                                              (40 %, 67 %)
+70-79          7.621             156              3,04           7.559            261             7,43            59 %
+                                                                                                              (43 %, 71 %)
+† O valor de BOI para dor associada ao herpes zoster é uma escala que incorpora a incidência, gravidade e duração de dor aguda e
+
+crónica associada ao herpes zoster durante um período de seguimento de 6 meses.
+‡ Estratos de idade na aleatorização foi de 60-69 anos e ≥ 70 anos de idade.
+
+Prevenção de casos de HZ com dor grave em toda a população do ensaio SPS
+ZOSTAVAX reduziu a incidência de herpes zoster com dor grave e persistente (valor para a
+gravidade-pela-duração > 600) em 73 % (IC 95 % : [46 a 87 %]) em comparação com o placebo (11 vs
+40 casos, respetivamente).
+
+Redução da gravidade-pela-duração da dor provocada pelo herpes zoster em indivíduos vacinados que
+desenvolveram herpes zoster
+Relativamente à dor aguda (dor entre 0-30 dias) não se verificou uma diferença estatisticamente
+significativa entre o grupo da vacina e o grupo do placebo.
+
+Contudo, entre os indivíduos vacinados que desenvolveram NPH, o ZOSTAVAX reduziu
+significativamente a dor (crónica) associada ao NPH em comparação com o placebo. No período de
+90 dias após o início da erupção cutânea até ao final do acompanhamento, verificou-se uma redução de
+57 % no valor da gravidade-pela-duração (valores médios de 347 para o ZOSTAVAX e de 805 para o
+placebo; p=0,016).
+
+Globalmente, entre os indivíduos vacinados que desenvolveram herpes zoster, ZOSTAVAX reduziu
+significativamente a dor global aguda e crónica associada ao herpes zoster em comparação com o placebo.
+Ao longo do período de acompanhamento de 6 meses (dor aguda e crónica), verificou-se uma redução de
+22 % (p =0,008) no valor da gravidade-pela-duração e uma redução de 52 % (IC 95 % [7 a 74 %]) (de
+6,2 % a 3,5 %) no risco de desenvolvimento de herpes zoster com dor grave e persistente
+(gravidade-pela-duração > 600).
+
+Persistência da proteção de ZOSTAVAX
+A persistência da proteção no seguimento da vacinação foi avaliada durante uma monitorização de longo
+prazo no Sub-estudo de Persistência a Curto Prazo (STPS) e no Sub-estudo de Persistência a Longo Prazo
+(LTPS) e suporta o benefício continuado de ZOSTAVAX através dos períodos de monitorização
+estudados. O STPS foi iniciado para obter informação adicional sobre a persistência da eficácia da vacina
+para os indivíduos que receberam ZOSTAVAX no SPS.
+
+
+
+
+                                                                11
+A persistência da eficácia de ZOSTAVAX foi estudada 4 a 7 anos pós-vacinação no STPS, que incluiu
+7.320 indivíduos previamente vacinados com ZOSTAVAX e 6.950 indivíduos previamente vacinados
+com placebo no SPS (idade mediana no recrutamento foi 73,3 anos); e 7 a 10 anos pós-vacinação no Sub-
+estudo de Persistência a Longo Prazo (LTPS), que incluiu 6.867 indivíduos previamente vacinados com
+ZOSTAVAX (idade média no recrutamento no LTPS foi 74,5 anos). A mediana de seguimento foi de
+~1,2 anos (intervalo de um dia a 2,2 anos) e de ~3,9 anos (intervalo de uma semana a 4,75 anos) no STPS
+e LTPS, respetivamente. Durante o decorrer do STPS, foi administrado ZOSTAVAX aos indivíduos que
+receberam placebo, momento em que foram considerados como tendo completado o STPS. Não estava
+disponível no LTPS um controlo por placebo concomitante; os dados dos indivíduos que tinham recebido
+previamente placebo foram utilizados para estimar a eficácia da vacina.
+
+No STPS houve 84 casos avaliáveis de herpes zoster [8,4/1.000 pessoa-anos] no grupo ZOSTAVAX e
+95 casos avaliáveis [14,0/1.000 pessoa-anos] no grupo placebo. A eficácia estimada da vacina durante o
+período de seguimento do STPS foi de 40 % (IC 95 % [18 a 56 %]) para a incidência de herpes zoster,
+60 % (IC 95 % [-10 a 87 %]) para a incidência de NPH e 50 % (IC 95 % [14 a 71 %]) para o valor BOI
+para herpes zoster.
+
+No LTPS houve 263 casos avaliáveis de herpes zoster notificados entre 261 indivíduos
+[10,3/1.000 pessoa-anos]. A eficácia estimada da vacina durante o período de seguimento do LTPS foi de
+21 % (IC 95 % [11 a 30 %]) para a incidência de herpes zoster, 35 % (IC 95 % [9 a 56 %]) para a
+incidência de NPH e 37 % (IC 95 % [27 a 46 %]) para o valor BOI para herpes zoster.
+
+Estudo de efetividade a longo prazo em indivíduos com 50 ou mais anos de idade
+No estudo de larga escala nos EUA, observacional, prospetivo de coorte, sobre a efetividade a longo prazo
+de ZOSTAVAX, indivíduos com 50 ou mais anos de idade no momento da vacinação foram seguidos
+quanto à ocorrência de HZ e NPH através de parâmetros de avaliação final validados.
+
+Dos 1.505.647 indivíduos do estudo, 507.444 receberam ZOSTAVAX entre 2007 e 2018. Foram
+observados um total de 75.135 casos confirmados de HZ e 4.954 casos confirmados de NPH (> 90 dias de
+dor associada ao zoster). Os resultados mostraram que ZOSTAVAX é efetivo na redução da incidência de
+HZ e NPH por mais de 8-10 anos em indivíduos vacinados quando comparado com um grupo de
+referência não vacinado.
+
+As estimativas da efetividade da vacina (EV) contra o HZ por idade no momento da vacinação e as
+estimativas médias da EV durante os primeiros 3, 5, 8 e 10 anos pós-vacinação estão apresentados em
+baixo (ver Tabela 6).
+
+
+
+
+                                                   12
+Tabela 6: EV† de ZOSTAVAX contra HZ durante o período de estudo e em média durante 3,
+5, 8 e 10 anos, por idade no momento da vacinação. 2007 a 2018
+
+
+                                                      Idade no momento da vacinação*
+
+                           50-59 anos           60-69 anos          70-79 anos            80+ anos          Entre todas
+                                                                                                              as faixas
+                                                                                                               etárias
+                              EV %                EV %                EV %                 EV %                EV %
+                            (IC 95 %)           (IC 95 %)           (IC 95 %)            (IC 95 %)           (IC 95 %)
+  EV ao longo do
+   período em
+     estudo‡
+ 2007-2018                     48 %                47 %                44 %                 41 %                46 %
+                              (44; 51)            (46; 49)            (42; 46)             (38; 45)            (45; 47)
+     EV média§
+
+ 3 anos                        57 %                57 %                50 %                 48 %                54 %
+ pós-vacinação                (52; 61)            (55; 58)            (48; 53)             (44; 52)            (53; 55)
+ 5 anos                        50 %                51 %                46 %                 41 %                48 %
+ pós-vacinação                (46; 54)            (49; 52)            (44; 48)             (37; 45)            (47; 49)
+ 8 anos                        42 %                44 %                39 %                 36 %                42 %
+ pós-vacinação                (34; 49)            (42; 46)            (37; 42)             (31; 40)            (40; 43)
+ 10 anos                                           40 %                36 %                 31 %                38 %
+                                 ¶
+ pós-vacinação                                    (38; 42)            (33; 39)             (26; 36)            (37; 40)
+† A EV foi estimada para o primeiro episódio de herpes zoster durante o seguimento e foi calculada como (1-hazards ratio)*100
+* Modelos Cox ajustados por tempo de calendário, idade, género, raça/etnia, utilização de cuidados de saúde (vacinação contra a
+gripe, número de semanas com consulta de ambulatório por ano, comorbilidades (pontuação DxCG, pontuação de risco HCUP),
+estado de imunossupressão durante o seguimento
+‡ A EV durante o período de estudo é a EV calculada ao longo de toda a duração do estudo (2007-2018)
+§ A EV média foi calculada como a média ponderada das estimativas anuais de EV durante 3, 5, 8 e 10 anos, respetivamente, nos
+quais as ponderações são a proporção do total do período coberto
+¶ Dados indisponíveis
+Abreviaturas: EV significa efetividade da vacina; IC intervalo de confiança; DxCG custo do grupo de diagnóstico; HCUP projeto
+de custo e utilização de cuidados de saúde
+
+
+As estimativas da EV contra a NPH por idade no momento da vacinação e as estimativas médias durante
+os primeiros 3, 5 e 8 anos pós-vacinação estão apresentadas em baixo (ver Tabela 7).
+
+
+
+
+                                                              13
+Tabela 7: EV† de ZOSTAVAX contra a nevralgia pós-herpética (NPH) durante o período de
+estudo e em média durante 3, 5 e 8 anos, por idade no momento da vacinação. 2007 a 2018
+
+
+                                                     Idade no momento da vacinação*
+                           50-59 anos          60-69 anos           70-79 anos           80+ anos           Entre todas
+                                                                                                              as faixas
+                                                                                                               etárias
+                             EV %                 EV %                EV %                 EV %                EV %
+                           (IC 95 %)            (IC 95 %)           (IC 95 %)            (IC 95 %)           (IC 95 %)
+  EV ao longo do
+   período em
+      estudo‡
+ 2007-2018                    63 %                 65 %                60 %                 62 %                62 %
+                             (43; 76)             (60; 69)            (55; 64)             (55; 68)            (59; 65)
+    EV média§
+
+ 3 anos                       68 %                 76 %                71 %                 69 %                72 %
+ pós-vacinação               (40; 83)             (71; 81)            (65; 76)             (60; 77)            (68; 75)
+ 5 anos                       62 %                 71 %                66 %                 63 %                67 %
+ pós-vacinação               (40; 76)             (66; 75)            (61; 71)             (54; 70)            (64; 70)
+ 8 anos                                            64 %                61 %                 60 %                61 %
+                                 ¶
+ pós-vacinação                                    (59; 69)            (56; 66)             (50; 68)            (58; 65)
+† A EV foi estimada para o primeiro episódio de herpes zoster durante o seguimento e foi calculada como (1-hazards ratio)*100
+* Modelos Cox ajustados por tempo de calendário, idade, género, raça/etnia, utilização de cuidados de saúde (vacinação contra a
+gripe, número de semanas com consulta de ambulatório por ano, comorbilidades (pontuação DxCG, pontuação de risco HCUP),
+estado de imunossupressão durante o seguimento
+‡ A EV durante o período de estudo é a EV calculada ao longo de toda a duração do estudo (2007-2018)
+§ A EV média foi calculada como a média ponderada das estimativas anuais de EV durante 3, 5 e 8 anos, respetivamente, nos
+quais as ponderações são a proporção do total do período coberto
+¶ Dados indisponíveis
+Abreviaturas: EV significa efetividade da vacina; IC intervalo de confiança; DxCG custo do grupo de diagnóstico; HCUP projeto
+de custo e utilização de cuidados de saúde
+
+
+Imunogenicidade do ZOSTAVAX
+Ensaio de Prevenção da Zona (Shingles Prevention Study - SPS)
+No SPS, as respostas imunitárias à vacinação foram avaliadas num sub-conjunto de doentes incluídos no
+ensaio (N=1.395). Em comparação com o placebo, o ZOSTAVAX induziu respostas imunitárias
+significativamente mais acentuadas específicas para o VVZ 6 semanas pós-vacinação.
+
+Ensaio de Eficácia e Segurança de ZOSTAVAX (ZEST)
+No ZEST, as respostas imunitárias à vacinação foram avaliadas numa subcoorte aleatória de 10 %
+(n=1.136 para o ZOSTAVAX e n= 1.133 para o placebo) dos indivíduos recrutados no ensaio ZEST.
+Comparativamente com o placebo, o ZOSTAVAX induziu respostas imunitárias específicas para o VVZ
+significativamente mais acentuadas 6 semanas pós-vacinação.
+
+Quando avaliada, 4 semanas após a vacinação, a imunogenicidade da atual formulação estável em
+frigorífico mostrou ser semelhante à imunogenicidade da anterior formulação congelada de ZOSTAVAX.
+
+Indivíduos que receberam ZOSTAVAX por via subcutânea (SC) ou por via intramuscular (IM)
+Num ensaio clínico aberto, aleatorizado, controlado, ZOSTAVAX foi administrado tanto por via SC como
+por via IM a 353 indivíduos com 50 ou mais anos de idade. Os indivíduos com trombocitopenia grave ou
+qualquer outra alteração da coagulação foram excluídos. As respostas imunitárias específicas para o VVZ
+induzidas por ZOSTAVAX às 4 semanas pós-vacinação, foram comparáveis quando se administrou tanto
+por via SC como por via IM.
+
+
+                                                              14
+Administração concomitante
+Num ensaio clínico controlado, em dupla-ocultação, 762 adultos com 50 ou mais anos de idade, foram
+aleatorizados para receberem uma dose única de ZOSTAVAX administrada concomitantemente (N=382)
+ou não-concomitantemente (N=380) com a vacina contra a gripe fracionada inativada. As respostas
+imunitárias específicas para o VVZ induzidas por ambas as vacinas 4 semanas pós-vacinação foram
+semelhantes, quer quando administradas concomitantemente ou separadamente.
+
+Num ensaio clínico controlado, em dupla-ocultação, 473 adultos com 60 ou mais anos de idade, foram
+aleatorizados para receberem uma dose única de ZOSTAVAX administrada concomitantemente (N=237)
+ou não-concomitantemente (N=236) com a vacina antipneumocócica polissacarídica 23-valente. As
+respostas imunitárias específicas para o VVZ , 4 semanas pós-vacinação concomitante, não foram
+semelhantes às respostas imunitárias específicas para o VVZ observadas no seguimento da administração
+não-concomitante. Contudo, num estudo coorte de efetividade nos EUA com 35.025 adultos ≥ 60 anos de
+idade, não foi observado risco aumentado de herpes zoster nos indivíduos que receberam
+concomitantemente ZOSTAVAX e a vacina antipneumocócica polissacarídica 23-valente (n=16.532),
+comparativamente com os indivíduos que receberam ZOSTAVAX um mês a um ano após a vacina
+antipneumocócica polissacarídica 23-valente(n=18.493) decorrente da prática clínica de rotina.
+A hazard ratio ajustada que compara a taxa de incidência de herpes zoster nos dois grupos, foi de 1,04
+(IC 95 %; 0,92; 1,16) para uma mediana de seguimento de 4,7 anos. Os dados não indicam que a
+administração concomitante altere a efetividade de ZOSTAVAX.
+
+Indivíduos com história de herpes zoster (HZ) antes da vacinação
+Num ensaio clínico, aleatorizado, controlado por placebo, em dupla-ocultação, ZOSTAVAX foi
+administrado a 100 indivíduos com 50 ou mais anos de idade, com história de herpes zoster antes da
+vacinação, para avaliar a imunogenicidade e segurança (ver secção 4.8) de ZOSTAVAX. ZOSTAVAX
+induziu uma resposta imunitária específica para o VVZ 4 semanas pós-vacinação significativamente
+maior, comparativamente com o placebo. A resposta imunitária específica para o VVZ foi de um modo
+geral similar nos indivíduos com idades entre os 50 e os 59 anos, comparativamente com os indivíduos
+≥ 60 anos de idade.
+
+Adultos que receberam uma dose adicional/revacinação
+Não se determinou ainda a necessidade, ou o momento adequado, para a administração de uma dose de
+reforço de ZOSTAVAX. Num ensaio aberto, ZOSTAVAX foi administrado como: (1) dose de reforço a
+201 indivíduos com 70 ou mais anos de idade, sem história de herpes zoster, que tinham recebido uma
+primeira dose aproximadamente 10 anos antes, como participantes no SPS e (2) primeira dose a
+199 indivíduos com 70 ou mais anos de idade sem história de herpes zoster. As respostas imunitárias
+específicas para o VVZ, 6 semanas pós-vacinação, foram comparáveis no grupo que fez a dose de reforço
+e no grupo que fez uma única dose (primeira).
+
+Indivíduos em corticoterapia sistémica crónica ou de manutenção
+Num ensaio clínico em dupla-ocultação, controlado por placebo e aleatorizado, ZOSTAVAX foi
+administrado a 206 indivíduos com 60 ou mais anos de idade em terapêutica sistémica com
+corticosteroides, crónica ou de manutenção, numa dose diária equivalente a 5 a 20 mg de prednisona,
+durante pelo menos 2 semanas antes do recrutamento e 6 ou mais semanas após a vacinação, para avaliar o
+perfil de segurança e a imunogenicidade de ZOSTAVAX.
+Comparativamente com placebo, ZOSTAVAX induziu um título superior de resposta imunitária
+específica para o VVZ 6 semanas pós-vacinação.
+
+Adultos com infeção VIH com função imunitária preservada
+Num ensaio clínico em dupla ocultação, controlado por placebo e aleatorizado, ZOSTAVAX foi
+administrado a adultos com infeção VIH (com 18 ou mais anos de idade; mediana de idade 49 anos), sob
+terapêutica antiretroviral adequada e com função imunitária preservada (contagem de células T CD4+
+
+
+                                                  15
+≥ 200 células/µl).Apesar de ZOSTAVAX ser indicado num esquema de dose única (ver secção 4.2), foi
+utilizado um esquema de duas doses. 286 indivíduos receberam duas doses e 9 indivíduos receberam
+apenas uma dose. As respostas imunitárias específicas para o VVZ após as doses 1 e 2 foram semelhantes
+(ver secção 4.3).
+
+Indivíduos imunocomprometidos
+A vacina não foi estudada em indivíduos com imunodeficiências.
+
+A Agência Europeia de Medicamentos dispensou a obrigação de apresentação dos resultados dos estudos
+com ZOSTAVAX em todos os subgrupos da população pediátrica (ver secção 4.2 para informação sobre
+utilização pediátrica).
+
+5.2   Propriedades farmacocinéticas
+
+Não aplicável.
+
+5.3   Dados de segurança pré-clínica
+
+Não foram realizados os ensaios não-clínicos tradicionais, mas não existem preocupações relevantes em
+termos não-clínicos para a segurança clínica para além das informações incluídas nas outras secções do
+Resumo das Características do Medicamento (RCM).
+
+
+
+6.    INFORMAÇÕES FARMACÊUTICAS
+
+6.1   Lista dos Excipientes
+
+Pó:
+Sacarose
+Gelatina hidrolisada
+Cloreto de sódio
+Di-hidrogenofosfato de potássio
+Cloreto de potássio
+L-glutamato monossódico mono-hidratado
+Fosfato dissódico
+Hidróxido de sódio (para ajuste do pH)
+Ureia
+
+Veículo:
+Água para preparações injetáveis
+
+6.2   Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros
+medicamentos.
+
+6.3   Prazo de validade
+
+18 meses.
+
+Após reconstituição, a vacina deve ser utilizada imediatamente. Contudo, foi demonstrada estabilidade em
+uso durante 30 minutos, quando conservada a 20C - 25C.
+
+
+
+                                                   16
+6.4   Precauções especiais de conservação
+
+Conservar e transportar refrigerado (2ºC – 8ºC).
+Não congelar.
+Conservar na embalagem de origem para proteger da luz.
+
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+
+6.5   Natureza e conteúdo do recipiente
+
+ZOSTAVAX com veículo para reconstituição num frasco para injetáveis:
+Pó em frasco para injetáveis (vidro) com rolha (borracha butílica) e cápsula de abertura fácil (alumínio) e
+veículo em frasco para injetáveis (vidro) com rolha (borracha clorobutílica) e cápsula de abertura fácil
+(alumínio), em embalagens de 1 ou 10.
+
+ZOSTAVAX com veículo para reconstituição numa seringa pré-cheia:
+Pó em frasco para injetáveis (vidro) com rolha (borracha butílica), cápsula de abertura fácil (alumínio) e
+veículo numa seringa pré-cheia (vidro) com êmbolo-rolha (borracha clorobutílica) e proteção da
+extremidade (borracha butadieno estireno) com uma ou duas agulhas não acopladas, em embalagens de 1,
+10 ou 20.
+
+Pó em frasco para injetáveis (vidro) com rolha (borracha butílica), cápsula de abertura fácil (alumínio) e
+veículo numa seringa pré-cheia (vidro) com êmbolo-rolha (borracha clorobutílica) e proteção da
+extremidade (borracha butadieno estireno) sem agulha, em embalagens de 1, 10 ou 20.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6   Precauções especiais de eliminação e manuseamento
+
+Antes de misturar com o veículo, o pó da vacina é um massa cristalina, compacta, branca a esbranquiçada.
+O veículo é um líquido incolor límpido. Quando reconstituída, ZOSTAVAX é um líquido esbranquiçado a
+amarelo pálido, semiturvo a translúcido.
+
+Evitar o contacto com desinfetantes uma vez que podem inativar o vírus da vacina.
+
+Para reconstituição da vacina, utilize o veículo fornecido.
+
+É importante que se utilizem seringa e agulha estéreis diferentes para cada pessoa, com vista a evitar a
+transmissão de agentes infeciosos de um indivíduo para outro.
+
+Deve ser utilizada uma agulha para a reconstituição e uma agulha diferente, nova para a injeção.
+
+Instruções de reconstituição
+
+ZOSTAVAX com veículo para reconstituição num frasco para injetáveis:
+Retirar todo o conteúdo do frasco para injetáveis de veículo para uma seringa. Injetar todo o conteúdo da
+seringa no frasco para injetáveis que contém o pó. Agitar suavemente para dissolver completamente.
+
+Antes da administração, a vacina reconstituída deve ser inspecionada visualmente para deteção de
+quaisquer partículas e/ou aspeto físico anormal. No caso de ser detetada alguma das situações anteriores, a
+vacina deve ser inutilizada.
+
+
+
+
+                                                     17
+Recomenda-se que a vacina seja administrada imediatamente após reconstituição, para minimizar a
+perda de potência. Rejeitar a vacina reconstituída se não for utilizada no período de 30 minutos.
+
+Não congelar a vacina reconstituída.
+
+Retirar todo o conteúdo da vacina reconstituída do frasco para injetáveis para uma seringa, mudar a agulha
+e injetar todo o volume por via subcutânea ou intramuscular.
+
+ZOSTAVAX com veículo para reconstituição numa seringa pré-cheia:
+Para acoplar a agulha, esta deve colocar-se com firmeza na extremidade da seringa e prender-se rodando
+um quarto de volta (90º).
+
+Injetar todo o conteúdo da seringa de veículo no frasco para injetáveis contendo o pó. Agitar suavemente
+para dissolver completamente.
+
+Antes da administração, a vacina reconstituída deve ser inspecionada visualmente para deteção de
+quaisquer partículas e/ou aspeto físico anormal. No caso de ser detetada alguma das situações anteriores, a
+vacina deve ser inutilizada.
+
+Recomenda-se que a vacina seja administrada imediatamente após reconstituição, para minimizar a
+perda de potência. Rejeitar a vacina reconstituída se não for utilizada no período de 30 minutos.
+
+Não congelar a vacina reconstituída.
+
+Retirar todo o conteúdo da vacina reconstituída do frasco para injetáveis para uma seringa, mudar a agulha
+e injetar todo o volume por via subcutânea ou intramuscular.
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+
+
+7.   TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+
+
+8.    NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/341/001
+EU/1/06/341/002
+EU/1/06/341/005
+EU/1/06/341/006
+EU/1/06/341/007
+EU/1/06/341/008
+EU/1/06/341/009
+EU/1/06/341/010
+EU/1/06/341/011
+EU/1/06/341/012
+EU/1/06/341/013
+
+
+
+                                                    18
+9.    DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+      INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 19 de maio de 2006
+Data da última renovação: 11 de fevereiro de 2016
+
+
+
+10.   DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+
+
+
+                                                    19
+                       ANEXO II
+
+A.   FABRICANTES DAS SUBSTÂNCIAS ATIVAS DE ORIGEM
+     BIOLÓGICA E FABRICANTE RESPONSÁVEL PELA
+     LIBERTAÇÃO DO LOTE
+
+B.   CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+     FORNECIMENTO E UTILIZAÇÃO
+
+C.   OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+     INTRODUÇÃO NO MERCADO
+
+D.   CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+     SEGURA E EFICAZ DO MEDICAMENTO
+
+
+
+
+                          20
+A.    FABRICANTE DAS SUBSTÂNCIAS ATIVAS DE ORIGEM BIOLÓGICA E
+      FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante das substâncias ativas de origem biológica
+
+Merck Sharp & Dohme LCC
+770 Sumneytown Pike
+West Point, Pennsylvania
+19486 E.U.A.
+
+Nome e endereço do fabricante responsável pela libertação do lote
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+
+
+B.    CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento sujeito a receita médica.
+
+
+     Libertação oficial do lote
+
+Nos termos do artigo 114º da Diretiva 2001/83/CE, a libertação oficial do lote será feita por um
+laboratório estatal ou um laboratório designado para esse efeito.
+
+
+
+C.    OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+      MERCADO
+
+     Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia de
+datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 170.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+
+
+
+D.    CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO
+      MEDICAMENTO
+
+     Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e quaisquer
+atualizações subsequentes do PGR que sejam acordadas.
+
+Deve ser apresentado um PGR atualizado:
+     A pedido da Agência Europeia de Medicamentos
+     Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da receção
+      de nova informação que possa levar a alterações significativas no perfil benefício-risco ou como
+      resultado de ter sido atingido um objetivo importante (farmacovigilância ou minimização do risco).
+
+                                                    21
+           ANEXO III
+
+
+
+ROTULAGEM E FOLHETO INFORMATIVO
+
+
+
+
+              22
+A. ROTULAGEM
+
+
+
+
+     23
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+
+ZOSTAVAX - Pó em frasco para injetáveisae veículo em frasco para injetáveis - Embalagens de 1,
+10
+
+
+
+1.    NOME DO MEDICAMENTO
+
+ZOSTAVAX pó e veículo para suspensão injetável
+Vacina viva contra a zona (Herpes zoster)
+
+
+
+2.    DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Após reconstituição, 1 dose (0,65 ml) contém:
+Vírus da varicela-zoster, estirpe Oka/Merck, (vivo, atenuado)    19.400 UFP
+
+
+3.    LISTA DOS EXCIPIENTES
+
+Sacarose, gelatina hidrolisada, NaCl, di-hidrogenofosfato de potássio, KCl, L-glutamato monossódico
+mono-hidratado, fosfato dissódico, NaOH, ureia, água para preparações injetáveis.
+
+
+
+4.    FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó e veículo para suspensão injetável
+1 frasco para injetáveis (pó) + 1 frasco para injetáveis (veículo)
+10 frascos para injetáveis (pó) + 10 frascos para injetáveis (veículo)
+
+
+
+5.    MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via subcutânea ou intramuscular.
+Consultar o folheto informativo antes de utilizar.
+
+
+
+6.    ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA
+      DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+
+
+7.    OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+
+
+8.    PRAZO DE VALIDADE
+
+EXP
+
+
+
+                                                      24
+9.    CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+
+Conservar e transportar refrigerado. Não congelar. Manter o frasco para injetáveis dentro da embalagem
+exterior para proteger da luz.
+
+
+Após reconstituição, usar imediatamente ou no período de 30 minutos se conservada a 20°C - 25°C.
+
+
+
+10.   CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+      UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+      APLICÁVEL
+
+
+
+11.   NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+      MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+
+
+12.   NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/341/001   – embalagem de 1
+EU/1/06/341/002   – embalagem de 10
+
+
+13.   NÚMERO DO LOTE
+
+Lot
+
+
+
+14.   CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+
+
+15.   INSTRUÇÕES DE UTILIZAÇÃO
+
+
+
+16.   INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+
+
+17.   IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+
+
+18.   IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+                                                     25
+PC
+SN
+NN
+
+
+
+
+     26
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+
+FRASCO PARA INJETÁVEIS CONTENDO O PÓ
+
+
+
+1.    NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+ZOSTAVAX pó para injeção
+SC/IM
+
+
+
+2.    MODO DE ADMINISTRAÇÃO
+
+
+
+3.    PRAZO DE VALIDADE
+
+EXP
+
+
+
+4.    NÚMERO DO LOTE
+
+Lot
+
+
+
+5.    CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 dose
+
+
+
+6.    OUTROS
+
+MSD
+
+
+
+
+                                   27
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+
+FRASCO PARA INJETÁVEIS CONTENDO O VEÍCULO
+
+
+
+1.    NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Veículo para ZOSTAVAX
+
+
+
+2.    MODO DE ADMINISTRAÇÃO
+
+
+
+3.    PRAZO DE VALIDADE
+
+EXP
+
+
+
+4.    NÚMERO DO LOTE
+
+Lot
+
+
+
+5.    CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 dose
+
+
+
+6.    OUTROS
+
+MSD
+
+
+
+
+                                   28
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+
+ZOSTAVAX - Pó em frasco para injetáveis e veículo em seringa pré-cheia sem agulha - Embalagens
+de 1, 10, 20
+
+
+
+1.    NOME DO MEDICAMENTO
+
+ZOSTAVAX pó e veículo para suspensão injetável em seringa pré-cheia
+Vacina viva contra a zona (Herpes zoster)
+
+
+
+2.    DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Após reconstituição, 1 dose (0,65 ml) contém:
+Vírus da varicela-zoster, estirpe Oka/Merck, (vivo, atenuado)    19.400 UFP
+
+
+3.    LISTA DOS EXCIPIENTES
+
+Sacarose, gelatina hidrolisada, NaCl, di-hidrogenofosfato de potássio, KCl, L-glutamato monossódico
+mono-hidratado, fosfato dissódico, NaOH, ureia, água para preparações injetáveis.
+
+
+
+4.    FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó e veículo para suspensão injetável
+1 frasco para injetáveis (pó) + 1 seringa pré-cheia, sem agulha (veículo)
+10 frascos para injetáveis (pó) + 10 seringas pré-cheias, sem agulha (veículo)
+20 frascos para injetáveis (pó) + 20 seringas pré-cheias, sem agulha (veículo)
+
+
+
+5.    MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via subcutânea ou intramuscular.
+Consultar o folheto informativo antes de utilizar.
+
+
+
+6.    ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA
+      DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+
+
+7.    OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+
+
+8.    PRAZO DE VALIDADE
+
+EXP
+
+                                                     29
+9.    CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+
+Conservar e transportar refrigerado. Não congelar. Manter o frasco para injetáveis dentro da embalagem
+exterior para proteger da luz.
+
+
+Após reconstituição, usar imediatamente ou no período de 30 minutos se conservada a 20°C - 25°C.
+
+
+
+10.   CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+      UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+      APLICÁVEL
+
+
+
+11.   NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+      MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+
+
+12.   NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/341/005   – embalagem de 1
+EU/1/06/341/006   – embalagem de 10
+EU/1/06/341/007   – embalagem de 20
+
+
+13.   NÚMERO DO LOTE
+
+Lot
+
+
+
+14.   CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+
+
+15.   INSTRUÇÕES DE UTILIZAÇÃO
+
+
+
+16.   INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+
+
+17.   IDENTIFICADOR ÚNICO            – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+
+
+                                                     30
+18.   IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+
+
+
+                                   31
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+
+ZOSTAVAX - Pó em frasco para injetáveis e veículo em seringa pré-cheia com uma agulha não
+acoplada - Embalagens de 1, 10, 20
+
+
+
+1.    NOME DO MEDICAMENTO
+
+ZOSTAVAX pó e veículo para suspensão injetável em seringa pré-cheia
+Vacina viva contra a zona (Herpes zoster)
+
+
+
+2.    DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Após reconstituição, 1 dose (0,65 ml) contém:
+Vírus da varicela-zoster, estirpe Oka/Merck, (vivo, atenuado)    19.400 UFP
+
+
+3.    LISTA DOS EXCIPIENTES
+
+Sacarose, gelatina hidrolisada, NaCl, di-hidrogenofosfato de potássio, KCl, L-glutamato monossódico
+mono-hidratado, fosfato dissódico, NaOH, ureia, água para preparações injetáveis.
+
+
+
+4.    FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó e veículo para suspensão injetável
+1 frasco para injetáveis (pó) + 1 seringa pré-cheia (veículo) + 1 agulha
+10 frascos para injetáveis (pó) + 10 seringas pré-cheias (veículo) + 10 agulhas
+20 frascos para injetáveis (pó) + 20 seringas pré-cheias (veículo) + 20 agulhas
+
+
+
+5.    MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via subcutânea ou intramuscular.
+Consultar o folheto informativo antes de utilizar.
+
+
+
+6.    ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA
+      DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+
+
+7.    OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+
+
+8.    PRAZO DE VALIDADE
+
+EXP
+
+
+
+                                                     32
+9.    CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+
+Conservar e transportar refrigerado. Não congelar. Manter o frasco para injetáveis dentro da embalagem
+exterior para proteger da luz.
+
+
+Após reconstituição, usar imediatamente ou no período de 30 minutos se conservada a 20°C - 25°C.
+
+
+
+10.   CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+      UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+      APLICÁVEL
+
+
+
+11.   NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+      MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+
+
+12.   NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/341/008   – embalagem de 1
+EU/1/06/341/009   – embalagem de 10
+EU/1/06/341/010   – embalagem de 20
+
+
+13.   NÚMERO DO LOTE
+
+Lot
+
+
+
+14.   CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+
+
+15.   INSTRUÇÕES DE UTILIZAÇÃO
+
+
+
+16.   INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+
+
+17.   IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+
+
+
+                                                     33
+18.   IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+
+
+
+                                   34
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+
+ZOSTAVAX - Pó em frasco para injetáveis e veículo em seringa pré-cheia com 2 agulhas não
+acopladas - Embalagens de 1, 10, 20
+
+
+1.    NOME DO MEDICAMENTO
+
+ZOSTAVAX pó e veículo para suspensão injetável em seringa pré-cheia
+Vacina viva contra a zona (Herpes zoster)
+
+
+
+2.    DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Após reconstituição, 1 dose (0,65 ml) contém:
+Vírus da varicela-zoster, estirpe Oka/Merck, (vivo, atenuado)    19.400 UFP
+
+
+3.    LISTA DOS EXCIPIENTES
+
+Sacarose, gelatina hidrolisada, NaCl, di-hidrogenofosfato de potássio, KCl, L-glutamato monossódico
+mono-hidratado, fosfato dissódico, NaOH, ureia, água para preparações injetáveis.
+
+
+
+4.    FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó e veículo para suspensão injetável
+1 frasco para injetáveis (pó) + 1 seringa pré-cheia (veículo) + 2 agulhas
+10 frascos para injetáveis (pó) + 10 seringas pré-cheias (veículo) + 20 agulhas
+20 frascos para injetáveis (pó) + 20 seringas pré-cheias (veículo) + 40 agulhas
+
+
+
+5.    MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via subcutânea ou via intramuscular.
+Consultar o folheto informativo antes de utilizar.
+
+
+
+6.    ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA
+      DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+
+
+7.    OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+
+
+8.    PRAZO DE VALIDADE
+
+EXP
+
+
+
+
+                                                     35
+9.    CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+
+Conservar e transportar refrigerado. Não congelar. Manter o frasco para injetáveis dentro da embalagem
+exterior para proteger da luz.
+
+
+Após reconstituição, usar imediatamente ou no período de 30 minutos se conservada a 20°C - 25°C.
+
+
+
+10.   CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+      UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+      APLICÁVEL
+
+
+
+11.   NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+      MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+
+
+12.   NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/341/011   – embalagem de 1
+EU/1/06/341/012   – embalagem de 10
+EU/1/06/341/013   – embalagem de 20
+
+
+13.   NÚMERO DO LOTE
+
+Lot
+
+
+
+14.   CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+
+
+15.   INSTRUÇÕES DE UTILIZAÇÃO
+
+
+
+16.   INFORMAÇÃO EM BRAILLE INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS
+      UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+
+
+17.   IDENTIFICADOR ÚNICO            – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+
+
+
+                                                     36
+18.   IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+
+
+
+                                   37
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+
+FRASCO PARA INJETÁVEIS CONTENDO O PÓ
+
+
+
+1.    NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+ZOSTAVAX pó para injeção
+SC/IM
+
+
+
+2.    MODO DE ADMINISTRAÇÃO
+
+
+
+3.    PRAZO DE VALIDADE
+
+EXP
+
+
+
+4.    NÚMERO DO LOTE
+
+Lot
+
+
+
+5.    CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 dose
+
+
+
+6.    OUTROS
+
+MSD
+
+
+
+
+                                   38
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+
+SERINGA PRÉ-CHEIA DO VEÍCULO
+
+
+
+1.    NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Veículo para ZOSTAVAX
+
+
+
+2.    MODO DE ADMINISTRAÇÃO
+
+
+
+3.    PRAZO DE VALIDADE
+
+EXP
+
+
+
+4.    NÚMERO DO LOTE
+
+Lot
+
+
+
+5.    CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 dose
+
+
+
+6.    OUTROS
+
+MSD
+
+
+
+
+                                   39
+B. FOLHETO INFORMATIVO
+
+
+
+
+          40
+                          Folheto informativo: Informação para o utilizador
+
+                                             ZOSTAVAX
+                                 Pó e veículo para suspensão injetável
+                                Vacina viva contra a zona (Herpes zoster)
+
+
+
+Leia com atenção todo este folheto antes de ser vacinado, pois contém informação importante para
+si.
+     Conserve este folheto. Pode ter necessidade de o ler novamente.
+     Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+     Esta vacina foi receitada apenas para si. Não deve dá-la a outros.
+     Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+      folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+
+O que contém este folheto:
+
+1.    O que é ZOSTAVAX e para que é utilizado
+2.    O que precisa de saber antes de utilizar ZOSTAVAX
+3.    Como utilizar ZOSTAVAX
+4.    Efeitos indesejáveis possíveis
+5.    Como conservar ZOSTAVAX
+6.    Conteúdo da embalagem e outras informações
+
+
+
+1.    O que é ZOSTAVAX e para que é utilizado
+
+ZOSTAVAX é uma vacina usada para prevenir a zona (herpes zoster) e a nevralgia pós-herpética (NPH)
+associada ao herpes zoster, a dor prolongada no nervo que surge após a zona.
+
+ZOSTAVAX é utilizado para vacinar indivíduos com 50 ou mais anos de idade.
+
+ZOSTAVAX não pode ser usado no tratamento da zona já existente ou da dor associada à zona já
+existente.
+
+Informações relativas à zona:
+
+O que é a zona?
+A zona é uma erupção cutânea dolorosa com formação de vesículas. Ocorre geralmente numa parte do
+corpo e pode durar várias semanas. Poderá originar uma dor intensa e prolongada e cicatrizes. Menos
+frequentemente, podem ocorrer infeções bacterianas na pele, fraqueza, paralisia muscular e perda de
+audição ou visão. A zona é causada pelo mesmo vírus que provoca a varicela. Após ter tido varicela, o
+vírus que a provocou permanece nas células nervosas do seu corpo. Por vezes, ao fim de muitos anos, o
+vírus torna-se novamente ativo e provoca a zona.
+
+O que é a NPH?
+Após a cicatrização das vesículas da zona, a dor pode durar meses ou mesmo anos e ser intensa. Esta dor
+prolongada no nervo denomina-se nevralgia pós-herpética ou NPH.
+
+
+
+
+                                                    41
+2.    O que precisa de saber antes de utilizar ZOSTAVAX
+
+Não utilize ZOSTAVAX
+     se tem alergia a qualquer dos componentes desta vacina (incluindo neomicina (que pode estar
+      presente em vestígios residuais) ou outros componentes indicados na secção 6)
+     se tem uma alteração sanguínea ou qualquer tipo de cancro que enfraqueça o seu sistema imunitário
+     se foi informado pelo seu médico de que tem o sistema imunitário enfraquecido como consequência
+      de uma doença, de medicamentos ou de outro tratamento
+     se tem uma tuberculose ativa não tratada
+     se está grávida (adicionalmente, a gravidez deve ser evitada durante 1 mês após a vacinação, ver
+      Gravidez e amamentação)
+
+Advertências e precauções
+Se tem alguma das seguintes situações, fale com o seu médico ou farmacêutico antes de receber
+ZOSTAVAX:
+     se tem ou teve quaisquer problemas médicos ou quaisquer alergias
+     se tem febre
+     se tem infeção pelo VIH
+
+Antes de receber esta vacina, informe o seu médico se alguma vez teve uma reação alérgica a qualquer dos
+componentes (incluindo neomicina (que pode estar presente em vestígios residuais) ou qualquer dos
+componentes indicados na secção 6).
+
+Tal como acontece com muitas vacinas, ZOSTAVAX poderá não proteger completamente todas as
+pessoas que são vacinadas.
+
+Se tem uma alteração da coagulação do sangue ou níveis baixos de plaquetas, a vacina deve ser
+administrada sob a pele uma vez que pode ocorrer uma hemorragia após a administração no músculo.
+
+Outros medicamentos e ZOSTAVAX
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a tomar
+outros medicamentos ou vacinas.
+
+ZOSTAVAX pode ser administrado simultaneamente com a vacina contra a gripe inativada. As duas
+vacinas devem ser dadas como injeções separadas e em locais do corpo diferentes.
+
+Para informação sobre a administração de ZOSTAVAX e da vacina antipneumocócica polissacarídica ao
+mesmo tempo, fale com o seu médico ou profissional de saúde.
+
+Gravidez e amamentação
+ZOSTAVAX não deve ser administrado a mulheres grávidas. Após a vacinação, mulheres com potencial
+para engravidar devem tomar as precauções necessárias para evitar engravidar durante 1 mês.
+
+Informe o seu médico se está a amamentar ou pretende amamentar. O seu médico decidirá se deverá
+proceder-se à administração de ZOSTAVAX.
+
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico ou
+farmacêutico antes de receber esta vacina.
+
+Condução de veículos e utilização de máquinas
+Não existe informação que sugira que ZOSTAVAX afeta a capacidade de condução ou utilização de
+máquinas.
+
+
+                                                   42
+ZOSTAVAX contém sódio
+Este medicamento contém menos do que 1 mmol (23 miligramas) de sódio por dose ou seja, é
+praticamente “isento de sódio”.
+
+ZOSTAVAX contém potássio
+Este medicamento contém menos do que 1 mmol (39 miligramas) de potássio por dose, ou seja, é
+praticamente “isento de potássio”.
+
+
+
+3.     Como utilizar ZOSTAVAX
+
+ZOSTAVAX deve ser injetado sob a pele ou no músculo, preferencialmente na parte superior do braço.
+
+Se tem uma alteração da coagulação do sangue ou níveis baixos de plaquetas, a vacina deve ser
+administrada sob a pele.
+
+ZOSTAVAX deve ser administrado numa dose única.
+
+As instruções de reconstituição destinadas aos profissionais de saúde estão incluídas no fim do
+folheto informativo.
+
+
+
+4.     Efeitos indesejáveis possíveis
+
+Como todas as vacinas e medicamentos, esta vacina pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+
+Podem ocorrer raramente (podem afetar até 1 em 1.000 pessoas) reações alérgicas. Algumas destas
+reações podem ser graves e podem incluir dificuldade em respirar ou engolir. Se tiver uma reação alérgica,
+contacte o seu médico imediatamente.
+
+Foram observados os seguintes efeitos indesejáveis:
+     Muito frequentes (podem afetar mais de 1 em 10 pessoas): vermelhidão, dor, inchaço e comichão
+      no local de injeção*
+     Frequentes (podem afetar até 1 em 10 pessoas): calor, nódoas negras, caroço duro e erupção na pele
+      no local de injeção*; dor de cabeça*; dor no braço ou perna*; dor nas articulações, dor muscular;
+      febre; erupção cutânea
+     Pouco frequentes (podem afetar até 1 em 100 pessoas): náuseas, inchaço das glândulas (pescoço,
+      axilas)
+     Raros (podem afetar até 1 em 1.000 pessoas): urticária no local de injeção
+     Muito raros (podem afetar até 1 em 10.000 pessoas): varicela; zona; lesões da retina causadas por
+      inflamação, resultando em alterações na visão (em indivíduos sob terapêutica imunossupressora).
+
+     *Estas reações adversas foram observadas nos ensaios clínicos e na vigilância pós-comercialização; a
+     maioria das observadas nos ensaios clínicos foram notificadas como sendo de intensidade ligeira.
+
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar efeitos
+indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+
+
+
+                                                      43
+5.    Como conservar ZOSTAVAX
+
+Manter esta vacina fora da vista e do alcance das crianças.
+
+Não utilize esta vacina após o prazo de validade impresso na embalagem exterior após EXP. O prazo de
+validade corresponde ao último dia do mês indicado.
+
+Conservar e transportar refrigerado (2ºC   – 8ºC).   Não congelar. Manter o frasco para injetáveis dentro da
+embalagem exterior para proteger da luz.
+
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger o
+ambiente.
+
+
+
+6.      Conteúdo da embalagem e outras informações
+
+Qual a composição de ZOSTAVAX
+Após reconstituição, uma dose (0,65 ml) contém:
+A substância ativa é:
+Vírus da varicela-zoster1, estirpe Oka/Merck, (vivo, atenuado) não menos de 19.400 UFP (unidades
+formadoras de placas).
+1
+  Produzido em células diploides humanas (MRC–5)
+
+Os outros componentes são:
+
+Pó
+Sacarose, gelatina hidrolisada, cloreto de sódio (NaCl), di-hidrogenofosfato de potássio, cloreto de
+potássio (KCl), L-glutamato monossódico mono-hidratado, fosfato dissódico, hidróxido de sódio (NaOH)
+(para ajuste do pH) e ureia.
+
+Veículo
+Água para preparações injetáveis
+
+Qual o aspeto de ZOSTAVAX e conteúdo da embalagem
+A vacina é um pó para suspensão injetável contido num frasco para injetáveis de dose unitária, que deve
+ser reconstituída com o veículo fornecido com o frasco para injetáveis que contém o pó.
+
+O pó é uma massa cristalina, compacta, branca a esbranquiçada. O veículo é um líquido incolor e límpido.
+
+ZOSTAVAX apresenta-se em embalagens de 1 ou 10. É possível que não sejam comercializadas todas as
+apresentações.
+
+Titular da Autorização de Introdução no Mercado e Fabricante
+Titular da Autorização de Introdução no Mercado: Merck Sharp & Dohme B.V., Waarderweg 39, 2031
+BN Haarlem, Países Baixos
+
+Fabricante: Merck Sharp and Dohme B.V., Waarderweg 39, 2031 BN Haarlem, Países Baixos
+
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da
+Autorização de Introdução no Mercado.
+
+België/Belgique/Belgien                                  Lietuva
+
+                                                       44
+MSD Belgium                                   UAB Merck Sharp & Dohme
+Tél/Tel: +32(0)27766211                       Tel.: +370.5.2780.247
+dpoc_belux@merck.com                          msd_lietuva@merck.com
+
+България                                      Luxembourg/Luxemburg
+Мерк Шарп и Доум България ЕООД                MSD Belgium
+тел.: + 359 2 819 3737                        Tél/Tel: +32(0)27766211
+info-msdbg@merck.com                          dpoc_belux@merck.com
+
+Česká republika                               Magyarország
+Merck Sharp & Dohme s.r.o.                    MSD Pharma Hungary Kft.
+Tel.: +420 233 010 111                        Tel.: +36.1.888.5300
+dpoc_czechslovak@merck.com                    hungary_msd@merck.com
+
+Danmark                                       Malta
+MSD Danmark ApS                               Merck Sharp & Dohme Cyprus Limited., Tel:
+Tlf: + 45 4482 4000                           8007 4433 (+356 99917558)
+dkmail@merck.com                              malta_info@merck.com
+
+Deutschland                                   Nederland
+MSD Sharp & Dohme GmbH                        Merck Sharp & Dohme B.V.
+Tel: 0800 673 673 673 (+49 (0) 89 4561 0)     Tel: 0800 9999000 (+31 23 5153153)
+e-mail@msd.de                                 medicalinfo.nl@merck.com
+
+Eesti                                         Norge
+Merck Sharp & Dohme OÜ, Tel:                  MSD (Norge) AS
++372.6144 200                                 Tlf: +47 32 20 73 00
+msdeesti@merck.com                            msdnorge@msd.no
+
+Ελλάδα                                        Österreich
+MSD Α.Φ.Β.Ε.Ε.                                Merck Sharp & Dohme Ges.m.b.H.
+Τηλ: +30 210 98 97 300                        Tel: +43 (0) 1 26 044
+dpoc_greece@merck.com                         dpoc_austria@merck.com
+
+España                                        Polska
+Merck Sharp & Dohme de España, S.A..          MSD Polska Sp. z o.o.
+Tel: +34 91 321 06 00                         Tel.: +48.22.549.51.00
+msd_info@merck.com                            msdpolska@merck.com
+
+France                                        Portugal
+MSD France                                    Merck Sharp & Dohme, Lda
+Tél : +33 (0)1 80 46 40 40                    Tel: +351 21 4465700
+                                              inform_pt@merck.com
+
+Hrvastska                                     România
+Merck Sharp & Dohme d.o.o.                    Merck Sharp & Dohme Romania S.R.L.
+Tel : +385 1 66 11 333                        Tel: +4021 529 29 00
+croatia_info@merck.com                        msdromania@merck.com
+
+
+
+Ireland                                       Slovenija
+Merck Sharp & Dohme Ireland (Human Health)    Merck Sharp & Dohme, inovativna zdravila
+Limited                                       d.o.o.
+
+
+                                             45
+Tel: +353 (0)1 2998700                                 Tel: +386.1.520.4201
+medinfo_ireland@merck.com                              msd.slovenia@merck.com
+
+Ísland                                                 Slovenská republika
+Vistor hf.                                             Merck Sharp & Dohme, s.r.o.
+Sími: + 354 535 7000                                   Tel: +421 2 58282010
+                                                       dpoc_czechslovak@merck.com
+
+Italia                                                 Suomi/Finland
+MSD Italia S.r.l.                                      MSD Finland Oy
+Tel: 800 23 99 89 (+39 06 361911)                      Puh/Tel: +358 (0)9 804 650
+medicalinformation.it@msd.com                          info@msd.fi
+
+Κύπρος                                                 Sverige
+Merck Sharp & Dohme Cyprus Limited.                    Merck Sharp & Dohme (Sweden) AB
+Τηλ: 800 00 673 (+357 22866700)                        Tel: +46 77 5700488
+cyprus_info@merck.com                                  medicinskinfo@merck.com
+
+Latvija                                                United Kingdom (Northern Ireland)
+SIA Merck Sharp & Dohme Latvija                        Merck Sharp & Dohme (Human Health)
+Tel: +371.67364.224                                    Limited
+msd_lv@merck.com                                       Tel: +353 (0)1 2998700
+                                                       medinfoNI@msd.com
+
+
+
+Este folheto foi revisto pela última vez em <{MM/AAAA}><{mês de AAAA}>
+
+Outras fontes de informação
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+
+
+A informação que se segue destina-se apenas aos profissionais de saúde:
+
+Antes de misturar com o veículo, o pó da vacina é uma massa cristalina, compacta, branca a
+esbranquiçada. O veículo é um líquido incolor límpido. Quando reconstituída, ZOSTAVAX é um líquido
+esbranquiçado a amarelo pálido, semi-turvo a translúcido.
+
+Evitar o contacto com desinfetantes uma vez que podem inativar o vírus da vacina.
+
+Para reconstituição da vacina, utilize o veículo fornecido.
+
+É importante utilizar seringa e agulha estéril diferentes para cada doente para evitar a transmissão de
+agentes infeciosos de um indivíduo para outro.
+
+Deve ser utilizada uma agulha para a reconstituição e uma agulha diferente, nova para a injeção.
+
+Instruções de reconstituição
+
+Retirar todo o conteúdo do frasco para injetáveis de veículo para uma seringa. Injetar todo o conteúdo da
+seringa no frasco para injetáveis que contém o pó. Agitar suavemente para dissolver completamente.
+
+
+
+                                                     46
+Antes da administração, a vacina reconstituída deve ser inspecionada visualmente para deteção de
+quaisquer partículas e/ou aspeto físico anormal. No caso de ser detetada algumas das situações anteriores,
+a vacina deve ser inutilizada.
+
+Recomenda-se que a vacina seja administrada imediatamente após reconstituição, para minimizar a
+perda de potência. Rejeitar a vacina reconstituída se não for utilizada no período de 30 minutos.
+
+Não congelar a vacina reconstituída.
+
+Retirar todo o conteúdo da vacina reconstituída do frasco para injetáveis para uma seringa, mudar a agulha
+e injetar todo o volume por via subcutânea ou intramuscular.
+
+Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+
+Ver também a secção 3. Como utilizar ZOSTAVAX
+
+
+
+
+                                                    47
+                          Folheto informativo: Informação para o utilizador
+
+                                             ZOSTAVAX
+                      Pó e veículo para suspensão injetável em seringa pré-cheia
+                                Vacina viva contra a zona (Herpes zoster)
+
+
+
+Leia com atenção todo este folheto antes de ser vacinado, pois contém informação importante para
+si.
+     Conserve este folheto. Pode ter necessidade de o ler novamente.
+     Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+     Esta vacina foi receitada apenas para si. Não deve dá-la a outros.
+     Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+      folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+
+O que contém este folheto:
+
+1.    O que é ZOSTAVAX e para que é utilizado
+2.    O que precisa de saber antes de utilizar ZOSTAVAX
+3.    Como utilizar ZOSTAVAX
+4.    Efeitos indesejáveis possíveis
+5.    Como conservar ZOSTAVAX
+6.    Conteúdo da embalagem e outras informações
+
+
+
+1.    O que é ZOSTAVAX e para que é utilizado
+
+ZOSTAVAX é uma vacina usada para prevenir a zona (herpes zoster) e a nevralgia pós-herpética (NPH)
+associada ao herpes zoster, a dor prolongada no nervo que surge após a zona.
+
+ZOSTAVAX é utilizado para vacinar indivíduos com 50 ou mais anos de idade.
+
+ZOSTAVAX não pode ser usado no tratamento da zona já existente ou da dor associada à zona já
+existente.
+
+Informações relativas à zona:
+
+O que é a zona?
+A zona é uma erupção cutânea dolorosa com formação de vesículas. Ocorre geralmente numa parte do
+corpo e pode durar várias semanas. Poderá originar uma dor intensa e prolongada e cicatrizes. Menos
+frequentemente, podem ocorrer infeções bacterianas na pele, fraqueza, paralisia muscular e perda de
+audição ou visão. A zona é causada pelo mesmo vírus que provoca a varicela. Após ter tido varicela, o
+vírus que a provocou permanece nas células nervosas do seu corpo. Por vezes, ao fim de muitos anos, o
+vírus torna-se novamente ativo e provoca a zona.
+
+O que é a NPH?
+Após a cicatrização das vesículas da zona, a dor pode durar meses ou mesmo anos e ser intensa. Esta dor
+prolongada no nervo denomina-se nevralgia pós-herpética ou NPH.
+
+
+
+
+                                                    48
+2.    O que precisa de saber antes de utilizar ZOSTAVAX
+
+Não utilize ZOSTAVAX
+     se tem alergia a qualquer dos componentes desta vacina (incluindo neomicina (que pode estar
+      presente em vestígios residuais) ou outros componentes indicados na secção 6)
+     se tem uma alteração sanguínea ou qualquer tipo de cancro que enfraqueça o seu sistema imunitário
+     se foi informado pelo seu médico de que tem o sistema imunitário enfraquecido como consequência
+      de uma doença, de uma medicação ou de qualquer outro tratamento
+     se tem uma tuberculose ativa não tratada
+     se está grávida (adicionalmente, a gravidez deve ser evitada durante 1 mês após a vacinação, ver
+      Gravidez e amamentação)
+
+Advertências e precauções
+Se tem alguma das seguintes situações, fale com o seu médico ou farmacêutico antes de receber
+ZOSTAVAX:
+     se tem ou teve quaisquer problemas médicos ou quaisquer alergias
+     se tem febre
+     se tem infeção pelo VIH
+
+Antes de receber esta vacina, informe o seu médico se alguma vez teve uma reação alérgica a qualquer dos
+componentes (incluindo neomicina (que pode estar presente em vestígios residuais) ou qualquer dos
+componentes indicados na secção 6).
+
+Tal como acontece com muitas vacinas, ZOSTAVAX poderá não proteger completamente todas as
+pessoas que são vacinadas.
+
+Se tem uma alteração da coagulação do sangue ou níveis baixos de plaquetas, a vacina deve ser
+administrada sob a pele uma vez que pode ocorrer uma hemorragia após a administração no músculo.
+
+Outros medicamentos e ZOSTAVAX
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a tomar
+outros medicamentos ou vacinas.
+
+ZOSTAVAX pode ser administrado simultaneamente com a vacina contra a gripe inativada. As duas
+vacinas devem ser dadas como injeções separadas e em locais do corpo diferentes.
+
+Para informação sobre a administração de ZOSTAVAX e da vacina antipneumocócica polissacarídica ao
+mesmo tempo, fale com o seu médico ou profissional de saúde.
+
+Gravidez e amamentação
+ZOSTAVAX não deve ser administrado a mulheres grávidas. Após a vacinação, mulheres com potencial
+para engravidar devem tomar as precauções necessárias para evitar engravidar durante 1 mês.
+
+Informe o seu médico se está a amamentar ou pretende amamentar. O seu médico decidirá se deverá
+proceder-se à administração de ZOSTAVAX.
+
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico ou
+farmacêutico antes de receber esta vacina.
+
+
+
+
+                                                   49
+Condução de veículos e utilização de máquinas
+Não existe informação que sugira que ZOSTAVAX afeta a capacidade de condução ou utilização de
+máquinas.
+
+ZOSTAVAX contém sódio
+Este medicamento contém menos do que 1 mmol (23 miligramas) de sódio por dose ou seja, é
+praticamente “isento de sódio”.
+
+ZOSTAVAX contém potássio
+Este medicamento contém menos do que 1 mmol (39 miligramas) de potássio por dose, ou seja, é
+praticamente “isento de potássio”.
+
+
+
+3.     Como utilizar ZOSTAVAX
+
+ZOSTAVAX deve ser injetado sob a pele ou no músculo, preferencialmente na parte superior do braço.
+
+Se tem uma alteração da coagulação do sangue ou níveis baixos de plaquetas, a vacina deve ser
+administrada sob a pele.
+
+ZOSTAVAX deve ser administrado numa dose única.
+
+As instruções de reconstituição destinadas aos profissionais de saúde estão incluídas no fim do
+folheto informativo.
+
+
+
+4.     Efeitos indesejáveis possíveis
+
+Como todas as vacinas e medicamentos, esta vacina pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+
+Podem ocorrer raramente (podem afetar até 1 em 1.000 pessoas) reações alérgicas. Algumas destas
+reações podem ser graves e podem incluir dificuldade em respirar ou engolir. Se tiver uma reação alérgica,
+contacte o seu médico imediatamente.
+
+Foram observados os seguintes efeitos indesejáveis:
+     Muito frequentes (podem afetar mais de 1 em 10 pessoas): vermelhidão, dor, inchaço e comichão
+      no local de injeção*
+     Frequentes (podem afetar até 1 em 10 pessoas): calor, nódoas negras, caroço duro e erupção na pele
+      no local de injeção*; dor de cabeça*; dor no braço ou perna*; dor nas articulações, dor muscular;
+      febre; erupção cutânea
+     Pouco frequentes (podem afetar até 1 em 100 pessoas): náuseas, inchaço das glândulas (pescoço,
+      axilas)
+     Raros (podem afetar até 1 em 1.000 pessoas): urticária no local de injeção
+     Muito raros (podem afetar até 1 em 10.000 pessoas): varicela; zona; lesões da retina causadas por
+      inflamação, resultando em alterações na visão (em indivíduos sob terapêutica imunossupressora).
+
+     *Estas reações adversas foram observadas nos ensaios clínicos e na vigilância pós-comercialização; a
+     maioria das observadas nos ensaios clínicos foram notificadas como sendo de intensidade ligeira.
+
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+
+                                                      50
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar efeitos
+indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+
+
+5.    Como conservar ZOSTAVAX
+
+Manter esta vacina fora da vista e do alcance das crianças.
+
+Não utilize esta vacina após o prazo de validade impresso na embalagem exterior após EXP. O prazo de
+validade corresponde ao último dia do mês indicado.
+
+Conservar e transportar refrigerado (2ºC   – 8ºC).   Não congelar. Manter o frasco para injetáveis dentro da
+embalagem exterior para proteger da luz.
+
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger o
+ambiente.
+
+
+
+6.    Conteúdo da embalagem e outras informações
+
+Qual a composição de ZOSTAVAX
+Após reconstituição, uma dose (0,65 ml) contém:
+A substância ativa é:
+Vírus da varicela-zoster1, estirpe Oka/Merck, (vivo, atenuado) não menos de 19.400 UFP (unidades
+formadoras de placas).
+1
+  Produzido em células diploides humanas (MRC–5)
+
+Os outros componentes são:
+
+Pó
+Sacarose, gelatina hidrolisada, cloreto de sódio (NaCl), di-hidrogenofosfato de potássio, cloreto de
+potássio (KCl), L-glutamato monossódico mono-hidratado, fosfato dissódico, hidróxido de sódio (NaOH)
+(para ajuste do pH) e ureia.
+
+Veículo
+Água para preparações injetáveis
+
+Qual o aspeto de ZOSTAVAX e conteúdo da embalagem
+A vacina é um pó para suspensão injetável contido num frasco para injetáveis de dose unitária, que deve
+ser reconstituída com o veículo fornecido com o frasco para injetáveis do pó.
+
+O pó é uma massa cristalina, compacta, branca a esbranquiçada. O veículo é um líquido incolor e límpido.
+Uma embalagem de ZOSTAVAX contém um frasco para injetáveis e uma seringa pré-cheia sem agulha
+ou com uma ou 2 agulhas não acopladas.
+ZOSTAVAX apresenta-se em embalagens de 1, 10 ou 20 com ou sem agulhas. É possível que não sejam
+comercializadas todas as apresentações.
+
+Titular da Autorização de Introdução no Mercado e Fabricante
+Titular da Autorização de Introdução no Mercado: Merck Sharp & Dohme B.V., Waarderweg 39, 2031
+BN Haarlem, Países Baixos
+
+Fabricante: Merck Sharp and Dohme B.V., Waarderweg 39, 2031 BN Haarlem, Países Baixos
+
+
+                                                       51
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da
+Autorização de Introdução no Mercado.
+
+België/Belgique/Belgien                              Lietuva
+MSD Belgium                                          UAB Merck Sharp & Dohme
+Tél/Tel: +32(0)27766211                              Tel.: +370.5.2780.247
+dpoc_belux@merck.com                                 msd_lietuva@merck.com
+
+България                                             Luxembourg/Luxemburg
+Мерк Шарп и Доум България ЕООД                       MSD Belgium
+тел.: + 359 2 819 3737                               Tél/Tel: +32(0)27766211
+info-msdbg@merck.com                                 dpoc_belux@merck.com
+
+Česká republika                                      Magyarország
+Merck Sharp & Dohme s.r.o.                           MSD Pharma Hungary Kft.
+Tel.: +420 233 010 111                               Tel.: +36.1.888.5300
+dpoc_czechslovak@merck.com                           hungary_msd@merck.com
+
+
+
+Danmark                                              Malta
+MSD Danmark ApS                                      Merck Sharp & Dohme Cyprus Limited.
+Tlf: + 45 4482 4000                                  Tel: 8007 4433 (+356 99917558)
+dkmail@merck.com                                     malta_info@merck.com
+
+Deutschland                                          Nederland
+MSD Sharp & Dohme GmbH                               Merck Sharp & Dohme B.V.
+Tel: 0800 673 673 673 (+49 (0) 89 4561 0)            Tel: 0800 9999000 (+31 23 5153153)
+e-mail@msd.de                                        medicalinfo.nl@merck.com
+
+Eesti                                                Norge
+Merck Sharp & Dohme OÜ                               MSD (Norge) AS
+Tel: +372.6144 200                                   Tlf: +47 32 20 73 00
+msdeesti@merck.com                                   msdnorge@msd.no
+
+Ελλάδα                                               Österreich
+MSD Α.Φ.Β.Ε.Ε.                                       Merck Sharp & Dohme Ges.m.b.H.
+Τηλ: +30 210 98 97 300                               Tel: +43 (0) 1 26 044
+dpoc_greece@merck.com                                dpoc_austria@merck.com
+
+España                                               Polska
+Merck Sharp & Dohme de España, S.A.                  MSD Polska Sp. z o.o.
+Tel: +34 91 321 06 00                                Tel.: +48.22.549.51.00
+msd_info@merck.com                                   msdpolska@merck.com
+
+France                                               Portugal
+MSD France                                           Merck Sharp & Dohme, Lda
+Tél : +33 (0)1 80 46 40 40                           Tel: +351 21 4465700
+                                                     inform_pt@merck.com
+
+Hrvatska                                             România
+Merck Sharp & Dohme d.o.o.                           Merck Sharp & Dohme Romania S.R.L.
+Tel : +385 1 66 11 333                               Tel: +4021 529 29 00
+
+
+                                                   52
+croatia_info@merck.com                                 msdromania@merck.com
+
+Ireland                                                Slovenija
+Merck Sharp & Dohme Ireland (Human Health)             Merck Sharp & Dohme, inovativna zdravila
+Limited                                                d.o.o.
+Tel: +353 (0)1 2998700                                 Tel: +386.1.520.4201
+medinfo_ireland@merck.com                              msd.slovenia@merck.com
+
+Ísland                                                 Slovenská republika
+Vistor hf.                                             Merck Sharp & Dohme, s.r.o.
+Sími: + 354 535 7000                                   Tel: +421 2 58282010
+                                                       dpoc_czechslovak@merck.com
+
+Italia                                                 Suomi/Finland
+MSD Italia S.r.l.                                      MSD Finland Oy
+Tel: 800 23 99 89 (+39 06 361911)                      Puh/Tel: +358 (0)9 804 650
+medicalinformation.it@msd.com                          info@msd.fi
+
+Κύπρος                                                 Sverige
+Merck Sharp & Dohme Cyprus Limited.                    Merck Sharp & Dohme (Sweden) AB
+Τηλ: 800 00 673 (+357 22866700)                        Tel: +46 77 5700488
+cyprus_info@merck.com                                  medicinskinfo@merck.com
+
+Latvija                                                United Kingdom (Northern Ireland)
+SIA Merck Sharp & Dohme Latvija                        Merck Sharp & Dohme (Human Health)
+Tel: +371.67364.224                                    Limited
+msd_lv@merck.com                                       Tel: +353 (0)1 2998700
+                                                       medinfoNI@msd.com
+
+
+
+Este folheto foi revisto pela última vez em <{MM/AAAA}><{mês de AAAA}>
+
+
+
+Outras fontes de informação
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+
+
+A informação que se segue destina-se apenas aos profissionais de saúde:
+Antes de misturar com o veículo, o pó da vacina é uma massa cristalina, compacta, branca a
+esbranquiçada. O veículo é um líquido incolor límpido. Quando reconstituída, ZOSTAVAX é um líquido
+esbranquiçado a amarelo pálido, semi-turvo a translúcido.
+
+Evitar o contacto com desinfetantes uma vez que podem inativar o vírus da vacina.
+
+Para reconstituição da vacina, utilize o veículo fornecido.
+
+É importante utilizar seringa e agulha estéril diferentes para cada doente para evitar a transmissão de
+agentes infeciosos de um indivíduo para outro.
+
+Deve ser utilizada uma agulha para a reconstituição e uma agulha diferente, nova para a injeção.
+
+
+
+                                                     53
+Instruções de reconstituição
+Para acoplar a agulha, esta deve colocar-se com firmeza na extremidade da seringa e prender-se rodando
+um quarto de volta (90º).
+
+Injetar todo o conteúdo da seringa de veículo no frasco para injetáveis contendo o pó. Agitar suavemente
+para completa dissolução.
+
+Antes da administração, a vacina reconstituída deve ser inspecionada visualmente para deteção de
+quaisquer partículas e/ou aspeto físico anormal. No caso de ser detetada algumas das situações anteriores,
+a vacina deve ser inutilizada.
+
+Recomenda-se que a vacina seja administrada imediatamente após reconstituição, para minimizar a
+perda de potência. Rejeitar a vacina reconstituída se não for utilizada no período de 30 minutos.
+
+Não congelar a vacina reconstituída.
+
+Retirar todo o conteúdo da vacina reconstituída do frasco para injetáveis para uma seringa, mudar a agulha
+e injetar todo o volume por via subcutânea ou intramuscular.
+
+Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+
+Ver também a secção 3. Como utilizar ZOSTAVAX
+
+
+
+
+                                                    54
+

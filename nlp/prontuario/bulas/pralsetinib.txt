@@ -1,0 +1,2133 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+
+1.
+
+NOME DO MEDICAMENTO
+
+GAVRETO 100 mg cápsulas
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada cápsula contém 100 mg de pralsetinib.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Cápsula.
+Cápsula opaca azul clara, tamanho 0 (22 mm de comprimento x 7 mm de largura) com a impressão em
+tinta branca “BLU-667” no corpo da cápsula e “100 mg” na cabeça da cápsula.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Gavreto é indicado em monoterapia para o tratamento de doentes adultos com cancro do pulmão de
+não pequenas células (CPNPC) avançado, positivo para fusão do rearranjo durante transfeção (RET),
+não tratados previamente com um inibidor RET.
+4.2
+
+Posologia e modo de administração
+
+O tratamento deve ser iniciado por um médico com experiência na utilização de medicamentos
+antineoplásicos.
+A seleção de doentes com CPNPC avançado positivo para fusão RET, elegíveis para tratamento,
+deverá ter por base um teste validado.
+Posologia
+A dose recomendada é de 400 mg de pralsetinib uma vez ao dia, com o estômago vazio (ver modo de
+administração). O tratamento deve ser continuado até progressão da doença ou toxicidade inaceitável.
+Se ocorrer vómito após tomar uma dose de pralsetinib, o doente não deve tomar uma dose adicional,
+mas continuar com a próxima dose programada.
+Doses esquecidas
+Se uma dose de pralsetinib for esquecida, o doente deve compensar a dose esquecida o mais rápido
+possível no mesmo dia. O esquema posológico diário regular de pralsetinib deve ser retomado no dia
+seguinte.
+Modificações da dose para reações adversas
+A interrupção do tratamento, com ou sem redução da dose, pode ser considerada para controlar as
+reações adversas com base na gravidade e apresentação clínica.
+2
+
+Os doentes podem ter a sua dose reduzida em decrementos de 100 mg até uma dose mínima de 100
+mg uma vez ao dia. Gavreto deve ser permanentemente descontinuado em doentes que não tolerem a
+dose de 100 mg por via oral uma vez ao dia.
+As modificações de dose recomendadas para reações adversas estão indicadas na Tabela 1.
+Tabela 1. Modificações de dose recomendadas de Gavreto para reações adversas
+Reações adversas
+Pneumonite/Doença
+pulmonar intersticial (DPI)
+(ver secção 4.4)
+
+Gravidadea
+Grau 1 ou 2
+
+Modificação da dose
+Interromper o tratamento com Gavreto
+até resolução. Reiniciar com uma dose
+reduzida.
+Descontinuar permanentemente Gavreto
+em caso de pneumonite/DPI recorrente.
+Descontinuar permanentemente em
+caso de pneumonite/DPI.
+Interromper o tratamento com Gavreto
+em caso de hipertensão de Grau 3 que
+persiste apesar da utilização de
+terapêutica anti-hipertensora otimizada.
+Reiniciar com uma dose reduzida
+quando a hipertensão estiver controlada.
+
+Grau 3 ou 4
+Hipertensão
+
+Grau 3
+
+Grau 4
+Elevação das transaminases
+
+Descontinuar permanentemente
+Gavreto.
+Interromper o tratamento com Gavreto
+e monitorizar a aspartato
+aminotransferase (AST) e a alanina
+aminotransferase (ALT) uma vez por
+semana até resolução para Grau 1 ou
+para o valor de base.
+
+Grau 3 ou 4
+
+Reiniciar com uma dose reduzida.
+
+Acontecimentos
+hemorrágicos
+
+Em caso de recorrência de elevação das
+transaminases de Grau 3 ou superior,
+descontinuar permanentemente o
+tratamento com Gavreto.
+Interromper o tratamento com Gavreto
+até resolução para Grau 1.
+
+Grau 3 ou 4
+
+Reiniciar com uma dose reduzida.
+
+Prolongamento do intervalo
+QT
+
+Descontinuar permanentemente Gavreto
+em caso de acontecimentos
+hemorrágicos potencialmente fatais ou
+graves e recorrentes.
+Interromper o tratamento com Gavreto
+para intervalos QTc >500 ms até o
+intervalo QTc voltar a <470 ms.
+
+Grau 3
+
+Reiniciar com a mesma dose se os
+fatores de risco que causam o
+prolongamento do intervalo QTc forem
+identificados e corrigidos.
+Reiniciar o tratamento com uma dose
+reduzida se não forem identificados
+3
+
+Reações adversas
+
+Outras reações adversas
+clinicamente significativas
+(ver secção 4.8)
+
+Gravidadea
+
+Modificação da dose
+outros fatores de risco que causem
+prolongamento do intervalo QTc.
+
+Grau 4
+
+Descontinuar permanentemente Gavreto
+se o doente apresentar arritmia
+potencialmente fatal.
+
+Grau 3 ou 4
+
+Interromper o tratamento com Gavreto
+até melhoria para Grau≤ 2. Reiniciar
+com uma dose reduzida.
+Descontinuar permanentemente em
+caso de reações adversas recorrentes de
+Grau 4.
+
+a
+
+Reações adversas classificadas pelos Critérios de Terminologia comum para Acontecimentos Adversos do
+National Cancer Institute (NCI-CTCAE) versão 4.03
+
+Modificação de dose para utilização com inibidores do citocromo P-450 (CYP)3A4 e/ou da
+glicoproteína-P (gp-P)
+A utilização concomitante de pralsetinib com algum dos seguintes deve ser evitada (ver secção 4.4 e
+secção 4.5):
+•
+Combinação de inibidores fortes da gp-P e do CYP3A4
+•
+Inibidores fortes do CYP3A4
+•
+Inibidores moderados do CYP3A4
+•
+Inibidores da gp-P
+•
+Combinação de inibidores moderados da gp-P e do CYP3A4
+Se não for possível evitar a coadministração com algum dos inibidores acima, a dose atual de
+pralsetinib deve ser reduzida, conforme recomendado na Tabela 2. Após a descontinuação do inibidor
+coadministrado durante 3 a 5 semividas de eliminação, deve retomar-se a dose de pralsetinib tomada
+antes da utilização do inibidor.
+Tabela 2. Modificações de dose recomendadas de Gavreto para coadministração com inibidores
+do CYP3A4 e/ou da gp-P
+Dose atual de Gavreto
+
+Dose recomendada de Gavreto
+•
+
+Combinação de inibidores fortes
+da gp-P e do CYP3A4
+
+400 mg por via oral uma vez ao
+dia
+300 mg por via oral uma vez ao
+dia
+200 mg por via oral uma vez ao
+dia
+
+200 mg por via oral uma vez ao
+dia
+200 mg por via oral uma vez ao
+dia
+100 mg por via oral uma vez ao
+dia
+
+Inibidores fortes do
+CYP3A4;
+• Inibidores moderados
+do CYP3A4;
+• Inibidores da gp-P;
+• Combinação de
+inibidores moderados
+da gp-P e do CYP3A4
+300 mg por via oral uma vez
+ao dia
+200 mg por via oral uma vez
+ao dia
+100 mg por via oral uma vez
+ao dia
+
+Modificação de dose para utilização com indutores do CYP3A4
+A utilização concomitante de pralsetinib com indutores fortes ou moderados do CYP3A4 deve ser
+evitada (ver secção 4.4 e secção 4.5).
+
+4
+
+Populações especiais
+Compromisso renal
+Não é recomendado nenhum ajuste de dose para doentes com compromisso renal ligeiro ou moderado
+(depuração da creatinina [CLCR] 30 a 89 ml/min estimada pela fórmula de Cockcroft-Gault).
+Pralsetinib não foi estudado em doentes com compromisso renal grave (CLCR 15 a 29 ml/min) ou
+doença renal em fase terminal (CLCR <15 ml/min). Uma vez que a eliminação de pralsetinib através do
+rim é negligenciável, não é necessário qualquer ajuste de dose em doentes com compromisso renal
+grave ou doença renal em fase terminal (ver secção 5.2).
+Compromisso hepático
+Não é recomendado nenhum ajuste de dose para doentes com compromisso hepático ligeiro
+(bilirrubina total ≤ limite superior do normal [LSN] e aspartato aminotransferase [AST] > LSN ou
+bilirrubina total > 1 a 1,5 vezes o LSN e qualquer AST), moderado (bilirrubina total > 1,5 a 3 vezes o
+LSN e qualquer AST) ou grave (bilirrubina total > 3 vezes o LSN e qualquer AST) (ver secção 5.2).
+Idosos
+Não é recomendado ajuste de dose em doentes com 65 anos ou mais (ver secção 5.1).
+População pediátrica
+A segurança e eficácia de pralsetinib em doentes pediátricos com menos de 18 anos com CPNPC
+avançado positivo para fusão RET não foram estabelecidas. Não existem dados disponíveis.
+Modo de administração
+Gavreto é para uso oral. Os doentes devem engolir as cápsulas inteiras com um copo de água, com o
+estômago vazio. Não devem comer durante pelo menos duas horas antes e pelo menos uma hora
+depois de tomar pralsetinib (ver secção 5.2).
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Pneumonite/DPI
+Foram notificados casos graves, potencialmente fatais ou fatais de pneumonite/DPI em doentes
+tratados com pralsetinib em ensaios clínicos (ver secção 4.8). Os doentes que apresentavam
+pneumonite ou DPI clinicamente sintomática foram excluídos dos ensaios clínicos.
+Os doentes devem ser aconselhados a entrar em contacto com o seu médico imediatamente para
+notificar novos sintomas respiratórios ou o seu agravamento.
+Os doentes que apresentam sintomas respiratórios agudos, ou com agravamento, e que sejam
+sugestivos de pneumonite/DPI (por exemplo, dispneia, tosse e febre) devem ser avaliados para
+exclusão de outras causas potenciais. Se a pneumonite/DPI for considerada relacionada com
+pralsetinib, a dose de Gavreto deve ser interrompida, reduzida ou descontinuada permanentemente,
+com base na gravidade da pneumonite/DPI confirmada (ver secção 4.2).
+Hipertensão
+Observou-se hipertensão em doentes tratados com pralsetinib em ensaios clínicos (ver secção 4.8). Na
+maioria dos casos, a hipertensão relacionada com o tratamento foi controlada com medicamentos
+anti-hipertensores.
+O tratamento com Gavreto não deve ser iniciado em doentes com hipertensão não controlada. A
+hipertensão pré-existente deve ser adequadamente controlada antes do início do tratamento com
+5
+
+Gavreto. Recomenda-se a monitorização da pressão arterial após 1 semana; seguidamente, pelo menos
+mensalmente e quando clinicamente indicado. A terapêutica anti-hipertensora deve ser iniciada ou
+ajustada conforme adequado. A dose de Gavreto deve ser interrompida, reduzida ou descontinuada
+permanentemente, com base na gravidade da hipertensão observada durante o tratamento com Gavreto
+(ver secção 4.2).
+Elevação das transaminases
+Foram notificados casos graves de elevação das transaminases em doentes tratados com pralsetinib em
+ensaios clínicos (ver secção 4.8).
+A ALT e a AST devem ser monitorizadas antes do início do tratamento com Gavreto, a cada 2
+semanas durante os primeiros 3 meses e, seguidamente, mensalmente e quando clinicamente indicado.
+O tratamento com Gavreto deve ser interrompido, reduzido ou descontinuado permanentemente, com
+base na gravidade da elevação das transaminases observada durante o tratamento com Gavreto (ver
+secção 4.2).
+Acontecimentos hemorrágicos
+Podem ocorrer acontecimentos hemorrágicos graves, incluindo acontecimentos fatais, com Gavreto.
+Em doentes que apresentem hemorragias potencialmente fatais ou graves e recorrentes, Gavreto deve
+ser descontinuado permanentemente (ver secção 4.2).
+Prolongamento do intervalo QT
+Foi observado prolongamento do intervalo QT em doentes tratados com Gavreto em ensaios clínicos
+(ver secção 4.8). Assim, antes de iniciar o tratamento com Gavreto, os doentes devem ter um intervalo
+QTc ≤470 ms e eletrólitos séricos dentro do intervalo normal. A hipocaliemia, hipomagnesemia e
+hipocalcemia devem ser corrigidas, tanto antes como durante o tratamento com Gavreto. Os
+eletrocardiogramas (ECGs) e eletrólitos séricos devem ser monitorizados no final da primeira semana
+e do primeiro mês de tratamento com Gavreto e depois periodicamente, como clinicamente indicado,
+dependendo também da presença de outros fatores de risco (por exemplo, diarreia intercorrente,
+vómitos, náuseas, medicações concomitantes).
+O pralsetinib deve ser utilizado com precaução em doentes com historial médico de arritmias cardíacas
+ou prolongamento do intervalo QT, bem como em doentes que tomem inibidores fortes de CYP 3A4
+ou medicamentos conhecidos por estarem associados ao prolongamento do intervalo QT/QTc.
+Pode ser necessária a interrupção, modificação ou descontinuação da dose de Gavreto (ver secção 4.2).
+Tuberculose
+Foi notificada tuberculose, principalmente extrapulmonar, em doentes tratados com Gavreto. Antes de
+iniciar o tratamento, os doentes devem ser avaliados quanto a tuberculose ativa e inativa ("latente"), de
+acordo com as recomendações locais. Em doentes com tuberculose ativa ou latente, deve ser iniciada
+terapêutica antimicobacteriana padrão antes do início do tratamento com Gavreto.
+Interações farmacológicas
+A coadministração de Gavreto com combinações de inibidores da gp-P e inibidores fortes do
+CYP3A4, inibidores da gp-P, inibidores fortes ou moderados do CYP3A4 ou combinações de
+inibidores da gp-P e inibidores moderados do CYP3A4 deve ser evitada porque pode aumentar a
+concentração plasmática de pralsetinib (ver secções 4.2 e 4.5).
+A coadministração de Gavreto com indutores fortes ou moderados do CYP3A4 deve ser evitada
+porque pode diminuir a concentração plasmática de pralsetinib (ver secção 4.2 e secção 4.5).
+
+6
+
+Fertilidade e gravidez
+Durante o tratamento com Gavreto e durante pelo menos 1 semana após a última dose, os doentes do
+sexo masculino com parceiras com potencial para engravidar têm de utilizar métodos contracetivos
+eficazes, incluindo um método de barreira (ver secção 4.6).
+As mulheres com potencial para engravidar devem ser aconselhadas a evitar engravidar enquanto
+estiverem a receber Gavreto. Durante o tratamento com pralsetinib, as mulheres têm de usar um
+método contracetivo não hormonal altamente eficaz, uma vez que pralsetinib pode tornar os
+contracetivos hormonais ineficazes. Caso não seja possível evitar um método contracetivo hormonal,
+tem de ser utilizado preservativo em combinação com o método hormonal. A contraceção eficaz tem
+de continuar durante pelo menos 2 semanas após a última dose (ver secção 4.6).
+Conteúdo em sódio
+Este medicamento contém menos de 1 mmol de sódio (23 mg) por cápsula, ou seja, é praticamente
+“isento de sódio”.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Inibidores do CYP3A4 e/ou da gp-P
+Inibidores da gp-P: A coadministração de uma dose única de 200 mg de pralsetinib com uma dose
+única de 600 mg de ciclosporina (um inibidor fraco a moderado do CYP3A4 e da gp-P) em indivíduos
+saudáveis aumentou a AUC0-∞ de pralsetinib em 81% e a Cmax em 48%, relativamente a uma dose de
+200 mg de pralsetinib administrada isoladamente.
+Combinação de inibidores da gp-P e do CYP3A4 fortes: A coadministração de 200 mg de pralsetinib
+uma vez ao dia com itraconazol 200 mg uma vez ao dia (um forte inibidor do CYP3A4 e da gp-P)
+aumentou a AUC0-∞ do pralsetinib em 251% e a Cmáx em 84%, em comparação com pralsetinib
+administrado isoladamente.
+A coadministração de pralsetinib com inibidores fortes ou moderados do CYP3A4 e/ou da gp-P pode
+aumentar as concentrações plasmáticas de pralsetinib, o que pode aumentar o risco de reações
+adversas do pralsetinib. Deve evitar-se a coadministração de pralsetinib com os seguintes (ver secção
+4.4):
+•
+combinação de inibidores da gp-P e do CYP3A4 fortes (incluindo, mas não limitado a,
+cetoconazol, itraconazol, cobicistate, claritromicina, ritonavir ou saquinavir)
+•
+inibidores fortes do CYP3A4 (incluindo, mas não limitado a, telitromicina, troleandomicina,
+voriconazol, ceritinib, idelalisib, nefazodona, nelfinavir ou sumo de toranja)
+•
+inibidores moderados do CYP3A4 (incluindo, mas não limitado a, aprepitant, ciprofloxacina,
+conivaptan, crizotinib, fluconazol, fluvoxamina, imatinib, isavuconazol ou tofisopam)
+•
+inibidores da gp-P (incluindo, mas não limitado a, ciclosporina, carvedilol ou quinidina)
+•
+combinação de inibidores da gp-P e do CYP3A4 moderados (incluindo, mas não limitado a,
+dronedarona, diltiazem, eritromicina, verapamilo)
+Se a coadministração de algum dos inibidores acima não puder ser evitada, reduzir a dose atual de
+pralsetinib (secção 4.2).
+Indutores fortes do CYP3A4
+A coadministração de pralsetinib com indutores fortes do CYP3A4 pode diminuir as concentrações
+plasmáticas de pralsetinib, o que pode diminuir a eficácia do pralsetinib. A coadministração de 400 mg
+de pralsetinib em dose única com rifampicina 600 mg uma vez ao dia (um forte indutor do CYP3A4)
+diminuiu a AUC0-∞ do pralsetinib em 68% e a Cmáx em 30%. Assim, a coadministração de pralsetinib
+com indutores fortes do CYP3A4 (incluindo, mas não limitado a, carbamazepina, fenitoína, rifabutina,
+rifampicina e erva de São João [Hypericum perforatum]) deve ser evitada (ver secção 4.4).
+
+7
+
+Substratos sensíveis do CYP3A4, CYP2C8, CYP2C9, gp-P, BCRP, OATP1B1, OATP1B3, OAT1,
+MATE1 e MATE2-K com margem terapêutica estreita
+A coadministração de pralsetinib pode alterar a exposição de substratos sensíveis das enzimas do CYP
+(CYP3A4, CYP2C9 e CYP2C8) e dos transportadores (gp-P, BCRP, OATP1B1, OATP1B3, OAT1,
+MATE1 e MATE2-K). Devem evitar-se fármacos com margem terapêutica estreita que sejam
+substratos destas enzimas do CYP e transportadores (incluindo, mas não limitado a ciclosporina,
+paclitaxel e varfarina).
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar/Contraceção em mulheres e homens
+As mulheres com potencial para engravidar devem ser informadas de que o pralsetinib pode causar
+lesões fetais (ver secção 5.3).
+O estado de gravidez de mulheres com potencial para engravidar deve ser verificado antes de iniciar o
+tratamento com Gavreto.
+As mulheres com potencial para engravidar devem utilizar métodos contracetivos não hormonais
+altamente eficazes durante o tratamento e durante pelo menos 2 semanas após a última dose de
+Gavreto (ver secção 4.4).
+Homens com parceiras com potencial para engravidar têm de utilizar métodos contracetivos eficazes,
+incluindo um método de barreira, durante o tratamento com Gavreto e durante pelo menos 1 semana
+após a última dose de Gavreto.
+Os doentes devem ser aconselhados a contactar o seu médico imediatamente se engravidarem, ou se
+houver suspeita de gravidez, enquanto tomam Gavreto.
+Gravidez
+Não existem dados sobre a utilização de pralsetinib em mulheres grávidas. Os estudos em animais
+revelaram toxicidade reprodutiva (ver secção 5.3).
+Com base no seu mecanismo de ação e dados em animais, pralsetinib pode provocar dano fetal quando
+administrado a mulheres grávidas.
+Gavreto não deve ser utilizado durante a gravidez, a menos que o estado clínico da mulher exija
+tratamento com pralsetinib.
+Amamentação
+Desconhece-se se o pralsetinib ou os seus metabolitos são excretados no leite humano.
+Não pode ser excluído qualquer risco para a criança amamentada.
+A amamentação deve ser interrompida durante o tratamento com Gavreto e por 1 semana após a
+última dose.
+Fertilidade
+Não existem dados clínicos sobre os efeitos do pralsetinib na fertilidade.
+Com base em dados de segurança não clínicos, a fertilidade pode estar comprometida durante o
+tratamento com pralsetinib (ver secção 5.3). Os homens e as mulheres devem procurar
+aconselhamento sobre como preservar eficazmente a fertilidade antes do tratamento.
+
+8
+
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Gavreto sobre a capacidade de conduzir e utilizar máquinas são reduzidos. Deve ter-se
+precaução ao conduzir ou utilizar máquinas, uma vez que os doentes podem sentir fadiga durante o
+tratamento com Gavreto (ver secção 4.8).
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas mais frequentes foram anemia (53,0%), aspartato aminotransferase aumentada
+(49,1%), neutropenia (46,7%), dor musculoesquelética (44,4%), obstipação (43,9%), fadiga (42,2%),
+alanina aminotransferase aumentada (37,0%), leucopenia (37,0%) e hipertensão (35,0%).
+As reações adversas graves mais frequentes foram pneumonia (15,6%), pneumonite (5,7%) e anemia
+(5,2%).
+As reações adversas severas mais frequentes foram anemia (22,4%), neutropenia (21,1%), hipertensão
+(17,6%), pneumonia (15,4%) e linfopenia (17,4%).
+Com base nos dados dos ensaios clínicos, foram observadas relações exposição-resposta para qualquer
+reação adversa de Grau 3 ou 4 em exposições mais elevadas, com um tempo de início mais rápido para
+reações adversas com exposição crescente ao pralsetinib.
+Ocorreram reduções de dose devido a reações adversas em 46,7% dos doentes tratados com Gavreto.
+As reações adversas mais frequentes que resultaram em reduções de dose foram neutropenia (15,6%),
+anemia (10,6%), linfopenia (7,2%), pneumonite (5,7%), creatinafosfoquinase no sangue aumentada
+(5,2%), hipertensão (4,8%), leucopenia (4,6%)) e fadiga (4,1%).
+A descontinuação permanente devido a reações adversas foi de 10,6% em doentes tratados com
+Gavreto. As reações adversas mais frequentes que levaram à descontinuação permanente de Gavreto
+foram pneumonia e pneumonite (2,6% e 2,2%, respetivamente).
+Lista tabelada de reações adversas
+A população de segurança inclui um total de 540 doentes, incluindo 281 doentes com CPNPC
+avançado, bem como doentes com outros tumores sólidos (incluindo cancro da tiroide com fusão RET
+e carcinoma medular da tiroide com mutação RET) que receberam pralsetinib numa dose inicial de
+400 mg, ver secção 5.1. Não se observaram diferenças clinicamente relevantes no perfil de segurança,
+nas várias indicações.
+As reações adversas notificadas em doentes tratados com Gavreto no ensaio ARROW estão listadas
+abaixo (Tabela 3), de acordo com a classe de sistemas de órgãos e frequência MedDRA.
+As frequências são definidas usando a seguinte convenção: muito frequente (≥1/10); frequente (≥1/100
+a <1/10), pouco frequente (≥1/1.000 a <1/100), raro (≥1/10.000 a <1/1.000), muito raro (<1/10.000) e
+desconhecido (não pode ser estimado a partir dos dados disponíveis).
+Dentro de cada classe de sistema de órgãos, as reações adversas são apresentadas por ordem
+decrescente de frequência e gravidade.
+
+9
+
+Tabela 3. Reações adversas notificadas em todos os doentes tratados com 400 mg de Gavreto
+no ensaio ARROW (N=540)
+Classe de sistemas de órgãos /
+Reações adversas
+Infeções e infestações
+Pneumonia1
+Infeção do trato urinário
+Tuberculose2
+Doenças do sangue e do sistema linfático
+Anemia3
+Neutropenia4
+Leucopenia5
+Linfopenia6
+Trombocitopenia7
+Doenças do metabolismo e da nutrição
+Hipocalcemia
+Hiperfosfatemia
+Hipoalbuminemia
+Hipofosfatemia
+Hiponatremia
+Doenças do sistema nervoso
+Cefaleia8
+
+Categoria de
+frequência
+Muito frequente
+Pouco frequente
+
+Muito frequente
+
+Muito frequente
+
+Todos os graus
+%
+
+Graus 3-4
+%
+
+22,4
+14,8
+0,7
+
+13,1
+4,4
+0,4
+
+53,0
+46,7
+37,0
+26,9
+19,6
+
+22,4
+21,1
+8,9
+17,4
+4,8
+
+23,1
+17,4
+
+3,9
+0,2
+6,7
+4,4
+
+14,8
+
+13,0
+12,2
+18,0
+16,7
+
+0,6
+-
+
+35,0
+20,6
+
+17,6
+3,9
+
+28,1
+20,4
+12,2
+
+0,6
+2,0
+3,3
+
+43,9
+33,1
+19,6
+17,8
+16,5
+14,8
+6,9
+
+0,6
+3,1
+0,2
+1,5
+1,1
+1,3
+
+49,1
+37,0
+14,4
+
+6,9
+4,8
+1,7
+
+19,1
+
+-
+
+44,4
+16,7
+
+2,6
+7,6
+
+42,2
+31,5
+27,8
+
+4,1
+0,2
+1,5
+
+5,2
+
+0,4
+
+Muito frequente
+9
+
+Alteração do paladar
+Vasculopatias
+Hipertensão10
+Muito frequente
+Hemorragia11
+Doenças respiratórias, torácicas e do mediastino
+Tosse12
+Dispneia
+Muito frequente
+Pneumonite13
+Doenças gastrointestinais
+Obstipação
+Diarreia
+Náuseas
+Muito frequente
+Dor abdominal14
+Xerostomia
+Vómitos
+Estomatite15
+Frequente
+Afeções hepatobiliares
+Aspartato aminotransferase aumentada*
+Alanina aminotransferase aumentada*
+Muito frequente
+Hiperbilirrubinemia16
+Afeções dos tecidos cutâneos e subcutâneos
+Erupção cutânea17
+Muito frequente
+Afeções musculosqueléticas e dos tecidos conjuntivos
+Dor musculoesquelética18
+Muito frequente
+Creatinafosfoquinase no sangue aumentada
+Perturbações gerais e alterações no local de administração
+Fadiga19
+Edema20
+Muito frequente
+Pirexia
+Doenças cardíacas
+QT prolongado21
+Frequente
+10
+
+Doenças renais e urinárias
+Creatininemia aumentada
+Exames complementares de diagnóstico
+Fosfatase alcalina no sangue aumentada
+
+Muito frequente
+
+25,4
+
+0,6
+
+Muito frequente
+
+12,0
+
+1,5
+
+1
+
+inclui pneumonia, pneumonia por pneumocystis jirovecii, pneumonia por citomegalovírus, pneumonia
+atípica, infeção pulmonar, pneumonia bacteriana, pneumonia por haemophilus, pneumonia por influenza,
+pneumonia estreptocócica, pneumonia por moraxella, pneumonia estafilocócica, pneumonia por
+pseudomona, pneumonia atípica micobacteriana, pneumonia por legionella
+2
+a maioria dos casos notificaram tuberculose extrapulmonar, tal como tuberculose dos gânglios linfáticos,
+tuberculose peritoneal ou tuberculose renal
+3
+inclui anemia, hematócrito diminuído, número de eritrócitos diminuído, hemoglobina diminuída, anemia
+aplástica
+4
+inclui número de neutrófilos diminuído, neutropenia
+5
+inclui número de leucócitos diminuído, leucopenia
+6
+inclui linfopenia, número de linfócitos diminuído
+7
+inclui trombocitopenia, número de plaquetas diminuído
+8
+inclui cefaleia, cefaleia de tensão
+9
+inclui ageusia, disgeusia
+10
+inclui hipertensão, pressão sanguínea aumentada
+11
+inclui 39 termos preferenciais do SMQ Hemorragia (excl. termos laboratoriais) específico, com a exclusão
+de termos relacionados com a administração invasiva de medicamentos, termos relacionados com rutura,
+coagulopatia intravascular disseminada, termos relacionados com hemorragias traumáticas e termos
+hemorrágicos relacionados com gravidez, nascimento ou neonatais
+12
+inclui tosse, tosse produtiva
+13
+inclui pneumonite, doença pulmonar intersticial
+14
+inclui dor abdominal, dor no abdómen superior
+15
+inclui estomatite, úlcera aftosa
+16
+inclui bilirrubina no sangue aumentada, hiperbilirrubinemia, bilirrubina conjugada aumentada, bilirrubina
+não conjugada no sangue aumentada
+17
+inclui erupção cutânea, erupção cutânea maculopapular, dermatite acneiforme, eritema, erupção cutânea
+generalizada, erupção cutânea papular, erupção cutânea pustulosa, erupção cutânea macular, erupção
+cutânea eritematosa
+18
+inclui dor torácica musculoesquelética, mialgia, artralgia, dor nas extremidades, dor cervical, dor
+musculoesquelética, dorsalgia, dor óssea, dor espinal, rigidez musculoesquelética
+19
+inclui astenia, fadiga
+20
+inclui edema, inchaço da face, inchaço periférico, edema periférico, edema facial, edema periorbitário,
+edema palpebral, edema generalizado, inchaço, edema localizado
+21
+inclui intervalo QT prolongado no ECG, síndroma do QT longo
+*
+adicionalmente, foram notificados casos de transaminases aumentadas em 3,7% dos doentes (0,6% destes de
+Graus 3-4)
+
+Descrição de reações adversas selecionadas
+Pneumonite/DPI
+Ocorreram pneumonite e DPI em 12,2% de 540 doentes com CPNPC ou outros tumores sólidos, que
+participaram no Estudo ARROW e que receberam Gavreto (ver secção 4.4). Entre os doentes que
+tiveram pneumonite/DPI, a mediana do tempo para aparecimento foi de 16,1 semanas.
+Foram notificadas reações adversas graves de pneumonite/DPI em 5,7% dos doentes, incluindo
+acontecimentos de Grau 3 (2,8%), de Grau 4 (0,6%) e um acontecimento fatal (de Grau 5) (0,2%).
+Em estudos clínicos, a maioria dos doentes com pneumonite de Grau 1 ou 2 foi capaz de continuar o
+tratamento sem pneumonite/DPI recorrente após a interrupção da dose e redução da dose. Ocorreu
+interrupção de dose em 8,9% dos doentes, redução da dose em 5,7% dos doentes e descontinuação
+permanente da dose em 2,2% dos doentes devido a DPI/pneumonite. A mediana do tempo para
+resolução foi de 4,3 semanas.
+
+11
+
+Hipertensão
+Ocorreu hipertensão (incluindo pressão arterial aumentada) em 35,0% de 540 doentes com CPNPC ou
+outros tumores sólidos, incluindo acontecimentos de Grau ≤2 em 17,4% dos doentes e de Grau 3 em
+17,6% dos doentes. Não foram notificados acontecimentos de Grau 4 ou 5. Entre os doentes que
+tiveram hipertensão, a mediana do tempo até aparecimento foi de 2,1 semanas.
+Foram notificadas reações adversas graves de hipertensão em 1,3% do total de doentes (todas de Grau
+3).
+Ocorreu interrupção de dose em 8,0% dos doentes, redução da dose em 4,8% dos doentes e um doente
+(0,2%) necessitou de descontinuação permanente da dose. A mediana do tempo para resolução foi de
+4,0 semanas.
+Elevação das transaminases
+Ocorreu AST aumentada em 49,1% de 540 doentes, incluindo acontecimentos de Grau 3 ou 4 em
+6,9% dos doentes. Ocorreu ALT aumentada em 37,0% dos doentes, incluindo acontecimentos de Grau
+3 ou 4 em 4,8% dos doentes. A mediana do tempo até ao primeiro aparecimento de AST aumentada
+foi de 2,1 semanas e a mediana do tempo até ao primeiro aparecimento de ALT aumentada foi de 3,5
+semanas.
+Foram notificadas reações adversas graves de AST e ALT aumentadas, em 0,7% e 0,6% dos doentes,
+respetivamente.
+Ocorreu interrupção de dose devido a AST ou ALT aumentada em 5,0% e em 3,9% dos doentes,
+respetivamente, e redução da dose em 2,0% e 1,5% dos doentes, respetivamente. Nenhum doente
+necessitou de descontinuação permanente da dose. A mediana do tempo até resolução de AST e ALT
+aumentadas foi de 6,0 e 5,1 semanas, respetivamente.
+Acontecimentos hemorrágicos
+Ocorreram acontecimentos hemorrágicos em 20,6% dos 540 doentes, incluindo acontecimentos de
+Grau 3 em 3,7% dos doentes e um acontecimento de Grau 4 e um acontecimento fatal (de Grau 5) num
+doente (0,2%) em cada.
+Foram notificadas reações adversas graves de hemorragia em 3,9% dos doentes.
+Dezassete doentes (3,1%) necessitaram de interrupção da dose. Ocorreu redução da dose ou
+descontinuação permanente da dose devido a hemorragia em 0,4% e 0,2% dos doentes,
+respetivamente.
+Prolongamento do intervalo QT
+O prolongamento do intervalo QT ocorreu em 5,2% dos 540 doentes com CPNPC ou outros tumores
+sólidos. Em 2 doentes (0,4%), o acontecimento foi avaliado como grave. A maioria dos doentes teve
+acontecimentos não graves - ou seja, Grau 1, em 21 (3,9%) e Grau 2, em 5 doentes (0,9%). Dois doentes
+(0,4%) tiveram acontecimentos de intervalo QT prolongado no eletrocardiograma de Grau 3, ambos se
+resolveram. Não houve prolongamento do intervalo QT com risco de vida ou fatal. Três doentes (0,6%)
+tiveram um acontecimento que permaneceu por resolver na altura do cut-off dos dados. Foram
+necessárias reduções de dose ou interrupções em dois doentes com intervalo QT prolongado no
+eletrocardiograma. Nenhum acontecimento de prolongamento do intervalo QT levou à descontinuação
+permanente do pralsetinib.
+
+12
+
+Infeções
+As infeções foram frequentemente sofridas por 66,1% dos 540 doentes durante a mediana de tempo de
+tratamento de 15,9 meses. Mais frequentemente (>10%), foram notificadas pneumonia e infeção do trato
+urinário (22,4% e 14,8%, respetivamente). A maioria das infeções foram ligeiras (Grau 1 ou 2) e
+resolvidas; ocorreram infeções graves (Grau ≥3) em 30,4% de doentes (com acontecimentos fatais
+notificados para 4,1%).
+As infeções notificadas como graves ocorreram em 18,5% dos doentes. A infeção grave mais frequente
+(>2%) foi pneumonia (15,6%), seguida de infeção do trato urinário (3,7%) e sépsis (3,7%). A maioria
+dos doentes com sépsis notificou pneumonia ou infeção do trato urinário concomitantes.
+A interrupção da dose devido a infeção ocorreu em 12,8% dos doentes (principalmente devido a
+pneumonia [10,9%] e infeção do trato urinário [2,6%]). A dose foi reduzida devido a infeções em 3,7%
+dos doentes (principalmente devido a pneumonia [3,5%]). A descontinuação permanente do tratamento
+foi necessária em 2,6% dos doentes devido a infeções (principalmente devido a pneumonia [2,6%]).
+Idosos
+No estudo ARROW (N=540), 30,9% dos doentes tinham idade igual ou superior a 65 anos. Em
+comparação com doentes mais jovens (<65), houve mais doentes com idade ≥65 anos a notificar
+reações adversas que conduziram à descontinuação permanente da dose (29,3% versus 18,8%). Dos
+acontecimentos frequentemente notificados com maior incidência em doentes idosos (≥65), a
+hipertensão apresenta a maior diferença em comparação com doentes com <65 anos de idade.
+Contudo, é também de esperar que a hipertensão ocorra com maior frequência na população idosa. Os
+doentes mais velhos notificaram mais reações adversas de Grau 3 ou superior, em comparação com
+doentes mais jovens (89,8% versus 78,3%).
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Sintomas
+Não foram notificados casos de sobredosagem em ensaios clínicos com pralsetinib. A dose máxima de
+pralsetinib estudada clinicamente é de 600 mg por via oral uma vez ao dia. As reações adversas
+observadas com esta dose foram consistentes com o perfil de segurança com 400 mg uma vez ao dia
+(ver secção 4.8).
+Tratamento
+Não existe antídoto conhecido para a sobredosagem com Gavreto. Em caso de suspeita de
+sobredosagem, Gavreto deve ser interrompido e devem ser instituídos cuidados de suporte. Com base
+no grande volume de distribuição do pralsetinib e na extensa ligação às proteínas, é improvável que a
+diálise resulte na remoção significativa de pralsetinib.
+
+13
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: agentes antineoplásicos, inibidores da proteína cinase, código ATC:
+L01EX23.
+Mecanismo de ação
+Pralsetinib é um inibidor da proteína cinase seletivo e potente que tem como alvo as fusões
+oncogénicas do RET (KIF5B-RET e CCDC6-RET). No CPNPC, as fusões do RET são uma das
+principais alterações oncogénicas. In vitro, pralsetinib inibiu várias fusões oncogénicas do RET com
+maior potência do que cinases fora do alvo, em concentrações clinicamente relevantes (ex.:
+seletividade 81 vezes superior em relação ao VEGFR2). Pralsetinib exibiu atividade antitumoral em
+culturas celulares e modelos de implantação tumoral animal representando vários tipos de tumor que
+incluíram fusões oncogénicas do RET (KIF5B-RET, CCDC6-RET).
+Efeitos farmacodinâmicos
+Eletrofisiologia cardíaca
+O potencial de prolongamento do intervalo QT de pralsetinib foi avaliado em 34 doentes com tumores
+sólidos positivos para fusão RET tratados com 400 mg uma vez ao dia, num subestudo formal de
+ECG.
+Nos doentes tratados com pralsetinib no estudo ARROW, foi notificado prolongamento do intervalo
+QT (ver secção 4.8). Portanto, pode ser necessária a interrupção ou modificação da dose nos doentes
+tratados com pralsetinib (ver secções 4.2 e 4.4).
+Eficácia e segurança clínicas
+A eficácia de Gavreto foi estudada em doentes com CPNPC avançado, positivo para fusão RET, no
+Estudo BLU-667-1101 (ARROW), um ensaio clínico de fase I/II multicêntrico, não aleatorizado, sem
+ocultação e com coortes múltiplas. O estudo incluiu, em coortes separadas, doentes com CPNPC
+avançado positivo para fusão RET que progrediram sob quimioterapia com base em platina, bem
+como doentes que progrediram sob terapêutica prévia não baseada em platina ou que não tiveram
+tratamento sistémico prévio. O estudo estava a decorrer no momento da aprovação.
+Todos os doentes com CPNPC tinham que apresentar doença localmente avançada ou metastática com
+doença mensurável pelos Critérios de Resposta Avaliada em Tumores Sólidos (RECIST) versão 1.1
+(v1.1) e ter uma fusão RET conforme determinado por teste local (por Sequenciação de Nova Geração
+(NGS), hibridização in situ de fluorescência (FISH), outro). Foram incluídos doentes com metástases
+assintomáticas do sistema nervoso central (SNC), incluindo doentes com utilização estável ou
+decrescente de esteroides nas 2 semanas prévias à entrada no estudo. O protocolo excluiu doentes com
+uma alteração genética primária conhecida que não fusões RET, doentes com história de síndrome do
+QT longo ou Torsades de pointes ou história familiar de síndrome do QT longo, pneumonite
+clinicamente sintomática e qualquer patologia anterior ou em curso clinicamente significativa que
+pudesse afetar a segurança do doente.
+A medida de eficácia primária foi a taxa de resposta global (ORR) de acordo com RECIST v1.1,
+conforme avaliado por uma revisão central independente em ocultação (BICR). As medidas de
+eficácia secundárias incluíram a duração de resposta (DOR), sobrevivência livre de progressão (PFS) e
+sobrevivência global (OS).
+
+14
+
+População global de CPNPC positivo para fusão RET
+A população de eficácia consistiu em 281 doentes com CPNPC avançado positivo para fusão RET,
+tratados com uma dose inicial de 400 mg por via oral uma vez ao dia, incluindo 116 doentes sem
+tratamento prévio e 141 doentes previamente tratados com quimioterapia com base em platina. À data
+do último cut-off dos dados, a mediana do seguimento era de 24,1 meses.
+As características demográficas dos 281 doentes foram: 54,1% mulheres, 46,3% caucasianos, 45,6%
+asiáticos, 3,6% hispânicos/latinos e a mediana de idade foi 60,0 anos (intervalo: 26 a 87) com 37,4%
+≥65 anos de idade. A maioria dos doentes tinha um status de desempenho ECOG na linha de base de 0
+(29,5%) ou 1 (68,0%), tinham doença metastática (98,6%), nunca tinham fumado (62,6%) ou eram exfumadores (33,1%) e tinham adenocarcinoma (96,8%). Foi observada história de metástases cerebrais
+em 34,5% dos doentes. Os doentes previamente tratados com quimioterapia com base em platina
+(N=141) tinham recebido uma mediana de 2 linhas de tratamento prévias (intervalo: 1-8). Além da
+quimioterapia com base em platina, 40,4% tinham recebido inibidores PD-1/PD-L1, 27,7% tinham
+recebido inibidores multicinase (MKIs) e 48,9% tinham recebido radioterapia prévia. 15,5% dos
+doentes sem tratamento sistémico prévio (N=116) tinham recebido radioterapia prévia. Foram
+detetadas fusões RET em 75,8% dos doentes através de NGS (36,7% em amostras de tecido; 15,7%
+em amostras de plasma, 23,5% desconhecido), 15,3% através de FISH, 6,0% desconhecido e 2,8%
+através de outros métodos. Os parceiros de fusão RET mais comuns foram KIF5B (70,1%) e CCD6
+(17,8%).
+Os resultados de eficácia estão resumidos na Tabela 4. A mediana de tempo para a primeira resposta
+foi de 1,8 meses na população global (intervalo: 0,9-20,5 meses), bem como para doentes previamente
+tratados com quimioterapia com platina (intervalo: 1,3-11,4 meses) e doentes sem tratamento prévio
+(intervalo: 0,9-20,5 meses).
+Tabela 4:
+Resultados de eficácia para CPNPC avançado positivo para fusão RET
+(ARROW) (população de eficácia)
+
+Parâmetro de
+eficácia
+
+Taxa de resposta
+global (ORR)a
+(IC 95%)
+Resposta completa,
+n (%)
+Resposta parcial, n
+(%)
+Duração da
+resposta (DOR)
+DOR, mediana (IC
+95%) em meses
+Doentes com DOR
+≥ 6 mesesb, %
+
+Global
+(N =281)
+
+Previamente
+tratados com
+quimioterapia
+com platina
+(N=141)
+
+Previamente
+tratados com
+tratamento
+sistémico sem
+platina
+(N=24)
+
+Sem tratamento
+prévio (N=116)
+
+65,8%
+(60,0%; 71,4%)
+
+59,6%
+(51,0%; 67,7%)
+
+70,8%
+(48,9%; 87,4%)
+
+72,4%
+(63,3%; 80,3%)
+
+18 (6,4)
+
+10 (7,1)
+
+0
+
+8 (6,9)
+
+167 (59,4)
+
+74 (52,5)
+
+17 (70,8)
+
+76 (65,5)
+
+N=185
+
+N=84
+
+N=17
+
+N=84
+
+19,1 (14,5;
+27,3)
+
+23,4 (14,8; 39,4)
+
+20,4 (9,3; NR)
+
+13,4 (9,4; 23,1)
+
+79,5%
+
+81,0%
+
+94,1%
+
+75,0%
+
+NR = Não alcançado
+a
+Taxa de resposta global confirmada avaliada por BICR
+b
+Calculada com recurso à proporção de respondedores com uma duração de resposta observada de 6 meses ou
+mais
+
+15
+
+Não se observou uma diferença clinicamente relevante na eficácia em doentes com um parceiro de
+fusão KIF5B ou CCDC6. As taxas de resposta por BICR foram: ORR = 68,5% (IC 95%: 61,5; 74,9)
+em 197 doentes com um parceiro de fusão KIF5B; e ORR = 72,0% (IC 95%: 57,5; 83,8) em 50
+doentes com um parceiro de fusão CCDC6.
+Na população de eficácia, a ORR no SNC avaliada centralmente (por RECIST v1.1) foi de 53,3% (IC
+95%: 26,6; 78,7); 3 doentes (20,0%) tinham resposta completa e 5 doentes (33,3%) tinham resposta
+parcial.
+População idosa
+No estudo ARROW (N=540), 30,9% dos doentes tinham idade igual ou superior a 65 anos. Não foi
+observada nenhuma diferença geral na farmacocinética, segurança ou eficácia em comparação com
+doentes mais jovens.
+População pediátrica
+A Agência Europeia de Medicamentos dispensou a obrigação de apresentação dos resultados dos
+estudos com Gavreto em todos os subgrupos da população pediátrica no tratamento do cancro do
+pulmão (cancro do pulmão de células pequenas e não pequenas) (ver secção 4.2 para informação sobre
+utilização pediátrica).
+Autorização de Introdução no Mercado condicional
+Foi concedida a este medicamento uma «Autorização de Introdução no Mercado condicional». Isto
+significa que se aguarda evidência adicional sobre este medicamento.
+A Agência Europeia de Medicamentos procederá, pelo menos anualmente, à análise da nova
+informação sobre este medicamento e, se necessário, à atualização deste RCM.
+5.2
+
+Propriedades farmacocinéticas
+
+A Cmax e AUC do pralsetinib em doentes aumentaram de forma inconsistente no intervalo posológico
+de 60 mg a 600 mg uma vez por dia (0,15 a 1,5 vezes a dose recomendada); a farmacocinética foi
+linear no intervalo posológico de 200 e 400 mg em voluntários saudáveis. As concentrações
+plasmáticas de pralsetinib atingiram o estado estacionário após 3 a 5 dias.
+Na dose recomendada de 400 mg uma vez por dia em jejum, a Cmax média do pralsetinib no estado
+estacionário foi de 2840 ng/ml e a área sob a curva de concentração-tempo (AUC0-24h) média do estado
+estacionário foi 40100 h•ng/ml. A taxa de acumulação média foi ~2 vezes após dosagem repetida.
+Absorção
+A mediana de tempo para o pico de concentração (Tmáx) variou de 2,0 a 4,0 horas após doses únicas de
+pralsetinib 60 mg a 600 mg (0,15 a 1,5 vezes a dose recomendada aprovada). A biodisponibilidade
+absoluta de pralsetinib não foi determinada.
+Efeito dos alimentos
+Após a administração de uma dose única de 200 mg de Gavreto com uma refeição rica em gorduras
+(cerca de 800 a 1000 calorias com 50 a 60% das calorias provenientes da gordura), a Cmáx média (IC
+90%) do pralsetinib aumentou em 104% (65%, 153%), a AUC0-∞ média (IC 90%) aumentou em 122%
+(96%, 152%) e a mediana do Tmáx foi prolongada de 4 para 8,5 horas, em comparação com o jejum.
+Distribuição
+O volume médio aparente de distribuição de pralsetinib no estado estacionário é de 255 L. A ligação
+do pralsetinib às proteínas plasmáticas é de 97,1% e é independente da concentração. A proporção
+sangue/plasma é de 0,6 a 0,7.
+16
+
+Biotransformação
+O pralsetinib é metabolizado principalmente pelo CYP3A4 e pela UGT1A4 e em menor extensão pelo
+CYP2D6 e CYP1A2 in vitro.
+Após administração de uma dose oral única de aproximadamente 310 mg de pralsetinib, marcado
+radioativamente, a indivíduos saudáveis, os metabolitos da oxidação (M531, M453, M549b) e
+glucuronidação (M709) do pralsetinib foram detetados em quantidades pequenas a residuais (~ 5%).
+Eliminação
+A semivida média de eliminação plasmática do pralsetinib foi de 13,4 horas após uma dose única de
+400 mg (a dose recomendada) de pralsetinib e 17,9 horas após doses múltiplas de 400 mg de
+pralsetinib.
+A depuração oral aparente média no estado estacionário de pralsetinib (CL/F) é de 9,9 L/h.
+Após administração de uma dose oral única de pralsetinib, marcado radioativamente, a indivíduos
+saudáveis, 72,5% da dose radioativa foi recuperada nas fezes (66% na forma inalterada) e 6,1% na
+urina (4,8% na forma inalterada).
+Estudos in vitro com substratos do CYP
+Os estudos in vitro indicam que o pralsetinib é um inibidor dependente do tempo do CYP3A4/5 em
+concentrações clinicamente relevantes. O pralsetinib pode ter o potencial de inibir ou induzir CYP2C8,
+CYP2C9 e CYP3A4/5 em concentrações clinicamente relevantes.
+Estudos in vitro com transportadores de fármacos
+Estudos in vitro indicam que o pralsetinib pode ter o potencial de inibir a gp-P, BCRP, OATP1B1,
+OATP1B3, OAT1, MATE1 e MATE2-K em concentrações clinicamente relevantes. Os estudos in
+vitro também indicam que o pralsetinib poderá ser um potencial substrato da gp-P em concentrações
+clinicamente relevantes(ver secção 4.5).
+Populações especiais
+Com base no modelo farmacocinético populacional, não foram observadas diferenças clinicamente
+relevantes na farmacocinética do pralsetinib com base na idade (19 a 87 anos), sexo, raça (caucasiana,
+negra ou asiática), peso corporal (34,9 a 128 kg), compromisso hepático ligeiro ou compromisso renal
+ligeiro a moderado (CLCR 30 a 89 ml/min estimada pela fórmula de Cockcroft-Gault). Portanto, não
+são necessárias modificações de dose nas populações especiais mencionadas acima. O efeito do
+compromisso renal grave (CLCR 15 a 29 ml/min), doença renal terminal (CLCR < 15 ml/min) na
+farmacocinética do pralsetinib é desconhecida (ver secção 4.2).
+Compromisso hepático
+Após uma dose oral única de 200 mg de pralsetinib, a exposição máxima ao pralsetinib foi semelhante
+em indivíduos com compromisso hepático moderado (de acordo com os critérios de Child-Pugh) e em
+indivíduos com função hepática normal, com uma razão da média geométrica (GMR) (IC 90%) de
+98,6% (59,7; 163) para a Cmáx e de 112% (65,4; 193) para a AUC0-∞. Em indivíduos com compromisso
+hepático grave (de acordo com os critérios de Child-Pugh), a AUC0-∞ foi também semelhante à de
+indivíduos com função hepática normal (85,8% [51,1; 144]). A Cmáx foi ligeiramente mais baixa em
+indivíduos com compromisso hepático grave do que em indivíduos com função hepática normal, com
+uma GMR da Cmáx de 67,9% (35,3; 131). A Cmáx (Cmáx,u) e a AUC0-∞ (AUC0-∞,u) não ligadas foram
+ligeiramente superiores em indivíduos com compromisso hepático grave (conforme definido pelos
+critérios de Child-Pugh) em comparação com indivíduos com função hepática normal, com uma
+GMAR da Cmáx,u de 129% (70,4; 236) e GMR da AUC0-∞,u de 163% (98,7; 268). Não houve uma
+relação clara entre a Cmáx ou a AUC0-∞ e a pontuação total de Child-Pugh ou os componentes da
+
+17
+
+pontuação de Child-Pugh. Foram obtidos resultados farmacocinéticos semelhantes quando os
+indivíduos com compromisso hepático foram classificados segundo os critérios NCI-ODWG.
+Assim, não é necessário qualquer ajuste de dose em doentes com compromisso hepático.
+5.3
+
+Dados de segurança pré-clínica
+
+Estudos de toxicidade de dose repetida
+Em estudos com uma duração de até 13 semanas em ratos e macacos cinomolgos, as observações
+primárias para exposições semelhantes às exposições humanas (AUC) no estado estacionário com 400
+mg uma vez ao dia em doentes com CPNPC avançado incluíram displasia fiseal no rato (margem de 2
+vezes) e efeitos hematológicos (margem de 1 vez) em ambas as espécies. Os efeitos adversos
+adicionais para exposições superiores incluem alterações degenerativas nos órgãos reprodutores
+masculinos e femininos (margem de 2 vezes) e aumentos no fósforo sanguíneo, com mineralização
+correspondente em tecidos moles nos ratos (margem ≥2 vezes) e hemorragia do miocárdio em ratos
+(margem de 4,4 vezes). Observou-se pressão arterial aumentada em ratos após uma dose única de 25
+mg/kg (2 vezes). O nível sem efeitos adversos observáveis (NOAEL) de pralsetinib nos estudos de 13
+semanas foi de 10 mg/kg/dia em ambas as espécies, o que corresponde a margens de exposição (AUC)
+de 1 vez em relação às exposições humanas.
+Relativamente à exposição e toxicidade local, não houve evidência de perturbação gastrointestinal em
+nenhuma das espécies na dose de NOAEL de 10 mg/kg (0,9 vezes a margem humana). Com doses
+superiores em macacos, observaram-se ulcerações e hemorragias gastrointestinais.
+Embriotoxicidade/Teratogenicidade
+Num estudo de desenvolvimento embriofetal, a administração de pralsetinib a ratos durante o período
+de organogénese foi teratogénica e embriotóxica com exposições inferiores à exposição clínica (AUC)
+humana no estado estacionário com a dose de 400 mg uma vez ao dia. Observaram-se malformações,
+incluindo viscerais (maioritariamente no rim e uréter) e esqueléticas (nas vértebras, nas costelas, na
+cartilagem costal e anomalias a nível vertebral central) cerca de 0,2 vezes a exposição humana.
+Ocorreu perda pós-implantação a 0,5 vezes a exposição humana, que aumentou para uma incidência
+de 100% a 1,5 vezes a exposição humana.
+Toxicidade reprodutiva
+Num estudo dedicado de fertilidade e desenvolvimento embrionário precoce realizado em ratos macho
+tratados que acasalaram com ratos fêmea, pralsetinib não teve efeito no desempenho de acasalamento
+do macho ou da fêmea, nem na capacidade de engravidar. Contudo, de forma consistente com as
+observações do estudo de toxicologia de desenvolvimento embriofetal, ocorreu perda pós-implantação
+com doses de apenas 5 mg/kg (cerca de 0,3 vezes a exposição humana [AUC] na dose clínica de 400
+mg, com base em dados toxicocinéticos do estudo de toxicologia no rato de 13 semanas). No nível de
+dose de 20 mg/kg (cerca de 2,5-3,6 vezes a exposição humana), 82% dos ratos fêmea reabsorveram
+totalmente a ninhada, com 92% de perda pós-implantação (reabsorções precoces). Num outro estudo
+de fertilidade e desenvolvimento embrionário precoce, no qual ratos macho aos quais foi administrado
+pralsetinib acasalaram com ratos fêmea não tratados, a sobrevivência intrauterina dos embriões
+(proporções médias de perda pós-implantação por ninhada e números médios e proporções médias de
+embriões viáveis por ninhada) não foi afetada pela administração de pralsetinib aos machos no nível
+de dose de 20 mg/kg (aproximadamente 1,4 vezes a exposição humana (AUC) na dose clínica de
+400 mg, com base nos dados toxicocinéticos recolhidos neste estudo). Além disso, neste estudo, não
+foram observados efeitos relacionados com o pralsetinib no desempenho reprodutivo masculino
+(acasalamento, fertilidade e índices de gravidez).
+Num estudo de toxicologia de dose repetida de 13 semanas, os ratos do sexo masculino apresentaram
+evidência microscópica de degeneração/atrofia tubular no testículo com detritos celulares secundários
+e espermatozoides reduzidos no lúmen do epidídimo, o que se correlacionou com menores pesos
+médios de testículo e epidídimo e observações grosseiras de testículos moles e pequenos. As fêmeas
+18
+
+de rato apresentaram degeneração do corpo lúteo no ovário. Para ambos os sexos, estes efeitos foram
+observados com doses de pralsetinib ≥10 mg/kg/dia, aproximadamente 0,9 vezes a exposição humana
+com base na AUC com a dose clínica de 400 mg.
+Não foram observados efeitos nos órgãos reprodutivos num estudo de toxicologia de dose repetida de
+13 semanas em macacos com níveis de dose de até 10 mg/kg/dia (aproximadamente 1 vez a exposição
+humana na dose de 400 mg uma vez ao dia).
+Genotoxicidade e carcinogenicidade
+O pralsetinib não foi mutagénico in vitro no ensaio de mutação reversa bacteriana (Ames) e foi
+negativo tanto no ensaio de aberrações cromossómicas in vivo em linfócitos humanos como nos testes
+de micronúcleo in vivo na medula óssea de rato.
+Não foram realizados estudos de carcinogenicidade com pralsetinib.
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Conteúdo da cápsula
+Hipromelose
+Celulose microcristalina
+Amido pré-gelatinizado
+Hidrogenocarbonato de sódio
+Ácido cítrico
+Estearato de magnésio
+Invólucro da cápsula
+FCF azul brilhante (E133)
+Hipromelose
+Dióxido de titânio (E171)
+Tinta de impressão
+Goma laca
+Propilenoglicol (E1520)
+Hidróxido de potássio
+Dióxido de titânio (E171)
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+3 anos.
+6.4
+
+Precauções especiais de conservação
+
+O medicamento não necessita de qualquer temperatura especial de conservação.
+Conservar na embalagem de origem para proteger da humidade.
+
+19
+
+6.5
+
+Natureza e conteúdo do recipiente
+
+Frasco de polietileno de alta densidade (HDPE) com fecho resistente à abertura por crianças
+(polipropileno) e selo de indução laminado e saqueta dessecante (sílica gel)
+Apresentações: 60, 90 ou 120 cápsulas.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1555/001
+EU/1/21/1555/002
+EU/1/21/1555/003
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 18 de novembro de 2021
+Data da última renovação: 15 de setembro de 2023
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu
+
+20
+
+ANEXO II
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO
+LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+E.
+
+OBRIGAÇÕES ESPECÍFICAS PARA COMPLETAR AS
+MEDIDAS DE PÓS-AUTORIZAÇÃO DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO CONDICIONAL
+
+21
+
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante responsável pela libertação do lote
+Roche Pharma AG
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do
+artigo 107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no
+portal europeu de medicamentos.
+O Titular da Autorização de Introdução no Mercado (AIM) deverá apresentar o primeiro RPS para
+este medicamento no prazo de 6 meses após a concessão da autorização.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos;
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+22
+
+E.
+
+OBRIGAÇÕES ESPECÍFICAS PARA COMPLETAR AS MEDIDAS DE PÓSAUTORIZAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+CONDICIONAL
+
+Sendo esta uma autorização de introdução no mercado condicional e de acordo com o artigo 14-a do
+Regulamento (CE) n.º 726/2004, o Titular da AIM deverá completar, dentro dos prazos indicados, as
+seguintes medidas:
+Descrição
+A fim de confirmar ainda mais a eficácia e segurança do pralsetinib no tratamento
+de doentes adultos com CPNPC avançado positivo para fusão RET, o titular da
+AIM deve apresentar os resultados do estudo BLU-667-2303, um estudo
+aleatorizado, sem ocultação, de Fase 3 de pralsetinib versus tratamento padrão de
+primeira linha para o CPNPC metastático positivo para fusão do RET.
+
+23
+
+Data limite
+31 de
+dezembro de
+2026
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+24
+
+A. ROTULAGEM
+
+25
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM EXTERIOR
+
+1.
+
+NOME DO MEDICAMENTO
+
+Gavreto 100 mg cápsulas
+pralsetinib
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 100 mg de pralsetinib.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+60 cápsulas
+90 cápsulas
+120 cápsulas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Não engolir a saqueta dessecante que se encontra dentro do frasco
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar na embalagem de origem para proteger da humidade
+
+26
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1555/001 60 cápsulas
+EU/1/21/1555/002 90 cápsulas
+EU/1/21/1555/003 120 cápsulas
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+gavreto 100 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+27
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO
+
+1.
+
+NOME DO MEDICAMENTO
+
+Gavreto 100 mg cápsulas
+pralsetinib
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 100 mg de pralsetinib.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+60 cápsulas
+90 cápsulas
+120 cápsulas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Não engolir a saqueta dessecante que se encontra dentro do frasco
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar na embalagem de origem para proteger da humidade
+
+28
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Logótipo da Roche
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1555/001 60 cápsulas
+EU/1/21/1555/002 90 cápsulas
+EU/1/21/1555/003 120 cápsulas
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+29
+
+B. FOLHETO INFORMATIVO
+
+30
+
+Folheto informativo: Informação para o doente
+Gavreto 100 mg cápsulas
+pralsetinib
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+•
+•
+•
+•
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+1.
+
+O que é Gavreto e para que é utilizado
+O que precisa de saber antes de tomar Gavreto
+Como tomar Gavreto
+Efeitos indesejáveis possíveis
+Como conservar Gavreto
+Conteúdo da embalagem e outras informações
+
+O que é Gavreto e para que é utilizado
+
+O que é Gavreto
+Gavreto é um medicamento contra o cancro que contém a substância ativa pralsetinib.
+Para que é utilizado o Gavreto
+Gavreto é utilizado no tratamento de adultos com estádios avançados de uma forma de cancro do
+pulmão denominado “cancro do pulmão de não pequenas células” (CPNPC), que apresenta um
+rearranjo específico num gene denominado rearranjado durante a transfeção (RET), caso não tenha
+sido previamente tratado com outro inibidor RET.
+Como Gavreto atua
+Em doentes cujo cancro é devido a um gene RET alterado, a mudança no gene faz com que o corpo
+produza uma proteína alterada chamada proteína de fusão RET, que pode levar ao crescimento celular
+descontrolado e cancro. Gavreto bloqueia a ação das proteínas de fusão RET e pode ajudar a retardar
+ou impedir o crescimento do cancro do pulmão. Também pode ajudar a diminuir o cancro.
+Se tiver alguma dúvida sobre como funciona Gavreto ou porque este medicamento lhe foi prescrito,
+consulte o seu médico.
+
+31
+
+2.
+
+O que precisa de saber antes de tomar Gavreto
+
+Não tome Gavreto
+•
+
+se tem alergia ao pralsetinib ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes de tomar Gavreto.
+•
+se tem história de problemas pulmonares ou respiratórios além de cancro do pulmão.
+•
+se teve tensão arterial elevada
+•
+se teve problemas de fígado
+•
+se teve problemas de hemorragias
+•
+se alguma vez teve tuberculose ou se esteve em contacto próximo com alguém que tem, ou
+tenha tido, tuberculose. O seu médico pode realizar exames para ver se tem tuberculose
+Gavreto pode causar efeitos indesejáveis que devem ser comunicados ao seu médico imediatamente.
+Estes incluem:
+•
+inflamação pulmonar (pneumonite). Gavreto pode causar inchaço (inflamação) dos pulmões
+grave, potencialmente fatal ou fatal, durante o tratamento. Os sinais podem ser semelhantes aos
+do cancro do pulmão. Informe imediatamente o seu médico se tiver quaisquer sinais novos ou
+agravamento dos existentes, incluindo dificuldade em respirar, falta de ar ou tosse com ou sem
+muco, ou febre.
+•
+pressão arterial elevada (hipertensão). Gavreto pode aumentar a ocorrência de pressão arterial
+elevada. O seu médico irá monitorizar a sua pressão arterial antes de iniciar o tratamento, após 1
+semana de tratamento e, seguidamente, quando necessário. Se tiver pressão arterial elevada que
+não esteja bem controlada com medicamentos para a pressão arterial, consulte o seu médico,
+pois é importante garantir que a sua pressão arterial se encontra controlada antes de iniciar o
+tratamento com Gavreto.
+•
+lesão no fígado (elevação das transaminases). O seu médico irá fazer análises ao sangue antes
+de iniciar o tratamento, a cada 2 semanas durante os primeiros 3 meses de tratamento e,
+seguidamente, quando necessário. O objetivo é verificar que não tem problemas de fígado
+durante a toma de Gavreto. Informe imediatamente o seu médico se tiver algum dos seguintes
+sinais: amarelecimento da pele ou da parte branca dos olhos, dor no lado direito da zona do
+estômago, urina escura, comichão na pele, sentir menos apetite do que o normal, náuseas ou
+vómitos, sentir-se cansado, hemorragias ou formação de nódoas negras mais facilmente do que
+o normal.
+•
+problemas de hemorragias. Podem ocorrer hemorragias graves durante o tratamento com
+Gavreto. Informe imediatamente o seu médico se tiver algum destes sintomas: vómito com
+sangue ou vómito com aspeto de borras de café, tosse com sangue ou com coágulos sanguíneos,
+urina cor de rosa ou castanha, fezes vermelhas ou negras (semelhantes a alcatrão), hemorragias
+ou nódoas negras invulgares na pele, fluxo menstrual mais intenso do que o normal,
+hemorragias vaginais invulgares, hemorragias nasais frequentes, sonolência ou dificuldade em
+manter-se acordado.
+•
+eletrocardiograma (ECG) alterado. Gavreto pode originar ECGs alterados. Fará um ECG
+antes e durante o tratamento com Gavreto. Informe o seu médico se sentir tonturas ou tiver
+palpitações, pois isso pode ser um sintoma de um ECG alterado.
+Esteja atento a isto enquanto estiver a tomar Gavreto. Consulte “Efeitos indesejáveis” na secção 4 para
+obter mais informações.
+Crianças e adolescentes
+Gavreto não foi estudado em crianças ou adolescentes. Não dê este medicamento a crianças ou
+adolescentes com idade inferior a 18 anos.
+32
+
+Outros medicamentos e Gavreto
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos. Gavreto pode afetar o modo como outros medicamentos atuam e alguns
+outros medicamentos podem afetar o modo como Gavreto atua.
+Informe o seu médico ou farmacêutico antes de tomar Gavreto se estiver a tomar algum dos
+seguintes medicamentos:
+Os seguintes medicamentos podem aumentar a concentração de Gavreto no sangue:
+•
+determinados medicamentos usados para tratar SIDA/VIH (p.ex. ritonavir, saquinavir,
+cobicistate)
+•
+determinados medicamentos usados para tratar infeções. Estes incluem medicamentos que
+tratam infeções fúngicas (antifúngicos como cetoconazol, itraconazol, voriconazol,
+posaconazol) e medicamentos que tratam certos tipos de infeção bacteriana (antibióticos como
+claritromicina, eritromicina)
+•
+determinados medicamentos usados para tratar a depressão (por exemplo, fluvoxamina,
+nefazodona)
+•
+determinados medicamentos usados para tratar a tensão arterial elevada e ritmo cardíaco
+irregular (por exemplo, verapamilo, diltiazem)
+Os seguintes medicamentos podem reduzir a efetividade de Gavreto:
+•
+medicamentos usados para parar convulsões (antiepiléticos como fenitoína ou carbamazepina)
+•
+medicamentos usados para tratar a tuberculose (por exemplo, rifampicina, rifabutina)
+•
+Erva de São João, um medicamento à base de plantas para tratar a depressão.
+Gavreto pode afetar o modo como alguns medicamentos atuam, incluindo:
+•
+ciclosporina
+•
+paclitaxel
+•
+varfarina
+Os medicamentos aqui indicados podem não ser os únicos que podem interagir com Gavreto.
+Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+Gavreto com alimentos e bebidas
+Deve evitar beber sumo de toranja e comer toranja ou laranjas de Sevilha durante o tratamento com
+Gavreto.
+Gravidez, amamentação e fertilidade
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+ou farmacêutico antes de tomar este medicamento.
+Contraceção em mulheres:
+Deve evitar engravidar enquanto estiver a tomar este medicamento. Se tiver capacidade de engravidar,
+deve utilizar contraceção altamente eficaz (por exemplo, contraceção de dupla barreira como
+preservativo e diafragma) durante o tratamento e durante pelo menos 2 semanas após terminar o
+tratamento. Gavreto pode diminuir a eficácia de métodos contracetivos hormonais (por exemplo, a
+pílula contracetiva); por este motivo, os contracetivos hormonais não podem ser considerados
+altamente eficazes. Caso não seja possível evitar a contraceção hormonal, esta deve ser utilizada em
+combinação com um preservativo.
+
+33
+
+Contraceção em homens:
+Homens com parceiras com potencial para engravidar têm de usar métodos contracetivos eficazes,
+incluindo um método de barreira, durante o tratamento e durante 1 semana após o término do
+tratamento.
+Fale com o seu médico sobre os métodos de contraceção adequados para si e para o seu parceiro ou
+parceira.
+Gravidez:
+Este medicamento não é recomendado para utilização durante a gravidez, a menos que seja
+absolutamente necessário. Evite engravidar durante o tratamento com este medicamento, pois pode
+prejudicar o seu feto. O seu médico irá discutir consigo os riscos potenciais de tomar Gavreto durante
+a gravidez.
+O seu médico pode verificar se está grávida antes de iniciar o tratamento com este medicamento.
+Amamentação:
+Informe o seu médico se estiver a amamentar ou se planeia amamentar. Não se sabe se Gavreto passa
+para o leite materno. Não deve amamentar durante o tratamento com este medicamento e pelo menos 1
+semana após a última dose. Fale com seu médico sobre a melhor forma de alimentar o seu bebé
+durante esse período.
+Fertilidade:
+Este medicamento pode afetar permanentemente a sua capacidade de ter filhos. Recomenda-se que
+fale com um médico sobre a possibilidade de conservar os seus espermatozoides ou ovócitos antes de
+utilizar Gavreto.
+Condução de veículos e utilização de máquinas
+Gavreto pode alterar a sua capacidade de conduzir ou utilizar máquinas. Gavreto pode provocar
+fadiga. Se isto acontecer, não deve conduzir ou utilizar maquinaria pesada até os seus sintomas
+desaparecerem. Fale com o seu médico sobre se é seguro para si conduzir ou utilizar máquinas.
+Gavreto contém sódio
+Este medicamento contém menos de 1 mmol de sódio (23 mg) por cápsula, ou seja, é praticamente
+“isento de sódio”.
+
+3.
+
+Como tomar Gavreto
+
+Tome este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale com o seu
+médico ou farmacêutico se tiver dúvidas.
+A dose recomendada é 400 mg (4 cápsulas) tomadas por via oral uma vez ao dia.
+Se tiver efeitos indesejáveis, o seu médico pode alterar a sua dose, interromper temporariamente ou
+parar permanentemente o tratamento. Não altere a sua dose nem pare de tomar Gavreto a menos que o
+seu médico lhe diga para o fazer.
+Gavreto é para uso oral. Engula as cápsulas inteiras com um copo de água, com o estômago vazio. Não
+coma por pelo menos duas horas antes e pelo menos uma hora depois de tomar Gavreto.
+
+34
+
+Se vomitar após tomar uma dose de Gavreto, não tome uma dose extra. Tome a sua dose regular de
+Gavreto no dia seguinte.
+Se tomar mais Gavreto do que deveria
+Se acidentalmente tomou demasiadas cápsulas, fale imediatamente com o seu médico. Poderá
+necessitar de atenção médica.
+Caso se tenha esquecido de tomar Gavreto
+Caso se esqueça de uma dose de Gavreto, tome-a assim que se lembrar no mesmo dia. Tome a sua
+dose habitual de Gavreto no dia seguinte.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Efeitos indesejáveis mais graves
+Alguns efeitos indesejáveis podem ser graves. Informe imediatamente o seu médico se tiver o
+seguinte efeito indesejável (ver também secção 2):
+•
+Sinais novos ou agravamento de dificuldade em respirar, falta de ar ou tosse com ou sem muco,
+ou febre
+•
+Pressão arterial elevada.
+•
+Amarelecimento da pele ou da parte branca dos olhos, dor no lado direito da zona do estômago,
+urina escura, comichão na pele, sentir menos apetite do que o normal, náuseas ou vómitos,
+sentir-se cansado, hemorragias ou formação de nódoas negras mais facilmente do que o normal
+(sinais de possíveis problemas do fígado).
+•
+Hemorragias com sintomas como tosse com sangue
+Outros efeitos indesejáveis:
+Informe o seu médico ou farmacêutico se notar algum dos seguintes efeitos indesejáveis:
+Muito frequentes (podem afetar mais de 1 em 10 pessoas):
+•
+Infeção pulmonar
+•
+Infeção do trato urinário
+•
+Análise de sangue mostrando diminuição de glóbulos vermelhos
+•
+Análise de sangue mostrando diminuição de um tipo de glóbulos brancos (por exemplo,
+neutrófilos, linfócitos, etc.)
+•
+Baixo nível de plaquetas
+•
+Análises de sangue mostrando quantidades aumentadas ou diminuídas de mineral no sangue
+•
+Alteração do paladar
+•
+Dor de cabeça
+•
+Pressão arterial aumentada
+•
+Hemorragia
+•
+Inflamação do pulmão
+•
+Tosse
+•
+Falta de ar
+•
+Prisão de ventre
+•
+Diarreia
+•
+Secura afetando os olhos, boca e pele
+35
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Dor abdominal (barriga)
+Vómitos
+Amarelecimento da pele e dos olhos
+Erupção na pele
+Dor nos ossos ou muscular
+Falta de energia
+Inchaços (por exemplo, pé, tornozelo, cara, olho, articulação)
+Febre
+Análises de sangue mostrando quantidades alteradas de uma substância produzida pelo fígado
+(aspartato aminotransferase, alanina aminotransferase, fosfatase alcalina, bilirrubina)
+Análise de sangue mostrando um nível elevado de uma substância importante utilizada para
+avaliar a função renal (creatinina)
+Análise de sangue mostrando níveis mais elevados de uma enzima importante para a função
+muscular no seu sangue (creatina fosfoquinase)
+
+Frequentes (podem afetar até 1 em 10 pessoas):
+•
+Inchaço doloroso e aftas na boca
+•
+Prolongamento do intervalo QT no seu ECG
+Pouco frequentes (podem afetar até 1 em 100 pessoas):
+•
+Tuberculose
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+5.
+
+Como conservar Gavreto
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso no rótulo do frasco e embalagem
+exterior, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+Este medicamento não necessita de qualquer temperatura especial de conservação. Conservar na
+embalagem de origem para proteger da humidade.
+Não utilize este medicamento se verificar que o frasco está danificado ou mostra sinais de adulteração.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Gavreto
+•
+•
+
+A substância ativa é o pralsetinib. Cada cápsula contém 100 mg de pralsetinib.
+Os outros componentes são:
+
+36
+
+−
+−
+−
+
+O conteúdo da cápsula contém: hipromelose, celulose microcristalina, amido prégelatinizado, hidrogenocarbonato de sódio, ácido cítrico e estearato de magnésio (ver
+secção 2 “Gavreto contém sódio”).
+O invólucro da cápsula contém: FCF azul brilhante (E133), hipromelose e dióxido de
+titânio (E171).
+A tinta de impressão contém: goma laca, propilenoglicol (E1520), hidróxido de potássio e
+dióxido de titânio (E171).
+
+Qual o aspeto de Gavreto e conteúdo da embalagem
+As cápsulas de 100 mg de Gavreto são cápsulas azuis claras opacas com a impressão em tinta branca
+“BLU-667” no corpo da cápsula e “100 mg” na tampa da cápsula.
+Gavreto está disponível num frasco de plástico com fecho resistente à abertura por crianças contendo
+60, 90 ou 120 cápsulas e uma saqueta dessecante. Cada embalagem contém um frasco.
+Mantenha a saqueta dessecante no frasco. O dessecante é um material que absorve a humidade,
+embalado numa pequena saqueta para proteger as cápsulas da humidade. Não engolir o dessecante.
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+Fabricante
+Roche Pharma AG
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+N.V. Roche S.A.
+Tél/Tel: +32 (0) 2 525 82 11
+
+Lietuva
+UAB “Roche Lietuva”
+Tel: +370 5 2546799
+
+България
+Рош България ЕООД
+Тел: +359 2 474 5444
+
+Luxembourg/Luxemburg
+(Voir/siehe Belgique/Belgien)
+
+Česká republika
+Roche s. r. o.
+Tel: +420 - 2 20382111
+
+Magyarország
+Roche (Magyarország) Kft.
+Tel: +36 - 23 446 800
+
+Danmark
+Roche Pharmaceuticals A/S
+Tlf: +45 - 36 39 99 99
+
+Malta
+(See Ireland)
+
+Deutschland
+Roche Pharma AG
+Tel: +49 (0) 7624 140
+
+Nederland
+Roche Nederland B.V.
+Tel: +31 (0) 348 438050
+37
+
+Eesti
+Roche Eesti OÜ
+Tel: + 372 - 6 177 380
+
+Norge
+Roche Norge AS
+Tlf: +47 - 22 78 90 00
+
+Ελλάδα
+Roche (Hellas) A.E.
+Τηλ: +30 210 61 66 100
+
+Österreich
+Roche Austria GmbH
+Tel: +43 (0) 1 27739
+
+España
+Roche Farma S.A.
+Tel: +34 - 91 324 81 00
+
+Polska
+Roche Polska Sp.z o.o.
+Tel: +48 - 22 345 18 88.
+
+France
+Roche
+Tél: +33 (0)1 47 61 40 00
+
+Portugal
+Roche Farmacêutica Química, Lda
+Tel: +351 - 21 425 70 00
+
+Hrvatska
+Roche d.o.o.
+Tel: + 385 1 47 22 333
+
+România
+Roche România S.R.L.
+Tel: +40 21 206 47 01
+
+Ireland
+Roche Products (Ireland) Ltd.
+Tel: +353 (0) 1 469 0700
+
+Slovenija
+Roche farmacevtska družba d.o.o.
+Tel: +386 - 1 360 26 00
+
+Ísland
+Roche Pharmaceuticals A/S
+c/o Icepharma hf
+Sími: +354 540 8000
+
+Slovenská republika
+Roche Slovensko, s.r.o.
+Tel: +421 - 2 52638201
+
+Italia
+Roche S.p.A.
+Tel: +39 - 039 2471
+
+Suomi/Finland
+Roche Oy
+Puh/Tel: +358 (0) 10 554 500
+
+Κύπρος
+Γ.Α.Σταμάτης & Σια Λτδ.
+Τηλ: +357 - 22 76 62 76
+
+Sverige
+Roche AB
+Tel: +46 (0) 8 726 1200
+
+Latvija
+Roche Latvija SIA
+Tel: +371 - 6 7039831
+
+United Kingdom (Northern Ireland)
+Roche Products (Ireland) Ltd.
+Tel: +44 (0) 1707 366000
+
+Este folheto foi revisto pela última vez em
+Foi concedida a este medicamento uma «Autorização de Introdução no Mercado condicional». Isto
+significa que se aguarda mais informação sobre este medicamento.
+A Agência Europeia de Medicamentos irá analisar, pelo menos uma vez por ano, nova informação
+sobre este medicamento e este folheto será atualizado se necessário
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu
+
+38
+
+

@@ -1,0 +1,1986 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+Erivedge 150 mg cápsulas
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada cápsula contém 150 mg de vismodegib.
+Excipientes com efeito conhecido
+Cada cápsula contém 71,5 mg de lactose monohidratada.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Cápsula.
+Corpo opaco rosa marcado com “150 mg” e cabeça opaca cinzenta marcada com “VISMO” a tinta
+preta. O tamanho da cápsula é “Tamanho 1” (dimensões 19,0 x 6,6 mm).
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Erivedge é indicado para o tratamento de doentes adultos com:
+•
+carcinoma basocelular metastático sintomático
+•
+carcinoma basocelular localmente avançado inapropriado para cirurgia ou radioterapia (ver
+secção 5.1).
+4.2
+
+Posologia e modo de administração
+
+Erivedge deve ser prescrito somente por ou sob a supervisão de um médico especialista com
+experiência na gestão das indicações aprovadas.
+Posologia
+A dose recomendada é uma cápsula de 150 mg administrada uma vez por dia.
+Omissão de doses
+Se uma dose for omitida, os doentes devem ser instruídos a não tomar a dose omitida, mas a retomar o
+tratamento com a dose seguinte.
+Duração do tratamento
+Nos estudos clínicos, o tratamento com Erivedge foi mantido até à progressão da doença ou toxicidade
+inaceitável. Foram permitidas interrupções no tratamento de até 4 semanas com base na tolerabilidade
+individual.
+O benefício da continuação do tratamento deve ser avaliado regularmente. A duração ótima da
+terapêutica varia para cada doente.
+
+2
+
+Populações especiais
+Idosos
+Não é necessário ajuste de dose nos doentes com idade ≥ 65 anos (ver secção 5.2). De um número total
+de 138 doentes de 4 estudos clínicos com Erivedge no carcinoma basocelular avançado,
+aproximadamente 40 % dos doentes tinham idade ≥ 65 anos, não tendo sido encontradas diferenças na
+segurança e eficácia entre estes doentes e os doentes mais jovens.
+Compromisso renal
+Não se espera que o compromisso renal ligeiro a moderado impacte a eliminação de vismodegib e não
+é necessário ajustar a dose. Os dados disponíveis em doentes com compromisso renal grave são muito
+limitados. Os doentes com compromisso renal grave devem ser cuidadosamente monitorizados
+relativamente a reações adversas.
+Compromisso hepático
+Não é necessário ajuste de dose em doentes com compromisso hepático ligeiro, moderado ou grave
+definido com base nos critérios para compromisso hepático do National Cancer Institute Organ
+Dysfunction Working Group (NCI-ODWG) (ver secção 5.2):
+• ligeiro: bilirrubina total (TB) ≤ limite superior normal (ULN), aspartato aminotransferase
+(AST)>ULN ou ULN<TB≤1,5x ULN, AST qualquer valor
+• moderado: 1,5 x ULN < TB < 3 x ULN, AST qualquer valor
+• grave: 3 x ULN < TB < 10 x ULN, AST qualquer valor
+População pediátrica
+A segurança e eficácia de Erivedge em crianças e adolescentes com idade inferior a 18 anos não foram
+estabelecidas.
+Por questões de segurança (ver secções 4.4 e 5.3), este medicamento não deve ser utilizado em
+crianças e adolescentes com idade inferior a 18 anos.
+Modo de administração
+Erivedge destina-se a administração por via oral. As cápsulas têm de ser engolidas inteiras com água,
+com ou sem alimentos (ver secção 5.2). As cápsulas não podem ser abertas, de modo a evitar a
+exposição não intencional de doentes e prestadores de cuidados de saúde.
+4.3
+
+Contraindicações
+
+•
+
+•
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção
+6.1.
+Mulheres que estejam grávidas ou a amamentar (ver secções 4.4. e 4.6).
+Mulheres com potencial para engravidar que não cumpram com o Programa de Prevenção de
+Gravidez de Erivedge (ver secções 4.4 e 4.6).
+Coadministração da erva de S. João (Hypericum perforatum) (ver secção 4.5).
+
+4.4
+
+Advertências e precauções especiais de utilização
+
+•
+•
+
+Morte embriofetal ou defeitos congénitos graves
+Erivedge pode causar morte embriofetal ou defeitos congénitos graves quando administrado a uma
+mulher grávida (ver secção 4.6). Os inibidores da via Hedgehog (ver secção 5.1), tal como
+vismodegib, têm demonstrado ser embriotóxicos e/ou teratogénicos em múltiplas espécies animais e
+podem causar malformações graves, incluindo anomalias craniofaciais, defeitos da linha média e
+defeitos nos membros (ver secção 5.3). Erivedge não pode ser utilizado durante a gravidez (ver secção
+4.3).
+
+3
+
+Critérios para a Mulher com Potencial para Engravidar (MPE)
+Uma MPE é definida no Programa de Prevenção de Gravidez de Erivedge como:
+•
+Uma mulher sexualmente madura que
+• tenha tido períodos menstruais em qualquer altura durante os 12 meses consecutivos
+anteriores,
+• não tenha sido submetida a histerectomia ou a ooforectomia bilateral, ou que não
+apresente uma insuficiência ovárica prematura permanente clinicamente confirmada,
+• não tenha genótipo XY, síndrome de Turner, ou agenesia uterina,
+• fique amenorreica após terapêutica oncológica, incluindo o tratamento com Erivedge.
+Aconselhamento
+Para a MPE
+Erivedge é contraindicado na MPE que não cumpra com o Programa de Prevenção de Gravidez de
+Erivedge.
+Uma MPE tem que compreender que:
+•
+Erivedge expõe o feto a um risco teratogénico,
+•
+Não pode tomar Erivedge se estiver grávida ou planear engravidar,
+•
+Tem de ter um teste de gravidez, com resultado negativo, realizado por um prestador de
+cuidados de saúde num dos 7 dias antes do início do tratamento com Erivedge,
+•
+Tem de ter um teste de gravidez, com resultado negativo, mensalmente durante o tratamento,
+mesmo que tenha ficado amenorreica,
+•
+Não pode engravidar enquanto tomar Erivedge e durante 24 meses após a sua última dose,
+•
+Tem de ser capaz de cumprir com medidas contracetivas eficazes,
+•
+Tem de usar 2 métodos de contraceção recomendados (ver abaixo a secção “Contraceção” e a
+secção 4.6) enquanto tomar Erivedge, a menos que se comprometa a não ter relações sexuais
+(abstinência),
+•
+Tem de informar o seu prestador de cuidados de saúde se durante o tratamento e até 24 meses
+após a sua última dose, ocorrer alguma das seguintes situações:
+•
+Se ficar grávida ou pensar que, por qualquer razão, possa estar grávida,
+•
+Se o seu período menstrual previsto falhar,
+•
+Se parar de fazer contraceção, a menos que se comprometa a não ter relações sexuais
+(abstinência),
+•
+Se necessitar de mudar a contraceção durante o tratamento,
+•
+Não pode amamentar enquanto tomar Erivedge e durante 24 meses após a última dose.
+Para os homens
+O vismodegib está presente no sémen. De modo a evitar uma potencial exposição fetal durante a
+gravidez, um doente do sexo masculino tem que compreender que:
+•
+Erivedge expõe o feto a um risco teratogénico caso tenha atividade sexual não protegida com
+uma mulher grávida,
+•
+Tem de utilizar a contraceção recomendada sempre (ver abaixo a secção “Contraceção” e a
+secção 4.6),
+•
+Informará o seu prestador de cuidados de saúde se a sua parceira engravidar enquanto ele toma
+Erivedge ou durante os 2 meses após a sua última dose.
+Para os prestadores de cuidados de saúde
+Os prestadores de cuidados de saúde devem educar os doentes de modo a que estes compreendam e
+aceitem todas as condições do Programa de Prevenção de Gravidez de Erivedge.
+
+4
+
+Contraceção
+MPE
+As doentes do sexo feminino têm de usar dois métodos de contraceção recomendados, incluindo um
+método de elevada eficácia e um método barreira durante a terapêutica com Erivedge e até 24 meses
+após a última dose (ver secção 4.6).
+Homens
+Os doentes do sexo masculino têm de utilizar sempre o preservativo (com espermicida, se disponível),
+mesmo depois de uma vasectomia, ao terem relações sexuais com uma parceira enquanto tomam
+Erivedge e até 2 meses após a última dose (ver secção 4.6).
+Teste de gravidez
+Na MPE, deve ser realizado um teste de gravidez medicamente supervisionado por um prestador de
+cuidados de saúde no prazo de 7 dias antes do início do tratamento e mensalmente durante o
+tratamento. Os testes de gravidez devem ter uma sensibilidade mínima de 25 mUI/mL, conforme a
+disponibilidade local. As doentes que apresentem amenorreia durante o tratamento com Erivedge
+devem continuar a realizar o teste de gravidez mensalmente enquanto estiverem em tratamento.
+Restrições de prescrição e dispensa para MPE
+A prescrição e dispensa iniciais de Erivedge devem ocorrer no máximo 7 dias após um teste de
+gravidez com resultado negativo (dia do teste de gravidez = dia 1). A prescrição de Erivedge deve ser
+limitada a 28 dias de tratamento e a continuação do tratamento requer uma nova prescrição.
+Material educacional
+De modo a apoiar os prestadores de cuidados de saúde e os doentes a evitar a exposição embrionária e
+fetal ao Erivedge, o Titular da Autorização de Introdução no Mercado irá fornecer materiais
+educacionais (Programa de Prevenção de Gravidez de Erivedge) para enfatizar os riscos potenciais
+associados à utilização de Erivedge.
+Efeitos no desenvolvimento pós-natal
+A fusão epifisária prematura e puberdade precoce têm sido notificadas em doentes pediátricos
+expostos a Erivedge. Devido ao tempo de semivida de eliminação do fármaco, estes acontecimentos
+podem ocorrer ou progredir após descontinuação do tratamento. Em espécies animais, o vismodegib
+demonstrou causar alterações irreversíveis graves no crescimento dos dentes (degeneração/necrose dos
+odontoblastos, formação de quistos cheios de líquido na polpa dental, ossificação do canal da raiz e
+hemorragia) e fecho da placa epifisária de crescimento. As observações de fusão prematura das
+epífises indicam um potencial risco de estatura baixa e deformações nos dentes de bebés e crianças
+(ver secção 5.3).
+Doação de sangue
+Os doentes não devem doar sangue enquanto tomam Erivedge e até 24 meses após a última dose.
+Doação de sémen
+Os doentes do sexo masculino não devem doar sémen enquanto tomam Erivedge e até 2 meses após a
+última dose.
+Interações
+O tratamento concomitante com fortes indutores do CYP (por exemplo rifampicina, carbamazepina ou
+fenitoína) deve ser evitado, uma vez que não pode ser excluído o risco de diminuição das
+concentrações plasmáticas e da eficácia de vismodegib (ver também secção 4.5).
+Reações adversas cutâneas graves
+Têm sido notificadas reações adversas cutâneas graves (SCARs), incluindo casos de síndrome de
+Stevens-Johnson/necrólise epidérmica tóxica (SJS/NET), reação medicamentosa com eosinofilia e
+sintomas sistémicos (DRESS) e pustulose exantematosa generalizada aguda (AGEP), que podem ser
+fatais, durante a utilização pós-comercialização (ver secção 4.8). Se o doente desenvolveu alguma
+5
+
+dessas reações com a utilização de vismodegib, o tratamento com vismodegib não deve, em qualquer
+momento, ser reiniciado nesse doente.
+Excipientes
+As cápsulas de Erivedge contêm lactose monohidratada. Os doentes com problemas hereditários raros
+de intolerância à galactose, deficiência total de lactase ou malabsorção de glucose-galactose não
+devem tomar este medicamento.
+Este medicamento contém menos de 1 mmol (23 mg) de sódio por dose, ou seja, é praticamente
+“isento de sódio”.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Efeitos de medicamentos concomitantes no vismodegib
+Não são esperadas interações farmacocinéticas (PK) clinicamente significativas entre vismodegib e
+agentes que aumentam o pH. Os resultados de um estudo clínico demonstraram uma diminuição de
+33% nas concentrações de vismodegib livre após 7 dias de tratamento em associação com 20 mg de
+rabeprazol (um inibidor da bomba de protões) administrado 2 horas antes de cada administração de
+vismodegib. Não se espera que esta interação seja clinicamente significativa.
+Não são esperadas interações farmacocinéticas clinicamente significativas entre vismodegib e
+inibidores do CYP450. Os resultados de um estudo clínico demonstraram um aumento de 57% nas
+concentrações de vismodegib livre após 7 dias de tratamento em associação com 400 mg diários de
+fluconazol (um inibidor moderado do CYP2C9), mas não se espera que esta interação seja
+clinicamente significativa. A associação com 200 mg diários de itraconazol (um inibidor potente do
+CYP3A4) não influenciou a AUC0-24h de vismodegib após 7 dias de tratamento em voluntários
+saudáveis.
+Não são esperadas interações farmacocinéticas clinicamente significativas entre vismodegib e
+inibidores da gp-P. Os resultados de um estudo clínico demonstraram a inexistência de interações
+farmacocinéticas clinicamente significativas entre o vismodegib e itraconazol (um inibidor potente da
+glicoproteína-P) em voluntários saudáveis.
+A exposição de vismodegib pode ser menor quando o vismodegib é administrado com indutores CYP
+(rifampicina, carbamazepina, fenitoína ou erva de S. João) (ver secções 4.3 e 4.4).
+Efeitos de vismodegib nos medicamentos concomitantes
+Contracetivos esteroides
+Os resultados de um estudo de interação fármaco-fármaco realizado em doentes oncológicos
+demonstraram que a exposição sistémica do etinilestradiol e noretindrona não é alterada quando
+coadministrados com vismodegib. No entanto, a duração do estudo de interação foi de apenas 7 dias e
+não pode ser excluído que o vismodegib num tratamento mais prolongado atue como indutor das
+enzimas que metabolizam os contracetivos esteroides. A indução pode originar diminuições na
+exposição sistémica dos contracetivos esteroides e, deste modo, redução da eficácia contracetiva.
+Efeitos em enzimas e transportadores específicos
+Os estudos in vitro indicam que o vismodegib tem o potencial de agir como inibidor da proteína de
+resistência do cancro da mama (BCRP). Não estão disponíveis dados de interação in vivo. Não se pode
+excluir que o vismodegib pode levar ao aumento da exposição dos medicamentos transportados por
+esta proteína, tais como a rosuvastatina, topotecano e sulfassalazina. A administração concomitante
+deve ser realizada com precaução e pode ser necessário o ajuste de dose.
+Não são esperadas interações farmacocinéticas clinicamente significativas entre o vismodegib e
+substratos do CYP450. In vitro, o CYP2C8 foi a isoforma CYP mais sensível à inibição pelo
+vismodegib. No entanto, os resultados de um estudo de interação fármaco-fármaco realizado em
+6
+
+doentes oncológicos demonstraram que a exposição sistémica da rosiglitazona (um substrato do
+CYP2C8) não é alterada quando coadministrada com vismodegib. Assim, a inibição in vivo das
+enzimas CYP pelo vismodegib pode ser excluída.
+In vitro, o vismodegib é um inibidor do OATP1B1. Não se pode excluir que o vismodegib possa
+aumentar a exposição aos substratos do OATP1B1, p.ex. bosentano, ezetimiba, glibenclamida,
+repaglinida, valsartan e estatinas. Em particular, devem ser tomadas precauções se vismodegib for
+administrado em combinação com qualquer estatina.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com Potencial para Engravidar (MPE)
+Devido ao risco de morte embriofetal ou defeitos congénitos graves causados por vismodegib, as
+mulheres em tratamento com Erivedge não podem estar grávidas ou engravidar durante o tratamento e
+até 24 meses após a última dose (ver secções 4.3 e 4.4).
+Erivedge está contraindicado na MPE que não cumpra com o Programa de Prevenção de Gravidez de
+Erivedge.
+Em caso de gravidez ou omissão de períodos menstruais
+Se a doente engravidar, não apresentar um período menstrual, ou suspeitar por qualquer razão que
+possa estar grávida, deve notificar o seu médico assistente imediatamente.
+A falta persistente da menstruação durante o tratamento com Erivedge deve ser assumida como
+indicador de gravidez até avaliação médica e confirmação.
+Contraceção em mulheres e homens
+Mulheres com Potencial para Engravidar (MPE)
+A MPE tem de ser capaz de cumprir com medidas de contraceção eficazes. Tem de usar dois métodos
+de contraceção recomendados, incluindo um método de elevada eficácia e um método barreira durante
+a terapêutica com Erivedge e até 24 meses após a última dose. A MPE, cuja menstruação é irregular
+ou se encontra interrompida, tem de seguir todos os conselhos de contraceção eficaz.
+Homens
+O vismodegib está presente no sémen. De modo a evitar a potencial exposição fetal durante a
+gravidez, os doentes do sexo masculino têm de utilizar sempre o preservativo (com espermicida, se
+disponível), mesmo depois de uma vasectomia, ao terem relações sexuais com uma parceira enquanto
+tomam Erivedge e durante 2 meses após a última dose.
+Formas recomendadas de métodos de elevada eficácia:
+• Depósito hormonal injetável,
+• Laqueação das trompas,
+• Vasectomia,
+• Dispositivo intrauterino (DIU).
+Formas recomendadas de métodos barreira:
+• Qualquer preservativo masculino (com espermicida, se disponível),
+• Diafragma (com espermicida, se disponível).
+Gravidez
+Erivedge pode causar morte embriofetal ou defeitos congénitos graves quando administrado a uma
+mulher grávida (ver secção 4.4). Os inibidores da via Hedgehog (ver secção 5.1), tal como
+vismodegib, têm demonstrado ser embriotóxicos e/ou teratogénicos em múltiplas espécies animais e
+podem causar malformações graves, incluindo anomalias craniofaciais, defeitos da linha média e
+defeitos nos membros (ver secção 5.3). O tratamento deve ser interrompido imediatamente em caso de
+gravidez numa mulher tratada com Erivedge.
+
+7
+
+Amamentação
+A extensão pela qual o vismodegib é excretado no leite materno é desconhecida. Devido ao potencial
+para causar defeitos de desenvolvimento graves, as mulheres não podem amamentar enquanto tomam
+Erivedge e durante 24 meses após a última dose (ver secções 4.3 e 5.3).
+Fertilidade
+A fertilidade humana feminina pode ser comprometida pelo tratamento com Erivedge (ver secção 5.3).
+A reversibilidade do compromisso da fertilidade é desconhecida. Adicionalmente, foi observada
+amenorreia em MPE nos estudos clínicos (ver secção 4.8). Devem ser discutidas estratégias para
+preservação da fertilidade com as MPE antes do início do tratamento com vismodegib.
+Não é expectável compromisso da fertilidade masculina em humanos (ver secção 5.3).
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Erivedge sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezáveis.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas medicamentosas (RAM) mais frequentes que ocorreram em ≥ 30 % dos doentes
+foram espasmos musculares (74,6 %), alopecia (65,9%), disgeusia (58,7%), diminuição do peso
+(50,0%), fadiga (47,1%), náuseas (34,8 %) e diarreia (33,3%).
+Lista tabelada de reações adversas
+As RAMs encontram-se descritas na tabela 1 abaixo por classe de sistema de órgão (SOC) e
+frequência absoluta.
+As frequências são definidas como:
+Muito frequentes ( ≥ 1/10)
+Frequentes ( ≥ 1/100 a < 1/10)
+Pouco frequentes ( ≥ 1/1.000 a < 1/100)
+Raras ( ≥ 1/10.000 a < 1/1000)
+Muito raras ( < 1/10.000)
+Desconhecida (não pode ser estimada a partir dos dados disponíveis)
+Em cada grupo de frequência, as RAMs são apresentadas por ordem decrescente de gravidade.
+A segurança de Erivedge foi avaliada em estudos clínicos com 138 doentes tratados para o carcinoma
+basocelular avançado (CBCa), o qual inclui o carcinoma basocelular metastático (CBCm) e o
+carcinoma basocelular localmente avançado (CBCla). Em quatro estudos clínicos de fase 1 e 2,
+abertos, os doentes foram tratados com, pelo menos, uma dose de Erivedge ≥ 150 mg em monoterapia.
+As doses > 150 mg não resultaram em concentrações plasmáticas superiores nos estudos clínicos e os
+doentes tratados com doses > 150 mg foram incluídos na análise.
+Além disso, a segurança foi avaliada num ensaio pós-aprovação, que incluiu 1215 doentes com CBCa
+avaliados a nível de segurança e tratados com 150 mg. De forma geral, o perfil de segurança
+observado foi consistente nos doentes com CBCm e CBCla e entre ensaios, tal como descrito abaixo.
+
+8
+
+Tabela 1
+
+RAMs ocorridas em doentes tratados com Erivedge
+
+SOC MedDRA
+
+Muito frequentes
+
+Frequentes
+
+Doenças do metabolismo e
+da nutrição
+
+diminuição do
+apetite
+
+desidratação
+
+Doenças do sistema nervoso
+
+disgeusia
+ageusia
+
+hipogeusia
+
+Doenças gastrointestinais
+
+náuseas
+diarreia
+obstipação
+vómitos
+dispepsia
+
+dor abdominal
+superior
+dor abdominal
+
+Doenças endócrinas
+
+Doenças hepatobiliares
+
+enzimas hepáticas
+aumentadas**
+
+Lesão hepática
+induzida por
+fármacos*****
+Síndrome de
+Stevens-Johnson
+(SSJ)/Necrólise
+Epidérmica Tóxica
+(NET)/reação a
+fármacos com
+eosinofilia e
+sintomas sistémicos
+(DRESS) e pustulose
+exantematosa
+generalizada aguda
+(AGEP) ******
+Fusão epifisária
+prematura****
+
+Afeções dos tecidos cutâneos
+e subcutâneos
+
+alopecia
+prurido
+erupção cutânea
+
+madarose
+anomalia do
+crescimento dos
+pelos
+
+Afeções musculosqueléticas e
+dos tecidos conjuntivos
+
+espasmos musculares
+artralgia
+dores nas
+extremidades
+
+dorsalgia
+dor torácica
+musculoesquelética
+mialgia
+dor do flanco
+dor
+musculoesquelética
+creatina fosfoquinase
+sanguínea
+aumentada***
+
+9
+
+Frequência
+desconhecida
+puberdade
+precoce****
+
+SOC MedDRA
+
+Muito frequentes
+
+Doenças dos órgãos genitais
+e da mama
+Perturbações gerais e
+alterações no local de
+administração
+
+amenorreia *
+diminuição de peso
+fadiga
+dor
+
+Frequentes
+
+Frequência
+desconhecida
+
+astenia
+
+Todos os casos baseiam-se em RAMs de
+todos os graus de acordo com a v 3.0 do National Cancer Institute - Common Terminology Criteria for Adverse
+Events, exceto quando assinalado.
+* Dos 138 doentes com carcinoma basocelular avançado, 10 eram MPE. Foi observada amenorreia em 3 destas
+doentes (30 %).
+MedDRA = Dicionário Médico para Atividades Regulamentares.
+** Inclui os termos preferidos: prova da função hepática anormal, bilirrubina sanguínea aumentada, gamaglutamiltransferase aumentada, aspartataminotransferase aumentada, fosfatase alcalina aumentada, enzima
+hepática aumentada.
+*** Observado em doentes durante o ensaio pós-aprovação com 1215 doentes avaliáveis a nível de segurança.
+**** Casos individuais têm sido reportados em doentes com meduloblastoma durante a utilização póscomercialização (ver secção 4.4).
+***** Foram notificados casos de lesão hepática induzida por fármacos em doentes durante a utilização póscomercialização.
+****** Foram notificados casos de SCAR (incluindo SSJ/NET, DRESS e AGEP) em doentes durante a
+utilização pós-comercialização.
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Erivedge foi administrado em doses 3,6 vezes superiores à dose diária recomendada de 150 mg. Não
+foram observados aumentos nos níveis plasmáticos de vismodegib ou toxicidade durante estes estudos
+clínicos.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Agentes antineoplásicos, outros agentes antineoplásicos, código ATC:
+L01XJ01.
+Mecanismo de ação
+O vismodegib é uma pequena molécula inibidora da via Hedgehog disponível por via oral. A
+sinalização da via Hedgehog através da proteína transmembranar Smoothened (SMO) leva à ativação e
+à localização nuclear dos fatores de transcrição do oncogene associado ao glioma (GLI) e à indução
+dos genes Hedgehog alvo. Muitos destes genes estão envolvidos na proliferação, sobrevivência e
+diferenciação. O vismodegib liga-se e inibe a proteína SMO, bloqueando assim a transdução do sinal
+da via Hedgehog.
+Eficácia e segurança clínicas
+O ensaio principal, ERIVANCE BCC (SHH4476g), foi um estudo internacional, de braço único,
+multicêntrico com 2 coortes. O CBC metastático foi definido como CBC que se espalhou para outras
+partes do organismo para além da pele, incluindo nódulos linfáticos, pulmão, osso e/ou órgãos
+internos. Os doentes com CBCla apresentavam lesões cutâneas inapropriadas para cirurgia
+(inoperáveis, multiplamente recidivantes onde a resseção curativa se considera improvável ou aquelas
+10
+
+cuja cirurgia resultaria em deformação ou morbilidade substancial) e para as quais a radioterapia foi
+mal sucedida, contraindicada ou inapropriada. Antes do recrutamento para o estudo, o diagnóstico de
+CBC foi confirmado histologicamente. Os doentes com síndrome de Gorlin que apresentavam, pelo
+menos, uma lesão de CBCa e cumpriam com os critérios de inclusão foram elegíveis para participar no
+estudo. Os doentes foram tratados com doses diárias de 150 mg de Erivedge por via oral.
+A idade mediana da população para avaliação da eficácia foi de 62 anos (46 % tinham, pelo menos, 65
+anos de idade), 61 % eram do sexo masculino e 100 % eram de raça caucasiana. Na coorte do CBCm,
+97 % dos doentes receberam terapia prévia, incluindo cirurgia (97 %), radioterapia (58 %) e terapias
+sistémicas (30 %). Na coorte de CBCla (n=63), 94 % dos doentes receberam terapias prévias,
+incluindo cirurgia (89 %), radioterapia (27 %) e terapias sistémicas/tópicas (11 %). A duração mediana
+do tratamento foi de 12,9 meses (intervalo de 0,7 a 47,8 meses).
+O objetivo primário foi a taxa de resposta objetiva (ORR) avaliada por uma entidade de revisão
+independente (IRF), como resumido na Tabela 2. A resposta objetiva foi definida como resposta
+completa ou parcial determinada em duas avaliações consecutivas separadas por, pelo menos, 4
+semanas. Na coorte de CBCm, a resposta tumoral foi avaliada de acordo com a versão 1.0 dos
+Critérios de Avaliação de Resposta de Tumores Sólidos (RECIST). Na coorte do CBCla, a resposta
+tumoral foi avaliada com base na avaliação visual do tumor externo e ulceração, imagiologia do tumor
+(quando apropriado) e biópsia tumoral. Um doente era considerado um respondedor na coorte do
+CBCla se, pelo menos, um dos seguintes critérios fosse atingido e o doente não desenvolvesse
+progressão: (1) redução ≥ 30 % no tamanho da lesão [soma do maior diâmetro (SLD)], a partir da
+linha de base das lesões alvo por radiografia; (2) redução ≥ 30 % na SLD a partir da linha de base das
+dimensões externamente visíveis das lesões alvo; (3) Resolução completa da ulceração em todas as
+lesões alvo. Os dados principais estão resumidos na tabela 2:
+
+11
+
+Tabela 2
+
+Resultados de eficácia de Erivedge no SHH4476g (avaliados pelo IRF e pelo
+investigador aos 21e 39 meses de seguimento após o último doente recrutado,
+respetivamente): doentes avaliáveis para a eficácia*,†
+
+Respondedores
+IC 95 % para
+resposta global
+Resposta completa
+Resposta parcial
+Doença estável
+Progressão da
+doença‡
+Duração de resposta
+mediana (meses)
+(IC 95 %)
+Sobrevivência livre
+de progressão
+mediana (meses)
+(IC 95 %)
+OS mediana,
+(meses)
+(IC 95 %)
+Taxa de
+sobrevivência a 1
+ano
+(IC 95 %)
+
+Avaliado pelo IRF
+CBCm
+CBCla**
+(n = 33)
+(n = 63)
+11 (33,3 %)
+30 (47,6 %)
+(19,2 %; 51,8 %)
+(35,5 %; 60,6 %)
+0
+11 (33,3 %)
+20
+1
+
+14 (22,2 %)
+16 (25,4 %)
+22
+8
+
+Avaliado pelo Investigador
+CBCm
+CBCla**
+(n = 33)
+(n = 63)
+16 (48,5 %)
+38 (60,3 %)
+(30,8 %; 66,2
+(47,2 %; 71,7
+%)
+%)
+0
+20 (31,7 %)
+16 (48,5 %)
+18 (28,6 %)
+14
+15
+2
+6
+
+7,6
+
+9,5
+
+14,8
+
+26,2
+
+(5,5; 9,4)
+9,5
+
+(7,4; 21,4)
+9,5
+
+(5,6; 17,0)
+9,3
+
+(9,0; 37,6)
+12,9
+
+(7,4; 11,1)
+
+(7,4; 14,8)
+
+(7,4; 16,6)
+33,4
+(18,1; NE)
+
+(10,2; 28,0)
+NE
+(NE; NE)
+
+78,7 %
+(64,7; 92,7)
+
+93,2 %
+(86,8; 99,6)
+
+NE = não estimável
+* A população de doentes para avaliação da eficácia é definida como todos os doentes recrutados que receberam
+qualquer quantidade de Erivedge e para os quais a interpretação do tecido arquivado ou biópsia da linha de base
+pelo patologista independente foi consistente com CBC.
+† Os dados em falta/não avaliáveis incluíram 1 doente com CBCm e 4 doentes com CBCla.
+‡ A progressão na coorte do CBCla é definida pelo atingimento de qualquer dos seguintes critérios: (1) aumento ≥
+20 % na soma das dimensões maiores (SLD) a partir do nadir nas lesões alvo (quer por radiografia ou pela
+dimensão externamente visível), (2) Persistência de nova ulceração das lesões alvo sem evidência de cura durante,
+pelo menos, 2 semanas, (3) Lesões novas por radiografia ou exame físico, (4) Progressão de lesões não alvo por
+RECIST.
+**54 % dos doentes com CBCla não tinham evidência histopatológica de CBC às 24 semanas.
+
+Tal como ilustrado nos gráficos em cascata das figuras 1 e 2 que exibem a redução máxima do
+tamanho da(s) lesão(ões) alvo de cada doente, a maioria dos doentes de ambas as coortes apresentou
+redução tumoral como avaliado pelo IRF.
+
+12
+
+Figura 1
+
+Coorte de CBC metastático do SHH4476g
+
+Nota: O tamanho do tumor baseia-se na soma das dimensões maiores das lesões alvo. PD = Progressão da
+doença, DE = Doença estável, RP = Resposta parcial. 3 doentes tiveram a melhor alteração percentual no
+tamanho do tumor de 0; estes são representados pelas barras positivas mínimas na figura. Quatro doentes foram
+excluídos da figura: 3 doentes com doença estável foram avaliados apenas pelas lesões não alvo e 1 doente era
+não avaliável.
+
+13
+
+Figura 2
+
+Coorte de CBC localmente avançado do SHH4476g
+
+Nota: O tamanho do tumor baseia-se na soma das dimensões maiores das lesões alvo. PD = Progressão da
+doença, DE = Doença estável, R = resposta, * = resolução completa da(s) ulceração(ões). A avaliação da
+resposta baseou-se num objetivo composto definido acima. A medição das lesões não estava disponível para
+quatro doentes, pelo que estes não foram incluídos no gráfico.
+
+Tempo até à redução tumoral máxima
+Entre os doentes que atingiram redução tumoral, o tempo mediano para a redução tumoral máxima foi
+de 5,6 e 5,5 meses para os doentes com CBCla e CBCm, respetivamente, com base na avaliação
+realizada pelo IRF. De acordo com a avaliação realizada pelo investigador, o tempo mediano para a
+redução tumoral máxima foi de 6,7 e 5,5 meses para os doentes com CBCla e CBCm, respetivamente.
+Eletrofisiologia cardíaca
+Num estudo completo do QTc realizado em 60 indivíduos saudáveis, não houve efeito de doses
+terapêuticas de Erivedge no intervalo QTc.
+Resultados do ensaio pós-aprovação
+Um ensaio clínico (MO25616) pós-aprovação de fase II, open-label, não comparativo, multicêntrico
+foi realizado em 1232 doentes com CBC avançado, dos quais 1215 doentes foram avaliáveis a nível de
+eficácia e segurança com CBCla (n= 1119) ou CBCm (n=96). CBCla foi definido como lesões
+cutâneas inadequadas para cirurgia (inoperáveis, ou para as quais a cirurgia iria resultar em
+deformações substanciais) e para as quais a radioterapia não foi bem sucedida ou é contraindicada. O
+CBC metastático foi definido como metástases distantes confirmadas histologicamente. Antes da
+participação no ensaio, o diagnóstico de CBC foi confirmado histologicamente. Os doentes foram
+tratados com uma dose oral diária de Erivedge de 150 mg.
+A mediana de idade dos doentes foi de 72 anos. A maioria dos doentes eram do sexo masculino (57%),
+8% tinham CBCm enquanto 92% tinham CBCla. Para o grupo metastático, a maioria dos doentes teve
+tratamento prévio, incluindo cirurgia (91%), radioterapia (62%) e terapia sistémica (16%). Na coorte
+de CBC localmente avançado, a maioria dos doentes tinha terapias anteriores, incluindo cirurgia
+(85%), radioterapia (28%) e terapia sistémica (7%)
+A mediana da duração do tratamento para todos os doentes foi de 8,6 meses (intervalo de 0 a 44,1).
+Entre os doentes na população avaliável para a eficácia com doença mensurável e histologicamente
+confirmada, 68,5% e 36,9% responderam ao tratamento nas coortes de CBCla e CBCm,
+respetivamente, por RECIST v1.1. Dos doentes que tiveram resposta confirmada (parcial ou total), a
+14
+
+mediana da duração da resposta foi de 23,0 meses (IC 95%: 20,4; 26,7) na coorte de CBCla e 13,9
+meses (IC95%: 9,2; NE) na coorte CBCm. A resposta completa foi alcançada em 4,8% dos doentes na
+coorte CBCm e 33,4% na coorte CBCla. A resposta parcial foi atingida em 32,1% dos doentes na
+coorte CBCm e 35,1% na coorte CBCla.
+População pediátrica
+A Agência Europeia de Medicamentos dispensou a obrigação de apresentação dos resultados dos
+estudos com Erivedge em todos os subgrupos da população pediátrica com carcinoma basocelular (ver
+secção 4.2 para informação sobre utilização pediátrica).
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+Erivedge é um composto de elevada permeabilidade com baixa solubilidade aquosa (BCS classe 2). A
+biodisponibilidade absoluta média (CV %) de uma dose única de Erivedge é de 31,8 (14,5) %. A
+absorção é saturável como evidenciado pela falta de aumento na exposição proporcional à dose após
+uma dose única de 270 mg e 540 mg de Erivedge. Sob condições clinicamente relevantes (estado
+estacionário), a farmacocinética de vismodegib não é afetada pelos alimentos. Por conseguinte,
+Erivedge pode ser administrado sem ter as refeições em consideração.
+Distribuição
+O volume de distribuição de vismodegib é baixo, variando entre 16,4 a 26,6 L. A ligação in vitro de
+vismodegib às proteínas plasmáticas humanas é elevada (97 %) a concentrações clinicamente
+relevantes. O vismodegib liga-se à albumina sérica e glicoproteína alfa-1-ácido (AAG) humanas. A
+ligação in vitro à AAG é saturável a concentrações clinicamente relevantes. A ligação ex vivo às
+proteínas plasmáticas em doentes é > 99 %. As concentrações de vismodegib estão fortemente
+correlacionadas com os níveis da AAG, mostrando flutuações paralelas da AAG e do vismodegib total
+ao longo do tempo e níveis de vismodegib não ligado consistentemente baixos.
+Biotransformação
+O vismodegib é eliminado lentamente por uma combinação de metabolização e excreção da substância
+parental. O vismodegib é predominante no plasma, com concentrações que representam mais de 98 %
+das concentrações circulantes totais (incluindo metabolitos associados). As vias metabólicas de
+vismodegib no ser humano incluem a oxidação, glucoronidação e uma clivagem pouco frequente do
+anel de piridina. O CYP2C9 parece contribuir em parte para o metabolismo do vismodegib in vivo.
+Eliminação
+Após a administração por via oral de uma dose radiomarcada, o vismodegib é absorvido e eliminado
+lentamente por uma combinação de metabolização e excreção da substância parental, a maioria da qual
+é recuperada nas fezes (82 % da dose administrada), com 4,4 % da dose administrada recuperada na
+urina. O vismodegib e os produtos metabólicos associados são eliminados principalmente pela via
+hepática.
+Após doses únicas diárias contínuas, a farmacocinética de vismodegib aparenta ser não linear devido à
+absorção e ligação às proteínas serem saturáveis. Após uma dose única por via oral, o vismodegib tem
+uma semivida terminal de aproximadamente 12 dias.
+Estima-se que a semivida aparente de vismodegib em estado estacionário seja de 4 dias com
+administração diária contínua. Em consequência da administração diária contínua, existe uma
+acumulação de 3 vezes a concentração plasmática total de vismodegib.
+O vismodegib inibe a UGT2B7 in vitro e não pode ser excluído que a inibição possa ocorrer in vivo no
+intestino.
+
+15
+
+Populações especiais
+Idosos
+Os dados em pessoas idosas são limitados. Nos ensaios clínicos com CBCla, aproximadamente 40 %
+dos doentes apresentavam idade geriátrica (≥ 65 anos). As análises farmacocinéticas da população
+sugerem que a idade não teve um impacto clinicamente significativo na concentração em estado
+estacionário de vismodegib.
+Género
+Com base na análise farmacocinética da população de dados combinados de 121 homens e 104
+mulheres, o género não aparentou afetar a farmacocinética de vismodegib.
+Raça
+Os dados em doentes não caucasianos são limitados. A raça não foi avaliada como covariável na
+análise farmacocinética da população, uma vez que o número de indivíduos não caucasianos totalizou
+apenas < 3 % da população total (6 negros, 219 caucasianos).
+Compromisso renal
+A excreção renal de vismodegib administrado por via oral é baixa. Portanto, é pouco provável que o
+compromisso renal ligeiro e moderado tenha um efeito clinicamente significativo na farmacocinética
+do vismodegib. Com base numa análise farmacocinética numa população de doentes com
+compromisso renal ligeiro (CrCl indexada à área de superfície corporal entre 50 a 80 ml/min, n=58) e
+moderado (CrCl indexada à área de superfície corporal entre 30 a 50 ml/min, n=16), a função renal
+com compromisso ligeiro e moderado não teve efeito clinicamente significativo na farmacocinética do
+vismodegib (ver secção 4.2). Os dados disponíveis em doentes com compromisso renal grave são
+muito limitados.
+Compromisso hepático
+As principais vias de eliminação do vismodegib envolvem metabolismo hepático e secreção
+biliar/intestinal. Num estudo clínico em doentes com compromisso hepático (grau de compromisso
+baseado nos níveis de AST e bilirrubina totais dos participantes), após doses múltiplas de vismodegib,
+verificou-se que em doentes com compromisso hepático ligeiro (critérios NCI-ODWG, n=8),
+moderado (critérios NCI-ODWG, n=6) e grave (critérios NCI-ODWG, n=3), o perfil farmacocinético
+de vismodegib foi comparável ao dos participantes com função hepática normal (n=9) (ver secção
+4.2).
+População pediátrica
+Os dados farmacocinéticos em doentes pediátricos são insuficientes.
+5.3
+
+Dados de segurança pré-clínica
+
+O perfil de segurança pré-clínico de Erivedge foi avaliado no ratinho, rato e cão.
+Toxicidade de dose repetida
+Em geral, a tolerabilidade de Erivedge em estudos de toxicidade de dose repetida no rato e cão foi
+limitada por manifestações não específicas de toxicidade incluindo diminuição do aumento de peso
+corporal e do consumo de alimentos. As observações adicionais a exposições clinicamente relevantes
+incluíram alterações nas fezes, fasciculação e fibrilhação do musculosquelético ou tremores, alopecia,
+inchaço, hiperqueratose folicular e inflamação das almofadas das patas; e aumento do colesterol LDL
+e HDL. Foi observada a diminuição do hematócrito ou da contagem das plaquetas em alguns cães com
+exposições clinicamente relevantes; no entanto, não houve evidência de efeito primário na medula
+óssea dos animais afetados.
+Carcinogenicidade
+Foram realizados estudos de carcinogenicidade em ratinhos e ratos. O potencial carcinogénico foi
+apenas identificado em ratos e estava limitado a tumores benignos do folículo piloso, incluindo
+pilomatricomas e queratoacantomas, respetivamente com ≥ 0,1 vezes e ≥ 0,6 vezes a AUC(0-24h) no
+16
+
+estado estacionário da dose recomendada em humanos. Nenhum tumor maligno foi identificado em
+nenhuma das espécies testadas. Não foram notificados tumores benignos do folículo piloso nos
+estudos clínicos com Erivedge e a relevância desta observação para o ser humano é incerta.
+Mutagenicidade
+Não houve evidência de genotoxicidade nos ensaios in vitro (ensaios de mutação bacteriana reversa
+[Ames] e aberração cromossómica de linfócitos humanos), ou no ensaio in vivo do micronúcleo da
+medula óssea de rato.
+Fertilidade
+No estudo de vismodegib de 26 semanas dedicado à fertilidade no rato, foram observados pesos
+absolutos das vesículas seminais significativamente aumentados e os pesos absolutos da próstata
+significativamente reduzidos. Além disso, a razão de peso de órgão para peso corporal terminal foi
+significativamente aumentada para o epidídimo, cauda do epidídimo, testículos e vesículas seminais.
+No mesmo estudo, não houve alterações histopatológicas nos órgãos reprodutores masculinos ou
+parâmetros de fertilidade, incluindo a mobilidade percentual dos espermatozoides, com 100 mg/kg/dia
+no final da dosagem ou fase de recuperação (o que corresponde a 1,3 vezes a AUC0-24h no estado
+estacionário da dose recomendada em humanos) . Adicionalmente, nos estudos de toxicidade geral
+com vismodegib, com duração até 26 semanas, em ratos e cães sexualmente maduros, não foram
+observados efeitos nos órgãos reprodutores masculinos. O aumento do número de células germinativas
+degenerativas e hipospermia em cães sexualmente imaturos observados com ≥ 50 mg/kg /dia no
+estudo de toxicidade geral de 4 semanas foi de relação indeterminada com o vismodegib.
+No estudo de vismodegib de 26 semanas dedicado à fertilidade no rato, foram observados efeitos
+relacionados com o vismodegib no órgãos reprodutores femininos com 100 mg/kg/dia, imediatamente
+após a interrupção do tratamento, incluindo diminuição das implantações, aumento percentual de
+perda pré-implantação e diminuição do número de progenitoras com embriões viáveis . Não foram
+observados resultados similares após um período de recuperação de 16 semanas. Não foram
+observadas alterações histopatológicas correlativas. A exposição de ratos fêmea a 100 mg/kg
+corresponde a 1,2 vezes a AUC0-24h no estado estacionário da dose recomendada em humanos.
+Adicionalmente, no estudo de vismodegib de toxicidade geral de 26 semanas, foi observada
+diminuição do número de corpos lúteos com 100 mg/kg/dia; o efeito não foi revertido no final de um
+período de recuperação de 8 semanas.
+Teratogenicidade
+O vismodegib atravessou a placenta e foi gravemente tóxico para o embrião num estudo de
+desenvolvimento embriofetal em que vismodegib foi administrado diariamente a ratos fêmea grávidas
+durante a organogénese. Foram observadas malformações, incluindo anomalias craniofaciais, períneo
+aberto e dedos unidos e/ou ausentes em fetos com uma dose que correspondeu a 20 % da exposição
+típica em estado estacionário em doentes e foi observada uma embrioletalidade com 100 % de
+incidência com doses maiores.
+Desenvolvimento pós-natal
+Não foram realizados estudos específicos para avaliar o potencial de vismodegib afetar o
+desenvolvimento pós-natal. No entanto, os defeitos irreversíveis no crescimento de dentes e o fecho
+prematuro da placa epifisária femoral observados a exposições clinicamente relevantes nos estudos de
+toxicidade no rato, representam riscos para o desenvolvimento pós-natal.
+
+17
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Conteúdo da cápsula
+Celulose microcristalina
+Lactose monohidratada
+Laurissulfato de sódio
+Povidona (K29/32)
+Glicolato de amido sódico (Tipo A)
+Talco
+Estearato de magnésio
+Invólucro capsular
+Óxido de ferro negro (E172)
+Óxido de ferro vermelho (E172)
+Dióxido de titânio (E171)
+Gelatina
+Tinta de impressão
+Verniz shellac
+Óxido de ferro negro (E172)
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+4 anos.
+6.4
+
+Precauções especiais de conservação
+
+Conservar a temperatura inferior a 30 ºC.
+Manter o frasco bem fechado para proteger da humidade.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Frasco de HDPE com tampa de fecho resistente à abertura por crianças contendo 28 cápsulas. O
+material da tampa do frasco é polipropileno. O revestimento da tampa é folha de alumínio revestida
+com cartão encerado. Cada embalagem contém um frasco.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado no fim do tratamento deve ser eliminado imediatamente pelo
+doente de acordo com as exigências locais (por exemplo, pela devolução das cápsulas ao farmacêutico
+ou médico, se aplicável).
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+18
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/13/848/001
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 12 de julho de 2013
+Data da última renovação: 01 de julho de 2021
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+19
+
+ANEXO II
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+SEGURA E EFICAZ DO MEDICAMENTO
+
+20
+
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante responsável pela libertação do lote
+Roche Pharma AG
+Emil-Barell-Strasse 1
+D-79639 Grenzach-Wyhlen
+Alemanha
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para submissão de RPS para este medicamento estão estabelecidos na lista Europeia de
+datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da Diretiva
+2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de medicamentos.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da Autorização de Introdução no Mercado, e
+quaisquer atualizações subsequentes do PGR acordadas.
+Deve ser apresentado um PGR atualizado:
+• A pedido da Agência Europeia de Medicamentos;
+• Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+Se a apresentação de um relatório periódico de segurança (RPS) coincidir com a atualização de um
+PGR, ambos podem ser apresentados ao mesmo tempo.
+•
+
+Medidas adicionais de minimização do risco
+
+Antes do lançamento em cada Estado Membro, o Titular da AIM deve acordar com a Autoridade
+Nacional Competente o seguinte:
+•
+A secção nacional da DHPC
+•
+A metodologia para recolha de informação sobre a utilização de Erivedge e a adesão ao
+programa de farmacovigilância de gravidez e a sua efetividade
+•
+O formato e conteúdo dos materiais para os profissionais de saúde e doentes
+
+21
+
+O Titular da AIM deve distribuir uma Comunicação Dirigida aos Profissionais de Saúde na altura do
+lançamento do medicamento, a qual deve conter o seguinte:
+•
+Texto principal como acordado pelo Relator
+•
+Requisitos nacionais específicos acordados com a Autoridade Nacional Competente sobre:
+• Distribuição do medicamento
+• Medidas para garantir que todas as ações apropriadas foram tomadas antes de
+Erivedge ser prescrito e dispensado.
+O Titular da AIM deve garantir continuamente que todos os médicos que se espera vir a prescrever
+Erivedge recebem o seguinte:
+Resumo das Características do Medicamento
+Cartão de informação para o profissional de saúde
+Material educacional para o doente i.e. Brochura
+Orientações para aconselhamento ao doente
+O cartão de informação para o profissional de saúde deve conter os seguintes elementos chave:
+•
+
+Obrigações do profissional de saúde em relação à prescrição de Erivedge
+•
+Necessidade de providenciar aconselhamento abrangente e orientação aos doentes
+•
+Garantir que os doentes são capazes de cumprir com os requisitos para a
+utilização segura de Erivedge
+•
+Necessidade de providenciar aos doentes o material educacional para o doente
+
+•
+
+Informação para as mulheres com potencial para engravidar
+•
+Necessidade de testes de gravidez mensais mesmo que a doente apresente
+amenorreia
+•
+Necessidade de medidas contracetivas adequadas durante o tratamento e durante
+24 meses após o tratamento com Erivedge
+•
+Não amamentar durante o tratamento e durante 24 meses após o tratamento com
+Erivedge
+
+•
+
+Informação para homens
+•
+Necessidade de usar preservativo durante o tratamento e durante 2 meses após o
+tratamento com Erivedge
+•
+Não doar sémen durante o tratamento e durante 2 meses após a última dose
+
+•
+
+Necessidade de informar o doente para notificar imediatamente o profissional de saúde que o
+trata em caso de suspeita de gravidez numa doente do sexo feminino ou numa parceira de um
+doente do sexo masculino.
+•
+•
+
+O profissional de saúde deve avaliar o estado da gravidez, aconselhar a doente
+sobre o risco de teratogenicidade e encaminhá-la a um médico especializado para
+aconselhamento.
+O profissional de saúde deve notificar a gravidez confirmada ao titular da AIM
+
+•
+
+Relembrar aos doentes que devolvam as cápsulas não utilizadas no final do tratamento (a
+eliminação dependerá dos requisitos locais)
+
+•
+
+Relembrar aos doentes que não doem sangue durante o tratamento e durante 24 meses após a
+última dose.
+
+Orientações para aconselhamento ao doente
+•
+
+As orientações para aconselhamento ao doente podem ser utilizadas como orientação pelos
+médicos para informar e educar o doente sobre os riscos teratogénicos de Erivedge.
+
+22
+
+O material educacional de Erivedge para o doente i.e. Brochura deve conter os seguintes elementos
+chave:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+Informação para o doente sobre os riscos teratogénicos associados a Erivedge e a necessidade
+de evitar a exposição fetal
+Necessidade de contraceção adequada e definição de contraceção adequada
+Mecanismo específico nacional ou outro aplicável para que a prescrição de Erivedge seja
+dispensada
+Não dar Erivedge a qualquer outra pessoa
+Informação sobre a eliminação do medicamento não desejado
+Necessidade de conservar as cápsulas de Erivedge afastadas da vista e do alcance das crianças
+Que o doente não deve doar sangue durante o tratamento e até 24 meses após a sua última
+dose
+Que a doente não deve amamentar durante o tratamento e até 24 meses após a sua última dose
+Que o doente deve informar o profissional de saúde sobre qualquer reação adversa
+Informação para mulheres com potencial para engravidar
+•
+Descrição do programa de prevenção de gravidez
+•
+Necessidade de medidas contracetivas adequadas durante o tratamento e até 24
+meses após o tratamento com Erivedge
+•
+Teste de gravidez no prazo máximo de 7 dias antes do início do tratamento, e
+testes de gravidez medicamente supervisionados mensais durante o tratamento
+•
+Necessidade de parar Erivedge imediatamente em caso de suspeita de gravidez
+•
+Necessidade do doente notificar uma suspeita de gravidez imediatamente ao
+profissional de saúde que o trata.
+Informação para homens
+•
+Necessidade de usar preservativo (mesmo que o homem tenha sido sujeito a
+vasectomia) caso a sua parceira sexual esteja grávida ou seja uma mulher com
+potencial para engravidar durante o tratamento e até 2 meses após o tratamento
+com Erivedge
+•
+Que caso a sua parceira fique grávida deve informar o profissional de saúde que o
+trata imediatamente
+•
+Não doar sémen durante o tratamento e até 2 meses após a última dose
+
+23
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+24
+
+A. ROTULAGEM
+
+25
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM
+
+1.
+
+NOME DO MEDICAMENTO
+
+Erivedge 150 mg cápsulas
+vismodegib
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 150 mg de vismodegib.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo para informação adicional
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+28 cápsulas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Não esmague, abra ou mastigue a cápsula
+Consultar o folheto informativo antes de utilizar
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Risco de defeitos congénitos graves
+Não utilizar na gravidez ou amamentação
+Tem de seguir o Programa de Prevenção de Gravidez de Erivedge
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30 ºC
+Manter o frasco bem fechado para proteger da humidade
+26
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+As cápsulas não utilizadas devem ser devolvidas no fim do tratamento
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/13/848/001
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+Medicamento sujeito a receita médica
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+erivedge
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+27
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO
+
+1.
+
+NOME DO MEDICAMENTO
+
+Erivedge 150 mg cápsulas
+vismodegib
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 150 mg de vismodegib.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo para informação adicional
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+28 cápsulas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Não esmague, abra ou mastigue a cápsula
+Consultar o folheto informativo antes de utilizar
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Risco de defeitos congénitos graves
+Não utilizar na gravidez ou amamentação
+Tem de seguir o Programa de Prevenção de Gravidez de Erivedge
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+28
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30 ºC
+Manter o frasco bem fechado para proteger da humidade
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+As cápsulas não utilizadas devem ser devolvidas no fim do tratamento
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/13/848/001
+
+13.
+
+NÚMERO DO LOTE<, CÓDIGOS DA DÁDIVA E DO PRODUTO>
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+Medicamento sujeito a receita médica
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+29
+
+B. FOLHETO INFORMATIVO
+
+30
+
+Folheto informativo: Informação para o doente
+Erivedge 150 mg cápsulas
+vismodegib
+Erivedge pode causar defeitos congénitos (presentes à nascença) graves. Pode levar à morte de um
+bebé antes de nascer ou logo após ter nascido. Não pode ficar grávida enquanto toma este
+medicamento. Tem de seguir os conselhos de contraceção descritos neste folheto.
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+-
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Erivedge e para que é utilizado
+O que precisa de saber antes de tomar Erivedge
+Como tomar Erivedge
+Efeitos indesejáveis possíveis
+Como conservar Erivedge
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Erivedge e para que é utilizado
+
+O que é Erivedge
+Erivedge é um medicamento contra o cancro que contém a substância ativa vismodegib.
+Para que é utilizado Erivedge
+Erivedge é utilizado para tratar adultos com um tipo de cancro de pele chamado carcinoma basocelular
+avançado. É utilizado quando o cancro:
+•
+Se estendeu a outras partes do corpo (chamado carcinoma basocelular “metastático”)
+•
+Se estendeu para áreas próximas (chamado carcinoma basocelular “localmente avançado”) e o
+seu médico decidiu que o tratamento com cirurgia ou radiação não é apropriado
+Como funciona Erivedge
+O carcinoma basocelular desenvolve-se quando o ADN das células da pele normais fica danificado e o
+corpo não consegue reparar a lesão. Esta lesão pode alterar o modo como certas proteínas destas
+células funcionam e as células danificadas tornam-se cancerígenas e começam a crescer e a dividir-se.
+Erivedge é um medicamento contra o cancro que funciona através do controlo de uma das proteínas
+principais envolvidas no carcinoma basocelular. Isto pode atrasar ou parar o crescimento das células
+cancerígenas ou pode matá-las. Como resultado, o seu cancro de pele pode diminuir.
+
+31
+
+2.
+
+O que precisa de saber antes de tomar Erivedge
+
+Leia as instruções específicas que lhe foram dadas pelo seu médico, em particular sobre os efeitos de
+Erivedge nos bebés antes de nascerem.
+Leia atentamente e siga as instruções da brochura do doente entregue pelo seu médico.
+Não tome Erivedge
+• se tem alergia ao vismodegib ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+• se está grávida, pensa estar grávida ou planeia engravidar durante o tratamento ou durante 24
+meses após a sua última dose deste medicamento. Isto porque Erivedge pode causar danos ou a
+morte do seu bebé antes de nascer.
+• se está a amamentar ou planeia amamentar durante o tratamento ou durante 24 meses após a sua
+última dose deste medicamento. Isto porque se desconhece se Erivedge pode passar para o seu
+leite e prejudicar o seu bebé.
+• se estiver apta a engravidar, mas é incapaz ou não quer seguir as medidas de prevenção de
+gravidez necessárias que estão descritas no Programa de Prevenção de Gravidez de Erivedge.
+• se estiver também a tomar a erva de S. João (Hypericum perforatum) – um medicamento à base
+de plantas usado para a depressão (ver “Outros medicamentos e Erivedge”).
+Pode encontrar mais informação sobre estes assuntos nas secções “Gravidez”, “Amamentação” e
+“Fertilidade” e “Contraceção – para mulheres e homens”.
+Não tome este medicamento se alguma das situações acima se aplicar a si. Caso tenha dúvidas, fale
+com o seu médico ou farmacêutico antes de tomar Erivedge.
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes de tomar Erivedge caso tenha questões sobre a
+informação desta secção:
+•
+•
+•
+•
+
+Não deve doar sangue em qualquer altura durante o tratamento e durante 24 meses após a sua
+última dose deste medicamento.
+Se é homem, não deve doar sémen em qualquer altura durante o tratamento e durante 2 meses
+após a sua última dose deste medicamento.
+Foram comunicadas reações cutâneas graves em associação ao tratamento com Erivedge. Pare
+de utilizar Erivedge e procure atendimento médico imediatamente se notar algum dos sintomas
+descritos na secção 4.
+Nunca dê este medicamento a outra pessoa. Deve devolver as cápsulas não utilizadas no fim do
+seu tratamento. Fale com o seu médico ou farmacêutico sobre onde devolver as cápsulas.
+
+Crianças e adolescentes
+Não é recomendada a utilização de Erivedge nas crianças e adolescentes com idade inferior a 18 anos.
+Isto porque se desconhece se é seguro ou eficaz neste grupo etário. Erivedge pode causar paragem no
+crescimento ósseo e levar ao desenvolvimento precoce da puberdade (antes dos 8 anos nas meninas ou
+9 anos nos meninos). Isto pode acontecer mesmo após descontinuação de Erivedge. Foram observados
+problemas com o crescimento dos dentes e ossos nos estudos realizados com este medicamento em
+animais.
+Outros medicamentos e Erivedge
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos. Isto também inclui medicamentos não sujeitos a receita médica,
+vitaminas e medicamentos à base de plantas.
+
+32
+
+Alguns medicamentos podem afetar o modo como Erivedge funciona ou fazer com tenha maior
+probabilidade de desenvolver efeitos indesejáveis. Erivedge pode também afetar o modo como outros
+medicamentos funcionam.
+Em particular, informe o seu médico se estiver a tomar qualquer um dos seguintes medicamentos:
+• rifampicina– usada em infeções por bactérias
+• carbamazepina, fenitoína - usadas para a epilepsia
+• ezetimiba e estatinas, tais como atorvastatina, fluvastatina, pravastatina, rosuvastatina
+sinvastatina – usadas para níveis elevados de colesterol
+• bosentano, glibenclamida, repaglinida, valsartan
+• topotecano – usado em alguns tipos de cancro
+• sulfassalazina – usada em determinadas perturbações inflamatórias, e especialmente
+• erva de S. João (Hypericum perforatum) – um medicamento à base de plantas usado para a
+depressão, uma vez que não pode tomá-lo ao mesmo tempo que Erivedge.
+Gravidez
+Não tome Erivedge se está grávida, pensa estar grávida ou planeia engravidar durante o tratamento ou
+durante 24 meses após a sua última dose deste medicamento.
+Tem de parar o tratamento e informar o seu médico imediatamente se: o seu período menstrual falhar
+ou se pensar que este falhou, ou tiver uma hemorragia menstrual invulgar, ou suspeitar que está
+grávida. Caso fique grávida durante o tratamento com Erivedge, tem de parar o tratamento e informar
+o seu médico imediatamente.
+Erivedge pode causar defeitos congénitos (presentes à nascença) graves. Pode também levar à morte
+do bebé antes de nascer. As instruções específicas (o Programa de Prevenção de Gravidez de
+Erivedge) dadas pelo seu médico contêm informação e, em particular, sobre os efeitos de Erivedge no
+bebé antes de nascer.
+Amamentação
+Não amamente durante o seu tratamento e durante 24 meses após a sua última dose deste
+medicamento. Não se sabe se Erivedge pode passar para o seu leite e prejudicar o seu bebé.
+Fertilidade
+Erivedge pode afetar a capacidade das mulheres em ter filhos. Algumas mulheres a tomar Erivedge
+pararam de menstruar. Se isto lhe acontecer, não se sabe se a sua menstruação voltará. Fale com o seu
+médico se desejar ter filhos no futuro.
+Contraceção – Para mulheres e homens
+Para mulheres que tomam Erivedge
+Antes de começar o tratamento, pergunte ao seu médico se está apta para engravidar. Mesmo que a sua
+menstruação tenha sido interrompida, é essencial perguntar ao seu médico se existe algum risco de
+poder engravidar.
+Se estiver apta a engravidar:
+•
+tem de tomar precauções de modo a não engravidar enquanto toma Erivedge
+•
+utilize 2 métodos de contraceção – um método de elevada eficácia e um método barreira (ver os
+exemplos abaixo)
+•
+necessita manter a contraceção durante 24 meses após a sua última dose deste medicamento –
+porque Erivedge pode permanecer no seu corpo até 24 meses após a sua última dose
+Método de contraceção recomendado: Fale com o seu médico sobre os dois melhores métodos de
+contraceção para si.
+Utilize um método de elevada eficácia, tal como:
+•
+Um depósito contracetivo injetável
+•
+Um dispositivo intrauterino (DIU)
+•
+Esterilização cirúrgica.
+
+33
+
+Tem de utilizar também um método barreira, tal como:
+•
+Um preservativo (com espermicida, se disponível)
+•
+Um diafragma (com espermicida, se disponível)
+O seu médico irá certificar-se que analisa o seu estado de gravidez:
+•
+No máximo 7 dias antes de começar o tratamento – para ter a certeza que não está já grávida
+•
+Todos os meses durante o tratamento
+Tem de informar o seu médico imediatamente durante o tratamento ou durante os 24 meses após a sua
+última dose deste medicamento se:
+•
+pensa que a sua contraceção falhou por qualquer razão
+•
+a sua menstruação parou
+•
+parou de fazer contraceção
+•
+necessita alterar a contraceção
+Para homens que tomam Erivedge
+Erivedge pode passar para o sémen. Utilize sempre um preservativo (com espermicida, se disponível),
+mesmo após uma vasectomia, quando tiver relações sexuais com uma parceira. Faça isto durante o
+tratamento e durante 2 meses após a sua última dose deste medicamento.
+Não deve doar sémen em qualquer momento durante o tratamento e até 2 meses após a sua última dose
+deste medicamento.
+Condução de veículos e utilização de máquinas
+É improvável que Erivedge afete a sua capacidade de conduzir, utilizar ferramentas ou máquinas. Fale
+com o seu médico caso tenha dúvidas.
+Erivedge contém lactose e sódio
+Erivedge contém um tipo de açúcar chamado lactose. Se foi informado pelo seu médico que tem uma
+intolerância a alguns açúcares contacte-o antes de tomar este medicamento.
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por cápsula, ou seja, é
+praticamente “isento de sódio”.
+
+3.
+
+Como tomar Erivedge
+
+Tome Erivedge exatamente como indicado pelo seu médico. Fale com o seu médico ou farmacêutico
+se tiver dúvidas.
+Tomar este medicamento
+A dose recomendada é de uma cápsula por dia.
+•
+Engula a cápsula inteira com um copo de água.
+•
+De forma a evitar a exposição não intencional ao conteúdo da cápsula, não esmague, abra ou
+mastigue a cápsula.
+•
+Erivedge pode ser tomado com ou sem alimentos.
+Se tomar mais Erivedge do que deveria
+Se tomar mais Erivedge do que deveria, fale com o seu médico.
+Caso se tenha esquecido de tomar Erivedge
+Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar, mas continue com a
+dose seguinte programada.
+
+34
+
+Se parar de tomar Erivedge
+Não pare de tomar este medicamento sem falar primeiro com o seu médico, pois isto pode tornar o seu
+tratamento menos eficaz.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, Erivedge pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Erivedge pode causar defeitos congénitos (presentes à nascença) graves. Pode levar também à morte de
+um bebé antes de nascer ou logo após ter nascido. Não pode ficar grávida enquanto toma este
+medicamento (ver secção 2, “Não tome Erivedge” e “Gravidez”, “Amamentação” e “Fertilidade”).
+Outros efeitos indesejáveis são apresentados por ordem de gravidade e frequência
+Se algum destes efeitos indesejáveis se agravar, informe o seu médico ou farmacêutico.
+Muito frequentes (podem afetar mais de 1 em 10 pessoas):
+•
+perda da menstruação nas mulheres com potencial para engravidar
+•
+perda do apetite e perda de peso
+•
+sentir-se cansado
+•
+espasmo muscular
+•
+diarreia
+•
+perda de cabelo (alopecia)
+•
+erupção na pele
+•
+uma alteração no paladar ou perda completa do paladar
+•
+prisão de ventre
+•
+vómitos ou sentir vontade de vomitar (náuseas)
+•
+indisposição gástrica ou indigestão
+•
+dor nas articulações
+•
+dor (geral) ou dor nos seus braços, pernas
+•
+comichão
+Frequentes (podem afetar até 1 em 10 pessoas):
+•
+dor no seu peito, costas ou lateral
+•
+falta de energia ou fraqueza (astenia)
+•
+perda de água do corpo (desidratação)
+•
+dor nos músculos, tendões, ligamentos, ossos
+•
+dor no estômago
+•
+perda do paladar
+•
+crescimento anormal dos pelos
+•
+queda das pestanas (madarose)
+•
+alterações nas análises ao sangue, as quais incluem valores aumentados nas análises ao fígado
+ou valores aumentados de creatina fosfoquinase (uma proteína essencialmente do músculo).
+
+35
+
+Frequência desconhecida
+•
+Paragem no crescimento ósseo (fusão epifisária prematura)
+•
+Puberdade prematura (puberdade precoce)
+•
+Lesão no fígado
+•
+Reações graves na pele:
+•
+Máculas avermelhadas do tipo alvo ou manchas circulares, muitas vezes com bolhas
+centrais no tronco, descamação da pele, úlceras na boca, garganta, nariz, órgãos genitais e
+olhos. As reações na pele são frequentemente precedidas por febre e sintomas
+semelhantes aos da gripe (síndrome de Stevens-Johnson, necrólise epidérmica tóxica).
+•
+Erupção generalizada, febre e nódulos linfáticos aumentados (síndrome de DRESS ou
+síndrome de hipersensibilidade ao medicamento)
+•
+Erupção cutânea generalizada e escamosa, vermelha, com inchaços na pele e bolhas
+acompanhadas de febre no início do tratamento (pustulose exantematosa generalizada
+aguda)
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+5.
+•
+•
+•
+•
+•
+•
+
+6.
+
+Como conservar Erivedge
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e frasco
+após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+Conservar a temperatura inferior a 30 ºC.
+Manter o frasco bem fechado para proteger da humidade.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico.
+No fim do seu tratamento deve devolver todas as cápsulas não utilizadas. Isto irá prevenir o uso
+incorreto e ajudará a proteger o ambiente. Fale com o seu farmacêutico ou médico sobre onde
+devolver as cápsulas.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Erivedge
+-
+
+A substância ativa é o vismodegib. Cada cápsula contém 150 mg de vismodegib.
+Os outros componentes são:
+- Conteúdo da cápsula: celulose microcristalina, lactose monohidratada, laurilsulfato de sódio,
+povidona, glicolato de amido sódico (Tipo A), talco e estearato de magnésio (ver secção 2
+“Erivedge contém lactose e sódio”
+- Invólucro da cápsula: óxido de ferro vermelho (E172), óxido de ferro negro (E172), dióxido
+de titânio e gelatina
+- Tinta de impressão: verniz shellac e óxido de ferro negro (E172)
+
+Qual o aspeto de Erivedge e conteúdo da embalagem
+As cápsulas têm um corpo opaco rosa marcado com “150 mg” e uma cabeça opaca cinzenta marcada
+com “VISMO” a tinta preta comestível. Estão disponíveis em frasco com tampa de fecho resistente à
+abertura por crianças contendo 28 cápsulas. Cada embalagem contém um frasco.
+
+36
+
+Titular da Autorização de Introdução no Mercado
+Roche Registration GmbH
+Emil-Barell-Strasse 1
+79639 Grenzach-Wyhlen
+Alemanha
+Fabricante
+Roche Pharma AG
+Emil-Barell-Strasse 1
+D-79639 Grenzach-Wyhlen
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+N.V. Roche S.A.
+Tél/Tel: +32 (0) 2 525 82 11
+
+Lietuva
+UAB “Roche Lietuva”
+Tel: +370 5 2546799
+
+България
+Рош България ЕООД
+Тел: +359 2 818 44 44
+
+Luxembourg/Luxemburg
+(Voir/siehe Belgique/Belgien)
+
+Česká republika
+Roche s. r. o.
+Tel: +420 - 2 20382111
+
+Magyarország
+Roche (Magyarország) Kft.
+Tel: +36 1 279 4500
+
+Danmark
+Roche Pharmaceuticals A/S
+Tlf: +45 - 36 39 99 99
+
+Malta
+(See Ireland)
+
+Deutschland
+Roche Pharma AG
+Tel: +49 (0) 7624 140
+
+Nederland
+Roche Nederland B.V.
+Tel: +31 (0) 348 438050
+
+Eesti
+Roche Eesti OÜ
+Tel: + 372 - 6 177 380
+
+Norge
+Roche Norge AS
+Tlf: +47 - 22 78 90 00
+
+Ελλάδα
+Roche (Hellas) A.E.
+Τηλ: +30 210 61 66 100
+
+Österreich
+Roche Austria GmbH
+Tel: +43 (0) 1 27739
+
+España
+Roche Farma S.A.
+Tel: +34 - 91 324 81 00
+
+Polska
+Roche Polska Sp.z o.o.
+Tel: +48 - 22 345 18 88
+
+France
+Roche
+Tél: +33 (0)1 47 61 40 00
+
+Portugal
+Roche Farmacêutica Química, Lda
+Tel: +351 - 21 425 70 00
+
+Hrvatska
+Roche d.o.o.
+Tel: + 385 1 47 22 333
+
+România
+Roche România S.R.L.
+Tel: +40 21 206 47 01
+
+37
+
+Ireland
+Roche Products (Ireland) Ltd.
+Tel: +353 (0) 1 469 0700
+
+Slovenija
+Roche farmacevtska družba d.o.o.
+Tel: +386 - 1 360 26 00
+
+Ísland
+Roche Pharmaceuticals A/S
+c/o Icepharma hf
+Sími: +354 540 8000
+
+Slovenská republika
+Roche Slovensko, s.r.o.
+Tel: +421 - 2 52638201
+
+Italia
+Roche S.p.A.
+Tel: +39 - 039 2471
+
+Suomi/Finland
+Roche Oy
+Puh/Tel: +358 (0) 10 554 500
+
+Kύπρος
+Γ.Α.Σταμάτης & Σια Λτδ.
+Τηλ: +357 - 22 76 62 76
+
+Sverige
+Roche AB
+Tel: +46 (0) 8 726 1200
+
+Latvija
+Roche Latvija SIA
+Tel: +371 - 6 7039831
+
+United Kingdom (Northern Ireland)
+Roche Products (Ireland) Ltd.
+Tel: +44 (0) 1707 366000
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+Este folheto está disponível em todas as línguas da UE/EEE no sítio da internet da Agência Europeia
+de Medicamentos.
+No âmbito do Programa de Prevenção de Gravidez de Erivedge, todos os doentes irão receber a
+Brochura do doente.
+Consulte este documento para informação adicional.
+
+38
+
+

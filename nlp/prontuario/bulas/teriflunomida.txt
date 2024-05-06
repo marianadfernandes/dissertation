@@ -1,0 +1,2583 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+AUBAGIO 7 mg comprimidos revestidos por película
+AUBAGIO 14 mg comprimidos revestidos por película
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+AUBAGIO 7 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 7 mg de teriflunomida.
+Excipiente com efeito conhecido
+Cada comprimido contém 72 mg de lactose (sob a forma monohidratada).
+AUBAGIO 14 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 14 mg de teriflunomida.
+Excipiente com efeito conhecido
+Cada comprimido contém 72 mg de lactose (sob a forma monohidratada).
+Lista completa de excipientes, ver secção 6.1
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimido revestido por película (comprimido).
+AUBAGIO 7 mg comprimidos revestidos por película
+Comprimido revestido por película hexagonal com 7,5 mm, cinzento esverdeado-azulado muito claro a azulesverdeado pálido, com impressão num dos lados (“7") e com o logótipo da empresa em relevo no outro lado.
+AUBAGIO 14 mg comprimidos revestidos por película
+Comprimido revestido por película pentagonal com 7,5 mm, azul pálido a azul pastel, com impressão num
+dos lados ("14") e com um logótipo da empresa em relevo no outro lado.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+AUBAGIO é indicado para o tratamento de doentes adultos e doentes pediátricos com idade igual ou
+superior a 10 anos com esclerose múltipla surto-remissão (EM). (para informações importantes s obre a
+população para a qual a eficácia foi estabelecida, ver secção 5.1)
+4.2
+
+Posologia e modo de administração
+
+O tratamento deve ser iniciado e supervisionado por um médico com experiência no tratamento da esclerose
+múltipla.
+Posologia
+Adultos
+
+2
+
+Em adultos, a dose recomendada de teriflunomida é de 14 mg, uma vez por dia.
+População pediátrica (idade igual ou superior a 10 anos)
+Em doentes pediátricos (10 anos de idade ou mais), a dose recomendada é dependente do peso corporal:
+Doentes pediátricos com peso corporal >40 kg: 14 mg, uma vez por dia.
+Doentes pediátricos com peso corporal ≤40 kg: 7 mg, uma vez por dia.
+Doentes pediátricos que atingem um peso corporal estável acima de 40 kg devem ser transferidos para 14
+mg, uma vez por dia.
+Os comprimidos revestidos por película podem ser tomados com ou sem alimentos.
+Populações especiais
+População idosa
+AUBAGIO deve ser utilizado com precaução em doentes com idade igual ou superior a 65 anos, visto não
+existirem dados suficientes sobre a segurança e eficácia.
+Compromisso renal
+Não é necessário ajustar a dose para doentes com compromisso renal ligeiro, moderado ou grave que não
+fazem diálise.
+Não foram avaliados doentes com compromisso renal grave e a fazer diálise. A teriflunomida é
+contraindicada nesta população (ver secção 4.3).
+Compromisso hepático
+Não é necessário ajustar a dose para doentes com compromisso hepático ligeiro e moderado. A teriflunomida
+é contraindicada em doentes com compromisso hepático grave (ver secção 4.3).
+População pediátrica (menos de 10 anos de idade)
+A segurança e eficácia de teriflunomida em crianças com menos de 10 anos de idade não foram ainda
+estabelecidas.
+Não existem dados disponíveis.
+Modo de administração
+Os comprimidos revestidos por película devem ser administrados por via oral. Os comprimidos devem ser
+engolidos inteiros com alguma água.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Doentes com compromisso hepático grave (Classe C de Child-Pugh).
+Mulheres grávidas ou mulheres com potencial para engravidar que não estão a utilizar métodos contracetivos
+eficazes durante o tratamento com teriflunomida e, posteriormente, enquanto os níveis plasmáticos estiverem
+acima de 0,02 mg/l (ver secção 4.6). A gravidez deve ser excluída antes do início do tratamento (ver secção
+4.6).
+Mulheres a amamentar (ver secção 4.6).
+Doentes com condições de imunodeficiência grave, p. ex. síndrome da imunodeficiência adquirida (SIDA).
+Doentes com função significativamente reduzida da medula óssea ou anemia, leucopenia, neutropenia ou
+trombocitopenia significativas.
+Doentes com infeção ativa grave até à resolução da infeção (ver secção 4.4).
+
+3
+
+Doentes com insuficiência renal grave e a fazer diálise, visto não existir uma experiência clínica suficiente
+neste grupo de doentes.
+Doentes com hipoproteinemia grave, p. ex., no síndrome nefrótico.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Monitorização
+Antes do tratamento
+Antes de iniciar o tratamento com teriflunomida, devem ser avaliados os seguintes parâmetros:
+•
+Tensão arterial
+•
+Alanina aminotransferase/ transaminase glutâmica pirúvica sérica (ALT/SGPT)
+•
+Contagem completa das células sanguíneas, incluindo fórmula leucocitária e contagem das plaquetas.
+Durante o tratamento
+Durante o tratamento com teriflunomida, devem ser monitorizados os seguintes parâmetros:
+• Tensão arterial
+o Verificar periodicamente
+• Alanina aminotransferase/transaminase glutâmica pirúvica sérica (ALT/SGPT)
+o As enzimas hepáticas devem ser avaliadas pelo menos a cada 4 semanas durante os
+primeiros 6 meses de tratamento e depois disso, regularmente.
+o Deve considerar-se a monitorização adicional quando AUBAGIO for administrado em
+doentes com doenças hepáticas pré-existentes, quando for administrado com outros
+medicamentos potencialmente hepatotóxicos, ou conforme indicado por sinais clínicos e
+sintomas como náuseas inexplicáveis, vómitos, dor abdominal, fadiga, anorexia, icterícia
+e/ou urina escura. As enzimas hepáticas devem ser avaliadas a cada duas semanas
+durante os primeiros 6 meses de tratamento, e pelo menos a cada 8 semanas a partir daí,
+durante pelo menos 2 anos desde o início do tratamento.
+o Para os parâmetros ALT (SGPT) com subidas entre 2 a 3 vezes o limite superior do
+normal (LSN), deve ser efetuada uma monitorização semanal.
+• Devem ser realizadas contagens completas das células sanguíneas com base em sinais e sintomas
+clínicos (p. ex., infeções) durante o tratamento.
+Procedimento de eliminação acelerada
+A teriflunomida é eliminada lentamente do plasma. Sem um procedimento de eliminação acelerada, são
+necessários, em média, 8 meses para que as concentrações plasmáticas atinjam valores inferiores a 0,02 mg/l,
+embora a eliminação da substância possa chegar a demorar 2 anos devido à variabilidade entre indivíduos.
+Pode ser utilizado um procedimento de eliminação acelerada, em qualquer momento, após a interrupção da
+teriflunomida (para detalhes de procedimento, ver secções 4.6 e 5.2).
+Efeitos hepáticos
+Foram observados aumentos das enzimas hepáticas nos doentes em tratamento com teriflunomida (ver
+secção 4.8). Estas subidas ocorreram sobretudo nos 6 meses iniciais do tratamento.
+Foram observados casos de lesão hepática induzida por medicamentos (DILI) durante o tratamento com
+teriflunomida, por vezes com risco de vida. A maioria dos casos de DILI ocorreu com o tempo de início de
+várias semanas ou vários meses após o início do tratamento com teriflunomida, mas DILI também pode
+ocorrer com o uso prolongado.
+O risco de aumento das enzimas hepáticas e DILI com teriflunomida pode ser maior em doentes com doença
+hepática pré-existente, tratamento concomitante com outros medicamentos hepatotóxicos e/ou consumo de
+quantidades substanciais de álcool. Os doentes devem, portanto, ser monitorizados atentamente quanto a
+sinais e sintomas de lesão hepática.
+4
+
+A terapia com teriflunomida deve ser descontinuada e deve considerar-se a utilização do procedimento de
+eliminação acelerada se houver suspeita de lesão hepática. Caso sejam confirmadas enzimas hepáticas
+elevadas (mais de 3 vezes o LSN), a terapia com teriflunomida deve ser descontinuada.
+Em caso de descontinuação do tratamento, devem ser realizados testes hepáticos até à normalização dos
+níveis de transaminases.
+Hipoproteinemia
+Uma vez que a teriflunomida tem uma elevada afinidade de ligação às proteínas, e esta ligação depende da
+concentração de albumina, são esperadas maiores concentrações de teriflunomida livre no plasma em
+doentes com hipoproteinemia, p. ex., no síndrome nefrótico. A teriflunomida não deve ser utilizada em
+doentes com condições de hipoproteinemia grave.
+Tensão arterial
+Pode ocorrer elevação da tensão arterial durante o tratamento com teriflunomida (ver secção 4.8). A tensão
+arterial deve ser verificada antes do início do tratamento com teriflunomida e periodicamente desde esse
+momento. Uma elevação da tensão arterial deverá ser gerida adequadamente, antes e durante o tratamento
+com teriflunomida.
+Infeções
+O início do tratamento com teriflunomida deve ser diferido em doentes com infeção ativa grave, até à
+resolução da infeção.
+Nos estudos controlados com placebo, não foi observado um aumento das infeções graves com teriflunomida
+(ver secção 4.8). No entanto, com base no efeito imunomodulador da teriflunomida, se um doente
+desenvolver uma infeção grave, deverá ser considerada a interrupção do tratamento com AUBAGIO e os
+riscos e benefícios devem ser ponderados antes de reiniciar a terapia. Devido à semivida prolongada, deve
+ser considerada a eliminação acelerada com colestiramina ou carvão.
+Os doentes a tomar AUBAGIO devem ter instruções para comunicar os sintomas de infeções a um médico.
+Os doentes com infeções agudas ou crónicas ativas não devem iniciar o tratamento com AUBAGIO antes da
+resolução das infeções.
+Não é conhecida a segurança da teriflunomida em indivíduos com infeção de tuberculose latente, visto que
+não foi realizado um rastreio sistemático da tuberculose nos estudos clínicos. Doentes com teste positivo no
+rastreio da tuberculose, devem ser tratados por tratamentos médicos convencionais antes da terapia.
+Reações respiratórias
+Foi notificada doença pulmonar intersticial (DPI), bem como casos de hipertensão pulmonar com
+teriflunomida na experiência de pós-comercialização. O risco pode ser maior em doentes com antecedentes
+de DPI.
+A DPI pode ocorrer de forma aguda a qualquer altura durante o tratamento com uma apresentação clínica
+variável.
+A DPI pode ser fatal. O aparecimento ou agravamento de sintomas pulmonares, p. ex., tosse persistente e
+dispneia, pode justificar a interrupção da terapia e exigir um exame mais aprofundado, se necessário. Se a
+interrupção do medicamento for necessária, deverá ser considerada a iniciação de um procedimento de
+eliminação acelerado.
+Efeitos hematológicos
+Foi observada uma diminuição no número médio de leucócitos, inferior a 15%, em relação ao nível inicial
+(ver secção 4.8). Como medida de precaução, deve ser obtida uma contagem completa recente do número de
+células sanguíneas, incluindo uma contagem e fórmula leucocitária e das plaquetas, antes de iniciar o
+tratamento e a contagem completa das células sanguíneas deve ser avaliada durante a terapia, conforme
+indicado por sinais clínicos e sintomas (p. ex., infeções).
+5
+
+Nos doentes com anemia, leucopenia e/ou trombocitopenia pré-existentes, bem como em doentes com uma
+função reduzida da medula óssea ou em risco de supressão da medula óssea, existe um maior risco de
+perturbações hematológicas. Se estes efeitos ocorrerem, deve considerar-se o procedimento de eliminação
+acelerada (ver acima) para reduzir os níveis de teriflunomida no plasma.
+Em casos de reações hematológicas graves, incluindo pancitopenia, o tratamento com AUBAGIO e qualquer
+tratamento mielossupressor concomitante devem ser interrompidos e considerar-se o procedimento de
+eliminação acelerada de teriflunomida.
+Reações cutâneas
+Foram notificados com AUBAGIO casos de reações cutâneas graves, por vezes fatais, incluindo síndrome de
+Stevens-Johnson (SSJ), necrólise epidérmica tóxica (NET) e reação medicamentosa com eosinofilia e
+sintomas sistémicos (DRESS).
+Se forem observadas reações cutâneas e/ou nas mucosas (estomatite ulcerativa) que indiciem reações
+cutâneas generalizadas graves (síndrome de Stevens-Johnson, necrólise epidérmica tóxica – síndrome de
+Lyell ou reação medicamentosa com eosinofilia e sintomas sistémicos), o tratamento com teriflunomida e
+qualquer outro tratamento possivelmente associado devem ser interrompidos e iniciar-se o procedimento de
+eliminação acelerada imediatamente. Nestes casos, os doentes não devem ser novamente expostos à
+teriflunomida (ver secção 4.3).
+Durante a utilização de teriflunomida, foram notificados casos de recorrência e agravamento de psoríase
+preexistente (incluindo psoríase pustular). A interrupção do tratamento e o início de um procedimento de
+eliminação acelerada deverão ser considerados, tendo em conta a doença e a história clínica do doente.
+Neuropatia periférica
+Foram notificados casos de neuropatia periférica nos doentes em tratamento com AUBAGIO (ver secção
+4.8). A maioria dos doentes melhorou após a interrupção de AUBAGIO. No entanto, verificou-se uma
+grande variabilidade no resultado final, por exemplo, alguns doentes recuperaram da neuropatia e outros
+doentes ficaram com sintomas persistentes. Se um doente em tratamento com AUBAGIO desenvolver uma
+neuropatia periférica confirmada, a interrupção da terapia com AUBAGIO e a realização do procedimento de
+eliminação acelerada devem ser consideradas.
+Vacinação
+Dois estudos clínicos demonstraram que as vacinas com neoantigénios inativados (primeira vacinação) ou as
+de reexposição antigénica foram seguras e eficazes durante o tratamento com AUBAGIO. A utilização de
+vacinas vivas atenuadas pode implicar um risco de infeções, devendo ser evitada.
+Terapias imunossupressoras ou imunomoduladoras
+Uma vez que a leflunomida é o composto de origem da teriflunomida, a coadministração de teriflunomida
+com leflunomida não é recomendada.
+A coadministração com terapias antineoplásicas ou imunossupressoras utilizadas no tratamento de EM não
+foi avaliada. Os estudos de segurança realizados, em que a teriflunomida foi administrada em conjunto com
+interferão beta ou com acetato de glatirâmero durante um máximo de um ano, não revelaram qualquer
+problema de segurança específico, embora tenha sido observada uma maior taxa de acontecimentos adversos
+em comparação com a monoterapia com teriflunomida. A segurança a longo prazo destas combinações no
+tratamento da esclerose múltipla não foi estabelecida.
+
+6
+
+Mudar para ou de AUBAGIO
+Com base nos dados clínicos relacionados com a administração concomitante de teriflunomida com
+interferão beta ou com acetato de glatirâmero, não é necessário um período de espera para iniciar a
+administração de teriflunomida após o interferão beta ou acetato de glatirâmero, nem para iniciar a
+administração de interferão beta ou acetato de glatirâmero após a teriflunomida.
+Devido à semivida longa do natalizumab, a exposição concomitante e, consequentemente, efeitos imunitários
+concomitantes, podem ocorrer até 2-3 meses após a interrupção de natalizumab se a administração de
+AUBAGIO for iniciada de imediato. Por este motivo, é necessário precaução ao mudar os doentes de
+natalizumab para AUBAGIO.
+Com base na semivida de fingolimod, é necessário um intervalo de 6 semanas sem terapia para atingir a
+eliminação do fármaco na circulação e um período de 1 a 2 meses para que os linfócitos regressem aos níveis
+normais após a interrupção de fingolimod. O início da administração de AUBAGIO durante este intervalo
+resultará na exposição concomitante com fingolimod. Esta situação pode resultar num efeito aditivo sobre o
+sistema imunitário e, por este motivo, exigir maiores cuidados.
+Nos doentes com EM,o valor t1/2z mediano foi de aproximadamente 19 dias após doses repetidas de 14 mg.
+Se for tomada a decisão de interromper o tratamento com AUBAGIO durante o intervalo de 5 semividas
+(cerca de 3,5 meses, ou mais em alguns doentes), o início de outras terapias poderá resultar em exposição
+concomitante com AUBAGIO. Esta situação pode resultar num efeito aditivo sobre o sistema imunitário e,
+por este motivo, exigir maiores cuidados.
+
+Interferência com a determinação dos níveis de cálcio ionizado
+A medição dos níveis de cálcio ionozado poderá apresentar valores falsamente diminuídos durante o
+tratamento com leflunomida e/ou teriflunomida (o metabolito ativo da leflunomida), dependendo do tipo de
+analisador de cálcio ionizado utilizado (por exemplo, analisador de gases no sangue). Por conseguinte, é
+necessário questionar a plausibilidade dos níveis diminuídos de cálcio ionizado observados nos doentes com
+tratamento com leflunomida ou teriflunomida. Em caso de medições dúbias, é recomendado determinar a
+concentração sérica de cálcio ajustada pela albumina total.
+População pediátrica
+Pancreatite
+Num ensaio clínico pediátrico, foram observados casos de pancreatite, alguns agudos, em doentes em
+tratamento com teriflunomida (ver secção 4.8). Os sintomas clínicos incluíram dor abdominal, náuseas e/ou
+vómitos. A amilase e lipase sérica estavam elevadas nestes doentes. O tempo de início variou entre alguns
+meses a três anos. Os doentes devem ser informados dos sintomas caraterísticos da pancreatite. Se houver
+suspeita de pancreatite, as enzimas pancreáticas e os parâmetros laboratoriais relacionados devem ser
+obtidos. Se a pancreatite for confirmada, a teriflunomida deverá ser descontinuada e deve ser iniciado um
+procedimento de eliminação acelerada (ver secção 5.2).
+Lactose
+Uma vez que os comprimidos de AUBAGIO contêm lactose, os doentes com problemas hereditários raros de
+intolerância à galactose, deficiência de lactase total ou má absorção de glucose-galactose, não devem tomar
+este medicamento.
+Sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido, ou seja, isto é
+praticamente“isento de sódio”.
+
+7
+
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Interações farmacocinéticas de outras substâncias sobre a teriflunomida
+A hidrólise é a via de biotransformação principal da teriflunomida, podendo também sofrer oxidação numa
+via secundária.
+Indutores potentes do citocromo P450 (CYP) e de proteínas de transporte
+A coadministração de doses repetidas (600 mg uma vez por dia durante 22 dias) de rifampicina (um indutor
+de CYP2B6, 2C8, 2C9, 2C19, 3A), assim como de um indutor da bomba de efluxo glicoproteína-P [P-gp] e
+da proteína resistente do cancro da mama [BCRP] com teriflunomida (dose única de 70 mg), resultou numa
+redução de aproximadamente 40% na exposição à teriflunomida. A rifampicina e outros indutores potentes
+conhecidos do CYP e das proteínas transportadores, como a carbamazepina, fenobarbital, fenitoína e
+hipericão (erva de S. João), devem ser utilizados com precaução durante o tratamento com teriflunomida.
+Colestiramina ou carvão ativado
+Recomenda-se que os doentes a tomar teriflunomida não recebam tratamento com colestiramina ou carvão
+ativado, visto que isso resultaria numa diminuição rápida e significativa na concentração plasmática, a não
+ser que seja pretendida uma eliminação acelerada. Pensa-se que o mecanismo consista na interrupção da
+reciclagem enterohepática e/ou na diálise gastrointestinal da teriflunomida.
+Interações farmacocinéticas da teriflunomida sobre outras substâncias
+Efeito da teriflunomida sobre o substrato do CYP2C8: repaglinida
+Foi observado um aumento na Cmax média e AUC (de 1,7x e 2,4x, respetivamente) da repaglinida após doses
+repetidas de teriflunomida, sugerindo que a teriflunomida é um inibidor do CYP2C8 in vivo. Por este motivo,
+os medicamentos metabolizados pela CYP2C8, p. ex., a repaglinida, paclitaxel, pioglitazona ou
+rosiglitazona, devem ser utilizados com precaução durante o tratamento com teriflunomida.
+Efeito da teriflunomida sobre contracetivos orais: 0,03 mg de etinilestradiol e 0,15 mg de levonorgestrel
+Foi observado um aumento na Cmax média e AUC0-24 (de 1,58x e 1,54x, respetivamente) do etinilestradiol e
+na Cmax e AUC0-24 (de 1,33x e 1,41x, respetivamente) de levonorgestrel após doses repetidas de
+teriflunomida. Embora não se considere que esta interação da teriflunomida prejudique a eficácia dos
+contracetivos orais, a seleção ou ajuste da terapêutica contracetiva oral utilizada em conjunto com
+teriflunomida, deve ser ponderada.
+Efeito da teriflunomida sobre o substrato do CYP1A2: cafeína
+A administração de doses repetidas de teriflunomida diminuiu a Cmax média e AUC da cafeína (substrato do
+CYP1A2) em 18% e 55%, respetivamente, sugerindo que a teriflunomida pode ser um indutor fraco do
+CYP1A2 in vivo. Por este motivo, os medicamentos metabolizados pela CYP1A2 (p. ex., duloxetina,
+alosetron, teofilina e tizanidina) devem ser utilizados com precaução durante o tratamento com
+teriflunomida, uma vez que esta pode reduzir a eficácia destes medicamentos.
+Efeito da teriflunomida sobre a varfarina
+A administração de doses repetidas de teriflunomida não teve efeito na farmacocinética da S-varfarina,
+indicando que a teriflunomida não é um inibidor nem um indutor do CYP2C9. No entanto, foi observada
+uma redução de 25% na relação normalizada internacional (INR) máxima quando a teriflunomida foi
+coadministrada com varfarina, em comparação com a administração individual de varfarina. Por este motivo,
+quando a varfarina é coadministrada com teriflunomida, recomenda-se um acompanhamento e monitorização
+da INR.
+Efeito da teriflunomida sobre substratos do transportador de aniões orgânicos 3 (OAT3)
+Foi observado um aumento na Cmax média e AUC (de 1,43x e 1,54x, respetivamente) da cefaclor após doses
+repetidas de teriflunomida, sugerindo que a teriflunomida é um inibidor da OAT3 in vivo. Por este motivo,
+recomenda-se precaução quando a teriflunomida é coadministrada com substratos da OAT3, tais como
+cefaclor, penicilina G, ciprofloxacina, indometacina, cetoprofeno, furosemida, cimetidina, metotrexato,
+zidovudina.
+
+8
+
+Efeito da teriflunomida sobre substratos da BCRP e/ou do polipéptido transportador de aniões orgânicos B1
+e B3 (OATP1B1/B3)
+Foi observado um aumento na Cmax média e AUC (de 2,65x e 2,51x, respetivamente) da rosuvastatina após
+doses repetidas de teriflunomida. No entanto, não foi observado um impacto aparente deste aumento sobre a
+exposição plasmática da rosuvastatina na atividade da HMB-CoA redutase. Para a rosuvastatina, recomendase uma redução de dose de 50% para coadministração com teriflunomida. Com outros substratos da BCRP
+(p. ex., metotrexato, topotecano, sulfasalazina, daunorrubicina, doxorrubicina) e da família de OATP,
+especialmente os inibidores da HMG-Co redutase (p. ex., sinvastatina, atorvastatina, pravastatina,
+metotrexato, nateglinida, repaglinida, rifampicina), a administração concomitante de teriflunomida também
+deve ser realizada com precaução. Os doentes devem ser monitorizados relativamente a sinais e sintomas de
+uma exposição excessiva aos fármacos, devendo ser considerada a redução da dose destes fármacos.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Utilização em doentes do sexo masculino
+O risco de toxicidade mediada pelo pai para o embrião/feto, associado ao tratamento com teriflunomida, é
+considerado baixo (ver secção 5.3).
+Gravidez
+A quantidade de dados sobre a utilização de teriflunomida em mulheres grávidas é limitada. Os estudos em
+animais revelaram toxicidade reprodutiva (ver secção 5.3).
+Teriflunomida pode provocar defeitos congénitos graves quando administrada durante a gravidez.
+Teriflunomida é contraindicado durante a gravidez (ver secção 4.3).
+As mulheres com potencial para engravidar têm de utilizar métodos contracetivos eficazes durante o
+tratamento e após o tratamento enquanto a concentração de teriflunomida no plasma estiver acima de
+0,02 mg/l. Durante este período, as mulheres devem falar com o seu médico acerca de qualquer plano para
+interromper ou alterar a contraceção. As crianças do sexo feminino e/ou pais/cuidadores das crianças do sexo
+feminino devem ser informados sobre a necessidade de contactar o médico prescritor, assim que a criança do
+sexo feminino em tratamento com AUBAGIO tiver a primeira menstruação. Deve ser fornecido
+aconselhamento às novas doentes com potencial para engravidar sobre a contraceção e o risco potencial para
+o feto. A referenciação a um médico ginecologista deve ser considerada.
+Se ocorrer um atraso na menstruação ou existir qualquer outro motivo para suspeitar de uma gravidez, a
+doente terá de descontinuar AUBAGIO e avisar o médico imediatamente para realizar um teste de gravidez;
+se o teste for positivo, o médico e a doente deverão discutir o risco para a gravidez. É possível que a
+diminuição rápida do nível de teriflunomida no sangue através da utilização do procedimento de eliminação
+acelerada descrito abaixo, assim que for observado o atraso da menstruação, possa diminuir o risco para o
+feto.
+No caso de mulheres que recebem tratamento com teriflunomida e que pretendem engravidar, o
+medicamento deve ser interrompido e recomenda-se a utilização do procedimento de eliminação acelerada
+para atingir mais rapidamente uma concentração inferior a 0,02 mg/l (ver abaixo).
+Se não for utilizado um procedimento de eliminação acelerada, os níveis de teriflunomida no plasma deverão
+manter-se acima de 0,02 mg/l durante, em média, 8 meses; no entanto, alguns doentes podem demorar 2 anos
+a alcançar concentrações no plasma abaixo de 0,02 mg/l. Por este motivo, as concentrações de teriflunomida
+no plasma devem ser medidas antes da mulher tentar engravidar. Quando for confirmada uma concentração
+de teriflunomida no plasma abaixo de 0,02 mg/l, a concentração plasmática deve ser determinada novamente
+após, pelo menos, 14 dias. Se as duas medições da concentração plasmática estiverem abaixo de 0,02 mg/l,
+não é esperado qualquer risco para o feto.
+Para obter mais informações sobre o teste das amostras, contacte o Titular da Autorização de Introdução no
+Mercado ou o respetivo representante local (ver secção 7).
+
+9
+
+Procedimento de eliminação acelerada
+Depois de interromper o tratamento com teriflunomida:
+•
+administrar 8 g de colestiramina 3 vezes por dia durante 11 dias, ou 4 g de colestiramina três vezes por
+dia, se a dose de 8 g de colestiramina três vezes por dia não for bem tolerada.
+•
+em alternativa, é possível administrar 50 g de carvão ativado em pó de 12 em 12 horas durante 11 dias.
+No entanto, após a utilização de qualquer um dos procedimentos de eliminação acelerada, continua a ser
+necessário realizar 2 testes de verificação distintos com 14 dias de intervalo e aplicar um período de espera
+de um mês e meio entre a primeira ocorrência de uma concentração plasmática inferior a 0,02 mg/l e a
+fertilização.
+A colestiramina e o carvão em pó ativado podem influenciar a absorção de estrogénios e progestagénios,
+podendo interferir com a fiabilidade de contracetivos orais durante o procedimento de eliminação acelerada
+com colestiramina ou carvão em pó ativado. Recomenda-se a utilização de outros métodos contracetivos.
+Amamentação
+Os estudos em animais revelaram excreção de teriflunomida no leite. Teriflunomida está contraindicada
+durante a amamentação (ver secção 4.3).
+Fertilidade
+Os resultados dos estudos em animais não demonstraram um efeito na fertilidade (ver secção 5.3). Embora
+existam dados limitados para o ser humano, não se antecipa qualquer efeito na fertilidade feminina ou
+masculina.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de AUBAGIO sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezáveis.
+Caso ocorram efeitos indesejáveis como, por exemplo, tonturas, observadas com a administração de
+leflunomida, o composto de origem, a capacidade de concentração e de reação do doente pode ser afetada.
+Nestes casos, os doentes devem evitar conduzir ou utilizar máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas mais frequentemente notificadas nos doentes tratados com teriflunomida (7 mg e 14 mg)
+foram: cefaleias (17,8%; 15,7%), diarreia (13,1%; 13,6%), ALT aumentada (13%; 15%), náuseas (8%;
+10,7%) e alopécia (9,8%; 13,5%). De uma forma geral, os casos de cefaleias, diarreia, náuseas e alopécia
+foram ligeiros ou moderados, transitórios e raramente conduziram à interrupção do tratamento.
+Teriflunomida é o principal metabolito da leflunomida. O perfil de segurança da leflunomida em doentes
+com artrite reumatóide ou artrite psoriática pode ser relevante durante a prescrição de teriflunomida a
+doentes com EM.
+Lista classificada de reações adversas
+A teriflunomida foi avaliada num total de 2.267 doentes expostos a teriflunomida (1.155 a teriflunomida
+7 mg e 1.112 a teriflunomida 14 mg) uma vez por dia, durante um período mediano de 672 dias, em quatro
+estudos controlados com placebo (1.045 e 1.002 doentes para teriflunomida 7 mg e 14 mg, respetivamente) e
+um estudo com comparador ativo (110 doentes em cada um dos grupos de tratamento com teriflunomida) em
+doentes adultos com formas recorrentes de EM (esclerose múltipla surto-remissão, EMSR).
+São listadas abaixo as reações adversas observadas nos estudos com AUBAGIO controlados com placebo
+em doentes adultos, notificadas para teriflunomida 7 mg ou 14 mg em estudos clínicos em doentes adultos.
+As frequências foram definidas de acordo com a seguinte convenção: muito frequentes (≥1/10); frequentes
+(≥1/100, <1/10); pouco frequentes (≥1/1.000, <1/100); raros (≥1/10.000, </1.000); muito raros (<1/10.000);
+10
+
+desconhecido (não pode ser calculado a partir dos dados disponíveis). Dentro de cada grupo de frequência, as
+reações adversas são indicadas por ordem decrescente de gravidade.
+Classe de
+sistema de
+órgãos
+Infeções e
+infestações
+
+Muito
+frequentes
+
+Frequentes
+
+Pouco
+frequentes
+
+Gripe, infeção das
+vias respiratórias
+superiores, infeção
+do trato urinário,
+Bronquite,
+Sinusite,
+Faringite,
+Cistite,
+Gastroenterite viral,
+Herpes oral,
+Infeção dentária,
+Laringite,
+Tinha do pé
+Neutropenia b
+Anemia
+
+Doenças do
+sangue e do
+sistema linfático
+Doenças do
+sistema
+imunitário
+
+Reações
+anafiláticas ligeiras
+
+Perturbações do
+foro
+psiquiátrico
+Doenças do
+sistema nervoso
+
+Ansiedade
+
+Cardiopatias
+Vasculopatias
+Doenças
+respiratórias,
+torácicas e do
+mediastino
+Doenças
+gastrointestinais
+Afeções
+hepatobiliares
+
+Doenças do
+metabolismo e
+da nutrição
+
+Cefaleias
+
+Parestesia,
+Ciática,
+Síndrome do canal
+cárpico
+Palpitações
+Hipertensãob
+
+Diarreia,
+Náuseas
+Alanina
+aminotransf
+erase
+(ALT)
+aumentadab
+
+Raros
+
+11
+
+Desconhecido
+
+Infeções
+graves
+incluindo
+sepsisa
+
+Trombocitope
+nia ligeira
+(plaquetas
+<100G/l)
+Reações de
+hipersensibilid
+ade (imediatas
+ou retardadas)
+incluindo
+anafilaxia e
+angioedema
+
+Hiperestesias,
+Nevralgia,
+Neuropatia
+periférica
+
+Doença
+pulmonar
+intersticial
+
+Pancreatite b,c,
+Dor abdominal
+superior, Vómitos,
+Dor de dentes
+Gamaglutamiltransferase
+(GGT) aumentadab,
+Aspartataminotrans
+ferase aumentadab
+
+Muito
+raros
+
+Hipertensão
+pulmonar
+
+Estomatite,
+Colite
+Hepa
+tite
+agud
+a
+Dislipidemia
+
+Lesão hepática
+induzida por
+medicamentos
+(DILI)
+
+Classe de
+Muito
+sistema de
+frequentes
+órgãos
+Afeções dos
+Alopécia
+tecidos cutâneos
+e subcutâneos
+
+Afeções
+musculosqueléti
+cas e dos
+tecidos
+conjuntivos
+Doenças renais
+e urinárias
+Doenças dos
+órgãos genitais
+e da mama
+Perturbações
+gerais e
+alterações no
+local de
+administração
+Exames
+complementares
+de diagnóstico
+
+Frequentes
+
+Pouco
+frequentes
+
+Erupção cutânea,
+Acne
+
+Dor
+musculosquelética,
+Mialgias, Artralgias
+
+Raros
+
+Muito
+raros
+
+Desconhecido
+
+Doenças
+ungueais,
+Psoríase
+(incluindo
+psoríase
+pustular a,b),
+Reações
+cutâneas
+gravesa
+
+Poliúria
+Menorragia
+Dor, Astenia
+
+Diminuição do
+peso, Número de
+neutrófilos
+diminuídob,
+Número de
+leucócitos
+diminuídob,
+Elevação da
+creatinafosfoquinase sérica
+
+Complicações
+Dor pósde intervenções
+traumática
+relacionadas
+com lesões e
+intoxicações
+a: ver descrição detalhada na respetiva secção
+b: ver secção 4.4
+c: a frequência é “frequente” em crianças, baseado em estudos clínicos controlados em pediatria; a
+frequência é “pouco frequente” em adultos
+Descrição de reações adversas selecionadas
+Alopécia
+A alopécia foi observada como enfraquecimento, diminuição da densidade ou perda de pelos/cabelo, com ou
+sem alteração da textura dos pelos ou cabelo, em 13,9% dos doentes tratados com teriflunomida 14 mg em
+comparação com 5,1% dos doentes tratados com placebo. A maioria dos casos foi descrita como difusa ou
+generalizada no couro cabeludo (não foi observada uma perda total de cabelo) e ocorreu sobretudo durante
+os primeiros 6 meses, tendo-se resolvido em 121 de 139 doentes (87,1%) tratados com teriflunomida 14mg.
+12
+
+A interrupção do tratamento devido a alopécia foi de 1,3% nos grupos de teriflunomida 14 mg, em
+comparação com 0,1% no grupo de placebo.
+Efeitos hepáticos
+Os seguintes parâmetros foram detetados durante os estudos controlados com placebo em doentes adultos:
+ALT aumentada (com base nos dados laboratoriais) em comparação com o estado no início do
+estudo - População de segurança nos estudos controlados com placebo
+Placebo
+Teriflunomida 14 mg
+(N=997)
+(N=1002)
+>3 LSN
+66/994 (6,6%)
+80/999 (8,0%)
+>5 LSN
+37/994 (3,7%)
+31/999 (3,1%)
+>10 LSN
+16/994 (1,6%)
+9/999 (0,9%)
+>20 LSN
+4/994 (0,4%)
+3/999 (0,3%)
+ALT >3 LSN e TBILI >2 LSN
+5/994 (0,5%)
+3/999 (0,3%)
+Foram observados aumentos ligeiros das transaminases, com ALT abaixo ou igual a 3 vezes o LSN, com
+maior frequência nos grupos tratados com teriflunomida em comparação com o grupo placebo. A frequência
+das elevações acima de 3 vezes o LSN, e superiores, mostraram-se equilibradas entre os grupos de
+tratamento. Estas elevações das transaminases ocorreram sobretudo nos primeiros 6 meses de tratamento e
+mostraram-se reversíveis após a interrupção do tratamento. O tempo de recuperação variou entre meses e
+anos.
+Efeitos na tensão arterial
+Os seguintes valores foram determinados durante os estudos controlados com placebo em doentes adultos:
+tensão arterial sistólica foi >140 mm Hg em 19,9% dos doentes a receber 14 mg/dia de teriflunomida,
+em comparação com 15,5% dos doentes a receber placebo;
+tensão arterial sistólica foi >160 mm Hg em 3,8% dos doentes a receber 14 mg/dia de teriflunomida,
+em comparação com 2,0% dos doentes a receber placebo;
+tensão arterial diastólica foi>90 mm Hg em 21,4% dos doentes a receber 14 mg/dia de teriflunomida,
+em comparação com 13,6% dos doentes a receber placebo.
+Infeções
+Nos estudos controlados com placebo em doentes adultos, não foi observado aumento das infeções graves
+com teriflunomida 14 mg (2,7%) em comparação com o placebo (2,2%). Ocorreram infeções oportunistas
+graves em 0,2% de cada grupo. Foram notificadas infeções graves por vezes fatais, incluindo sepsis, póscomercialização.
+Efeitos Hematológicos
+Foi observada uma diminuição no número médio de leucócitos (<15% em relação ao nível inicial, sobretudo
+uma diminuição do número de neutrófilos e linfócitos) nos estudos controlados com placebo com
+AUBAGIO em doentes adultos, embora tenha sido observada uma diminuição maior em alguns doentes. A
+diminuição no número médio em relação ao nível inicial ocorreu durante as primeiras 6 semanas, tendo
+estabilizado ao longo do tempo durante o tratamento, mas a níveis reduzidos (inferior a uma redução de 15%
+em relação ao valor inicial). O efeito no número de eritrócitos (<2%) e de plaquetas (<10%) foi menos
+acentuado.
+Neuropatia periférica
+Nos estudos controlados com placebo em doentes adultos, a neuropatia periférica, incluindo polineuropatia e
+mononeuropatia (p. ex., síndrome do canal cárpico), foi observada com maior frequência nos doentes a tomar
+teriflunomida do que nos doentes que tomaram placebo. Nos estudos principais controlados com placebo, a
+incidência de neuropatia periférica confirmada por estudos da condução nervosa foi de 1,9% (17 doentes em
+898) no grupo a receber 14 mg de teriflunomida, em comparação com 0,4% (4 doentes em 898) dos doentes
+com placebo. O tratamento foi interrompido em 5 doentes com neuropatia periférica no grupo de
+teriflunomida 14 mg. Após a interrupção do tratamento, foi observada uma recuperação em 4 destes doentes.
+Neoplasias benignas, malignas e não especificadas (incl. quistos e pólipos)
+13
+
+Não parece existir um maior risco de desenvolvimento maligno com teriflunomida nos dados dos estudos
+clínicos. O risco de malignidade, especialmente de doenças linfoproliferativas, é aumentado com a utilização
+de outros agentes com efeito no sistema imunitário (efeito classe).
+Reações cutâneas graves
+Foram notificados casos de reações cutâneas graves com teriflunomida pós-comercialização (ver secção 4.4).
+Astenia
+Nos estudos controlados com placebo em doentes adultos, as frequências para astenia foram de 2,0%, 1,6% e
+2,2% nos grupos placebo, teriflunomida 7 mg e teriflunomida 14 mg, respetivamente.
+Psoríase
+Nos estudos controlados com placebo, as frequências para psoríase foram 0,3%, 0,3% e 0,4% nos grupos
+placebo, teriflunomida 7 mg e teriflunomida 14 mg, respetivamente.
+Doenças gastrointestinais
+Foram notificados, com pouca frequência, casos de pancreatite com teriflunomida em adultos em contexto de
+pós-comercialização, incluindo casos de pancreatite necrosante e pseudocisto pancreático. Os
+acontecimentos de pancreatite podem ocorrer em qualquer momento do tratamento com teriflunomida,
+podendo levar à hospitalização e/ou requerer tratamento corretivo.
+População pediátrica
+O perfil de segurança observado em doentes pediátricos (dos 10 aos 17 anos de idade) em tratamento com
+teriflunomida diariamente foi, em geral, semelhante ao observado em doentes adultos. No entanto, num
+estudo pediátrico (166 doentes: 109 no grupo de teriflunomida e 57 no grupo placebo), foram notificados
+casos de pancreatite em 1,8% (2/109) dos doentes tratados com teriflunomida em comparação com nenhum
+doente do grupo placebo, na fase de dupla ocultação. Um desses acontecimentos levou à hospitalização e
+requereu tratamento corretivo. Em doentes pediátricos tratados com teriflunomida na fase aberta do estudo,
+foram notificados 2 casos adicionais de pancreatite (um foi notificado como acontecimento grave, o outro
+como acontecimento não grave, de intensidade ligeira) e um caso de pancreatite aguda grave (com pseudopapiloma). Em dois destes 3 doentes, a pancreatite levou à hospitalização. Os sintomas clínicos nestes
+doentes incluíram a dor abdominal, náuseas e/ou vómitos e níveis séricos elevados de amilase e lipase.
+Todos os doentes recuperaram após a descontinuação do tratamento, o procedimento de eliminação acelerada
+(ver secção 4.4) e tratamento corretivo.
+As seguintes reações adversas foram mais frequentemente notificados na população pediátrica do que na
+população adulta:
+•
+Foi notificada alopécia em 22,0% dos doentes tratados com teriflunomida versus 12,3% em doentes
+tratados com placebo.
+•
+Foram notificadas infeções em 66,1% dos doentes tratados com teriflunomida versus 45,6% em
+doentes tratados com placebo. Entre eles, a nasofaringite e infeções do trato respiratório superior foram mais
+frequentemente notificadas com teriflunomida.
+•
+Foi notificado o aumento de CK em 5,5% dos doentes tratados com teriflunomida versus 0% em
+doentes tratados com placebo. A maioria dos casos foi associada a exercício físico documentado.
+•
+Foi notificada parestesia em 11,0% dos doentes tratados com teriflunomida versus 1,8% em doentes
+tratados com placebo.
+•
+Foi notificada dor abdominal em 11,0% dos doentes tratados com teriflunomida versus 1,8% em
+doentes tratados com placebo.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma vez
+que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema nacional de
+notificação mencionado no Apêndice V.
+14
+
+4.9
+
+Sobredosagem
+
+Sintomas
+Não existem observações relativamente a sobredosagem ou intoxicação com teriflunomida no ser humano.
+Foi administrada uma dose diária de 70 mg de teriflunomida a indivíduos saudáveis durante um período
+máximo de 14 dias. As reações adversas foram consistentes com o perfil de segurança para a teriflunomida
+nos doentes com EM.
+Tratamento
+Em caso de sobredosagem ou toxicidade relevante, recomenda-se o tratamento com colestiramina ou carvão
+ativado para acelerar a eliminação. O procedimento de eliminação recomendado consiste em doses de 8 mg
+de colestiramina, três vezes por dia durante 11 dias. Se este regime não for bem tolerado, pode ser utilizada
+uma dose de 4 g de colestiramina três vezes por dia durante 11 dias. Em alternativa, se não for possível
+utilizar colestiramina, podem ser administradas doses de 50 g de carvão ativado, duas vezes por dia durante
+11 dias. Em caso de problemas de tolerância, a administração de colestiramina ou de carvão ativado não tem
+de ocorrer em dias consecutivos (ver secção 5.2).
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Imunossupressores. Imunossupressores seletivos, Código ATC: L04AA31.
+Mecanismo de ação
+A teriflunomida é um agente imunomodulador com propriedades anti-inflamatórias que inibe, de forma
+seletiva e reversível, a enzima mitocondrial dihidroorotato desidrogenase DHO-DH) que está funcionalmente
+ligada à cadeia respiratória. Como consequência da inibição, a teriflunomida geralmente reduz a proliferação
+de células em divisão rápida, cuja expansão depende da síntese de novo de pirimidina. O mecanismo exato
+do efeito terapêutico da teriflunomida sobre a EM não é totalmente compreendido, mas é mediado pela
+diminuição do número de linfócitos.
+Efeitos farmacodinâmicos
+Sistema imunitário
+Efeitos nos números de células imunitárias no sangue: Nos estudos controlados com placebo, uma dose
+diária de 14 mg de teriflunomida resultou numa diminuição média ligeira no número de linfócitos, inferior a
+0,3 x 109/l, observada ao longo dos primeiros 3 meses de tratamento e com manutenção destes níveis até ao
+final do tratamento.
+Potencial de prolongamento do intervalo QT
+Num estudo exaustivo do intervalo QT, controlado com placebo, em indivíduos saudáveis, a teriflunomida a
+concentrações médias estáveis não apresentou qualquer potencial de prolongamento do intervalo QTcF em
+comparação com o placebo: a maior diferença média de tempo ajustado entre a teriflunomida e o placebo foi
+de 3,45 ms, com o limite superior do IC de 90% correspondente a 6,45 ms.
+Efeito na função tubular renal
+Nos estudos controlados com placebo, foram observadas diminuições médias do ácido úrico sérico entre 20 a
+30% nos doentes tratados com teriflunomida em comparação com o placebo. A diminuição média do fósforo
+sérico no grupo de teriflunomida foi de 10%, em comparação com o placebo. Estes efeitos consideram-se
+relacionados com um aumento da excreção tubular renal e não relacionados com alterações da função
+glomerular.
+Eficácia e segurança clínicas
+15
+
+A eficácia de AUBAGIO foi demonstrada em dois estudos controlados com placebo, os estudos TEMSO e o
+TOWER, os quais avaliaram doses diárias únicas de 7 mg e de 14 mg de teriflunomida em doentes adultos
+com EMSR.
+Um total de 1.088 doentes com EMSR, foram aleatorizados no estudo TEMSO para receber 7 mg (n=366) ou
+14 mg (n=359) de teriflunomida ou placebo (n= 363) durante 108 semanas. Todos os doentes apresentaram
+um diagnóstico comprovado de EM (com base nos critérios de McDonald (2001)), um percurso clínico
+recidivante, com ou sem progressão, e tinham apresentado pelo menos 1 surto no ano anterior ao estudo, ou
+pelo menos 2 surtos nos 2 anos anteriores ao estudo. No momento de entrada no estudo, os doentes
+apresentaram um valor na escala expandida de estado de incapacidade (EDSS) ≤5,5. A idade média da
+população do estudo foi de 37,9 anos. A maioria dos doentes tinham Esclerose Múltipla Surto-Remissão
+(91,5%), mas um subgrupo tinha Esclerose Múltipla Progressiva Secundária (4,7%) ou Esclerose Múltipla
+Recidivante Progressiva (3,9%). A média do número de surtos durante o ano antes da inclusão no estudo foi
+de 1,4 em que 36,2% dos doentes tinham lesões realçadas por gadolínio no início do estudo. A mediana das
+classificações EDSS no início do estudo foi 2,50; 249 doentes (22,9%) apresentaram > 3,5 na escala EDSS,
+no momento da entrada no estudo. A duração média da doença, desde os primeiros sintomas, foi de 8,7 anos.
+Durante um período de 2 anos antes do início do estudo, a maioria dos doentes (73%), não recebeu terapia
+modificadora da doença. Os resultados do estudo são apresentados na Tabela 1.
+Os resultados de segurança no seguimento da extensão do estudo TEMSO de longo prazo (duração mediana
+do tratamento de aproximadamente 5 anos, duração máxima do tratamento de aproximadamente 8,5 anos)
+não apresentaram resultados de segurança novos ou inesperados.
+Um total de 1169 doentes com EMSR foram aleatorizados no estudo TOWER para receber 7 mg (n=408) ou
+14 mg (n=372) de teriflunomida ou placebo (n= 389) durante um período de tratamento variável que
+terminou 48 semanas após a aleatorização do último doente. Todos os doentes apresentaram um diagnóstico
+comprovado de EM (com base nos critérios de McDonald (2005)), um percurso clínico recidivante, com ou
+sem progressão, e tinham apresentado pelo menos 1 surto no ano anterior ao estudo, ou pelo menos 2 surtos
+nos 2 anos anteriores ao estudo. No momento de entrada no estudo, os doentes apresentaram um valor na
+escala expandida de estado de incapacidade (EDSS) ≤5,5.
+A idade média da população do estudo foi de 37,9 anos. A maioria dos doentes tinham esclerose múltipla
+surto-remissão (97,5%), mas um subgrupo tinha esclerose múltipla progressiva secundária (0,8%) ou
+esclerose múltipla recidivante progressiva (1,7%). A média do número de surtos durante o ano antes da
+inclusão no estudo foi de 1,4, lesões realçadas por gadolínio: sem dados. A mediana das classificações EDSS
+no início do estudo foram respetivamente de 2,50: 298 doentes (25,5%) apresentaram >3,5 na escala EDSS,
+no momento da entrada no estudo. A duração média da doença, desde os primeiros sintomas, foi de 8,0 anos.
+Durante um período de 2 anos antes do início do estudo, a maioria dos doentes (67,2%), não recebeu terapia
+modificadora da doença. Os resultados do estudo são apresentados na Tabela 1.
+
+16
+
+Tabela 1 Resultados principais (para a dose aprovada, população ITT)
+
+N
+Resultados Clínicos
+Taxa de surtos anual
+Diferença de risco (IC95%)
+Doentes Sem surtos semana 108
+Razão de risco (IC95%)
+Progressão sustentada de
+incapacidade de 3 meses
+semana 108
+
+Razão de risco (IC95%)
+Progressão sustentada de
+incapacidade de 6 meses
+semana 108
+
+Razão de risco (IC95%)
+Parâmetros finais de RM
+Alteração em BOD semana
+(1)
+
+108
+
+Alteração em comparação
+com Placebo
+Média do Nº de lesões
+realçadas por Gd semana 108
+Alteração em comparação
+com Placebo (IC95%)
+Número de lesões
+individuais ativas por teste
+Alteração em comparação
+com Placebo (IC95%)
+
+Estudo TEMSO
+Teriflunomida
+Placebo
+14 mg
+358
+363
+
+Estudo TOWER
+Teriflunomida
+Placebo
+14 mg
+370
+388
+
+0,37
+0,54
+-0,17 (-0,26; -0,08)∗∗∗
+56,5%
+45,6%
+0,72 (0,58; 0,89)∗∗
+
+0,32
+0,50
+-0,18 (-0,27; -0,09)∗∗∗∗
+57,1%
+46,8%
+0,63 (0,50; 0,79)∗∗∗∗
+
+20,2%
+
+15,8%
+
+27,3%
+
+0,70 (0,51; 0,97)∗
+13,8%
+
+18,7%
+
+0,75 (0,50; 1,11)
+0,72
+
+19,7%
+
+0,68 (0,47; 1,00)∗
+11,7%
+
+11,9%
+
+0,84 (0,53; 1,33)
+
+2,21
+67%∗∗∗
+
+0,38
+
+1,18
+
+Não foi medido
+
+-0,80 (-1,20; -0,39)∗∗∗∗
+0,75
+
+2,46
+
+69% (59%; 77%)∗∗∗∗
+
+p<0.0001 ∗∗∗ p<0.001 ∗∗ p<0.01 ∗ p<0.05 em comparação com placebo
+(1) Carga da doença (BOD: burden of disease): volume total de lesão (T2 e T1 hipointenso) em ml
+
+∗∗∗∗
+
+Eficácia em doentes com elevada atividade da doença
+Foi observado um efeito consistente do tratamento nos surtos e no tempo para a progressão sustentada de
+incapacidade de 3 meses num subgrupo de doentes no estudo TEMSO (n=127) com elevada atividade da
+doença. Devido ao desenho do estudo, a elevada atividade da doença foi definida como dois ou mais surtos
+durante um ano, e com uma ou mais lesões realçadas por Gd sobre o cérebro de RM. Não foram realizadas
+análises semelhantes no estudo TOWER, uma vez que não foram obtidos dados de RM. Não existem dados
+disponíveis para os doentes que não responderam de forma completa e adequada a um ciclo de interferão
+beta-1a (normalmente, pelo menos, um ano de tratamento), que tiveram pelo menos 1 surto no ano anterior
+durante o tratamento e, pelo menos, 9 lesões T2 hipotensas na RM craniana ou pelo menos 1 lesão realçada
+por Gd, ou doentes com uma taxa de surtos inalterada ou com um aumento de taxa de surtos no ano anterior,
+em comparação com os 2 anos anteriores.
+TOPIC foi um estudo com dupla ocultação, controlado por placebo, que avaliou doses diárias únicas de 7 mg
+e de 14 mg de teriflunomida, até 108 semanas, em doentes com um primeiro acontecimento clínico
+desmielinizante (idade média 32,1 anos). O parâmetro final primário foi o tempo para um segundo
+acontecimento clínico (surto). Um total de 618 doentes foram aleatorizados para receber 7 mg (n = 205) ou
+14 mg (n = 216) de teriflunomida ou placebo (n = 197). O risco de um segundo ataque clínico durante 2 anos
+foi de 35,9% no grupo placebo e 24,0% no grupo de tratamento com teriflunomida 14 mg (razão de risco:
+0,57, intervalo de confiança de 95%: 0,38 a 0,87; p=0,0087). Os resultados do estudo TOPIC confirmaram a
+
+17
+
+eficácia de teriflunomida em EMSR (incluindo EMSR com um primeiro acontecimento clínico
+desmielinizante e lesões de RM disseminadas no tempo e espaço).
+A eficácia da teriflunomida foi comparada com a do interferão beta-1a administrado por via subcutânea (na
+dose recomendada de 44 µg três vezes por semana) em 324 doentes aleatorizados num estudo (TENERE)
+com uma duração mínima de tratamento de 48 semanas (máximo de 114 semanas). O risco de insucesso
+(surto confirmado ou interrupção permanente do tratamento, independentemente de qual surgiu primeiro) foi
+o parâmetro final primário. O número de doentes com interrupção permanente do tratamento no grupo de 14
+mg teriflunomida foi de 22 em 111 (19,8%), devido a efeitos adversos (10,8%), falta de eficácia (3,6%),
+outras razões (4,5%) e sem seguimento (0,9%). O número de doentes com interrupção permanente do
+tratamento no grupo do interferão beta-1a administrado por via subcutânea foi de 30 em 104 (28,8%), devido
+a efeitos adversos (21,2%), falta de eficácia (1,9%), outras razões (4,8%) e fraca adesão ao protocolo (1%).
+A dose de 14 mg/dia de teriflunomida não mostrou ser estatisticamente superior ao interferão beta-1a para o
+parâmetro final primário: a percentagem de doentes com insucesso do tratamento após 96 semanas, calculada
+pelo método de Kaplan-Meier, foi de 41,1% versus 44,4% (teriflunomida 14 mg versus grupo interferão
+beta-1a, p=0,595).
+População pediátrica
+Crianças e adolescentes (10 aos 17 anos de idade)
+O estudo EFC11759/TERIKIDS foi um estudo internacional com dupla ocultação, controlado por placebo
+em doentes pediátricos dos 10 aos 17 anos com EM surto-remissão que avaliou doses diárias de
+teriflunomida (ajustadas para atingir uma exposição equivalente à dose de 14 mg em adultos) durante 96
+semanas, seguido por uma extensão sem ocultação. Todos os doentes tiveram, pelo menos, 1 surto durante 1
+ano ou, pelo menos, 2 surtos nos 2 anos anteriores ao estudo. As avaliações neurológicas foram realizadas na
+triagem e a cada 24 semanas até à conclusão, e em visitas não programadas por suspeita de surto. Os doentes
+com surto clínico ou alta atividade de ressonância magnética (RM) de pelo menos 5 lesões em T2 novas ou
+aumentadas em 2 exames consecutivos foram alocados, antes das 96 semanas, à extensão sem ocultação para
+garantir o tratamento ativo. O parâmetro final primário consistiu no tempo até primeiro surto clínico após a
+aleatorização. O tempo para o primeiro surto clínico confirmado ou alta atividade de RM, o que ocorrer
+primeiro, foi predefinido como uma análise de sensibilidade, uma vez que inclui as condições clínicas e de
+RM que se qualificam para a alocação no período sem ocultação.
+Um total de 166 doentes foram aleatorizados numa proporção de 2:1 para receber teriflunomida (n=109) ou
+placebo (n=57). À entrada, os doentes do estudo tinham uma pontuação EDSS ≤5,5; a média de idade foi de
+14,6 anos; o peso médio foi de 58,1 kg; a duração média da doença desde o diagnóstico foi de 1,4 anos; e a
+média das lesões em T1 captantes de Gd avaliadas porRM foi de 3,9 lesões no início do estudo. Todos os
+doentes tiveram EM Surto-Remissão com a pontuação mediana de EDSS de 1,5 no início do estudo. O
+tempo médio de tratamento foi de 362 dias com o placebo e 488 dias com a teriflunomida. A transição do
+período de dupla ocultação para o tratamento sem ocultação devido à alta atividade de RM foi mais frequente
+do que o previsto, e mais frequente e precoce no grupo de placebo do que no grupo de teriflunomida (26% no
+placebo, 13% na teriflunomida).
+A teriflunomida reduziu o risco de surto clínico em 34% em relação ao placebo, sem atingir significância
+estatística (p=0,29) (Tabela 2). Na análise de sensibilidade predefinida, a teriflunomida atingiu uma redução
+estatisticamente significativa no risco combinado de surto clínico ou alta atividade de RM em 43% em
+relação ao placebo (p=0,04) (Tabela 2).
+A teriflunomida reduziu significativamente o número de lesões em T2 novas e aumentadas por imagem em
+55% (p=0,0006) (análise post-hoc também ajustada para contagens iniciais de T2: 34%, p=0,0446), e o
+número de lesões em T1 captantes de Gadolínio por imagem em 75% (p <0,0001) (Tabela 2).
+
+18
+
+Tabela 2 – Resultados clínicos e RM de EFC11759/TERIKIDS
+População ITT EFC11759
+
+Teriflunomida
+(N=109)
+
+Placebo
+(N=57)
+
+0,39 (0,29; 0,48)
+0,30 (0,21; 0,39)
+
+0,53 (0,36; 0,68)
+0,39 (0,30; 0,52)
+
+Marcadores clínicos
+Tempo para o primeiro surto clínico,
+Probabilidade (IC 95%) de surto confirmado na Semana 96
+Probabilidade (IC 95%) de surto confirmado na Semana 48
+Razão de risco (IC de 95%)
+
+0,66 (0,39; 1,11)^
+
+Tempo para o primeiro surto clínico confirmada ou alta atividade de
+RM,
+Probabilidade (IC 95%) de surto confirmado ou alta atividade de RM
+na semana 96
+Probabilidade (IC 95%) de surto confirmado ou alta atividade de
+ressonância magnética na semana 48
+Razão de risco (IC de 95%)
+
+0,51 (0,41; 0,60)
+0,38 (0,29; 0,47)
+
+0,72 (0,58; 0,82)
+0,56 (0,42; 0,68)
+
+0,57 (0,37; 0,87)*
+
+Principais marcadores de RM
+Número ajustado de lesões em T2 novas ou aumentadas,
+Estimativa (IC 95%)
+Estimativa (IC de 95%), análise post-hoc também ajustada para
+contagens iniciais de T2
+Risco relativo (IC 95%)
+Risco relativo (IC 95%), análise post-hoc analysis também ajustada
+para contagens iniciais em T2
+Número ajustado de lesões em T1 captantes de gadolínio,
+Estimativa (IC 95%)
+Risco relativo (IC 95%)
+
+4,74 (2,12; 10,57)
+3,57 (1,97; 6,46)
+
+10,52 (4,71; 23,50)
+5,37 (2,84; 10,16)
+
+0,45 (0,29; 0,71)**
+0,67 (0,45; 0,99)*
+1,90 (0,66; 5,49)
+
+7,51 (2,48; 22,70)
+
+0,25 (0,13; 0,51)***
+
+^p≥0,05 comparado com o placebo, * p<0,05, ** p<0,001, *** p<0,0001
+A probabilidade foi baseada no estimador Kaplan-Meier e a Semana 96 foi o fim do tratamento do estudo (EOT).
+
+A Agência Europeia de Medicamentos diferiu a obrigação de apresentação dos resultados dos estudos com
+AUBAGIO em crianças com idade desde o nascimento até menos de 10 anos em tratamento para esclerose
+múltipla (ver secção 4.2 para informação sobre utilização pediátrica).
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+O tempo mediano necessário para alcançar a concentração máxima no plasma situou-se entre 1 a 4 horas
+pós-dose, após uma administração repetida de teriflunomida por via oral, com elevada biodisponibilidade
+(aproximadamente 100%).
+A ingestão de alimentos não parece ter um efeito clinicamente relevante na farmacocinética da teriflunomida.
+A partir dos parâmetros farmacocinéticos médios previstos calculados com base na análise da
+farmacocinética da população (PopPK) utilizando dados de voluntários saudáveis e de doentes com EM,
+ocorre uma evolução lenta para a concentração estável (ou seja, aproximadamente 100 dias (3,5 meses) para
+atingir 95% das concentrações do estado estacionário) e a razão de acumulação de AUC calculada é de
+aproximadamente 34x.
+
+19
+
+Distribuição
+A teriflunomida liga-se extensivamente a proteínas plasmáticas (>99%), provavelmente à albumina, e
+distribui-se principalmente no plasma. O volume de distribuição é de 11 l após uma única administração por
+via intravenosa (IV). No entanto, este valor é provavelmente maior do que o estimado, visto que foi
+observada uma distribuição extensiva nos órgãos em ratos.
+Biotransformação
+A teriflunomida é moderadamente metabolizada e é o único componente detetado no plasma. A via de
+biotransformação principal da teriflunomida é a hidrólise, podendo também sofrer oxidação numa via
+secundária. As vias secundárias envolvem a oxidação, N-acetilação e conjugação com sulfatos.
+Eliminação
+A teriflunomida é excretada no trato gastrointestinal sobretudo através da bílis como uma substância ativa
+não alterada, provavelmente por secreção direta. A teriflunomida é um substrato da bomba de efluxo BCRP,
+a qual pode estar envolvida na secreção direta. Ao longo de 21 dias, 60,1% da dose administrada é excretada
+nas fezes (37,5%) e urina (22,6%). Após um procedimento de eliminação rápida com colestiramina, foi
+obtida uma quantidade adicional de 23,1% (sobretudo nas fezes). Com base na previsão individual de
+parâmetros farmacocinéticos com o modelo PopPK da teriflunomida em voluntários saudáveis e doentes com
+EM o valor t1/2z mediano foi de aproximadamente 19 dias após doses repetidas de 14 mg. Após uma única
+administração por via intravenosa, a eliminação total de teriflunomida do corpo foi de 30,5 ml/h.
+Procedimento de eliminação acelerada: colestiramina e carvão ativado
+A eliminação de teriflunomida na circulação pode ser acelerada pela administração de colestiramina ou
+carvão ativado, possivelmente através da interrupção dos processos de reabsorção ao nível do intestino. As
+concentrações de teriflunomida medidas durante um procedimento de 11 dias, para aceleração da eliminação
+de teriflunomida com 8 g de colestiramina três vezes por dia, 4 g de colestiramina três vezes por dia ou 50 g
+de carvão ativado duas vezes por dia, após a interrupção do tratamento com teriflunomida, demonstraram
+que estes regimes são eficazes na aceleração da eliminação de teriflunomida, resultando numa diminuição de
+mais de 98% da concentração de teriflunomida no plasma, com a colestiramina a apresentar um efeito mais
+rápido do que o carvão. Após a interrupção de teriflunomida e a administração de 8 mg de colestiramina três
+vezes por dia, a concentração de teriflunomida no plasma diminui 52% no final do dia 1, 91% no final do dia
+3, 99,2% no final do dia 7 e 99,9% no final do dia 11. A escolha entre estes 3 procedimentos de eliminação
+deverá depender da tolerância do doente. Se a dose de 8 g de colestiramina três vezes por dia não for bem
+tolerada, pode ser utilizada uma dose de 4 g de colestiramina três vezes por dia. Em alternativa, pode ser
+utilizado carvão ativado (não é necessário que os 11 dias sejam consecutivos, a não ser que seja necessário
+fazer descer a concentração de teriflunomida no plasma rapidamente).
+Linearidade/não linearidade
+A exposição sistémica aumenta de forma proporcional à dose após a administração por via oral de doses de 7
+ou 14 mg de teriflunomida.
+Características em grupos específicos de doentes
+Sexo e doentes idosos
+Foram identificadas várias fontes de variabilidade intrínseca em indivíduos saudáveis e em doentes com EM,
+com base na análise da PopPK: idade, peso corporal, sexo, raça e níveis de albumina e de bilirrubina. No
+entanto, o impacto destes fatores é limitado (≤31%).
+Compromisso hepático
+O compromisso hepático ligeiro e moderado não demonstrou ter impacto na farmacocinética da
+teriflunomida. Assim, não deverá ser necessário ajustar a dose para doentes com compromisso hepático
+ligeiro e moderado. No entanto, a teriflunomida é contraindicada em doentes com compromisso hepático
+grave (ver secções 4.2 e 4.3).
+20
+
+Compromisso renal
+O compromisso renal grave não demonstrou ter impacto na farmacocinética da teriflunomida. Assim, não
+deverá ser necessário ajustar a dose para doentes com compromisso renal ligeiro, moderado ou grave.
+População pediátrica
+Em doentes pediátricos com peso corporal >40 kg tratados com 14 mg uma vez por dia, as exposições no
+estado estacionário situaram-se no intervalo observado em doentes adultos tratados com o mesmo regime
+posológico.
+Em doentes pediátricos com peso corporal ≤40 kg tratados com 7 mg uma vez por dia (baseado nos dados
+clínicos limitados e simulações), as exposições no estado estacionário situaram-se no intervalo observado em
+doentes adultos tratados com 14 mg uma vez por dia.
+As concentrações mínimas de estado estacionário observadas foram altamente variáveis entre os indivíduos,
+como observado para doentes adultos com EM.
+5.3
+
+Dados de segurança pré-clínica
+
+Toxicidade de dose repetida
+A administração repetida por via oral de teriflunomida a ratos, ratazanas e cães durante 3, 6 e 12 meses,
+respetivamente, revelou que os principais alvos de toxicidade são a medula óssea, órgãos linfoides, cavidade
+oral/trato gastrointestinal, órgãos genitais e pâncreas. Foi também detetado um efeito oxidante nos
+eritrócitos. A anemia, o número diminuído de plaquetas e os efeitos no sistema imunitário, incluindo
+leucopenia, linfopenia e infeções secundárias, foram relacionados com os efeitos na medula óssea e/ou
+órgãos linfoides. A maioria dos efeitos refletem o modo básico de ação do composto (inibição de células em
+divisão). Os animais são mais sensíveis à farmacologia e, consequentemente, à toxicidade, da teriflunomida
+do que o ser humano. Por este motivo, a toxicidade nos animais foi detetada a níveis de exposição
+equivalentes ou abaixo dos níveis terapêuticos humanos.
+Potencial genotóxico e carcinogénico
+A teriflunomida não demonstrou efeitos mutagénicos in vitro nem clastogénicos in vivo. A clastogenicidade
+observada in vitro foi considerada um efeito indireto relacionado com o desequilíbrio dos nucleótidos
+disponíveis resultante da farmacologia da inibição da DHO-DH. O metabolito secundário TFMA (4trifluorometilanilina) teve efeitos mutagénicos e clastogénicos in vitro, mas não in vivo.
+Não foram identificados efeitos carcinogénicos em ratos e murganhos.
+Toxicidade reprodutiva
+A fertilidade não foi afetada em ratos, apesar dos efeitos adversos da teriflunomida sobre os órgãos genitais
+masculinos, incluindo um número diminuído de espermatozóides. Não foram observadas malformações
+externas nas ninhadas de ratos do sexo masculino que receberam teriflunomida antes de acasalar com fêmeas
+sem tratamento. A teriflunomida mostrou efeitos embriotóxicos e teratogénicos em ratos e coelhos a doses
+situadas na gama terapêutica humana. Os efeitos adversos na ninhada foram também observados quando a
+teriflunomida foi administrada a ratos fêmeas grávidas durante a gestação e amamentação. O risco de
+toxicidade mediada pelo pai para o embrião/feto, associado ao tratamento com teriflunomida, é considerado
+baixo. A exposição calculada para o plasma feminino através do sémen de um doente tratado é 100 vezes
+inferior à exposição do plasma após a administração por via oral de 14 mg de teriflunomida.
+Toxicidade em animais juvenis
+Ratos juvenis que receberam teriflunomida oral durante 7 semanas desde o desmame até à maturação sexual
+não revelaram efeitos adversos no crescimento, desenvolvimento físico ou neurológico, aprendizagem e
+memória, atividade locomotora, desenvolvimento sexual ou fertilidade. Os efeitos adversos incluíram
+anemia, redução da responsividade linfóide, resposta de anticorpos dependente de células T diminuída de
+forma dependente da dose e concentrações de IgM e IgG consideravelmente diminuídas, que geralmente
+21
+
+coincidiram com observações em estudos de toxicidade de dose repetida em ratos adultos. No entanto, o
+aumento de células B observado em ratos juvenis não foi observado em ratos adultos. A importância desta
+diferença é desconhecida, mas a reversibilidade completa foi demonstrada como para a maioria dos outros
+acontecimentos. Devido à elevada sensibilidade dos animais à teriflunomida, os ratos juvenis foram expostos
+a níveis mais baixos do que os de crianças e adolescentes na dose humana máxima recomendada (DHMR).
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Núcleo do comprimido
+lactose monohidratada
+amido de milho
+celulose microcristalina
+glicolato de amido sódico (Tipo A)
+hidroxipropilcelulose
+estearato de magnésio
+Revestimento do comprimido*
+7 mg comprimido revestido por película
+hipromelose
+dióxido de titânio (E171)
+talco
+macrogol 8000
+laca de alumínio índigo carmim (E132)
+óxido de ferro amarelo (E172)
+14 mg comprimido revestido por película
+hipromelose
+dióxido de titânio (E171)
+talco
+macrogol 8000
+laca de alumínio índigo carmim (E132)
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+3 anos
+6.4
+
+Precauções especiais de conservação
+
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+6.5
+
+Natureza e conteúdo do recipiente
+
+AUBAGIO 7mg comprimidos revestidos por película
+Blisters poliamida/alumínio/poli (cloreto de vinilo)-alumínio inseridos numa carteira (28 comprimidos
+revestidos por película) e embalados numa caixa com 28 comprimidos revestidos por película.
+AUBAGIO 14 mg comprimidos revestidos por película
+
+22
+
+Blisters poliamida/alumínio/poli (cloreto de vinilo) - alumínio inseridos em carteiras (14 e 28 comprimidos
+revestidos por película) e embalados em caixas com 14, 28, 84 (3 carteiras de 28) e 98 (7 carteiras de 14)
+comprimidos revestidos por película.
+Blisters perfurados poliamida/alumínio/poli (cloreto de vinilo) -alumínio de dose unitária em caixas com
+10x1 comprimidos revestidos por película.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
+França
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+AUBAGIO 7 mg comprimidos revestidos por película
+EU/1/13/838/006 28 comprimidos
+AUBAGIO 14 mg comprimidos revestidos por película
+EU/1/13/838/001
+EU/1/13/838/002
+EU/1/13/838/003
+EU/1/13/838/004
+EU/1/13/838/005
+9.
+
+14 comprimidos
+28 comprimidos
+84 comprimidos
+98 comprimidos
+10x1 comprimidos
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 26 de agosto de 2013
+Data da última renovação: 28 de maio de 2018
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência Europeia
+de Medicamentos http://www.ema.europa.eu
+
+23
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E
+EFICAZ DO MEDICAMENTO
+
+24
+
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+AUBAGIO 7 mg comprimidos revestidos por película
+Opella Healthcare International SAS
+56, Route de Choisy
+60200
+Compiègne
+França
+AUBAGIO 14 mg comprimidos revestidos por película
+Opella Healthcare International SAS
+56, Route de Choisy
+60200
+Compiègne
+França
+Sanofi Winthrop Industrie
+30-36, avenue Gustave Eiffel
+37100 Tours
+França
+O folheto informativo que acompanha o medicamento tem de mencionar o nome e endereço do fabricante
+responsável pela libertação do lote em causa.
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I:
+Resumo das Características do Medicamento, secção 4.2).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios Periódicos de Segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do nº 7 do artigo 107º-C da Diretiva
+2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de medicamentos.
+O titular da autorização de introdução no mercado (AIM) deverá apresentar o primeiro RPS para este
+medicamento no prazo de 6 meses após a concessão da autorização.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO
+MEDICAMENTO
+
+•
+
+Plano de Gestão do Risco (PGR)
+
+O titular da autorização de introdução no mercado (AIM) deve efetuar as atividades e as intervenções de
+farmacovigilância requeridas e detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de
+introdução no mercado, e quaisquer atualizações subsequentes do PGR acordadas.
+25
+
+Deve ser apresentado um PGR atualizado:
+• A pedido da Agência Europeia de Medicamentos;
+• Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da receção de
+nova informação que possa levar a alterações significativas no perfil benefício-risco ou como resultado
+de ter sido atingido um objetivo importante (farmacovigilância ou minimização do risco).
+Se a apresentação de um relatório periódico de segurança (RPS) coincidir com a atualização de um PGR,
+ambos podem ser apresentados ao mesmo tempo.
+
+•
+
+Medidas adicionais de minimização do risco
+
+Antes do lançamento em cada Estado Membro, o Titular da Autorização de Introdução no Mercado (AIM)
+deve acordar um programa educativo com a Autoridade Nacional Competente.
+Após a discussão e concordância com as Autoridades Nacionais Competentes de cada estado Membro onde o
+AUBAGIO é comercializado, o Titular da AIM deve assegurar, antes e depois do lançamento, que todos os
+Profissionais de Saúde que se espere que utilizem AUBAGIO recebam os seguintes itens:
+• Resumo das Características do Medicamento (RCM)
+• Material Educacional para os Profissionais de Saúde
+• Cartão educacional do doente
+Os materiais educacionais para os Profissionais de Saúde (PS) vão incluir os seguimentos elementos:
+1. Os PS devem discutir com os seus doentes os problemas de segurança específicos de AUBAGIO descritos
+em baixo, incluíndo as análises e precauções necessárias para uma utilização segura na primeira prescrição e
+regularmente durante tratamento:
+• Risco de efeitos hepáticos
+o Efetuar testes ao funcionamento do fígado, antes do ínicio do tratamento e periodicamente
+durante o tratamento
+o Educar o doente sobre os sinais e sintomas de doença hepática e da necessidade de informar
+o PS caso surja algum deles
+• Risco potencial de teratogenicidade
+o Lembrar às mulheres com potencial para engravidar, incluindo adolescentes/ seus paiscuidadores, que AUBAGIO é contraindicado em mulheres grávidas e em mulheres com
+potencial para engravidar que não utilizam um método contracetivo eficaz durante e após o
+tratamento.
+o Avaliar regularmente o potencial de gravidez em doentes do sexo feminino, incluindo
+doentes com menos de 18 anos de idade.
+o Informar as crianças do sexo feminino e/ou pais/cuidadores de crianças do sexo feminino
+sobre a necessidade de contactar o médico prescritor assim que a criança do sexo feminino
+em tratamento com AUBAGIO tiver a primeira menstruação. Deve ser fornecido
+aconselhamento às novas doentes com potencial para engravidar sobre a contraceção e o
+risco potencial para o feto.
+o Verificar gravidez antes de iniciar tratamento
+o Educar as doentes com potencial para engravidar sobre a necessidade de utilizarem métodos
+contracetivos eficazes durante e depois do tratamento com teriflunomida
+o Lembrar aos doentes para informar imediatamente o seu médico se interromperem a
+contraceção ou antes de alterarem as medidas de contraceção
+o Se as doentes engravidarem apesar de utilizarem medidas contracetivas, devem interromper
+imediatamente o tratamento com AUBAGIO e contactar o médico, que deverá:
+ Considerar e discutir com a doente a utilização do procedimento de eliminação
+acelerada
+ Incentivar a inscrição no registo de gravidez (em países onde um registo de gravidez
+esteja em curso)
+
+26
+
+Contactar o Coordenador Nacional do Registo no respetivo país que gere a inclusão
+da doente no registo de gravidez (em países onde está a decorrer um registo de
+gravidez).
+• Risco de hipertensão
+o Verificar se existe um histórico de hipertensão e que a tensão arterial deverá ser
+adequadamente controlada, durante o tratamento
+o Verificar a tensão arterial antes do início do tratamento com teriflunomida e periodicamente
+durante o tratamento.
+• Risco de efeitos hematológicos
+o Discutir o risco da diminuição do número de células sanguíneas (que afeta principalmente os
+glóbulos brancos) e a necessidade de realizar hemograma com contagem diferencial com
+base em sinais e sintomas, antes do tratamento e periodicamente durante o tratamento.
+• Risco de infeções/ infeções graves
+o Discutir a necessidade de contactar o médico no caso de sinais/sintomas de infeção, ou se o
+doente tomar outros medicamentos que afetem o sistema imunitário. Se ocorrer uma infeção
+grave, considere o procedimento de eliminação acelerada.
+2. Chamada de atenção para disponibilizar aos doentes/representante legal um Cartão Educacional para os
+Doentes, incluindo o preenchimento dos detalhes de contacto, e disponibilizar Cartões Educacionais de
+substituição para os Doentes, se necessário;
+3. Chamada de atenção para discutir regularmente com o doente/representante legal o conteúdo do cartão do
+doente em cada consulta, pelo menos uma vez por ano durante o tratamento.
+4. Incentivar os doentes para contactar o seu médico de EM e/ou Clínico Geral caso ocorra algum dos sinais
+e sintomas discutidos no cartão educacional para o doente; 5. Informação sobre o serviço opcional de um
+lembrete periódico para os doentes sobre a necessidade contínua de uma contraceção eficaz durante o
+tratamento.
+6. Na renovação da prescrição, são verificados os efeitos indesejáveis, são discutidos os riscos existentes e a
+sua prevenção e são feitas verificações de modo a assegurar a monitorização adequada.
+
+
+O cartão educacional para os doentes está alinhado com as informações do folheto informativo e inclui os
+seguintes elementos-chave:
+1. Uma chamada de atenção, tanto para os doentes como para os PS’s envolvidos no seu tratamento, que o
+doente está a ser tratado com teriflunomida, um medicamento que:
+• Não deverá ser utilizado em mulheres grávidas
+• Necessita do uso concomitante de medidas de contraceção eficazes em mulheres com potencial para
+engravidar
+• Necessita de um teste de gravidez antes de iniciar o tratamento
+• Afeta a função hepática
+• Afeta a contagem de células sanguíneas e o sistema imunitário
+2. Informação para educar o doente sobre efeitos indesejáveis relevantes:
+• Para estar atento a certos sinais e sintomas que podem indicar doença hepática ou infeção, e para
+contactar imediatamente o médico/PS, caso estes ocorram
+• Recordar às doentes que devem informar os seus médicos se estiverem a amamentar
+• Um lembrete para mulheres com potencial para engravidar incluindo raparigas e os seus
+pais/cuidadores
+o Para a utilização de medidas de contraceção eficazes durante e após o tratamento com
+teriflunomida
+o Que o seu médico irá fornecer aconselhamento sobre os potenciais riscos para o feto e a
+necessidade de contraceção eficaz
+o Interromper imediatamente o tratamento com teriflunomida caso suspeite que possa estar
+grávida e para contactar imediatamente o seu médico
+• Um lembrete para pais/cuidadores ou raparigas:
+o Para contactar o seu médico quando a doente tiver a primeira menstruação a fim de obter
+o
+
+aconselhamento sobre a contraceção e o risco potencial para o feto
+
+Se mulheres com potencial para engravidar ficarem grávidas:
+• Recordar as doentes e PS’s relativamente ao procedimento de eliminação acelerada
+27
+
+Recordar as doentes e PS’s relativamente ao Registo de Gravidez (nos países onde o
+registo de gravidez esteja em curso)
+• Recordar os doentes para mostrar o Cartão Educacional aos Médicos/PS’s envolvidos no tratamento
+médico (especialmente no caso de uma emergência médica e/ou se novos Médicos/PS’s estiverem
+envolvidos)
+• Registar a data da primeira prescrição e os detalhes de contacto dos seus prescritores
+3. Incentivar os doentes para ler completamente o FI
+•
+
+28
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+29
+
+A. ROTULAGEM
+
+30
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+AUBAGIO 7 mg comprimidos revestidos por película
+teriflunomida
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 7 mg de teriflunomida.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém também: lactose. Ver folheto informativo para mais informações.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+28 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DA
+VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+31
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
+França
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/13/838/006 28 comprimidos
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+AUBAGIO 7 MG
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC:
+SN:
+NN:
+
+32
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO INTERMÉDIO
+CARTEIRA
+1.
+
+NOME DO MEDICAMENTO
+
+AUBAGIO 7 mg comprimidos revestidos por película
+teriflunomida
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 7 mg de teriflunomida.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém também: lactose. Ver folheto informativo para mais informações.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+28 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+Dias do calendário
+Seg
+Ter
+Qua
+Qui
+Sex
+Sáb
+Dom
+Mais informação em Aubagio
+Código QR a incluir + www.qr-aubagio-sanofi.eu
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DA
+VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL
+33
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
+França
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+34
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS CONTENTORAS
+BLISTER PARA CARTEIRA
+1.
+
+NOME DO MEDICAMENTO
+
+AUBAGIO 7 mg
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+OUTRAS
+
+35
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+AUBAGIO 14 mg comprimidos revestidos por película
+teriflunomida
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 14 mg de teriflunomida.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém também: lactose. Ver folheto informativo para mais informações.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+14 comprimidos revestidos por película
+28 comprimidos revestidos por película
+84 (3 carteiras de 28) comprimidos revestidos por película
+98 (7 carteiras de 14) comprimidos revestidos por película
+10x1 comprimido revestido por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DA
+VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+36
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
+França
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/13/838/001 14 comprimidos
+EU/1/13/838/002 28 comprimidos
+EU/1/13/838/003 84 comprimidos
+EU/1/13/838/004 98 comprimidos
+EU/1/13/838/005 10x1 comprimido
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+AUBAGIO 14 MG
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC:
+SN:
+NN:
+
+37
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO INTERMÉDIO
+CARTEIRA
+1.
+
+NOME DO MEDICAMENTO
+
+AUBAGIO 14 mg comprimidos revestidos por película
+teriflunomida
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 14 mg de teriflunomida.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém também: lactose. Ver folheto informativo para mais informações.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+14 comprimidos revestidos por película
+28 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+Dias de calendário
+Seg
+Ter
+Qua
+Qui
+Sex
+Sáb
+Dom
+Mais infomação em Aubagio.
+Código QR a incluir +www.qr-aubagio-sanofi.eu
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DA
+VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+38
+
+VAL
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
+França
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+39
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS "BLISTER" OU FITAS
+CONTENTORAS
+BLISTER DE DOSE UNITÁRIA
+1.
+
+NOME DO MEDICAMENTO
+
+AUBAGIO 14 mg comprimidos
+teriflunomida
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Sanofi Winthrop Industrie
+3.
+
+PRAZO DE VALIDADE
+
+VAL
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+OUTRAS
+
+40
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS "BLISTER" OU FITAS
+CONTENTORAS
+BLISTER PARA CARTEIRA
+1.
+
+NOME DO MEDICAMENTO
+
+AUBAGIO 14 mg
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+OUTRAS
+
+41
+
+B. FOLHETO INFORMATIVO
+
+42
+
+Folheto informativo: Informação para o doente
+AUBAGIO 7 mg comprimidos revestidos por película
+AUBAGIO 14 mg comprimidos revestidos por película
+teriflunomida
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode ser-lhes
+prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+O que contém este folheto:
+1. O que é AUBAGIO e para que é utilizado
+2. O que precisa de saber antes de tomar AUBAGIO
+3. Como tomar AUBAGIO
+4. Efeitos indesejáveis possíveis
+5. Como conservar AUBAGIO
+6. Conteúdo da embalagem e outras informações
+1.
+
+O que é AUBAGIO e para que é utilizado
+
+O que é AUBAGIO
+AUBAGIO contém a substância ativa teriflunomida que é um agente imunomodulador e adapta o sistema
+imunitário para limitar o seu ataque ao sistema nervoso.
+Para que é utilizado AUBAGIO
+AUBAGIO é utilizado em adultos e em crianças e adolescentes (10 ou mais anos de idade) para tratar
+esclerose múltipla surto-remissão (EM).
+O que é a esclerose múltipla
+A EM é uma doença de longo prazo que afeta o sistema nervoso central (SNC). O SNC é constituído pelo
+cérebro e medula espinal. Na esclerose múltipla, a inflamação destrói a bainha protetora (chamada mielina)
+que reveste os nervos no SNC. Este processo denomina-se desmielinização. Isto impede o funcionamento
+correto dos nervos.
+As pessoas com uma forma recorrente de esclerose múltipla apresentam episódios repetidos (surtos) de
+sintomas físicos provocados por um funcionamento incorreto dos nervos. Estes sintomas variam de doente
+para doente, mas costumam envolver:
+•
+dificuldade em andar
+•
+problemas na visão
+•
+problemas de equilíbrio.
+Os sintomas podem desaparecer completamente depois do surto terminar, mas ao longo do tempo, podem
+manter-se alguns problemas entre surtos. Isto pode resultar em incapacidade física que pode interferir com a
+sua atividade diária.
+Como funciona o AUBAGIO
+AUBAGIO ajuda a proteger o sistema nervoso central contra ataques do sistema imunitário, ao limitar o
+aumento de algumas células brancas no sangue (linfócitos). Isto limita a inflamação que leva à lesão do
+nervo na EM.
+
+43
+
+2.
+
+O que precisa de saber antes de tomar AUBAGIO
+
+Não tome AUBAGIO:
+se tem alergia à teriflunomida ou a qualquer outro componente deste medicamento (indicados na
+secção 6),
+se alguma vez desenvolveu uma erupção cutânea grave ou descamação da pele, bolhas e/ou feridas na
+boca após tomar teriflunomida ou leflunomida,
+se tem problemas de fígado graves,
+se está grávida, se pensa estar grávida ou se está a amamentar,
+se sofre de qualquer problema grave que afeta o seu sistema imunitário p. ex., síndrome da
+imunodeficiência adquirida (SIDA),
+se tem qualquer problema grave na medula óssea, ou se tem um número baixo de glóbulos vermelhos
+ou brancos no sangue, ou um número baixo de plaquetas no sangue,
+se sofre de uma infeção grave,
+se tem problemas renais graves que necessitem de diálise,
+se tem um número excessivamente baixo de proteínas no sangue (hipoproteinemia),
+Se não tiver a certeza, fale com o seu médico ou farmacêutico antes de tomar este medicamento.
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes de tomar AUBAGIO se:
+tiver problemas de fígado e/ou consome uma quantidade substancial de álcool. O seu médico
+poderá realizar análises ao sangue para verificar o funcionamento do fígado, antes e durante o
+tratamento. Se os resultados da análise indicarem um problema no fígado, o seu médico poderá
+interromper o tratamento com AUBAGIO. Consulte a secção 4.
+tiver tensão arterial alta (hipertensão), independentemente de estar ou não controlada por
+medicamentos. AUBAGIO pode provocar um aumento da tensão arterial. O seu médico irá verificar a
+sua tensão arterial antes de começar o tratamento e regularmente a partir daí. Consulte a secção 4.
+tiver uma infeção. Antes de tomar AUBAGIO, o seu médico irá assegurar-se que tem glóbulos
+brancos e plaquetas suficientes no sangue. Como o AUBAGIO diminui o número de células brancas
+no sangue, isto pode afetar a sua habilidade para lutar contra a infeção. O seu médico poderá realizar
+análises ao sangue para verificar os seus glóbulos brancos, se acha que tem uma infeção. Consulte a
+secção 4.
+tiver reacções cutâneas graves.
+tiver sintomas respiratórios.
+tiver fraqueza, dormência e dor nas mãos e pés.
+vai ser vacinado.
+tomar leflunomida com AUBAGIO.
+estiver a mudar de ou para AUBAGIO.
+está prestes a fazer uma análise específica ao sangue (nível de cálcio). Podem ser detetados níveis de
+cálcio falsamente baixos.
+Reações respiratórias
+Informe o seu médico se tiver tosse inexplicável e dispneia (falta de ar). O seu médico poderá realizar testes
+adicionais.
+Crianças e adolescentes
+AUBAGIO não se destina à utilização em crianças com menos de 10 anos de idade, uma vez que não foi
+estudado em doentes com EM nesta faixa etária.
+As advertências e precauções listadas acima também se aplicam a crianças. A seguinte informação é
+importante para crianças e seus cuidadores:
+foi observada inflamação do pâncreas em doentes a receber teriflunomida. O médico do seu filho
+pode fazer exames ao sangue caso suspeite de uma inflamação do pâncreas.
+Outros medicamentos e AUBAGIO
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a tomar
+outros medicamentos. Isto inclui medicamentos obtidos sem receita médica.
+44
+
+Em particular, fale com o seu médico ou farmacêutico se estiver a tomar um dos seguintes:
+leflunomida, metotrexato e outros medicamentos que afetam o sistema imunitário (normalmente
+chamados imunossupressores ou imunomoduladores)
+rifampicina (um medicamento utilizado para o tratamento da tuberculose e outras infeções)
+carbamazepina, fenobarbital, fenitoína para a epilepsia
+Hipericão ou erva de S. João (um medicamento homeopático para a depressão)
+repaglinida, pioglitazona, nateglinida ou rosiglitazona para a diabetes
+daunorrubicina, doxorrubicina, paclitaxel, ou topotecano para o cancro
+duloxetina para a depressão, incontinência urinária ou doença renal na diabetes
+alosetron para o tratamento da diarreia grave
+teofilina para a asma
+tizanidina, um relaxante muscular
+varfarina, um medicamento anticoagulante que torna o sangue mais fluido para evitar a formação de
+coágulos sanguíneos
+contracetivos orais (que contenham etinilestradiol e levonorgestrel)
+cefaclor, penicilina G, ciprofloxacina para infeções
+indometacina, cetoprofeno para dores ou inflamação
+furosemida para doença cardíaca
+cimetidina para redução do ácido gástrico
+zidovudina para a SIDA
+rosuvastatina, sinvastatina, atorvastatina, pravastatina para hipercolesterolemia (colesterol alto)
+sulfasalazina para a doença inflamatória do intestino e artrite reumatóide
+colestiramina para o colesterol alto ou alívio da comichão na doença do fígado
+carvão ativado para reduzir a absorção de medicamentos ou outras substâncias
+Gravidez e amamentação
+Não tome AUBAGIO se estiver grávida ou se suspeitar que possa estar grávida. Se estiver grávida ou
+engravidar enquanto estiver a tomar AUBAGIO, existe um maior risco de defeitos congénitos (defeitos de
+nascimento) para o bebé. As mulheres com potencial para engravidar não devem tomar este medicamento
+sem utilizar métodos contracetivos eficazes.
+Se a sua filha tiver a primeira menstruação enquanto toma AUBAGIO, deverá informar o médico, que
+fornecerá aconselhamento especializado relativamente à contraceção e o potencial risco em caso de gravidez.
+Fale com o seu médico se planear engravidar depois de interromper o tratamento com AUBAGIO, uma vez
+que é necessário assegurar que o nível deste medicamento no seu sangue é suficientemente baixo antes de
+tentar engravidar. Para ocorrer naturalmente, a eliminação da substância ativa pode demorar até 2 anos. Este
+período pode ser reduzido para algumas semanas ao tomar certos medicamentos que aceleram a remoção de
+AUBAGIO do seu corpo.
+Em qualquer caso, deve ser realizada uma análise ao sangue para confirmar, que a substância ativa foi
+suficientemente removida do seu corpo e, é necessária uma confirmação do seu médico de que o nível de
+AUBAGIO no sangue é suficientemente baixo para permitir engravidar.
+Fale com o seu médico para obter mais informações sobre as análises laboratoriais.
+Se suspeitar de que está grávida enquanto tomar AUBAGIO ou no período de dois anos após a interrupção
+do tratamento, terá de descontinuar AUBAGIO e contactar o seu médico imediatamente para fazer um teste
+de gravidez. Se o teste confirmar a gravidez, o seu médico poderá sugerir o tratamento com certos
+medicamentos que removem AUBAGIO rapidamente e suficientemente do corpo, uma vez que tal poderá
+diminuir o risco para o seu bebé.
+Contraceção
+Deve utilizar um método eficaz de contraceção durante e após o tratamento com AUBAGIO. A
+teriflunomida permanece no sangue durante um longo período de tempo depois de interromper o tratamento.
+Mantenha a utilização de um método contracetivo eficaz depois de interromper o tratamento.
+•
+Continue a contraceção até que o nível de AUBAGIO no sangue seja suficientemente baixo – o seu
+médico irá verificar isso.
+
+45
+
+•
+
+Fale com o seu médico para saber qual o melhor método contracetivo para si e se for necessário uma
+alteração da contraceção.
+
+Não tome AUBAGIO se estiver a amamentar, uma vez que a teriflunomida é excretada no leite materno.
+Condução de veículos e utilização de máquinas
+AUBAGIO pode provocar tonturas que afetam a sua capacidade de concentração e de reação. Se for afetado,
+não conduza nem utilize máquinas.
+AUBAGIO contém lactose
+AUBAGIO contém lactose (um tipo de açúcar). Se souber através do seu médico que é intolerante a alguns
+açúcares, contate o seu médico antes de tomar este medicamento.
+AUBAGIO contém sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido, ou seja, é praticamente
+“isento de sódio”.
+3.
+
+Como tomar AUBAGIO
+
+O tratamento com AUBAGIO será supervisionado por um médico com experiência no tratamento da
+esclerose múltipla.
+Tome este medicamento exatamente como indicado pelo seu médico. Fale com o seu médico se tiver
+dúvidas.
+Adultos
+A dose recomendada é um comprimido de 14 mg por dia.
+Crianças e adolescentes (10 ou mais anos de idade)
+A dose depende do peso corporal:
+Crianças e adolescentes com peso corporal superior a 40 kg: um comprimido de 14 mg por dia.
+Crianças e adolescentes com peso corporal igual ou inferior a 40 kg: um comprimido de 7 mg por dia.
+Crianças e adolescentes que atingem um peso corporal estável acima de 40 kg serão instruídos pelo seu
+médico a mudar para um comprimido de 14 mg por dia.
+Via/modo de administração
+AUBAGIO é tomado por via oral. AUBAGIO é tomado todos os dias, uma única vez por dia, a qualquer
+hora.
+Deve engolir o comprimido inteiro com alguma água.
+AUBAGIO pode ser tomado com ou sem alimentos.
+Se tomar mais AUBAGIO do que deveria
+Se tiver tomado demasiado AUBAGIO, fale com o seu médico imediatamente. Pode sentir efeitos
+indesejáveis semelhantes aos descritos na secção 4 em baixo.
+Caso se tenha esquecido de tomar AUBAGIO
+Não tome uma dose a dobrar para compensar um comprimido que se esqueceu de tomar. Tome a dose
+seguinte à hora marcada.
+Se parar de tomar AUBAGIO
+Não deixe de tomar AUBAGIO nem altere a sua dose sem falar primeiro com o seu médico.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+
+46
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Os seguintes efeitos indesejáveis podem surgir com este medicamento.
+Efeitos indesejáveis graves
+Alguns efeitos indesejáveis podem ser ou tornar-se graves, se lhe ocorrer alguma destas situações, informe
+imediatamente o seu médico.
+Frequentes (podem afetar até 1 em 10 pessoas)
+inflamação do pâncreas que pode incluir sintomas como dor na região abdominal, náuseas ou vómitos
+(a frequência é classificada como frequente em doentes pediátricos e pouco frequente em doentes
+adultos).
+Pouco frequente (podem afetar até 1 em 100 pessoas)
+reações alérgicas que podem incluir sintomas de erupção cutânea, urticária, inchaço dos lábios, língua
+ou face ou dificuldade em respirar súbita
+reações da pele severas que podem incluir sintomas de erupção cutânea, formação de bolhas, febre ou
+úlceras na boca
+infeções graves ou sepsis (um tipo de infeção potencialmente fatal) que pode incluir sintomas como
+febre alta, tremores, arrepios, diminuição do fluxo urinário, ou confusão
+inflamação dos pulmões que pode incluir sintomas de falta de ar ou tosse persistente
+Desconhecidas (a frequência não pode ser calculada a partir dos dados disponíveis):
+doença no fígadograve que pode incluir sintomas como amarelecimento da pele ou da parte branca
+dos olhos, urina mais escura que o normal, náuseas e vómitos sem explicação, ou dor abdominal
+Podem ocorrer outros efeitos indesejáveis com a seguinte frequência:
+Muito frequentes (podem afetar mais de 1 em 10 pessoas)
+Dor de cabeça
+Diarreia, enjoo
+Aumento da ALT (aumento nos níveis de certas enzimas hepáticas no sangue) indicado nas análises
+Adelgaçamento dos pelos/cabelo
+Frequentes (podem afetar até 1 em 10 pessoas)
+Gripe, infeção das vias respiratórias superiores, infeção do trato urinário, bronquite, sinusite, garganta
+inflamada e sensação de desconforto ao engolir, cistite, gastroenterite viral, herpes oral, infeção
+dentária, laringite, infeção fúngica do pé
+Valores laboratoriais: uma diminuição no número de glóbulos vermelhos (anemia), alterações nos
+resultados dos testes do fígado e nos glóbulos brancos (ver secção 2), também foram observados
+aumentos de uma enzima muscular (creatina fosfoquinase).
+Reações alérgicas ligeiras
+Sensação de ansiedade
+Sensação de picadas, fraqueza, dormência, formigueiro ou dor na parte inferior das costas ou nas
+pernas (ciática); sensação de dormência, ardor, formigueiro ou dor nas mãos e dedos (síndrome do
+canal cárpico);
+Sentir o coração a bater
+Aumento da tensão arterial
+Enjoo (vómitos), dor de dentes, dor abdominal superior
+Erupção cutânea, acne
+Dor nos tendões, articulações, ossos (dor musculosquelética), dor muscular
+Necessidade de urinar com maior frequência
+Menstruações abundantes
+Dor
+Falta de energia ou sentir-se cansado (astenia)
+47
+
+-
+
+Perda de peso
+
+Pouco frequentes (podem afetar até 1 em 100 pessoas)
+Diminuição no número de plaquetas (trombocitopenia ligeira)
+Sensação ou sensibilidade aumentada, especialmente na pele; dor aguda ou pulsátil em um ou mais
+nervos, problemas nos nervos dos braços ou pernas (neuropatia periférica)
+Doenças ungueais, reações cutâneas graves
+Dor pós-traumática
+Psoríase
+Inflamação da boca/lábios
+Níveis anormais de gordura (lípidos) no sangue
+Inflamação do cólon (colite)
+Raros (pode efetar até 1 em 1.000 pessoas)
+Inflamação ou lesão no fígado
+Desconhecido (a frequência não pode ser calculada a partir dos dados disponíveis)
+Hipertensão respiratória
+Crianças (10 ou mais anos de idade) e adolescentes
+Os efeitos indesejáveis listados acima também se aplicam a crianças e adolescentes. A seguinte informação
+adicional é importante para crianças, adolescentes e seus cuidadores:
+Frequentes (podem afetar até 1 em 10 pessoas)
+Inflamação do pâncreas
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste folheto,
+fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis diretamente através
+do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar efeitos indesejáveis, estará a
+ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar AUBAGIO
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e na carteira, após
+“VAL“. O prazo de validade corresponde ao último dia do mês indicado.
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico
+como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger o ambiente.
+
+48
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de AUBAGIO
+A substância ativa é a teriflunomida.
+AUBAGIO 7 mg comprimidos revestidos por película
+Cada comprimido contém 7 mg de teriflunomida.
+Os outros componentes são lactose monohidratada, amido de milho, celulose microcristalina,
+glicolato de amido sódico (Tipo A), hidroxipropilcelulose, estearato de magnésio, hipromelose,
+dióxido de titânio (E171), talco, macrogol 8000, laca de alumínio índigo carmim (E132) e óxido de
+ferro amarelo (E172) (ver secção 2 “Aubagio contém lactose”).
+AUBAGIO 14 mg comprimidos revestidos por película
+Cada comprimido contém 14 mg de teriflunomida.
+Os outros componentes são lactose monohidratada, amido de milho, celulose microcristalina,
+glicolato de amido sódico (Tipo A), hidroxipropilcelulose, estearato de magnésio, hipromelose,
+dióxido de titânio (E171), talco, macrogol 8000, laca de alumínio índigo carmim (E132) (ver secção
+2 “Aubagio contém lactose”).
+Qual o aspeto de AUBAGIO e conteúdo da embalagem
+AUBAGIO 7 mg comprimidos revestidos por película (comprimidos)
+Os comprimido revestidos por película são cinzento esverdeado-azulado muito claro a azul-esverdeado
+pálido, comprimidos revestidos por película hexagonais, com impressão num dos lados (“7") e com o
+logótipo da empresa em relevo no outro lado.
+AUBAGIO 7 mg comprimidos revestidos por película estão disponíveis em embalagens de cartão que
+contêm 28 comprimidos numa carteira com os blisters integrados.
+AUBAGIO 14 mg comprimidos revestidos por película (comprimidos)
+Os comprimidos revestidos por película são azul pálido a azul pastel, comprimidos revestidos por película
+pentagonais, com impressão num dos lados ("14") e um logótipo da empresa em relevo no outro lado.
+AUBAGIO 14 mg comprimidos revestidos por película estão disponíveis em embalagens de cartão que
+contêm:
+14, 28, 84 e 98 comprimidos em carteiras com blisters integrados;
+10x1 comprimidos em blisters perfurados de dose unitária.
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado:
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
+França
+Fabricante:
+Opella Healthcare International SAS
+56, Route de Choisy
+60200
+Compiègne
+França
+Sanofi Winthrop Industrie
+30-36, avenue Gustave Eiffel
+37100 Tours
+França
+49
+
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da
+Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Sanofi Belgium
+Tel/Tél/Tel : +32 (0)2 710 54 00
+
+Lietuva
+Swixx Biopharma UAB
+Tel: +370 5 236 91 40
+
+България
+Swixx Biopharma EOOD
+Тел.: +359 (0)2 4942 480
+
+Luxembourg/Luxemburg
+Sanofi Belgium
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
+Česká republika
+sanofi-aventis, s.r.o.
+Tel: +420 233 086 111
+
+Magyarország
+SANOFI-AVENTIS Zrt.
+Tel: +36 1 505 0050
+
+Danmark
+sanofi A/S
+Tlf: +45 45 16 70 00
+
+Malta
+Sanofi S.r.l.
+Tel: +39 02 39394275
+
+Deutschland
+Sanofi-Aventis Deutschland GmbH
+Tel.: 0800 04 36 996
+Tel. aus dem Ausland: +49 69 305 70 13
+
+Nederland
+Sanofi B.V.
+Tel: +31 20 245 4000
+
+Eesti
+Swixx Biopharma OÜ
+Tel: +372 640 10 30
+
+Norge
+sanofi-aventis Norge AS
+Tlf: +47 67 10 71 00
+
+Ελλάδα
+Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
+Τηλ: +30 210 900 16 00
+
+Österreich
+sanofi-aventis GmbH
+Tel: +43 1 80 185 – 0
+
+España
+sanofi-aventis S.A.
+Tel: +34 93 485 94 00
+
+Polska
+sanofi-aventis Sp. z o.o.
+Tel: +48 22 280 00 00
+
+France
+Sanofi Winthrop Industrie
+Tél: 0 800 222 555
+Appel depuis l’étranger: +33 1 57 63 23 23
+
+Portugal
+Sanofi - Produtos Farmacêuticos, Lda
+Tel: +351 21 35 89 400
+
+Hrvatska
+Swixx Biopharma d.o.o.
+Tel: +385 1 2078 500
+
+România
+Sanofi Romania SRL
+Tel: +40 (0) 21 317 31 36
+
+Ireland
+sanofi-aventis Ireland Ltd. T/A SANOFI
+Tel: +353 (0) 1 403 56 00
+
+Slovenija
+Swixx Biopharma d.o.o.
+Tel: +386 1 235 51 00
+
+Ísland
+Vistor hf.
+Sími: +354 535 7000
+
+Slovenská republika
+Swixx Biopharma s.r.o.
+Tel: +421 2 208 33 600
+
+Italia
+Sanofi S.r.l.
+Tel: 800536389
+
+Suomi/Finland
+Sanofi Oy
+Puh/Tel: +358 (0) 201 200 300
+50
+
+Κύπρος
+C.A. Papaellinas Ltd.
+Τηλ: +357 22 741741
+
+Sverige
+Sanofi AB
+Tel: +46 (0) 8 634 5000
+
+Latvia
+Swixx Biopharma SIA
+Tel: +371 6 616 47 50
+
+United Kingdom (Northern Ireland)
+sanofi-aventis Ireland Ltd. T/A SANOFI
+Tel: +44 (0) 800 035 2525
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência Europeia
+de Medicamentos: http://www.ema.europa.eu.
+Pode também encontrar uma cópia do folheto informativo e um cartão do doente com informação de
+segurança no código QR code mencionado abaixo.
+Código QR a ser incluído + www.qr-aubagio-sanofi.eu
+
+51
+
+

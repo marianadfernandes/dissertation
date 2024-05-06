@@ -1,0 +1,2041 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+
+1.
+
+NOME DO MEDICAMENTO
+
+Leqvio 284 mg solução injetável em seringa pré-cheia
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada seringa pré-cheia contém inclisiran sódico equivalente a 284 mg de inclisiran em 1,5 ml de
+solução.
+Cada ml contém inclisiran sódico equivalente a 189 mg de inclisiran.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Solução injetável (injetável).
+A solução é límpida, incolor a amarelo pálido e praticamente livre de partículas.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Leqvio é indicado para o tratamento de adultos com hipercolesterolemia primária (familiar
+heterozigótica e não familiar) ou dislipidemia mista, como complemento à dieta:
+•
+em combinação com uma estatina ou uma estatina com outras terapêuticas hipolipemiantes em
+doentes que não atingem os valores recomendados de C-LDL com a dose máxima tolerada de
+estatina, ou
+•
+isoladamente ou em combinação com outras terapêuticas hipolipemiantes em doentes
+intolerantes a estatinas, ou nos quais as estatinas estejam contraindicadas.
+4.2
+
+Posologia e modo de administração
+
+Posologia
+A dose recomendada é 284 mg de inclisiran, administrada como uma única injeção subcutânea: no
+início do tratamento, novamente após 3 meses e depois a cada 6 meses.
+Doses esquecidas
+Se uma dose planeada for esquecida durante menos de 3 meses, o inclisiran deve ser administrado e a
+administração deve continuar de acordo com o esquema posológico original do doente.
+Se a dose planeada for esquecida durante mais de 3 meses, deve ser iniciado um novo ciclo de
+tratamento – o inclisiran deve ser administrado no início, novamente após 3 meses, seguido de uma
+vez a cada 6 meses.
+
+2
+
+Transição do tratamento com anticorpos monoclonais inibidores da PCSK9
+O inclisiran pode ser administrado imediatamente após a última dose de um anticorpo monoclonal
+inibidor da PCSK9. Para manter a redução de C-LDL, recomenda-se que inclisiran seja administrado
+dentro de 2 semanas após a última dose do anticorpo monoclonal inibidor da PCSK9.
+Populações especiais
+Idosos (idade ≥65 anos)
+Não é necessário ajuste posológico em doentes idosos.
+Compromisso hepático
+Não é necessário ajuste posológico em doentes com compromisso hepático ligeiro (Child-Pugh
+classe A) ou moderado (Child-Pugh classe B). Não existem dados disponíveis em doentes com
+compromisso hepático grave (Child-Pugh classe C) (ver secção 5.2). O inclisiran deve ser utilizado
+com precaução em doentes com compromisso hepático grave.
+Compromisso renal
+Não é necessário ajuste posológico em doentes com compromisso renal ligeiro, moderado ou grave, ou
+doentes com doença renal terminal (ver secção 5.2). A experiência com inclisiran em doentes com
+insuficiência renal grave é limitada. O inclisiran deve ser utilizado com precaução nestes doentes. Ver
+secção 4.4 para precauções a tomar em caso de hemodiálise.
+População pediátrica
+A segurança e eficácia de inclisiran em crianças com menos de 18 anos não foram ainda estabelecidas.
+Não existem dados disponíveis.
+Modo de administração
+Via subcutânea.
+O inclisiran é administrado por injeção subcutânea no abdómen; em alternativa pode ser administrado
+na parte superior do braço ou na coxa. Não devem ser administradas injeções em locais com doenças
+ou lesões cutâneas ativas, tais como queimaduras solares, erupções cutâneas, inflamação ou infeções
+cutâneas.
+Cada dose de 284 mg é administrada utilizando uma única seringa pré-cheia. Cada seringa pré-cheia
+destina-se a uma única utilização.
+O inclisiran destina-se a ser administrado por um profissional de saúde.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Hemodiálise
+O efeito da hemodiálise na farmacocinética do inclisiran não foi estudado. Tendo em consideração que
+inclisiran é eliminado por via renal, a hemodiálise não deve ser realizada durante, pelo menos,
+72 horas após a administração de inclisiran.
+Teor de sódio
+Este medicamento contém menos de 1 mmol (23 mg) de sódio por dose, ou seja, é praticamente
+“isento de sódio”.
+
+3
+
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+O inclisiran não é substrato dos transportadores comuns de medicamentos e, embora não tenham sido
+realizados estudos in vitro, não se prevê que seja substrato do citocromo P450. O inclisiran não é
+inibidor ou indutor das enzimas do citocromo P450 ou transportadores comuns de medicamentos.
+Portanto, não é expectável que o inclisiran tenha interações clinicamente significativas com outros
+medicamentos. Com base nos poucos dados disponíveis, não são expectáveis interações clinicamente
+significativas com atorvastatina, rosuvastatina ou com outras estatinas.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+A quantidade de dados sobre a utilização de inclisiran em mulheres grávidas, é limitada ou inexistente.
+Os estudos em animais não indicam efeitos nefastos diretos ou indiretos no que respeita à toxicidade
+reprodutiva (ver secção 5.3). Como medida de precaução, é preferível evitar a utilização de inclisiran
+durante a gravidez.
+Amamentação
+Desconhece-se se inclisiran é excretado no leite humano. Os dados farmacodinâmicos/toxicológicos
+disponíveis em animais mostraram excreção de inclisiran no leite (para mais pormenores ver
+secção 5.3). Não pode ser excluído qualquer risco para os recém-nascidos/lactentes.
+Tem que ser tomada uma decisão sobre a descontinuação da amamentação ou a
+descontinuação/abstenção da terapêutica com inclisiran tendo em conta o benefício da amamentação
+para a criança e o benefício da terapêutica para a mulher.
+Fertilidade
+Não existem dados disponíveis sobre o efeito de inclisiran na fertilidade humana. Os estudos em
+animais não demonstraram quaisquer efeitos na fertilidade (ver secção 5.3).
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Leqvio sobre a capacidade de conduzir ou utilizar máquinas são desprezáveis.
+4.8
+
+Efeitos indesejáveis
+
+Sumário do perfil de segurança
+As únicas reações adversas associadas ao inclisiran foram reações adversas no local da injeção (8,2%).
+Lista tabelada de reações adversas
+As reações adversas são apresentadas por classes de sistemas de orgãos (Tabela 1). As categorias de
+frequência são definidas como: Muito frequentes (≥1/10); Frequentes (≥1/100 a <1/10); Pouco
+frequentes (≥1/1.000 a <1/100); Raros (≥1/10.000 a <1/1.000); Muito raros (<1/10.000) e
+Desconhecido (não pode ser calculado a partir dos dados disponíveis).
+Tabela 1
+
+Reações adversas notificadas em doentes tratados com inclisiran
+
+Classes de sistemas de orgãos
+Perturbações gerais e alterações
+no local de administração
+1
+
+Reação Adversa
+Reações adversas no local da
+injeção1
+
+Ver secção “Descrição de reações adversas selecionadas”
+
+4
+
+Categoria de frequência
+Frequentes
+
+Descrição de reações adversas selecionadas
+Reações adversas no local da injeção
+Ocorreram reações adversas no local da injeção em 8,2% e 1,8% dos doentes com inclisiran e placebo,
+respetivamente. A percentagem dos doentes em cada grupo que descontinuaram a terapêutica devido a
+reações adversas no local de injeção foi de 0,2% e 0,0%, respetivamente. Todas estas reações adversas
+foram ligeiras ou moderadas, transitórias e resolvidas sem sequelas. As reações adversas no local da
+injeção, que ocorreram mais frequentemente em doentes tratados com inclisiran, foram reação no local
+da injeção (3,1%), dor no local da injeção (2,2%), eritema no local da injeção (1,6%) e erupção
+cutânea no local da injeção (0,7%).
+Populações especiais
+Idosos
+Dos 1.833 doentes tratados com inclisiran nos estudos principais, 981 (54%) tinham 65 anos de idade
+ou mais, enquanto 239 (13%) tinham 75 anos de idade ou mais. No geral, não foram observadas
+diferenças na segurança entre estes doentes e doentes mais jovens.
+Imunogenicidade
+Nos estudos principais, 1.830 doentes foram testados para anticorpos anti-medicamento. Foi
+confirmada positividade em 1,8% (33/1.830) dos doentes antes da administração, e em 4,9%
+(90/1.830) dos doentes durante os 18 meses de tratamento com inclisiran. Não foram observadas
+diferenças clinicamente significativas na eficácia clínica, segurança ou no perfil farmacodinâmico de
+inclisiran nos doentes que testaram positivo para anticorpos anti-inclisiran.
+Valores laboratoriais
+Nos estudos clínicos de fase III, elevações de transaminases hepáticas entre >1x o limite superior ao
+normal (LSN) e ≤3x LSN foram mais frequentes em doentes com inclisiran (ALT: 19,7% e AST:
+17,2%) do que em doentes com placebo (ALT: 13,6% e AST: 11,1%). Estas elevações não excederam
+o limite clinicamente relevante de 3x LSN, foram assintomáticas e não estiveram associadas a reações
+adversas ou outra evidência de disfunção hepática.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Nos foram observadas reações adversas clinicamente relevantes em voluntários saudáveis que
+receberam inclisiran em doses até três vezes a dose terapêutica. Não está disponível tratamento
+específico para sobredosagem com inclisiran. Em caso de sobredosagem, o doente deve receber
+tratamento sintomático e devem ser instituídas medidas de suporte, conforme necessário.
+
+5
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: antidislipidémicos, outros antidislipidémicos, código ATC: C10AX16
+Mecanismo de ação
+O inclisiran é um ácido ribonucleico de pequena interferência (siRNA), de dupla cadeia, que reduz os
+níveis de colesterol, conjugado na cadeia “sense” com um terminal de N-acetilgalactosamina
+(GalNAc) que facilita a sua entrada nos hepatócitos. Nos hepatócitos, o inclisiran utiliza o mecanismo
+de RNA de interferência e induz a clivagem catalítica do RNA mensageiro da pró-proteína convertase
+subtilisina quexina tipo 9. Isto aumenta a reciclagem e expressão dos recetores de C-LDL na superfície
+dos hepatócitos, o que faz aumentar a captação e diminuir os níveis séricos de C-LDL.
+Efeitos farmacodinâmicos
+Após uma única administração de 284 mg de inclisiran por via subcutânea, a redução de C-LDL foi
+evidente 14 dias após a dose. Observaram-se reduções médias de 49-51% de C-LDL 30 a 60 dias após
+a dose. Ao dia 180, os níveis de C-LDL sofreram uma redução de aproximadamente 53%.
+Eficácia e segurança clínicas
+Nos estudos clínicos e em algumas publicações, a dose de 284 mg de inclisiran é equivalente a, e
+referida como, 300 mg de inclisiran sal sódico.
+A eficácia de inclisiran foi avaliada em três estudos de fase III, em doentes com doença cardiovascular
+aterosclerótica (DCVAC) (doença coronária, doença cerebrovascular ou doença arterial periférica),
+equivalentes de risco de DCVAC (diabetes mellitus tipo 2, hipercolesterolemia familiar ou risco aos
+10 anos, superior ou igual a 20%, de sofrer evento cardiovascular avaliado pela Escala de Risco de
+Framingham ou equivalente) e/ou hipercolesterolemia familiar (HF). Os doentes estavam a receber a
+dose máxima tolerada de estatina, em combinação com ou sem outra terapêutica hipolipemiante, e
+precisaram de uma redução adicional dos níveis de C-LDL (doentes que não atingem os valores
+terapêuticos). Aproximadamente 17% dos doentes eram intolerantes a estatinas. Os doentes receberam
+injeções subcutâneas de 284 mg de inclisiran ou placebo no dia 1, dia 90, dia 270 e no dia 450. Os
+doentes foram seguidos até ao dia 540.
+O efeito de inclisiran na morbilidade e mortalidade cardiovascular ainda não foi determinado.
+Na análise agrupada de fase III, o inclisiran, administrado por via subcutânea, diminuiu o C-LDL entre
+50% e 55% logo ao dia 90 (Figura 1), o que se manteve durante a terapêutica a longo prazo. A redução
+máxima de C-LDL foi atingida ao dia 150 após uma segunda administração. Aumentos ligeiros, mas
+estatisticamente significativos, na redução de C-LDL até 65% foram associados a valores iniciais de
+C-LDL mais baixos (aproximadamente <2 mmol/l [77 mg/dl]), valores iniciais mais elevados de
+PCSK9 e doses e intensidades de estatinas mais elevadas.
+
+6
+
+Alteração percentual média desde o C-LDL de base em doentes com
+hipercolesterolemia primária e dislipidemia mista tratados com inclisiran
+comparativamente com placebo (análise agrupada)
+
+Alteração percentual média desde
+o valor de base
+
+Figura 1
+
+Placebo
+
+Inclisiran
+
+Meses
+Nº. de doentes
+Placebo
+Inclisiran
+
+DCVAC e risco equivalente de DCVAC
+Foram realizados dois estudos em doentes com DCVAC e risco equivalente de DCVAC (ORION-10 e
+ORION-11). Os doentes estavam a receber a dose máxima tolerada de estatinas, em combinação com
+ou sem outra terapêutica hipolipemiante, como por exemplo ezetimiba, e precisavam de redução
+adicional de C-LDL. Como é expectável que a diminuição de C-LDL melhore os resultados
+cardiovasculares, os objetivos co-primários em cada estudo foram a alteração percentual de C-LDL
+desde o valor de base até ao dia 510 comparativamente com placebo, e a alteração percentual ajustada
+ao tempo de C-LDL desde o valor de base, após o dia 90 e até ao dia 540 para estimar o efeito
+integrado de C-LDL ao longo do tempo.
+O ORION-10 foi um estudo multicêntrico, em dupla ocultação, aleatorizado, controlado por placebo,
+com duração de 18 meses, em 1.561 doentes com DCVAC.
+A idade média inicial foi 66 anos (faixa etária: 35 a 90 anos), 60% tinham ≥65 anos, 31% eram
+mulheres, 86% eram caucasianos, 13% eram negros, 1% eram asiáticos e 14% eram hispânicos ou
+latinos. O valor médio de base de C-LDL foi de 2,7 mmol/l (105 mg/dl). Sessenta e nove por cento
+(69%) estavam a tomar estatinas de alta intensidade, 19% estavam a tomar estatinas de intensidade
+moderada, 1% estavam a tomar estatinas de baixa intensidade e 11% não estavam a tomar estatinas.
+As estatinas mais administradas foram a atorvastatina e a rosuvastatina.
+O inclisiran reduziu significativamente a alteração percentual média de C-LDL desde o valor de base
+até ao dia 510 comparativamente com placebo em 52% (95% IC: -56%, -49%; p <0,0001) (Tabela 2).
+O inclisiran também diminuiu significativamente a alteração percentual ajustada ao tempo de C-LDL
+desde o valor de base, após o dia 90 e até ao dia 540 em 54% comparativamente com o placebo (95%
+IC: -56%, -51%; p <0,0001). Para resultados adicionais, ver Tabela 2.
+
+7
+
+Tabela 2
+
+Alteração percentual média desde o valor de base e diferença em relação ao placebo
+em parâmetros lipídicos no dia 510 no ORION-10
+
+Grupo de
+C-LDL
+Colesterol
+Não C-HDL
+tratamento
+total
+Valor médio de
+105
+181
+134
+base em mg/dl**
+Dia 510 (alteração percentual média desde o valor de base)
+Placebo (n=780)
+1
+0
+0
+Inclisiran (n=781)
+-51
+-34
+-47
+Diferença
+-52
+-33
+-47
+relativamente ao
+(-56, -49)
+(-35, -31)
+(-50, -44)
+placebo (LS média)
+(IC 95%)
+
+Apo-B
+
+Lp(a)*
+
+94
+
+122
+
+-2
+-45
+-43
+(-46, -41)
+
+4
+-22
+-26
+(-29, -22)
+
+*Ao dia 540; variação percentual mediana nos valores de Lp(a)
+**Valor médio de base em nmol/l para a Lp(a)
+
+Ao dia 510, foi atingido o valor alvo de C-LDL de <1,8 mmol/l (70 mg/dl) em 84% dos doentes com
+inclisiran com DCVAC comparativamente com 18% dos doentes com placebo.
+Foram observadas reduções consistentes e estatisticamente significativas (p<0,0001) na alteração
+percentual de C-LDL desde o valor de base até ao dia 510 e na alteração percentual ajustada ao tempo
+de C-LDL desde o valor de base, após o dia 90 e até ao dia 540 em todos os subgrupos
+independentemente dos dados demográficos de base, das características das doenças de base
+(incluindo sexo, idade, índice de massa corporal, raça e estatina de base), co-morbilidades e regiões
+geográficas.
+O ORION-11 foi um estudo internacional, multicêntrico, em dupla ocultação, aleatorizado, controlado
+por placebo, com a duração de 18 meses, em 1.617 doentes com DCVAC ou de equivalentes de risco
+de DCVAC. Mais de 75% dos doentes estavam a receber tratamento com estatinas de alta intensidade,
+87% dos doentes tinham DCVAC e 13% tinham equivalentes de risco de DCVAC.
+A idade média inicial foi 65 anos (faixa etária: 20 a 88 anos), 55% tinham ≥65 anos, 28% eram
+mulheres, 98% eram caucasianos, 1% eram negros ,1% eram asiáticos e 1% eram hispânicos ou
+latinos. O valor médio de base de C-LDL foi de 2,7 mmol/l (105 mg/dl). Setenta e oito por cento
+(78%) estavam a tomar estatinas de alta intensidade, 16% estavam a tomar estatinas de intensidade
+moderada, 0,4% estavam a tomar estatinas de baixa intensidade e 5% não estavam a tomar estatinas.
+As estatinas mais administradas foram a atorvastatina e a rosuvastatina.
+O inclisiran reduziu significativamente a alteração percentual média de C-LDL desde o valor de base
+até ao dia 510 comparativamente com placebo em 50% (95% IC: -53%, -47%; p<0,0001) (Tabela 3).
+O inclisiran também reduziu significativamente a alteração percentual ajustada ao tempo de C-LDL
+desde o valor de base, após o dia 90 e até ao dia 540 em 49% comparativamente com placebo (95%
+IC: -52%, -47%; p<0.0001). Para resultados adicionais, ver Tabela 3.
+
+8
+
+Tabela 3
+
+Alteração percentual média desde o valor de base e diferença em relação ao placebo
+em parâmetros lipídicos no dia 510 no ORION-11
+
+Grupo de
+C-LDL
+Colesterol
+Não C-HDL
+tratamento
+total
+Valor médio de
+105
+185
+136
+base em mg/dl**
+Dia 510 (alteração percentual média desde o valor de base)
+Placebo (n=807)
+4
+2
+2
+Inclisiran (n=810)
+-46
+-28
+-41
+Diferença em
+-50
+-30
+-43
+relação ao placebo
+(-53, -47)
+(-32, -28)
+(-46, -41)
+(LS média)
+(IC 95%)
+
+Apo-B
+
+Lp(a)*
+
+96
+
+107
+
+1
+-38
+-39
+(-41, -37)
+
+0
+-19
+-19
+(-21, -16)
+
+*Ao dia 540; alteração percentual mediana nos valores de Lp(a)
+**Valor médio de base em nmol/l para a Lp(a)
+
+Ao dia 510, foi atingido o valor alvo de C-LDL de <1,8 mmol/l (70 mg/dl) em 82% dos doentes
+tratados com inclisiran com DCVAC, comparativamente com 16% dos doentes com placebo. Em
+doentes com equivalentes de risco de DCVAC, o valor alvo de C-LDL de <2,6 mmol/l (100 mg/dl) foi
+atingido em 78% dos doentes tratados com inclisiran comparativamente com 31% dos doentes com
+placebo.
+Foram observadas reduções consistentes e estatisticamente significativas (p<0,05) na alteração
+percentual de C-LDL desde o valor de base até ao dia 510 e na alteração percentual ajustada ao tempo
+de C-LDL desde o valor de base, após o dia 90 e até ao dia 540 em todos os subgrupos
+independentemente dos dados demográficos de base, das características das doenças de base
+(incluindo sexo, idade, índice de massa corporal, raça e estatina de base), co-morbilidades e regiões
+geográficas.
+Hipercolesterolemia familiar heterozigótica
+O ORION-9 foi um estudo internacional, multicêntrico, em dupla ocultação, aleatorizado, controlado
+por placebo, com a duração de 18 meses, em 482 doentes com hipercolesterolemia familiar
+heterozigótica (HFHe). Todos os doentes estavam a tomar a dose máxima tolerada de estatinas, em
+combinação com ou sem outra terapêutica hipolipemiante, como por exemplo ezetimiba, e precisavam
+de redução adicional de C-LDL-C. O diagnóstico de HFHe foi realizado através de genotipagem ou
+através de critérios clínicos (“HF confirmada” utilizando quer os critérios de Simon Broome, quer os
+da Dutch Lipid Network da OMS)
+Os objetivos co-primários foram a alteração percentual de C-LDL desde o valor de base até ao dia 510
+comparativamente com placebo, e a alteração percentual ajustada ao tempo de C-LDL desde o valor
+de base, após o dia 90 e até ao dia 540 para estimar o efeito integrado de C-LDL ao longo do tempo.
+Os principais objetivos secundários foram a alteração absoluta de C-LDL desde o valor de base até ao
+dia 510, alteração absoluta ajustada ao tempo em C-LDL desde o valor de base, após o dia 90 e até ao
+dia 540 e a alteração percentual de base ao dia 510 da PCSK9, colesterol total, Apo-B, e colesterol
+não - C -HDL. Os objetivos secundários adicionais incluíram a, resposta individual ao inclisiran e a
+proporção de doentes que atingiram os objetivos lipídicos globais para o seu nível de risco de
+DCVAC.
+A idade média de base foi 55 anos (faixa etária: 21 a 80 anos), 22% tinham ≥65 anos, 53% eram
+mulheres, 94% eram caucasianos, 3% eram negros, 3% eram asiáticos e 3% eram hispânicos ou
+latinos. O valor médio de base de C-LDL-C foi 4,0 mmol/l (153 mg/dl). Setenta e quatro por cento
+(74%) estavam a tomar estatinas de alta intensidade, 15% estavam a tomar estatinas de intensidade
+moderada e 10% não estavam a tomar estatinas. Cinquenta e dois por cento (52%) dos doentes
+estavam a ser tratados com ezetimiba. As estatinas mais administradas foram a atorvastatina e a
+rosuvastatina.
+9
+
+O inclisiran reduziu significativamente a alteração média percentual de C-LDL desde o valor de base
+até ao dia 510 comparativamente com placebo em 48% (95% IC: -54%, -42%; p<0,0001) (Tabela 4).
+O inclisiran também reduziu significativamente a alteração percentual ajustada no tempo de C-LDL
+desde o valor de base, após o dia 90 e até ao dia 540 em 44% comparativamente com o placebo (95%
+IC: -48%, -40%; p<0,0001). Para resultados adicionais, ver Tabela 4.
+Tabela 4
+
+Alteração percentual média desde o valor de base e diferença em relação ao placebo
+nos parâmetros lipídicos no dia 510 no ORION-9
+
+Grupo de
+C-LDL
+Colesterol
+Não C-HDL
+tratamento
+total
+Valor médio de
+153
+231
+180
+base em ng/dl**
+Dia 510 (alteração percentual média desde o valor de base)
+Placebo (n=240)
+8
+7
+7
+Inclisiran (n=242)
+-40
+-25
+-35
+Diferença em
+-48
+-32
+-42
+relação ao placebo
+(-54, -42)
+(-36, -28)
+(-47, -37)
+(LS média)
+(IC 95%)
+
+Apo-B
+
+Lp(a)*
+
+124
+
+121
+
+3
+-33
+-36
+(-40, -32)
+
+4
+-13
+-17
+(-22, -12)
+
+*Ao dia 540; alteração percentual mediana nos valores Lp(a)
+**Valor médio de base em nmol/l para a Lp(a)
+
+Ao dia 510, 52,5% dos doentes com DCVAC tratados com inclisiran atingiram o valor alvo de C-LDL
+de <1,8 mmol/l (70 mg/dl) comparativamente com 1,4% dos doentes com DCVAC que receberam
+placebo; enquanto que, no grupo de equivalentes de risco de DCVAC, 66,9% dos doentes tratados
+com inclisiran atingiram o valor alvo de C-LDL de <2,6 mmol/l (100 mg/dl) comparativamente com
+8,9% dos doentes com placebo.
+Foram observadas reduções consistentes e estatisticamente significativas (p<0,05) na alteração
+percentual de C-LDL desde o valor de base até ao dia 510 e na alteração percentual ajustada ao tempo
+de C-LDL desde o valor de base, após o dia 90 e até ao dia 540 em todos os subgrupos
+independentemente dos dados demográficos de base, das características das doenças de base
+(incluindo sexo, idade, índice de massa corporal, raça e estatina de base), co-morbilidades e regiões
+geográficas.
+População pediátrica
+A Agência Europeia de Medicamentos diferiu a obrigação de apresentação dos resultados dos estudos
+com inclisiran em um ou mais subgrupos da população pediátrica no tratamento do colesterol elevado
+(ver secção 4.2 para informação sobre utilização pediátrica).
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+Após uma administração subcutânea, a exposição sistémica ao inclisiran sofreu um aumento
+aproximadamente proporcional à dose, entre os 24 mg a 756 mg. No esquema posológico
+recomendado de 284 mg, as concentrações plasmáticas atingiram o pico em aproximadamente 4 horas
+após a administração, com uma Cmax média de 509 ng/ml. As concentrações atingiram níveis
+indetetáveis nas 48 horas seguintes à administração. A média da área sob a curva da concentração
+plasmática em relação ao tempo desde a administração, extrapolada ao infinito foi de 7980 ng*h/ml.
+Os resultados farmacocinéticos após múltiplas administrações subcutâneas de inclisiran foram
+semelhantes aos de uma única administração.
+
+10
+
+Distribuição
+In vitro, o inclisiran liga-se 87% às proteínas nas concentrações plasmáticas clinicamente relevantes.
+Após a administração subcutânea de uma dose única de 284 mg de inclisiran a adultos saudáveis, o
+volume aparente de distribuição é de aproximadamente 500 litros. Com base em dados não-clínicos,
+inclisiran demonstrou ter uma captação elevada e seletiva no fígado, o órgão alvo para a redução do
+colesterol.
+Biotransformação
+O inclisiran é principalmente metabolizado por nucleases em nucleótidos inativos, mais pequenos, de
+comprimento variável. O inclisiran não é um substrato de transportadores comuns de medicamentos e,
+embora não tenham sido realizados testes in vitro, não se prevê que seja substrato do citocromo P450.
+Eliminação
+A semivida de eliminação do inclisiran é aproximadamente 9 horas e não ocorre acumulação com
+administrações múltiplas. Dezasseis por cento (16%) do inclisiran é eliminado pelo rim.
+Linearidade/não linearidade
+No estudo clínico de fase I foi observado um aumento da exposição a inclisiran aproximadamente
+proporcional à dose, após a administração subcutânea de doses de inclisiran entre 24 mg a 756 mg.
+Não se observou acumulação nem alterações dependentes do tempo após múltiplas administrações
+subcutâneas de inclisiran.
+Relação(ões) farmacocinética/farmacodinâmica
+No estudo clínico de fase I, foi observada uma dissociação entre os parâmetros farmacocinéticos de
+inclisiran e os efeitos farmacodinâmicos de C-LDL. A seletividade de inclisiran para os hepatócitos,
+onde é incorporado no complexo silenciador induzido por RNA (RISC), resulta numa duração da ação
+mais longa, para além da antecipada com base na semivida de eliminação plasmática de 9 horas. Os
+efeitos máximos na redução de C-LDL foram observados com uma dose de 284 mg, já que doses mais
+elevadas não demonstraram maiores efeitos.
+Populações especiais
+Compromisso renal
+A análise farmacocinética dos dados de um estudo dedicado ao compromisso renal demonstrou um
+aumento na Cmax de inclisiran de aproximadamente 2,3, 2,0 e 3,3 vezes, e um aumento na AUC de
+inclisiran de aproximadamente 1,6, 1,8 e 2,3 vezes, em doentes com compromisso renal ligeiro
+(depuração de creatinina [CrCL] de 60 ml/min a 89 ml/min), moderado ([CrCL] de 30 ml/min a
+59 ml/min) e grave ([CrCL] de 15 ml/min a 29 ml/min), respetivamente, em relação aos doentes com
+função renal normal. Apesar das exposições plasmáticas mais elevadas ao longo de 48 horas, a
+redução de C-LDL foi semelhante em todos os grupos de função renal. Com base no modelo
+farmacodinâmico populacional, não é recomendado ajuste de dose em doentes com doença renal
+terminal. Com base nas avaliações farmacocinéticas, farmacodinâmicas e de segurança, não é
+necessário ajuste posológico em doentes com compromisso renal ligeiro, moderado ou grave. O efeito
+da hemodiálise na farmacocinética de inclisiran não foi estudado. Considerando que o inclisiran é
+eliminado por via renal, não deve ser realizada hemodiálise pelo menos nas 72 horas seguintes à
+administração de Leqvio.
+
+11
+
+Compromisso hepático
+A análise farmacocinética dos dados de um estudo dedicado ao compromisso hepático demonstrou um
+aumento na Cmax de inclisiran de aproximadamente 1,1 e 2,1 vezes, e um aumento na AUC de
+inclisiran de aproximadamente 1,3 e 2,0 vezes, respetivamente, em doentes com compromisso
+hepático ligeiro (Child-Pugh classe A) e moderado (Child-Pugh classe B), em relação aos doentes com
+função hepática normal. Apesar de exposições plasmáticas transitórias mais elevadas de inclisiran, as
+reduções de C-LDL foram semelhantes entre os grupos de doentes com função hepática normal e
+compromisso hepático ligeiro aos quais foi administrado inclisiran. Em doentes com compromisso
+hepático moderado os níveis de base de PCSK9 eram significativamente mais baixos e a redução de CLDL foi menor do que a observada em doentes com função hepática normal. Não é necessário ajuste
+posológico em doentes com compromisso hepático ligeiro ou moderado (Child-Pugh classe A e B).
+Leqvio não foi estudado em doentes com compromisso hepático grave (Child-Pugh classe C).
+Outras populações especiais
+Foi realizada uma análise farmacodinâmica populacional com dados de 4.328 doentes. Idade, peso,
+sexo, raça, e depuração de creatitina não mostraram influênciar significativamente a farmacodinâmica
+de inclisiran. Não é recomendado ajuste posológico em doentes com estes dados demográficos.
+5.3
+
+Dados de segurança pré-clínica
+
+Em estudos de toxicologia de dose repetida realizados em ratos e macacos, os níveis de efeito adverso
+não observável (NOAEL) foram identificados como sendo as doses mais elevadas administradas por
+via subcutânea, que produziram exposições ao medicamento consideravelmente superiores à
+exposição máxima humana. Observações microscópicas de estudos toxicológicos, incluiram
+vacuolização de hepatócitos em ratos, macrófagos em nódulos linfáticos de macacos, e a presença de
+grânulos basófilos em hepatócitos de macacos e rins de ratos e macacos. Estas observações não foram
+associadas com alterações nos parâmetros laboratoriais e não foram consideradas adversas.
+O inclisiran não foi carcinogénico em ratos Sprague-Dawley ou em murganhos TgRasH2 aos quais
+foram administradas doses de inclisiran suficientemente superiores às doses clínicas.
+Não se observou nenhum potencial mutagénico ou clastogénico de inclisiran numa série de testes,
+incluindo num ensaio de mutagenicidade bacteriana, num ensaio de aberração cromossómica de
+linfócitos de sangue periférico humano in vitro e num ensaio de micronúcleos de medula óssea de
+ratos in vivo.
+Os estudos de reprodução realizados em ratos e coelhos não revelaram evidência de danos fetais
+devido à administração de inclisiran nas doses mais elevadas, o que originou uma exposição
+consideravelmente superior à exposição humana máxima.
+O inclisiran não afetou a fertilidade nem a capacidade reprodutiva de ratos macho e fêmeas a ele
+expostos, antes e durante a gestação. As doses administradas foram associadas a exposições sistémicas
+muitas vezes superiores à exposição humana em doses clínicas.
+Foi observado inclisiran no leite de ratos lactantes; contudo, não há evidência de absorção sistémica
+em ratos lactentes recém-nascidos.
+
+12
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista de excipientes
+
+Água para preparações injetáveis
+Hidróxido de sódio (para ajuste do pH)
+Ácido fosfórico concentrado (para ajuste do pH)
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros
+medicamentos.
+6.3
+
+Prazo de validade
+
+3 anos
+6.4
+
+Precauções especiais de conservação
+
+O medicamento não necessita de quaisquer precauções especiais de conservação. Não congelar.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Seringa pré-cheia
+1,5 ml de solução em seringa pré-cheia (vidro tipo I) com êmbolo (borracha de bromobutil, revestida
+com fluorotec), com agulha e proteção da agulha rígida.
+Embalagem de uma seringa pré-cheia.
+Seringa pré-cheia com protetor de agulha
+1,5 ml de solução em seringa pré-cheia (vidro tipo I) com êmbolo (borracha de bromobutil, revestida
+com fluorotec), com agulha e proteção da agulha rígida, com protetor de agulha.
+Embalagem de uma seringa pré-cheia com protetor de agulha.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Leqvio deve ser inspecionado visualmente antes da administração. A solução deve ser límpida, incolor
+a amarelo pálido e praticamente livre de partículas. Se a solução apresentar partículas visíveis, não
+deve ser utilizada.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+13
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/20/1494/001
+EU/1/20/1494/002
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+09 de dezembro de 2020
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu
+
+14
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+15
+
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+Sandoz GmbH
+Biochemiestrasse 10
+6336 Langkampfen
+Áustria
+Novartis Pharmaceutical Manufacturing GmbH
+Biochemiestrasse 10
+6336 Langkampfen
+Áustria
+Novartis Pharma GmbH
+Roonstrasse 25
+90429 Nuremberga
+Alemanha
+O folheto informativo que acompanha o medicamento tem de mencionar o nome e endereço do
+fabricante responsável pela libertação do lote em causa.
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento sujeito a receita médica.
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do
+artigo 107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no
+portal europeu de medicamentos.
+O Titular da Autorização de Introdução no Mercado (AIM) deverá apresentar o primeiro RPS para
+este medicamento no prazo de 6 meses após a concessão da autorização.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado
+da receção de nova informação que possa levar a alterações significativas no perfil
+benefício-risco ou como resultado de ter sido atingido um objetivo importante
+(farmacovigilância ou minimização do risco).
+16
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+17
+
+A. ROTULAGEM
+
+18
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM DA SERINGA PRÉ-CHEIA SEM PROTETOR DE AGULHA
+
+1.
+
+NOME DO MEDICAMENTO
+
+Leqvio 284 mg solução injetável em seringa pré-cheia
+inclisiran
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada seringa pré-cheia contém inclisiran sódico equivalente a 284 mg de inclisiran em 1,5 ml de
+solução.
+Cada ml de solução contém inclisiran sódico equivalente a 189 mg de inclisiran.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Também contém: água para preparações injetáveis, hidróxido de sódio e ácido fosfórico concentrado.
+Para mais informações consultar o folheto informativo.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Solução injetável
+1 seringa pré-cheia
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via subcutânea.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+19
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não congelar.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/20/1494/001
+
+13.
+
+1 seringa pré-cheia
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+2D barcode carrying the unique identifier included.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+20
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER DA SERINGA PRÉ-CHEIA SEM PROTETOR DE AGULHA
+
+1.
+
+NOME DO MEDICAMENTO
+
+Leqvio 284 mg solução injetável em seringa pré-cheia
+inclisiran
+Via subcutânea
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Novartis Europharm Limited
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+21
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM DA SERINGA PRÉ-CHEIA COM PROTETOR DE AGULHA
+
+1.
+
+NOME DO MEDICAMENTO
+
+Leqvio 284 mg solução injetável em seringa pré-cheia
+inclisiran
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada seringa pré-cheia contém inclisiran sódico equivalente a 284 mg de inclisiran em 1,5 ml de
+solução.
+Cada ml de solução contém inclisiran sódico equivalente a 189 mg de inclisiran.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Também contém: água para preparações injetáveis, hidróxido de sódio e ácido fosfórico concentrado.
+Para mais informações consultar o folheto informativo.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Solução injetável
+1 seringa pré-cheia com protetor de agulha
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via subcutânea.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+22
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não congelar.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/20/1494/002
+
+13.
+
+1 seringa pré-cheia com protetor de agulha
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+2D barcode carrying the unique identifier included.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+23
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER DA SERINGA PRÉ-CHEIA COM PROTETOR DE AGULHA
+
+1.
+
+NOME DO MEDICAMENTO
+
+Leqvio 284 mg solução injetável em seringa pré-cheia
+inclisiran
+Via subcutânea
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Novartis Europharm Limited
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+1 seringa pré-cheia com protetor de agulha
+
+24
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DA SERINGA PRÉ-CHEIA
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Leqvio 284 mg injetável
+inclisiran
+SC
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1,5 ml
+
+6.
+
+OUTROS
+
+25
+
+B. FOLHETO INFORMATIVO
+
+26
+
+Folheto informativo: Informação para o doente
+Leqvio 284 mg solução injetável em seringa pré-cheia
+inclisiran
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de lhe ser administrado este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Leqvio e para que é utilizado
+O que precisa de saber antes de lhe ser administrado Leqvio
+Como é administrado Leqvio
+Efeitos indesejáveis possíveis
+Como conservar Leqvio
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Leqvio e para que é utilizado
+
+O que é Leqvio e para que é utilizado
+Leqvio contém a substância ativa inclisiran. O inclisiran diminui os níveis de colesterol-LDL (o “mau”
+colesterol) que, em níveis elevados, pode causar problemas de coração e circulação do sangue.
+Inclisiran atua ao interferir com o RNA (material genético das células corporais) para limitar a
+produção de uma proteína chamada PCSK9. Esta proteína pode aumentar os níveis de colesterol-LDL,
+ao prevenir a sua produção pode diminuir os seus níveis de colesterol-LDL.
+Para que é utilizado Leqvio
+Leqvio é utilizado em adição à sua dieta para baixar o colesterol caso seja adulto com um nível alto de
+colesterol no sangue (hipercolesterolemia primária, incluindo familiar heterozigótica e não-familiar,
+ou dislipidemia mista).
+Leqvio é administrado:
+juntamente com uma estatina (um medicamento utilizado para tratar o colesterol alto), algumas
+vezes em combinação com outro tratamento para baixar o colesterol, se a dose máxima de
+estatina não funcionar suficientemente bem, ou
+isolado ou com outros medicamentos para baixar o colesterol quando as estatinas não atuam
+bem ou não podem ser utilizadas.
+
+27
+
+2.
+
+O que precisa de saber antes de lhe ser administrado Leqvio
+
+Leqvio não lhe pode ser administrado
+se tem alergia ao inclisiran ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+Advertências e precauções
+Fale com o seu médico, farmacêutico ou enfermeiro antes de lhe ser administrado Leqvio:
+se faz hemodiálise
+se tem de doença do fígado grave
+se tem doença dos rins grave
+Crianças e adolescentes
+Não administre este medicamento a crianças ou adolescentes com menos de 18 anos de idade, pois não
+existe experiência na utilização do medicamento neste grupo etário.
+Outros medicamentos e Leqvio
+Informe o seu médico, farmacêutico ou enfermeiro se estiver a tomar, tiver tomado recentemente, ou
+se vier a tomar outros medicamentos.
+Gravidez e amamentação
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico,
+farmacêutico ou enfermeiro antes de lhe ser administrado este medicamento.
+Deve ser evitada a utilização de Leqvio durante a gravidez.
+Ainda não se sabe se Leqvio passa para o leite materno. O seu médico irá ajudá-la a decidir se deve
+continuar a amamentar ou se deve começar o tratamento com Leqvio. O seu médico irá considerar os
+potenciais benefícios do tratamento, comparativamente com os benefícios e riscos de amamentar o seu
+bebé.
+Condução de veículos e utilização de máquinas
+Não é expectável que Leqvio afete a sua capacidade de condução de veículos e utilização de máquinas.
+Leqvio contém sódio
+Este medicamento contém menos de 1 mmol de sódio (23 mg) por dose, ou seja, é praticamente
+“isento de sódio”.
+
+3.
+
+Como é administrado Leqvio
+
+A dose recomendada de Leqvio é 284 mg, administrada através de uma injeção sob a pele (injeção
+subcutânea). A dose seguinte é dada após 3 meses, seguida por doses adicionais a cada 6 meses.
+Antes de lhe ser administrado Leqvio deve estar a fazer uma dieta para baixar os seus níveis de
+colesterol e é provável que esteja a tomar uma estatina. Deve manter a dieta para baixar o colesterol e
+continuar a tomar a estatina enquanto Leqvio lhe estiver a ser administrado.
+Leqvio é para injeção sob a pele do abdómen; em alternativa, pode ser administrado na parte superior
+do braço ou na coxa. Leqvio vai ser-lhe administrado por um médico, farmacêutico ou enfermeiro
+(profissional de saúde).
+Se lhe for administrado mais Leqvio do que deveria
+Este medicamento ser-lhe-á administrado por um médico, farmacêutico ou enfermeiro (profissional de
+saúde). No caso altamente improvável de receber uma administração excessiva (sobredosagem) o seu
+médico ou outro profissional de sáude irá examiná-lo quanto a efeitos indesejáveis.
+
+28
+
+Caso se tenha esquecido da sua administração de Leqvio
+Se faltar à sua consulta para a injeção de Leqvio, entre em contacto com o seu médico, farmacêutico
+ou enfermeiro assim que puder, para agendar a sua próxima injeção.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico
+ou enfermeiro.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Frequentes (podem afetar até 1 em cada 10 pessoas)
+•
+Reações no local da injeção, como por exemplo dor, vermelhidão ou erupções na pele.
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+indesejáveis diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento
+
+5.
+
+Como conservar Leqvio
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso no rótulo e embalagem exterior, após
+“EXP”. O prazo de validade corresponde ao último dia do mês indicado.
+O medicamento não necessita de quaisquer precauções especiais de conservação. Não congelar.
+O médico, farmacêutico ou enfermeiro irá verificar este medicamento e irá eliminá-lo se contiver
+partículas visíveis.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu médico,
+farmacêutico ou enfermeiro como deitar fora os medicamentos que já não utiliza. Estas medidas
+ajudarão a proteger o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Leqvio
+•
+A substância ativa é o inclisiran. Cada seringa pré-cheia contém inclisiran sódico equivalente a
+284 mg de inclisiran em 1,5 ml de solução. Cada ml contém inclisiran sódico equivalente a
+189 mg de inclisiran.
+•
+Os outros excipientes são água para preparações injetáveis, hidróxido de sódio (ver secção 2
+“Leqvio contém sódio”) e ácido fosfórico concentrado.
+Qual o aspeto de Leqvio e conteúdo da embalagem
+Leqvio é uma solução límpida, incolor a amarelo pálido, e praticamente livre de partículas.
+Cada embalagem contém uma seringa pré-cheia de utilização única.
+
+29
+
+Titular da Autorização de Introdução no Mercado
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+Fabricante
+Sandoz GmbH
+Biochemiestrasse 10
+6336 Langkampfen
+Áustria
+Novartis Pharmaceutical Manufacturing GmbH
+Biochemiestrasse 10
+6336 Langkampfen
+Áustria
+Novartis Pharma GmbH
+Roonstrasse 25
+90429 Nuremberga
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Novartis Pharma N.V.
+Tél/Tel: +32 2 246 16 11
+
+Lietuva
+SIA Novartis Baltics Lietuvos filialas
+Tel: +370 5 269 16 50
+
+България
+Novartis Bulgaria EOOD
+Тел.: +359 2 489 98 28
+
+Luxembourg/Luxemburg
+Novartis Pharma N.V.
+Tél/Tel: +32 2 246 16 11
+
+Česká republika
+Novartis s.r.o.
+Tel: +420 225 775 111
+
+Magyarország
+Novartis Hungária Kft.
+Tel.: +36 1 457 65 00
+
+Danmark
+Novartis Healthcare A/S
+Tlf: +45 39 16 84 00
+
+Malta
+Novartis Pharma Services Inc.
+Tel: +356 2122 2872
+
+Deutschland
+Novartis Pharma GmbH
+Tel: +49 911 273 0
+
+Nederland
+Novartis Pharma B.V.
+Tel: +31 88 04 52 111
+
+Eesti
+SIA Novartis Baltics Eesti filiaal
+Tel: +372 66 30 810
+
+Norge
+Novartis Norge AS
+Tlf: +47 23 05 20 00
+
+Ελλάδα
+Novartis (Hellas) A.E.B.E.
+Τηλ: +30 210 281 17 12
+
+Österreich
+Novartis Pharma GmbH
+Tel: +43 1 86 6570
+
+30
+
+España
+Novartis Farmacéutica, S.A.
+Tel: +34 93 306 42 00
+
+Polska
+Novartis Poland Sp. z o.o.
+Tel.: +48 22 375 4888
+
+France
+Novartis Pharma S.A.S.
+Tél: +33 1 55 47 66 00
+
+Portugal
+Novartis Farma - Produtos Farmacêuticos, S.A.
+Tel: +351 21 000 8600
+
+Hrvatska
+Novartis Hrvatska d.o.o.
+Tel. +385 1 6274 220
+
+România
+Novartis Pharma Services Romania SRL
+Tel: +40 21 31299 01
+
+Ireland
+Novartis Ireland Limited
+Tel: +353 1 260 12 55
+
+Slovenija
+Novartis Pharma Services Inc.
+Tel: +386 1 300 75 50
+
+Ísland
+Vistor hf.
+Sími: +354 535 7000
+
+Slovenská republika
+Novartis Slovakia s.r.o.
+Tel: +421 2 5542 5439
+
+Italia
+Novartis Farma S.p.A.
+Tel: +39 02 96 54 1
+
+Suomi/Finland
+Novartis Finland Oy
+Puh/Tel: +358 (0)10 6133 200
+
+Κύπρος
+Novartis Pharma Services Inc.
+Τηλ: +357 22 690 690
+
+Sverige
+Novartis Sverige AB
+Tel: +46 8 732 32 00
+
+Latvija
+SIA Novartis Baltics
+Tel: +371 67 887 070
+
+United Kingdom (Northern Ireland)
+Novartis Ireland Limited
+Tel: +44 1276 698370
+
+Este folheto foi revisto pela última vez em
+
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu
+
+31
+
+A informação que se segue destina-se apenas aos profissionais de saúde:
+Leqvio 284 mg de solução injetável em seringa pré-cheia
+inclisiran
+Os profissionais de sáude devem consultar o Resumo das Características do Medicamento para obter
+informações completas acerca da prescrição.
+Indicação (ver secção 4.1 do RCM)
+Leqvio é indicado para o tratamento de adultos com hipercolesterolemia primária (familiar
+heterozigótica e não familiar) ou dislipidemia mista, como complemento à dieta:
+•
+em combinação com uma estatina ou uma estatina com outras terapêuticas hipolipemiantes em
+doentes que não atingem os valores recomendados de C-LDL com a dose máxima tolerada de
+estatina, ou
+•
+isoladamente ou em combinação com outras terapêuticas hipolipemiantes em doentes
+intolerantes a estatinas, ou nos quais as estatinas estejam contraindicadas.
+Posologia (ver secção 4.2 do RCM)
+A dose recomendada é 284 mg de inclisiran, administrada como uma única injeção subcutânea: no
+início do tratamento, novamente após 3 meses e depois a cada 6 meses.
+Doses esquecidas
+Se uma dose planeada for esquecida durante menos de 3 meses, o inclisiran deve ser administrado e a
+administração deve continuar de acordo com o esquema posológico original do doente.
+Se a dose planeada for esquecida durante mais de 3 meses, deve ser iniciado um novo ciclo de
+tratamento – o inclisiran deve ser administrado no início, novamente após 3 meses, seguido de uma
+vez a cada 6 meses.
+Transição do tratamento com anticorpos monoclonais inibidores da PCSK9
+O inclisiran pode ser administrado imediatamente após a última dose de um anticorpo monoclonal
+inibidor da PCSK9. Para manter a redução de C-LDL, recomenda-se que o inclisiran seja administrado
+dentro de 2 semanas após a última dose do anticorpo monoclonal inibidor da PCSK9.
+Populações especiais
+Idosos (idade ≥65 anos)
+Não é necessário ajuste posológico em doentes idosos.
+Compromisso hepático
+Não é necessário ajuste posológico em doentes com compromisso hepático ligeiro (Child-Pugh
+classe A) ou moderado (Child-Pugh classe B). Não existem dados disponíveis em doentes com
+compromisso hepático grave (Child-Pugh classe C). Inclisiran deve ser usado com precaução em
+doentes com compromisso hepático grave.
+Compromisso renal
+Não é necessário ajuste posológico em doentes com compromisso renal ligeiro, moderado ou grave, ou
+doentes com doença renal terminal. A experiência com inclisiran em doentes com insuficiência renal
+grave é limitada. O inclisiran deve ser utilizado com precaução nestes doentes. Ver secção 4.4 do
+RCM para precauções a tomar em caso de hemodiálise.
+População pediátrica
+A segurança e eficácia do inclisiran em crianças com menos de 18 anos não foram ainda estabelecidas.
+Não existem dados disponíveis.
+
+32
+
+Modo de administração (ver secção 4.2 do RCM)
+Via subcutânea.
+O inclisiran é administrado por injeção subcutânea no abdómen; em alternativa, pode ser administrado
+na parte superior do braço ou na coxa. Não devem ser administradas injeções em locais com doenças
+ou lesões cutâneas ativas, como queimaduras solares, erupções cutâneas, inflamação ou infeções
+cutâneas.
+Cada dose de 284 mg é administrada usando uma única seringa pré-cheia. Cada seringa pré-cheia
+destina-se a uma única utilização.
+O inclisiran destina-se a ser administrado por um profissional de saúde.
+Contraindicações (ver secção 4.3 do RCM)
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes.
+Advertências e precauções especiais de utilização (ver secção 4.4 do RCM)
+Hemodiálise
+O efeito da hemodiálise na farmacocinética do inclisiran não foi estudado. Tendo em consideração que
+inclisiran é eliminado por via renal, a hemodiálise não deve ser realizada durante, pelo menos,
+72 horas após a administração de inclisiran.
+Precauções especiais de conservação (ver secção 6.4 do RCM)
+O medicamento não necessita de quaisquer precauções especiais de conservação. Não congelar.
+
+33
+
+Folheto informativo: Informação para o doente
+Leqvio 284 mg solução injetável em seringa pré-cheia
+Seringa pré-cheia com protetor de agulha
+inclisiran
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de lhe ser administrado este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Leqvio e para que é utilizado
+O que precisa de saber antes de lhe ser administrado Leqvio
+Como é administrado Leqvio
+Efeitos indesejáveis possíveis
+Como conservar Leqvio
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Leqvio e para que é utilizado
+
+O que é Leqvio e para que é utilizado
+Leqvio contém a substância ativa inclisiran. O inclisiran diminui os níveis de colesterol-LDL (o “mau”
+colesterol) que, em níveis elevados, pode causar problemas de coração e circulação do sangue.
+Inclisiran atua ao interferir com o RNA (material genético das células corporais) para limitar a
+produção de uma proteína chamada PCSK9. Esta proteína pode aumentar os níveis de colesterol-LDL,
+ao prevenir a sua produção pode diminuir os seus níveis de colesterol-LDL.
+Para que é utilizado Leqvio
+Leqvio é utilizado em adição à sua dieta para baixar o colesterol caso seja adulto com um nível alto de
+colesterol no sangue (hipercolesterolemia primária, incluindo familiar heterozigótica e não-familiar,
+ou dislipidemia mista).
+Leqvio é administrado:
+juntamente com uma estatina (um medicamento utilizado para tratar o colesterol alto), algumas
+vezes em combinação com outro tratamento para baixar o colesterol, se a dose máxima de
+estatina não funcionar suficientemente bem, ou
+isolado ou com outros medicamentos para baixar o colesterol quando as estatinas não atuam
+bem ou não podem ser utilizadas.
+
+34
+
+2.
+
+O que precisa de saber antes de lhe ser administrado Leqvio
+
+Leqvio não lhe pode ser administrado
+se tem alergia ao inclisiran ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+Advertências e precauções
+Fale com o seu médico, farmacêutico ou enfermeiro antes de lhe ser administrado Leqvio:
+se faz hemodiálise
+se tem de doença do fígado grave
+se tem doença dos rins grave
+Crianças e adolescentes
+Não administre este medicamento a crianças ou adolescentes com menos de 18 anos de idade, pois não
+existe experiência na utilização do medicamento neste grupo etário.
+Outros medicamentos e Leqvio
+Informe o seu médico, farmacêutico ou enfermeiro se estiver a tomar, tiver tomado recentemente, ou
+se vier a tomar outros medicamentos.
+Gravidez e amamentação
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico,
+farmacêutico ou enfermeiro antes de lhe ser administrado este medicamento.
+Deve ser evitada a utilização de Leqvio durante a gravidez.
+Ainda não se sabe se Leqvio passa para o leite materno. O seu médico irá ajudá-la a decidir se deve
+continuar a amamentar ou se deve começar o tratamento com Leqvio. O seu médico irá considerar os
+potenciais benefícios do tratamento, comparativamente com os benefícios e riscos de amamentar o seu
+bebé.
+Condução de veículos e utilização de máquinas
+Não é expectável que Leqvio afete a sua capacidade de condução de veículos e utilização de máquinas.
+Leqvio contém sódio
+Este medicamento contém menos de 1 mmol de sódio (23 mg) por dose, ou seja, é praticamente
+“isento de sódio”.
+
+3.
+
+Como é administrado Leqvio
+
+A dose recomendada de Leqvio é 284 mg, administrada através de uma injeção sob a pele (injeção
+subcutânea). A dose seguinte é dada após 3 meses, seguida por doses adicionais a cada 6 meses.
+Antes de lhe ser administrado Leqvio deve estar a fazer uma dieta para baixar os seus níveis de
+colesterol e é provável que esteja a tomar uma estatina. Deve manter a dieta para baixar o colesterol e
+continuar a tomar a estatina enquanto Leqvio lhe estiver a ser administrado.
+Leqvio é para injeção sob a pele do abdómen; em alternativa, pode ser administrado na parte superior
+do braço ou na coxa. Leqvio vai ser-lhe administrado por um médico, farmacêutico ou enfermeiro
+(profissional de saúde).
+Se lhe for administrado mais Leqvio do que deveria
+Este medicamento ser-lhe-á administrado por um médico, farmacêutico ou enfermeiro (profissional de
+saúde). No caso altamente improvável de receber uma administração excessiva (sobredosagem) o seu
+médico ou outro profissional de sáude irá examiná-lo quanto a efeitos indesejáveis.
+
+35
+
+Caso se tenha esquecido da sua administração de Leqvio
+Se faltar à sua consulta para a injeção de Leqvio, entre em contacto com o seu médico, farmacêutico
+ou enfermeiro assim que puder, para agendar a sua próxima injeção.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico
+ou enfermeiro.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Frequentes (podem afetar até 1 em cada 10 pessoas)
+•
+Reações no local da injeção, como por exemplo dor, vermelhidão ou erupções na pele.
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+indesejáveis diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento
+
+5.
+
+Como conservar Leqvio
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso no rótulo e embalagem exterior, após
+“EXP”. O prazo de validade corresponde ao último dia do mês indicado.
+O medicamento não necessita de quaisquer precauções especiais de conservação. Não congelar.
+O médico, farmacêutico ou enfermeiro irá verificar este medicamento e irá eliminá-lo se contiver
+partículas visíveis.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu médico,
+farmacêutico ou enfermeiro como deitar fora os medicamentos que já não utiliza. Estas medidas
+ajudarão a proteger o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Leqvio
+•
+A substância ativa é o inclisiran. Cada seringa pré-cheia contém inclisiran sódico equivalente a
+284 mg de inclisiran em 1,5 ml de solução. Cada ml contém inclisiran sódico equivalente a
+189 mg de inclisiran.
+•
+Os outros excipientes são água para preparações injetáveis, hidróxido de sódio (ver secção 2
+“Leqvio contém sódio”) e ácido fosfórico concentrado.
+Qual o aspeto de Leqvio e conteúdo da embalagem
+Leqvio é uma solução límpida, incolor a amarelo pálido, e praticamente livre de partículas.
+Cada embalagem contém uma seringa pré-cheia com protetor de agulha de utilização única.
+
+36
+
+Titular da Autorização de Introdução no Mercado
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+Fabricante
+Sandoz GmbH
+Biochemiestrasse 10
+6336 Langkampfen
+Áustria
+Novartis Pharmaceutical Manufacturing GmbH
+Biochemiestrasse 10
+6336 Langkampfen
+Áustria
+Novartis Pharma GmbH
+Roonstrasse 25
+90429 Nuremberga
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Novartis Pharma N.V.
+Tél/Tel: +32 2 246 16 11
+
+Lietuva
+SIA Novartis Baltics Lietuvos filialas
+Tel: +370 5 269 16 50
+
+България
+Novartis Bulgaria EOOD
+Тел.: +359 2 489 98 28
+
+Luxembourg/Luxemburg
+Novartis Pharma N.V.
+Tél/Tel: +32 2 246 16 11
+
+Česká republika
+Novartis s.r.o.
+Tel: +420 225 775 111
+
+Magyarország
+Novartis Hungária Kft.
+Tel.: +36 1 457 65 00
+
+Danmark
+Novartis Healthcare A/S
+Tlf: +45 39 16 84 00
+
+Malta
+Novartis Pharma Services Inc.
+Tel: +356 2122 2872
+
+Deutschland
+Novartis Pharma GmbH
+Tel: +49 911 273 0
+
+Nederland
+Novartis Pharma B.V.
+Tel: +31 88 04 52 111
+
+Eesti
+SIA Novartis Baltics Eesti filiaal
+Tel: +372 66 30 810
+
+Norge
+Novartis Norge AS
+Tlf: +47 23 05 20 00
+
+Ελλάδα
+Novartis (Hellas) A.E.B.E.
+Τηλ: +30 210 281 17 12
+
+Österreich
+Novartis Pharma GmbH
+Tel: +43 1 86 6570
+
+37
+
+España
+Novartis Farmacéutica, S.A.
+Tel: +34 93 306 42 00
+
+Polska
+Novartis Poland Sp. z o.o.
+Tel.: +48 22 375 4888
+
+France
+Novartis Pharma S.A.S.
+Tél: +33 1 55 47 66 00
+
+Portugal
+Novartis Farma - Produtos Farmacêuticos, S.A.
+Tel: +351 21 000 8600
+
+Hrvatska
+Novartis Hrvatska d.o.o.
+Tel. +385 1 6274 220
+
+România
+Novartis Pharma Services Romania SRL
+Tel: +40 21 31299 01
+
+Ireland
+Novartis Ireland Limited
+Tel: +353 1 260 12 55
+
+Slovenija
+Novartis Pharma Services Inc.
+Tel: +386 1 300 75 50
+
+Ísland
+Vistor hf.
+Sími: +354 535 7000
+
+Slovenská republika
+Novartis Slovakia s.r.o.
+Tel: +421 2 5542 5439
+
+Italia
+Novartis Farma S.p.A.
+Tel: +39 02 96 54 1
+
+Suomi/Finland
+Novartis Finland Oy
+Puh/Tel: +358 (0)10 6133 200
+
+Κύπρος
+Novartis Pharma Services Inc.
+Τηλ: +357 22 690 690
+
+Sverige
+Novartis Sverige AB
+Tel: +46 8 732 32 00
+
+Latvija
+SIA Novartis Baltics
+Tel: +371 67 887 070
+
+United Kingdom (Northern Ireland)
+Novartis Ireland Limited
+Tel: +44 1276 698370
+
+Este folheto foi revisto pela última vez em
+
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu
+
+38
+
+A informação que se segue destina-se apenas aos profissionais de saúde:
+Leqvio 284 mg de solução injetável em seringa pré-cheia
+Seringa pré-cheia com protetor de agulha
+inclisiran
+Os profissionais de sáude devem consultar o Resumo das Características do Medicamento para obter
+informações completas acerca da prescrição.
+Indicação (ver secção 4.1 do RCM)
+Leqvio é indicado para o tratamento de adultos com hipercolesterolemia primária (familiar
+heterozigótica e não familiar) ou dislipidemia mista, como complemento à dieta:
+•
+em combinação com uma estatina ou uma estatina com outras terapêuticas hipolipemiantes em
+doentes que não atingem os valores recomendados de C-LDL com a dose máxima tolerada de
+estatina, ou
+•
+isoladamente ou em combinação com outras terapêuticas hipolipemiantes em doentes
+intolerantes a estatinas, ou nos quais as estatinas estejam contraindicadas.
+Posologia (ver secção 4.2 do RCM)
+A dose recomendada é 284 mg de inclisiran, administrada como uma única injeção subcutânea: no
+início do tratamento, novamente após 3 meses e depois a cada 6 meses.
+Doses esquecidas
+Se uma dose planeada for esquecida durante menos de 3 meses, o inclisiran deve ser administrado e a
+administração deve continuar de acordo com o esquema posológico original do doente.
+Se a dose planeada for esquecida durante mais de 3 meses, deve ser iniciado um novo ciclo de
+tratamento – o inclisiran deve ser administrado no início, novamente após 3 meses, seguido de uma
+vez a cada 6 meses.
+Transição do tratamento com anticorpos monoclonais inibidores da PCSK9
+O inclisiran pode ser administrado imediatamente após a última dose de um anticorpo monoclonal
+inibidor da PCSK9. Para manter a redução de C-LDL, recomenda-se que o inclisiran seja administrado
+dentro de 2 semanas após a última dose do anticorpo monoclonal inibidor da PCSK9.
+Populações especiais
+Idosos (idade ≥65 anos)
+Não é necessário ajuste posológico em doentes idosos.
+Compromisso hepático
+Não é necessário ajuste posológico em doentes com compromisso hepático ligeiro (Child-Pugh
+classe A) ou moderado (Child-Pugh classe B). Não existem dados disponíveis em doentes com
+compromisso hepático grave (Child-Pugh classe C). Inclisiran deve ser usado com precaução em
+doentes com compromisso hepático grave.
+Compromisso renal
+Não é necessário ajuste posológico em doentes com compromisso renal ligeiro, moderado ou grave, ou
+doentes com doença renal terminal. A experiência com inclisiran em doentes com insuficiência renal
+grave é limitada. O inclisiran deve ser utilizado com precaução nestes doentes. Ver secção 4.4 do
+RCM para precauções a tomar em caso de hemodiálise.
+População pediátrica
+A segurança e eficácia do inclisiran em crianças com menos de 18 anos não foram ainda estabelecidas.
+Não existem dados disponíveis.
+
+39
+
+Modo de administração (ver secção 4.2 do RCM)
+Via subcutânea.
+O inclisiran é administrado por injeção subcutânea no abdómen; em alternativa, pode ser administrado
+na parte superior do braço ou na coxa. Não devem ser administradas injeções em locais com doenças
+ou lesões cutâneas ativas, como queimaduras solares, erupções cutâneas, inflamação ou infeções
+cutâneas.
+Cada dose de 284 mg é administrada usando uma única seringa pré-cheia. Cada seringa pré-cheia
+destina-se a uma única utilização.
+O inclisiran destina-se a ser administrado por um profissional de saúde.
+Contraindicações (ver secção 4.3 do RCM)
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes.
+Advertências e precauções especiais de utilização (ver secção 4.4 do RCM)
+Hemodiálise
+O efeito da hemodiálise na farmacocinética do inclisiran não foi estudado. Tendo em consideração que
+inclisiran é eliminado por via renal, a hemodiálise não deve ser realizada durante, pelo menos,
+72 horas após a administração de inclisiran.
+Precauções especiais de conservação (ver secção 6.4 do RCM)
+O medicamento não necessita de quaisquer precauções especiais de conservação. Não congelar.
+
+Instruções de utilização de Leqvio seringa pré-cheia com protetor de agulha
+Esta secção inclui informação sobre como administrar Leqvio.
+Após usar
+
+Antes de usar
+Cabeça do êmbolo
+Êmbolo
+Asas do protetor de
+agulha
+
+Prazo de validade
+Protetor de
+agulha
+
+Janela de
+visualização
+
+Agulha
+
+Tampa da
+agulha
+
+40
+
+Informação importante que deve saber antes de administrar Leqvio
+•
+•
+•
+•
+•
+
+Não utilize a seringa pré-cheia se algum dos selos na embalagem exterior ou no tabuleiro de
+plástico estiverem quebrados.
+Não retire a tampa da agulha até estar pronto para fazer a injeção.
+Não utilize a seringa pré-cheia se esta tiver caído numa superfície dura ou se tiver caído após ter
+removido a tampa da agulha.
+Não tente reutilizar ou separar a seringa pré-cheia.
+A seringa pré-cheia tem um protetor de agulha que será ativado para cobrir a agulha após
+terminar a injeção. A proteção da agulha ajudará a prevenir lesões provocadas pela agulha a
+qualquer pessoa que manuseie a seringa pré-cheia depois da injeção.
+
+Passo 1. Inspecionar a seringa pré-cheia
+Poderá observar bolhas de ar no líquido, o que é normal. Não tente retirar o ar.
+•
+Não utilize a seringa pré-cheia se esta parecer danificada ou se alguma quantidade de solução
+tiver vertido para fora da seringa pré-cheia.
+Passo 2. Retirar a tampa da agulha
+Puxe firmemente, na horizontal, para retirar a tampa da
+agulha da seringa pré-cheia. Poderá observar uma gota de
+líquido no final da agulha. Isto é normal.
+Não volte a colocar a tampa da agulha. Deite-a fora.
+
+Passo 3. Inserir a agulha
+Aperte suavemente a pele no local da injeção e
+mantenha-a apertada durante a injeção. Com a outra mão,
+insira a agulha na pele num ângulo de aproximadamente
+45 graus, conforme demonstrado.
+
+Passo 4. Iniciar a injeção
+Continue a apertar a pele. Pressione lentamente o êmbolo
+até ao final. Isto irá assegurar que é injetada a totalidade
+da dose.
+
+41
+
+Passo 5. Completar a injeção
+Confirme que a cabeça do êmbolo está entre as abas de
+proteção da agulha, conforme demonstrado. Isto irá
+assegurar que a proteção da agulha foi ativada e que irá
+cobrir a agulha após finalizar a injeção.
+
+Passo 6. Libertar o êmbolo
+Mantendo a seringa pré-cheia no local da injeção, liberte
+lentamente o êmbolo até que a agulha fique coberta pelo
+protetor da agulha. Retire a seringa pré-cheia do local de
+injeção.
+
+Passo 7. Eliminar a seringa pré-cheia
+Elimine a seringa pré-cheia de acordo com os requisitos locais.
+
+42
+
+

@@ -1,0 +1,2736 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+JEVTANA 60 mg concentrado e solvente para solução para perfusão
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Um ml de concentrado contem 40 mg cabazitaxel.
+Um frasco para injetáveis de 1,5 ml (volume nominal) de concentrado contem 60 mg de cabazitaxel.
+Após diluição inicial com toda a solução de solvente, cada ml de solução contém 10 mg de
+cabazitaxel.
+Nota: Quer o JEVTANA 60 mg/1,5 ml frasco para injetáveis de concentrado (volume de enchimento:
+73,2 mg de cabazitaxel/1,83 ml) como o frasco para injetáveis de solvente (volume de enchimento: 5,67
+ml) contêm um sobre-excedente para compensar as perdas de líquido durante a preparação. Este sobreenchimento garante que após a diluição com o conteúdo TOTAL do solvente que o acompanha, há uma
+solução contendo 10 mg/ml cabazitaxel.
+Excipiente com efeito conhecido:
+Um frasco para injetáveis de solvente contém 573,3 mg de etanol 96%.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Concentrado e solvente para solução para perfusão (concentrado esterilizado).
+O concentrado é uma solução viscosa transparente amarela a amarela-acastanhada.
+O solvente é uma solução transparente e incolor.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+JEVTANA em associação com prednisona ou prednisolona é indicado no tratamento de doentes
+adultos com carcinoma da próstata metastizado resistente à castração previamente tratados com um
+regime contendo docetaxel (ver secção 5.1).
+4.2
+
+Posologia e modo de administração
+
+O uso de JEVTANA deverá ser restrito a unidades especializadas na administração de citostáticos e só
+deverá ser administrado sob a supervisão de um médico com experiência no uso de quimioterapia
+antineoplásica. Devem estar disponíveis instalações e equipamento para o tratamento de reações de
+hipersensibilidade graves, como hipotensão e broncospasmo (ver secção 4.4).
+Pré-medicação
+O regime de pré-medicação recomendado deve ser realizado, pelo menos, 30 minutos antes de cada
+administração de JEVTANA com os seguintes medicamentos intravenosos de modo a diminuir o risco
+e a gravidade da hipersensibilidade:
+• antihistamínico (5 mg de dexclorofeniramina ou 25 mg de difenidramina ou equivalente),
+• corticosteroide (8 mg de dexametasona ou equivalente), e
+• antagonista H2 (ranitidina ou equivalente) (ver secção 4.4).
+Recomenda-se a profilaxia com antieméticos que pode ser administrada por via oral ou intravenosa,
+conforme seja necessário.
+
+2
+
+Durante o tratamento deve ser assegurada uma hidratação adequada dos doentes de modo a evitar
+complicações como a insuficiência renal.
+Posologia
+A dose recomendada de JEVTANA é de 25 mg/m2 administrada em perfusão intravenosa de 1 hora
+de 3 em 3 semanas em associação com 10 mg de prednisona ou prednisolona administrada por via
+oral, diariamente, durante todo o tratamento.
+Ajuste da dose
+Devem ser feitas alterações de dose se os doentes apresentarem as seguintes reações adversas (os
+Graus referem-se aos Critérios de Terminologia Gerais para Efeitos Adversos [CTCAE 4.0]).
+Quadro 1 – Alterações de dose recomendadas para reações adversas em doentes tratados com
+cabazitaxel
+Reações Adversas
+
+Alterações de dose
+
+Neutropenia de grau ≥ 3 prolongada (superior a
+1 semana) apesar de tratamento adequado
+incluindo G-CSF
+Neutropenia febril ou infeção neutropénica
+
+Adiar tratamento até a contagem dos neutrófilos
+ser >1.500 células/mm3 e em seguida reduzir a
+dose de cabazitaxel de 25 mg/m2 para 20 mg/m2.
+Adiar o tratamento até melhoria ou resolução e
+até a contagem de neutrófilos ser >1.500
+células/mm3 e em seguida reduzir a dose de
+cabazitaxel de 25 mg/m2 para 20 mg/m2.
+Adiar o tratamento até melhoria ou resolução e
+em seguida reduzir a dose de cabazitaxel de
+25 mg/m2 para 20 mg/m2.
+Adiar o tratamento até melhoria e em seguida
+reduzir a dose de cabazitaxel de 25 mg/m2 para
+20 mg/m2.
+
+Diarreia de grau ≥3 ou diarreia persistente
+apesar de tratamento apropriado, incluindo
+reposição eletrolítica e de fluidos
+Neuropatia periférica de grau > 2
+
+Se os doentes continuarem a apresentar alguma destas reações com a dose de 20 mg/m 2, pode ser
+considerada uma redução adicional da dose para 15 mg/m 2 ou a discontinuação de JEVTANA.
+Os dados em doentes com doses inferiores a 20 mg/m2 são limitados
+Populações especiais
+Doentes com compromisso hepático
+Cabazitaxel é extensamente metabolizado a nível hepático. A dose de cabazitaxel dos doentes com
+compromisso hepático ligeiro (bilirrubina total >1 até ≤1,5 x limite superior normal (LSN) ou
+Aspartato Aminotransferase (AST) >1,5 x LSN), deve ser reduzida para 20mg/m2 . A administração de
+cabazitaxel em doentes com compromisso hepático ligeiro, deve ser realizada com precaução e
+monitorização cuidadosa da segurança.
+Em doentes com compromisso hepático moderado (bilirrubina total >1,5 até ≤3,0 x LSN), a dose
+máxima tolerada (DMT) foi de 15 mg/m2. Se o tratamento contemplar doentes com compromisso
+hepático moderado, a dose de cabazitaxel não deve exceder os 15 mg/m2 . Contudo, os dados
+disponíveis de eficácia desta dose são limitados.
+O cabazitaxel não deve ser administrado a doentes com compromisso hepático grave (bilirrubina total
+>3 x LSN) (ver secções 4.3, 4.4 e 5.2).
+Doentes com afeção renal
+Cabazitaxel é excretado pelo rim de forma mínima. Não é encessário ajuste de dose em doentes com
+afeção renal , que não necessitem de hemodiálise. Os doentes em fase terminal de doença renal
+(depuração de creatinina CLCR < 15 mL/min/1.73 m2), devido à sua condição e dados disponíveis
+limitados, devem ser tratados com precaução e monitorizados cuidadosamente durante o tratamento.
+(ver secções 4.4 e 5.2)
+
+3
+
+Idosos
+Na população idosa não é recomendado um ajuste de dose específico no uso de cabazitaxel (ver
+também as secções 4.4, 4.8 e 5.2).
+Uso de medicação concomitante
+Deve ser evitado o uso concomitante de medicamentos que sejam indutores potentes ou inibidores
+potentes do CYP3A. Contudo, se os doentes necessitarem de administração concomitante de um
+inibidor potente de CYP3A, deve ser considerada uma redução de 25% da dose do cabazitaxel (ver
+secções 4.4 e 4.5).
+População pediátrica
+Não existe utilização relevante de JEVTANA na população pediátrica.
+A segurança e eficácia de JEVTANA em crianças e adolescentes com menos de 18 anos não foi
+estabelecida (ver secção 5.1).
+Modo de administração
+JEVTANA é para utilização intravenosa.
+Para instruções sobre a preparação e administração do medicamento, ver a secção 6.6.
+Não devem ser usados contentores de perfusão em PVC e conjuntos de perfusão em poliuretano.
+JEVTANA não pode ser misturado com qualquer outro medicamento para além dos mencionados na
+secção 6.6.
+4.3
+
+Contraindicações
+
+
+
+
+
+4.4
+
+Hipersensibilidade ao cabazitaxel, a outros taxanos, ao polisorbato 80 ou a qualquer excipiente
+mencionado na secção 6.1.
+Contagem de neutrófilos inferior a 1.500/mm3.
+Compromisso hepático grave (bilirrubina total >3x LSN).
+Vacinação concomitante com vacina da febre amarela (ver secção 4.5)
+Advertências e precauções especiais de utilização
+
+Reações de hipersensibilidade
+Todos os doentes devem ser pré-medicados antes do início da perfusão de cabazitaxel (ver secção 4.2).
+Os doentes devem ser observados atentamente para a ocorrência de reações de hipersensibilidade,
+especialmente durante a primeira e a segunda perfusão. As reações de hipersensibilidade podem
+ocorrer alguns minutos após início da perfusão de cabazitaxel pelo que devem estar disponíveis
+instalações e equipamento para o tratamento de hipotensão e broncospasmo. Podem ocorrer reações
+graves que podem incluir exantema/eritema generalizado, hipotensão e broncospasmo. Reações de
+hipersensibilidade graves requerem a interrupção imediata de cabazitaxel e terapêutica apropriada.
+Doentes com reação de hipersensibilidade devem interromper o tratamento com JEVTANA (ver
+secção 4.3).
+Supressão da medula óssea
+Pode ocorrer supressão da medula óssea que se manifesta como neutropenia, anemia, trombocitopenia,
+ou pancitopenia (ver "Risco de neutropenia" e "Anemia" na seção 4.4 abaixo).
+Risco de neutropenia
+Os doentes tratados com cabazitaxel podem fazer profilaxia com G-CSF, de acordo com os
+procedimentos em vigor da Sociedade Americana de Oncologia Clínica (ASCO) e/ou os
+procedimentos institucionais em vigor de forma a reduzir ou controlar o risco de complicações
+neutropénicas (neutropenia febril, neutropenia prolongada ou infeção neutropénica). A profilaxia
+primária com G-CSF deverá ser considerada em doentes com quadro clínico de alto risco (idade >65
+anos, mau estado geral, episódios prévios de neutropenia febril, áreas de irradiação prévia extensas,
+estado de nutrição deficiente ou outras comorbilidades graves) que os predisponha a um aumento de
+complicações devido a neutropenia prolongada. O uso de G-CSF mostrou limitar a incidência e
+gravidade da neutropenia.
+4
+
+A neutropenia é a reação adversa mais comum de cabazitaxel (ver secção 4.8). A monitorização
+semanal do hemograma completo é essencial durante o ciclo 1 e em seguida antes de cada ciclo de
+tratamento de forma a que, se necessário, a dose seja ajustada.
+A dose deverá ser reduzida em caso de neutropenia febril ou neutropenia prolongada apesar de
+tratamento apropriado (ver secção 4.2).
+Os doentes devem iniciar novamente o tratamento apenas quando os neutrófilos voltarem ao nível de
+≥1.500/mm3 (ver secção 4.3).
+Doenças gastrointestinais
+Sintomas tais como dor e sensibilidade abdominal, febre, obstipação persistente, diarreia, com ou sem
+neutropenia, podem ser manifestações precoces de toxicidade gastrointestinal grave e devem ser
+avaliadas e tratadas prontamente. O adiamento ou descontinuação do tratamento com Cabazitaxel pode
+ser necessário.
+Risco de náusea, vómitos, diarreia e desidratação
+Se os doentes apresentarem diarreia após a administração de cabazitaxel podem ser tratados com os
+antidiarreicos habituais. Devem ser tomadas as medidas adequadas para rehidratar os doentes. A
+diarreia pode ocorrer com mais frequência em doentes que tenham recebido previamente radiação
+abdomino-pélvica. A desidratação é mais comum em doentes com idade igual ou superior a 65 anos.
+Devem ser tomadas medidas apropriadas para rehidratar os doentes e para monitorizar e corrigir os
+níveis eletrolíticos séricos, particularmente o potássio. Pode ser necessário adiar o tratamento ou
+reduzir a dose em caso de diarreia de grau ≥3 (ver secção 4.2). Se os doentes apresentarem náuseas ou
+vómitos podem ser tratados com os antieméticos habituais.
+Risco de reacções gastrointestinais graves
+A hemorragia e perfuração gastrointestinal (GI), ileus, colite, incluindo consequências fatais, têm sido
+notificadas em doentes medicados com cabazitaxel (ver secção 4.8). É aconselhada precaução no
+tratamento de doentes com maior risco de desenvolverem complicações gastrointestinais: doentes com
+neutropenia, idosos, doentes medicados concomitantemente com AINEs, doentes em terapia antiplaquetária ou anti-coagulante e doentes com história de radioterapia pélvica ou doenças
+gastrointestinais tais como ulceração e sangramento gastrointestinal.
+Neuropatia periférica
+Foram observados casos de neuropatia periférica e neuropatia periférica sensitiva (p.ex., parestesia,
+diastesia) e neuropatia periférica motora em doentes tratados com cabazitaxel. Os doentes a fazer
+tratamento com cabazitaxel devem ser aconselhados a informar o seu médico, antes de continuarem o
+tratamento, se sentiram sintomas de neuropatia tais como dor, sensação de queimadura, formigueiro,
+adormecimento ou fraqueza. Os médicos devem avaliar a presença ou agravamento de neuropatia
+antes de cada tratamento. O tratamento deve ser adiado até melhoria dos sintomas. A dose de
+cabazitaxel deve ser reduzida de 25 mg/m2 para 20 mg/m2 em caso de neuropatia periférica persistente
+de grau >2 (ver secção 4.2).
+Anemia
+Foi observada anemia em doentes a receber cabazitaxel (ver secção 4.8). A hemoglobina e o
+hematócrito devem ser verificados antes do tratamento com cabazitaxel e se os doentes apresentarem
+sinais ou sintomas de anemia ou perda de sangue. Recomenda-se precaução em doentes com
+hemoglobina <10 g/dl e devem ser tomadas as medidas apropriadas conforme clinicamente indicado.
+Risco de insuficiência renal
+Foram notificadas complicações renais associadas a sepsis, desidratação grave devida a diarreia,
+vómitos e uropatia obstrutiva. Foram observados casos de insuficiência renal incluindo alguns com
+resultado fatal. Se tal ocorrer devem ser tomadas medidas apropriadas para identificar a causa e tratar
+os doentes intensivamente.
+Durante o tratamento com cabazitaxel deve ser assegurada uma hidratação adequada. O doente deve
+ser avisado para notificar de imediato qualquer alteração significativa no volume de urina diário. A
+creatinina sérica deve ser medida no início do tratamento, com cada hemograma e sempre que o
+5
+
+doente notifique uma alteração do débito urinário. O tratamento com cabazitaxel deve ser
+interrompido em caso de qualquer degradação da função renal até insuficiência renal ≥CTCAE 4.0
+Grau 3.
+Doenças respiratórias
+Foram notificados casos de pneumonia intersticial/pneumonite e doença pulmonar intersticial e podem
+estar associados a um resultado fatal (ver seção 4.8).
+Os doentes devem ser cuidadosamente monitorizados imediatamente investigados e tratados
+convenientemente, caso se desenvolvam novos sintomas pulmonares ou o seu agravamento. A
+interrupção da terapêutica com carbazitaxel é recomendada até que o diagnóstico esteja disponível. O
+uso precoce de medidas de cuidados de suporte podem ajudar a melhorar a condição. Deve ser
+cuidadosamente avaliado o benefício de retomar o tratamento com carbazitaxel.
+Risco de arritmias cardíacas
+Foram notificadas arritmias cardíacas, mais frequentemente taquicardia e fibrilhação auricular (ver
+secção 4.8)
+Idosos
+A população idosa (idade ≥65) tem maior probabilidade de apresentar certas reações adversas
+incluindo neutropenia e neutropenia febril (ver secção 4.8).
+Doentes com compromisso hepático
+O tratamento com JEVTANA é contraindicado em doentes com compromisso hepático grave
+(bilirrubina total >3x LSN) (ver secções 4.3 e 5.2).
+A dose deve ser reduzida para doentes com compromisso hepático ligeiro (bilirrubina total >1 até ≤1,5
+x LSN ou AST>1,5 x LSN) (ver secções 4.2 e 5.2).
+Interações
+Deve evitar-se a administração concomitante de inibidores potentes do CYP3A dado que podem
+aumentar as concentrações plasmáticas de cabazitaxel (ver secções 4.2 e 4.5). Se a administração
+concomitante com um inibidor potente do CYP3A não puder ser evitada, deve considerar-se uma
+monitorização atenta da toxicidade e uma redução da dose de cabazitaxel (ver secções 4.2 e 4.5).
+Deve evitar-se a administração concomitante com indutores potentes de CYP3A dado que podem
+reduzir as concentrações plasmáticas de cabazitaxel (ver secções 4.2 e 4.5).
+Excipientes
+Este medicamento contém 573 mg de alcóol (etanol) em cada frasco de solvente. A quantidade na
+dose deste medicamento é equivalente a menos de 11 ml de cerveja ou 5 ml de vinho. A pequena
+quantidade de álcool neste medicamento não terá quaisquer efeitos perceptíveis. No entanto, devem
+ser tomadas precauções especiais em grupos de alto risco, como doentes com doença hepática,
+epilepsia e doentes com histórico de alcoolismo.
+Medida contracetiva
+Os homens devem utilizar medidas contracetivas durante o tratamento e durante 4 meses após a
+interrupção do tratamento com cabazitaxel (ver secção 4.6).
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Os estudos in vitro mostraram que cabazitaxel é principalmente metabolizado através do CYP3A
+(80% a 90%) (ver secção 5.2)
+
+6
+
+Inibidores do CYP3A
+A administração repetida de cetoconazol (400 mg uma vez por dia), um inibidor potente do CYP3A,
+resultou numa diminuição de 20% na depuração do cabazitaxel, que corresponde a um aumento de
+25% na AUC. Portanto, a administração concomitante de inibidores potentes do CYP3A (p.ex.
+cetoconazol, itraconazol, claritromicina, indinavir, nefazodona, nelfinavir, ritonavir, saquinavir,
+telitromicina, voriconazol) deve ser evitada uma vez que pode ocorrer um aumento das concentrações
+plasmáticas de cabazitaxel. (ver secções 4.2 e 4.4).
+A administração concomitante de aprepitante, um inibidor moderado do CYP3A, não teve efeito na
+depuração do cabazitaxel.
+Indutores do CYP3A
+A administração repetida de rifampicina (600 mg uma vez por dia), um indutor potente do CYP3A,
+resultou num aumento de 21% na depuração do cabazitaxel, que corresponde a uma diminuição de
+17% na AUC. Portanto, a administração concomitante de indutores potentes do CYP3A
+(p.ex.fenitoína, carbamazepina, rifampicina, rifabutina, rifapentina, fenobarbital) deve ser evitada uma
+vez que pode ocorrer uma diminuição das concentrações plasmáticas do cabazitaxel (ver secções 4.2 e
+4.4). Além disso, os doentes devem evitar tomar hipericão.
+OATP1B1
+O cabazitaxel mostrou também inibir in vitro as proteinas transportadoras do Polipétido Transportador
+de Aniões Orgânicos (OATP1B1). O risco de interação com os substractos da OATP1B1 (por ex.,
+estatinas, valsartan, repaglinida) é possível, principalmente durante a perfusão (1 hora) e até 20
+minutos após o fim desta. Recomenda-se um intervalo de 12 horas antes da perfusão e de, pelo menos,
+3 horas após o fim da perfusão, antes de administrar os substratos da OATP1B1.
+Vacinação
+A administração de vacinas vivas ou atenuadas em doentes imunocomprometidos por agentes
+quimioterápicos pode resultar em infeções graves ou fatais. A vacinação com vacina atenuada deve
+ser evitada em doentes a receber cabazitaxel. Podem ser administradas vacinas mortas ou inativas; no
+entanto, a resposta a estas vacinas pode ser reduzida.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Medida contracetiva
+Devido ao risco genotóxico de cabazitaxel (ver secção 5.3), os homens devem utilizar métodos
+contracetivos eficazes durante o tratamento e durante 4 meses após a interrupção do tratamento com
+cabazitaxel.
+Os homens que estiverem a receber cabazitaxel devem ser aconselhados a não ter filhos e a informar
+imediatamente os seus médicos caso tal aconteça.
+Gravidez
+Não existem dados sobre o uso de cabazitaxel em mulheres grávidas. Os estudos em animais
+mostraram toxicidade reprodutiva com doses maternotóxicas (ver secção 5.3) e que o cabazitaxel
+atravessa a barreira placentária (ver secção 5.3). Tal como com outros agentes citotóxicos, cabazitaxel
+pode causar dano fetal em mulheres grávidas expostas.
+Cabazitaxel não está indicado para utilização em mulheres.
+Amamentação
+Os dados farmacocinéticos disponíveis em animais mostraram haver excreção do cabazitaxel e dos
+seus metabolitos no leite (ver secção 5.3).
+Fertilidade
+Estudos em animais mostraram que o cabazitaxel afetou o sistema reprodutivo em ratos e cães machos
+sem qualquer efeito funcional na fertilidade (ver secção 5.3). No entanto, considerando a atividade
+farmacológica dos taxanos, o seu potencial genotóxico por um mecanismo aneugénico e o efeito de
+
+7
+
+vários componentes desta classe na fertilidade em estudos animais, não pode ser excluido o efeito na
+fertilidade masculina dos seres humanos.
+Os homens tratados com cabazitaxel devem procurar aconselhamento sobre a conservação de esperma
+antes do tratamento.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+O cabazitaxel tem uma influência moderada na capacidade de conduzir e utilizar máquinas dado que
+pode causar fadiga e tonturas. Os doentes devem ser aconselhados a não conduzir ou utilizar máquinas
+se apresentarem estas reações adversas durante o tratamento.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+A segurança de JEVTANA em associação com prednisona ou prednisolona foi avaliada em 3 estudos
+aleatorizados, abertos e controlados (TROPIC, PROSELICA e CARD) totalizando 1092 doentes com
+carcinoma da próstata metastizado resistente à castração que foram tratados com 25 mg/m 2 de
+cabazitaxel em administração única a cada três semanas. Os doentes receberam uma mediana de 6 a 7
+ciclos de cabazitaxel.
+As incidências da análise agrupada destes 3 estudos são apresentadas abaixo e na lista tabelada.
+As reações adversas mais frequentes, em todos os graus foram anemia (99,0%), leucopenia (93,0%),
+neutropenia (87,9%), trombocitopenia (41,1%), diarreia (42,1%), fadiga (25,0%) e astenia (15,4%).
+As reações adversas mais frequentes de grau ≥3 que ocorreram em pelo menos 5% dos doentes foram
+neutropenia (73,1%), leucopenia (59,5%), anemia (12,0%), neutropenia febril (8,0%) e diarreia
+(4,7%).
+A descontinuação do tratamento devido a reações adversas ocorreu com frequências semelhantes nos 3
+estudos (18,3% no TROPIC, 19,5% no PROSELICA e 19,8% no CARD) em doentes a receber
+cabazitaxel. As reações adversas mais comuns (> 1,0%) que levaram à descontinuação de cabazitaxel
+foram hematúria, fadiga e neutropenia.
+Lista tabelada das reações adversas
+As reações adversas estão listadas no Quadro 2 de acordo com a classe de sistema de órgãos MedDRA
+e categorias de frequência. Dentro de cada grupo de frequência, as reações adversas são apresentadas
+por ordem decrescente de gravidade. A intensidade das reações adversas está classificada de acordo
+com os CTCAE 4.0 (grau ≥3 = G≥3). A frequência é baseada em todos os graus e definida como:
+muito frequentes (≥1/10), frequentes (≥1/100 a <1/10), pouco frequentes (≥1/1.000 a <1/100), raros
+(≥1/10.000 a <1/1.000), muito raros (<1/10.000), desconhecido (não pode ser calculado a partir dos
+dados disponíveis).
+
+8
+
+Quadro 2: Reações adversas notificadas e alterações hematológicas com cabazitaxel em associação
+com prednisona e prednisolona resultantes da análise agrupada (n=1092)
+Classes de
+Reação Adversa
+sistema de órgãos
+Muito
+frequente
+Infeção
+neutropénica
+/sepsis *
+Infeções e
+Choque séptico
+infestações
+Sépsis
+Celulite
+Infeção do trato
+urinário
+Gripe
+Cistite
+Infeção das vias
+respiratórias
+superiores
+Herpes zoster
+Candidíase
+Neutropeniaa*
+Doenças do sangue Anemiaa
+e do sistema
+Leucopeniaa
+linfático
+Trombocitopeniaa
+Neutropenia
+Febril
+Doenças do
+Hipersensibilidade
+sistema imunitário
+Redução apetite
+Doenças do
+Desidratação
+metabolismo e da Hiperglicémia
+nutrição
+Hipocaliémia
+Perturbações do
+Insónia
+foro psiquiátrico
+Ansiedade
+
+Doenças do
+sistema nervoso
+
+Todos os graus
+n (%)
+Frequente
+Pouco
+frequentes
+48 (4,4)
+10 (0,9)
+103 (9,4)
+22 (2,0)
+22 (2,0)
+23 (2,1)
+
+0
+2 (0,2)
+0
+
+14 (1,3)
+11 (1,0)
+
+0
+1 (<0,1)
+790 (73,1)
+
+8 (0.7)
+
+950 (87,9)
+1073 (99,0)
+1008 (93,0)
+478 (44,1)
+
+130 (12,0)
+645 (59,5)
+44 (4,1)
+87 (8,0)
+
+87 (8,0)
+7 (0,6)
+
+192 (17,6)
+
+0
+
+45 (4,1)
+
+11 (1,0)
+11 (1,0)
+7 (0,6)
+2 (0,2)
+0
+
+13 (1,2)
+
+0
+
+12 (1,1)
+
+2 (0,2)
+
+64 (5,9)
+56 (5,1)
+
+0
+0
+
+40 (3,7)
+
+2 (0,2)
+
+89 (8,2)
+
+6 (0,5)
+
+27 (2,5)
+11 (1,10)
+8 (0,7)
+
+9 (0,8)
+46 (4,2)
+18 (1,6)
+63 (5,8)
+56 (5,1)
+15 (1,4)
+9 (0,8)
+11 (1,0)
+9
+
+42 (3,8)
+10 (0,9)
+13 (1,2)
+3 (0,3)
+19 (1,7)
+
+13 (1,2)
+
+Estado
+confusional
+Disgeusia
+Alteração de
+paladar
+Neuropatia
+periférica
+Neuropatia
+sensitiva
+periférica
+Polineuropatia
+Parestesia
+Hipostesia
+Tonturas
+Cefaleia
+Letargia
+Ciática
+Conjuntivite
+
+Grau > 3
+n (%)
+
+2 (0,2)
+0
+1 (<0,1)
+0
+1 (<0,1)
+1 (<0,1)
+1 (<0,1)
+0
+
+Classes de
+Reação Adversa
+sistema de órgãos
+Afeções oculares Hipersecreção
+lacrimal
+Afeções do ouvido Zumbidos
+e do labirinto
+Vertigem
+Fibrilhação
+Cardiopatias*
+auricular
+Taquicardia
+Hipotensão
+Trombose venosa
+Vasculopatias
+profunda
+Hipertensão
+Hipotensão
+ortostática
+Afrontamentos
+Rubor
+Doenças
+Dispneia
+respiratórias,
+Tosse
+torácicas e do
+Dor orofaríngea
+mediastino
+Pneumonia
+Embolia pulmonar
+Diarreia
+Náuseas
+Vómitos
+Obstipação
+Doenças
+Dor abdominal
+gastrointestinais
+Dispepsia
+Dor abdominal
+superior
+Hemorroidas
+Refluxo
+Gastroesofágico
+Hemorragia retal
+Boa seca
+Distensão
+abdominal
+Estomatite
+Íleo*
+Gastrite
+Colite*
+Perfuração
+Gastrointestinal
+Hemorragia
+Gastrointestinal
+Afeções dos
+Alopecia
+tecidos cutâneos e Pele seca
+subcutâneos
+Eritema
+Doenças das unhas
+Afeções
+Lombalgia
+musculosqueléticas Artralgia
+e dos tecidos
+Dor nas
+conjuntivos
+extremidades
+Espasmos
+musculares
+Mialgia
+
+Todos os graus
+n (%)
+22 (2,0)
+
+Grau > 3
+n (%)
+0
+7 (0,6)
+
+15 (1,4)
+14 (1,3)
+
+0
+1 (<0,1)
+5 (0,5)
+
+11 (1,0)
+38 (3,5)
+12 (1,1)
+
+1 (<0,1)
+5 (0,5)
+9 (0,8)
+
+29 (2,7)
+6 (0,5)
+23 (2,1)
+
+105 (9,6)
+53 (4,9)
+46 (4,2)
+
+1 (<0,1)
+0
+9 (0,8)
+0
+1 (< 0,1)
+16 (1,5)
+23 (2,1)
+51 (4,7)
+14 (1,3)
+14 (1,3)
+8 (0,7)
+15 (1,4)
+0
+1 (< 0,1)
+
+22 (2,0)
+26 (2,4)
+
+0
+1 (< 0,1)
+
+14 (1,3)
+19 (1,7)
+14 (1,3)
+
+4 (0,4)
+2 (0,2)
+1 (< 0.1)
+
+9 (0,8)
+97 (8,9)
+79 (7,2)
+26 (2,4)
+26 (2,4)
+30 (2,7)
+460 (42,1)
+347 (31,8)
+207 (19,0)
+202 (18,5)
+
+46 (4,2)
+7 (0,6)
+10 (0,9)
+10 (0,9)
+3 (0,3)
+
+2 (0,2)
+5 (0,5)
+0
+5 (0,5)
+1 (<0,1)
+
+2 (0,2)
+
+1 (<0,1)
+
+80 (7,3)
+23 (2,1)
+
+88 (8,1)
+76 (7,0)
+
+0
+0
+0
+0
+24 (2,2)
+9 (0,8)
+9 (0,8)
+
+51 (4,7)
+
+0
+
+40 (3,7)
+
+2 (0,2)
+
+8 (0,7)
+18 (1,6)
+166 (15,2)
+
+10
+
+12 (1,1)
+1 (<0,1)
+
+Classes de
+Reação Adversa
+sistema de órgãos
+Lombalgia
+muscolosquelética
+Fraqueza muscular
+Dor do flanco
+Insuficiência renal
+aguda
+Insuficiência renal
+Doenças renais e
+Disúria
+urinárias
+Cólica renal
+Hematúria
+205 (18,8)
+Polaquiúria
+Hidronefrose
+Retenção urinária
+Incontinência
+urinária
+Obstrução ureteral
+Doenças dos
+Dor pélvica
+órgãos genitais e
+da mama
+Fadiga
+Astenia
+Pirexia
+Edema periférico
+Perturbações
+Inflamação da
+gerais e alterações mucosa
+no local de
+Dor
+administração
+Dor torácica
+Edema
+Arrepios
+Mal-estar
+Exames
+Perda de peso
+complementares
+Aumento da
+de diagnóstico
+aminotransferase
+aspartato
+Aumento das
+transaminases
+a
+com base em valores laboratoriais
+* ver secção detalhada abaixo
+
+Todos os graus
+n (%)
+34 (3,1)
+
+Grau > 3
+n (%)
+3 (0,3)
+
+31 (2,8)
+17 (1,6)
+21 (1,9)
+
+1 (0,2)
+5 (0,5)
+14 (1,3)
+8 (0,7)
+
+6 (0,5)
+0
+2 (0,2)
+33 (3,0)
+2 (0,2)
+13 (1,2)
+4 (0,4)
+0
+
+8 (0,7)
+
+6 (0,5)
+5 (0,5)
+
+52 (4,8)
+14 (1,3)
+26 (2,4)
+25 (2,3)
+36 (3,3)
+22 (2,0)
+20 (1,8)
+
+42 (3,8)
+32 (2,9)
+
+333 (30,5)
+
+227 (20,8)
+90 (8,2)
+96 (8.8)
+
+5 (0,5)
+
+2 (0,2)
+1 (<0, 1)
+
+23 (2,1)
+36 (3,3)
+11(1,0)
+8 (0,7)
+12 (1,1)
+21 (1,9)
+81 (7,4)
+13 (1,2)
+7 (0,6)
+
+7 (0,6)
+2 (0,2)
+1 (<0, 1)
+0
+0
+0
+1 (<0, 1)
+1 (<0, 1)
+
+Descrição das reações adversas selecionadas
+Neutropenia e acontecimentos clínicos associados
+O uso de G-CSF demonstrou limitar a incidência e gravidade da neutropenia (ver secções 4.2 e 4.4).
+A incidência de neutropenia de grau ≥3 com base em dados laboratoriais variou dependendo do uso de
+G-CSF de 44,7% a 76,7%, com a incidência mais baixa reportada quando usada a profilaxia com GCSF. Da mesma forma, a incidência de neutropenia febril grau ≥ 3 variou de 3,2% a 8,6%.
+Complicações neutropénicas (incluindo neutropenia febril, infecção neutropénica / sepsis e colite
+neutropénica) que em alguns casos resultaram num desfecho fatal, foram reportadas em 4,0% dos
+doentes quando a profilaxia primária com G-CSF foi usada, e em 12,8% dos doentes de maneira
+diferente.
+Cardiopatias e arritmias
+11
+
+Na análise agrupada, eventos cardíacos foram reportados em 5,5% dos doentes, dos quais 1,1%
+apresentaram arritmias cardíacas de grau >3. A incidência da taquicardia com cabazitaxel foi de 1,0%,
+das quais menos de 0,1% foram de grau ≥3. A incidência da fibrilhação auricular foi de 1,3%. Eventos
+de insuficiência cardíaca foram notificados em 2 doentes (0,2%), um dois quais com desfecho fatal.
+Foi notificado um caso de fibrilhação ventricular fatal num doente (0,3%) e paragem cardíaca em 3
+doentes (0,5%). Nenhum foi considerado relacionado com o fármaco pelo investigador.
+Hematúria
+Na análise agrupada, a frequência de todos os graus de hematúria foi de 18,8% a 25 mg/m 2 (ver secção
+5.1). Foram identificados fatores de confundimento, quando documentados, tais como progressão da
+doença, instrumentação, infecção ou terapia de anticoagulação/AINE/ácido acetilsalicilico em quase
+metade dos casos.
+Outros valores laboratoriais anormais
+Na análise agrupada, a incidência da anemia de grau ≥3, o aumento de AST, ALT e bilirrubina
+baseada em valores laboratoriais foram, respetivamente, de 12,0%; 1,3%; 1,0% e 0,5%.
+Doenças gastrointestinais:
+Colite (incluindo enterocolite e enterocolite neutropénica), e gastrite têm sido observadas. Hemorragia
+gastrointestinal, perfuração gastrointestinal, e íleo (obstrução intestinal) também têm sido notificadas
+(ver secção 4.4.).
+Doenças respiratórias
+Foram notificados casos de pneumonia intersticial/pneumonite e doença pulmonar intersticial, por
+vezes fatal, com frequência desconhecida (não pode ser calculado pelos dados disponíveis) (ver secção
+4.4)
+Doenças renais e urinárias
+Foi notificado com pouca frequência cistite devido a um fenómeno de hipersensibilidade a radiações,
+incluindo cistite hemorrágica.
+População pediátrica
+Ver secção 4.2
+Outras populações especiais
+Idosos
+Dos 1092 doentes tratados com cabazitaxel 25 mg/m 2 nos estudos de carcinoma da próstata,755
+doentes tinham 65 anos ou mais, incluindo 238 doentes com mais de 75 anos.
+Foram notificadas as seguintes reações adversas não hematológicas em taxas superiores em  5% em
+doentes de 65 anos ou mais em comparação com doentes mais jovens: fadiga (33,5% vs 23,7%),
+astenia (23,7% vs 14,2%), obstipação (20,4% vs. 14,2%) dispneia (10,3% vs 5,6%) respectivamente.
+A neutropenia (90,9% vs 81,2%) e trombocitopenia (48,8% vs 36,1%) foram também 5% superiores
+em doentes com idade igual ou superior a 65 anos em comparação com doentes mais jovens. A
+neutropenia de grau ≥3 e neutropenia febril foram notificadas com as taxas de diferença mais elevadas
+entre os dois grupos de idade (respectivamente 14% e 4% mais elevado em doentes ≥ 65 anos em
+comparação com doentes <65 anos) (ver secções 4.2 e 4.4).
+Notificações de suspeitas de reacções adversas
+A notificação de suspeitas de reacções adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização continua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reacções adversas através do sistema
+nacional de notificação mencionado no Apêndice V*.
+4.9
+
+Sobredosagem
+12
+
+Não há antídoto conhecido para o cabazitaxel. As complicações esperadas de sobredosagem podem
+consistir na exacerbação de reações adversas como supressão da medula óssea e doenças
+gastrointestinais.
+Em caso de sobredosagem o doente deve ser mantido numa unidade especializada e monitorizado
+cuidadosamente. Os doentes devem receber terapêutica com G-CSF o mais cedo possível após
+manifestação da sobredosagem. Devem ser tomadas outras medidas sintomáticas apropriadas.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Agentes antineoplásicos, taxanos. Código L01CD04
+Mecanismo de ação
+Cabazitaxel é um agente antineoplásico que atua rompendo a rede microtubular das células.
+Cabazitaxel liga-se à tubulina e promove a agregação da tubulina em microtúbulos enquanto
+simultaneamente inibe a sua dissociação. Isto conduz à estabilização dos microtúbulos, o que resulta
+na inibição das funções celulares de interfase e mitose.
+Efeitos farmacodinâmicos
+Cabazitaxel demonstrou um largo espectro de atividade antitumoral contra carcinomas humanos
+avançados xenografados em ratos. Cabazitaxel atua em tumores sensíveis ao docetaxel. Além disso,
+cabazitaxel demonstrou atuar em modelos de carcinoma insensíveis à quimioterapia, incluindo
+docetaxel.
+Eficácia clínica e segurança
+A eficácia e segurança de JEVTANA em associação com prednisona e prednisolona foram avaliadas
+num estudo de fase III (estudo EFC6193) multicêntrico, internacional, aberto e aleatorizado em
+doentes com carcinoma da próstata metastizado resistente à castração previamente tratados com um
+regime contendo docetaxel.
+A sobrevivência global (SG) foi o objetivo primário de eficácia do estudo.
+Os objetivos secundários incluíram sobrevivência livre de progressão [PFS (definida como o período
+a partir da aleatorização até à progressão do tumor, progressão do antigénio prostático específico
+(PSA), progressão da dor ou morte por qualquer causa, o que ocorrer primeiro], taxa de resposta do
+carcinoma com base nos critérios de avaliação de resposta em carcinomas sólidos (RECIST),
+progressão do PSA (definido como um aumento de ≥25% ou >50% no PSA dos indivíduos que
+responderam e que não responderam ao tratamento, respetivamente), resposta ao PSA (redução dos
+níveis séricos de PSA de pelo menos 50%), progressão de dor [avaliada usando a escala de Intensidade
+da dor atual (present pain intensity PPI) do questionário McGill-Melzack e uma escala analgésica
+(AS)] e de resposta à dor (definida como uma redução superior a 2 pontos da mediana da linha de base
+da PPI sem aumento concomitante da AS, ou redução ≥50% no uso de analgésicos a partir da mediana
+da linha de base da AS sem aumento concomitante da dor).
+Foi aleatorizado um total de 755 doentes para receber ou JEVTANA a 25 mg/m 2 por via intravenosa
+de 3 em 3 semanas durante um máximo de 10 ciclos com 10 mg de prednisona ou prednisolona
+diariamente por via oral (n=378) ou para receber mitoxantrona a 12 mg/m 2 por via intravenosa de 3 em
+3 semanas durante um máximo de 10 ciclos com 10 mg de prednisona ou prednisolona diariamente
+por via oral (n=377).
+Este estudo incluiu doentes com mais de 18 anos com carcinoma da próstata metastizado resistente à
+castração quer pelos critérios RECIST quer doença não mensurável com aumento dos níveis de PSA
+ou aparecimento de novas lesões, e estado geral de 0 a 2 segundo o Eastern Cooperative Oncology
+Group (ECOG). Os doentes tinham de apresentar valores de neutrófilos >1.500/mm 3, plaquetas
+
+13
+
+>100.000/mm3, hemoglobina >10 g/dl, creatinina <1.5 x LSN, bilirrubina total <1 x LSN, AST e ALT
+<1.5 x LSN.
+Não foram incluídos no estudo os doentes com antecedentes de insuficiência cardíaca congestiva, ou
+enfarte de miocárdio nos últimos seis meses, ou doentes com arritmias cardíacas não controladas,
+angina de peito e /ou hipertensão.
+Os dados demográficos, incluindo idade, raça e estado geral (0 a 2) segundo ECOG, foram
+equilibrados entre os grupos do estudo. No grupo JEVTANA, a idade média foi de 68 anos, intervalo
+(46-92) e a distribuição racial foi de 83,9% Caucasiana, 6,9% Asiática/Oriental, 5,3% Negra e 4%
+Outros
+O número mediano de ciclos foi de 6 no grupo JEVTANA e 4 no grupo mitoxantrona. O número de
+doentes que completaram o tratamento do estudo (10 ciclos) foi, respetivamente, de 29,4% e 13,5% no
+grupo JEVTANA e no grupo comparador.
+A sobrevivência global foi significativamente maior com JEVTANA em comparação com
+mitoxantrona (15,1 meses versus 12,7, respetivamente) com 30% de redução de risco de morte em
+comparação com mitoxantrona (ver quadro 3 e figura 1).
+Um sub-grupo de 59 doentes recebeu uma dose cumulativa prévia de docetaxel <225 mg/m 2 (29
+doentes no grupo JEVTANA, 30 doentes no braço mitoxantrona). Não houve diferença significiativa
+na sobrevivência global neste grupo de doentes (HR (95% IC) 0,96 (0,49-1,86).
+Quadro 3 - Eficácia de JEVTANA no tratamento de doentes com carcinoma da próstata metastizado
+resistente à castração no estudo EFC6193
+JEVTANA + prednisona
+n=378
+
+mitoxantrona + prednisona
+n=377
+
+Sobrevivência global
+Número de doentes falecidos (%)
+234 (61,9%)
+279 (74%)
+Sobrevivência mediana (meses)
+15,1 (14,1-16,3)
+12.7 (11,6-13,7)
+(95% IC)
+Taxa de risco (HR)1 (95% IC )
+0,70 (0,59-0,83)
+Valor p
+<0,0001
+1
+HR estimado usando o modelo Cox; uma taxa de risco inferior a 1 favorece JEVTANA
+
+14
+
+Figura1: Curvas de sobrevivência global de Kaplan Meier (EFC6193)
+
+100
+mitoxantrona + prednisona
+cabazitaxel + prednisona
+
+Proporção de sobreiviência global
+
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+0
+Número em risco
+mitoxantrona
++ predniso na
+cabazitaxel
++ predniso na
+
+377
+378
+
+6
+300
+321
+
+12
+
+18
+Tempo (meses)
+
+188
+231
+
+67
+90
+
+24
+
+30
+
+11
+28
+
+1
+4
+
+Houve uma melhoria no PFS no grupo de JEVTANA em comparação com o grupo mitoxantrona, 2,8
+(2,3-3,0) meses versus 1,4 (1,4-1,7), respetivamente, HR (95% IC) 0,74 (0,64-0,86), p <0,0001.
+Houve uma taxa de resposta tumoral significativamente superior de 14,4% (95% IC: 9,6-19,3) nos
+doentes do braço JEVTANA em comparação com 4,4% (95% IC: 1,6-7,2) para os doentes do braço
+mitoxantrona, p=0,0005.
+Os objetivos secundários de PSA foram positivos no braço JEVTANA. Houve uma progressão mediana
+do PSA de 6,4 meses (95% IC: 5,1-7,3) para os doentes do grupo JEVTANA, em comparação com 3,1
+meses (95% IC: 2,2-4,4) no grupo mitoxantrona, HR 0,75 meses (95% IC: 0,63-0,90), p=0,0010. A
+resposta de PSA foi de 39,2% nos doentes no grupo JEVTANA (95% IC: 33,9-44,5) versus 17,8% de
+doentes com mitoxantrona (95% IC: 13,7-22,0), p=0,0002.
+Não se observaram diferenças estatísticas entre os dois grupos de tratamento para a progressão da dor
+e resposta à dor.
+Num estudo de fase III de não-inferioridade, multicêntrico, multinacional, aleatorizado e aberto
+(estudo EFC11785), 1200 doentes com carcinoma da próstata metastizado resistente à castração,
+previamente tratados com um regime contendo docetaxel, foram aleatorizados para receber uma dose
+de cabazitaxel 25 mg/m2 (n=602) ou 20 mg/m2 (n=598). A sobrevivência global (SG) foi o primeiro
+objetivo da eficácia.
+O estudo atingiu o seu primeiro objectivo ao demonstrar a não inferioridade do cabazitaxel 20 mg/m 2
+em comparação com 25 mg/m2 (ver quadro 4). Uma percentagem estatisticamente mais elevada
+(p<0,001) de doentes mostrou uma resposta PSA no grupo de 25 mg/m 2 (42,9%) comparado com o de
+20 mg/m2 (29,5%). Observou-se um risco estatisticamente mais elevado de progressão do PSA em
+15
+
+doentes com dose de 20 mg/m2 em relação à dose de 25 mg/m2 (HR 1,195; 95% IC: 1,025 a 1,393).
+Não houve diferença estatística em relação aos outros objetivos secundários (PFS, resposta tumoral e
+dor, progressão tumoral e dor e quatro subcategorias de FACT-P).
+Quadro 4 Sobrevivência global no estudo EFC11785 com cabazitaxel 25 mg/m2 versus cabazitaxel 20
+mg/m2 (análise de intenção de tratar) – objetivo primário de eficácia.
+CBZ20+PRED
+n=598
+
+CBZ25+PRED
+n=602
+
+Sobrevivência global
+Número de mortes, n (%)
+497 (83,1 %)
+501 (83,2%)
+Sobrevivência mediana (95% IC)
+13,4 (12,19 to 14,88)
+14,5 (13,47 to 15,28)
+(meses)
+Taxa de riscoa
+versus CBZ25+PRED
+1,024
+1-face 98.89% UCI
+1,184
+1-face 95% LCI
+0,922
+CBZ20=Cabazitaxel 20 mg/m2, CBZ25=Cabazitaxel 25 mg/m2, PRED=Prednisona/Prednisolona
+IC=intervalo de confiança, LCI=limite inferior do intervalo de confiança, UCI=limite superior do
+intervalo de confiança
+a A taxa de risco é estimada usando um modelo de regressão de Cox Proportional Hazards. A taxa de
+risco < 1 indica um risco menor de Cabazitaxel 20 mg/m2 em relação a 25 mg/m2.
+O perfil de segurança do cabazitaxel 25 mg/m2 observado no estudo EFC11785 foi qualitativa e
+quantitativamente semelhante ao observado no estudo EFC6193. O estudo EFC11785 demonstrou um
+melhor perfil de segurança para a dose de cabazitaxel 20 mg/m 2.
+Quadro 5 – Resumo dos dados de segurança para cabazitaxel 25 mg/m2 versus cabazitaxel 20
+
+mg/m2 no estudo EFC11785
+
+Número médio de ciclos /
+duração média do tratamento
+Número de doentes com
+redução da dose
+n (%)
+
+CBZ20+PRED
+n=580
+6/ 18 semanas
+
+CBZ25+PRED
+n=595
+7/ 21 semanas
+
+De 20 para 15 mg/m2: 58 (10,0%)
+De 15 para 12 mg/m2: 9 (1,6%)
+
+De 25 para 20 mg/m2: 128 (21,5%)
+De 20 para 15 mg/m2: 19 (3,2%)
+De 15 para 12 mg/m2: 1 (0,2%)
+
+Todos os graus de reações adversasa (%)
+Diarreia
+
+30,7
+
+39,8
+
+Nauseas
+
+24,5
+
+32,1
+
+Fadiga
+
+24,7
+
+27,1
+
+Hematuria
+
+14,1
+
+20,8
+
+Astenia
+
+15,3
+
+19,7
+
+Diminuição do apetite
+
+13,1
+
+18,5
+
+Vómitos
+
+14,5
+
+18,2
+
+Obstipação
+
+17,6
+
+18,0
+
+Lombalgia
+
+11,0
+
+13,9
+
+Neutropenia clínica
+
+3,1
+
+10,9
+
+16
+
+Infeção do trato urinário
+
+6,9
+
+10,8
+
+Neuropatia sensorial
+periférica
+
+6,6
+
+10,6
+
+Disgeusia
+
+7,1
+
+10,6
+
+Neutropenia clínica
+
+2,4
+
+9,6
+
+Neutropenia febril
+
+2,1
+
+9,2
+
+Grau ≥ 3 neutropenia
+
+41,8
+
+73,3
+
+Grau ≥ 3 anemia
+
+9,9
+
+13,7
+
+Grau ≥ 3 reações adversasb (%)
+
+Anomalias hematológicasc (%)
+
+Grau ≥ 3 trombocitopenia
+2,6
+4,2
+2
+2
+CBZ20=Cabazitaxel 20 mg/m , CBZ25=Cabazitaxel 25 mg/m , PRED=Prednisona/Prednisolona
+a Todos os graus de reações adversas com uma incidência superior a 10%
+b Grau ≥ 3 reações adversas com uma incidência superior a 5%
+c Baseado em valores laboratoriais
+Num estudo de fase IV prospetivo, multinacional, aleatorizado, controlado por ativo e aberto (estudo
+LPS14201/CARD), 255 doentes com cancro da próstata metastizado resistente à castração (CPmRC)
+previamente tratados, em qualquer ordem, com um regime terapêutico contendo docetaxel e com um
+agente direcionado para os RA (abiraterona ou enzalutamida, com progressão da doença 12 meses
+após o início do tratamento), foram aleatorizados para receber JEVTANA 25 mg/m 2 a cada 3 semanas
+com 10 mg de prednisona/prednisolona diariamente (n = 129) ou agentes direcionado para os RA
+(1000 mg de abiraterona uma vez por dia com 5 mg de prednisona/prednisolona duas vezes por dia ou
+160 mg de enzalutamida uma vez por dia) (n = 126). O objetivo primário foi a sobrevivência livre de
+progressão radiográfica (rPFS) conforme definido pelo Prostate Cancer Working Group-2 (PCWG2).
+Os objetivos secundários incluíram a sobrevivência global, a sobrevivência livre de progressão, a
+resposta PSA e a resposta tumoral.
+Os dados demográficos e as características da doença foram equilibrados entre os braços de
+tratamento. No início do estudo, a mediana geral da idade era de 70 anos, 95% dos doentes tinham um
+estado geral segundo ECOG entre 0 e 1 e a mediana da pontuação de Gleason era 8. Sessenta e um por
+cento (61%) dos doentes tinham recebido o seu tratamento prévio com um agente direcionado para os
+RA após o tratamento com docetaxel.
+O estudo atingiu o seu objetivo primário: a rPFS foi significativamente mais longa com JEVTANA em
+comparação com o agente direcionado para os RA (8,0 meses versus 3,7, respetivamente), com uma
+redução de 46% no risco de progressão radiográfica em comparação com o agente direcionado para os
+RA (ver tabela 6 e figura 2).
+Tabela 6 - Eficácia de JEVTANA no estudo CARD no tratamento de doentes com cancro da próstata
+metastático resistente à castração (análise de intenção de tratar) – Sobrevivência livre de progressão
+radiográfica (rPFS)
+JEVTANA
++ prednisona/prednisolona
++ G-CSF
+
+Número de eventos à data-limite (%)
+Mediana de rPFS (meses) (95% IC)
+
+n=129
+95 (73,6%)
+8,0 (5,7 a 9,2)
+17
+
+Agente direcionado para os RA:
+Abiraterona +
+prednisona/prednisolona
+ou
+Enzalutamida
+n=126
+101 (80,2%)
+3,7 (2,8 a 5,1)
+
+Taxa de risco (HR) (95% IC)
+Valor p1
+1
+teste de log-rank estratificado, limite de significância = 0,05
+
+0,54 (0,40 a 0,73)
+< 0,0001
+
+Figura 2 – Objetivo primário: Gráfico de Kaplan-Meier para PFS radiográfica (População ITT)
+
+Marcas de seleção indicam dados censurados.
+
+Nas análises de subgrupo planeadas para rPFS com base em fatores de estratificação na aleatorização
+foi obtida uma taxa de risco de 0,61 (IC 95%: 0,39 a 0,96) em doentes que receberam um agente
+direcionado para os RA previamente a docetaxel e uma taxa de risco de 0,48 (IC 95%: 0,32 a 0,70) em
+doentes que receberam um agente direcionado para os RA após docetaxel.
+JEVTANA foi estatisticamente superior aos agentes direcionado para os RA comparadores para cada
+um dos objetivos secundários principais com erro alfa protegido, incluindo sobrevivência global (13,6
+meses para o braço JEVTANA versus 11,0 meses para o braço do agente direcionado para os RA, HR
+0,64, IC 95%: 0,46 a 0,89; p = 0,008), sobrevivência livre de progressão (4,4 meses para o braço
+JEVTANA versus 2,7 meses para o braço do agente direcionado para os RA, HR 0,52; IC 95%: 0,40 a
+0,68), resposta PSA confirmada (36,3% para o braço JEVTANA versus 14,3% para o braço do agente
+direcionado para os RA, p = 0,0003) e melhor resposta tumoral (36,5% para o braço JEVTANA versus
+11,5% para o braço do agente direcionado para os RA, p = 0,004).
+O perfil de segurança de JEVTANA 25 mg/m2 observado no estudo CARD foi globalmente
+consistente com o observado nos estudos TROPIC e PROSELICA (ver secção 4.8). A incidência de
+eventos adversos de grau ≥ 3 foi de 53,2% no braço JEVTANA versus 46,0% no braço do agente
+direcionado para os RA. A incidência de eventos adversos graves de grau ≥ 3 foi de 31,7% no braço
+JEVTANA versus 37,1% no braço do agente direcionado para os RA. A incidência de doentes que
+descontinuaram definitivamente o tratamento do estudo devido a eventos adversos foi de 19,8% no
+braço JEVTANA versus 8,1% no braço do agente direcionado para os RA. A incidência de doentes
+com um evento adverso que levou à morte foi de 5,6% no braço JEVTANA versus 10,5% no braço do
+agente direcionado para os RA.
+População pediátrica
+A Agência Europeia de Medicamentos dispensou a obrigação de submissão dos resultados dos
+estudos com JEVTANA em todos os sub-grupos da população pediátrica na indicação cancro da
+próstata (ver secção 4.2 para informação sobre utilização pediátrica).
+18
+
+O JEVTANA foi avaliado num estudo aberto e multicêntrico de Fase 1/2 realizado num total de 39
+doentes pediátricos (com idades entre os 4 e os 18 anos na fase 1 do estudo e entre os 3 e os 16 anos na
+fase 2 do estudo). A parte da fase 2 não demonstrou eficácia do cabazitaxel como único agente na
+população pediátrica com glioma pontino intrínseco difuso (DIPG) recorrente ou refractário e glioma
+de alto grau (HGG) tratado com 30 mg / m².
+5.2
+
+Propriedades farmacocinéticas
+
+Foi realizada uma análise farmacocinética populacional em 170 doentes incluindo doentes com
+carcinomas sólidos avançados (n=69), carcinoma da mama metastizado (n=43) e carcinoma da
+próstata metastizado (n=67). Estes doentes receberam cabazitaxel em doses de 10 a 30 mg/m 2,
+semanalmente ou de 3 em 3 semanas.
+Absorção
+Após 1 hora de administração intravenosa de cabazitaxel a 25 mg/m 2 em doentes com carcinoma da
+próstata hormono-resistente metastizado (n=67), a Cmax foi 226 ng/ml (coeficiente de variação (CV):
+107%) e foi alcançada ao fim de uma hora de perfusão (Tmax). A AUC média foi de 991 ng.h/ml
+(CV: 34%).
+Não se observou desvio importante à proporcionalidade da dose de 10 a 30 mg/m² em doentes com
+carcinomas sólidos avançados (n=126).
+Distribuição
+O volume de distribuição (Vss) foi de 4870 l (2640 l/m² para um doente com uma BSA mediana de
+1,84m²) em estado de equilíbrio.
+In vitro, a ligação de cabazitaxel às proteínas séricas humanas foi de 89-92% e não foi saturável até
+50.000 ng/ml, o que cobre a concentração máxima observada nos estudos clínicos. Cabazitaxel liga-se
+principalmente à albumina sérica humana (82 %) e às lipoproteínas (87,9% para HDL, 69,8% para
+LDL e 55,8% para VLDL). In vitro, a relações de concentração sangue-plasma no sangue humano
+situam-se entre 0,90 e 0,99 mostrando que o cabazitaxel se distribui igualmente entre o sangue e o
+plasma.
+Biotransformação
+Cabazitaxel é extensamente metabolizado a nível hepático (> 95%), principalmente pela isoenzima
+CYP3A4 (80 a 90%). O Cabazitaxel é o principal componente circulante no plasma humano. Foram
+detetados sete metabolitos no plasma ( incluindo 3 metabolitos ativos sob a forma de O-desmetilações)
+em que o principal é responsável por 5% da exposição parental. Cerca de 20 metabolitos de
+cabazitaxel são excretados na urina e nas fezes.
+Com base em estudos in vitro, é possível a existência de um risco potencial de inibição pelo
+cabazitaxel em concentrações clinicamente relevantes em relação a medicamentos que sejam
+principalmente substratos do CYP3A4. Contudo, um estudo clínico demonstrou que o cabazitaxel
+(25mg/m2 administrado por infusão durante 1 hora) não modificou os níveis plasmáticos de
+midazolam, um substrato sonda do CYP3A. Assim, em doses terapêuticas, a co-administração de
+substratos do CYP3A com cabazitaxel a doentes não é esperado ter qualquer impacto clínico.
+Não há risco potencial de inibição de medicamentos que sejam substratos de outras enzimas CYP
+(1A2, 2B6, 2C9, 2C8, 2C19, 2E1 e 2D6), tal como não há risco potencial de indução pelo cabazitaxel
+em medicamentos que sejam substratos de CYP1A, CYP2C9 e CYP3A. In vitro, o cabazitaxel não
+inibiu as vias principais de biotransformação da varfarina em 7-hidroxivarfarina a qual é mediada pelo
+CYP2C9. Portanto, não é de esperar qualquer interação farmacocinética in vivo do cabazitaxel na
+varfarina.
+In vitro, cabazitazel não inibiu as Proteínas Multi-Resistentes (MRP): MRP1 e MRP2 ou
+Transportador Orgânico de Catiões (OCT1). Cabazitaxel inibiu o transporte da glicoproteína-p (PgP)
+(digoxina, vinblastina), das Proteínas Resistentes ao Carcinoma da Mama (BCRP) (metotrexato) e do
+Polipétido Transportador Orgânico de Aniões OATP1B3 (CCK8) em concentrações pelo menos 15
+vezes superiores ao que foi observado em ambiente clínico enquanto inibiu o transporte de OATP1B1
+(estradiol-17β-glucuronido) em concentrações apenas 5 vezes superiores ao que foi observado em
+abiente clínico. Portanto, é pouco provável o risco de interação in vivo com substratos de MRP, OCT1,
+19
+
+PgP, BCRP e OATP1B3 com doses de 25 mg/m 2. O risco de interação com o transportador OATP1B1
+é possível, principalmente durante a perfusão (1 hora) e até 20 minutos após o fim desta (ver secção
+4.5).
+Eliminação
+Após 1 hora de perfusão intravenosa de 25 mg/m2 de [14C]-cabazitaxel em doentes, aproximadamente
+80% da dose administrada foi eliminada em 2 semanas. Cabazitaxel é excretado, principalmente, nas
+fezes sob a forma de vários metabolitos (76% da dose) sendo a excreção renal de cabazitaxel e os
+metabolitos identificáveis inferior a 4% da dose (2,3% como medicamento inalterado na urina)
+Cabazitaxel teve uma depuração plasmática elevada de 48,5 l/h (26,4 l/h/m² para um doente com uma
+BSA mediana de 1,84 m²) e uma semivida terminal longa de 95 horas.
+Populações especiais
+Doentes idosos
+Na análise farmacocinética populacional em 70 doentes de 65 anos ou mais (57 entre 65 e 75 anos e
+13 doentes com mais de 75 anos) não se observou efeito de idade na farmacocinética de cabazitaxel
+Doentes pediátricos
+A segurança e eficácia de JEVTANA não foram estabelecidas em crianças e adolescentes com idade
+inferior a 18 anos.
+Compromisso hepático
+O cabazitaxel é eliminado principalmente por metabolismo hepático.
+Um estudo específico em 43 doentes com cancro com compromisso hepático, demonstrou não existir
+influência do compromisso hepático ligeiro (bilirrubina total >1 até ≤1,5 x LSN ou AST>1,5 x LSN)
+ou moderado (bilirrubina total >1,5 até ≤3,0 x LSN) na farmacocinética do cabazitaxel. A dose
+máxima tolerada (DMT) de cabazitaxel foi de 20 e 15 mg/m2 respetivamente.
+Em 3 doentes com compromisso hepático grave (bilirrubina total >3LSN), foi observada uma
+diminuição de 39% na depuração, quando comparado a doentes com compromisso hepático ligeiro,
+indicando algum efeito de compromisso hepático grave na farmacocinética do cabazitaxel. Em doentes
+com compromisso hepático grave, não foi estabelecida a DMT do cabazitaxel.
+Com base em dados de tolerância e segurança, a dose de cabazitaxel deveria ser reduzida, em doentes
+com compromisso hepático ligeiro (ver secções 4.2, 4.4). O JEVTANA está contraindicado em
+doentes com compromisso hepático grave (secção 4.3).
+Afeção renal
+Cabazitaxel é excretado pelo rim de forma mínima (2,3% da dose).). A análise farmacocinética
+populacional realizada em 170 doentes que incluiu 14 doentes com afeção renal moderada (depuração
+da creatinina no intervalo de 30 a 50 ml/min), e 59 doentes com afeção renal ligeira (depuração da
+creatinina no intervalo 50 a 80 ml/min) mostrou que a afeção renal moderada a ligeira não teve efeito
+significativo na farmacocinética de cabazitaxel. Isto foi confirmado por um estudo farmacocinético
+comparativo específico para doentes com cancros sólidos com função renal normal (8 doentes), afeção
+renal moderada (8 doentes) e grave (9 doentes), que receberam vários ciclos de cabazitaxel em uma
+única infusão IV até 25mg/m2.
+5.3
+
+Dados de segurança pré-clínica
+
+A necrose arteriolar / periarteriolar no fígado, hiperplasia do ducto biliar e/ou necrose hepatocelular
+forams as reações adversas não observadas nos ensaios clínicos mas observadas em cães após
+administração de uma dose única, durante cinco dias e semanalmente, com níveis de exposição
+inferiores aos níveis de exposição clínica e com possível relevância em uso clínico (ver secção 4.2).
+As alterações oculares caracterizadas por degenerescência/edema subcapsular das fibras do cristalino
+foram as reações adversas não observadas nos ensaios clínicos, mas observadas em ratos em estudos
+de toxicidade de dose repetida, com níveis de exposição superiores aos níveis de exposição clínica e
+com possível relevância em uso clínico. Estes efeitos foram parcialmente reversíveis após 8 semanas.
+20
+
+Não foram realizados estudos de carcinogenicidade com cabazitaxel.
+Cabazitaxel não induziu mutação no teste de mutação reversa de bactéria (Ames). Não mostrou
+potencial clastogénico num teste in vitro nos linfócitos humanos (não induziu aberração cromossómica
+estrutural mas aumentou o número de células poliploides) e induziu um aumento dos micronúcleos
+num teste in vitro em ratos. No entanto, os resultados de genotoxicidade (por um mecanismo
+aneugénico) são inerentes à atividade farmacológica do composto (inibição da despolimerização da
+tubulina) e foram observados em medicamentos que apresentam a mesma atividade farmacológica.
+Cabazitaxel não afetou a capacidade de acasalamento ou a fertilidade dos ratos machos tratados. No
+entanto, em estudos de toxicidade de dose repetida nos ratos observou-se a degenerescência da
+vesícula seminal e atrofia dos túbulos seminíferos testiculares e nos cães observou-se degenerescência
+testicular (necrose mínima da célula isolada epitelial no epidídimo). A exposição em animais foi
+semelhante ou inferior à verificada nos seres humanos que receberam doses clinicamente significativas
+de cabazitaxel.
+Cabazitaxel induziu toxicidade embriofetal em ratos fêmeas tratados por via intravenosa uma vez por
+dia a partir do dia 6 de gestação até ao dia 17 relacionada com toxicidade materna e consistiu em
+mortes fetais e redução média do peso fetal em combinação com atraso na ossificação esquelética. A
+exposição em animais foi inferior à observada nos seres humanos a receber doses clinicamente
+significativas de cabazitaxel. Cabazitaxel atravessa a barreira placentária nos ratos.
+Nos ratos, cabazitaxel e os seus metabolitos são excretados no leite materno até 1,5% da dose
+administrada durante 24 horas.
+Avaliação do risco ambiental (ARA)
+Os resultados dos estudos de avaliação de risco ambiental indicaram que o uso de JEVTANA não
+apresenta risco significiativo para o meio aquático (ver secção 6.6 para eliminação do medicamento
+não utilizado).
+6.
+
+INFORMAÇÔES FARMACÊUTICAS
+
+6.1
+
+Lista de excipientes
+
+Concentrado
+Polissorbato 80
+Acido cítrico
+Solvente
+Etanol a 96 %
+Água para preparações injetáveis
+6.2
+
+Incompatibilidades
+
+Este medicamento não pode ser misturado com outros exceto os mencionados na secção 6.6.
+Não devem ser usados contentores de perfusão em PVC ou conjuntos de perfusão em poliuretano para
+a preparação e administração da solução para perfusão.
+6.3
+
+Prazo de validade
+
+Frasco para injetável não aberto: 3 anos
+Após abertura:
+
+21
+
+Os frascos para injetáveis de concentrado e solvente devem ser utilizados imediatamente. Se não
+forem utilizados imediatamente as condições e prazo de conservação em uso são da responsabilidade
+do utilizador.
+Após diluição inicial do concentrado com o solvente:
+Ficou demonstrada a estabilidade química e física em utilização durante 1 hora à temperatura ambiente
+(15ºC-30ºC). Do ponto de vista microbiológico a mistura concentrado-solvente deve ser utilizada
+imediatamente. Se não for utilizada imediatamente as condições e prazo de conservação em utilização
+são da responsabilidade do utilizador e normalmente não devem ser superiores a 24 horas à
+temperatura de 2ºC-8ºC, a não ser que a diluição tenha sido efetuada em condições assépticas
+controladas e validadas.
+Após diluição final no saco/frasco de perfusão:
+Ficou demonstrada a estabilidade química e física da solução para perfusão durante 8 horas à
+temperatura ambiente (incluindo o período de 1 hora de perfusão) e durante 48 horas em condições de
+refrigeração (incluindo o período de 1 hora de perfusão).
+Do ponto de vista microbiológico a solução de perfusão deve ser utilizada imediatamente. Se não for
+utilizada imediatamentte as condições e prazo de conservação em utilização são da responsabilidade
+do utilizador e normalmente não devem ser superiores a 24 h à temperatura de 2ºC-8ºC, a não ser que
+a diluição tenha sido efetuada em condições assépticas controladas e validadas.
+6.4
+
+Precauções especiais de conservação
+
+Não conservar acima de 30ºC.
+Não refrigerar.
+Para condições de conservação do medicamento após abertura e diluição, ver secção 6.3.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Uma embalagem contém um frasco para injetáveis de concentrado e um frasco para injetáveis de
+solvente:
+
+Concentrado: 1,5ml de concentrado num frasco para injetáveis de 15ml de vidro transparente
+(tipo I) fechado com rolha de borracha em clorobutil cinzenta selada por uma capa de alumínio
+coberta com uma capa de plástico verde removível. Cada frasco contém 60 mg de cabazitaxel
+por cada 1,5 ml de volume nominal (volume de enchimento: 73,2 mg de cabazitaxel/1.83 ml).
+Este volume de enchimento foi determinado durante o desenvolvimento do JEVTANA de modo
+a compensar a perda de líquidos durante a preparação da pré-mistura. Este volume de
+enchimento garante que, após a diluição com todo o conteúdo do solvente do JEVTANA, existe
+um volume mínimo de pré-mistura de extração de 6 ml contendo 10 mg/ml de JEVTANA o que
+corresponde à quantidade indicada de 60 ml por frasco.
+
+Solvente: 4,5 ml de solvente num frasco para injetáveis de 15ml de vidro transparente (tipo I)
+fechado com uma rolha de borracha em clorobutil cinzenta selada por uma capa de alumínio
+dourada coberta com uma capa de plástico incolor removível. Cada frasco contém 4,5 ml de
+volume nominal (volume de enchimento: 5,67 ml). Este volume de enchimento foi determinado
+durante o desenvolvimento e garante, após a adição de todo conteúdo do frasco para injetáveis
+de solvente ao conteúdo do frasco para injetáveis de concentrado de 60 mg de JEVTANA, uma
+concentração da solução de pré-mistura de JEVTANA de 10 mg/ml.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+JEVTANA só deve ser preparado e administrado por pessoal treinado no manusamento de agentes
+citotóxicos. As grávidas não devem manusear o medicamento.Tal como para outros agentes
+antineoplásicos, deve ser tomada precaução ao manusear e preparar soluções de JEVTANA, tendo em
+atenção o uso de instrumentos de controlo, equipamento de proteção pessoal (p.ex. luvas) e dos
+procedimentos de preparação. Se em qualquer fase do seu manuseamento JEVTANA entrar em
+
+22
+
+contacto com a pele, lavar de imediato e abundantemente com água e sabão. Se entrar em contacto
+com as membranas mucosas lavar de imediato e abundantemente com água.
+Diluir sempre o concentrado para solução para perfusão com todo o solvente fornecido antes de
+adicionar à solução para perfusão.
+Leia cuidadosamente esta secção na TOTALIDADE antes de misturar e diluir. JEVTANA requer
+DUAS diluições antes da administração. Siga as instruções de preparação fornecidas abaixo.
+Nota: Quer o JEVTANA 60 mg/1,5 ml frasco para injetáveis de concentrado (volume de enchimento:
+73,2 mg de cabazitaxel/1,83 ml) como o frasco para injetáveis de solvente (volume de enchimento: 5,67
+ml) contêm um sobre-excedente para compensar as perdas de líquido durante a preparação. Este sobreenchimento garante que após a diluição com o conteúdo TOTAL do solvente que o acompanha, há uma
+solução contendo 10 mg/ml cabazitaxel.
+Os dois passos seguintes do processo de diluição devem ser realizados de uma forma asséptica para
+preparar a solução para perfusão.
+Passo 1: Diluição inicial do concentrado para solução para perfusão com o solvente fornecido.
+Passo 1.1
+Inspecionar o frasco para injetáveis de
+concentrado e o solvente fornecido. A solução
+concentrada e o solvente devem ser
+transparentes.
+
+Frasco para injetáveis
+de concentrado
+(60 mg – 1,5 ml)
+
+Passo 1.2
+
+Frasco para
+injetáveis de
+solvente
+
+Usando uma seringa com uma agulha, retire
+assepticamente todo o conteúdo do solvente
+fornecido invertendo parcialmente o frasco
+para injetáveis.
+
+Frasco para injetáveis de solvente
+
+Passo 1.3
+Injete todo o conteúdo dentro do frasco para
+injetáveis correspondente de concentrado.
+Para limitar a formação de espuma, tanto
+quanto possível, aquando da injeção do
+solvente, orientar a agulha para a superfície
+interna do frasco para injetáveis da solução de
+concentrado e injetar lentamente.
+
+Mistura concentradosolvente 10 mg/ml
+
+Após a reconstituição, a solução resultante
+contém 10 mg/ml de cabazitaxel.
+
+23
+
+Frasco para
+injetáveis de
+solvente
+
+Passo 1.4
+Retire a seringa e a agulha e misture
+manualmente e com cuidado por inversões
+repetidas até à obtenção de uma solução
+transparente e homogénea. Pode levar
+aproximadamente 45 segundos.
+Mistura concentradosolvente 10 mg/ml
+Passo 1.5
+Deixe esta solução repousar durante cerca de 5
+minutos e verificar, então, que a solução é
+homogénea e transparente.
+É normal que a espuma persista após este
+período de tempo.
+
+Mistura concentradosolvente 10 mg/ml
+A mistura concentrado-solvente resultante contém 10 mg/ml de cabazitaxel (pelo menos 6 ml de
+volume utilizável). A segunda diluição deve ser feita imediatamente (dentro de 1 hora), conforme
+descrito no Passo 2.
+Pode ser necessário mais do que um frasco de mistura concentrado-solvente para administrar a dose
+prescrita.
+Passo 2: Segunda diluição (final) para perfusão
+Passo 2.1
+Retirar assepticamente a quantidade necessária
+de mistura concentrado-solvente (10 mg/ml de
+cabazitaxel), com uma seringa graduada
+equipada com uma agulha. Como exemplo,
+uma dose de 45 mg JEVTANA exigiria 4,5 ml
+da mistura concentrado-solvente preparado
+seguindo o Passo 1.
+Como a espuma pode persistir na parede do
+frasco para injetáveis desta solução, após a sua
+preparação descrita no Passo 1, é preferível
+colocar a agulha da seringa ao meio da altura
+de extração.
+
+Mistura concentradosolvente 10 mg/ml
+
+24
+
+Passo 2.2
+Injete num recipiente estéril sem PVC,
+contendo uma solução de glucose a 5% ou uma
+solução de cloreto de sódio 9 mg/ml (0,9%)
+para perfusão. A concentração da solução de
+perfusão deve situar-se entre 0,10 mg/ml e 0,26
+mg/ml.
+
+Quantidade
+necessária de mistura
+concentrado-solvente
+
+Solução de glucose a
+5% ou solução de
+cloreto de sódio a 9
+mg/ml (0,9%) para
+perfusão
+
+Passo 2.3
+Retire a seringa e misture o conteúdo do saco
+ou frasco para perfusão manualmente usando
+movimentos rotativos.
+
+Passo 2.4
+Tal como acontece com todos os produtos
+parentéricos, a solução para perfusão resultante
+deve ser inspecionada visualmente antes da
+utilização. Como a solução para perfusão é
+sobressaturada, pode cristalizar ao longo do
+tempo. Nesse caso, a solução não pode ser
+utilizada e deve ser rejeitada.
+
+A solução para perfusão deve ser utilizada imediatamente. No entanto, o período de conservação
+durante a utilização pode ser alargado em condições específicas mencionadas na secção 6.3
+Durante a administração recomenda-se a utilização de um filtro com um tamanho nominal de poros de
+0,22 micrómetros (também referido como 0,2 micrómetros).
+Não utilizar recipientes para perfusão em PVC ou conjuntos para perfusão em poliuretano para a
+preparação e administração de JEVTANA.
+JEVTANA não pode ser misturado com qualquer outro medicamento para além dos mencionados.
+Os medicamentos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
+França
+
+25
+
+8.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/11/676/001
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 17 março 2011
+Data da última renovação: 14 dezembro 2020
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência
+Europeia de Medicamentos http://www. ema.europa.eu
+
+26
+
+ANEXO II
+A.
+
+FABRICANTES RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO
+DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+SEGURA E EFICAZ DO MEDICAMENTO
+
+27
+
+A.
+
+FABRICANTES RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço dos fabricantes responsáveis pela libertação do lote
+Sanofi-Aventis Deutschland GmbH
+Industriepark Höchst
+65926 Frankfurt am Main
+Germany
+O folheto informativo do medicamento deve precisar o nome e o endereço do fabricante responsável
+pela libertação do respetivo lote
+B.
+
+CONDIÇÕES OU REQUISITOS RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento sujeito a receita médica restrita, de utilização reservada a certos meios especializados
+(ver anexo I: Resumo das Características do Medicamento, secção 4.2.).
+C.
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para submissão de RPS para este medicamento estão definidos na lista Europeia de datas
+de referência (lista EURD). Tal como previsto nos termos do nº7 do artigo 107ª C da Diretiva 2001/83
+e qualquer atualização susbsequente publicada no portal europeu de medicamentos.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES A TER EM CONTA RELATIVAMENTE
+À SEGURANÇA E EFICÁCIA NA UTILIZAÇÃO DO MEDICAMENTO
+
+
+
+Plano de gestão do risco (PGR)
+
+O Titular da autorização de introdução no mercado (AIM) deve efetuar as atividades e as intervenções
+de farmacovigilância requeridas e detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de
+introdução no mercado, e quaisquer atualizações subsequentes do PGR acordadas.
+Deve ser submetido um PGR atualizado:
+ A pedido da Agência Europeia de Medicamentos;
+ Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objectivo importante (farmacovigilância ou
+minimização do risco).
+
+28
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+29
+
+A. ROTULAGEM
+
+30
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+
+1.
+
+NOME DO MEDICAMENTO
+
+JEVTANA 60 mg concentrado e solvente para solução para perfusão
+cabazitaxel
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+1 ml de concentrado contem 40mg de cabazitaxel.
+Um frasco para injetáveis de 1,5ml de concentrado contém 60 mg cabazitaxel.
+O frasco para injetáveis de concentrado (enchimento: 73,2 mg de cabazitaxel/1,83 ml) e o frasco para
+injetáveis de solvente (5,67 ml) contêm um sobre-excedente para compensar as perdas de líquido
+durante a preparação. Este sobre-enchimento garante que após a diluição inicial com o conteúdo
+TOTAL do frasco para injetáveis de solvente, a concentração de cabazitaxel é de 10 mg/ml.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Excipientes
+Frasco para injetáveis de concentrado: polissorbato 80 e ácido cítrico;
+Frasco para injetáveis de solvente: etanol 96% e água para preparações injetáveis.
+Ver o Folheto Informativo para mais informações.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Concentrado e solvente para solução para perfusão.
+1 frasco para injetáveis de 1,5 ml de concentrado e 1 frasco para injetáveis de 4,5 ml solvente.
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Frascos para injetáveis unidose.
+ATENÇÃO: Requer dois passos de diluição. Consultar o Folheto Informativo antes de utilizar.
+Para utilização intravenosa (perfusão) APÓS diluição final.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+AGENTE CITOTÓXICO.
+
+31
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL
+Ler o Folheto Informativo para a validade da solução diluída.
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 30ºC.
+Não refrigerar.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Eliminar os produtos não utilizados de acordo com as exigências locais.
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
+França
+12.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/11/676/001
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+Medicamento sujeiro a receita médica.
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído
+32
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+33
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO PARA INJETÁVEIS para CONCENTRADO
+
+1.
+
+NOME DO MEDICAMENTO e VIA(S) DE ADMINISTRAÇÃO
+
+JEVTANA 60 mg concentrado estéril
+cabazitaxel
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Diluir com TODO o solvente fornecido.
+3.
+
+PRAZO DE VALIDADE
+
+VAL
+4.
+
+NÚMERO DE LOTE
+
+Lote:
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1,5 ml
+10 mg/ml após a primeira diluição.
+6.
+
+OUTRAS
+
+Solução para perfusão IV após a diluição final (ver folheto informativo).
+Contém um sobre-excedente.
+
+34
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO PARA INJECTAVEIS para SOLVENTE
+
+1.
+
+NOME DO MEDICAMENTO e VIA(S) DE ADMINISTRAÇÃO
+
+SOLVENTE para JEVTANA
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Utilizar a TOTALIDADE do conteúdo para diluição (ver folheto informativo)
+3.
+
+PRAZO DE VALIDADE
+
+VAL
+4.
+
+NÚMERO DE LOTE
+
+Lote:
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+4,5 ml (etanol a 96% e água para preparações injetáveis).
+6.
+
+OUTRAS
+
+Este frasco para injetáveis contém um sobre-excedente.
+
+35
+
+B. FOLHETO INFORMATIVO
+
+36
+
+Folheto Informativo: Informação para o doente
+JEVTANA 60 mg de concentrado e solvente para solução para perfusão
+cabazitaxel
+
+Leia atentamente este folheto antes de utilizar este medicamento pois contém informação
+importante para si.
+ Conserve este folheto. Pode ter necessidade de o ler novamente.
+ Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+ Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados
+neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Estes incluem quaisquer
+efeitos secundários não listados neste folheto informativo. Ver secção 4.
+O que contém este Folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+1.
+
+O que é JEVTANA e para que é utilizado
+O que precisa de saber antes de utilizar JEVTANA
+Como utilizar JEVTANA
+Efeitos secundários possíveis
+Como conservar JEVTANA
+Conteúdo da embalagem e outras informações
+O que é JEVTANA e para que é utilizado
+
+O nome do seu medicamento é JEVTANA. O seu nome comum é cabazitaxel. Pertence a um grupo de
+medicamentos chamados “taxanos” utilizados no tratamento do cancro.
+JEVTANA é utilizado no tratamento do cancro da próstata que progrediu após outra quimioterapia.
+Atua evitando o crescimento e multiplicação das células.
+Como parte do seu tratamento, também tomará um medicamento corticosteroide (prednisona ou
+prednisolona) por via oral todos os dias. Peça informações ao seu médico sobre este medicamento.
+2.
+
+O que precsa saber antes de utilizar JEVTANA
+
+Não utilize JEVTANA
+
+
+
+
+
+se for alérgico (hipersensível) a cabazitaxel, a outros taxanos, ou ao polisorbato 80 ou a
+qualquer outro componente deste medicamento (mencionado na secção 6),
+se o número de glóbulos brancos for demasiado baixo (contagem de neutrófilos inferior or igual
+a 1.500 /mm3),
+se tiver função hepática (do fígado) alterada grave,
+se recebeu recentemente ou está prestes a receber a vacina contra a febre amarela.
+
+Não lhe deve ser administrado JEVTANA se qualquer das situações indicadas se aplica a si. Se não
+tiver a certeza, consulte o seu médico antes de utilizar JEVTANA.
+Advertências e precauções
+Antes de cada tratamento com JEVTANA, fará análises ao sangue para verificar se tem células
+sanguíneas suficientes e se as funções do fígado e dos rins estão suficientemente bem para receber
+JEVTANA.
+37
+
+Informe imediatametne o seu médico se:
+
+tiver febre. Durante o tratamento com JEVTANA é provável que haja diminuição na contagem
+dos seus glóbulos brancos. O seu médico vigiará o seu sangue e a sua condição física geral
+sobre sinais de infeção. Ele/ela poderá dar-lhe outros medicamentos para manter o número de
+células sanguíneas. Pessoas com valores de contagem de células sanguíneas baixos podem
+desenvolver infeções fatais. O primeiro sinal de infeção pode ser a febre por isso, se tiver febre,
+avise imediatamente o seu médico.
+
+
+alguma vez teve alergias. Durante o tratamento com JEVTANA pode haver reações alérgicas
+graves.
+
+
+
+tiver diarreia prolongada ou grave, se sentir enjoado (náuseas) ou com vómitos. Qualquer destas
+situações pode causar desidratação grave. O seu médico pode ter de o tratar.
+
+
+
+se tiver a sensação de dormência, formigueiro, queimadura ou redução de sensibilidade nas
+mãos e pés
+
+
+
+se tiver qualquer problema de sangramento pelo intestino ou tiver alterações na cor das fezes ou
+dor de estomago. Caso o sangramento ou a dor for grave, o seu médico irá interromper o seu
+tratamento com JEVTANA. Isto deve-se ao facto do JEVTANA poder aumentar o risco de
+sangramento ou desenvolvimento de fissuras na parede do intestino.
+
+
+
+tiver complicações renais (nos rins).
+
+
+
+se tiver pele e olhos amarelados, escurecimento da urina, náuseas intensas (sensação de enjoo)
+ou vómitos, pois podem ser sinais ou sintomas de problemas de fígado.
+
+
+
+se tiver qualquer aumento ou diminuição significativa no volume de urina diário
+
+
+
+tiver sangue na urina
+
+Se alguma destas situações lhe for aplicável, informe imediatamente o seu médico. O seu médico pode
+diminuir a dose de JEVTANA ou parar o tratamento.
+Outros medicamentos e JEVTANA
+Informe o seu médico, farmacêutico ou enfermeira se estiver a tomar ou tiver tomado recentemente
+outros medicamentos, incluindo medicamentos obtidos sem receita médica. Isto porque alguns
+medicamentos podem afetar a forma como JEVTANA funciona ou o JEVTANA pode afetar o modo
+de funcionamento de outros medicamentos. Nestes medicamentos incluem-se os seguintes:
+- cetoconazole, rifampicina (para infeções);
+- carbamazepina, fenobarbital ou fenítoína (para convulsões);
+- Hipericão (Hypericum perforatum) (medicamento à base de plantas para a depressão e outras
+situações);
+- estatinas (tais como sinvastatina, lovastatina, atorvastatina, rosuvastatina ou pravastatina) (para
+redução do colesterol no seu sangue);
+- valsartan (para a hipertensão);
+- repaglinida (para a diabetes).
+Enquanto estiver a receber JEVTANA fale com o seu médico antes de tomar vacinas.
+Gravidez, amamentação e fertilidade
+JEVTANA não está indicado para utilização em mulheres.
+Use preservativo durante a relação sexual se a sua companheira estiver ou puder ficar grávida.
+JEVTANA pode estar presente no seu sémen e afetar o feto. Aconselha-se a que não tenha filhos
+38
+
+durante o tratamento e até 4 meses depois do tratamento e que procure aconselhamento sobre a
+conservação de esperma antes do início de tratamento porque JEVTANA pode alterar a fertilidade
+masculina.
+Condução de veículos e utilização de máquinas
+Pode sentir-se cansado ou com tonturas enquanto utiliza este medicamento. Se isto acontecer, não
+conduza ou utilize quaisquer ferramentas ou máquinas até se sentir melhor.
+JEVTANA contém etanol (álcool)
+Este medicamento contém 573 mg de alcóol (etanol) em cada frasco de solvente. A quantidade na
+dose deste medicamento é equivalente a menos de 11 ml de cerveja ou 5ml de vinho. A pequena
+quantidade de álcool neste medicamento não terá quaisquer efeitos perceptíveis. Caso sofra de
+alcoolismo, doença do fígado ou epilepsia, fale com o seu médico ou farmacêutico antes de tomar este
+medicamento.
+3.
+
+Como utilizar JEVTANA
+
+Instruções de utilização
+Antes do tratamento com JEVTANA ser-lhe-ão dados medicamentos antialérgicos para diminuir o
+risco de reações.
+
+
+JEVTANA ser-lhe-à administrado por um médico ou uma enfermeira.
+
+
+
+JEVTANA tem de ser preparado (diluído) antes de ser administrado. Neste folheto é fornecida
+informação prática aos médicos, enfermeiras e farmacêuticos, sobre o manuseamento e
+administração de JEVTANA.
+
+
+
+JEVTANA será administrado gota a gota (perfusão) numa das suas veias (via intravenosa) no
+hospital durante cerca de 1 hora.
+
+
+
+Como parte do seu tratamento também tomará um medicamento corticosteroide (prednisona ou
+prednisolona) por via oral, todos os dias.
+
+Que quantidade e quantas vezes é a administração
+
+
+A dose habitual depende da sua superfície corporal. O seu médico calculará a sua superfície
+corporal em metros quadrados (m²) e decidirá qual a dose que irá receber.
+
+
+
+Deve normalmente receber uma perfusão de 3 em 3 semanas.
+
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico
+ou enfermeira.
+4.
+
+Efeitos secundários possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos secundários, no entanto estes não
+se manifestam em todas as pessoas. O seu médico deverá discutir isto consigo e explicar-lhe os
+benefícios e os riscos potenciais do seu tratamento.
+
+Consulte imediatamente um médico se sentir algum dos seguintes efeitos secundários:
+39
+
+
+
+febre (temperatura alta). Isto é muito frequente (pode afetar até 1 em cada 10 pessoas).
+
+
+
+perda grave de líquidos corporais (desidratação). Isto é frequente (pode afetar até 1 em cada 10
+pessoas). Isto pode acontecer se tiver diarreia grave ou prolongada, ou febre, ou se estiver
+indisposto (vómitos).
+
+
+
+dor de estômago grave ou dor de estômago que não desaparece. Esta pode ocorrer se tiver uma
+úlcera no estômago, tubo digestivo, intestino ou cólon (perfuração gastrointestinal). Esta pode
+levar a morte.
+
+Se alguma destas situações lhe for aplicável, informe imediatamente o seu médico.
+Outros efeitos secundários incluem:
+Muito frequente (pode afetar mais de 1 em cada 10 pessoas):
+
+diminuição do número de glóbulos vermelhos (anemia) ou glóbulos brancos (que são
+importantes para combater a infeção)
+
+redução do número de plaquetas (que resulta num risco aumentado de sangramento)
+
+perda de apetite (anorexia)
+
+perturbações do estômago incluindo sensação de mau estar (náuseas), estar doente (vómitos),
+diarreia e prisão de ventre
+
+dor nas costas
+
+sangue na urina
+
+sensação de cansaço, fraqueza ou falta de energia.
+Frequente (pode afetar até 1 em cada 10 pessoas):
+
+alteração do paladar
+
+dificuldade respiratória
+
+tosse
+
+dor na barriga (abdominal)
+
+queda de cabelo temporária (na maioria dos casos o cabelo deve voltar a crescer normalmente)
+
+dores nas articulações
+
+infeção do trato urinário
+
+falta de glóbulos brancos associada a febre e infeção
+
+sensação de adormecimento, formigueiro, queimadura ou redução de sensibilidade nas mãos e
+pés
+
+tonturas
+
+dores de cabeça
+
+aumento ou redução da tensão arterial
+
+sensação desconfortável no estômago, azia ou arrotos
+
+dor de estômago
+
+hemorroidas
+
+espasmos musculares
+
+urinar com frequência e com dor
+
+incontinência urinária
+
+doença ou problemas renais (nos rins)
+
+ferida na boca ou nos lábios
+
+infeções ou risco de infeções
+
+açúcar aumentado no sangue
+
+insónia
+
+confusão mental
+
+sensação de ansiedade
+
+sensibilidade anormal ou falta de sensibilidade ou dor nas mãos e pés
+
+dificuldade de equilíbrio
+40
+
+
+
+
+
+
+
+
+
+
+
+batimento cardíaco rápido ou irregular
+coágulo de sangue na perna ou no pulmão
+sensação de calor na pele ou afrontamento
+dor na boca ou na garganta
+sangramento retal
+desconforto muscular, fraqueza ou dor
+inchaço dos pés ou das pernas
+arrepios
+alterações das unhas (alteração na cor das unhas; as unhas podem cair)
+
+Pouco frequente (pode afetar até 1 em cada 100 pessoas):
+
+potássio baixo no sangue
+
+zumbidos nos ouvidos
+
+sensação de calor na pele
+
+vermelhidão da pele
+
+
+inflamação da bexiga, que pode ocorrer quando a bexiga tiver sido previamente exposta a
+radioterapia (cistite devido a um fenómeno de hipersensibilidade a radiações)
+Desconhecido (não pode ser calculado pelos dados disponíveis):
+
+doença pulmunar intersticial (inflamação dos pulmões provocando tosse e dificuldade
+respiratória)
+Comunicação de efeitos secundários
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+secundários directamente através do sistema nacional de notificação mencionado no Apêndice V*. Ao
+comunicar efeitos secundários, estará a ajudar a fornecer mais informações sobre a segurança do
+medicamento.
+5.
+
+Como conservar JEVTANA
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no rótulo
+dos frascos para injetáveis a seguir a VAL. O prazo de validade corresponde ao último dia do mês
+indicado.
+Não conservar acima de 30ºC. Não refrigerar.
+Informação sobre a conservação e prazo de utilização de JEVTANA, após ter sido diluído e estar
+pronto para utilização, é descrita na secção “Informação prática para médicos ou profissionais de
+saúde sobre a preparação, administração e manuseamento de Jevtana”.
+Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+Estas medidas irão a proteger o meio ambiente.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de JEVTANA
+A susbstância ativa é cabazitaxel. Um ml de concentrado contém 40 mg de cabazitaxel. Um frasco
+para injetáveis de concentrado contém 60 mg de cabazitaxel.
+Os outros componentes são polissorbato 80 e ácido cítrico no concentrado, e etanol a 96% e água para
+injetáveis no solvente (ver secção 2 “JEVTANA contém alcoól”).
+41
+
+Nota: Quer o JEVTANA 60 mg/1,5 ml frasco para injetáveis de concentrado (volume de enchimento:
+73,2 mg de cabazitaxel/1,83 ml) como o frasco para injetáveis de solvente (volume de enchimento:
+5,67 ml) contêm um sobre-excedente para compensar as perdas de líquido durante a preparação. Este
+sobre-enchimento garante que após a diluição com o conteúdo TOTAL do solvente que o acompanha,
+há uma solução contendo 10 mg/ml cabazitaxel.
+Qual o aspeto de JEVTANA e conteúdo da embalagem
+JEVTANA é um concentrado e solvente para solução para perfusão (concentrado estéril).
+O concentrado é uma solução viscosa transparente amarela ou amarela-acastanhada.
+O solvente é ums solução transparente e incolor.
+Uma embalagem de JEVTANA contém:
+ Um frasco de vidro transparente para injetáveis unidose, com rolha de borracha cinzenta
+selada por uma capa de alumínio coberta com uma capa de plástico verde removível, contendo
+1,5ml (volume nominal) de concentrado.
+ Um frasco de vidro transparente unidose, fechado com uma rolha de borracha cinzenta selada
+por uma capa de alumínio dourada coberta com uma capa de plástico incolor removível,
+contendo 4,5 ml (volume nominal) de solvente.
+Titular da autorização de introdução no mercado
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
+França
+Fabricante
+Sanofi-Aventis Deutschland GmbH
+Industriepark Höchst
+65926 Frankfurt am Main
+Alemanha
+Para qualquer informação sobre este medicamento, queira contactar o representante local do Titular da
+Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Sanofi Belgium
+Tél/Tel: +32 (0)2 710 54 00
+
+Lietuva
+Swixx Biopharma UAB
+Tel: +370 5 236 91 40
+
+България
+Swixx Biopharma EOOD
+Тел.: +359 (0)2 4942 480
+
+Luxembourg/Luxemburg
+Sanofi Belgium
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
+Česká republika
+sanofi-aventis, s.r.o.
+Tel: +420 233 086 111
+
+Magyarország
+SANOFI-AVENTIS Zrt.,
+Tel.: +36 1 505 0050
+
+Danmark
+Sanofi A/S
+Tlf: +45 45 16 70 00
+
+Malta
+Sanofi S.r.l.
+Tel: +39.800.536389
+
+Deutschland
+Sanofi-Aventis Deutschland GmbH
+Tel.: 0800 04 36 996
+Tel. aus dem Ausland: +49 69 305 70 13
+
+Nederland
+Sanofi B.V.
+Tel: +31 20 245 4000
+
+42
+
+Eesti
+Swixx Biopharma OÜ
+Tel: +372 640 10 30
+
+Norge
+sanofi-aventis Norge AS
+Tlf: +47 67 10 71 00
+
+Ελλάδα
+Sanofi-Aventis Μονοπρόσωπη AEBE
+Τηλ: +30 210 900 16 00
+
+Österreich
+sanofi-aventis GmbH
+Tel: +43 1 80 185 – 0
+
+España
+sanofi-aventis, S.A.
+Tel: +34 93 485 94 00
+
+Polska
+sanofi-aventis Sp. z o.o.
+Tel.: +48 22 280 00 00
+
+France
+Sanofi Winthrop Industrie
+Tél: 0 800 222 555
+Appel depuis l’étranger : +33 1 57 63 23 23
+
+Portugal
+Sanofi - Produtos Farmacêuticos, Lda
+Tel: +351 21 35 89 400
+
+Hrvatska
+Swixx Biopharma d.o.o.
+Tel: +385 1 2078 500
+
+România
+Sanofi Romania SRL
+Tel: +40 (0) 21 317 31 36
+
+Ireland
+sanofi-aventis Ireland Ltd. T/A SANOFI
+Tel: +353 (0) 1 403 56 00
+
+Slovenija
+Swixx Biopharma d.o.o.
+Tel: +386 1 235 51 00
+
+Ísland
+Vistor hf.
+Sími: +354 535 7000
+
+Slovenská republika
+Swixx Biopharma s.r.o.
+Tel: +421 2 208 33 600
+
+Italia
+Sanofi S.r.l.
+Tel: +39.800.536389
+
+Suomi/Finland
+Sanofi Oy
+Puh/Tel: +358 (0) 201 200 300
+
+Κύπρος
+C.A. Papaellinas Ltd.
+Τηλ: +357 22 741741
+
+Sverige
+Sanofi AB
+Tel: +46 (0)8 634 50 00
+
+Latvija
+Swixx Biopharma SIA
+Tel: +371 6 616 47 50
+
+United Kingdom (Northern Ireland)
+sanofi-aventis Ireland Ltd. T/A SANOFI
+Tel: +44 (0) 800 035 2525
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência
+Europeia de Medicamentos http://www. ema.europa.eu
+
+43
+
+A informação seguinte destina-se apenas a médicos ou profissionais de saúde
+INFORMAÇÃO PRÁTICA PARA MEDICOS OU PROFISSIONAIS DE SAÚDE SOBRE A
+PREPARAÇÃO, ADMINISTRAÇÃO E MANUSEAMENTO DE JEVTANA 60MG
+CONCENTRADO E SOLVENTE DE PARA SOLUÇÃO PARA PERFUSÃO
+Esta informação complementa as secções 3 e 5 para o utente.
+É importante que leia atentamente este procedimento todo antes da preparação de solução para
+perfusão.
+Incompatibilidades
+Este medicamento não pode ser misturado com outros medicamentos exceto os que forem utilizados
+nas diluições.
+Validade e precauções especiais de conservação
+Para a embalagem de JEVTANA 60 mg concentrado e solvente:
+Não conservar acima dos 30ºC.
+Não refrigerar
+Após abertura:
+Os frascos para injetáveis de concentrado e solvente devem ser utilizados imediatamente. Se não
+forem utilizados imediatamente, as condições e prazo de conservação em uso são da responsabilidade
+do utilizaor. Do ponto de vista microbiológico, os dois passos do processo de diluição devem ser feitos
+em condições assépticas e controladas (ver abaixo “Precauções de preparação e administração”).
+Após diluição inicial do concentrado de JEVTANA 60 mg com todo o conteúdo do frasco para
+injetáveis de solvente ficou demonstrada a estabilidade química e física em utilização durante 1 hora à
+temperatura ambiente.
+Após diluição final no saco/frasco de perfusão:
+Ficou demonstrada a estabilidade química e física da solução para perfusão durante 8 horas à
+temperatura ambiente (15ºC-30ºC) incluindo o período de 1 hora de perfusão e durante 48 horas em
+condições de refrigeração incluindo o período de 1 hora de perfusão.
+Dum ponto de vista microbiológico, a solução para perfusão deve ser utilizada imediatamente. Se não
+for utilizada imediatamente as condições e prazo de conservação em utilização são da
+responsabilidade do utilizador e normalmente não devem exceder 24 h entre 2ºC-8ºC, a menos que a
+diluição tenha sido realizada em condições assépticas controladas e validadas.
+Precauções de preparação e administração
+Tal como com outros agentes antineoplásicos, deve ser tomada precaução ao manusear e preparar
+soluções de JEVTANA, tendo em atenção o uso de instrumentos de controlo, equipamento de proteção
+pessoal (p.ex. luvas) e dos procedimentos de preparação.
+Se, em qualquer fase do seu manuseamento, JEVTANA entrar em contacto com a pele, lavar de
+imediato e abundantemente com água e sabão. Se entrar em contacto com as membranas mucosas,
+lavar de imediato e abundantemente com água.
+JEVTANA deve ser preparado e administrado apenas por pessoal treinado no manuseamento de
+agentes citotóxicos. As grávidas não devem manusear o produto.
+Diluir sempre o concentrado para solução para perfusão com todo o solvente fornecido antes de o
+adicionar às soluções para perfusão.
+
+44
+
+Passos de preparação:
+Leia cuidadosamente esta secção na TOTALIDADE antes de misturar e diluir. JEVTANA requer
+DUAS diluições antes da administração. Siga as instruções de preparação fornecidas abaixo.
+Nota: Quer o JEVTANA 60 mg/1,5 ml frasco para injetáveis de concentrado (volume de enchimento:
+73,2 mg de cabazitaxel/1,83 ml) como o frasco para injetáveis de solvente (volume de enchimento: 5,67
+ml) contêm um sobre-excedente para compensar as perdas de líquido durante a preparação. Este sobreenchimento garante que após a diluição com o conteúdo TOTAL do solvente que o acompanha, há uma
+solução contendo 10 mg/ml cabazitaxel.
+Os dois passos seguintes do processo de diluição devem ser realizados de uma forma asséptica para
+preparar a solução para perfusão.
+Passo 1: Diluição inicial do concentrado para solução para perfusão com o solvente fornecido.
+Passo 1.1
+Inspecionar o frasco para injetáveis de
+concentrado e o solvente fornecido. A solução
+concentrada e o solvente devem ser
+transparentes.
+
+Passo 1.2
+
+Frasco para injetáveis
+de concentrado
+(60 mg – 1,5 ml)
+
+Frasco para
+injetáveis de
+solvente
+
+Usando uma seringa com uma agulha, retire
+assepticamente todo o conteúdo do solvente
+fornecido invertendo parcialmente o frasco
+para injetáveis.
+
+Frasco para
+injetáveis de
+solvente
+
+Passo 1.3
+Injete todo o conteúdo dentro do frasco para
+injetáveis correspondente de concentrado.
+Para limitar a formação de espuma, tanto
+quanto possível, aquando da injeção do
+solvente, orientar a agulha para a superfície
+interna do frasco para injetáveis da solução de
+concentrado e injetar lentamente.
+Após a reconstituição, a solução resultante
+contém 10 mg/ml de cabazitaxel.
+
+Mistura concentradosolvente 10 mg/ml
+
+45
+
+Frasco para
+injetáveis de
+solvente
+
+Passo 1.4
+Retire a seringa e a agulha e misture
+manualmente e com cuidado por inversões
+repetidas até à obtenção de uma solução
+transparente e homogénea. Pode levar
+aproximadamente 45 segundos.
+Mistura concentradosolvente 10 mg/ml
+Passo 1.5
+Deixe esta solução repousar durante cerca de 5
+minutos e verificar, então, que a solução é
+homogénea e transparente.
+É normal que a espuma persista após este
+período de tempo.
+Mistura concentradosolvente 10 mg/ml
+A mistura concentrado-solvente resultante contém 10 mg/ml de cabazitaxel (pelo menos 6 ml de
+volume utilizável). A segunda diluição deve ser feita imediatamente (dentro de 1 hora), conforme
+descrito no Passo 2.
+Pode ser necessário mais do que um frasco de mistura concentrado-solvente para administrar a dose
+prescrita.
+Passo 2: Segunda diluição (final) para perfusão
+Passo 2.1
+Retirar assepticamente a quantidade necessária
+de mistura concentrado-solvente (10 mg/ml de
+cabazitaxel), com uma seringa graduada
+equipada com uma agulha. Como exemplo,
+uma dose de 45 mg JEVTANA exigiria 4,5 ml
+da mistura concentrado solvente preparado
+seguindo o Passo 1.
+Como a espuma pode persistir na parede do
+frasco para injetáveis desta solução, após a sua
+preparação descrita no Passo 1, é preferível
+colocar a agulha da seringa ao meio da altura
+de extração.
+
+Mistura concentradosolvente 10 mg/ml
+
+46
+
+Passo 2.2
+Injete num recipiente estéril sem PVC,
+contendo uma solução de glucose a 5% ou uma
+solução de cloreto de sódio 9 mg/ml (0,9%)
+para perfusão. A concentração da solução de
+perfusão deve situar-se entre 0,10 mg/ml e 0,26
+mg/ml.
+
+Quantidade
+necessária de mistura
+concentrado-solvente
+
+Solução de glucose a
+5% ou solução de
+cloreto de sódio 9
+mg/ml (0,9%) para
+perfusão
+
+Passo 2.3
+Retire a seringa e misture o conteúdo do saco
+ou frasco para perfusão manualmente usando
+movimentos rotativos.
+
+Passo 2.4
+Tal como acontece com todos os produtos
+parentéricos, a solução para perfusão resultante
+deve ser inspecionada visualmente antes da
+utilização. Como a solução para perfusão está
+sobressaturada, pode cristalizar ao longo do
+tempo. Nesse caso, a solução não pode ser
+utilizada e deve ser rejeitada.
+
+A solução para perfusão deve ser utilizada imediatamente. No entanto, o período de conservação
+durante a utilização pode ser alargado em condições específicas mencionadas na secção Validade e
+precauções especiais de conservação referida acima.
+Os medicamentos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências
+locais.
+Modo de administração
+JEVTANA é administrado em perfusão de 1 hora.
+Durante a administração recomenda-se a utilização de um filtro com um tamanho nominal de poros de
+0,22 micrómetros (também referido como 0,2 micrómetros).
+Não utilizar recipientes para perfusão em PVC ou conjuntos para perfusão em poliuretano para a
+preparação e administração da solução para perfusão.
+
+47
+
+

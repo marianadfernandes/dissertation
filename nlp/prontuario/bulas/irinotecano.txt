@@ -1,0 +1,2088 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+ONIVYDE pegylated liposomal 4,3 mg/ml, concentrado para dispersão para perfusão
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Um frasco de 10 ml de concentrado contém 43 mg de irinotecano na forma de base livre anidra (como
+sal de sucrosofato irinotecano numa formulação lipossómica peguilada).
+Um ml de concentrado contém 4,3 mg de irinotecano na forma de base livre anidra (como sal de
+sucrosofato irinotecano numa formulação lipossómica peguilada).
+Excipiente com efeito conhecido
+Um ml de concentrado contém 0,144 mmol (3,31 mg) de sódio.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Concentrado para dispersão para perfusão.
+Dispersão lipossómica isotónica, opaca, branca a ligeiramente amarela.
+O concentrado tem um pH de 7,2 e uma osmolalidade de 295 mOsm/kg.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Tratamento do adenocarcinoma metastático do pâncreas, em combinação com 5-fluorouracilo (5-FU)
+e leucovorina (LV), em doentes adultos com progressão após terapêutica à base de gemcitabina.
+
+4.2 Posologia e modo de administração
+
+ONIVYDE pegylated liposomal só pode ser prescrito e administrado a doentes por profissionais de
+saúde experientes na utilização de terapêuticas antineoplásicas.
+ONIVYDE pegylated liposomal não é equivalente a formulações não lipossómicas de irinotecano, não
+devendo ser utilizado de forma intermutável com estas formulações.
+Posologia
+ONIVYDE pegylated liposomal, leucovorina e 5-fluorouracilo devem ser administrados
+sequencialmente. A dose e o regime recomendados para ONIVYDE pegylated liposomal
+são 70 mg/m2 por via intravenosa ao longo de 90 minutos, seguidos de LV 400 mg/m2 por via
+intravenosa ao longo de 30 minutos, seguidos de 5-FU 2.400 mg/m2 por via intravenosa ao longo
+de 46 horas, administrados de 2 em 2 semanas. ONIVYDE pegylated liposomal não deve ser
+administrado como agente único.
+Deve ponderar-se a utilização de uma dose inicial reduzida de ONIVYDE pegylated liposomal
+de 50 mg/m2 para doentes que se saiba serem homozigóticos para o alelo UGT1A1*28 (ver
+secções 4.8 e5.1). Pode considerar-se o aumento da dose de ONIVYDE pegylated liposomal
+para 70 mg/m2 nos ciclos subsequentes, se esta dose for tolerada.
+
+2
+
+Pré-medicação
+Pelo menos 30 minutos antes da perfusão de ONIVYDE pegylated liposomal, recomenda-se a
+administração de pré-medicação aos doentes, na forma de doses padrão de dexametasona (ou um
+corticosteroide equivalente) em conjunto com um antagonista do 5-HT3 (ou outro antiemético).
+Ajustes da dose
+Todas as modificações da dose devem ser baseadas na pior toxicidade precedente. A dose de LV não
+requer ajustes. Não existem recomendações de modificação da dose para toxicidades de grau 1 e 2. Os
+ajustes da dose, resumidos na Tabela 1 e na Tabela 2, são recomendados para a gestão de toxicidades
+de grau 3 ou 4 relativamente a ONIVYDE pegylated liposomal.
+Para doentes que iniciam o tratamento com 50 mg/m2 de ONIVYDE pegylated liposomal e não
+aumentam a dose para 70 mg/m2, recomenda-se uma primeira redução da dose para 43 mg/m2 e uma
+segunda redução da dose para 35 mg/m2. Os doentes que requeiram mais reduções da dose devem
+descontinuar o tratamento.
+Nos doentes que se saiba serem homozigóticos para UGT1A1*28 e que não apresentam toxicidade
+relacionada com fármacos durante o primeiro ciclo da terapêutica (dose reduzida de 50 mg/m2), a dose
+de ONIVYDE pegylated liposomal pode ser aumentada para uma dose total de 70 mg/m2 em ciclos
+subsequentes com base na tolerância individual do doente.
+Tabela 1: Modificações recomendadas da dose de ONIVYDE pegylated liposomal +5-FU/LV
+para toxicidades de grau 3-4 em doentes não homozigóticos para UGT1A1*28
+Grau de toxicidade (valor)
+de acordo com os CTCAE
+v 4.01 do NCI
+
+Ajuste de ONIVYDE pegylated liposomal/5-FU
+(em doentes não homozigóticos para UGT1A1*28)
+Toxicidades hematológicas
+
+Neutropenia
+
+Não deve ser iniciado um novo ciclo da terapêutica até ser alcançado
+um número absoluto de neutrófilos ≥ 1.500 células/mm3
+
+Grau 3 ou Grau 4 (< 1.000
+células/mm3) ou Febre
+neutropénica
+
+Reduzir a dose de ONIVYDE pegylated
+Primeira ocorrência liposomal para 50 mg/m2
+Reduzir a dose de 5-FU em 25% (1.800 mg/m2).
+Reduzir a dose de ONIVYDE pegylated
+liposomal para 43 mg/m2
+Segunda ocorrência
+Reduzir a dose de 5-FU novamente em 25%
+(1.350 mg/m2).
+Descontinuar o tratamento
+Terceira ocorrência
+
+Trombocitopenia
+
+Não deve ser iniciado um novo ciclo da terapêutica até ser alcançado
+um número de plaquetas ≥ 100.000 plaquetas/mm3
+As modificações da dose devido a leucopenia e trombocitopenia são
+baseadas na classificação de toxicidade do NCI e são idênticas às
+recomendadas acima para neutropenia.
+
+Leucopenia
+
+Toxicidades não hematológicas2:
+Diarreia
+
+Não deve ser iniciado um novo ciclo da terapêutica até a diarreia baixar
+para ≤ grau 1 (2-3 evacuações/dia acima da frequência pré-tratamento).
+
+Grau 2
+
+Não deve ser iniciado um novo ciclo da terapêutica até a diarreia baixar
+para ≤ grau 1 (2-3 evacuações/dia acima da frequência pré-tratamento).
+
+3
+
+Grau de toxicidade (valor)
+de acordo com os CTCAE
+v 4.01 do NCI
+Grau 3 ou 4
+
+Ajuste de ONIVYDE pegylated liposomal/5-FU
+(em doentes não homozigóticos para UGT1A1*28)
+Reduzir a dose de ONIVYDE pegylated
+Primeira ocorrência liposomal para 50 mg/m2
+Reduzir a dose de 5-FU em 25% (1.800 mg/m2)
+Reduzir a dose de ONIVYDE pegylated
+liposomal para 43 mg/m2
+Segunda ocorrência
+Reduzir a dose de 5-FU novamente em 25%
+(1.350 mg/m2)
+Terceira ocorrência
+
+Náuseas/vómitos
+
+Grau 3 ou 4 (apesar de
+terapêutica antiemética)
+
+Não deve ser iniciado um novo ciclo da terapêutica até as
+náuseas/vómitos baixarem para ≤ grau 1 ou para o nível verificado antes
+do início da terapêutica
+Primeira ocorrência
+Segunda ocorrência
+Terceira ocorrência
+
+Toxicidades hepáticas,
+renais, respiratórias ou
+outras2
+Grau 3 ou 4
+
+Segunda ocorrência
+
+1
+2
+
+Otimizar a terapêutica antiemética
+Reduzir a dose de ONIVYDE pegylated
+liposomal para 50 mg/m2
+Otimizar a terapêutica antiemética
+Reduzir a dose de ONIVYDE pegylated
+liposomal para 43 mg/m2
+Descontinuar o tratamento
+
+Não deve ser iniciado um novo ciclo da terapêutica até a reação adversa
+baixar para ≤ grau 1
+
+Primeira ocorrência
+
+Reacção anafilática
+
+Descontinuar o tratamento
+
+Reduzir a dose de ONIVYDE pegylated
+liposomal para 50 mg/m2
+Reduzir a dose de 5-FU em 25%
+(1.800 mg/m2)
+Reduzir a dose de ONIVYDE pegylated
+liposomal para 43 mg/m2
+Reduzir a dose de 5-FU novamente
+em 25% (1.350 mg/m2)
+
+Terceira ocorrência
+
+Descontinuar o tratamento
+
+Primeira ocorrência
+
+Descontinuar o tratamento
+
+CTCAE v 4.0 do NCI = Critérios de Terminologia Comum para Acontecimentos Adversos
+versão 4.0 do National Cancer Institute (Instituto Nacional do Cancro dos EUA)
+Exclui astenia e anorexia; a astenia e a anorexia de grau 3 não exigem um ajuste da dose.
+
+4
+
+Tabela 2: Modificações recomendadas da dose de ONIVYDE pegylated liposomal +5-FU/LV
+para toxicidades de grau 3-4 em doentes homozigóticos para UGT1A1*28
+Grau de toxicidade (valor)
+com os CTCAE v 4.01 do
+NCI
+
+Reações
+adversas2 Grau 3 ou 4
+
+Ajuste de ONIVYDE pegylated liposomal/5-FU
+(em doentes homozigóticos para UGT1A1*28)
+sem aumento prévio3 para 70 mg/m2)
+Não deve ser iniciado um novo ciclo da terapêutica até o acontecimento
+adverso baixar para ≤ grau 1
+Reduzir a dose de ONIVYDE pegylated
+liposomal para 43 mg/m2
+Primeira ocorrência
+Modificação de dose de 5-FU assim como
+indicado na Tabela 1
+Reduzir a dose de ONIVYDE pegylated
+liposomal para 35 mg/m2
+Segunda ocorrência
+Modificação de dose de 5-FU assim como
+indicado na Tabela 1
+Terceira ocorrência
+
+1
+
+2
+3
+
+Descontinuar o tratamento
+
+CTCAE v 4.0 do NCI = Critérios de Terminologia Comum para Acontecimentos Adversos
+versão 4.0 do National Cancer Institute (Instituto Nacional do Cancro dos EUA)
+Exclui astenia e anorexia; a astenia e a anorexia de grau 3 não exigem um ajuste da dose.
+No caso de um aumento da dose de ONIVYDE pegylated liposomal para 70 mg / m2, se tolerado
+em ciclos subsequentes, as modificações de dose recomendadas devem seguir a Tabela 1.
+
+Populações especiais
+Compromisso hepático
+Não foi realizado um estudo dedicado ao compromisso hepático com ONIVYDE pegylated liposomal.
+A utilização de ONIVYDE pegylated liposomal deve ser evitada em doentes com um nível de
+bilirrubina > 2,0 mg/dl ou de aspartataminotransferase (AST) e alaninaminotransferase
+(ALT) > 2,5 vezes o limite superior da normalidade (LSN) ou > 5 vezes o LSN em caso de presença
+de metástases hepáticas (ver secção 4.4).
+Compromisso renal
+Não foi realizado um estudo dedicado ao compromisso renal com ONIVYDE pegylated liposomal.
+Não é recomendado um ajuste da dose em doentes com compromisso renal ligeiro a moderado (ver
+secções 4.4 e 5.2). A utilização de ONIVYDE pegylated liposomal não é recomendada em doentes
+com compromisso renal grave (CLcr < 30 ml/min).
+Idosos
+Quarenta e um por cento (41%) dos doentes tratados com ONIVYDE pegylated liposomal no âmbito
+do programa clínico tinham ≥ 65 anos de idade. não é recomendado um ajuste da dose.
+População pediátrica
+A segurança e eficácia de ONIVYDE pegylated liposomal em crianças e adolescentes com ≤ 18 anos
+de idade não foram ainda estabelecidas. Não existem dados disponíveis.
+Modo de administração
+ONIVYDE pegylated liposomal é administrado por via intravenosa. O concentrado tem de ser diluído
+antes da administração e administrado numa única perfusão intravenosa ao longo de 90 minutos. Para
+mais pormenores, ver secção 6.6.
+
+5
+
+Precauções a ter em conta antes de manusear ou administrar o medicamento
+ONIVYDE pegylated liposomal é um medicamento citotóxico. Recomenda-se o uso de luvas, óculos e
+vestuário de proteção ao manusear ou administrar ONIVYDE pegylated liposomal. As profissionais de
+saúde grávidas não devem manusear ONIVYDE pegylated liposomal.
+4.3
+
+Contraindicações
+
+Antecedentes de hipersensibilidade grave ao irinotecano ou a qualquer um dos excipientes
+mencionados na secção 6.1.
+Amamentação (ver secção 4.6).
+4.4
+
+Advertências e precauções especiais de utilização
+
+Gerais
+ONIVYDE pegylated liposomal é uma formulação lipossómica de irinotecano com propriedades
+farmacocinéticas diferentes do irinotecano não lipossómico. A concentração da dose e a dosagem são
+diferentes em comparação com os irinotecanos não lipossómicos.
+ONIVYDE pegylated liposomal não é equivalente a outras formulações não-lipossómicas de
+irinotecano, não devendo ser utilizado de forma intermutável com estas formulações.
+No número limitado de doentes com exposição prévia ao irinotecano não lipossómico, não foi
+demonstrado qualquer benefício de ONIVYDE pegylated liposomal.
+Mielossupressão/neutropenia
+Recomenda-se a monitorização por hemograma completo durante o tratamento com ONIVYDE
+pegylated liposomal. Os doentes devem estar cientes do risco de neutropenia e da relevância da febre.
+O tempo mediano para atingir o nadir para neutropenia ≥ grau 3 é de 23 dias (intervalo de 8-104) após
+a primeira dose do tratamento com ONIVYDE pegylated liposomal. A neutropenia febril (temperatura
+corporal > 38 °C e número de neutrófilos ≤ 1.000 células/mm³) deve ser tratada com urgência em meio
+hospitalar com antibióticos de largo espectro administrados por via intravenosa. O tratamento com
+ONIVYDE pegylated liposomal deve ser suspenso se ocorrer febre neutropénica ou se o número
+absoluto de neutrófilos cair abaixo de 1.500 células/mm3. Foi observada sepsia acompanhada de febre
+neutropénica e choque séptico consequente com resultado fatal em doentes com adenocarcinoma
+pancreático metastático tratados com ONIVYDE pegylated liposomal.
+Nos doentes que sofreram acontecimentos hematológicos graves, é recomendada uma redução da dose
+ou a interrupção do tratamento (ver secção 4.2). Os doentes com insuficiência da medula óssea grave
+não devem ser tratados com ONIVYDE pegylated liposomal.
+Antecedentes de radiação abdominal prévia aumentam o risco de neutropenia grave e neutropenia
+febril após o tratamento com ONIVYDE pegylated liposomal. Recomenda-se uma monitorização
+atenta do hemograma, devendo ser ponderada a utilização de fatores de crescimento mieloide para
+doentes com antecedentes de radiação abdominal. É necessário prudência no que diz respeito aos
+doentes que recebem ONIVYDE pegylated liposomal concomitantemente com irradiação.
+Os doentes com deficiência da glucuronidação da bilirrubina, tal como sucede na síndrome de Gilbert,
+podem apresentar um maior risco de mielossupressão ao receber a terapêutica com ONIVYDE
+pegylated liposomal.
+Em comparação com os doentes caucasianos, os doentes asiáticos apresentam um maior risco de
+neutropenia grave e febril após o tratamento com ONIVYDE pegylated liposomal +5-FU/LV (ver
+secções 4.8 e 5.2).
+
+6
+
+Efeitos imunossupressores e vacinas
+A administração de vacinas com vírus vivos ou vivos atenuados em doentes imunocomprometidos por
+medicamentos de quimioterapia, incluindo ONIVYDE pegylated liposomal, pode resultar em infeções
+graves ou fatais; consequentemente, a vacinação com uma vacina viva deve ser evitada. As vacinas
+com vírus mortos ou inativados podem ser administradas; no entanto, a resposta a estas vacinas pode
+apresentar-se diminuída.
+Interações com indutores fortes da CYP3A4
+ONIVYDE pegylated liposomal não deve ser administrado com indutores fortes da enzima
+CYP3A4 como, por exemplo, anticonvulsivantes (fenitoína, fenobarbital ou carbamazepina),
+rifampicina, rifabutina e hipericão, a não ser que não existam alternativas terapêuticas. A dose inicial
+adequada para os doentes que tomam estes anticonvulsivantes ou outros indutores fortes não foi
+definida. Deverá ser ponderada a substituição por terapêuticas sem indução enzimática pelo
+menos 2 semanas antes do início da terapêutica com ONIVYDE pegylated liposomal (ver secção 4.5).
+Interações com inibidores fortes da CYP3A4 ou inibidores fortes da UGT1A1
+ONIVYDE pegylated liposomal não deve ser administrado em conjunto com inibidores fortes da
+enzima CYP3A4 (p. ex., sumo de toranja, claritromicina, indinavir, itraconazol, lopinavir, nefazodona,
+nelfinavir, ritonavir, saquinavir, telaprevir, voriconazol). A terapêutica com inibidores fortes da
+CYP3A4 deve ser descontinuada pelo menos 1 semana antes do início da terapêutica com ONIVYDE
+pegylated liposomal.
+ONIVYDE pegylated liposomal não deve ser administrado com inibidores fortes da UGT1A (p. ex.,
+atazanavir, gemfibrozil, indinavir, regorafenib), a não ser que não existam alternativas terapêuticas.
+Diarreia
+A diarreia pode ocorrer precocemente (no espaço de ≤ 24 horas após o início da terapêutica com
+ONIVYDE pegylated liposomal) ou tardiamente (> 24 horas) (ver secção 4.8).
+Deve ponderar-se a realização de tratamento profilático ou terapêutico com atropina em doentes com
+diarreia precoce, se não for contraindicado. Os doentes devem ser informados do risco de diarreia
+tardia, a qual pode ser debilitante e, em casos raros, potencialmente fatal, visto que as fezes
+persistentemente soltas ou aguadas podem resultar em desidratação, desequilíbrio eletrolítico, colite,
+ulceração gastrointestinal (GI), infeção ou sepsia.
+Assim que ocorrer a primeira evacuação de fezes líquidas, o doente deve começar a beber grandes
+volumes de bebidas com eletrólitos. Os doentes devem ter ao seu dispor loperamida (ou equivalente)
+para iniciar o tratamento de diarreia tardia. A loperamida deve ser iniciada na primeira ocorrência de
+fezes mal formadas ou soltas ou no início da ocorrência de evacuações mais frequentes do que o
+normal. A loperamida deve ser administrada até o doente não ter diarreia durante, pelo
+menos, 12 horas.
+Se a diarreia persistir enquanto o doente estiver a tomar loperamida durante mais de 24 horas, deve
+ponderar-se uma terapêutica antibiótica suplementar (p. ex., fluoroquinolona durante 7 dias) por via
+oral. A loperamida não deve ser utilizada durante mais de 48 horas consecutivas devido ao risco de
+íleo paralítico. Se a diarreia persistir durante mais de 48 horas, deve-se interromper a administração de
+loperamida, monitorizar e repor os fluidos e eletrólitos e continuar a terapêutica antibiótica
+suplementar até à resolução dos sintomas associados.
+O tratamento com ONIVYDE pegylated liposomal deve ser adiado até a diarreia baixar
+para ≤ grau 1 (2-3 evacuações/dia acima da frequência pré-tratamento). ONIVYDE pegylated
+liposomal não pode ser administrado a doentes com obstrução intestinal e doença intestinal
+inflamatória crónica até esta condição estar resolvida.
+Após diarreia de grau 3 ou 4, a dose subsequente de ONIVYDE pegylated liposomal deve ser reduzida
+(ver secção 4.2).
+
+7
+
+Reações colinérgicas
+A diarreia precoce pode ser acompanhada por sintomas colinérgicos como, por exemplo, rinite,
+salivação aumentada, afrontamento, diaforese, bradicardia, miose e hiperperistaltismo. Deve ser
+administrada atropina no caso de surgirem sintomas colinérgicos.
+Reações agudas à perfusão e reações relacionadas
+Foram notificadas reações à perfusão em doentes que receberam tratamento com ONIVYDE pegylated
+liposomal, consistindo principalmente em erupção cutânea, urticária, edema periorbitário ou prurido.
+Os acontecimentos novos (todos de grau 1 ou grau 2) ocorreram geralmente no início do tratamento
+com ONIVYDE pegylated liposomal e apenas 2 em cada 10 doentes apresentaram acontecimentos
+após a quinta dose. Podem ocorrer reações de hipersensibilidade, incluindo reação aguda à perfusão,
+reação anafilática/anafilactóide e angioedema. A terapêutica com ONIVYDE pegylated liposomal
+deve ser descontinuada caso ocorram reações de hipersensibilidade graves.
+Procedimento de Whipple prévio
+Os doentes previamente submetidos a um procedimento de Whipple apresentam um maior risco de
+infeções graves após a terapêutica com ONIVYDE pegylated liposomal em combinação com 5-FU e
+leucovorina (ver secção 4.8). Os doentes devem ser monitorizados para detetar sinais de infeção.
+Vasculopatias
+ONIVYDE pegylated liposomal tem sido associado a episódios tromboembólicos, como embolia
+pulmonar, trombose venosa e tromboembolismo arterial. Deve ser obtida uma história médica
+detalhada para identificar doentes com múltiplos fatores de risco, para além do tumor subjacente. Os
+doentes devem ser informados sobre os sinais e sintomas de tromboembolismo e aconselhados a
+contactar imediatamente o seu médico ou enfermeiro se ocorrer algum desses sinais ou sintomas.
+Toxicidade pulmonar
+Foram notificados acontecimentos semelhantes a doença pulmonar intersticial (DPI) com resultado
+fatal em doentes que recebiam irinotecano não lipossómico. Não foram notificados quaisquer
+acontecimentos semelhantes a DPI nos estudos clínicos com ONIVYDE pegylated liposomal. Os
+fatores de risco incluem doença pulmonar pré-existente, utilização de medicamentos pneumotóxicos,
+fatores estimuladores de colónias ou antecedentes de radioterapia. Os doentes com fatores de risco
+devem ser monitorizados atentamente para detetar sintomas respiratórios antes e durante a terapêutica
+com ONIVYDE pegylated liposomal. Foi observado um padrão reticulonodular em radiografias
+torácicas numa pequena percentagem dos doentes que participaram num estudo clínico com
+irinotecano. O aparecimento ou a progressão de dispneia, tosse e febre devem levar à suspensão
+imediata do tratamento com ONIVYDE pegylated liposomal, até se proceder a uma avaliação de
+diagnóstico. ONIVYDE pegylated liposomal deve ser descontinuado em doentes com um diagnóstico
+confirmado de DPI.
+Compromisso hepático
+Os doentes com hiperbilirrubinemia apresentaram maiores concentrações de SN-38 total (ver
+secção 5.2) e, por este motivo, estão sujeitos a um maior risco de neutropenia. Devem ser efetuados
+hemogramas completos regulares em doentes com bilirrubina total de 1,0-2,0 mg/dl. É necessário
+prudência no que diz respeito aos doentes com compromisso hepático (bilirrubina > 2 vezes o limite
+superior dos valores normais; transaminases > 5 vezes o limite superior dos valores normais). É
+necessário prudência ao administrar ONIVYDE pegylated liposomal em combinação com outros
+medicamentos hepatotóxicos, sobretudo em doentes com compromisso hepático pré-existente.
+
+8
+
+Compromisso renal
+A utilização de ONIVYDE pegylated liposomal em doentes com compromisso renal significativo não
+foi estabelecida (ver secção 5.2).
+Doentes com peso baixo (índice de massa corporal < 18,5 kg/m2)
+No estudo clínico que avaliou ONIVYDE pegylated liposomal +5-FU/LV, 5 de 8 doentes com peso
+baixo apresentaram reações adversas de Grau 3 ou 4, sobretudo mielossupressão, e foi necessário
+modificar a dose para 7 dos 8 doentes, p. ex., adiamento da dose, redução da dose ou descontinuação
+da dose. Deve ter-se especial atenção na utilização de ONIVYDE pegylated liposomal em doentes
+com índice de massa corporal <18,5 kg/m2.
+Excipientes
+Este medicamento contém 33,1 mg de sódio por frasco, equivalente a 1,65 % da ingestão diária
+máxima recomendada pela OMS de 2g de sódio para um adulto.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+As informações acerca de interações medicamentosas com ONIVYDE pegylated liposomal são
+baseadas na literatura científica publicada relativa ao irinotecano não lipossómico.
+Interações que afetam a utilização de ONIVYDE pegylated liposomal
+Indutores fortes da CYP3A4
+Os doentes que recebem irinotecano não lipossómico em simultâneo com os anticonvulsivantes
+indutores da enzima CYP3A4 fenitoína, fenobarbital ou carbamazepina apresentam uma redução
+substancial da exposição ao irinotecano (redução da AUC em 12% com hipericão, 57%-79% com
+fenitoína, fenobarbital ou carbamazepina) e ao SN-38 (redução da AUC em 42% com
+hipericão, 36%-92% com fenitoína, fenobarbital ou carbamazepina). Consequentemente, a
+coadministração de ONIVYDE pegylated liposomal com indutores da CYP3A4 pode reduzir a
+exposição sistémica de ONIVYDE pegylated liposomal.
+Inibidores fortes da CYP3A4 e da UGT1A1
+Os doentes que recebem irinotecano não lipossómico em simultâneo com cetoconazol, um inibidor da
+CYP3A4 e da UGT1A1, apresentam um aumento de 109% da exposição a SN-38. Consequentemente,
+a coadministração de ONIVYDE pegylated liposomal com outros inibidores da CYP3A4 (p. ex., sumo
+de toranja, claritromicina, indinavir, itraconazol, lopinavir, nefazodona, nelfinavir, ritonavir,
+saquinavir, telaprevir, voriconazol) pode aumentar a exposição sistémica de ONIVYDE pegylated
+liposomal. Com base na interação medicamentosa entre o irinotecano não lipossómico e o
+cetoconazol, a coadministração de ONIVYDE pegylated liposomal com outros inibidores
+da UGT1A1 (p. ex., atazanavir, gemfibrozil, indinavir) pode também aumentar a exposição sistémica
+de ONIVYDE pegylated liposomal.
+A coadministração de ONIVYDE pegylated liposomal +5-FU/LV não altera a farmacocinética de
+ONIVYDE pegylated liposomal com base na análise farmacocinética populacional.
+Não é conhecida qualquer interação entre ONIVYDE pegylated liposomal e outros medicamentos.
+Agentes antineoplásicos (incluindo flucitosina como um pró-fármaco de 5-fluorouracilo)
+Os efeitos adversos do irinotecano, como a mielossupressão, podem ser exacerbados por outros
+agentes antineoplásicos que apresentem perfil similar de efeitos adversos.
+
+9
+
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar/contraceção em homens e mulheres
+As mulheres com potencial para engravidar devem utilizar contraceção eficaz durante o tratamento
+com ONIVYDE pegylated liposomal e durante 7 meses após o tratamento. Os homens devem utilizar
+preservativos durante o tratamento com ONIVYDE pegylated liposomal e durante 4 meses após o
+tratamento.
+Gravidez
+Não existem dados adequados sobre o uso de ONIVYDE pegylated liposomal em mulheres grávidas.
+ONIVYDE pegylated liposomal pode ser nocivo para o feto quando administrado a mulheres grávidas,
+uma vez que o componente principal, irinotecano, demonstrou ser embriotóxico e teratogénico em
+animais (ver secção 5.3). Consequentemente, com base nos resultados dos estudos em animais e no
+mecanismo de ação do irinotecano, ONIVYDE pegylated liposomal não deve ser utilizado durante a
+gravidez, exceto quando estritamente necessário. Se ONIVYDE pegylated liposomal for utilizado
+durante a gravidez ou se a doente engravidar durante a terapêutica, a doente deve ser informada acerca
+do potencial efeito nocivo para o feto.
+Amamentação
+Desconhece-se se ONIVYDE pegylated liposomal ou os respetivos metabolitos são excretados no leite
+humano. Devido à possibilidade de reações adversas graves ao ONIVYDE pegylated liposomal em
+lactentes, ONIVYDE pegylated liposomal é contraindicado durante a amamentação (ver secção 4.3).
+As doentes não devem amamentar até um mês depois da última dose.
+Fertilidade
+Não existem dados acerca do impacto de ONIVYDE pegylated liposomal na fertilidade humana. O
+irinotecano não lipossómico demonstrou causar atrofia dos órgãos reprodutores masculinos e
+femininos após várias doses diárias de irinotecano em animais (ver secção 5.3). Antes de iniciar a
+administração de ONIVYDE pegylated liposomal, considerar o aconselhamento aos doentes sobre a
+preservação de gâmetas.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de ONIVYDE pegylated liposomal sobre a capacidade de conduzir e utilizar máquinas são
+moderados. Durante o tratamento, os doentes devem ser cautelosos ao conduzir ou utilizar máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+O perfil de segurança é baseado no estudo clínico NAPOLI-1. As reações adversas seguintes, que se
+considera ser possível ou provável que estejam relacionadas com a administração de ONIVYDE
+pegylated liposomal, foram notificadas em 264 doentes com adenocarcinoma metastático do pâncreas,
+dos quais 147 receberam ONIVYDE pegylated liposomal em monoterapia (100 mg/m2)
+e 117 receberam ONIVYDE pegylated liposomal (70 mg/m2) combinado com 5-FU/LV.
+As reações adversas mais frequentes (incidência ≥ 20%) com ONIVYDE pegylated liposomal +5FU/LV foram: diarreia, náuseas, vómitos, apetite diminuído, neutropenia, fadiga, astenia, anemia,
+estomatite e pirexia. As reações adversas graves mais frequentes (≥ 2%) na terapêutica com
+ONIVYDE pegylated liposomal foram diarreia, vómitos, neutropenia febril, náuseas, pirexia, sepsia,
+desidratação, choque séptico, pneumonia, insuficiência renal aguda e trombocitopenia.
+As frequências de reações adversas que resultaram na descontinuação permanente do tratamento foram
+de 11% para o braço de ONIVYDE pegylated liposomal +5-FU/LV e 12% para o braço da
+monoterapia.
+10
+
+As reações adversas notificadas mais frequentemente e que resultaram na descontinuação do
+tratamento foram infeção e diarreia no braço de ONIVYDE pegylated liposomal +5-FU/LV e vómitos
+e diarreia no braço da monoterapia.
+Lista tabelada das reações adversas
+As reações adversas descritas nesta secção são derivadas dos dados do estudo e da experiência póscomercialização de ONIVYDE Pegylated Liposomal.
+As reações adversas que podem ocorrer durante o tratamento com ONIVYDE pegylated liposomal
+estão resumidas abaixo e são apresentadas por classe de sistemas de órgãos e por categoria de
+frequência (Tabela 3). Dentro de cada classe de sistemas de órgãos e categoria de frequência, as
+reações adversas são apresentadas por ordem decrescente de gravidade. As categorias de frequência
+utilizadas para reações adversas são: muito frequentes (≥1/10); frequentes (≥1/100, <1/10); pouco
+frequentes (≥1/1.000, <1/100), raros (≥1/10.000, <1/1.000)* e desconhecida (a frequência não pode ser
+calculada a partir dos dados disponíveis).
+Tabela 3: Reações adversas notificadas com a terapêutica com ONIVYDE pegylated liposomal
+Classe de sistemas de
+órgãos MedDRA
+
+Frequência da reação adversa*
+
+Infeções e infestações
+
+Frequentes: choque séptico, sepsia, pneumonia, neutropenia febril,
+gastroenterite, candidíase oral
+Pouco frequentes: septicemia biliar
+
+Doenças do sangue e do
+sistema linfático
+
+Muito frequentes: neutropenia, leucopenia, anemia, trombocitopenia
+Frequentes: linfopenia
+
+Doenças do sistema
+imunitário
+
+Pouco frequentes: hipersensibilidade
+Desconhecida: reação anafilática/anafilactóide, angioedema
+
+Doenças do metabolismo e
+da nutrição
+
+Muito frequentes: hipocaliemia, hipomagnesemia, desidratação,
+apetite diminuído
+Frequentes: hipoglicemia, hiponatremia, hipofosfatemia
+
+Perturbações do foro
+psiquiátrico
+Doenças do sistema nervoso
+
+Frequentes: insónia
+
+Cardiopatias
+
+Frequentes: hipotensão
+
+Vasculopatias
+
+Frequentes: embolia pulmonar, embolia, trombose venosa profunda
+Pouco frequentes: trombose
+
+Doenças respiratórias,
+torácicas e do mediastino
+
+Frequentes: dispneia, disfonia
+Pouco frequentes: hipoxia
+
+Doenças gastrointestinais
+
+Muito frequentes: diarreia, vómitos, náuseas, dor abdominal,
+estomatite
+Frequentes: colite, hemorroidas
+Pouco frequentes: esofagite, proctite
+
+Afeções hepatobiliares
+
+Frequentes: hipoalbuminemia
+
+Muito frequentes: tonturas
+Frequentes: síndrome colinérgica; disgeusia
+
+11
+
+Classe de sistemas de
+órgãos MedDRA
+
+Frequência da reação adversa*
+
+Afeções dos tecidos cutâneos
+e subcutâneas
+
+Muito frequentes: alopecia
+Frequentes: prurido
+Pouco frequentes: urticária, erupção cutânea, erupção
+maculopapulosa, descoloração das unhas
+Desconhecida: eritema
+
+Doenças renais e urinárias
+
+Frequentes: insuficiência renal aguda
+
+Perturbações gerais e
+alterações no local de
+administração
+
+Muito frequentes: pirexia, edema periférico, inflamação das mucosas,
+fadiga, astenia
+Frequentes: reação relacionada com a perfusão, edema
+
+Exames complementares de
+diagnóstico
+
+Muito frequentes: diminuição do peso
+Frequentes: bilirrubina aumentada, alaninaminotransferase aumentada,
+aspartataminotransferase aumentada, relação internacional
+normalizada aumentada
+
+*
+
+As ocorrências raras não podem ser estimadas com base no estudo NAPOLI-1 devido à
+dimensão reduzida da amostra
+
+Descrição de reações adversas selecionadas
+As reações adversas seguintes foram observadas no estudo clínico NAPOLI-1:
+Mielossupressão
+A mielossupressão (neutropenia/leucopenia, trombocitopenia e anemia) foi mais frequente no braço
+ONIVYDE pegylated liposomal +5-FU/LV em comparação com o braço de controlo 5-FU/LV.
+Neutropenia/leucopenia
+Neutropenia/leucopenia representou a toxicidade hematológica importante de maior destaque. Foi
+notificada neutropenia de grau 3 ou superior mais frequentemente nos doentes tratados com
+ONIVYDE pegylated liposomal +5-FU/LV (27,4%) em comparação com os doentes tratados
+com 5-FU/LV (1,5%). Foi notificada febre neutropénica/sepsia mais frequentemente no braço
+combinado ONIVYDE pegylated liposomal +5-FU/LV [em 4 doentes (3,4%)] em comparação com o
+braço de controlo 5-FU/LV [em 1 doente (0,7%)].
+Trombocitopenia
+Foi notificada trombocitopenia de grau 3 ou superior em 2,6% dos doentes tratados com ONIVYDE
+pegylated liposomal +5-FU/LV e em 0% dos doentes tratados com 5-FU/LV.
+Anemia
+Foi notificada anemia de grau 3 ou superior em 10,3% dos doentes tratados com ONIVYDE pegylated
+liposomal +5-FU/LV e em 6,7% dos doentes tratados com 5-FU/LV.
+Insuficiência renal aguda
+Foram identificados casos de compromisso renal e insuficiência renal aguda, tipicamente em doentes
+com depleção de volume devido a náuseas/vómitos e/ou diarreia. Foi notificada insuficiência renal
+aguda em 6 de 117 doentes (5,1%) no braço de ONIVYDE pegylated liposomal +5-FU/LV,
+em 10 de 147 doentes (6,8%) no braço de monoterapia com ONIVYDE pegylated liposomal e
+em 6 de 134 doentes (4,5%) no braço 5-FU/LV.
+Diarreia e reações adversas relacionadas
+A diarreia é uma reação adversa muito frequente e que conduz a colite, íleo, gastroenterite, fadiga,
+desidratação, perda de peso, toxicidades renais, hiponatremia e hipocaliemia. Foram identificados
+12
+
+casos de compromisso renal e insuficiência renal aguda, tipicamente em doentes com depleção de
+volume devido a vómitos e/ou diarreia graves. No estudo clínico, foi notificada a ocorrência de
+diarreia de grau 3 ou grau 4 em 15 de 117 doentes (12,8%) que receberam ONIVYDE pegylated
+liposomal +5-FU/LV. No caso dos doentes que tiveram diarreia tardia, o tempo mediano até ao início
+da diarreia tardia foi de 8 dias após a dose anterior de ONIVYDE pegylated liposomal. Pode ocorrer
+diarreia precoce, tipicamente no período ≤24 horas após a administração da dose, sendo normalmente
+transitória. A diarreia precoce pode também ser acompanhada por sintomas colinérgicos que podem
+incluir rinite, salivação aumentada, afrontamento, diaforese, bradicardia, miose e hiperperistaltismo
+que pode induzir cãibras abdominais. No estudo clínico, a diarreia precoce ocorreu em 35 doentes
+(29,9%) e os acontecimentos colinérgicos ocorreram em 4 doentes (3,4%) que receberam ONIVYDE
+pegylated liposomal +5-FU/LV.
+Suspender a administração de ONIVYDE pegylated liposomal para diarreia de grau 2-4 e iniciar
+tratamento da diarreia. Após recuperação para o Grau 1, retomar a administração de ONIVYDE
+pegylated liposomal numa dose reduzida (ver secção 4.2).
+Reação à perfusão
+Foram notificadas reações agudas à perfusão em 8 de 117 doentes (6,8%) no braço de ONIVYDE
+pegylated liposomal +5-FU/LV, em 3 de 147 doentes (2,0%) no braço da monoterapia com
+ONIVYDE pegylated liposomal e em 8 de 134 doentes (6,0%) no braço 5-FU/LV.
+Outras populações especiais
+Idosos
+Globalmente, não foram notificadas diferenças clínicas substanciais na segurança ou eficácia entre os
+doentes ≥ 65 anos e os doentes < 65 anos de idade, embora tenha sido observada uma maior
+frequência de interrupção do tratamento (14,8% vs 7,9%) no grupo de maior idade que recebeu
+tratamento com ONIVYDE pegylated liposomal +5-FU/LV no estudo NAPOLI-1 e, em alguns casos,
+as reações adversas não foram resolvidas. As reações adversas de grau 3 ou superior e as reações
+adversas graves de tratamento urgente foram mais frequentes nos doentes com < 65 anos (84,1%
+e 50,8%), em comparação com os doentes ≥ 65 anos de idade (68,5 % e 44,4%). Por outro lado, os
+doentes > 75 anos de idade (n=12) tiveram reações adversas graves, adiamentos da dose, reduções da
+dose e interrupções do tratamento mais frequentemente do que os doentes ≤ 75 anos de idade (n=105),
+quando receberam tratamento com ONIVYDE pegylated liposomal +5-FU/LV no estudo sobre o
+adenocarcinoma pancreático.
+População asiática
+Em comparação com os doentes caucasianos, os doentes asiáticos apresentaram uma menor incidência
+de diarreia [14 (19,2%) de 73 doentes caucasianos apresentaram diarreia ≥ grau 3 e 1 de 33 (3,3%)
+doentes asiáticos apresentou diarreia ≥ grau 3], mas uma maior incidência e maior gravidade de
+neutropenia. Nos doentes que receberam ONIVYDE pegylated liposomal +5-FU/LV, a incidência de
+neutropenia ≥ grau 3 foi maior entre os doentes asiáticos [18 de 33 (55%)] em comparação com os
+doentes caucasianos [13 de 73 (18%)]. Foi notificada febre neutropénica/sepsia neutropénica em 6%
+dos doentes asiáticos, em comparação com 1% dos doentes caucasianos. Esta observação é consistente
+com a análise farmacocinética populacional, a qual demonstrou uma menor exposição ao irinotecano e
+uma maior exposição ao seu metabolito ativo SN-38 nos doentes asiáticos, em comparação com os
+doentes caucasianos.
+Doentes com compromisso hepático
+Em estudos clínicos do irinotecano não lipossómico administrado num regime de doses semanais, os
+doentes com níveis ligeiramente elevados da bilirrubina sérica total no início do
+estudo (1,0 a 2,0 mg/dl) apresentaram uma probabilidade significativamente maior de neutropenia de
+grau 3 ou grau 4 no primeiro ciclo, em comparação com os doentes com níveis de bilirrubina menores
+que 1,0 mg/dl.
+Doentes com procedimento de Whipple prévio
+No estudo clínico que avaliou ONIVYDE pegylated liposomal +5-FU/LV, os doentes previamente
+submetidos a um procedimento de Whipple apresentaram um maior risco de infeções graves após o
+13
+
+tratamento com ONIVYDE pegylated liposomal +5-FU/LV [9 de 29 (30%)] em comparação com os
+doentes não submetidos previamente a um procedimento de Whipple [11 de 88 (12,5%)].
+Doentes com alelo UGT1A1
+Os indivíduos homozigóticos 7/7 para o alelo UGT1A1*28 apresentam um maior risco de neutropenia
+devido ao irinotecano não lipossómico. No estudo clínico que avaliou ONIVYDE pegylated liposomal
++5-FU/LV, a frequência de neutropenia ≥ grau 3 nestes doentes [2 de 7 (28,6%)] foi semelhante à
+frequência em doentes não homozigóticos para o alelo UGT1A1*28 que receberam uma dose inicial
+de ONIVYDE pegylated liposomal de 70 mg/m2 [30 de 110 (27,3%)] (ver secção 5.1).
+Doentes com peso baixo (índice de massa corporal < 18,5 kg/m2)
+No estudo clínico que avaliou ONIVYDE pegylated liposomal +5-FU/LV, 5 de 8 doentes com peso
+baixo apresentaram uma reação adversa de grau 3 ou 4, sobretudo mielossupressão, e foi necessário
+modificar a dose para 7 dos 8 doentes, p. ex., adiamento da dose, redução da dose ou descontinuação
+da dose (ver secção 4.4).
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Nos estudos clínicos, ONIVYDE pegylated liposomal foi administrado em doses até 210 mg/m2 a
+doentes com diversos cancros. As reações adversas nestes doentes foram semelhantes às notificadas
+com a dose e o regime recomendados.
+Foram notificados casos de sobredosagem com irinotecano não lipossómico administrado em doses
+com aproximadamente o dobro da dose terapêutica de irinotecano recomendada, as quais podem ser
+fatais. As reações adversas notificadas mais relevantes são neutropenia grave e diarreia grave.
+Não é conhecido qualquer antídoto para a sobredosagem com ONIVYDE pegylated liposomal. Devem
+ser aplicados todos os cuidados de apoio para evitar a desidratação resultante da diarreia e para tratar
+quaisquer complicações infeciosas.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Inibidores da Topoisomerase I (TOP1). Código ATC: L01CE02
+Mecanismo de ação
+A substância ativa de ONIVYDE pegylated liposomal é irinotecano (inibidor da topoisomerase I)
+encapsulado numa vesícula ou lipossoma de camada lipídica dupla.
+Irinotecano é um derivado da camptotecina. As camptotecinas atuam como inibidores específicos da
+enzima topoisomerase I do ADN. O irinotecano e o respetivo metabolito ativo, SN-38, ligam-se de
+forma reversível ao complexo topoisomerase I-ADN e induzem lesões no ADN de cadeia simples,
+bloqueando a bifurcação de replicação do ADN, e são responsáveis pela citotoxicidade. O irinotecano
+é metabolizado em SN-38 pela carboxilesterase. O SN-38 é aproximadamente 1.000 vezes mais
+potente que o irinotecano como inibidor da topoisomerase I purificada a partir de linhagens celulares
+tumorais humanas e de roedores.
+14
+
+Efeitos farmacodinâmicos
+Nos modelos animais, ONIVYDE pegylated liposomal demonstrou expandir os níveis de irinotecano
+no plasma e prolongar a exposição ao metabolito ativo, SN-38, no local do tumor.
+Eficácia e segurança clínicas
+A segurança e eficácia clínicas de ONIVYDE pegylated liposomal foram investigadas num estudo
+clínico multinacional, aleatorizado, sem ocultação e controlado (NAPOLI–1) que testou dois regimes
+de tratamento para doentes com adenocarcinoma pancreático metastático com progressão da doença
+documentada após terapêutica com gemcitabina ou incluindo gemcitabina. O estudo foi desenhado
+para avaliar a eficácia e segurança clínicas da monoterapia com ONIVYDE pegylated liposomal ou
+ONIVYDE pegylated liposomal +5-FU/LV em comparação com um braço de controlo ativo
+com 5-FU/LV.
+Os doentes aleatorizados para o braço de ONIVYDE pegylated liposomal +5-FU/LV receberam
+ONIVYDE pegylated liposomal a 70 mg/m2 numa perfusão intravenosa ao longo de 90 minutos,
+seguido de LV 400 mg/m2 por via intravenosa ao longo de 30 minutos, seguido
+de 5-FU 2.400 mg/m2 por via intravenosa ao longo de 46 horas, administrados de 2 em 2 semanas. Os
+doentes homozigóticos para o alelo UGT1A1*28 receberam uma dose inicial menor de ONIVYDE
+pegylated liposomal (ver secção 4.2). Os doentes aleatorizados para o braço 5-FU/LV receberam
+leucovorina 200 mg/m2 por via intravenosa ao longo de 30 minutos, seguida de 5-FU 2.000 mg/m2 por
+via intravenosa ao longo de 24 horas, administrados nos dias 1, 8, 15 e 22 de um ciclo de 6 semanas.
+Os doentes aleatorizados para monoterapia com ONIVYDE pegylated liposomal
+receberam 100 mg/m2 numa perfusão intravenosa ao longo de 90 minutos de 3 em 3 semanas.
+Os critérios principais de elegibilidade para doentes com adenocarcinoma metastático do pâncreas no
+estudo clínico NAPOLI-1 foram Índice de Desempenho de Karnofsky (KPS) ≥ 70, nível de bilirrubina
+normal, níveis de transaminase ≤ 2,5 vezes o LSN ou ≤ 5 vezes o LSN para doentes com metástases
+hepáticas e albumina ≥ 3,0 g/dl.
+No total, 417 doentes foram aleatorizados para o braço de ONIVYDE pegylated liposomal
++5-FU/LV (N=117), para o braço de monoterapia com ONIVYDE pegylated liposomal (N=151) e
+para o braço de 5-FU/LV (N=149). A demografia dos doentes e as características da doença no início
+do estudo foram bem equilibradas entre os braços do estudo.
+Na população com intenção de tratar (todos os aleatorizados), a idade mediana foi de 63 anos
+(intervalo 31-87 anos), 57 % eram do sexo masculino, 61% caucasianos e 33% de etnia asiática. O
+nível de albumina médio no início do estudo era de 3,6 g/dl e o KPS no início do estudo era
+de 90-100 em 55% dos doentes. As características da doença incluíram 68% de doentes com
+metástases hepáticas e 31% com metástases pulmonares; 12% dos doentes não tinham antecedentes de
+linhas de terapêutica metastática, 56% dos doentes tinham antecedentes de 1 linha de terapêutica
+metastática, 32% dos doentes tinham antecedentes de 2 ou mais linhas de terapêutica metastática.
+Os doentes receberam tratamento até ocorrer progressão da doença ou um nível de toxicidade
+inaceitável. O parâmetro principal de resultado era a Sobrevivência global (OS). Os parâmetros de
+resultado adicionais incluíam a Sobrevivência livre de progressão (PFS) e a Taxa de resposta objetiva
+(ORR). Os resultados são apresentados na Tabela 4. A sobrevivência global encontra-se ilustrada na
+Figura 1.
+Tabela 4 Resultados da eficácia no estudo clínico NAPOLI-1
+ONIVYDE pegylated
+liposomal +5-FU/LV
+(N= 117)
+15
+
+5-FU/LV
+(N= 119)
+
+ONIVYDE pegylated
+liposomal +5-FU/LV
+(N= 117)
+
+5-FU/LV
+(N= 119)
+
+75 (64)
+
+80 (67)
+
+6,1
+
+4,2
+
+(4,8, 8,9)
+
+(3,3, 5,3)
+
+Sobrevivência global1
+Número de mortes, n (%)
+OS mediana (meses)
+(Intervalo de confiança (IC) de 95%)
+Taxa de risco (IC de 95%)3
+
+0,67 (0,49-0,92)
+
+valor p4
+
+0,0122
+
+Sobrevivência livre de progressão1,2
+Morte ou progressão, n (%)
+PFS mediana (meses)
+(IC de 95%)
+
+83 (71)
+
+92 (77)
+
+3,1
+
+1,5
+
+(2,7, 4,2)
+
+(1,4, 1,8)
+
+Taxa de risco (IC de 95%)3
+
+0,56 (0,41-0,75)
+
+valor p4
+
+0,0001
+
+Taxa de resposta objetiva2
+N
+ORR (%)
+IC de 95% da taxa5
+Diferença na taxa (IC de 95%)5
+
+2
+3
+4
+5
+6
+
+1
+
+16,2
+
+0,8
+
+9,6, 22,9
+
+0,0, 2,5
+15,4 (8,5, 22,3)
+
+valor p6
+1
+
+19
+
+< 0,0001
+
+A mediana corresponde à estimativa de Kaplan-Meier do tempo de sobrevivência mediano
+De acordo com as normas orientadoras RECIST, v 1.1.
+Análise do modelo de Cox
+Teste log-rank não estratificado
+Com base na aproximação da Normal
+Teste exato de Fisher
+
+Abreviaturas: 5-FU/LV=5-fluorouracilo/leucovorina; IC=intervalo de confiança
+
+16
+
+Figura 1 Sobrevivência global
+
+No número limitado de doentes com exposição prévia ao irinotecano não lipossómico, não foi
+demonstrado qualquer benefício de ONIVYDE pegylated liposomal.
+População pediátrica
+A Agência Europeia de Medicamentos dispensou a obrigação de apresentação dos resultados dos
+estudos com ONIVYDE pegylated liposomal em todos os subgrupos da população pediátrica
+relativamente ao tratamento do adenocarcinoma do pâncreas (ver secção 4.2 para informação sobre
+utilização pediátrica).
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+A encapsulação lipossómica do irinotecano prolonga a circulação e limita a distribuição relativamente
+ao irinotecano não lipossómico.
+A farmacocinética plasmática do irinotecano total e SN-38 total foi avaliada em doentes com cancro
+que receberam ONIVYDE pegylated liposomal, em monoterapia ou integrado em quimioterapia
+combinada, com doses entre 50 e 155 mg/m2. Os parâmetros farmacocinéticos dos analitos totais
+irinotecano e SN-38, após a administração de ONIVYDE pegylated liposomal 70 mg/m2, são
+apresentados na Tabela 5.
+Tabela 5: Resumo para irinotecano total e SN-38 total médios (±desvio padrão)
+Analito
+
+Parâmetros FC
+
+Unidade
+
+Irinotecano
+total
+
+AUC
+
+h×ng/ml
+
+Cmáx
+
+ng/ml
+
+Depuração (CL)
+
+l/h/m2
+
+Volume (V)
+
+l/m2
+
+ONIVYDE pegylated
+liposomal
+Méd. Geom. (IC
+de 95%)a
+70 mg/m2 (n=353)b
+919.228
+(845.653-999.204)
+28.353
+(27.761-28958)
+0,087
+(0,080-0,094)
+2,6
+(2,6-2,7)
+17
+
+Média de irinotecano
+não lipossómico (SD)
+125 mg/m2 (n=99)c
+10.529
+(3.786)
+1.492
+(452)
+13,0
+(5,6)
+138
+(60,9)
+
+Analito
+
+Parâmetros FC
+
+Unidade
+
+t1/2 efetivo
+
+h
+
+AUC
+
+h×ng/ml
+
+Cmáx
+
+ng/ml
+
+t1/2 efetivo
+
+h
+
+Total
+SN-38
+
+ONIVYDE pegylated
+liposomal
+Méd. Geom. (IC
+de 95%)a
+70 mg/m2 (n=353)b
+20,8
+(19,4-22,3)
+341
+(326-358)
+3,0
+(2,9-3,1)
+40,9
+(39,8-42,0)
+
+Média de irinotecano
+não lipossómico (SD)
+125 mg/m2 (n=99)c
+6,07
+(1,19)
+267
+(115)
+27,8
+(11,6)
+11,7
+(4,29)
+
+SD= desvio padrão
+AUC= área sob a curva da concentração no plasma (extrapolado até ao infinito para ONIVYDE
+pegylated liposomal e AUC24h para o irinotecano não lipossómico)
+Cmáx= concentração máxima no plasma
+t1/2 efetivo= semividas efetivas
+a
+Os valores são estimados a partir da análise FC populacional
+b
+N=353 refere-se a todos os indivíduos incluídos na análise FC populacional
+c
+Os valores são obtidos a partir de dados publicados [Schaaf LJ et al. Clin Cancer
+Res. 2006 Jun 15;12:3782-91]
+Distribuição
+A medição direta do irinotecano lipossómico demonstra que 95% do irinotecano permanece
+encapsulado no lipossoma durante a circulação. O irinotecano não lipossómico apresenta um grande
+volume de distribuição (138 l/m2). O volume de distribuição de ONIVYDE pegylated liposomal
+70 mg/m2 foi de 2,6 l/m2, o que sugere que ONIVYDE pegylated liposomal está em grande parte
+restrito ao fluido vascular.
+A ligação de ONIVYDE pegylated liposomal a proteínas plasmáticas é desprezível (< 0,44% do
+irinotecano total em ONIVYDE pegylated liposomal). A ligação do irinotecano não lipossómico a
+proteínas plasmáticas é moderada (30% a 68%) e o SN-38 apresenta uma forte ligação às proteínas
+plasmáticas humanas (aproximadamente 95%).
+Biotransformação
+O irinotecano libertado da encapsulação lipossómica segue uma via metabólica semelhante à
+notificada com o irinotecano não lipossómico.
+A conversão metabólica do irinotecano para o metabolito ativo SN-38 é mediada por enzimas
+carboxilesterase. Estudos in vitro indicam que o irinotecano, SN-38 e um outro metabolito, ácido
+aminopentano carboxílico (APC), não inibem as isoenzimas do citocrómio P-450. Subsequentemente,
+o SN-38 é conjugado predominantemente pela enzima UDP-glucoronosil transferase 1A1 (UGT1A1)
+para formar um metabolito de glucoronido. A atividade da UGT1A1 é reduzida em indivíduos com
+polimorfismos genéticos que resultam numa atividade enzimática reduzida, p. ex., o
+polimorfismo UGT1A1*28. Na análise farmacocinética populacional em doentes com ONIVYDE
+pegylated liposomal, utilizando os resultados de um subconjunto com teste
+genotípico UGT1A1*28 para o qual a análise foi ajustada em função da menor dose administrada a
+doentes homozigóticos para o alelo UGT1A1*28, os doentes homozigóticos (N=14) e não
+homozigóticos (N=244) para este alelo apresentaram concentrações médias no estado de equilíbrio de
+SN-38 total de 1,06 e 0,95 ng/ml, respetivamente.
+Eliminação
+A eliminação de ONIVYDE pegylated liposomal e do irinotecano não lipossómico não está totalmente
+descrita para o ser humano.
+18
+
+A excreção urinária de irinotecano não lipossómico é de 11% a 20%, <1% para SN-38 e 3% para
+SN-38 glucoronido. A excreção biliar e urinária acumulada do irinotecano e respetivos metabolitos
+(SN-38 e SN-38 glucoronido) ao longo de um período de 48 horas, após a administração de
+irinotecano não-lipossómico em dois doentes, apresentou-se aproximadamente no intervalo entre 25%
+(100 mg/m2) e 50% (300 mg/m2).
+Compromisso renal
+Não foi realizado um estudo farmacocinético dedicado em doentes com compromisso renal. Numa
+análise farmacocinética populacional, a presença de compromisso renal ligeiro a moderado não teve
+efeito na exposição de SN-38 total após ajustamento em função da área de superfície corporal (BSA).
+A análise incluiu 68 doentes com compromisso renal moderado (CLcr 30-59 ml/min), 147 doentes
+com compromisso renal ligeiro (CLcr 60-89 ml/min) e 135 doentes com função renal normal
+(CLcr > 90 ml/min). Os dados sobre doentes com compromisso renal grave (CLcr < 30 ml/min) foram
+insuficientes para avaliar o seu efeito na farmacocinética (ver secções 4.2 e 4.4).
+Compromisso hepático
+Não foi realizado um estudo farmacocinético dedicado em doentes com compromisso hepático. Numa
+análise farmacocinética populacional, os doentes com concentrações de bilirrubina total no início do
+estudo de 1-2 mg/dl (n=19) apresentaram concentrações médias no estado de equilíbrio para
+SN-38 total aumentadas em 37% (0,98 [IC de 95%: 0,94-1,02] e 1,29 [IC de 95%: 1,11-1,5] ng/ml,
+respetivamente) em comparação com os doentes com concentrações de bilirrubina no início do estudo
+de < 1 mg/dl (n=329); no entanto, não se observou um efeito das concentrações elevadas de ALT/AST
+sobre as concentrações de SN-38 total. Não existem dados disponíveis relativos a doentes com
+bilirrubina total maior que 2 vezes o LSN.
+Outras populações especiais
+Idade e sexo
+A análise farmacocinética populacional em doentes com 28 a 87 anos de idade, dos quais 11% tinham
+≥75 anos, sugere que a idade não teve um efeito clinicamente significativo na exposição ao irinotecano
+e SN-38.
+A análise farmacocinética populacional em 196 doentes do sexo masculino e 157 doentes do sexo
+feminino sugere que o sexo não teve um efeito clinicamente significativo na exposição ao irinotecano
+e SN-38, após ajustamento em função da BSA.
+Etnia
+A análise farmacocinética populacional sugere que os doentes asiáticos apresentam uma concentração
+média em estado de equilíbrio do irinotecano total 56% menor (3,93 [IC de 95%: 3,68-4,2] e 1,74 [IC
+de 95%: 1,58-1,93] mg/l, respetivamente) e uma concentração média em estado de equilíbrio do
+SN-38 total 8% maior (0,97 [IC de 95%: 0,92-1,03] e 1,05 [IC de 95%: 0,98-1,11] ng/ml,
+respetivamente) em comparação com os doentes caucasianos.
+Relação farmacocinética/farmacodinâmica
+Numa análise agrupada de 353 doentes, uma maior Cmáx de SN-38 no plasma foi associada a uma
+maior probabilidade de ocorrência de neutropenia e uma maior Cmáx de irinotecano total no plasma foi
+associada a uma maior probabilidade de ocorrência de diarreia.
+No estudo clínico para demonstração da eficácia de ONIVYDE pegylated liposomal, maiores
+exposições no plasma de irinotecano e SN-38 total para doentes no braço de tratamento ONIVYDE
+pegylated liposomal +5-FU/LV foram associadas a OS e PFS mais longos, assim como a uma maior
+ORR (taxa de resposta objetiva).
+
+19
+
+5.3
+
+Dados de segurança pré-clínica
+
+Em estudos da toxicidade com dose única e repetida em ratinhos, ratos e cães, os órgãos alvo da
+toxicidade foram o trato gastrointestinal e o sistema hematológico. A gravidade dos efeitos mostrou-se
+relacionada com a dose e reversível. O nível sem efeito adverso observado (NOAEL) em ratos e cães
+após a perfusão intravenosa de ONIVYDE pegylated liposomal ao longo de 90 minutos,
+de 3 em 3 semanas durante 18 semanas foi de 155 mg/m2.
+Em estudos farmacológicos da segurança com cães, ONIVYDE pegylated liposomal não teve efeito
+sobre parâmetros cardiovasculares, hemodinâmicos, eletrocardiográficos ou respiratórios com doses
+até 18 mg/kg ou 360 mg/m2. Não foram observados indícios de toxicidade relacionada com o SNC nos
+estudos de toxicidade com dose repetida em ratos.
+Potencial genotóxico e carcinogénico
+Não foram realizados estudos da genotoxicidade com ONIVYDE pegylated liposomal. O irinotecano
+não lipossómico e SN-38 mostraram-se genotóxicos in vitro no teste de aberração cromossómica em
+células CHO, assim como no teste de micronúcleo in vivo em ratinhos. No entanto, noutros estudos
+com irinotecano, estes fármacos não mostraram qualquer potencial mutagénico de acordo com o teste
+de Ames.
+Não foram realizados estudos da carcinogenicidade com ONIVYDE pegylated liposomal.
+Relativamente ao irinotecano não lipossómico, em ratos tratados uma vez por semana
+durante 13 semanas com a dose máxima de 150 mg/m², não foram observados tumores relacionados
+com o tratamento 91 semanas após o final do tratamento. Nestas condições, observou-se uma
+tendência linear significativa na relação entre a dose e a incidência combinada de pólipos do estroma
+do endométrio e sarcomas do estroma do endométrio. Devido ao seu mecanismo de ação, o
+irinotecano é considerado potencialmente carcinogénico.
+Toxicidade reprodutiva
+Não foram realizados estudos da toxicidade para a reprodução e desenvolvimento com ONIVYDE
+pegylated liposomal.
+O irinotecano não lipossómico foi teratogénico em ratos e coelhos com doses abaixo da dose
+terapêutica para o ser humano. Nos ratos, os filhotes de animais tratados apresentaram uma redução da
+fertilidade quando também exibiam anomalias externas. Isto não foi observado em filhotes
+morfologicamente normais. Observou-se uma diminuição do peso da placenta durante a gravidez nos
+ratos e, nos filhotes, uma diminuição da viabilidade fetal e aumento de anomalias comportamentais.
+O irinotecano não lipossómico provocou atrofia dos órgãos reprodutores masculinos nos ratos e nos
+cães após várias doses diárias de 20 mg/kg e 0,4 mg/kg, respetivamente. Estes efeitos mostraram-se
+reversíveis após a cessação do tratamento.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Lípidos formadores de lipossomas
+1,2-diestearoil-sn-glicero-3-fosfocolina (DSPC)
+Colesterol
+N-(carbonil-metoxipolietilenoglicol-2000)-1,2-diestearoil-sn-glicero-3-fosfoetanolamina
+(MPEG-2000-DSPE)
+Outros excipientes
+Octassulfato de sacarose
+Ácido 2- [ 4- (2-Hidroxietil)piperazina-1-il] etanossulfónico (tampão HEPES)
+Cloreto de sódio
+Água para preparações injetáveis
+20
+
+6.2
+
+Incompatibilidades
+
+ONIVYDE pegylated liposomal não pode ser misturado com outros medicamentos, exceto os
+mencionados na secção 6.6.
+6.3
+
+Prazo de validade
+
+Frasco não aberto
+3 anos
+Após a diluição
+A estabilidade química e física da dispersão diluída para perfusão foi demonstrada a 15 – 25°C durante
+um prazo máximo de 6 horas ou no frigorífico (2ºC–8ºC) durante um prazo máximo de 24 horas.
+De um ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente. Se não for
+utilizado imediatamente, os tempos e condições de armazenamento antes da utilização são da
+responsabilidade do utilizador.
+6.4
+
+Precauções especiais de conservação
+
+Conservar no frigorífico (2°C – 8°C).
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+Condições de conservação do medicamento após diluição, ver secção 6.3.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Frasco para injetáveis de vidro de tipo I com rolha de clorobutilo cinzento e selo de alumínio com uma
+cápsula destacável, contendo 10 ml de concentrado.
+Cada embalagem contém um frasco para injetáveis.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+ONIVYDE pegylated liposomal é um medicamento citotóxico e deve ser manuseado com cuidado.
+Recomenda-se o uso de luvas, óculos e vestuário de proteção ao manusear ou administrar ONIVYDE
+pegylated liposomal. Se a dispersão entrar em contacto com a pele, a pele deve ser lavada imediata e
+exaustivamente com água e sabão. Se a dispersão entrar em contacto com membranas mucosas, estas
+devem ser lavadas exaustivamente com água. Devido à natureza citotóxica do medicamento, as
+profissionais de saúde grávidas não devem manusear ONIVYDE pegylated liposomal.
+Preparação da dispersão e administração
+ONIVYDE pegylated liposomal é fornecido como uma dispersão lipossómica estéril a uma
+concentração de 4,3 mg/ml e tem de ser diluído antes da administração, utilizando uma agulha de
+calibre não superior a 21 gauge. Dilua com solução injetável de glucose a 5% ou solução injetável de
+cloreto de sódio 9 mg/ml (0,9%) para preparar uma dispersão da dose adequada de ONIVYDE
+pegylated liposomal, diluída num volume final de 500 ml. Inverta a dispersão diluída suavemente para
+homogeneizar. A dispersão diluída é transparente a ligeiramente branca ou ligeiramente opalescente e
+não apresenta partículas visíveis.
+ONIVYDE pegylated liposomal deve ser administrado antes da LV seguida por 5-FU. ONIVYDE
+pegylated liposomal não pode ser administrado como uma injeção de bólus ou como dispersão não
+diluída.
+Tem de ser utilizada uma técnica asséptica durante a preparação da perfusão. ONIVYDE pegylated
+liposomal destina-se a uma única utilização.
+21
+
+Deve ter-se cuidado para evitar extravasão e o local de perfusão deve ser monitorizado quanto a sinais
+de inflamação. Em caso de extravasão, recomenda-se a lavagem do local com solução injetável de
+cloreto de sódio 9 mg/ml (0,9%) e/ou água estéril e a aplicação de gelo.
+Condições de conservação do medicamento após diluição, ver secção 6.3.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Les Laboratoires Servier
+50, rue Carnot
+92284 Suresnes cedex
+França
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1130/001
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 14 de outubro de 2016
+Data da última renovação: 16 de julho de 2021
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+22
+
+ANEXO II
+A
+
+FABRICANTE RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+B
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA
+E EFICAZ DO MEDICAMENTO
+
+23
+
+A
+
+FABRICANTE RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+Les Laboratoires Servier Industrie
+905 Route de Saran
+45520 Gidy
+França
+B
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+C
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do
+artigo 107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no
+portal europeu de medicamentos.
+D
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da Autorização de Introdução no Mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+•
+
+A pedido da Agência Europeia de Medicamentos
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado
+da receção de nova informação que possa levar a alterações significativas no perfil
+benefício-risco ou como resultado de ter sido atingido um objetivo importante
+(farmacovigilância ou minimização do risco).
+
+24
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+25
+
+A. ROTULAGEM
+
+26
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+ONIVYDE pegylated liposomal 4,3 mg/ml, concentrado para dispersão para perfusão
+irinotecano
+2.
+
+DESCRIÇÃO DA SUBSTÂNCIA ATIVA
+
+Um frasco de 10 ml de concentrado contém 43 mg de irinotecano na forma de base livre anidra (como
+sal de sucrosofato irinotecano numa formulação lipossómica peguilada).
+3.
+
+LISTA DOS EXCIPIENTES
+
+Excipientes:
+DSPC
+Colesterol
+MPEG-2000-DSPE
+Octassulfato de sacarose
+Tampão HEPES
+Cloreto de sódio
+Água para preparações injetáveis
+Consultar o folheto informativo para mais informações.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Concentrado para dispersão para perfusão.
+43 mg/10 ml
+1 frasco para injetáveis
+5.
+
+MODO E VIA DE ADMINISTRAÇÃO
+
+Destina-se a uma única utilização.
+Consultar o folheto informativo antes de utilizar.
+Via intravenosa após a diluição.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+ONIVYDE pegylated liposomal (irinotecano) não é equivalente a formulações não lipossómicas. Não
+é intermutável com estas formulações.
+
+27
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico.
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Citotóxico: manusear com cuidado e seguir os procedimentos especiais para a eliminação.
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Les Laboratoires Servier
+50, rue Carnot
+92284 Suresnes cedex
+França
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1130/001
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+28
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+29
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO PARA FRASCO PARA INJETÁVEIS
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+ONIVYDE pegylated liposomal 4,3 mg/ml, concentrado para dispersão para perfusão
+irinotecano
+Via IV após a diluição
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP:
+4.
+
+NÚMERO DO LOTE
+
+Lote:
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+43 mg/10 ml
+6.
+
+OUTROS
+
+30
+
+B. FOLHETO INFORMATIVO
+
+31
+
+Folheto informativo: Informação para o utilizador
+ONIVYDE pegylated liposomal 4,3 mg/ml, concentrado para dispersão para perfusão
+irinotecano
+Leia com atenção todo este folheto antes de começar a utilizar este medicamento, pois contém
+informação importante para si.
+-
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou enfermeiro.
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados
+neste folheto, fale com o seu médico ou enfermeiro. Ver secção 4.
+
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é ONIVYDE pegylated liposomal e para que é utilizado
+O que precisa de saber antes de utilizar ONIVYDE pegylated liposomal
+Como ONIVYDE pegylated liposomal é utilizado
+Efeitos secundários possíveis
+Como conservar ONIVYDE pegylated liposomal
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é ONIVYDE pegylated liposomal e para que é utilizado
+
+O que é ONIVYDE pegylated liposomal e como funciona
+ONIVYDE pegylated liposomal é um medicamento para o cancro que contém a substância ativa
+irinotecano. Esta substância ativa está contida em pequenas partículas de lípidos (gordura) chamadas
+lipossomas.
+O irinotecano pertence a um grupo de medicamentos para o cancro chamados “inibidores da
+topoisomerase”. Este medicamento bloqueia uma enzima chamada topoisomerase I, a qual está
+envolvida na divisão do ADN celular. Isto impede a multiplicação e o crescimento das células do
+cancro, que acabam por morrer.
+Os lipossomas deverão acumular-se no interior do tumor e libertar o medicamento lentamente ao
+longo do tempo, permitindo uma ação mais prolongada.
+Para que é utilizado ONIVYDE pegylated liposomal
+ONIVYDE pegylated liposomal é utilizado para tratar doentes adultos com cancro pancreático
+metastático (cancro do pâncreas que já se espalhou para outras partes do corpo) que já receberam
+previamente tratamento do cancro com um medicamento chamado gemcitabina. ONIVYDE pegylated
+liposomal é utilizado em conjunto com outros medicamentos para o cancro, chamados 5-fluorouracilo
+e leucovorina.
+Caso tenha dúvidas sobre o funcionamento de ONIVYDE pegylated liposomal ou o motivo pelo qual
+este medicamento lhe foi receitado, fale com o seu médico.
+2.
+
+O que precisa de saber antes de utilizar ONIVYDE pegylated liposomal
+
+Siga rigorosamente todas as instruções do seu médico. Estas podem ser diferentes das informações
+gerais contidas neste folheto informativo.
+
+32
+
+Não utilize ONIVYDE pegylated liposomal
+-
+
+se tiver antecedentes de alergia grave ao irinotecano ou a qualquer outro componente deste
+medicamento (indicados na secção 6).
+se estiver a amamentar.
+
+Advertências e precauções
+Fale com o seu médico ou enfermeiro antes de receber ONIVYDE pegylated liposomal
+se já tiver tido problemas de fígado ou icterícia
+se já tiver tido doenças pulmonares ou tiver recebido anteriormente medicamentos (fatores
+estimuladores de colónias) para aumentar o número de células do sangue ou radioterapia
+se estiver a tomar outros medicamentos (consulte a secção “Outros medicamentos e ONIVYDE
+pegylated liposomal”)
+se estiver a planear receber uma vacina, uma vez que muitas vacinas não podem ser
+administradas durante a quimioterapia
+se estiver a fazer uma dieta com controlo da ingestão de sódio, uma vez que este medicamento
+contém sódio.
+Fale com o seu médico ou enfermeiro imediatamente durante o tratamento com ONIVYDE pegylated
+liposomal
+se sentir subitamente falta de ar, afrontamento, dores de cabeça, erupção na pele ou urticária
+(erupção com comichão e pequenos inchaços vermelhos na pele que surgem repentinamente),
+comichão, inchaço em redor dos olhos, sensação de aperto no peito ou na garganta durante a
+perfusão ou pouco depois da perfusão
+se tiver febre, arrepios ou outros sintomas de infeção
+se tiver diarreia com fezes líquidas frequentes e esta situação não ficar controlada
+após 12 a 24 horas de tratamento (ver abaixo)
+se tiver falta de ar ou tosse
+se tiver sinais ou sintomas de coágulo sanguíneo, como dor e inchaço repentinos numa perna ou
+num braço, início súbito de tosse, dor no peito ou dificuldade em respirar.
+O que fazer em caso de diarreia
+Assim que ocorrer a primeira evacuação de fezes líquidas, comece a beber grandes volumes de
+líquidos reidratantes (p. ex., água, água gaseificada ou outras bebidas gaseificadas, sopa) para evitar
+uma perda excessiva de líquidos e sais do seu corpo. Contacte o seu médico imediatamente para obter
+o tratamento adequado. O seu médico poderá receitar-lhe um medicamento que contém loperamida
+para iniciar o tratamento em casa, mas este medicamento não pode ser utilizado durante mais
+de 48 horas consecutivas. Se as fezes soltas persistirem, contacte o seu médico.
+Análises do sangue e exames médicos
+Antes de iniciar o tratamento com ONIVYDE pegylated liposomal, o seu médico irá realizar análises
+ao seu sangue (ou outros exames médicos) para determinar a dose inicial ideal para si. Terá de realizar
+mais testes (ao sangue ou de outro tipo) durante o tratamento para que o seu médico possa monitorizar
+o nível de células do sangue e o modo como está a responder ao tratamento. O seu médico poderá ter
+de ajustar a dose ou o tratamento.
+Crianças e adolescentes
+A utilização de ONIVYDE pegylated liposomal não é recomendada em crianças e adolescentes com
+menos de 18 anos de idade.
+
+33
+
+Outros medicamentos e ONIVYDE pegylated liposomal
+Informe o seu médico se estiver a tomar, tiver tomado recentemente, ou se vier a tomar outros
+medicamentos.
+É especialmente importante informar o seu médico se já tiver tomado qualquer forma de irinotecano.
+ONIVYDE pegylated liposomal não pode ser utilizado em vez de outros medicamentos que contêm
+irinotecano, uma vez que funciona de forma diferente quando está contido em lipossomas e quando é
+administrado na sua forma livre.
+Informe o seu médico, farmacêutico ou enfermeiro se já estiver a fazer, ou tiver feito recentemente,
+quimioterapia e/ou radioterapia ou tratamento com o medicamento antifúngico flucitosina.
+Além disso, é especialmente importante informar o seu médico se também estiver a tomar os
+medicamentos seguintes, uma vez que reduzem o nível de irinotecano no seu organismo:
+fenitoína, fenobarbital ou carbamazepina (medicamentos utilizados no tratamento de convulsões
+e quedas)
+rifampicina e rifabutina (medicamentos utilizados no tratamento da tuberculose)
+hipericão (um medicamento à base de plantas utilizado para tratar a depressão e o humor
+abatido)
+É especialmente importante informar o seu médico se também estiver a tomar os medicamentos
+seguintes, uma vez que aumentam o nível de irinotecano no seu organismo:
+cetoconazol, itraconazol ou voriconazol (medicamentos utilizados para tratamento de infeções
+fúngicas)
+claritromicina (um antibiótico utilizado no tratamento de infeções bacterianas)
+indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, atazanavir (medicamentos contra a infeção
+pelo VIH)
+regorafenib (um medicamento utilizado para o tratamento de certos tipos de cancro)
+telaprevir (um medicamento utilizado no tratamento de uma doença do fígado chamada
+hepatite C)
+nefazodona (um medicamento utilizado no tratamento da depressão e do humor abatido)
+gemfibrozil (um medicamento utilizado para o tratamento de níveis elevados de gordura no
+sangue)
+ONIVYDE pegylated liposomal com alimentos e bebidas
+Evite comer toranjas e beber sumo de toranja enquanto estiver a receber ONIVYDE pegylated
+liposomal, visto que tal poderá aumentar o nível de irinotecano no seu organismo.
+Gravidez, amamentação e fertilidade
+Não deve receber ONIVYDE pegylated liposomal se estiver grávida, uma vez que este medicamento
+pode ser prejudicial para o bebé. Informe o seu médico se estiver grávida ou suspeitar de que possa
+estar grávida. Fale com o seu médico se estiver a planear engravidar. Se lhe for administrado
+ONIVYDE pegylated liposomal, não deve amamentar até um mês depois da última dose.
+Antes de iniciar este medicamento, fale com o seu médico sobre o possível risco deste medicamento e
+as opções que podem preservar a sua capacidade de ter filhos.
+Durante o seu tratamento com ONIVYDE pegylated liposomal e durante sete meses após o
+tratamento, deverá escolher um método contracetivo eficaz da sua preferência, para evitar a gravidez
+durante este período. Os homens devem utilizar preservativos durante o tratamento com ONIVYDE
+pegylated liposomal e durante 4 meses após o tratamento.
+Informe o seu médico se estiver a amamentar. Não pode receber ONIVYDE pegylated liposomal se
+estiver a amamentar, uma vez que este medicamento pode ser prejudicial para o bebé.
+34
+
+Condução de veículos e utilização de máquinas
+ONIVYDE pegylated liposomal pode influenciar a sua capacidade de conduzir e utilizar máquinas
+(pode sentir sonolência, tonturas e exaustão durante a utilização de ONIVYDE pegylated liposomal).
+Deve evitar conduzir, utilizar máquinas ou realizar outras tarefas que exigem atenção plena se sentir
+sonolência, tonturas ou exaustão.
+ONIVYDE pegylated liposomal contém sódio
+Este medicamento contém 33,1 mg de sódio (principal componente de sal de cozinha/sal de mesa) em
+cada frasco. Isto é o equivalente a 1,65 % da ingestão diária máxima de sódio recomendada na dieta
+para um adulto.
+3.
+
+Como ONIVYDE pegylated liposomal é utilizado
+
+ONIVYDE pegylated liposomal apenas pode ser administrado por profissionais de saúde com
+formação para a administração de medicamentos contra o cancro
+Siga todas as instruções do seu médico ou enfermeiro cuidadosamente.
+O seu médico irá decidir as doses que deve receber.
+ONIVYDE pegylated liposomal é administrado por gotejamento (perfusão) numa veia, um processo
+que demora pelo menos 90 minutos, e deve ser administrado como uma única dose.
+Depois de receber ONIVYDE pegylated liposomal, ser-lhe-ão administrados dois outros
+medicamentos, leucovorina e 5-fluorouracilo.
+O tratamento será repetido de duas em duas semanas.
+Em certos casos, pode ser necessário utilizar doses mais pequenas ou fazer intervalos maiores entre as
+doses.
+Poderá receber pré-medicação contra náuseas e vómitos. Se tiver tido suores, cãibras abdominais e
+salivação em conjunto com evacuação de fezes líquidas precoces e frequentes em tratamentos
+anteriores com ONIVYDE pegylated liposomal, poderá receber medicamentos adicionais antes de
+ONIVYDE pegylated liposomal para impedir ou reduzir estas reações nos ciclos de tratamento
+seguintes.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou enfermeiro.
+4.
+
+Efeitos secundários possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos secundários, embora estes não se
+manifestem em todas as pessoas. É importante ter conhecimento dos efeitos secundários que podem
+surgir.
+O seu médico poderá também receitar-lhe outros medicamentos para ajudar a controlar os efeitos
+secundários.
+Informe o seu médico ou enfermeiro imediatamente se apresentar qualquer um dos seguintes
+efeitos secundários graves:
+-
+
+se sentir subitamente inchaço sob a pele (angioedema) e/ou sintomas de possíveis reações
+anafiláticas/anafilactóides, tais como falta de ar, afrontamento, náuseas, dores de cabeça,
+erupção na pele ou urticária (erupção com comichão e pequenos inchaços vermelhos na pele que
+surgem repentinamente), comichão, inchaço em redor dos olhos, sensação de aperto no peito ou
+garganta durante a perfusão ou pouco depois da perfusão. Reações alérgicas graves podem
+35
+
+-
+
+colocar a vida em risco (pode ser necessário interromper a perfusão e os seus efeitos
+secundários podem exigir tratamento ou observação médica)
+se tiver febre, arrepios e sinais de infeção (uma vez que estas reações podem exigir tratamento
+imediato)
+se tiver diarreia persistente (fezes líquidas e frequentes)—ver secção 2
+
+Os outros efeitos secundários que podem ocorrer são os seguintes:
+Muito frequentes (podem afetar mais de 1 em cada 10 pessoas)
+Níveis baixos de glóbulos brancos (neutropenia e leucopenia), níveis baixos de glóbulos
+vermelhos (anemia)
+Nível baixo de plaquetas (trombocitopenia)
+Diarreia (evacuação frequente de fezes soltas ou aguadas)
+Náuseas e vómitos
+Dor no estômago ou na região do intestino
+Feridas na boca
+Perda de peso
+Perda de apetite
+Perda de líquidos corporais (desidratação)
+Níveis baixos de sais (eletrólitos) no organismo (p. ex., potássio, magnésio)
+Perda de cabelo anormal
+Cansaço
+Tonturas
+Inchaço e retenção de líquidos nos tecidos moles (edema periférico)
+Sensação dolorosa e inchaço do revestimento do tubo digestivo (inflamação das mucosas)
+Febre
+Fraqueza generalizada
+Frequentes (podem afetar até 1 em cada 10 pessoas)
+Arrepios
+Infeções, p. ex., infeções fúngicas na boca (candidíase oral), febre com números baixos de
+glóbulos brancos (neutropenia febril), infeções relacionadas com a administração do
+medicamento numa veia
+Inflamação do estômago e do intestino (gastroenterite)
+Inflamação sistémica do organismo, causada por infeção (sepsia)
+Complicação potencialmente fatal da inflamação de todo o organismo (choque séptico)
+Infeção dos pulmões (pneumonia)
+Nível baixo de linfócitos, um subtipo de glóbulos brancos com uma função importante no
+sistema imunitário (linfopenia)
+Diminuição de alguns sais (eletrólitos) no organismo (p. ex., fosfato, sódio)
+Nível baixo de açúcar no sangue (hipoglicemia)
+Sonolência
+Mau gosto na boca
+Uma síndrome chamada síndrome colinérgica que inclui suores, salivação e cãibras abdominais
+Tensão arterial baixa (hipotensão)
+Formação de um coágulo sanguíneo numa veia profunda (trombose venosa profunda) ou
+bloqueio da artéria principal do pulmão ou de um dos respetivos ramos (embolia pulmonar) ou
+bloqueio devido a um coágulo sanguíneo noutro local da circulação sanguínea (embolia)
+Alteração da voz, voz rouca ou sussurrante
+Falta de ar
+Inflamação no intestino
+Hemorroidas
+Aumento das enzimas do fígado (alaninaminotransferase ou aspartataminotransferase) nas
+análises ao sangue
+Aumento nos níveis de bilirrubina (um pigmento laranja-amarelado resultante da decomposição
+normal dos glóbulos vermelhos) noutras análises laboratoriais relacionadas com o
+funcionamento do fígado
+36
+
+-
+
+Aumento de outros valores das análises (relação internacional normalizada aumentada)
+relacionadas com o funcionamento do sistema de coagulação do sangue
+Níveis anormalmente baixos de albumina (uma proteína essencial do organismo) no sangue
+Comichão
+Problemas súbitos no funcionamento dos rins que podem resultar numa deterioração rápida ou
+na perda da função renal
+Reação anormal à perfusão com sintomas como falta de ar, afrontamento, dores de cabeça,
+sensação de aperto no peito ou na garganta
+Retenção de líquidos anormal no organismo, causando inchaço nos tecidos afetados (edema)
+
+Pouco frequentes (podem afetar até 1 em cada 100 pessoas)
+Inflamação sistémica do organismo, provocada por uma infeção da vesícula biliar e dos ductos
+biliares (septicemia biliar)
+Reação alérgica a ONIVYDE pegylated liposomal (substância ativa ou excipientes)
+Disponibilidade reduzida de oxigénio nos tecidos do organismo
+Inflamação do esófago
+Formação ou presença de um coágulo de sangue dentro de um vaso sanguíneo – veia ou artéria
+(trombose)
+Inflamação do revestimento do reto (a parte final do intestino grosso)
+Urticária (manchas avermelhadas e inchadas)
+Erupções na pele
+Tipo de erupção na pele caracterizada pelo aparecimento de uma área plana vermelha na pele
+coberta por saliências (erupção na pele maculopapulosa)
+Alteração na cor das unhas
+Desconhecida (a frequência não pode ser calculada a partir dos dados disponíveis)
+Vermelhidão na pele
+Comunicação de efeitos secundários
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados neste
+folheto, fale com o seu médico ou enfermeiro. Também poderá comunicar efeitos secundários
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos secundários, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar ONIVYDE pegylated liposomal
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no frasco,
+após “EXP”. O prazo de validade corresponde ao último dia do mês indicado.
+Conservar no frigorífico (2°C – 8°C).
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+Quando o concentrado tiver sido diluído para perfusão com solução injetável de glucose a 5% ou
+solução injetável de cloreto de sódio 9 mg/ml (0,9%), a dispersão deve ser utilizada assim que
+possível, mas pode ser conservada à temperatura ambiente (15°C – 25°C) durante um prazo máximo
+de 6 horas. A dispersão diluída para perfusão pode ser conservada no frigorífico (2°C – 8°C) durante
+um prazo máximo de 24 horas antes da utilização. A dispersão diluída tem de ser protegida da luz e
+não pode ser congelada.
+Não deite fora este medicamento na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico
+como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger o ambiente.
+37
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de ONIVYDE pegylated liposomal
+•
+•
+
+A substância ativa é o irinotecano. Um frasco de 10 ml de concentrado contém 43 mg de
+irinotecano na forma de base livre anidra (como sal de sucrosofato irinotecano numa formulação
+lipossómica peguilada).
+Os outros componentes são: 1,2-diestearoil-sn-glicero-3-fosfocolina (DSPC); colesterol,
+N-(carbonil-metoxipolietilenoglicol-2000)-1,2-diestearoil-sn-glicero-3-fosfoetanolamina
+(MPEG-2000-DSPE); octassulfato de sacarose; ácido 2- [4- (2-Hidroxietil)piperazina-1-il]
+etanossulfónico (tampão HEPES); cloreto de sódio e água para preparações injetáveis.
+ONIVYDE pegylated liposomal contém sódio. Se estiver a fazer uma dieta com controlo da
+ingestão de sódio, consulte a secção 2.
+
+Qual o aspeto de ONIVYDE pegylated liposomal e conteúdo da embalagem
+ONIVYDE pegylated liposomal é fornecido como uma dispersão lipossómica isotónica, opaca, branca
+a ligeiramente amarela, num frasco para injetáveis de vidro.
+Cada embalagem contém um frasco para injetáveis com 10 ml de concentrado.
+Titular da autorização de introdução no mercado
+Les Laboratoires Servier
+50, rue Carnot
+92284 Suresnes cedex
+França
+Fabricante
+Les Laboratoires Servier Industrie
+905 Route de Saran
+45520 Gidy
+França
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+S.A. Servier Benelux N.V.
+Tel: +32 (0)2 529 43 11
+
+Lietuva
+UAB “SERVIER PHARMA”
+Tel: +370 (5) 2 63 86 28
+
+България
+Сервие Медикал ЕООД
+Тел.: +359 2 921 57 00
+
+Luxembourg/Luxemburg
+S.A. Servier Benelux N.V.
+Tel: +32 (0)2 529 43 11
+
+Česká republika
+Servier s.r.o.
+Tel: +420 222 118 111
+
+Magyarország
+Servier Hungaria Kft.
+Tel: +36 1 238 7799
+
+Danmark
+Servier Danmark A/S
+Tlf: +45 36 44 22 60
+
+Malta
+V.J. Salomone Pharma Ltd
+Tel: + 356 21 22 01 74
+
+Deutschland
+Servier Deutschland GmbH
+Tel: +49 (0)89 57095 01
+
+Nederland
+Servier Nederland Farma B.V.
+Tel: +31 (0)71 5246700
+38
+
+Eesti
+Servier Laboratories OÜ
+Tel:+ 372 664 5040
+
+Norge
+Servier Danmark A/S
+Tlf: +45 36 44 22 60
+
+Eλλάδα
+ΣΕΡΒΙΕ ΕΛΛΑΣ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΠΕ
+Τηλ: +30 210 939 1000
+
+Österreich
+Servier Austria GmbH
+Tel: +43 (1) 524 39 99
+
+España
+Laboratorios Servier S.L.
+Tel: +34 91 748 96 30
+
+Polska
+Servier Polska Sp. z o.o.
+Tel: +48 (0) 22 594 90 00
+
+France
+Les Laboratoires Servier
+Tel: +33 (0)1 55 72 60 00
+
+Portugal
+Servier Portugal, Lda
+Tel.: +351 21 312 20 00
+
+Hrvatska
+Servier Pharma, d. o. o.
+Tel.: +385 (0)1 3016 222
+
+România
+Servier Pharma SRL
+Tel: +4 021 528 52 80
+
+Ireland
+Servier Laboratories (Ireland) Ltd.
+Tel: +353 (0)1 663 8110
+
+Slovenija
+Servier Pharma d. o. o.
+Tel.: +386 (0)1 563 48 11
+
+Ísland
+Servier Laboratories
+c/o Icepharma hf
+Sími: +354 540 8000
+
+Slovenská republika
+Servier Slovensko spol. s r.o.
+Tel.:+421 (0) 2 5920 41 11
+
+Italia
+Servier Italia S.p.A.
+Tel: +39 06 669081
+
+Suomi/Finland
+Servier Finland Oy
+P. /Tel: +358 (0)9 279 80 80
+
+Κύπρος
+C.A. Papaellinas Ltd.
+Τηλ: +357 22741741
+
+Sverige
+Servier Sverige AB
+Tel : +46 (0)8 522 508 00
+
+Latvija
+SIA Servier Latvia
+Tel: +371 67502039
+
+United Kingdom (Irlanda do Norte)
+Servier Laboratories (Ireland) Ltd
+Tel: +44 (0)1753 666409
+
+Este folheto foi revisto pela última vez em
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+-----------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos profissionais de saúde:
+Como preparar e administrar ONIVYDE pegylated liposomal
+•
+
+ONIVYDE pegylated liposomal é fornecido como uma dispersão lipossómica estéril a uma
+concentração de 4,3 mg/ml e tem de ser diluído antes da administração, utilizando uma agulha
+de calibre não superior a 21 gauge. Dilua com solução injetável de glucose a 5% ou solução
+injetável de cloreto de sódio 9 mg/ml (0,9%) para preparar uma dispersão da dose adequada de
+39
+
+•
+•
+•
+
+•
+
+ONIVYDE pegylated liposomal, diluída num volume final de 500 ml. Inverta a dispersão
+diluída suavemente para homogeneizar.
+ONIVYDE pegylated liposomal deve ser administrado antes da leucovorina seguida
+por 5-fluorouracilo. ONIVYDE pegylated liposomal não pode ser administrado como uma
+injeção de bólus ou como dispersão não diluída.
+Deve utilizar-se uma técnica asséptica durante a preparação da perfusão. ONIVYDE pegylated
+liposomal destina-se a uma única utilização.
+De um ponto de vista microbiológico, o medicamento deve ser utilizado assim que possível
+após a diluição. A dispersão diluída para perfusão pode ser conservada à temperatura ambiente
+(15 °C a 25 °C) durante um prazo máximo de 6 horas ou no frigorífico (2ºC – 8ºC) durante um
+prazo máximo de 24 horas antes da utilização. A dispersão diluída deve ser protegida da luz e
+não deve ser congelada.
+Deve ter-se cuidado para evitar extravasão e o local de perfusão deve ser monitorizado quanto a
+sinais de inflamação. Em caso de extravasão, recomenda-se a lavagem do local com solução
+injetável de cloreto de sódio 9 mg/ml (0,9%) e/ou água estéril e a aplicação de gelo.
+
+Como manusear e eliminar ONIVYDE pegylated liposomal
+•
+
+•
+
+ONIVYDE pegylated liposomal é um medicamento citotóxico e deve ser manuseado com
+cuidado. Recomenda-se o uso de luvas, óculos e vestuário de proteção ao manusear ou
+administrar ONIVYDE pegylated liposomal. Se a dispersão entrar em contacto com a pele, a
+pele deve ser lavada imediata e exaustivamente com água e sabão. Se a dispersão entrar em
+contacto com membranas mucosas, estas devem ser lavadas exaustivamente com água. Devido à
+natureza citotóxica do medicamento, as profissionais de saúde grávidas não devem manusear
+ONIVYDE pegylated liposomal.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+40
+
+Anexo IV
+Conclusões científicas e fundamentos da alteração dos termos das autorizações de introdução
+no mercado
+
+41
+
+Conclusões científicas
+Tendo em conta o relatório de avaliação do PRAC sobre o(s) RPS de irinotecano (formulações
+lipossómicas) as conclusões científicas do CHMP são as seguintes:
+Atendendo aos dados disponíveis sobre as reações de hipersensibilidade: angioedema e reação
+anafilática/anafilactóide e reação cutânea (erupção cutânea, urticária, eritema e prurido),
+provenientes de ensaios clínicos, literatura, notificações espontâneas e perante um mecanismo de
+ação plausível, o PRAC considera que uma relação causal entre o irinotecano (formulações
+lipossómicas) e essas reações seja, pelo menos, uma possibilidade razoável. O PRAC concluiu que a
+Informação do Medicamento de produtos contendo irinotecano (formulações lipossómicas) deve ser
+alterada em conformidade.
+Tendo em consideração os dados disponíveis na literatura sobre interações medicamentosas
+(fármaco-fármaco) com a flucitosina como pró-fármaco do 5-fluorouracilo e perante um mecanismo
+de ação plausível, o PRAC considera que uma interação entre o irinotecano (formulações
+lipossómicas) e a flucitosina é, pelo menos, uma possibilidade razoável. O PRAC concluiu que a
+Informação do Medicamento de produtos contendo irinotecano (formulações lipossómicas) deve ser
+alterada em conformidade.
+O CHMP concorda com as conclusões científicas do PRAC.
+
+Fundamentos da alteração dos termos da(s) autorização(ões) de introdução no mercado
+Com base nas conclusões científicas relativas ao irinotecano (formulações lipossómicas), o CHMP
+considera que o perfil de benefício-risco do(s) medicamento(s) que contém (contêm) irinotecano
+(formulações lipossómicas) se mantém inalterado na condição de serem introduzidas as alterações
+propostas na Informação do Medicamento.
+O CHMP recomenda a alteração dos termos da(s) autorização(ões) de introdução no mercado.
+
+42
+
+

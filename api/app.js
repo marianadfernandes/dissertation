@@ -8,12 +8,14 @@ const express = require("express");
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var tabelaRouter = require('./routes/tabela');
+var bodyPartsRouter = require('./routes/body_parts_tabela');
+var scrapeRouter = require('./routes/scrape')
 
 
 // require do mongoose e definição do caminho para a base de dados
 const mongoose = require("mongoose");
-const uri = "mongodb://db:27017/projeto"; //docker-compose
-// const uri = "mongodb://localhost:9000/projeto";
+// const uri = "mongodb://db:27017/projeto"; //docker-compose
+const uri = "mongodb://localhost:9000/projeto";
 
 const app = express();
 
@@ -31,6 +33,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/tabela', tabelaRouter);
+app.use('/body', bodyPartsRouter);
+app.use('/scrape', scrapeRouter);
 
 
 // conexão com a base de dados

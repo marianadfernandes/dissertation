@@ -80,7 +80,7 @@ function Avaliacao () {
 
     useEffect(() => {
         console.log('buttons atualizado:', buttons);
-        console.log('buttons lenght', buttons.length)
+        console.log('buttons lenght', buttons.length);
     }, [buttons]);
 
 

@@ -1,0 +1,3487 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+Fingolimod Mylan 0,5 mg cápsulas
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada cápsula contém 0,5 mg de fingolimod (sob a forma de cloridrato).
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Cápsula
+Tampa opaca de cor castanha-alaranjada e corpo opaco branco; com “MYLAN” e “FD 0.5” impresso
+com tinta preta em cima e em baixo, respetivamente, tanto na tampa como no corpo. Dimensão:
+aproximadamente 16 mm de comprimento.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Fingolimod Mylan é indicado como terapêutica única de modificação da doença na esclerose múltipla
+surto-remissão muito ativa para os seguintes grupos de doentes adultos e doentes pediátricos com
+10 ou mais anos:
+•
+
+Doentes com doença muito ativa apesar de um ciclo completo e adequado de tratamento com
+pelo menos uma terapêutica de modificação da doença (para exceções e informação acerca dos
+períodos de depuração, ver secções 4.4 e 5.1).
+
+ou
+•
+
+Doentes com esclerose múltipla surto-remissão grave em rápida evolução, definida por 2 ou
+mais surtos incapacitantes no espaço de um ano e com 1 ou mais lesões realçadas por gadolínio
+na ressonância magnética (RM) cerebral ou um aumento significativo da carga de lesões T2
+comparativamente com uma ressonância magnética anterior recente.
+
+4.2
+
+Posologia e modo de administração
+
+O tratamento deverá ser iniciado e supervisionado por um médico com experiência em esclerose
+múltipla.
+Posologia
+Em adultos, a dose recomendada de fingolimod é uma cápsula de 0,5 mg tomada, por via oral, uma
+vez por dia.
+Em doentes pediátricos (10 anos de idade ou mais), a dose recomendada é dependente do peso
+corporal:
+Doentes pediátricos com peso corporal ≤ 40 kg: uma cápsula de 0,25 mg tomada, por via oral,
+uma vez por dia.
+Doentes pediátricos com peso corporal > 40 kg: uma cápsula de 0,5 mg tomada, por via oral, uma
+vez por dia.
+2
+
+Doentes pediátricos que iniciam com cápsulas de 0,25 mg e subsequentemente atingem um peso
+corporal estável acima de 40 kg devem ser transferidos para as cápsulas de 0,5 mg.
+Ao transferir de uma dose diária de 0,25 mg para 0,5 mg, é recomendado que se repita a mesma
+monitorização de dose que para o início do tratamento.
+Fingolimod Mylan não está disponível na dosagem de 0,25 mg. Para esta dosagem, devem ser
+utilizados outros medicamentos disponíveis no mercado que contenham fingolimod.
+Recomenda-se a repetição da monitorização de primeira toma que é feita no início do tratamento
+quando o tratamento é interrompido durante:
+•
+Um ou mais dias durante as primeiras 2 semanas de tratamento.
+•
+Mais de 7 dias durante as semanas 3 e 4 do tratamento.
+•
+Mais de 2 semanas após um mês de tratamento.
+Se a interrupção do tratamento tiver uma duração inferior às mencionadas acima, o tratamento deve
+continuar normalmente com a dose seguinte, como planeado (ver secção 4.4).
+Grupos especiais
+Idosos
+Fingolimod Mylan deve ser utilizado com precaução em doentes com idade igual ou superior a
+65 anos devido a dados insuficientes de segurança e eficácia (ver secção 5.2).
+Compromisso renal
+O fingolimod não foi estudado em doentes com compromisso renal nos estudos principais de esclerose
+múltipla. Com base em estudos de farmacologia clínica, não são necessários ajustes da dose em
+doentes com compromisso renal ligeiro a grave.
+Compromisso hepático
+Fingolimod Mylan não pode ser utilizado em doentes com compromisso hepático grave (classe C de
+Child-Pugh) (ver secção 4.3). Apesar de não serem necessários ajustes da dose em doentes com
+compromisso hepático ligeiro a moderado, o início do tratamento nestes doentes deverá ser efetuado
+com precaução (ver secções 4.4 e 5.2).
+População pediátrica
+Há dados muito limitados em crianças entre 10-12 anos de idade (ver secções 4.4, 4.8 e
+5.1).
+A segurança e eficácia de fingolimod em crianças com menos de 10 anos de idade não foram ainda
+estabelecidas. Não existem dados disponíveis.
+Modo de administração
+Este medicamento é para uso oral.
+Fingolimod Mylan pode ser tomado com ou sem alimentos (ver secção 5.2).
+As cápsulas devem sempre ser engolidas intactas, sem serem abertas.
+4.3
+
+Contraindicações
+
+•
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+Síndrome de imunodeficiência.
+Doentes com risco aumentado de infeções oportunistas, incluindo doentes imunocomprometidos
+(incluindo doentes a fazer atualmente terapêuticas imunossupressoras ou imunocomprometidos
+
+•
+•
+
+3
+
+•
+•
+•
+•
+
+•
+•
+•
+•
+
+4.4
+
+por terapêuticas anteriores).
+Infeções ativas graves, infeções crónicas ativas (hepatite, tuberculose).
+Neoplasias ativas.
+Compromisso hepático grave (classe C de Child-Pugh).
+Doentes que nos últimos 6 meses sofreram enfarte agudo do miocárdio (EAM), angina de peito
+instável, acidente vascular cerebral/acidente isquémico transitório (AIT), insuficiência cardíaca
+descompensada (que requerem tratamento em internamento) ou insuficiência cardíaca
+classe III/IV da New York Heart Association (NYHA) (ver secção 4.4).
+Doentes com arritmias cardíacas graves que requerem tratamento antiarrítmico com
+medicamentos antiarrítmicos de classe Ia ou classe III (ver secção 4.4).
+Doentes com bloqueio auriculoventricular (AV) de segundo grau Mobitz tipo II ou bloqueio AV
+de terceiro grau, ou síndrome do nódulo sinusal, se estes não utilizam um pacemaker (ver
+secção 4.4).
+Doentes com intervalo QTc base ≥ 500 ms (ver secção 4.4).
+Durante a gravidez e em mulheres com potencial para engravidar que não utilizam métodos
+contracetivos eficazes (ver secções 4.4 e 4.6).
+Advertências e precauções especiais de utilização
+
+Bradiarritmia
+O início do tratamento origina uma redução transitória da frequência cardíaca e pode também estar
+associado a atrasos na condução auriculoventricular, incluindo a ocorrência de relatos isolados de
+bloqueio auriculoventricular completo, transitório, de resolução espontânea (ver secções 4.8 e 5.1).
+Após a primeira dose, a diminuição da frequência cardíaca inicia-se na primeira hora e é máxima nas
+primeiras 6 horas. Este efeito pós-dose persiste, ainda que normalmente mais ligeiro, nos dias
+seguintes e, habitualmente, vai diminuindo ao longo das semanas seguintes. Com administração
+contínua, a frequência cardíaca média retorna até aos valores iniciais ao fim de um mês. No entanto,
+doentes individuais poderão não voltar aos valores de frequência cardíaca iniciais até ao final do
+primeiro mês. As perturbações na condução foram geralmente transitórias e assintomáticas.
+Normalmente não necessitaram de tratamento e resolveram-se nas primeiras 24 horas de tratamento.
+Se necessário, a diminuição da frequência cardíaca induzida por fingolimod pode ser revertida através
+da administração parentérica de atropina ou isoprenalina.
+Todos os doentes devem efetuar um eletrocardiograma (ECG) e medição da pressão arterial antes e
+6 horas após a primeira toma de Fingolimod Mylan. Todos os doentes devem ser monitorizados por
+um período de 6 horas para deteção de sinais e sintomas de bradicardia com medição da frequência
+cardíaca e da pressão arterial hora a hora. É recomendada uma monitorização contínua por ECG (em
+tempo real) durante este período de 6 horas de tratamento.
+As mesmas precauções para a primeira dose são recomendadas quando os doentes são transferidos da
+dose diária de 0,25 mg para 0,5 mg.
+Caso ocorram sintomas relacionados com bradiarritmia após a toma, deve ser iniciado um controlo
+clínico adequado e o doente deve ser monitorizado até à resolução dos sintomas. Se um doente
+necessitar de intervenção farmacológica durante a monitorização da primeira toma, deverá ser
+instituída monitorização durante a noite numa unidade médica e a monitorização da primeira toma
+deve ser repetida após a segunda toma de Fingolimod Mylan.
+Se a frequência cardíaca do doente ao fim do período de 6 horas for a mais baixa após a administração
+da primeira dose (sugerindo que o efeito farmacodinâmico máximo no coração pode não ter sido ainda
+manifestado), a monitorização deverá ser prolongada por pelo menos 2 horas e até a frequência
+cardíaca aumentar novamente. Adicionalmente, se após as 6 horas a frequência cardíaca for < 45 bpm
+em adultos, < 55 bpm em doentes pediátricos com 12 anos de idade ou mais, ou < 60 bpm em doentes
+pediátricos com 10 até menos de 12 anos de idade, ou o ECG demonstrar o aparecimento de bloqueio
+auriculoventricular de 2º grau ou de grau superior ou um intervalo QTc ≥ 500 ms, deverá ser efetuado
+4
+
+um prolongamento da monitorização (pelo menos monitorização durante a noite), e até à resolução dos
+acontecimentos. A ocorrência em qualquer altura de bloqueio auriculoventricular de 3º grau deverá
+também conduzir a prolongamento da monitorização (pelo menos monitorização durante a noite).
+Os efeitos na frequência cardíaca e na condução auriculoventricular podem ocorrer na reintrodução do
+tratamento com fingolimod, dependendo da duração da interrupção e do tempo decorrido desde o
+início do tratamento. Recomenda-se a repetição da monitorização de primeira toma que é feita no
+início do tratamento quando o tratamento é interrompido (ver secção 4.2).
+Foram notificados casos muito raros de inversão da onda T em doentes adultos tratados com
+fingolimod. Em caso de inversão da onda T, o prescritor deverá garantir que não existem quaisquer
+sinais ou sintomas de isquemia do miocárdio associados. Perante a suspeita de isquemia do miocárdio,
+é recomendado que se solicite o aconselhamento de um cardiologista.
+Devido ao risco de perturbações graves do ritmo cardíaco ou bradicardia significativa, Fingolimod
+Mylan não deverá ser administrado em doentes com bloqueio cardíaco sino-auricular, história de
+bradicardia sintomática, síncope recorrente ou paragem cardíaca, ou em doentes com prolongamento
+do intervalo QT significativo (QTc > 470 ms [mulheres adultas], QTc > 460 ms [criança do sexo
+feminino] ou > 450 ms [homens adultos e crianças do sexo masculino]), hipertensão não controlada ou
+apneia do sono grave (ver também secção 4.3). Nestes doentes, o tratamento com este medicamento
+deverá ser considerado apenas se os benefícios antecipados superarem os potenciais riscos, e deve ser
+solicitado aconselhamento de um cardiologista antes do início do tratamento de modo a determinar a
+monitorização mais apropriada. No início do tratamento, é recomendado prolongamento da
+monitorização para, pelo menos, monitorização durante a noite (ver também secção 4.5).
+O fingolimod não foi estudado em doentes com arritmias que requerem tratamento com medicamentos
+antiarrítmicos de classe Ia (por exemplo, quinidina, disopiramida) ou classe III (por exemplo,
+amiodarona, sotalol). Os medicamentos antiarrítmicos de classe Ia e classe III estão associados a casos
+de torsades de pointes em doentes com bradicardia (ver secção 4.3).
+A experiência com fingolimod é limitada em doentes em tratamento concomitante com
+betabloqueadores, bloqueadores dos canais de cálcio que promovem a diminuição da frequência
+cardíaca (tais como verapamilo ou diltiazem), ou outras substâncias que podem diminuir a frequência
+cardíaca (por exemplo, ivabradina, digoxina, agentes anticolinesterásicos ou pilocarpina). Uma vez
+que o início do tratamento com fingolimod está também associado a diminuição da frequência
+cardíaca (ver também secção 4.8 Bradiarritmia), a administração concomitante destas substâncias
+durante o início do tratamento com fingolimod pode estar associada a bradicardia grave e bloqueio
+cardíaco. Devido ao potencial efeito aditivo na frequência cardíaca, o tratamento com Fingolimod
+Mylan não deverá ser iniciado em doentes em tratamento concomitante com estas substâncias (ver
+também secção 4.5). Nestes doentes, o tratamento com fingolimod deverá ser considerado apenas se
+os benefícios antecipados superarem os potenciais riscos. Se o tratamento for considerado, deverá ser
+solicitado aconselhamento de um cardiologista acerca da substituição para medicamentos que não
+diminuam a frequência cardíaca antes do início do tratamento. Caso o tratamento que diminui a
+frequência cardíaca não possa ser suspenso, deverá ser solicitado aconselhamento de um cardiologista
+de modo a determinar a monitorização mais apropriada para a primeira toma. É recomendado
+prolongamento da monitorização para, pelo menos, monitorização durante a noite (ver também
+secção 4.5).
+Intervalo QT
+Num estudo de intervalo QT exaustivo para as doses de 1,25 ou 2,5 mg de fingolimod no estado
+estacionário, quando ainda estava presente um efeito cronotrópico negativo do fingolimod, o
+tratamento originou um prolongamento do QTcI, com limite superior do intervalo de confiança de
+90% ≤ 13,0 ms. Não existe uma relação de dose-resposta ou exposição-resposta do fingolimod e do
+prolongamento do QTcI. Não existe um sinal consistente do aumento da incidência de valores
+extremos do QTcI, quer em termos absolutos quer nas variações a partir dos valores iniciais, associado
+ao tratamento.
+5
+
+A relevância clínica desta descoberta é desconhecida. Em estudos de esclerose múltipla, não foram
+observados efeitos clinicamente relevantes no prolongamento do intervalo QTc, embora doentes com
+risco de prolongamento do intervalo QT não tenham sido incluídos nos estudos clínicos.
+Os medicamentos que podem prolongar o intervalo QTc devem ser evitados em doentes com fatores
+de risco relevantes, como por exemplo hipocaliemia ou prolongamento QT congénito.
+Efeitos imunossupressores
+O fingolimod tem um efeito imunossupressor que predispõe os doentes para um risco de infeção,
+incluindo infeções oportunistas que podem ser fatais, e aumenta o risco de desenvolver linfomas e
+outras neoplasias, particularmente a nível cutâneo. Os médicos devem monitorizar cuidadosamente os
+doentes, especialmente aqueles com condições concomitantes ou fatores conhecidos, tais como
+terapêutica imunossupressora prévia. Em caso de suspeita deste risco, deve ser considerada pelo
+médico a interrupção do tratamento com base numa avaliação caso-a-caso (ver também secção 4.4
+“Infeções” e “Neoplasias cutâneas” e secção 4.8 “Linfomas”).
+Infeções
+A principal propriedade farmacodinâmica de fingolimod é uma redução dose-dependente da contagem
+de linfócitos periféricos para 20-30% dos valores iniciais. Este facto ocorre devido ao sequestro
+reversível de linfócitos nos tecidos linfáticos (ver secção 5.1).
+Antes do início do tratamento com Fingolimod Mylan, deverá estar disponível um hemograma recente
+(isto é, com menos de 6 meses ou após descontinuação do tratamento prévio). Durante o tratamento, é
+também recomendada uma avaliação periódica do hemograma, aos 3 meses e pelo menos anualmente
+após essa data, e em caso de sinais de infeção. Uma vez confirmada, uma contagem linfocitária
+absoluta < 0,2 x 109/l deverá conduzir à interrupção do tratamento até recuperação, uma vez que nos
+ensaios clínicos o tratamento com fingolimod foi interrompido em doentes com contagem linfocitária
+absoluta < 0,2 x 109/l.
+O início do tratamento com Fingolimod Mylan deve ser adiado em doentes com infeção ativa grave
+até à sua resolução.
+Os efeitos de Fingolimod Mylan no sistema imunitário podem aumentar o risco de infeções, incluindo
+infeções oportunistas (ver secção 4.8). Devem ser utilizadas estratégias eficazes de diagnóstico e
+terapêutica em doentes com sintomas de infeção durante o tratamento. Ao avaliar um doente com uma
+suspeita de infeção que pode ser grave, deve ser considerada referenciação para um médico com
+experiência no tratamento de infeções. Os doentes devem ser instruídos a comunicar sintomas de
+infeção ao seu médico durante o tratamento.
+A interrupção da administração de Fingolimod Mylan deve ser considerada caso o doente desenvolva
+uma infeção grave, devendo ser avaliado o risco-benefício antes do reinício do tratamento.
+A eliminação do fingolimod após a interrupção do tratamento pode demorar até 2 meses e, durante
+este período, deve ser continuada a vigilância para infeções. Os doentes devem ser instruídos a
+notificar sintomas de infeção até 2 meses após a interrupção do tratamento.
+Infeção herpética viral
+Ocorreram casos graves com risco de vida e, por vezes, fatais de encefalite, meningite ou
+meningoencefalite causados pelos vírus herpes simples e varicela zoster em qualquer altura durante o
+tratamento com fingolimod. Se ocorrer encefalite herpética, meningite ou meningoencefalite, o
+tratamento deve ser descontinuado e deve ser administrado tratamento apropriado para a respetiva
+infeção.
+Os doentes necessitam de ser avaliados quanto à sua imunidade à varicela antes de iniciarem o
+6
+
+tratamento com Fingolimod Mylan. É recomendado que os doentes sem história clínica de varicela
+confirmada por um profissional de saúde ou sem documentação de um ciclo completo de vacinação
+com a vacina da varicela sejam avaliados para determinação de anticorpos para o vírus varicela zoster
+(VVZ) antes do início do tratamento com fingolimod. É recomendado um ciclo completo de vacinação
+com a vacina da varicela em doentes com anticorpos negativos antes do início do tratamento com este
+medicamento (ver secção 4.8). O início do tratamento com fingolimod deve ser adiado por um mês
+para que ocorra o efeito total da vacinação.
+Meningite criptocócica
+Na experiência pós-comercialização, foram notificados casos de meningite criptocócica (uma infeção
+fúngica), por vezes fatal, após aproximadamente 2-3 anos de tratamento, embora uma relação exata
+com a duração do tratamento seja desconhecida (ver secção 4.8). Os doentes com sintomas e sinais
+compatíveis com meningite criptocócica (por ex: dor de cabeça acompanhada de alterações mentais
+como confusão, alucinações e/ou alterações de personalidade) devem ser sujeitos a uma rápida
+avaliação diagnóstica. Se a meningite criptocócica for diagnosticada, fingolimod deve ser suspenso e
+deve ser iniciado tratamento adequado. Caso se justifique o reinício de fingolimod, deve ser realizada
+uma consulta multidisciplinar (ou seja, com um especialista em doenças infeciosas).
+Leucoencefalopatia multifocal progressiva (LMP)
+Após autorização de introdução no mercado, foi notificada LMP com o tratamento com fingolimod
+(ver secção 4.8). Trata-se de uma infeção oportunista causada pelo vírus John Cunningham (VJC), que
+pode ser fatal ou resultar em incapacidade grave. Ocorreram casos de LMP após aproximadamente
+2-3 anos de tratamento monoterapêutico sem exposição prévia a natalizumab. Embora o risco
+estimado pareça aumentar com a exposição cumulativa ao longo do tempo, desconhece-se uma relação
+exata com a duração do tratamento. Casos adicionais de LMP ocorreram em doentes que foram
+previamente tratados com natalizumab, que tem uma associação conhecida com LMP. A LMP pode
+apenas ocorrer na presença de uma infeção pelo VJC. Caso seja realizada uma análise ao VJC, deve
+ser tido em conta que a influência de linfopenia na precisão da análise de determinação dos anticorpos
+anti-VJC não foi estudada em doentes tratados com fingolimod. Deve também ser notado que uma
+análise de determinação do anticorpo anti-VJC negativa não exclui a possibilidade de uma infeção
+subsequente pelo VJC. Antes de iniciar o tratamento com fingolimod, deve estar disponível uma
+ressonância magnética inicial (normalmente dentro de 3 meses) como referência. Indícios na
+ressonância magnética podem ser aparentes antes dos sinais ou sintomas clínicos. Durante a
+ressonância magnética de rotina (conforme as recomendações nacionais e locais), os médicos devem
+estar atentos a lesões sugestivas de LMP. A ressonância magnética pode ser considerada como parte
+de monitorização adicional em doentes considerados em risco aumentado de desenvolver LMP. Foram
+notificados casos de LMP assintomática baseados em indícios na ressonância magnética e ADN JCV
+positivo no fluido cerebroespinhal em doentes tratados com fingolimod. Em caso de suspeita de LMP,
+deve ser realizada, de imediato, uma ressonância magnética por motivos de diagnóstico e o tratamento
+deve ser suspenso até ser excluída a LMP.
+Infeção pelo vírus do papiloma humano (VPH)
+Na experiência pós-comercialização, foram notificadas, sob tratamento com fingolimod, infeções pelo
+VPH, incluindo papiloma, displasia, verrugas e cancro relacionado com o VPH. Devido às
+propriedades imunossupressoras de fingolimod, deve ser considerada vacinação contra o VPH antes
+do início do tratamento tendo em conta as recomendações da vacinação. Monitorização para o cancro,
+incluindo o teste de Papanicolau, é recomendada como padrão de cuidados.
+Edema macular
+0,5% dos doentes tratados com fingolimod 0,5 mg apresentaram edema macular com ou sem sintomas
+visuais, predominantemente nos primeiros 3-4 meses de tratamento (ver secção 4.8). É recomendada
+uma avaliação oftalmológica 3-4 meses após o início do tratamento. Se os doentes apresentarem
+distúrbios visuais durante o tratamento, deverá ser efetuada uma avaliação dos fundos oculares,
+incluindo a mácula.
+Os doentes com história clínica de uveíte e os doentes com diabetes mellitus têm um risco aumentado
+7
+
+de edema macular (ver secção 4.8). O fingolimod não foi estudado em doentes com esclerose múltipla
+e diabetes mellitus concomitante. É recomendada uma avaliação oftalmológica em doentes com
+esclerose múltipla e diabetes mellitus ou história de uveíte antes do início do tratamento e avaliações
+de acompanhamento durante o tratamento.
+Não foi avaliada a continuação de fingolimod em doentes com edema macular. Recomenda-se que o
+tratamento com Fingolimod Mylan seja interrompido em doentes que desenvolvam edema macular. A
+decisão acerca do reinício ou não do tratamento após resolução do edema macular tem de ter em
+consideração os potenciais benefícios e riscos para cada doente.
+Lesão hepática
+Foi notificado em doentes com esclerose múltipla tratados com fingolimod o aumento de enzimas
+hepáticas, em particular da alanina aminotransaminase (ALT), mas também da gama
+glutamiltransferase (GGT) e da aspartato transaminase (AST). Também foram notificados alguns
+casos de insuficiência hepática aguda que necessitaram de transplante hepático e também casos de
+lesão hepática clinicamente significativa. Sinais de lesão hepática, incluindo enzimas hepáticas séricas
+marcadamente aumentadas e bilirrubina total aumentada, ocorreram tão cedo como 10 dias após a
+primeira dose e foram também notificadas após utilização prolongada. Em ensaios clínicos, ocorreram
+aumentos 3 vezes ou superiores do limite superior ao normal (LSN) dos níveis de ALT em 8,0% dos
+doentes adultos tratados com fingolimod 0,5 mg comparativamente a 1,9% dos doentes tratados com
+placebo. Ocorreram aumentos 5 vezes superiores ao LSN em 1,8% dos doentes tratados com
+fingolimod e 0,9% dos doentes tratados com placebo. Nos ensaios clínicos, o tratamento foi
+interrompido quando o aumento foi 5 vezes superior ao LSN. Em alguns doentes ocorreram aumentos
+recorrentes de transaminases hepáticas com a reexposição ao medicamento, sustentando uma relação
+com o fingolimod. Nos ensaios clínicos, os aumentos das transaminases ocorreram a qualquer
+momento do tratamento, porém a maioria ocorreu nos primeiros 12 meses. Os níveis de transaminases
+séricas retornaram ao normal em aproximadamente 2 meses após a interrupção do tratamento.
+O fingolimod não foi estudado em doentes com lesões hepáticas graves preexistentes (classe C de
+Child-Pugh) e não deve ser administrado nestes doentes (ver secção 4.3).
+Devido às propriedades imunossupressoras do fingolimod, o início do tratamento deverá ser adiado em
+doentes com hepatite viral ativa até à sua resolução.
+Antes do início do tratamento, deverão estar disponíveis os níveis de transaminases e bilirrubina
+recentes (isto é, dos últimos 6 meses). Na ausência de sintomas clínicos, as transaminases hepáticas e
+bilirrubina sérica devem ser monitorizadas nos meses 1, 3, 6, 9 e 12 da terapêutica e periodicamente
+após essa data até 2 meses após a descontinuação do fingolimod. Na ausência de sintomas clínicos, se
+as transaminases hepáticas forem superiores a 3 mas inferiores a 5 vezes o LSN sem aumento na
+bilirrubina sérica, deve ser instituída monitorização mais frequente, incluindo medição da bilirrubina
+sérica e fosfatase alcalina (FA), para determinar se ocorrem aumentos adicionais e de modo a discernir
+se está presente uma etiologia alternativa para a disfunção hepática. Se as transaminases hepáticas
+forem pelo menos 5 vezes o LSN ou pelo menos 3 vezes o LSN associado a um aumento da
+bilirrubina sérica, o tratamento deve ser descontinuado. Deve-se continuar a monitorização hepática.
+Se os níveis séricos regressarem ao normal (incluindo se uma causa alternativa de disfunção hepática
+for descoberta), o fingolimod pode ser retomado com base numa avaliação cuidada do risco-benefício
+para o doente.
+Os doentes que desenvolvem sintomas sugestivos de disfunção hepática, tais como náusea
+inexplicável, vómitos, dor abdominal, fadiga, anorexia, ou icterícia e/ou urina escura, deverão fazer
+rapidamente análises às enzimas hepáticas e bilirrubina e o tratamento deverá ser interrompido caso se
+confirme lesão hepática significativa.
+O tratamento não deve ser retomado a não ser que possa ser estabelecida uma etiologia alternativa
+plausível para os sinais e sintomas de lesão hepática.
+Apesar de não existirem dados para estabelecer que os doentes com doença hepática preexistente têm
+8
+
+um risco aumentado de desenvolverem níveis elevados nos testes de função hepática quando estão a
+tomar fingolimod, deverá ser tomada precaução em doentes com história de doença hepática
+significativa.
+Efeitos na pressão arterial
+Os doentes com hipertensão não controlada por medicamentos foram excluídos da participação nos
+ensaios clínicos antes da comercialização, pelo que é indicada precaução especial se os doentes com
+hipertensão não controlada forem tratados com Fingolimod Mylan.
+Em ensaios clínicos de esclerose múltipla (EM), doentes tratados com fingolimod 0,5 mg tiveram um
+aumento médio de aproximadamente 3 mmHg na pressão sistólica e aproximadamente 1 mmHg na
+pressão diastólica, detetada aproximadamente um mês após o início do tratamento, e persistindo com a
+continuação do tratamento. Num estudo de dois anos controlado por placebo, a hipertensão foi
+notificada como um acontecimento adverso em 6,5% dos doentes tratados com fingolimod 0,5 mg e
+em 3,3% dos doentes tratados com placebo. Por este motivo, a pressão arterial deverá ser monitorizada
+regularmente durante o tratamento.
+Efeitos respiratórios
+Foram observadas pequenas reduções dependentes da dose nos valores de volume expiratório forçado
+ao primeiro segundo (FEV1) e na capacidade de difusão do monóxido de carbono (DLCO), com início
+no 1º mês e permanecendo estáveis após essa data durante o tratamento com fingolimod. Deverá ser
+administrado com precaução em doentes com doença respiratória grave, fibrose pulmonar e doença
+pulmonar obstrutiva crónica (ver secção 4.8).
+Síndrome de encefalopatia posterior reversível (PRES)
+Foram notificados casos raros de PRES com doses de 0,5 mg quer em ensaios clínicos quer em
+pós-comercialização (ver secção 4.8). Os sintomas notificados incluem cefaleia grave de início súbito,
+náuseas, vómitos, alteração do estado mental, distúrbios visuais e convulsões. Os sintomas de PRES
+são normalmente reversíveis, mas podem evoluir para acidente vascular cerebral isquémico ou
+hemorragia cerebral. O atraso no diagnóstico e tratamento pode originar sequelas neurológicas
+permanentes. Se se suspeita de PRES, Fingolimod Mylan deve ser descontinuado.
+Tratamento anterior com imunossupressores ou terapêuticas imunomoduladoras
+Não existem estudos efetuados para avaliar a eficácia e segurança de fingolimod aquando da
+transferência de doentes em tratamento com teriflunomida, fumarato de dimetilo ou alemtuzumab para
+fingolimod. Ao transferir doentes em tratamento com outra terapêutica de modificação da doença para
+fingolimod, a semivida e o modo de ação da outra terapêutica têm de ser considerados de modo a
+evitar um efeito imunológico aditivo, enquanto ao mesmo tempo minimizando o risco de reativação da
+doença. Um hemograma completo é recomendado antes de iniciar Fingolimod Mylan para garantir que
+os efeitos imunológicos da terapêutica prévia (por exemplo citopenia) estão resolvidos.
+Fingolimod Mylan geralmente pode ser iniciado imediatamente após a interrupção do tratamento com
+interferão ou acetato de glatirâmero.
+Para o fumarato de dimetilo, o período de depuração deverá ser suficiente para o hemograma completo
+recuperar antes de iniciar o tratamento.
+Devido à semivida prolongada do natalizumab, a eliminação normalmente prolonga-se até 2-3 meses
+após a interrupção. A teriflunomida também é eliminada lentamente do plasma. Sem um procedimento
+de eliminação acelerada, a depuração de teriflunomida do plasma poderá levar entre alguns meses até
+2 anos. É recomendado um procedimento de eliminação acelerada, como descrito no Resumo das
+Características do Medicamento de teriflunomida, ou, alternativamente, um período de depuração não
+inferior a 3,5 meses. É necessária precaução relativamente aos potenciais efeitos imunológicos
+9
+
+aquando da transferência de doentes de natalizumab ou teriflunomida para fingolimod.
+O alemtuzumab tem efeitos imunossupressores profundos e prolongados. Uma vez que a duração real
+destes efeitos é desconhecida, não é recomendado o início do tratamento com fingolimod após
+alemtuzumab, a menos que os benefícios de tal tratamento superem claramente os riscos para o doente
+individual.
+A decisão de utilização de tratamento concomitante prolongado com corticosteroides deve ser tomada
+após uma análise cuidadosa.
+Administração concomitante com indutores potentes do CYP450
+A combinação de fingolimod com indutores potentes do CYP450 deverá ser utilizada com precaução.
+A administração concomitante com erva de S. João (Hypericum perforatum) não é recomendada (ver
+secção 4.5).
+Neoplasias
+Neoplasias cutâneas
+Foram notificados carcinoma basocelular (CBC) e outras neoplasias cutâneas, incluindo melanoma
+maligno, carcinoma das células escamosas, sarcoma de Kaposi e carcinoma das células de Merkel, em
+doentes tratados com fingolimod (ver secção 4.8). É necessária vigilância para lesões cutâneas e é
+recomendada uma avaliação médica da pele no início do tratamento, e depois a cada 6 a 12 meses
+tendo em consideração a avaliação clínica. O doente deverá ser referenciado para um dermatologista
+caso sejam detetadas lesões suspeitas.
+Uma vez que existe um potencial risco de crescimentos cutâneos malignos, os doentes tratados com
+fingolimod devem ser avisados sobre a exposição solar sem proteção. Estes doentes não devem
+receber concomitantemente fototerapia com radiação UV-B ou fotoquimioterapia PUVA.
+Linfomas
+Ocorreram casos de linfoma em estudos clínicos e na experiência pós-comercialização (ver
+secção 4.8). Os casos notificados foram heterogéneos em natureza, principalmente linfoma não
+Hodgkin, incluindo linfomas das células B e T. Foram observados casos de linfoma cutâneo das
+células T (micose fungoide). Também foi observado um caso fatal de linfoma das células B positivo
+para o vírus Epstein-Barr (EBV). Em caso de suspeita de linfoma, o tratamento deve ser interrompido.
+Mulheres com potencial para engravidar
+Devido ao risco para o feto, fingolimod é contraindicado durante a gravidez e em mulheres com
+potencial para engravidar que não utilizam métodos contracetivos eficazes. Antes do início do
+tratamento, mulheres com potencial para engravidar devem ser informadas deste risco para o feto,
+devem ter um teste de gravidez com resultado negativo e devem utilizar métodos contracetivos
+eficazes durante o tratamento e por 2 meses após a interrupção do tratamento (ver secções 4.3 e 4.6 e a
+informação incluída nos materiais pedagógicos).
+Lesões tumefativas
+Na experiência pós-comercialização, foram reportados casos raros de lesões tumefativas associadas a
+surtos de esclerose múltipla. Em caso de surtos graves, deve ser realizada uma ressonância magnética
+para excluir lesões tumefativas. A interrupção do tratamento deve ser considerada pelo médico com
+base numa avaliação caso-a-caso tendo em conta os benefícios e riscos individuais.
+Regresso da atividade da doença (rebound) após interrupção do tratamento
+Na experiência pós-comercialização, foi raramente observada exacerbação grave da doença em alguns
+doentes ao interromper o tratamento com fingolimod. Isto tem sido observado geralmente dentro de
+10
+
+12 semanas após interromper o tratamento, mas também foi notificado até 24 semanas após
+interrupção de fingolimod. É indicada precaução ao interromper o tratamento. Se a interrupção de
+fingolimod é considerada necessária, a possibilidade de recorrência de atividade excecionalmente
+elevada da doença deve ser considerada e os doentes devem ser monitorizados para sinais e sintomas
+relevantes e tratamento apropriado deve ser iniciado como necessário (ver “Interrupção do tratamento”
+abaixo).
+Interrupção do tratamento
+Se for tomada a decisão de interromper o tratamento com Fingolimod Mylan, serão necessárias
+6 semanas de intervalo sem tratamento, baseadas na semivida do fármaco, para o eliminar da
+circulação sanguínea (ver secção 5.2). A contagem de linfócitos regressa progressivamente aos níveis
+iniciais cerca de 1-2 meses após a interrupção do tratamento na maioria dos doentes (ver secção 5.1),
+ainda que a recuperação completa possa demorar significativamente mais em alguns doentes. Iniciar
+outros tratamentos durante este intervalo resulta na exposição concomitante ao fingolimod. A
+administração de imunossupressores logo após a interrupção de Fingolimod Mylan pode originar um
+efeito aditivo no sistema imunitário, pelo que deve ser tomada precaução.
+É indicada precaução ao interromper o tratamento devido ao risco de rebound (ver “Regresso da
+atividade da doença (rebound) após interrupção do tratamento” acima). Caso a descontinuação de
+Fingolimod Mylan seja considerada necessária, os doentes devem ser monitorizados durante este
+tempo para sinais de possível rebound.
+Interferência com testes serológicos
+A contagem de linfócitos no sangue periférico não pode ser utilizada para avaliar o estado linfocitário
+de um doente tratado com Fingolimod Mylan, uma vez que o fingolimod diminui a contagem de
+linfócitos na corrente sanguínea através da redistribuição em órgãos linfáticos secundários. Os testes
+laboratoriais que envolvem a utilização de células mononucleares circulantes necessitam de volumes
+de sangue superiores devido à redução do número de linfócitos circulantes.
+População pediátrica
+O perfil de segurança em doentes pediátricos é similar ao dos adultos e as advertências e precauções
+especiais de utilização para adultos aplicam-se, portanto, também aos doentes pediátricos.
+Em particular, ao prescrever Fingolimod Mylan para doentes pediátricos deve notar-se o seguinte:
+•
+Devem seguir-se as precauções aquando da primeira toma (ver “Bradiarritmia” acima). As
+mesmas precauções para a primeira dose são recomendadas quando os doentes são transferidos
+da dose diária de 0,25 mg para 0,5 mg.
+•
+No ensaio pediátrico controlado D2311, foram notificados, com uma incidência superior em
+doentes tratados com fingolimod em comparação com doentes tratados com interferão beta-1a,
+casos de convulsões, ansiedade, estado depressivo e depressão. É necessária precaução neste
+subgrupo de população (ver “População pediátrica” na secção 4.8).
+•
+Aumentos ligeiros e isolados da bilirrubina foram notados em doentes pediátricos com
+fingolimod.
+•
+Recomenda-se que os doentes pediátricos completem todas as imunizações de acordo com as
+diretrizes atuais antes de iniciar o tratamento com Fingolimod Mylan (ver “Infeções” acima).
+•
+Existem dados muito limitados em crianças entre os 10-12 anos de idade, com menos de 40 kg
+ou na Escala de Tanner < 2 (ver secções 4.8 e 5.1). É necessária precaução nestes subgrupos
+devido ao conhecimento muito limitado disponível do ensaio clínico.
+•
+Não estão disponíveis dados de segurança a longo prazo em populações pediátricas.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Terapêuticas imunomoduladoras, imunossupressoras e antineoplásicas
+11
+
+Não devem ser administradas conjuntamente terapêuticas imunomoduladoras, imunossupressoras e
+antineoplásicas devido ao risco de efeitos aditivos no sistema imunitário (ver secções 4.3 e 4.4).
+Deve ser tomada precaução na transição de doentes de tratamentos de longa ação com efeitos
+imunitários, tais como natalizumab, teriflunomida ou mitoxantrona (ver secção 4.4). Em ensaios
+clínicos de esclerose múltipla, o tratamento concomitante de surtos com um regime de curta duração
+com corticosteroides não esteve associado a uma taxa aumentada de infeções.
+Vacinação
+A vacinação pode ser menos eficaz até dois meses após o tratamento com Fingolimod Mylan. Deve
+ser evitada a utilização de vacinas vivas atenuadas devido ao risco de infeções (ver secções 4.4 e 4.8).
+Substâncias indutoras de bradicardia
+O fingolimod foi estudado em combinação com o atenolol e o diltiazem. Quando foi administrado com
+atenolol num estudo de interação em voluntários saudáveis, ocorreu uma redução adicional de 15% da
+frequência cardíaca no início de tratamento com fingolimod, um efeito que não ocorre com o
+diltiazem. O tratamento com Fingolimod Mylan não deve ser iniciado em doentes tratados com
+betabloqueadores, ou outras substâncias que podem diminuir a frequência cardíaca, tais como
+antiarrítmicos de classe Ia e III, bloqueadores dos canais de cálcio (tais como verapamilo ou
+diltiazem), ivabradina, digoxina, agentes anticolinesterásicos ou pilocarpina, devido aos potenciais
+efeitos aditivos na frequência cardíaca (ver secções 4.4 e 4.8). Se o tratamento com este medicamento
+for considerado em tais doentes, deverá ser solicitado aconselhamento de um cardiologista acerca da
+substituição para medicamentos que não diminuam a frequência cardíaca ou monitorização mais
+apropriada para o início do tratamento. É recomendado, pelo menos, monitorização durante a noite
+caso o tratamento com medicamentos que diminuem a frequência cardíaca não possa ser suspenso.
+Interações farmacocinéticas de outras substâncias com fingolimod
+O fingolimod é metabolizado maioritariamente pelo CYP4F2. Outras enzimas como CYP3A4 também
+contribuem para o seu metabolismo, especialmente no caso de forte indução do CYP3A4. Não é
+expectável que inibidores potentes das proteínas transportadoras influenciem a disposição do
+fingolimod. A administração concomitante com cetoconazol resultou num aumento de 1,7 vezes da
+exposição de fingolimod e fosfato de fingolimod (AUC) por inibição do CYP4F2. Deverá ser tomada
+precaução com substâncias que podem inibir o CYP3A4 (inibidores das proteases, antifúngicos azóis,
+alguns macrólidos tais como claritromicina ou telitromicina).
+A administração concomitante de carbamazepina 600 mg duas vezes ao dia no estado estacionário e
+uma dose única de fingolimod 2 mg reduziram a AUC de fingolimod e do seu metabolito em
+aproximadamente 40%. Outros indutores potentes da enzima CYP3A4, como por exemplo
+rifampicina, fenobarbital, fenitoína, efavirenz e erva de S. João, podem reduzir a AUC do fingolimod e
+do seu metabolito pelo menos até esse ponto. Como isso poderia prejudicar a eficácia, a administração
+concomitante deverá ser utilizada com precaução. Porém, não é recomendada a administração
+concomitante com a erva de S. João (ver secção 4.4).
+Interações farmacocinéticas de fingolimod com outras substâncias
+É pouco provável que fingolimod interaja com substâncias eliminadas maioritariamente pelas enzimas
+do CYP450 ou por substratos das proteínas transportadoras principais.
+A administração concomitante de fingolimod com ciclosporina não alterou a exposição da ciclosporina
+ou do fingolimod. Portanto, não é expectável que fingolimod altere a farmacocinética de
+medicamentos que são substratos do CYP3A4.
+A administração concomitante de fingolimod com contracetivos orais (etinilestradiol e levonorgestrel)
+não alterou a exposição dos contracetivos orais. Não foram efetuados estudos de interação com
+12
+
+contracetivos orais contendo outros progestagéneos, porém não é esperado um efeito do fingolimod na
+sua exposição.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar/Contraceção feminina
+Fingolimod é contraindicado em mulheres com potencial para engravidar que não utilizam métodos
+contracetivos eficazes (ver secção 4.3). Por este motivo, antes do início do tratamento em mulheres
+com potencial para engravidar, deve estar disponível um teste de gravidez com resultado negativo e
+deve ser dado aconselhamento relativo ao risco grave para o feto. Mulheres com potencial para
+engravidar devem utilizar métodos contracetivos eficazes durante o tratamento e durante 2 meses após
+interrupção de fingolimod, uma vez que fingolimod demora cerca de 2 meses a ser eliminado após a
+interrupção do tratamento (ver secção 4.4).
+Medidas específicas estão também incluídas nos materiais pedagógicos. Estas medidas devem ser
+implementadas antes de fingolimod ser prescrito a doentes do sexo feminino e durante o tratamento.
+Ao interromper o tratamento com fingolimod para planeamento de uma gravidez, deve ser considerado
+o possível regresso da atividade da doença (ver secção 4.4).
+Gravidez
+Com base na experiência humana, os dados pós-comercialização sugerem que a utilização de
+fingolimod está associada com um aumento em duas vezes do risco de malformações congénitas
+principais quando administrado durante a gravidez em comparação com a taxa observada na
+população geral (2-3%; EUROCAT).
+As seguintes malformações principais foram notificadas mais frequentemente:
+Doenças cardíacas congénitas, tais como defeitos do septo auricular e ventricular, tetralogia de
+Fallot
+Anomalias renais
+Anomalias musculoesqueléticas
+Não existem dados sobre os efeitos do fingolimod durante o trabalho de parto e durante o parto.
+Os estudos em animais revelaram toxicidade reprodutiva, incluindo perda do feto e malformações dos
+órgãos, principalmente truncus arteriosus persistente e defeito do septo interventricular (ver
+secção 5.3). Além disso, o recetor afetado pelo fingolimod (recetor esfingosina-1-fosfato) é conhecido
+por estar envolvido na formação vascular durante a embriogénese.
+Consequentemente, fingolimod é contraindicado durante a gravidez (ver secção 4.3). Deve ser
+interrompido 2 meses antes de planear uma gravidez (ver secção 4.4). Se uma mulher engravidar
+durante o tratamento, fingolimod deve ser interrompido. Deve ser dado aconselhamento médico
+relativamente ao risco de efeitos prejudiciais para o feto associado com o tratamento e devem ser
+realizados exames de ultrassonografia.
+Amamentação
+Durante o aleitamento, o fingolimod é excretado no leite de animais tratados (ver secção 5.3). As
+mulheres tratadas com Fingolimod Mylan não devem amamentar devido ao potencial para reações
+adversas graves em lactentes.
+Fertilidade
+Os dados provenientes dos ensaios pré-clínicos não sugerem que o fingolimod esteja associado a um
+aumento do risco de diminuição da fertilidade (ver secção 5.3).
+13
+
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de fingolimod sobre a capacidade de conduzir e utilizar máquinas são nulos ou
+desprezáveis.
+No entanto, podem ocorrer ocasionalmente tonturas ou sonolência no início do tratamento.
+Recomenda-se que os doentes sejam observados por um período de 6 horas ao iniciar o tratamento
+com Fingolimod Mylan (ver secção 4.4, “Bradiarritmia”).
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas mais frequentes (incidência ≥ 10%) na dose de 0,5 mg foram cefaleias (24,5%),
+aumento das enzimas hepáticas (15,2%), diarreia (12,6%), tosse (12,3%), gripe (11,4%), sinusite
+(10,9%) e lombalgia (10,0%).
+Listagem das reações adversas
+As reações adversas notificadas nos ensaios clínicos e na experiência pós-comercialização através de
+notificação espontânea de casos ou casos da literatura estão incluídas abaixo. As frequências são
+definidas segundo a seguinte convenção: muito frequentes (≥ 1/10); frequentes (≥ 1/100, < 1/10);
+pouco frequentes (≥ 1/1 000, < 1/100); raros (≥ 1/10 000, < 1/1 000); muito raros (< 1/10 000);
+desconhecido (não pode ser calculado a partir dos dados disponíveis). Dentro de cada grupo de
+frequência, as reações adversas são apresentadas por ordem de gravidade decrescente.
+Infeções e infestações
+Muito frequentes
+
+Gripe
+Sinusite
+Frequentes
+Infeções víricas do tipo herpético
+Bronquite
+Tinha versicolor
+Pouco frequentes
+Pneumonia
+Desconhecido
+Leucoencefalopatia multifocal progressiva (LMP)**
+Infeções criptocócicas**
+Neoplasias benignas, malignas e não especificadas (incl. quistos e pólipos)
+Frequentes
+Carcinoma basocelular
+Pouco frequentes
+Melanoma maligno****
+Raros
+Linfoma***
+Carcinoma das células escamosas****
+Muito raros
+Sarcoma de Kaposi****
+Desconhecido
+Carcinoma das células de Merkel***
+Doenças do sangue e do sistema linfático
+Frequentes
+Linfopenia
+Leucopenia
+Pouco frequentes
+Trombocitopenia
+Desconhecido
+Anemia hemolítica autoimune***
+Edema periférico***
+Doenças do sistema imunitário
+Desconhecido
+Reações de hipersensibilidade, incluindo erupção cutânea,
+urticária e angioedema após o início do tratamento***
+14
+
+Perturbações do foro psiquiátrico
+Frequentes
+Depressão
+Pouco frequentes
+Estado depressivo
+Doenças do sistema nervoso
+Muito frequentes
+Cefaleias
+Frequentes
+Tonturas
+Enxaqueca
+Pouco frequentes
+Convulsão
+Raros
+Síndrome de encefalopatia posterior reversível (PRES)*
+Desconhecido
+Exacerbação grave da doença após interrupção de
+fingolimod***
+Afeções oculares
+Frequentes
+Visão enevoada
+Pouco frequentes
+Edema macular
+Cardiopatias
+Frequentes
+Bradicardia
+Bloqueio auriculoventricular
+Muito raros
+Inversão da onda T***
+Vasculopatias
+Frequentes
+Hipertensão
+Doenças respiratórias, torácicas e do mediastino
+Muito frequentes
+Tosse
+Frequentes
+Dispneia
+Doenças gastrointestinais
+Muito frequentes
+Diarreia
+Pouco frequentes
+Náuseas***
+Afeções hepatobiliares
+Desconhecido
+Insuficiência hepática aguda***
+Afeções dos tecidos cutâneos e subcutâneos
+Frequentes
+Eczema
+Alopecia
+Prurido
+Afeções musculosqueléticas e dos tecidos conjuntivos
+Muito frequentes
+Lombalgia
+Frequentes
+Mialgia
+Artralgia
+Perturbações gerais e alterações no local de administração
+Frequentes
+Astenia
+Exames complementares de diagnóstico
+Muito frequentes
+Aumento das enzimas hepáticas (aumento de alanina
+transferase, gama glutamiltransferase, aspartato transaminase)
+Frequentes
+Peso diminuído***
+Aumento dos níveis de triglicéridos no sangue
+Pouco frequentes
+Diminuição da contagem de neutrófilos
+*
+A categoria da frequência baseia-se numa exposição estimada de
+aproximadamente 10 000 doentes com fingolimod em todos os ensaios clínicos.
+**
+LMP e infeções criptocócicas (incluindo casos de meningite criptocócica) têm
+sido notificadas na experiência pós-comercialização (ver secção 4.4).
+***
+Reações adversas de notificações espontâneas e literatura.
+**** A categoria da frequência e avaliação do risco baseiam-se na exposição estimada
+15
+
+a fingolimod 0,5 mg em mais de 24 000 doentes em todos os ensaios clínicos.
+Descrição das reações adversas selecionadas
+Infeções
+Em ensaios clínicos de esclerose múltipla, a taxa global de infeções (65,1%) com a dose de 0,5 mg foi
+semelhante ao placebo. Porém, as infeções do trato respiratório inferior, principalmente bronquite e,
+em menor número, infeção por herpes e pneumonia foram mais frequentes em doentes tratados com
+fingolimod.
+Foram notificados alguns casos de infeção disseminada por herpes, incluindo casos fatais, mesmo na
+dose de 0,5 mg.
+Na experiência pós-comercialização, foram notificados casos, alguns dos quais foram fatais, de
+infeções com agentes patogénicos oportunistas, tais como virais (por exemplo, por vírus varicela
+zoster [VVZ], por VJC causando LMP, por vírus herpes simplex [VHS]), fúngicas (por exemplo, por
+criptococos, incluindo meningite criptocócica) ou bacterianas (por exemplo, por micobactérias
+atípicas) (ver secção 4.4).
+Na experiência pós-comercialização, foram notificadas, sob tratamento com fingolimod, infeções pelo
+VPH, incluindo papiloma, displasia, verrugas e cancro relacionado com o VPH. Devido às
+propriedades imunossupressoras de fingolimod, deve ser considerada vacinação contra o VPH antes
+do início do tratamento tendo em conta as recomendações da vacinação. Monitorização para o cancro,
+incluindo o teste de Papanicolau, é recomendada como padrão de cuidados.
+Edema macular
+Em estudos clínicos de esclerose múltipla, o edema macular ocorreu em 0,5% dos doentes tratados
+com a dose recomendada de 0,5 mg e em 1,1% dos doentes tratados com a dose mais elevada de
+1,25 mg. A maioria dos casos ocorreu nos primeiros 3-4 meses do tratamento. Alguns doentes
+apresentaram visão enevoada ou diminuição da acuidade visual, mas outros foram assintomáticos e
+diagnosticados apenas nos exames oftalmológicos de rotina. O edema macular geralmente melhorou
+ou resolveu-se espontaneamente após a interrupção de fingolimod. Não foi avaliado o risco de
+recorrência após reexposição.
+A incidência de edema macular é mais elevada em doentes com esclerose múltipla com história clínica
+de uveíte (17% com história clínica de uveíte vs. 0,6% sem história clínica de uveíte). Fingolimod não
+foi estudado em doentes com esclerose múltipla e diabetes mellitus, uma doença associada a um risco
+acrescido de edema macular (ver secção 4.4). Em ensaios clínicos de transplante renal, nos quais
+doentes com diabetes mellitus foram incluídos, o tratamento com fingolimod 2,5 mg e 5 mg resultou
+num aumento 2 vezes superior na incidência de edema macular.
+Bradiarritmia
+O início do tratamento origina uma diminuição transitória da frequência cardíaca e pode estar também
+associado a atrasos na condução auriculoventricular. Em ensaios clínicos de esclerose múltipla, o
+decréscimo máximo da frequência cardíaca foi detetado durante as 6 horas após o início do tratamento,
+com diminuição da frequência cardíaca média de 12-13 batimentos por minuto com fingolimod
+0,5 mg. Foi raramente observada uma frequência cardíaca inferior a 40 batimentos por minuto em
+adultos, e inferior a 50 batimentos por minuto em doentes pediátricos tratados com fingolimod 0,5 mg.
+A frequência cardíaca média retornou até aos valores iniciais um mês após o início do tratamento
+crónico. A bradicardia foi geralmente assintomática, mas alguns doentes apresentaram sintomas
+ligeiros a moderados, incluindo hipotensão, tonturas, fadiga e/ou palpitações, as quais desapareceram
+24 horas após o início do tratamento (ver também secções 4.4 e 5.1).
+Em ensaios clínicos de esclerose múltipla, foi detetado bloqueio auriculoventricular de primeiro grau
+(prolongamento do intervalo de frequência cardíaca no ECG) após o início do tratamento em doentes
+adultos e pediátricos. Em ensaios clínicos com adultos, ocorreu em 4,7% dos doentes tratados com
+fingolimod 0,5 mg, em 2,8% dos doentes tratados com interferão beta-1a administrado por via
+16
+
+intramuscular e em 1,6% dos doentes que receberam placebo. Foi detetado bloqueio
+auriculoventricular de segundo grau em menos de 0,2% dos doentes adultos tratados com fingolimod
+0,5 mg. Durante a experiência após a comercialização, observaram-se relatos isolados de bloqueio
+auriculoventricular completo transitório de resolução espontânea observados após a primeira toma de
+fingolimod durante o período de monitorização de 6 horas. Os doentes recuperaram espontaneamente.
+As anomalias na condução observadas em ensaios clínicos e após comercialização foram transitórias,
+assintomáticas e desapareceram nas primeiras 24 horas após o início do tratamento. Apesar de a
+maioria dos doentes não ter necessitado de intervenção médica, foi administrada isoprenalina a um
+doente tratado com fingolimod 0,5 mg para bloqueio auriculoventricular de segundo grau
+assintomático Mobitz I.
+Durante a experiência após comercialização, ocorreram acontecimentos isolados com início diferido,
+incluindo assístole transitória e morte inexplicada, durante as 24 horas após a primeira toma. Estes
+casos foram confundidos por medicação concomitante e/ou doença preexistente. A relação de tais
+acontecimentos com fingolimod é incerta.
+Pressão arterial
+Em ensaios clínicos de esclerose múltipla, fingolimod 0,5 mg foi associado a um aumento médio de
+aproximadamente 3 mmHg na pressão arterial sistólica e aproximadamente 1 mmHg na pressão
+arterial diastólica, manifestado cerca de um mês após o início do tratamento. Este aumento persistiu
+com a continuação do tratamento. Foi notificada hipertensão em 6,5% dos doentes tratados com
+fingolimod 0,5 mg e em 3,3% dos doentes que receberam placebo. Durante a experiência após
+comercialização, foram notificados casos de hipertensão durante o primeiro mês de tratamento e
+durante o primeiro dia de tratamento que poderá requerer tratamento com medicamentos
+anti-hipertensores ou interrupção de fingolimod (ver também secção 4.4, Efeitos na pressão arterial).
+Função hepática
+Foi notificado o aumento de enzimas hepáticas em doentes adultos e pediátricos com esclerose
+múltipla tratados com fingolimod. Em ensaios clínicos, 8,0% e 1,8% dos doentes adultos tratados com
+fingolimod 0,5 mg tiveram um aumento assintomático dos níveis de ALT ≥ 3 x LSN (limite superior
+ao normal) e ≥ 5 x LSN, respetivamente. Ocorreu um aumento recorrente dos níveis de transaminases
+hepáticas após reexposição em alguns doentes, sustentando uma relação com o medicamento. Nos
+ensaios clínicos, os aumentos das transaminases ocorreram a qualquer momento do tratamento, porém
+a maioria ocorreu nos primeiros 12 meses. Os níveis de ALT regressaram aos valores iniciais em
+aproximadamente 2 meses após a interrupção do tratamento. Num número reduzido de doentes
+(N = 10 para 1,25 mg, N = 2 para 0,5 mg) que tiveram aumento dos níveis de ALT ≥ 5 x LSN e que
+continuaram o tratamento com fingolimod, os níveis de ALT voltaram ao normal em
+aproximadamente 5 meses (ver também secção 4.4, Função hepática).
+Doenças do sistema nervoso
+Em ensaios clínicos, ocorreram casos raros de acontecimentos que envolvem o sistema nervoso em
+doentes tratados com fingolimod em doses mais elevadas (1,25 ou 5,0 mg), incluindo acidentes
+vasculares cerebrais isquémicos ou hemorrágicos e distúrbios neurológicos atípicos, tais como
+acontecimentos tipo encefalomielite aguda disseminada.
+Casos de convulsões, incluindo estado de mal epilético, foram notificados com a utilização de
+fingolimod em estudos clínicos e na experiência pós-comercialização.
+Vasculopatias
+Ocorreram casos raros de doença arterial periférica oclusiva em doentes tratados com doses elevadas
+(1,25 mg) de fingolimod.
+Sistema respiratório
+A partir do primeiro mês de tratamento com fingolimod, foram observadas pequenas diminuições,
+dependentes da dose, dos valores do volume expiratório forçado (FEV1) e da capacidade de difusão do
+monóxido de carbono (DLCO), permanecendo estáveis depois disso. Ao 24º mês, ocorreu uma
+diminuição de 2,7% (em percentagem de FEV1 previsto) relativamente aos valores iniciais para
+17
+
+fingolimod 0,5 mg e de 1,2% para o placebo, uma diferença que ficou resolvida após a interrupção do
+tratamento. Para DLCO, as diminuições ao 24º mês foram de 3,3% para fingolimod 0,5 mg e de 2,7%
+para o placebo (ver também secção 4.4, Efeitos respiratórios).
+Linfomas
+Registaram-se casos de linfoma de vários tipos, quer em ensaios clínicos, quer durante a experiência
+pós-comercialização, incluindo um caso fatal de linfoma das células B positivo para o vírus
+Epstein-Barr (EBV). A incidência de casos de linfoma não Hodgkin (células B e células T) foi
+superior nos ensaios clínicos do que a esperada na população geral. Alguns casos de linfoma das
+células T foram também notificados na experiência pós-comercialização, incluindo casos de linfoma
+cutâneo das células T (micose fungoide) (ver também secção 4.4, Neoplasias).
+Síndrome hemofagocítica (HPS)
+Foram notificados casos muito raros de HPS com resultado fatal em doentes tratados com fingolimod
+no contexto de uma infeção. A HPS é uma condição rara que tem sido descrita em associação com
+infeções, imunossupressão e uma variedade de doenças autoimunes.
+População pediátrica
+No ensaio pediátrico controlado D2311 (ver secção 5.1), o perfil de segurança em doentes pediátricos
+(10 até menos de 18 anos de idade) tratados com fingolimod 0,25 mg ou 0,5 mg diário foi no global
+similar àquele visto em adultos. Não obstante, no estudo foram observadas mais perturbações
+neurológicas e do foro psiquiátrico. É necessária precaução neste subgrupo devido ao conhecimento
+muito limitado disponível do ensaio clínico.
+No estudo pediátrico, casos de convulsões foram notificados em 5,6% dos doentes tratados com
+fingolimod e 0,9% dos doentes tratados com interferão beta-1a.
+Depressão e ansiedade são conhecidas por ocorrer com frequência aumentada na população com
+esclerose múltipla. A depressão e a ansiedade também foram notificadas em doentes pediátricos
+tratados com fingolimod.
+Aumentos ligeiros e isolados da bilirrubina foram notados em doentes pediátricos com fingolimod.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Foram bem toleradas doses únicas até 80 vezes a dose recomendada (0,5 mg), administradas a
+voluntários adultos saudáveis. No total de 6 indivíduos, 5 notificaram ligeiro aperto ou desconforto no
+peito, clinicamente consistente com reatividade das pequenas vias aéreas, para doses de 40 mg.
+O fingolimod pode induzir bradicardia após o início do tratamento. A diminuição da frequência
+cardíaca inicia-se normalmente na primeira hora após a primeira toma e é máxima após 6 horas. O
+efeito cronotrópico negativo de fingolimod persiste para além das 6 horas e é progressivamente
+atenuado nos dias seguintes ao tratamento (ver secção 4.4 para detalhes). Foram relatados casos de
+diminuição da condução auriculoventricular, com relatos isolados de bloqueio auriculoventricular
+completo transitório, de resolução espontânea (ver secções 4.4 e 4.8).
+Caso a sobredosagem corresponda à primeira exposição com Fingolimod Mylan, é importante
+monitorizar os doentes com ECG contínuo (em tempo real) e medição da frequência cardíaca e
+pressão arterial hora a hora, pelo menos durante as primeiras 6 horas (ver secção 4.4).
+18
+
+Adicionalmente, se após as 6 horas a frequência cardíaca for < 45 bpm em adultos, < 55 bpm em
+doentes pediátricos com 12 ou mais anos de idade, ou < 60 bpm em doentes pediátricos com 10 até
+menos de 12 anos de idade, ou se o ECG às 6 horas após a primeira toma demonstrar o aparecimento
+de bloqueio auriculoventricular de 2º grau ou de grau superior ou se demonstrar um intervalo
+QTc ≥ 500 ms, a monitorização deverá ser prolongada para, pelo menos, durante a noite e até à
+resolução dos acontecimentos. A ocorrência em qualquer altura de bloqueio auriculoventricular de
+3º grau deverá também conduzir a prolongamento da monitorização, incluindo monitorização durante
+a noite.
+O fingolimod não é eliminado do organismo por diálise ou plasmaferese.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Imunossupressores, imunossupressores seletivos,
+código ATC: L04AA27
+Mecanismo de ação
+O fingolimod é um modulador do recetor da esfingosina 1-fosfato. É metabolizado pela
+esfingosina-cinase no metabolito ativo fosfato de fingolimod. O fosfato de fingolimod liga-se em
+baixas concentrações nanomolares ao recetor 1 da esfingosina 1-fosfato (S1P) localizado nos
+linfócitos, e atravessa rapidamente a barreira hematoencefálica para se ligar ao recetor 1 da S1P
+localizado nas células neuronais do sistema nervoso central (SNC). Ao atuar como um antagonista
+funcional dos recetores da S1P nos linfócitos, o fosfato de fingolimod bloqueia a capacidade dos
+linfócitos saírem dos nódulos linfáticos, provocando uma redistribuição dos linfócitos, em vez de
+depleção. Estudos em animais demonstraram que esta redistribuição reduz a infiltração de linfócitos
+patogénicos, incluindo células pró-inflamatórias Th17, no SNC, onde estariam envolvidas na
+inflamação dos nervos e lesão do tecido nervoso. Estudos em animais e in vitro indicam que o
+fingolimod poderá também atuar através da interação com recetores S1P nas células neuronais.
+Efeitos farmacodinâmicos
+Nas 4-6 horas após a primeira dose de fingolimod 0,5 mg, a contagem de linfócitos diminui para
+aproximadamente 75% dos valores iniciais no sangue periférico. Com a continuação do tratamento, a
+contagem de linfócitos continua a diminuir durante um período de duas semanas, atingindo uma
+contagem mínima de aproximadamente 500 células/microlitro ou aproximadamente 30% dos valores
+iniciais. Em pelo menos uma ocasião, 18% dos doentes atingiram uma contagem mínima inferior a
+200 células/microlitro. A baixa contagem de linfócitos mantém-se com a dose diária crónica. A
+maioria dos linfócitos T e B percorrem normalmente os órgãos linfáticos e são estas as células
+principalmente afetadas pelo fingolimod. Aproximadamente 15-20% dos linfócitos T têm um fenótipo
+de memória efetora, células que são importantes para a vigilância imunitária periférica. Uma vez que
+este tipo de linfócitos não percorre os órgãos linfáticos, não são afetados pelo fingolimod. O aumento
+da contagem de linfócitos periféricos é evidente alguns dias após a interrupção do tratamento e os
+valores normais são atingidos em um a dois meses. A administração crónica de fingolimod leva a uma
+diminuição ligeira na contagem de neutrófilos (para aproximadamente 80% dos valores iniciais). Os
+monócitos não são afetados pelo fingolimod.
+O fingolimod provoca uma diminuição transitória da frequência cardíaca e da condução
+auriculoventricular no início do tratamento (ver secções 4.4 e 4.8). A redução máxima da frequência
+cardíaca é observada durante as 6 horas após a toma, com 70% do efeito cronotrópico negativo
+alcançado no primeiro dia. Com a administração contínua, a frequência cardíaca regressa aos valores
+iniciais em cerca de um mês. A diminuição da frequência cardíaca induzida por fingolimod pode ser
+revertida com doses parentéricas de atropina ou isoprenalina. O salmeterol inalado demonstrou
+19
+
+também ter um modesto efeito cronotrópico positivo. Existe um aumento das contrações auriculares
+prematuras com o início do tratamento com fingolimod, mas não existe aumento da taxa de
+fibrilhação/flutter auricular ou arritmias ventriculares ou ectopias. O tratamento com fingolimod não
+está associado a uma diminuição do débito cardíaco. Respostas autónomas cardíacas, incluindo
+variações diurnas da frequência cardíaca e respostas ao exercício, não são afetadas pelo tratamento.
+O S1P4 poderá contribuir parcialmente para o efeito, mas não foi o principal responsável pela
+depleção linfoide. O mecanismo de ação da bradicardia e vasoconstrição também foram estudados in
+vitro em porquinhos-da-índia e na aorta isolada e artéria coronária de coelhos. Concluiu-se que a
+bradicardia pode ser mediada principalmente por ativação do canal de potássio retificador de influxo
+ou do canal de K+ retificador de influxo ativado por proteína G (IKACh/GIRK) e que a vasoconstrição
+parece ser mediada por um mecanismo Rho quinase e cálcio dependente.
+O tratamento com fingolimod 0,5 e 1,25 mg em doses únicas ou múltiplas durante duas semanas não
+foi associado a um aumento detetável da resistência das vias aéreas medida pelo FEV1 e pelo débito
+expiratório forçado (FEF) 25-75. No entanto, doses únicas de fingolimod ≥ 5 mg (10 vezes a dose
+recomendada) estão associadas a um aumento da resistência das vias aéreas, dependente da dose. O
+tratamento com doses múltiplas de 0,5, 1,25 ou 5 mg não está associado a diminuição da oxigenação
+ou dessaturação do oxigénio com o exercício ou aumento na resposta das vias aéreas à metacolina. Os
+indivíduos tratados com fingolimod têm uma resposta broncodilatadora normal aos beta-agonistas
+inalados.
+Eficácia e segurança clínicas
+A eficácia do fingolimod foi demonstrada em dois estudos que avaliaram doses únicas diárias de
+0,5 mg e 1,25 mg em doentes adultos com esclerose múltipla surto-remissão (EMSR). Ambos os
+estudos incluíram doentes adultos que tiveram ≥ 2 surtos nos 2 anos anteriores ou ≥ 1 surto no ano
+anterior. A pontuação da Escala Expandida do Estado da Incapacidade (EDSS) foi entre 0 e 5,5. Um
+terceiro estudo dirigido à mesma população de doentes adultos foi concluído após o registo de
+fingolimod.
+O estudo D2301 (FREEDOMS) foi um ensaio clínico de Fase III aleatorizado, em dupla ocultação,
+controlado por placebo com duração de 2 anos em 1 272 doentes (n = 425 com 0,5 mg, 429 com
+1,25 mg, 418 com placebo). Os valores medianos para as características basais foram: idade 37 anos,
+duração da doença 6,7 anos e pontuação da EDSS 2,0. Os resultados do estudo são apresentados na
+Tabela 1. Não existem diferenças significativas entre as doses de 0,5 mg e 1,25 mg, no que diz
+respeito a qualquer um dos objetivos.
+
+20
+
+Tabela 1
+
+Estudo D2301 (FREEDOMS): resultados principais
+Fingolimod
+0,5 mg
+
+Placebo
+
+Objetivos clínicos
+Taxa anualizada de surtos (objetivo primário)
+
+0,18**
+
+0,4
+
+Percentagem de doentes sem surtos após 24 meses
+
+70%**
+
+46%
+
+Proporção com progressão da incapacidade confirmada a
+3 meses†
+Razão de risco (IC 95%)
+
+17%
+
+24%
+
+0,70 (0,52; 0,96)*
+
+Objetivos de ressonância magnética
+Número mediano (médio) de lesões T2 novas ou aumentadas
+0,0 (2,5)**
+5,0 (9,8)
+após 24 meses
+Número mediano (médio) de lesões captantes de gadolínio ao
+0,0 (0,2)**
+0,0 (1,1)
+mês 24
+Variação mediana (média) % do volume cerebral após
+-0,7 (-0,8)**
+-1,0 (-1,3)
+24 meses
+† Progressão da incapacidade definida como o aumento de 1 ponto na EDSS confirmada a 3 meses
+** p < 0,001; * p < 0,05 comparado com placebo
+Todas as análises dos objetivos clínicos foram análises de intenção de tratar. As análises de ressonância
+magnética utilizaram um conjunto de dados avaliáveis.
+Os doentes que completaram a fase principal de 24 meses do estudo FREEDOMS puderam entrar num
+estudo de extensão com ocultação de dose (D2301E1) e receber fingolimod. No total, entraram
+920 doentes (n = 331 continuaram com 0,5 mg; 289 continuaram com 1,25 mg; 155 mudaram de
+placebo para 0,5 mg e 145 mudaram de placebo para 1,25 mg). Após 12 meses (mês 36), 856 doentes
+(93%) continuavam incluídos. Entre os meses 24 e 36, a taxa anualizada de surtos (TAS) para os
+doentes em fingolimod 0,5 mg no estudo principal e que se mantiveram com 0,5 mg foi de 0,17 (0,21
+no estudo principal). A TAS para doentes que mudaram de placebo para fingolimod 0,5 mg foi de 0,22
+(0,42 no estudo principal).
+
+21
+
+Foram obtidos resultados comparáveis num estudo replicado de Fase III (D2309; FREEDOMS 2),
+aleatorizado, em dupla ocultação, controlado por placebo, com duração de 2 anos, com fingolimod em
+1 083 doentes com EMSR (n = 358 com 0,5 mg; 370 com 1,25 mg; 355 com placebo). Os valores
+medianos para as características basais foram: idade 41 anos, duração da doença 8,9 anos, pontuação
+EDSS 2,5.
+Tabela 2
+
+Estudo D2309 (FREEDOMS 2): resultados principais
+
+Objetivos clínicos
+Taxa anualizada de surtos (objetivo primário)
+Percentagem de doentes sem surtos após 24 meses
+Proporção com progressão da incapacidade confirmada a
+3 meses†
+Razão de risco (IC 95%)
+Objetivos de ressonância magnética
+Número mediano (médio) de lesões T2 novas ou aumentadas
+após 24 meses
+
+Fingolimod
+0,5 mg
+
+Placebo
+
+0,21**
+71,5%**
+
+0,4
+52,7%
+
+25%
+
+29%
+
+0,83 (0,61; 1,12)
+0,0 (2,3)**
+
+4,0 (8,9)
+
+Número mediano (médio) de lesões captantes de gadolínio ao 0,0 (0,4)**
+0,0 (1,2)
+mês
+24
+Variação mediana (média) % do volume cerebral após
+-0,71 (-0,86)**
+-1,02 (-1,28)
+24 meses
+† Progressão da incapacidade definida como o aumento de 1 ponto na EDSS confirmada a 3 meses
+** p < 0,001 comparado com placebo
+Todas as análises dos objetivos clínicos foram análises de intenção de tratar. As análises de
+ressonância magnética utilizaram um conjunto de dados avaliáveis.
+
+22
+
+O estudo D2302 (TRANSFORMS) foi um ensaio clínico de Fase III aleatorizado, em dupla ocultação,
+com dupla simulação, controlado por fármaco ativo (interferão beta-1a) com duração de 1 ano em
+1 280 doentes (n = 429 com 0,5 mg, 420 com 1,25 mg, 431 com interferão beta-1a 30 µg através de
+uma injeção intramuscular semanal). Os valores medianos para as características basais foram: idade
+36 anos, duração da doença 5,9 anos e pontuação da EDSS 2,0. Os resultados do estudo são
+apresentados na Tabela 3. Não existem diferenças significativas entre as doses de 0,5 mg e 1,25 mg,
+no que diz respeito a objetivos do estudo.
+Tabela 3
+
+Estudo D2302 (TRANSFORMS): resultados principais
+
+Objetivos clínicos
+Taxa anualizada de surtos (objetivo primário)
+Percentagem de doentes sem surtos após 12 meses
+Proporção com progressão da incapacidade confirmada a
+3 meses†
+Razão de risco (IC 95%)
+Objetivos de ressonância magnética
+Número mediano (médio) de lesões T2 novas ou
+aumentadas após 12 meses
+Número mediano (médio) de lesões captantes de
+gadolínio após 12 meses
+Variação mediana (média) % do volume cerebral após
+12 meses
+
+Fingolimod
+0,5 mg
+
+Interferão
+beta-1a, 30 μg
+
+0,16**
+83%**
+
+0,33
+71%
+
+6%
+
+8%
+
+0,71 (0,42; 1,21)
+0,0 (1,7)*
+
+1,0 (2,6)
+
+0,0 (0,2)**
+
+0,0 (0,5)
+
+-0,2 (-0,3)**
+
+-0,4 (-0,5)
+
+† Progressão da incapacidade definida como o aumento de 1 ponto na EDSS confirmada a
+*3 pmeses.
+< 0,01, ** p < 0,001, comparado com interferão beta-1a
+Todas as análises dos objetivos clínicos foram análises de intenção de tratar. As análises de
+ressonância magnética utilizaram um conjunto de dados avaliáveis.
+Os doentes que completaram a fase principal de 12 meses do estudo TRANSFORMS puderam entrar
+num estudo de extensão em ocultação de dose (D2302E1) e receber fingolimod. No total, entraram
+1 030 doentes; no entanto, 3 destes doentes não receberam tratamento (n = 356 continuaram com
+0,5 mg; 330 continuaram com 1,25 mg; 167 mudaram de interferão beta-1a para 0,5 mg e 174 de
+interferão beta-1a para 1,25 mg). Após 12 meses (mês 24), 882 doentes (86%) continuavam incluídos.
+Entre os meses 12 e 24, a TAS para os doentes em fingolimod 0,5 mg no estudo principal e que se
+mantiveram com 0,5 mg foi de 0,20 (0,19 no estudo principal). A TAS para doentes que mudaram de
+interferão beta-1a para fingolimod 0,5 mg foi de 0,33 (0,48 no estudo principal).
+Os resultados agrupados dos estudos D2301 e D2302 demonstraram uma redução consistente e
+estatisticamente significativa da taxa anualizada de surtos relativamente ao comparador nos subgrupos
+definidos por sexo, idade, terapêutica anterior para a esclerose múltipla, atividade da doença ou níveis
+de incapacidade no início dos estudos.
+Análises aprofundadas dos dados obtidos nos ensaios clínicos demonstram efeitos consistentes no
+tratamento de subgrupos de doentes com esclerose múltipla surto-remissão muito ativa.
+
+23
+
+População pediátrica
+A eficácia e segurança de doses únicas diárias de fingolimod 0,25 mg ou 0,5 mg (doses selecionadas
+com base no peso corporal e medições de exposição) foram estabelecidas em doentes pediátricos com
+10 até < 18 anos de idade com esclerose múltipla surto-remissão.
+O estudo D2311 (PARADIGMS) foi um ensaio clínico com dupla ocultação, dupla simulação,
+controlado por fármaco ativo com duração flexível até 24 meses, com 215 doentes com 10 até
+< 18 anos de idade (n = 107 em fingolimod, 108 em interferão beta-1a 30 µg por injeção intramuscular
+uma vez por semana).
+Os valores medianos para as características basais foram: idade 16 anos, duração mediana da doença
+1,5 anos e pontuação EDSS 1,5. A maioria dos doentes pertenciam à Escala de Tanner 2 ou superior
+(94,4%) e tinham > 40 kg (95,3%). No global, 180 (84%) doentes completaram a fase principal com
+fármaco de estudo (n = 99 [92,5%] em fingolimod, 81 [75%] em interferão beta-1a). Os resultados do
+estudo são apresentados na Tabela 4.
+Tabela 4
+
+Estudo D2311 (PARADIGMS): resultados principais
+
+Objetivos clínicos
+Taxa anualizada de surtos (objetivo primário)
+Percentagem de doentes sem surtos após 24 meses
+
+Fingolimod
+0,25 mg ou 0,5 mg
+N = 107
+0,122**
+85,7**
+
+Interferão beta-1a
+30 µg
+N = 107#
+0,675
+38,8
+
+Objetivos de ressonância magnética
+Taxa anualizada do número de lesões T2 novas ou
+n = 106
+n = 102
+aumentadas
+Média ajustada
+4,393**
+9,269
+Número de lesões T1 captantes de gadolínio por exame n = 105
+n = 95
+até ao mês 24
+Média ajustada
+0,436**
+1,282
+Taxa anualizada de atrofia cerebral desde os valores
+n = 96
+n = 89
+iniciais (baseline) até ao mês 24
+Média de mínimos quadrados
+-0,48*
+-0,80
+#
+Um doente aleatorizado para receber interferão beta-1a por injeção intramuscular foi incapaz de
+engolir a medicação placebo e interrompeu o estudo. O doente foi excluído da análise completa
+e do conjunto de segurança.
+*
+p < 0,05, ** p < 0,001, comparado com interferão beta-1a.
+Todas as análises aos objetivos clínicos ocorreram no conjunto completo de análise.
+5.2
+
+Propriedades farmacocinéticas
+
+Os dados farmacocinéticos foram obtidos em voluntários adultos saudáveis, doentes adultos com
+transplante renal e doentes adultos com esclerose múltipla.
+O metabolito farmacologicamente ativo responsável pela eficácia é o fosfato de fingolimod.
+Absorção
+A absorção do fingolimod é lenta (tmax de 12-16 horas) e extensa (≥ 85%). A biodisponibilidade oral
+absoluta aparente é de 93% (intervalo de confiança de 95%: 79-111%). O estado estacionário das
+concentrações plasmáticas é alcançado 1 a 2 meses após administração única diária e os níveis
+estacionários são aproximadamente 10 vezes superiores à dose inicial.
+24
+
+A ingestão de alimentos não altera a Cmax ou exposição (AUC) de fingolimod. A Cmax do fosfato de
+fingolimod teve uma diminuição ligeira de 34%, mas a AUC permaneceu inalterada. Assim,
+Fingolimod Mylan pode ser tomado com ou sem alimentos (ver secção 4.2).
+Distribuição
+O fingolimod é extensamente distribuído nos eritrócitos com uma fração de 86% nas células
+sanguíneas. O fosfato de fingolimod tem uma menor captação nas células sanguíneas (< 17%). O
+fingolimod e o fosfato de fingolimod têm uma forte ligação às proteínas (> 99%).
+O fingolimod é extensamente distribuído nos tecidos com um volume de distribuição de cerca de
+1 200 ± 260 litros. Um estudo realizado em quatro indivíduos saudáveis que receberam uma dose
+única intravenosa de um análogo de fingolimod marcado com iodo radioativo demonstrou que este
+penetra no cérebro. Num estudo em 13 doentes com esclerose múltipla do sexo masculino aos quais
+foi administrado fingolimod 0,5 mg/dia, a quantidade média de fingolimod (e fosfato de fingolimod)
+no sémen ejaculado, no estado estacionário, foi de aproximadamente 10 000 vezes inferior do que a
+dose oral administrada (0,5 mg).
+Biotransformação
+Nos seres humanos, o fingolimod é transformado no composto farmacologicamente ativo,
+(S)-enantiómero de fosfato de fingolimod, por fosforilação estereoseletiva reversível. O fingolimod é
+eliminado através de metabolismo oxidativo catalisado maioritariamente através do CYP4F2 e
+possivelmente outras isoenzimas, e da consequente degradação tipo ácido gordo para metabolitos
+inativos. Foi também observada formação da ceramida apolar farmacologicamente inativa análoga do
+fingolimod. A principal enzima envolvida no metabolismo do fingolimod encontra-se parcialmente
+identificada, podendo ser a CYP4F2 ou CYP3A4.
+Após a administração oral única de [14C] fingolimod, os componentes maioritários do sangue
+relacionados com o fingolimod, determinados pela sua contribuição para a AUC até 34 dias após a
+dose da totalidade de compostos radiomarcados, são o próprio fingolimod (23%), fosfato de
+fingolimod (10%) e os metabolitos inativos (M3 metabolito ácido carboxílico (8%), M29 metabolito
+ceramida (9%) e M30 metabolito ceramida (7%)).
+Eliminação
+A depuração sanguínea do fingolimod é de 6,3 ± 2,3 l/h, e o tempo de semivida aparente médio (t1/2) é
+de 6-9 dias. Os níveis sanguíneos de fingolimod e de fosfato de fingolimod na fase terminal diminuem
+em paralelo, originando semividas similares para ambos.
+Após a administração oral, cerca de 81% da dose é lentamente excretada na urina na forma de
+metabolitos inativos. O fingolimod e o fosfato de fingolimod não são excretados na urina na forma
+intacta, mas são os constituintes principais das fezes, com quantidades que representam menos que
+2,5% de cada dose. Após 34 dias, a recuperação da dose administrada é de 89%.
+Linearidade
+As concentrações do fingolimod e do fosfato de fingolimod aumentam proporcionalmente à dose após
+doses múltiplas diárias de 0,5 mg ou 1,25 mg.
+Características em grupos específicos de doentes
+Género, etnicidade e compromisso renal
+A farmacocinética de fingolimod e de fosfato de fingolimod não difere em homens e mulheres, em
+doentes com diferentes origens étnicas, ou em doentes com compromisso renal ligeiro a grave.
+
+25
+
+Compromisso hepático
+Em indivíduos com compromisso hepático ligeiro, moderado ou grave (classe A, B e C de
+Child-Pugh), não foi observada alteração na Cmax do fingolimod, mas a AUC do fingolimod aumentou
+respetivamente 12%, 44% e 103%. Em doentes com compromisso hepático grave (classe C de
+Child-Pugh), a Cmax do fosfato de fingolimod diminuiu 22% e a AUC não foi substancialmente
+alterada. As farmacocinéticas do fosfato de fingolimod não foram avaliadas em doentes com
+compromisso hepático ligeiro ou moderado. A semivida de eliminação aparente do fingolimod não é
+alterada em indivíduos com compromisso hepático ligeiro, mas é prolongada em cerca de 50% em
+doentes com compromisso hepático moderado ou grave.
+O fingolimod não deverá ser administrado em doentes com compromisso hepático grave (classe C de
+Child-Pugh) (ver secção 4.3). Deverá ser introduzido com precaução em doentes com compromisso
+hepático ligeiro e moderado (ver secção 4.2).
+População idosa
+A experiência clínica e informação farmacocinética em doentes com idade superior a 65 anos são
+limitadas. Fingolimod Mylan deve ser administrado com precaução em doentes com idade igual ou
+superior a 65 anos (ver secção 4.2).
+População pediátrica
+Em doentes pediátricos (10 ou mais anos de idade), as concentrações de fosfato de fingolimod
+aumentam numa aparente proporção dose-dependente entre 0,25 mg e 0,5 mg.
+A concentração do fosfato de fingolimod no estado de equilíbrio é aproximadamente 25% inferior em
+doentes pediátricos (10 ou mais anos de idade) após administração diária de fingolimod 0,25 mg ou
+0,5 mg comparado com a concentração em doentes adultos tratados com fingolimod 0,5 mg uma vez
+por dia.
+Não estão disponíveis dados para doentes pediátricos abaixo dos 10 anos de idade.
+5.3
+
+Dados de segurança pré-clínica
+
+O perfil de segurança pré-clínico do fingolimod foi determinado em ratinhos, ratos, cães e macacos.
+Os principais órgãos-alvo foram o sistema linfático (linfopenia e atrofia linfoide), pulmões (aumento
+de peso, hipertrofia do músculo liso na junção broncoalveolar) e coração (efeito cronotrópico
+negativo, aumento da pressão arterial, alterações perivasculares e degeneração do miocárdio) em
+várias espécies; vasos sanguíneos (vasculopatia) apenas em ratos com doses de 0,15 mg/kg e
+superiores num estudo de 2 anos, representando uma margem aproximada de 4 vezes a exposição
+sistémica humana (AUC) com doses diárias de 0,5 mg.
+Não foi observada evidência de carcinogenicidade num bioensaio de 2 anos em ratos com doses orais
+de fingolimod até à dose máxima tolerada de 2,5 mg/kg, representativa de aproximadamente 50 vezes
+a margem baseada na exposição sistémica humana (AUC) na dose de 0,5 mg. Porém, num estudo de
+2 anos com ratinhos, observou-se um aumento na incidência de linfoma maligno com doses de
+0,25 mg/kg e superiores, representativa de aproximadamente 6 vezes a margem baseada na exposição
+sistémica humana (AUC) numa dose diária de 0,5 mg.
+Não foram observados efeitos mutagénicos ou clastogénicos em estudos em animais com fingolimod.
+Não teve efeito na contagem/mobilidade do esperma ou na fertilidade masculina e feminina em ratos
+até à maior dose testada (10 mg/kg), representativa de aproximadamente 150 vezes a margem baseada
+na exposição sistémica humana (AUC) numa dose diária de 0,5 mg.
+O fingolimod foi teratogénico em ratos administrados com doses de 0,1 mg/kg ou superiores. A
+exposição ao fármaco em ratos nesta dose foi similar à dos doentes na dose terapêutica (0,5 mg). As
+malformações viscerais fetais mais frequentes incluíram truncus arteriosus persistente e defeito do
+26
+
+septo interventricular. O potencial teratogénico em coelhos não pode ser totalmente avaliado, porém
+um aumento da mortalidade embriofetal foi observado com doses de 1,5 mg/kg e superiores, e uma
+diminuição na viabilidade fetal bem como atraso no crescimento fetal foram observados com 5 mg/kg.
+A exposição ao fármaco em coelhos nesta dose foi similar à dos doentes.
+Em ratos, a sobrevivência das crias da geração F1 diminuiu no período precoce pós-parto com doses
+que não provocaram toxicidade materna. Porém, os pesos corporais, desenvolvimento, comportamento
+e fertilidade de F1 não foram afetados pelo tratamento com fingolimod. Durante o aleitamento, foi
+excretado no leite de animais tratados em concentrações 2 a 3 vezes superiores às encontradas no
+plasma materno. O fingolimod e os seus metabolitos atravessaram a barreira placentária em
+coelhos-fêmea grávidas.
+Estudos em animais juvenis
+Os resultados de dois estudos de toxicidade em ratos juvenis mostraram ligeiros efeitos na resposta
+neurocomportamental, maturação sexual tardia e uma resposta imune diminuída a estímulos repetidos
+com hemocianina de lapa californiana (KLH), que não foram considerados adversos. No global, os
+efeitos relacionados com o tratamento de fingolimod em animais juvenis foram comparáveis aos que
+são vistos em ratos adultos em níveis de dose similares, com a exceção de alteração na densidade
+mineral do osso e compromisso neurocomportamental (diminuída resposta de sobressalto auditivo)
+observados em doses de 1,5 mg/kg e superiores em animais juvenis e a ausência de hipertrofia do
+músculo liso nos pulmões de ratos juvenis.
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Conteúdo da cápsula
+Hidrogenofosfato de cálcio di-hidratado
+Glicina
+Sílica coloidal anidra
+Estearato de magnésio
+Invólucro da cápsula
+Gelatina
+Dióxido de titânio (E171)
+Óxido de ferro amarelo (E172)
+Óxido de ferro vermelho (E172)
+Tinta de impressão
+Goma laca (E904)
+Propilenoglicol (E1520)
+Óxido de ferro negro (E172)
+Hidróxido de potássio
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+3 anos
+27
+
+6.4
+
+Precauções especiais de conservação
+
+Não conservar acima de 25 °C.
+Conservar na embalagem de origem para proteger da humidade.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Blister PVC/PCTFE-alu
+Dimensão da embalagem:
+28, 30, 84 ou 98 cápsulas
+Embalagens múltiplas contendo 84 (3 embalagens de 28) cápsulas
+Embalagens calendário contendo 28 ou 84 cápsulas
+Embalagens de blister em dose unitária contendo 7 x 1, 28 x 1, 90 x 1 ou 98 x 1 cápsulas
+Blister PVC/PE/PVdC-alu
+Dimensão da embalagem:
+28, 30, 84 ou 98 cápsulas
+Embalagens múltiplas contendo 84 (3 embalagens de 28) cápsulas
+Embalagens calendário contendo 28 ou 84 cápsulas
+Embalagens de blister em dose unitária contendo 7 x 1, 28 x 1, 90 x 1 ou 98 x 1 cápsulas
+Frasco de PEAD branco e redondo com fecho resistente à abertura por crianças de PP branco opaco
+contendo selo de alumínio
+Dimensão da embalagem: 90 ou 100 cápsulas.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Mylan Ireland Limited
+Unit 35/36 Grange Parade
+Baldoyle Industrial Estate
+Dublin 13
+Irlanda
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1573/001
+EU/1/21/1573/002
+EU/1/21/1573/003
+EU/1/21/1573/004
+EU/1/21/1573/005
+EU/1/21/1573/006
+EU/1/21/1573/007
+EU/1/21/1573/008
+EU/1/21/1573/009
+EU/1/21/1573/010
+28
+
+EU/1/21/1573/011
+EU/1/21/1573/012
+EU/1/21/1573/013
+EU/1/21/1573/014
+EU/1/21/1573/015
+EU/1/21/1573/016
+EU/1/21/1573/017
+EU/1/21/1573/018
+EU/1/21/1573/019
+EU/1/21/1573/020
+EU/1/21/1573/021
+EU/1/21/1573/022
+EU/1/21/1573/023
+EU/1/21/1573/024
+
+9.
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+Data da primeira autorização: 18 de agosto de 2021
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+29
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+30
+
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+Mylan Hungary Kft
+Mylan utca 1
+Komarom
+H-2900
+Hungria
+Mylan Germany GmbH,
+Zweigniederlassung Bad Homburg v. d. Hoehe,
+Benzstrasse 1,
+Bad Homburg v. d. Hoehe,
+Hessen, 61352,
+Alemanha.
+O folheto informativo que acompanha o medicamento tem de mencionar o nome e endereço do
+fabricante responsável pela libertação do lote em causa.
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do
+artigo 107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no
+portal europeu de medicamentos.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+• A pedido da Agência Europeia de Medicamentos
+• Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+31
+
+•
+
+Medidas adicionais de minimização do risco
+
+Antes do lançamento de Fingolimod Mylan em cada Estado-Membro, o Titular da AIM deve chegar a
+acordo com a Autoridade Nacional Competente (ANC) sobre o conteúdo e formato do programa
+educacional, incluindo o modo de comunicação, modalidades de distribuição, e quaisquer outros
+aspetos do programa.
+O Titular da AIM deverá assegurar-se de que, em cada Estado-Membro (MS) onde o Fingolimod
+Mylan é comercializado, sejam facultados a todos os médicos que se espera prescreverem Fingolimod
+Mylan os seguintes materiais pedagógicos:
+1.
+2.
+3.
+4.
+
+Resumo das Características do Medicamento (RCM)
+Uma lista de verificação do médico, para doentes adultos e pediátricos, para ter em consideração
+antes da prescrição de Fingolimod Mylan.
+O Guia para o Doente/Pais/Cuidador, a ser entregue a todos os doentes, os seus pais (ou
+representantes legais) e cuidadores.
+O Cartão de alerta específico da gravidez, a ser entregue a todos os doentes, os seus pais (ou
+representantes legais) e cuidadores, conforme aplicável.
+
+Lista de verificação do médico
+A lista de verificação do médico deverá conter as seguintes mensagens-chave:
+-
+
+Requisitos de monitorização no início do tratamento:
+Antes da primeira toma
+•
+Efetuar um ECG inicial antes da primeira toma de Fingolimod Mylan;
+•
+Efetuar medição da pressão arterial antes da primeira toma de Fingolimod Mylan;
+•
+Efetuar um exame à função hepática, incluindo transaminases e bilirrubina, antes (dentro
+de 6 meses) do início do tratamento;
+•
+Providenciar uma avaliação oftalmológica antes de iniciar o tratamento com Fingolimod
+Mylan em doentes com diabetes mellitus ou com história de uveíte.
+•
+Deve ser confirmado o resultado negativo de um teste de gravidez antes de iniciar o
+tratamento.
+Até 6 horas após a primeira toma
+•
+Monitorizar o doente durante 6 horas após administração da primeira toma de Fingolimod
+Mylan para determinação de sinais e sintomas de bradicardia, incluindo verificação do
+pulso e da pressão arterial hora a hora. É recomendada uma monitorização contínua por
+ECG (em tempo real);
+•
+Efetuar um ECG no final do período de 6 horas de monitorização.
+> 6 a 8 horas após a primeira toma
+•
+Se a frequência cardíaca do doente ao fim do período de 6 horas for a mais baixa após a
+administração da primeira dose, a monitorização deverá ser prolongada, pelo menos, por
+2 horas e até a frequência cardíaca aumentar novamente.
+
+-
+
+Recomendação para reiniciar Fingolimod Mylan após interrupção do tratamento:
+Recomenda-se a repetição da monitorização de primeira toma que é feita no início do
+tratamento quando o tratamento é interrompido durante:
+•
+Um ou mais dias durante as primeiras 2 semanas de tratamento;
+•
+Mais de 7 dias durante as semanas 3 e 4 do tratamento;
+•
+Mais de 2 semanas após pelo menos um mês de tratamento.
+
+-
+
+Recomendações para monitorização durante a noite após a primeira toma (ou se a monitorização
+da primeira toma se aplicar durante o reinício do tratamento):
+32
+
+•
+
+•
+
+Prolongar a monitorização da frequência cardíaca pelo menos durante a noite numa
+unidade médica e até resolução dos acontecimentos em doentes que necessitem de
+intervenção farmacológica durante a monitorização no início/reinício do tratamento.
+Repetir a monitorização da primeira toma após a segunda toma de Fingolimod Mylan;
+Prolongar a monitorização da frequência cardíaca pelo menos durante a noite numa
+unidade médica e até resolução dos acontecimentos em doentes:
+Com bloqueio auriculoventricular de 3º grau ocorrido em qualquer altura da
+monitorização;
+Em que às 6 horas:
+a.
+Frequência cardíaca < 45 bpm, < 55 bpm em doentes pediátricos com 12 ou
+mais anos de idade, ou < 60 bpm em doentes pediátricos com 10 até menos
+de 12 anos de idade;
+b.
+Tenha ocorrido aparecimento de bloqueio auriculoventricular de 2º grau ou
+superior;
+c.
+Intervalo QTc ≥ 500 ms.
+
+-
+
+Fingolimod Mylan está contraindicado em doentes com:
+•
+Síndrome de imunodeficiência conhecida;
+•
+Doentes com risco aumentado de infeções oportunistas, incluindo doentes
+imunocomprometidos (incluindo doentes a fazer atualmente terapêuticas
+imunossupressoras ou imunocomprometidos por terapêuticas anteriores);
+•
+Infeções ativas graves, infeções crónicas ativas (hepatite, tuberculose);
+•
+Neoplasias ativas conhecidas;
+•
+Compromisso hepático grave (classe C de Child-Pugh);
+•
+Nos últimos 6 meses, enfarte agudo do miocárdio (EAM), angina de peito instável,
+acidente vascular cerebral/acidente isquémico transitório (AIT), insuficiência cardíaca
+descompensada (que requerem tratamento em internamento), ou insuficiência cardíaca
+classe III/IV da New York Heart Association (NYHA);
+•
+Doentes com arritmias cardíacas graves que requerem tratamento antiarrítmico com
+medicamentos antiarrítmicos de classe Ia ou classe III;
+•
+Bloqueio auriculoventricular (AV) de segundo grau Mobitz tipo II ou bloqueio AV de
+terceiro grau, ou síndrome do nódulo sinusal, se estes não utilizam um pacemaker;
+•
+Doentes com intervalo QTc base ≥ 500 ms;
+•
+Mulheres grávidas e mulheres com potencial para engravidar que não utilizam métodos
+contracetivos eficazes;
+•
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes.
+
+-
+
+Fingolimod Mylan não é recomendado em doentes com:
+•
+Bloqueio cardíaco sino-auricular;
+•
+Prolongamento do intervalo QTc > 470 ms (mulheres adultas do sexo feminino), QTc
+> 460 ms (crianças do sexo feminino) ou > 450 ms (homens e crianças do sexo
+masculino);
+•
+História de paragem cardíaca;
+•
+Apneia do sono grave;
+•
+História de bradicardia sintomática;
+•
+História de síncope recorrente;
+•
+Hipertensão não controlada.
+Se o tratamento com Fingolimod Mylan for considerado nestes doentes, os benefícios
+antecipados devem superar os potenciais riscos e deverá ser consultado um cardiologista para
+determinar a monitorização apropriada. É recomendado prolongamento da monitorização pelo
+menos durante a noite.
+
+-
+
+Fingolimod Mylan não é recomendado em doentes com administração concomitante de
+medicamentos conhecidos por diminuir a frequência cardíaca. Se o tratamento for considerado
+nestes doentes, os benefícios antecipados devem superar os potenciais riscos e deverá ser
+33
+
+consultado um cardiologista para substituir o tratamento para medicamentos que não diminuam
+a frequência cardíaca ou, se não for possível, para determinar a monitorização apropriada. É
+recomendado prolongamento da monitorização pelo menos durante a noite.
+-
+
+Fingolimod Mylan reduz a contagem linfocitária do sangue periférico. A contagem de linfócitos
+periféricos do doente (hemograma) deverá ser verificada em todos os doentes antes do início do
+tratamento (com menos de 6 meses ou após interrupção de terapêutica prévia) e monitorizada
+durante o tratamento. O tratamento deverá ser interrompido se a contagem de linfócitos for
+confirmada como < 0,2 x 109/l. Deve ser utilizada a dosagem aprovada de 0,5 mg uma vez por
+dia (ou 0,25 mg uma vez por dia em doentes pediátricos com 10 ou mais anos de idade com um
+peso corporal ≤ 40 kg) ao reiniciar Fingolimod Mylan. Outros regimes de doseamento não
+foram aprovados.
+
+-
+
+Fingolimod Mylan tem um efeito imunossupressor que predispõe os doentes para um risco de
+infeção, incluindo infeções oportunistas que podem ser fatais, e aumenta o risco de desenvolver
+linfomas (incluindo micose fungoide) e outras neoplasias, particularmente a nível cutâneo. A
+monitorização deve incluir vigilância tanto para neoplasias cutâneas como para micose
+fungoide. Os médicos devem monitorizar cuidadosamente os doentes, especialmente aqueles
+com condições concomitantes ou fatores conhecidos, tais como terapêutica imunossupressora
+prévia. Em caso de suspeita deste risco, deve ser considerada pelo médico a interrupção do
+tratamento com base numa avaliação caso-a-caso.
+
+-
+
+•
+
+O início do tratamento deve ser adiado em doentes com infeção ativa grave até à sua
+resolução. A interrupção do tratamento deve ser considerada durante infeções graves. Não
+devem ser coadministradas terapêuticas imunossupressoras, imunomoduladoras ou
+antineoplásicas devido ao risco de efeitos aditivos no sistema imunitário. Pela mesma
+razão, a decisão de utilização de tratamento concomitante prolongado com
+corticosteroides deve ser tomada após uma análise cuidadosa.
+
+•
+
+É recomendada vigilância para o carcinoma basocelular e outras neoplasias cutâneas,
+incluindo melanoma maligno, carcinoma das células escamosas, sarcoma de Kaposi e
+carcinoma das células de Merkel, com uma avaliação médica da pele antes do início do
+tratamento, e depois a cada 6 a 12 meses tendo em consideração a avaliação clínica. Os
+doentes deverão ser referenciados para um dermatologista caso sejam detetadas lesões
+suspeitas. Os doentes devem ser avisados sobre a exposição solar sem proteção. Estes
+doentes não devem receber concomitantemente fototerapia com radiação UV-B ou
+fotoquimioterapia PUVA.
+
+Recomendações específicas relativas à vacinação de doentes a iniciar tratamento com
+fingolimod.
+•
+
+-
+
+Verificar o estado dos anticorpos para o vírus varicela zoster (VVZ) em doentes sem
+história clínica de varicela confirmada por um profissional de saúde ou sem
+documentação de um ciclo completo de vacinação para a varicela. Caso seja negativo, é
+recomendado um ciclo completo de vacinação com a vacina da varicela e o início do
+tratamento deve ser adiado por um mês para que ocorra o efeito total da vacinação.
+
+Os doentes devem ser instruídos a notificar imediatamente sinais e sintomas de infeções ao seu
+prescritor durante e até dois meses após o tratamento com Fingolimod Mylan.
+•
+•
+•
+
+Deve ser realizada uma avaliação diagnóstica imediata em doentes com sintomas e sinais
+consistentes com encefalite, meningite criptocócica ou meningoencefalite; caso
+diagnosticado, deve ser iniciado tratamento apropriado.
+Foram notificados casos graves com risco de vida e, por vezes, fatais de encefalite,
+meningite ou meningoencefalite causados pelos vírus herpes simples (VHS) e VVZ
+durante o tratamento com Fingolimod Mylan.
+Foram recebidas notificações de meningite criptocócica (por vezes fatal) após
+34
+
+•
+
+•
+
+aproximadamente 2-3 anos de tratamento, embora uma relação exata com a duração do
+tratamento seja desconhecida.
+Ocorreram casos de leucoencefalopatia multifocal progressiva (LMP) após
+aproximadamente 2-3 anos de tratamento monoterapêutico, embora uma relação exata
+com a duração do tratamento seja desconhecida. Os médicos devem estar vigilantes para
+sintomas clínicos ou indícios na ressonância magnética sugestivos de LMP. Em caso de
+suspeita de LMP, o tratamento com Fingolimod Mylan deve ser suspenso até a LMP ser
+excluída.
+Na experiência pós-comercialização, foram notificadas infeções pelo vírus do papiloma
+humano (VPH), incluindo papiloma, displasia, verrugas e cancro relacionado com o VPH.
+Monitorização para o cancro, incluindo o teste de Papanicolau, e vacinação para o cancro
+relacionado com o VPH são recomendados como padrão de cuidados.
+
+-
+
+Avaliação oftalmológica completa deve ser considerada:
+•
+nos 3-4 meses após o início do tratamento com Fingolimod Mylan, para deteção precoce
+de compromisso visual devido a edema macular induzido pelo fármaco;
+•
+durante o tratamento com Fingolimod Mylan em doentes com diabetes mellitus ou com
+história de uveíte.
+
+-
+
+Fingolimod Mylan é teratogénico. É contraindicado em mulheres com potencial para engravidar
+(incluindo adolescentes do sexo feminino) que não utilizam métodos contracetivos eficazes e
+em mulheres grávidas.
+•
+•
+
+•
+•
+
+•
+-
+
+Deve ser confirmado um resultado negativo do teste de gravidez antes do início do
+tratamento, e deve ser repetido em intervalos adequados.
+Mulheres com potencial para engravidar, incluindo adolescentes do sexo feminino, os
+seus pais (ou representantes legais) e cuidadores, devem ser aconselhados antes do início
+do tratamento e regularmente daí em diante sobre os riscos de Fingolimod Mylan para o
+feto, com o apoio do Cartão de alerta específico da gravidez.
+Mulheres com potencial para engravidar devem utilizar métodos contracetivos eficazes
+durante o tratamento e até dois meses após interrupção do tratamento.
+Durante o tratamento, as mulheres não podem engravidar. Se uma mulher engravidar
+durante o tratamento, o Fingolimod Mylan deve ser interrompido. Ao interromper o
+tratamento com Fingolimod Mylan devido a gravidez ou para planeamento de uma
+gravidez, deve ser considerado o potencial regresso da atividade da doença. Deve ser
+dado aconselhamento médico relativamente ao risco de efeitos prejudiciais para o feto
+associado com o tratamento com Fingolimod Mylan e devem ser realizados exames de
+ultrassonografia.
+Fingolimod Mylan deve ser interrompido 2 meses antes de planear uma gravidez.
+
+Foram notificados alguns casos de insuficiência hepática aguda que necessitaram de transplante
+de fígado e lesão hepática clinicamente significativa. Por este motivo, a função hepática deve
+ser cuidadosamente monitorizada.
+•
+•
+•
+
+Antes do início do tratamento, devem estar disponíveis níveis recentes (i.e. dentro de
+6 meses) de transaminases e bilirrubina;
+Durante o tratamento, na ausência de sintomas clínicos, as transaminases hepáticas e
+bilirrubina sérica devem ser monitorizadas aos meses 1, 3, 6, 9 e 12 de tratamento e
+periodicamente daí em diante até 2 meses após a descontinuação de Fingolimod Mylan;
+Durante o tratamento, na ausência de sintomas clínicos, se as transaminases hepáticas
+forem superiores a 3 mas inferiores a 5 vezes o limite superior normal (LSN) sem
+aumento na bilirrubina sérica, deve ser instituída monitorização mais frequente, incluindo
+medição da bilirrubina sérica e fosfatase alcalina (FA) para determinar se ocorrem
+aumentos adicionais e de modo a discernir se está presente uma etiologia alternativa para
+a disfunção hepática. Se as transaminases hepáticas forem pelo menos 5 vezes o LSN ou
+pelo menos 3 vezes o LSN associado a um aumento de bilirrubina sérica, Fingolimod
+35
+
+Mylan deve ser descontinuado. Deve-se continuar a monitorização hepática. Se os níveis
+séricos regressarem ao normal (incluindo se uma causa alternativa de disfunção hepática
+for descoberta), o tratamento com Fingolimod Mylan pode ser retomado com base numa
+avaliação cuidada do risco-benefício para o doente.
+-
+
+Deve ser utilizada a dosagem aprovada de 0,5 mg uma vez por dia (ou 0,25 mg uma vez por dia
+em doentes pediátricos com 10 ou mais anos de idade com um peso corporal ≤ 40 kg). Outros
+regimes de doseamento não foram aprovados.
+
+-
+
+Na experiência pós-comercialização, foi raramente observada exacerbação grave da doença em
+alguns doentes ao interromper o tratamento com Fingolimod Mylan. A possibilidade de
+recorrência de atividade excecionalmente elevada da doença deve ser considerada.
+
+-
+
+Foram notificados casos de convulsão, incluindo estado de mal epilético. Os médicos devem
+estar vigilantes para convulsões e especialmente nos doentes com condições subjacentes ou com
+história preexistente ou história familiar de epilepsia.
+
+-
+
+Os médicos devem reavaliar, numa base anual, o benefício do tratamento com Fingolimod
+Mylan versus o risco em cada doente, especialmente doentes pediátricos.
+
+-
+
+Os médicos devem fornecer aos doentes/pais/cuidadores o guia para o doente/pai(s)/cuidadores
+e o cartão de alerta específico da gravidez.
+
+O perfil de segurança em doentes pediátricos é similar ao dos adultos e, portanto, as advertências e
+precauções especiais de utilização para adultos aplicam-se também aos doentes pediátricos.
+Especificamente com os doentes pediátricos, os médicos devem também:
+•
+Avaliar o estado da Escala de Tanner e medir a altura e o peso como parte do padrão de
+cuidados;
+•
+Realizar monitorização cardíaca;
+•
+Ter precauções durante a administração da primeira dose/transferência de 0,25 mg para a
+dose diária de 0,5 mg, devido ao potencial para bradiarritmia;
+•
+Monitorizar o doente para sinais e sintomas de depressão e ansiedade;
+•
+Enfatizar o cumprimento da medicação e erros de medicação, especialmente
+relativamente à interrupção do tratamento e a necessidade de repetir a monitorização
+cardiovascular;
+•
+Enfatizar os efeitos imunossupressivos de Fingolimod Mylan;
+•
+Considerar um esquema de vacinação completo antes de iniciar Fingolimod Mylan;
+•
+Facultar orientações para monitorização de convulsões.
+Guia para o Doente/Pais/Cuidador
+O guia para o doente/pais/cuidador deve conter as seguintes mensagens-chave:
+O que é Fingolimod Mylan e como funciona;
+O que é a esclerose múltipla;
+Os doentes devem ler cuidadosamente o folheto informativo antes de iniciar o tratamento e
+devem guardá-lo para o caso de terem que voltar a consultá-lo durante o tratamento;
+A importância de notificar reações adversas;
+Os doentes devem efetuar um ECG inicial e uma medição da pressão arterial antes de receber a
+primeira toma de Fingolimod Mylan;
+A frequência cardíaca deverá ser monitorizada por 6 ou mais horas após a primeira toma de
+Fingolimod Mylan, incluindo verificação do pulso e da pressão arterial hora a hora. Os doentes
+poderão ser monitorizados com ECG contínuo durante as primeiras 6 horas. Um ECG às 6 horas
+também deverá ser realizado e, em algumas circunstâncias, a monitorização poderá envolver
+internamento durante a noite;
+Os doentes devem informar o médico em caso de interrupção do tratamento, uma vez que
+poderá ser necessário repetir a monitorização de primeira toma, dependendo da duração de
+36
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+interrupção e do tempo decorrido desde o início do tratamento com Fingolimod Mylan;
+Os doentes devem notificar imediatamente sintomas indicativos de diminuição da frequência
+cardíaca (tais como tonturas, vertigens, náuseas ou palpitações) após a primeira toma de
+Fingolimod Mylan;
+Fingolimod Mylan não é recomendado em doentes com doença cardíaca ou a tomar
+concomitantemente medicamentos conhecidos por diminuir a frequência cardíaca, pelo que
+deverão informar qualquer médico que estão a ser tratados com Fingolimod Mylan;
+Sinais e sintomas de infeção, que devem ser notificados imediatamente ao médico prescritor
+durante e até dois meses após o tratamento com Fingolimod Mylan, incluindo os seguintes:
+•
+Cefaleia acompanhada de rigidez no pescoço, sensibilidade à luz, febre, sintomas tipo
+gripe, náuseas, erupção cutânea, zona e/ou confusão ou crises (convulsões) (estes podem
+ser sintomas de meningite e/ou encefalite causados por uma infeção fúngica ou viral);
+•
+Sintomas como fraqueza, alterações visuais, ou sintomas novos/agravados de esclerose
+múltipla (podem ser sintomas de leucoencefalopatia multifocal progressiva [LMP]).
+A necessidade de realizar monitorização para o cancro, incluindo o teste de Papanicolau, e
+vacinação para o cancro relacionado com o VPH, como padrão de tratamento, será avaliada pelo
+médico prescritor;
+Quaisquer sintomas de compromisso visual devem ser notificados imediatamente ao prescritor
+durante e até dois meses após a suspensão do tratamento com Fingolimod Mylan;
+Fingolimod Mylan é teratogénico. Mulheres com potencial para engravidar, incluindo
+adolescentes do sexo feminino, devem:
+•
+Ser informadas antes do início do tratamento e regularmente daí em diante pelo seu
+médico acerca dos riscos graves de Fingolimod Mylan para o feto, e acerca das
+contraindicações em mulheres grávidas e em mulheres com potencial para engravidar que
+não utilizam contracetivos eficazes, com o apoio do cartão de alerta específico da
+gravidez;
+•
+Ter um teste de gravidez negativo antes de iniciar Fingolimod Mylan;
+•
+Utilizar métodos contracetivos eficazes durante e até pelo menos dois meses após a
+descontinuação do tratamento com Fingolimod Mylan;
+•
+Notificar imediatamente ao médico prescritor qualquer gravidez (planeada ou não
+planeada) durante e até dois meses após a descontinuação do tratamento com Fingolimod
+Mylan;
+Um teste da função hepática deve ser realizado antes do início do tratamento; monitorização da
+função hepática deve ser realizada nos meses 1, 3, 6, 9 e 12 durante o tratamento com
+Fingolimod Mylan e periodicamente após essa data, até 2 meses após a descontinuação de
+Fingolimod Mylan. Os doentes devem informar os seus médicos se notarem um amarelecimento
+da sua pele ou da parte branca dos seus olhos, escurecimento anormal da urina, dor no lado
+direito do estômago, cansaço, ter menos apetite do que o habitual ou náuseas e vómitos
+inexplicáveis, uma vez que estes podem ser sintomas de lesão hepática;
+Foram notificados cancros da pele em doentes com esclerose múltipla tratados com Fingolimod
+Mylan. Os doentes devem falar com o seu médico imediatamente se notarem quaisquer nódulos
+cutâneos (nódulos na pele) (por exemplo nódulos brilhantes como pérolas), manchas ou feridas
+abertas que não saram em semanas. Os sintomas de cancro da pele podem incluir o crescimento
+anormal ou alterações do tecido da pele (por exemplo sinais incomuns) com uma alteração da
+cor, forma ou tamanho ao longo do tempo;
+Pode ocorrer convulsão. O médico deve ser informado acerca da existência de história
+preexistente ou história familiar de epilepsia;
+Parar o tratamento com Fingolimod Mylan pode resultar no regresso da atividade da doença. O
+médico irá decidir se e como o doente deve ser monitorizado após interromper Fingolimod
+Mylan.
+
+Especificamente para doentes pediátricos:
+Deve ser tido em conta o seguinte:
+•
+Os médicos devem avaliar o estado da Escala de Tanner e medir a altura e o peso como parte do
+padrão de cuidados;
+37
+
+•
+•
+•
+•
+•
+•
+
+Devem ser tomadas precauções durante a primeira toma de Fingolimod Mylan e quando os
+doentes são transferidos de 0,25 para 0,5 mg uma vez por dia;
+Depressão e ansiedade são conhecidas por ocorrer com frequência aumentada na população com
+esclerose múltipla. Depressão e ansiedade também foram notificadas em doentes pediátricos
+tratados com Fingolimod Mylan;
+Diretrizes de monitorização cardíaca;
+Os doentes devem garantir o cumprimento da medicação e evitar erros de medicação,
+especialmente interrupção do tratamento, e repetir monitorização cardíaca;
+Sinais e sintomas de infeção;
+Diretrizes de monitorização de convulsões.
+
+Cartão de alerta específico da gravidez
+O Cartão de alerta específico da gravidez deve conter as seguintes mensagens-chave:
+Fingolimod Mylan é contraindicado durante a gravidez e em mulheres com potencial para
+engravidar que não utilizam contracetivos eficazes.
+Os médicos irão dar aconselhamento antes do início do tratamento e regularmente daí em diante
+acerca do risco teratogénico de Fingolimod Mylan e ações necessárias para diminuir este risco.
+As doentes devem utilizar métodos contracetivos eficazes enquanto tomam Fingolimod Mylan.
+Deve ser realizado um teste de gravidez e o resultado negativo verificado pelo médico antes de
+iniciar o tratamento. Deve ser repetido em intervalos adequados.
+As doentes serão informadas pelos seus médicos acerca da necessidade de utilizar métodos
+contracetivos eficazes durante o tratamento e durante 2 meses após interrupção.
+Os médicos irão dar aconselhamento no caso de gravidez e avaliação do resultado de qualquer
+gravidez.
+Durante o tratamento, as mulheres não devem engravidar. Se uma mulher engravidar ou
+pretender engravidar, Fingolimod Mylan deve ser interrompido.
+As doentes devem informar de imediato o seu médico se ocorrer agravamento da esclerose
+múltipla após interromper o tratamento com Fingolimod Mylan.
+
+38
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+39
+
+A. ROTULAGEM
+
+40
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM
+
+1.
+
+NOME DO MEDICAMENTO
+
+Fingolimod Mylan 0,5 mg cápsulas
+fingolimod
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 0,5 mg de fingolimod (sob a forma de cloridrato).
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Cápsula
+28 cápsulas
+30 cápsulas
+84 cápsulas
+98 cápsulas
+Embalagem calendário: 28 cápsulas
+Embalagem calendário: 84 cápsulas
+Embalagem de blister em dose unitária: 7 x 1 cápsula
+Embalagem de blister em dose unitária: 28 x 1 cápsula
+Embalagem de blister em dose unitária: 90 x 1 cápsula
+Embalagem de blister em dose unitária: 98 x 1 cápsula
+Embalagem com frasco: 90 cápsulas
+Embalagem com frasco: 100 cápsulas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral.
+Engolir cada cápsula inteira.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+41
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25 °C.
+Conservar na embalagem de origem para proteger da humidade.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Mylan Ireland Limited, Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, Irlanda.
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1573/001
+EU/1/21/1573/002
+EU/1/21/1573/003
+EU/1/21/1573/004
+EU/1/21/1573/005
+EU/1/21/1573/006
+EU/1/21/1573/007
+EU/1/21/1573/008
+EU/1/21/1573/010
+EU/1/21/1573/011
+EU/1/21/1573/012
+EU/1/21/1573/013
+EU/1/21/1573/014
+EU/1/21/1573/015
+EU/1/21/1573/016
+EU/1/21/1573/017
+EU/1/21/1573/018
+EU/1/21/1573/019
+EU/1/21/1573/020
+EU/1/21/1573/021
+EU/1/21/1573/023
+EU/1/21/1573/024
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+42
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Fingolimod Mylan 0,5 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+43
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM EXTERIOR DA EMBALAGEM MÚLTIPLA (COM BLUE BOX)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Fingolimod Mylan 0,5 mg cápsulas
+fingolimod
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 0,5 mg de fingolimod (sob a forma de cloridrato).
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Cápsula
+Embalagem múltipla: 84 (3 embalagens de 28) cápsulas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral.
+Engolir cada cápsula inteira.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25 °C.
+Conservar na embalagem de origem para proteger da humidade.
+
+44
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Mylan Ireland Limited, Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, Irlanda.
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1573/009
+EU/1/21/1573/022
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Fingolimod Mylan 0,5 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+45
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM INTERMÉDIA DA EMBALAGEM MÚLTIPLA (SEM BLUE BOX)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Fingolimod Mylan 0,5 mg cápsulas
+fingolimod
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 0,5 mg de fingolimod (sob a forma de cloridrato).
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+28 cápsulas. Componente de uma embalagem múltipla. Não pode ser vendido em separado.
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral.
+Engolir cada cápsula inteira.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25 °C.
+Conservar na embalagem de origem para proteger da humidade.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+46
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Mylan Ireland Limited, Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, Irlanda.
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1573/009
+EU/1/21/1573/022
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Fingolimod Mylan 0,5 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+47
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER
+BLISTER
+1.
+
+NOME DO MEDICAMENTO
+
+Fingolimod Mylan 0,5 mg cápsulas
+fingolimod
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Mylan Ireland Limited
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+[Para embalagens calendário]
+DOM→SEG→TER→QUA→QUI→SEX→SÁB
+Via oral
+
+48
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER
+BLISTER EM DOSE UNITÁRIA
+1.
+
+NOME DO MEDICAMENTO
+
+Fingolimod Mylan 0,5 mg cápsulas
+fingolimod
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Mylan Ireland Limited
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+49
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+FRASCO
+1.
+
+NOME DO MEDICAMENTO
+
+Fingolimod Mylan 0,5 mg cápsulas
+fingolimod
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada cápsula contém 0,5 mg de fingolimod (sob a forma de cloridrato).
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Cápsula
+90 cápsulas
+100 cápsulas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral.
+Engolir cada cápsula inteira.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25 °C.
+Conservar na embalagem de origem para proteger da humidade.
+
+50
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Mylan Ireland Limited, Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, Irlanda.
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1573/012
+EU/1/21/1573/013
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Fingolimod Mylan 0,5 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+51
+
+B. FOLHETO INFORMATIVO
+
+52
+
+Folheto informativo: Informação para o doente
+Fingolimod Mylan 0,5 mg cápsulas
+fingolimod
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+•
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+•
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+•
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+•
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Fingolimod Mylan e para que é utilizado
+O que precisa de saber antes de tomar Fingolimod Mylan
+Como tomar Fingolimod Mylan
+Efeitos indesejáveis possíveis
+Como conservar Fingolimod Mylan
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Fingolimod Mylan e para que é utilizado
+
+O que é Fingolimod Mylan
+Fingolimod Mylan contém a substância ativa fingolimod.
+Para que é utilizado Fingolimod Mylan
+Fingolimod Mylan é utilizado para o tratamento de esclerose múltipla (EM) surto-remissão nos
+adultos e em crianças e adolescentes (10 ou mais anos de idade), mais especificamente em:
+•
+Doentes que não respondem ao tratamento, apesar do tratamento com outro tratamento para a
+esclerose múltipla.
+ou
+•
+Doentes com esclerose múltipla grave em rápida evolução.
+Fingolimod Mylan não cura a esclerose múltipla, mas ajuda a diminuir o número de surtos e atrasa a
+progressão da incapacidade física devido à esclerose múltipla.
+O que é a esclerose múltipla
+A esclerose múltipla é uma doença de longa duração que afeta o sistema nervoso central (SNC),
+composto por o cérebro e a espinal medula. Na esclerose múltipla, a inflamação destrói a bainha
+protetora (chamada mielina) que envolve os nervos do SNC, impedindo os nervos de funcionarem
+normalmente. Este processo é chamado desmielinização.
+A esclerose múltipla surto-remissão é caracterizada por crises (surtos) repetidas de sintomas do
+sistema nervoso que indicam inflamação do SNC. Os sintomas variam de doente para doente, mas
+normalmente envolvem dificuldade em andar, dormência (adormecimento), problemas de visão ou
+alterações do equilíbrio. Os sintomas de um surto podem desaparecer completamente após este
+terminar, mas alguns problemas podem-se manter.
+Como atua Fingolimod Mylan
+Fingolimod Mylan ajuda na proteção contra os ataques do sistema imunitário ao SNC diminuindo a
+capacidade de alguns glóbulos brancos (linfócitos) se moverem livremente no organismo e
+impedindo-os de alcançarem o cérebro e a espinal medula. Este mecanismo limita os danos que a
+esclerose múltipla causa nos nervos. Este medicamento também reduz algumas das reações imunes do
+53
+
+seu corpo.
+
+2.
+
+O que precisa de saber antes de tomar Fingolimod Mylan
+
+Não tome Fingolimod Mylan
+•
+se tem alergia ao fingolimod ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+•
+se tem uma resposta imunitária reduzida (devido a uma síndrome de imunodeficiência, uma
+doença ou medicamentos que suprimem o sistema imunitário).
+•
+se tem uma infeção ativa grave ou infeção crónica ativa, tais como hepatite ou tuberculose.
+•
+se tem um cancro ativo.
+•
+se tem problemas de fígado graves.
+•
+se, nos últimos 6 meses, teve ataque do coração, angina, acidente vascular cerebral ou sinal
+de alerta de um acidente vascular cerebral ou alguns tipos de insuficiência cardíaca.
+•
+se tem alguns tipos de batimento cardíaco irregular ou anormal (arritmia), incluindo doentes
+nos quais o eletrocardiograma (ECG) mostra intervalo QT prolongado.
+•
+se toma ou tiver tomado recentemente algum medicamento para o batimento cardíaco
+irregular, tais como quinidina, disopiramida, amiodarona ou sotalol.
+•
+se está grávida ou é uma mulher com potencial para engravidar que não utiliza
+contracetivos eficazes.
+Se estas situações se aplicam a si ou está inseguro, informe o seu médico antes de tomar
+Fingolimod Mylan.
+Advertências e precauções
+Fale com o seu médico antes de tomar Fingolimod Mylan:
+•
+se tem problemas graves na respiração durante o sono (apneia do sono grave).
+•
+se foi informado que tem um eletrocardiograma anormal.
+•
+se sofre de sintomas de frequência cardíaca lenta (por exemplo tonturas, náuseas ou
+palpitações).
+•
+se toma ou tiver tomado recentemente medicamentos que diminuem a sua frequência
+cardíaca (tais como betabloqueadores, verapamilo, diltiazem ou ivabradina, digoxina, agentes
+anticolinesterásicos ou pilocarpina).
+•
+se tem história clínica de perda súbita de consciência ou desmaio (síncope).
+•
+se planeia ser vacinado.
+•
+se nunca teve varicela.
+•
+se tem ou teve perturbações visuais ou outros sinais de inchaço na área visual central (mácula)
+na parte posterior do olho (uma doença conhecida por edema macular, ver abaixo), inflamação
+ou infeção do olho (uveíte), ou se tem diabetes (que pode provocar problemas visuais).
+•
+se tem problemas de fígado.
+•
+se tem tensão arterial alta que não é controlada por medicamentos.
+•
+se tem problemas pulmonares graves ou tosse do fumador.
+Se estas situações se aplicam a si ou está inseguro, informe o seu médico antes de tomar
+Fingolimod Mylan.
+Frequência cardíaca lenta (bradicardia) e batimento cardíaco irregular
+No início do tratamento, ou após tomar a primeira dose de 0,5 mg quando é transferido da dose diária
+de 0,25 mg, Fingolimod Mylan faz com que a frequência cardíaca abrande. Como resultado, poderá
+sentir tonturas ou cansaço ou sentir conscientemente o seu batimento cardíaco, ou a sua pressão
+arterial pode diminuir. Se estes efeitos forem marcados, informe o seu médico, porque pode
+precisar de tratamento imediato. Este medicamento também pode causar batimento cardíaco
+irregular, principalmente após a primeira dose. O batimento cardíaco irregular normalmente regressa
+ao normal em menos de um dia. A frequência cardíaca lenta normalmente regressa ao normal ao fim
+de um mês. Normalmente, durante este período não são esperados efeitos significativos no ritmo
+cardíaco.
+54
+
+O seu médico pedirá que fique no consultório médico ou clínica durante pelo menos 6 horas após a
+toma da primeira dose de Fingolimod Mylan, ou após tomar a primeira dose de 0,5 mg quando é
+transferido da dose diária de 0,25 mg, com monitorização da tensão arterial e pulso hora a hora, para
+que possam ser tomadas medidas apropriadas caso tenha efeitos indesejáveis que podem acontecer no
+início do tratamento. Deverá ser efetuado um eletrocardiograma antes da primeira dose deste
+medicamento e após o período de monitorização de 6 horas. O seu médico poderá monitorizar o seu
+eletrocardiograma continuamente durante esse tempo. Se tiver um batimento cardíaco muito lento ou a
+diminuir após o período de 6 horas, ou se o eletrocardiograma mostra irregularidades, poderá ser
+monitorizado por um período prolongado (pelo menos 2 horas mais e possivelmente durante a noite)
+até à resolução das irregularidades. O mesmo se pode aplicar se voltar a tomar Fingolimod Mylan após
+uma pausa no tratamento, dependendo da duração da pausa e de há quanto tempo o estava a tomar
+antes da pausa.
+Se tiver, ou se estiver em risco de, batimento cardíaco anormal ou irregular, se o seu
+eletrocardiograma é anormal, ou se tem doença cardíaca ou insuficiência cardíaca, Fingolimod Mylan
+poderá não ser apropriado para si.
+Se tem história clínica de perda de consciência súbita ou frequência cardíaca diminuída, Fingolimod
+Mylan poderá não ser apropriado para si. Será avaliado por um cardiologista (especialista do coração)
+para aconselhar como iniciar o tratamento, incluindo monitorização durante a noite.
+Se toma medicamentos que podem originar diminuição da frequência cardíaca, Fingolimod Mylan
+poderá não ser apropriado para si. Será necessário ser avaliado por um cardiologista, o qual irá
+verificar se terá de substituir os seus medicamentos por outros que não diminuam a frequência
+cardíaca, de modo a permitir o tratamento com Fingolimod Mylan. Se esta substituição não for
+possível, o cardiologista aconselhará como iniciar o tratamento com Fingolimod Mylan, incluindo
+monitorização durante a noite.
+Se nunca teve varicela
+Se nunca teve varicela, o seu médico verificará a sua imunidade ao vírus que a causa (vírus varicela
+zoster). Se não tem proteção contra o vírus, pode precisar de ser vacinado antes de iniciar o tratamento
+com Fingolimod Mylan. Se for este o caso, o seu médico irá atrasar o início do tratamento até um mês
+após o ciclo completo de vacinação estar terminado.
+Infeções
+Fingolimod Mylan diminui a contagem dos glóbulos brancos (principalmente a contagem de
+linfócitos). Os glóbulos brancos lutam contra as infeções. Enquanto estiver a tomar este medicamento
+(e até 2 meses após a interrupção do tratamento), poderá ter infeções mais facilmente. Qualquer
+infeção que possa ter poderá piorar. As infeções podem ser graves e com risco de vida. Se acha que
+tem uma infeção, tem febre, sente que tem gripe, tem zona ou tem uma dor de cabeça acompanhada de
+rigidez do pescoço, sensibilidade à luz, náuseas, erupção da pele e/ou confusão ou crises (convulsões)
+(estes podem sintomas de meningite e/ou encefalite causados por uma infeção fúngica ou herpes
+vírica), contacte imediatamente o seu médico, pois pode ser considerado uma situação grave ou pode
+colocar a sua vida em risco.
+Se acredita que a sua esclerose múltipla está a piorar (por ex. fraqueza ou alterações da visão) ou se
+notar quaisquer novos sintomas, fale com o seu médico imediatamente, porque estes podem ser os
+sintomas de uma doença rara causada por infeção e chamada leucoencefalopatia multifocal
+progressiva (LMP). A LMP é uma condição séria que pode conduzir a incapacidade grave ou morte. O
+seu médico irá considerar a realização de uma ressonância magnética para avaliar esta condição e irá
+decidir se tem de parar de tomar fingolimod.
+Foram notificadas em doentes tratados com Fingolimod Mylan infeções pelo vírus do papiloma
+humano (VPH), incluindo papiloma, displasia, verrugas e cancro relacionado com o VPH. O seu
+médico irá ter em conta se necessita de receber vacinação para VPH antes de iniciar o tratamento. Se é
+uma mulher, o seu médico também irá recomendar monitorização para o VPH.
+55
+
+Edema macular
+Antes de iniciar o tratamento com Fingolimod Mylan, se tem ou teve perturbações da visão ou outros
+sinais de inchaço na área visual central (mácula) na parte posterior do olho, inflamação ou infeção do
+olho (uveíte) ou se tem diabetes, o seu médico poderá querer que faça um exame aos olhos.
+O seu médico poderá querer que efetue um exame ocular 3 a 4 meses após o início do tratamento com
+Fingolimod Mylan.
+A mácula é uma pequena área da retina na parte posterior do olho que lhe permite ver formas, cores e
+detalhes claramente e nitidamente. Fingolimod Mylan pode provocar inchaço da mácula, uma situação
+conhecida por edema macular. O inchaço acontece normalmente nos primeiros 4 meses de tratamento.
+A probabilidade de desenvolver edema macular é maior se tem diabetes ou se teve uma inflamação do
+olho designada por uveíte. Nestes casos, o seu médico poderá querer que efetue exames regulares aos
+olhos para detetar edema macular.
+Se já teve edema macular, informe o seu médico antes de iniciar o tratamento com Fingolimod Mylan.
+O edema macular pode provocar alguns dos mesmos sintomas visuais de um surto de EM (nevrite
+ótica). Os sintomas poderão não surgir logo de início. Tenha a certeza que informa o seu médico se
+acontecer qualquer alteração na sua visão.
+O seu médico poderá querer que efetue um exame ocular, especialmente se:
+•
+o centro da sua visão ficar enevoado ou com sombras.
+•
+desenvolver um ponto cego no centro da sua visão.
+•
+tiver problemas em ver cores ou pequenos detalhes.
+Testes da função hepática
+Não tome Fingolimod Mylan se tem problemas de fígado graves. Pode afetar a sua função hepática.
+Provavelmente não irá notar quaisquer sintomas, mas se notar o amarelecimento da sua pele ou das
+partes brancas dos olhos, escurecimento anormal da urina (de cor acastanhada), dor no lado direito do
+seu estômago (abdómen), cansaço, ter menos apetite do que habitualmente ou náuseas e vómitos
+inexplicáveis, informe imediatamente o seu médico.
+Se tiver algum destes sintomas após o início do tratamento com Fingolimod Mylan, informe
+imediatamente o seu médico.
+Antes, durante e após o tratamento, o seu médico irá pedir exames ao sangue para vigiar a sua função
+hepática. Se os resultados dos exames indicarem um problema com o seu fígado, poderá ter de
+interromper o tratamento com Fingolimod Mylan.
+Tensão arterial elevada
+Uma vez que Fingolimod Mylan provoca um ligeiro aumento da pressão arterial, o seu médico poderá
+querer verificar a sua pressão arterial regularmente.
+Problemas nos pulmões
+Fingolimod Mylan tem um efeito ligeiro na função pulmonar. Os doentes com problemas pulmonares
+graves ou com tosse do fumador podem ter uma maior probabilidade de desenvolverem efeitos
+indesejáveis.
+Contagem sanguínea
+O efeito desejado com o tratamento de Fingolimod Mylan é a diminuição da quantidade de glóbulos
+brancos no sangue. A quantidade de glóbulos brancos no sangue regressa aos valores normais 2 meses
+após a paragem do tratamento. Se necessitar fazer análises ao sangue, informe o médico que está a
+tomar este medicamento. Caso contrário, poderá não ser possível ao médico entender os resultados das
+análises e, para alguns tipos de análises sanguíneas, o seu médico poderá necessitar de colher mais
+sangue que o habitual.
+56
+
+Antes de iniciar o tratamento com Fingolimod Mylan, o seu médico irá confirmar se tem glóbulos
+brancos suficientes no seu sangue e poderá querer repetir a verificação regularmente. Caso não tenha
+glóbulos brancos suficientes, poderá ter de interromper o tratamento.
+Síndrome de encefalopatia posterior reversível (PRES)
+Uma condição denominada PRES foi notificada raramente em doentes com esclerose múltipla tratados
+com fingolimod. Os sintomas podem incluir dor de cabeça intensa, confusão, convulsões e alterações
+de visão. Informe o seu médico imediatamente se tiver algum destes sintomas durante o tratamento,
+porque pode ser grave.
+Cancro
+Foram notificados cancros da pele em doentes com esclerose múltipla tratados com fingolimod. Fale
+com o seu médico imediatamente se notar quaisquer nódulos cutâneos (nódulos na pele) (por exemplo
+nódulos brilhantes como pérolas), manchas ou feridas abertas que não saram em semanas. Os sintomas
+de cancro da pele podem incluir o crescimento anormal ou alterações do tecido da pele (por exemplo
+sinais incomuns) com uma alteração da cor, forma ou tamanho ao longo do tempo. Antes de iniciar o
+tratamento com Fingolimod Mylan, é necessário um exame da pele para verificar se tem quaisquer
+nódulos cutâneos (nódulos na pele). O seu médico também realizará exames regulares da pele durante
+o seu tratamento. Se desenvolver problemas na sua pele, o seu médico poderá encaminhá-lo para um
+dermatologista que, após consulta, poderá decidir que é importante que seja visto regularmente.
+Foi notificado um tipo de cancro do sistema linfático (linfoma) em doentes com esclerose múltipla
+tratados com fingolimod.
+Exposição ao sol e proteção contra o sol
+O fingolimod enfraquece o seu sistema imunitário. Isto aumenta o seu risco de desenvolver cancros,
+em particular cancros da pele. Deve limitar a sua exposição ao sol e raios UV ao:
+•
+utilizar roupa protetora apropriada.
+•
+aplicar regularmente protetor solar com um elevado grau de proteção UV.
+Lesões cerebrais invulgares associadas a surtos de esclerose múltipla
+Foram notificados em doentes tratados com fingolimod casos raros de lesões cerebrais invulgarmente
+grandes associadas a surtos de esclerose múltipla. Em caso de surtos graves, o seu médico irá
+considerar a realização de ressonância magnética para avaliar esta condição e decidirá se deve parar o
+tratamento.
+Transferência de outros tratamentos para Fingolimod Mylan
+O seu médico poderá mudá-lo diretamente de interferão beta, acetato de glatirâmero ou fumarato de
+dimetilo para Fingolimod Mylan se não tiver sinais de anomalias provocadas pelo tratamento anterior.
+O seu médico poderá ter de fazer um teste sanguíneo de modo a excluir tais anomalias. Após parar
+natalizumab, poderá ter de esperar 2-3 meses antes do início do tratamento com Fingolimod Mylan.
+Para mudá-lo de teriflunomida, o seu médico poderá aconselhá-lo a esperar algum tempo ou efetuar
+um procedimento de eliminação acelerada. Se tem sido tratado com alemtuzumab, é necessária uma
+avaliação completa e falar com o seu médico para decidir se Fingolimod Mylan é apropriado para si.
+Mulheres com potencial para engravidar
+Se utilizado durante a gravidez, Fingolimod Mylan pode causar dano ao bebé que irá nascer. Antes de
+iniciar tratamento, o seu médico irá explicar-lhe o risco e pedir-lhe que faça um teste de gravidez para
+assegurar que não está grávida. O seu médico irá dar-lhe um cartão que explica porque não deve
+engravidar enquanto toma Fingolimod Mylan. Também explica o que deve fazer para evitar
+engravidar enquanto toma este medicamento. Deve utilizar métodos contracetivos eficazes durante o
+tratamento e durante 2 meses após interromper o tratamento (ver secção “Gravidez e amamentação”).
+Agravamento da esclerose múltipla após interromper o tratamento com Fingolimod Mylan
+Não pare de tomar este medicamento ou altere a sua dose sem falar com o seu médico primeiro.
+Informe o seu médico de imediato se pensa que a sua esclerose múltipla está a piorar após ter parado o
+57
+
+tratamento com Fingolimod Mylan. Isto pode ser grave (ver “Se parar de tomar Fingolimod Mylan” na
+secção 3, e também a secção 4 “Efeitos indesejáveis possíveis”).
+Idosos
+A experiência com fingolimod em doentes idosos (com idade superior a 65 anos) é limitada. Fale com
+o seu médico se tem algumas preocupações.
+Crianças e adolescentes
+Fingolimod Mylan não se destina a utilização em crianças com menos de 10 anos de idade, uma vez
+que não foi estudado em doentes com esclerose múltipla nesta faixa etária.
+As advertências e precauções listadas acima também se aplicam a crianças e adolescentes. A seguinte
+informação é particularmente importante para crianças e adolescentes e os seus cuidadores:
+•
+Antes de iniciar Fingolimod Mylan, o seu médico irá verificar o seu estado de vacinação. Se não
+recebeu determinadas vacinas, poderá ser necessário que as receba antes que este medicamento
+possa ser iniciado.
+•
+A primeira vez que tomar Fingolimod Mylan, ou quando mudar da dose diária de 0,25 mg para
+a dose diária 0,5 mg, o seu médico irá monitorizar o seu ritmo cardíaco e batimento cardíaco
+(ver “Frequência cardíaca lenta (bradicardia) e batimento cardíaco irregular” acima).
+•
+Se tiver convulsões ou ataques antes ou enquanto toma Fingolimod Mylan, informe o seu
+médico.
+•
+Se sofre de depressão ou ansiedade ou se fica deprimido ou ansioso enquanto toma Fingolimod
+Mylan, informe o seu médico. Poderá ter de ser monitorizado de perto.
+Outros medicamentos e Fingolimod Mylan
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos. Informe o seu médico se toma algum dos seguintes medicamentos:
+•
+Medicamentos que suprimem ou alteram o sistema imunitário, incluindo outros
+medicamentos utilizados para o tratamento da esclerose múltipla, tais como interferão-beta,
+acetato de glatirâmero, natalizumab, mitoxantrona, teriflunomida, fumarato de dimetilo ou
+alemtuzumab. Não tome Fingolimod Mylan com estes medicamentos porque podem aumentar o
+efeito no sistema imunitário (ver também “Não tome Fingolimod Mylan”).
+•
+Corticosteroides, devido a um possível efeito aditivo no sistema imunitário.
+•
+Vacinas. Se necessita de uma vacina, primeiro solicite conselhos ao seu médico. Durante e até
+2 meses após o início do tratamento com Fingolimod Mylan, não lhe deverão ser administrados
+alguns tipos de vacinas (vacinas vivas atenuadas) porque podem provocar infeções que
+deveriam prevenir. Outras vacinas podem não funcionar como normalmente se administradas
+durante este período.
+•
+Medicamentos que abrandam o batimento cardíaco (por exemplo betabloqueadores, tais
+como atenolol). A administração conjunta de Fingolimod Mylan com estes medicamentos pode
+intensificar o efeito no batimento cardíaco nos primeiros dias após o início do tratamento.
+•
+Medicamentos para o batimento cardíaco irregular, tais como quinidina, disopiramida,
+amiodarona ou sotalol. Não deve utilizar Fingolimod Mylan se está a tomar algum destes
+medicamentos porque pode intensificar o efeito no batimento cardíaco irregular (ver também
+“Não tome Fingolimod Mylan”).
+•
+Outros medicamentos:
+o
+inibidores da protease, anti-infeciosos tais como cetoconazol, antifúngicos azóis,
+claritromicina ou telitromicina.
+o
+carbamazepina, rifampicina, fenobarbital, fenitoína, efavirenz ou erva de S. João
+(Hypericum perforatum) (risco potencial de reduzir a eficácia de Fingolimod Mylan).
+Gravidez e amamentação
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+antes de tomar este medicamento.
+
+58
+
+Gravidez
+Não utilize Fingolimod Mylan durante a gravidez, se está a tentar engravidar ou se é uma mulher que
+poderá engravidar e não está a utilizar métodos contracetivos eficazes. Se este medicamento for
+utilizado durante a gravidez, existe um risco de prejudicar o bebé que irá nascer. A taxa de
+malformações congénitas observadas em bebés expostos ao fingolimod durante a gravidez é cerca de
+2 vezes a taxa observada na população geral (em quem a taxa de malformações congénitas é cerca de
+2-3%). As malformações mais frequentemente notificadas incluíram malformações cardíacas, renais e
+musculoesqueléticas.
+Por este motivo, se é uma mulher com potencial para engravidar:
+•
+antes do início do tratamento com Fingolimod Mylan, o seu médico irá informá-la sobre o risco
+para o bebé que irá nascer e irá pedir que faça um teste de gravidez para garantir que não está
+grávida,
+e
+•
+deve utilizar métodos contracetivos eficazes enquanto toma este medicamento e durante os
+dois meses seguintes à paragem do tratamento para evitar engravidar. Fale com o seu médico
+sobre métodos contracetivos fiáveis.
+O seu médico irá dar-lhe um cartão que explica porque não deve engravidar enquanto toma
+Fingolimod Mylan.
+Se engravidar durante o tratamento com Fingolimod Mylan, informe imediatamente o seu
+médico. O seu médico irá decidir interromper o tratamento (ver “Se parar de tomar Fingolimod
+Mylan” na secção 3, e também a secção 4 “Efeitos indesejáveis possíveis”). Serão realizadas
+verificações pré-natais especializadas.
+Amamentação
+Não deve amamentar durante o tratamento com Fingolimod Mylan. O fingolimod pode passar
+para o leite materno e existe um risco grave de efeitos indesejáveis para o bebé.
+Condução de veículos e utilização de máquinas
+O seu médico informá-lo-á se a sua doença lhe permite conduzir, incluindo a bicicleta, e utilizar
+máquinas em segurança. Não se prevê que Fingolimod Mylan influencie a sua capacidade de conduzir
+e utilizar máquinas.
+Porém, no início do tratamento terá de ficar no consultório médico ou enfermaria durante 6 horas após
+a toma da primeira dose deste medicamento. A sua capacidade de conduzir ou utilizar máquinas
+poderá ficar diminuída durante e possivelmente após este período de tempo.
+
+3.
+
+Como tomar Fingolimod Mylan
+
+O tratamento com Fingolimod Mylan será supervisionado por um médico com experiência no
+tratamento da esclerose múltipla.
+Tome este medicamento exatamente como indicado pelo seu médico. Fale com o seu médico se tiver
+dúvidas.
+A dose recomendada é:
+Adultos
+A dose é uma cápsula de 0,5 mg por dia.
+Crianças e adolescentes (10 ou mais anos de idade)
+A dose depende do peso corporal:
+•
+Crianças e adolescentes com peso corporal igual ou inferior a 40 kg: uma cápsula de 0,25 mg
+por dia.
+59
+
+•
+
+Crianças e adolescentes com peso corporal superior a 40 kg: uma cápsula de 0,5 mg por dia.
+
+Crianças e adolescentes que iniciam com uma cápsula de 0,25 mg por dia e mais tarde atingem um
+peso corporal estável acima de 40 kg serão instruídos pelo seu médico a mudar para uma cápsula de
+0,5 mg por dia. Neste caso, é recomendado repetir o período de observação da primeira dose.
+Fingolimod Mylan só está disponível em cápsulas de 0,5 mg, que não são adequadas para crianças e
+adolescentes com um peso corporal igual ou inferior a 40 kg.
+Outros medicamentos contendo fingolimod estão disponíveis na dosagem de 0,25 mg.
+Fale com o seu médico ou farmacêutico.
+Não exceda a dose recomendada.
+Fingolimod Mylan é para administração por via oral.
+Tome Fingolimod Mylan uma vez ao dia com um copo de água. As cápsulas devem sempre ser
+engolidas intactas, sem serem abertas. Este medicamento pode ser tomado com ou sem alimentos.
+Tomar Fingolimod Mylan sempre à mesma hora irá ajudá-lo a lembrar-se de quando tem de tomar o
+seu medicamento.
+Se tem questões acerca de quanto tempo deve tomar este medicamento, fale com o seu médico ou
+farmacêutico.
+Se tomar mais Fingolimod Mylan do que deveria
+Se tomou mais Fingolimod Mylan do que deveria, contacte imediatamente o seu médico.
+Caso se tenha esquecido de tomar Fingolimod Mylan
+Se estiver a tomar este medicamento há menos de um mês e se se esquecer de uma dose durante um
+dia inteiro, fale com o seu médico antes de tomar a próxima dose. O seu médico poderá decidir
+mantê-lo sob observação na altura de tomar a próxima dose.
+Se estiver a tomar Fingolimod Mylan há pelo menos um mês e se se tiver esquecido de tomar o seu
+tratamento por mais de 2 semanas, fale com o seu médico antes de tomar a próxima dose. O seu
+médico poderá decidir mantê-lo sob observação na altura de tomar a próxima dose. No entanto, se se
+tiver esquecido de tomar o seu tratamento durante um período de até 2 semanas, pode tomar a próxima
+dose, como planeado.
+Nunca tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+Se parar de tomar Fingolimod Mylan
+Não pare de tomar este medicamento ou altere a sua dose sem falar com o seu médico primeiro.
+Fingolimod Mylan ficará no seu organismo durante 2 meses após a paragem do tratamento. A sua
+contagem de glóbulos brancos (contagem de linfócitos) pode ficar diminuída durante este tempo e os
+efeitos indesejáveis descritos neste folheto informativo podem ainda acontecer. Após parar de tomar
+este medicamento, poderá ter de esperar 6-8 semanas antes de iniciar um novo tratamento para a
+esclerose múltipla.
+Se tiver que iniciar novamente o tratamento com Fingolimod Mylan mais de 2 semanas após a sua
+paragem, pode acontecer de novo o efeito na frequência cardíaca normalmente observado na primeira
+toma e necessitará de ser monitorizado pelo médico no hospital ou clínica para o reinício do
+tratamento. Não reinicie este medicamento após 2 semanas de interrupção sem se aconselhar com o
+seu médico.
+O seu médico irá decidir se e como deve ser monitorizado após interromper Fingolimod Mylan.
+Informe o seu médico de imediato se pensa que a sua esclerose múltipla está a piorar após ter parado o
+tratamento. Isto pode ser grave.
+60
+
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não
+se manifestem em todas as pessoas.
+Alguns efeitos indesejáveis podem ser ou tornar-se graves:
+Frequentes (podem afetar até 1 em 10 pessoas)
+•
+Tosse com expetoração, desconforto no peito, febre (sinais de doenças de pulmão)
+•
+Infeção por vírus herpes (zona ou herpes zoster) com sintomas, tais como bolhas, sensação de
+ardor, comichão ou dor na pele, normalmente na parte superior do corpo ou na face. Outros
+sintomas podem ser febre e fraqueza no início da infeção, seguidos de dormência, comichão ou
+manchas vermelhas com dor intensa
+•
+Batimento cardíaco lento (bradicardia), ritmo cardíaco irregular
+•
+Um tipo de cancro na pele chamado carcinoma basocelular (CBC) que frequentemente aparece
+como um nódulo com aspeto de pérola, embora possa também assumir outras formas
+•
+Depressão e ansiedade são conhecidas por ocorrer com frequência aumentada na população com
+EM e também foram notificadas em doentes pediátricos tratados com fingolimod
+•
+Perda de peso
+Pouco frequentes (podem afetar até 1 em 100 pessoas)
+•
+Pneumonia com sintomas, tais como febre, tosse, dificuldade em respirar
+•
+Edema macular (inchaço na área central da visão da retina na parte posterior do olho) com
+sintomas, tais como sombras ou ponto cego no centro da visão, visão enevoada, dificuldade em
+ver cores ou detalhes
+•
+Redução do número de plaquetas sanguíneas, o que aumenta o risco de hemorragia ou de
+hematoma
+•
+Melanoma maligno (um tipo de cancro da pele que geralmente se desenvolve a partir de um
+sinal incomum). Possíveis sinais de melanoma incluem sinais que podem mudar de tamanho,
+forma, elevação ou cor ao longo do tempo, ou novos sinais. Os sinais podem provocar
+comichão, sangrar ou ulcerar
+•
+Convulsões, ataques (mais frequentes em crianças e adolescentes do que em adultos)
+Raros (podem afetar até 1 em 1 000 pessoas)
+•
+Uma condição designada por síndrome de encefalopatia posterior reversível (PRES). Os
+sintomas podem incluir início súbito de dor de cabeça intensa, confusão, convulsões e/ou
+distúrbios da visão
+•
+Linfoma (um tipo de cancro que afeta o sistema linfático)
+•
+Carcinoma das células escamosas: um tipo de cancro da pele que pode apresentar-se como um
+nódulo vermelho firme, uma ferida com crosta, ou uma nova ferida numa cicatriz existente
+Muito raros (podem afetar até 1 em 10 000 pessoas)
+•
+Anomalia no eletrocardiograma (inversão da onda T)
+•
+Tumor associado a infeção com vírus herpes humano tipo 8 (sarcoma de Kaposi)
+Desconhecido (a frequência não pode ser calculada a partir dos dados disponíveis)
+•
+Reações alérgicas, incluindo sintomas de erupção cutânea (erupção na pele) ou urticária com
+comichão, tumefação dos lábios, língua ou face, que têm maior probabilidade de ocorrência no
+dia em que inicia o tratamento com Fingolimod Mylan
+•
+Sinais de doença hepática (incluindo insuficiência hepática), tais como o amarelecimento da sua
+pele ou das partes brancas dos olhos (icterícia), náuseas ou vómitos, dor no lado direito do seu
+61
+
+•
+
+•
+•
+
+•
+•
+
+estômago, urina escura (de cor acastanhada), ter menos apetite do que o habitual, cansaço e
+resultados anormais nos testes de função hepática. Num pequeno número de casos, a
+insuficiência hepática pode levar a transplante do fígado.
+Risco de uma infeção rara do cérebro chamada leucoencefalopatia multifocal progressiva
+(LMP). Os sintomas da LMP podem ser semelhantes a surtos de esclerose múltipla. Podem
+surgir também sintomas sem que se dê conta por si próprio, tais como alterações de humor ou
+comportamento, lapsos de memória, dificuldades no discurso e na comunicação, que o seu
+médico poderá ter que continuar a investigar para excluir a LMP. Portanto, se acredita que a sua
+esclerose múltipla está a piorar ou se notar, ou aqueles que lhe são próximos notarem, quaisquer
+sintomas novos ou invulgares, é muito importante que fale com o seu médico assim que
+possível
+Infeções criptocócicas (um tipo de infeção fúngica), incluindo meningite criptocócica com
+sintomas como dor de cabeça acompanhada de rigidez do pescoço, sensibilidade à luz, náuseas
+e/ou confusão
+Carcinoma das células de Merkel (um tipo de cancro da pele). Possíveis sinais de carcinoma das
+células de Merkel incluem nódulo cor de carne ou vermelho-azulado, indolor, frequentemente
+na face, cabeça ou pescoço. O carcinoma das células de Merkel também se pode manifestar
+como uma massa ou nódulo indolor rígido. A exposição prolongada ao sol e um fraco sistema
+imunitário podem afetar o risco de desenvolver carcinoma das células de Merkel
+Após o tratamento com Fingolimod Mylan ser interrompido, os sintomas de esclerose múltipla
+podem regressar e podem tornar-se piores do que eram antes ou durante o tratamento.
+Forma autoimune de anemia (quantidade diminuída de eritrócitos) em que os eritrócitos são
+destruídos (anemia hemolítica autoimune).
+
+Se lhe ocorrer alguma destas situações, informe imediatamente o seu médico.
+Outros efeitos indesejáveis
+Muito frequentes (podem afetar mais de 1 em 10 pessoas)
+•
+Infeção por vírus da gripe com sintomas, tais como cansaço, arrepios, garganta inflamada, dores
+nas articulações ou músculos, febre
+•
+Sensação de pressão ou dor nas bochechas e testa (sinusite)
+•
+Dor de cabeça
+•
+Diarreia
+•
+Dor de costas
+•
+Aumento dos níveis sanguíneos das enzimas do fígado
+•
+Tosse
+Frequentes (podem afetar até 1 em 10 pessoas)
+•
+Micose, uma infeção fúngica que afeta a pele (tinha versicolor)
+•
+Tonturas
+•
+Dor de cabeça intensa acompanhada por náuseas, vómitos e sensibilidade à luz (enxaqueca)
+•
+Nível diminuído de glóbulos brancos (linfócitos, leucócitos)
+•
+Fraqueza
+•
+Irritação da pele com ardor, comichão e vermelhidão (eczema)
+•
+Comichão
+•
+Aumento dos níveis sanguíneos de certos tipos de lípidos (triglicéridos)
+•
+Perda de cabelo
+•
+Falta de ar
+•
+Depressão
+•
+Visão enevoada (ver também a secção sobre o edema macular em “Alguns efeitos indesejáveis
+podem ser ou tornar-se graves”)
+•
+Hipertensão (Fingolimod Mylan pode causar um aumento ligeiro da tensão arterial)
+•
+Dor muscular
+•
+Dor nas articulações
+62
+
+Pouco frequentes (podem afetar até 1 em 100 pessoas)
+•
+Nível diminuído de certos tipos de glóbulos brancos (neutrófilos)
+•
+Estado depressivo
+•
+Náuseas
+Raros (podem afetar até 1 em 1 000 pessoas)
+•
+Cancro do sistema linfático (linfoma)
+Desconhecido (a frequência não pode ser calculada a partir dos dados disponíveis)
+•
+Edema (inchaço) periférico
+Se alguma destas situações o afetar gravemente, informe o seu médico.
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+
+5.
+
+Como conservar Fingolimod Mylan
+
+Manter este medicamento fora da vista e do alcance das crianças.
+•
+•
+•
+•
+•
+
+6.
+
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no
+blister/frasco após “EXP”. O prazo de validade corresponde ao último dia do mês indicado.
+Não conservar acima de 25 °C.
+Conservar na embalagem de origem para proteger da humidade.
+Não utilize este medicamento se verificar que a embalagem se encontra danificada ou com
+sinais de adulteração.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a
+proteger o ambiente.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Fingolimod Mylan
+- A substância ativa é o fingolimod. Cada cápsula contém 0,5 mg de fingolimod (sob a forma de
+cloridrato).
+- Os outros componentes são:
+• Conteúdo da cápsula: hidrogenofosfato de cálcio di-hidratado, glicina, sílica coloidal anidra e
+estearato de magnésio.
+• Invólucro da cápsula: gelatina, dióxido de titânio (E171), óxido de ferro amarelo (E172) e óxido
+de ferro vermelho (E172).
+• Tinta de impressão: goma laca (E904), propilenoglicol (E1520), óxido de ferro negro (E172) e
+hidróxido de potássio.
+Qual o aspeto de Fingolimod Mylan e conteúdo da embalagem
+Uma cápsula com tampa opaca de cor castanha-alaranjada e corpo opaco branco; com “MYLAN” e
+“FD 0.5” impresso com tinta preta em cima e em baixo, respetivamente, tanto na tampa como no
+corpo.
+Fingolimod Mylan 0,5 mg cápsulas está disponível em:
+Embalagens de blister contendo 28, 30, 84 ou 98 cápsulas
+63
+
+Embalagens múltiplas contendo 3 embalagens de cartão, cada uma contendo 28 cápsulas
+Embalagens calendário contendo 28 ou 84 cápsulas
+Embalagens de blister em dose unitária contendo 7 x 1, 28 x 1, 90 x 1 ou 98 x 1 cápsulas
+Embalagens com frasco contendo 90 ou 100 cápsulas
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado
+Mylan Ireland Limited, Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, Irlanda.
+Fabricante(s)
+Mylan Hungary Kft, Mylan utca 1, Komarom, H-2900, Hungria
+Mylan Germany GmbH, Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg
+v. d. Hoehe, Hessen, 61352, Alemanha.
+
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Viatris
+Tél/Tel: + 32 (0)2 658 61 00
+
+Lietuva
+Viatris UAB
+Tel.: +370 5 205 1288
+
+България
+Майлан ЕООД
+Тел.: +359 2 44 55 400
+
+Luxembourg/Luxemburg
+Viatris
+Tél/Tel: + 32 (0)2 658 61 00
+(Belgique/Belgien)
+
+Česká republika
+Viatris CZ s.r.o.
+Tel.: + 420 222 004 400
+
+Magyarország
+Viatris Healthcare Kft.
+Tel.: + 36 1 465 2100
+
+Danmark
+Viatris ApS
+Tlf: +45 28 11 69 32
+
+Malta
+V.J. Salomone Pharma Ltd
+Tel.: + 356 21 22 01 74
+
+Deutschland
+Viatris Healthcare GmbH
+Tel.: +49 800 0700 800
+
+Nederland
+Mylan BV
+Tel.: +31 (0)20 426 3300
+
+Eesti
+Viatris OÜ
+Tel.: + 372 6363 052
+
+Norge
+Viatris AS
+Tlf: + 47 66 75 33 00
+
+Ελλάδα
+Viatris Hellas Ltd
+Τηλ: +30 2100 100 002
+
+Österreich
+Arcana Arzneimittel GmbH
+Tel.: +43 1 416 2418
+
+España
+Viatris Pharmaceuticals, S.L.U.
+Tel.: + 34 900 102 712
+
+Polska
+Mylan Healthcare Sp. z o.o.
+Tel.: + 48 22 546 64 00
+
+France
+Viatris Santé
+Tél: +33 4 37 25 75 00
+
+Portugal
+Mylan, Lda.
+Tel.: + 351 214 127 200
+64
+
+Hrvatska
+Viatris Hrvatska d.o.o.
+Tel.: +385 1 23 50 599
+
+România
+BGP Products SRL
+Tel.: +40 372 579 000
+
+Ireland
+Mylan Ireland Limited
+Tel.: +353 1 8711600
+
+Slovenija
+Viatris d.o.o.
+Tel.: + 386 1 23 63 180
+
+Ísland
+Icepharma hf
+Sími: +354 540 8000
+
+Slovenská republika
+Viatris Slovakia s.r.o.
+Tel.: +421 2 32 199 100
+
+Italia
+Viatris Italia S.r.l.
+Tel.: + 39 (0) 2 612 46921
+
+Suomi/Finland
+Viatris OY
+Puh/Tel: +358 20 720 9555
+
+Κύπρος
+Varnavas Hadjipanayis Ltd
+Τηλ: +357 2220 7700
+
+Sverige
+Viatris AB
+Tel.: + 46 (0)8630 19 00
+
+Latvija
+Viatris SIA
+Tel.: +371 676 055 80
+
+United Kingdom (Northern Ireland)
+Mylan IRE Healthcare Limited
+Tel.: +353 18711600
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+65
+
+

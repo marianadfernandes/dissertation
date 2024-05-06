@@ -1,0 +1,2645 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+NovoSeven 1 mg (50 KUI) pó e solvente para solução injetável
+NovoSeven 2 mg (100 KUI) pó e solvente para solução injetável
+NovoSeven 5 mg (250 KUI) pó e solvente para solução injetável
+NovoSeven 8 mg (400 KUI) pó e solvente para solução injetável
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+NovoSeven 1 mg (50 KUI)
+NovoSeven apresenta-se como pó e solvente para solução injetável contendo 1 mg de eptacog alfa
+(ativado) por frasco para injetáveis (correspondente a 50 KUI/frasco para injetáveis).
+NovoSeven 2 mg (100 KUI)
+NovoSeven apresenta-se como pó e solvente para solução injetável contendo 2 mg de eptacog alfa
+(ativado) por frasco para injetáveis (correspondente a 100 KUI/frasco para injetáveis).
+NovoSeven 5 mg (250 KUI)
+NovoSeven apresenta-se como pó e solvente para solução injetável contendo 5 mg de eptacog alfa
+(ativado) por frasco para injetáveis (correspondente a 250 KUI/frasco para injetáveis).
+NovoSeven 8 mg (400 KUI)
+NovoSeven apresenta-se como pó e solvente para solução injetável contendo 8 mg de eptacog alfa
+(ativado) por frasco para injetáveis (correspondente a 400 KUI/frasco para injetáveis).
+1 KUI corresponde a 1.000 UI (Unidades Internacionais).
+eptacog alfa (ativado) é o fator VIIa de coagulação recombinante (rFVIIa) com uma massa molecular
+de aproximadamente 50.000 Daltons, produzido a partir de células renais de cria de hamster (células
+BHK) por tecnologia do ADN recombinante.
+Após reconstituição, o produto contém 1 mg/ml de eptacog alfa (ativado), quando reconstituído com
+solvente.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Pó e solvente para solução injetável.
+Pó branco liofilizado. Solvente: solução límpida e incolor. A solução reconstituída tem
+aproximadamente um pH 6.0.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+NovoSeven é indicado no tratamento de episódios hemorrágicos e na prevenção de hemorragias em
+cirurgia ou em procedimentos invasivos, nos seguintes grupos de doentes:
+•
+em doentes com hemofilia hereditária com inibidores aos fatores de coagulação VIII ou IX
+> 5 Unidades Bethesda (UB)
+•
+em doentes com hemofilia hereditária nos quais é esperada uma elevada resposta anamnésica ao
+fator VIII ou fator IX
+•
+em doentes com hemofilia adquirida
+2
+
+•
+•
+
+em doentes com deficiência congénita de FVII
+em doentes com trombastenia de Glanzmann com refratariedade, prévia ou atual, a transfusões
+plaquetárias, ou em que as plaquetas não estão prontamente disponíveis.
+
+Hemorragia pós-parto grave
+NovoSeven está indicado no tratamento da hemorragia pós-parto grave, quando os medicamentos
+uterotónicos são insuficientes para alcançar a hemostase.
+4.2
+
+Posologia e modo de administração
+
+O tratamento deve ser iniciado sob a supervisão de um médico com experiência no tratamento da
+hemofilia e/ou distúrbios hemorrágicos.
+No tratamento da hemorragia pós-parto grave, deverá ser consultada uma equipa de peritos
+multidisciplinar adequada. Além dos obstetras, esta equipa inclui anestesiologistas, especialistas em
+cuidados intensivos e/ou hematologistas. As práticas de tratamento padrão devem permanecer
+implementadas, com base nas necessidades individuais da doente. A manutenção de uma concentração
+adequada de fibrinogénio e a contagem de plaquetas são recomendadas, de forma a otimizar o
+benefício do tratamento com NovoSeven.
+Posologia
+Hemofilia A ou B com inibidores ou em que seja de prever uma elevada resposta anamnéstica
+Dose
+NovoSeven deve ser administrado o mais rapidamente possível após o início de um episódio
+hemorrágico. A dose inicial recomendada, administrada por injeção intravenosa em bólus, é de 90 µg
+por kg de peso corporal.
+Após a dose inicial de NovoSeven, podem ser necessárias injeções adicionais. A duração do
+tratamento e o intervalo entre injeções variam com a gravidade da hemorragia, procedimento invasivo
+ou cirurgia realizada.
+População pediátrica
+De acordo com a experiência clínica atual, não se justifica uma diferenciação geral da posologia entre
+crianças e adultos, embora as crianças tenham uma depuração mais rápida que os adultos. Assim,
+podem ser necessárias doses de rFVIIa mais elevadas nos doentes pediátricos, de forma a atingirem
+concentrações plasmáticas semelhantes às dos adultos (ver secção 5.2).
+Intervalo entre doses
+Inicialmente 2-3 horas para obter hemostase.
+Se for necessário a continuação da terapêutica, o intervalo entre doses, após obtenção de uma
+hemostase eficaz, pode ser aumentado sucessivamente para períodos de 4, 6, 8 ou 12 horas durante o
+período de tratamento que se considere ser necessário.
+Episódios hemorrágicos ligeiros a moderados (incluindo terapêutica no domicílio)
+Foi demonstrado que a intervenção rápida no tratamento de hemorragias articulares, musculares e
+mucocutâneas ligeiras a moderadas é eficaz. Podem ser recomendados dois regimes posológicos:
+1)
+
+2)
+
+Duas a três injeções de 90 µg por kg de peso corporal, administradas em intervalos de três
+horas. Caso seja necessário continuar o tratamento, pode ser administrada uma dose adicional de
+90 µg por kg de peso corporal.
+Uma injeção única de 270 µg por kg de peso corporal.
+
+A duração da terapêutica no domicílio não deve exceder 24 horas. Só após consulta com o centro de
+tratamento de hemofilia poderá o tratamento continuado no domicílio ser considerado.
+
+3
+
+Não existe experiência clínica com a administração de uma dose única de 270 µg por kg de peso
+corporal em doentes idosos.
+Episódios hemorrágicos graves
+É recomendada uma dose inicial de 90 µg por kg de peso corporal, podendo esta ser administrada a
+caminho do hospital em que o doente é normalmente assistido. A dose seguinte varia de acordo com o
+tipo e gravidade da hemorragia. A frequência das doses deve inicialmente ser de 2 em 2 horas até se
+observar uma melhoria clínica. Se estiver indicada a continuação da terapia, o intervalo entre doses
+pode ser aumentado para 3 horas durante 1-2 dias. Posteriormente, o intervalo entre doses pode ser
+aumentado para 4, 6, 8 ou 12 horas durante o período de tratamento que se considere ser necessário.
+Um episódio hemorrágico grave pode ser tratado durante 2-3 semanas, podendo o tratamento ser
+prolongado para além deste período de tempo, se clinicamente aconselhado.
+Procedimento invasivo/cirurgia
+Uma dose inicial de 90 µg por kg de peso corporal deve ser administrada imediatamente antes da
+intervenção. A dose deve ser repetida após 2 horas e, posteriormente, em intervalos de 2-3 horas nas
+primeiras 24-48 horas, dependendo da intervenção realizada e do estado clínico do doente. Numa
+grande cirurgia, a dose deve ser continuada em intervalos de 2-4 horas durante 6-7 dias. O intervalo
+entre doses pode então ser aumentado para 6-8 horas durante mais 2 semanas de tratamento.
+Os doentes submetidos a grandes cirurgias podem ser tratados durante 2-3 semanas, até se terem
+restabelecido.
+Hemofilia adquirida
+Dose e intervalo de dose
+NovoSeven deve ser administrado o mais cedo possível após o início de um episódio hemorrágico. A
+dose inicial recomendada, que deverá ser administrada por bolus intravenoso, é de 90 µg por kg de
+peso corporal. Após a dose inicial de NovoSeven, podem ser administradas mais injeções, caso seja
+necessário. A duração do tratamento e o intervalo entre injeções dependerá da gravidade da
+hemorragia, dos procedimentos invasivos ou da cirurgia que estiver a ser efetuada.
+O intervalo de dose inicial deverá ser de 2-3 horas. Após a hemostase ter sido conseguida, o intervalo
+de dose pode ser sucessivamente aumentado para cada 4, 6, 8 ou 12 horas, durante o período de tempo
+que o tratamento for considerado necessário.
+Deficiência de fator VII
+Dose, intervalo de dose e intervalo entre doses
+O intervalo de dose recomendado nos adultos e crianças para o tratamento de episódios hemorrágicos
+e para a prevenção de hemorragias em doentes submetidos a cirurgia ou procedimentos invasivos é de
+15-30 µg por kg de peso corporal a cada 4-6 horas, até se atingir a hemostase. A dose e frequência das
+injeções devem ser adaptadas a cada indivíduo.
+População pediátrica
+Foi recolhida uma experiência clínica limitada na profilaxia a longo prazo na população pediátrica
+com idade inferior a 12 anos, com um fenótipo clínico grave (ver secção 5.1).
+A dose e frequência das injeções para profilaxia devem ser baseadas na resposta clínica e adaptadas a
+cada indivíduo.
+Trombastenia de Glanzmann
+Dose, intervalo de dose e intervalo entre doses
+A dose recomendada para o tratamento de episódios hemorrágicos e para a prevenção de hemorragias
+em doentes submetidos a cirurgia ou procedimentos invasivos é de 90 µg (80-120 µg) por kg de peso
+corporal, a intervalos máximos de duas horas (1,5 - 2,5 horas). Devem ser administradas pelo menos
+três doses para garantir uma hemostase eficaz. A via de administração recomendada é a injeção em
+bólus, uma vez que a administração em perfusão contínua pode não ser eficaz.
+4
+
+Para os doentes que não têm reações refratárias, as plaquetas são o tratamento de eleição para a
+trombastenia de Glanzmann.
+Hemorragia pós-parto grave
+Intervalo de dose e intervalo entre doses
+O intervalo de dose recomendado para o tratamento da hemorragia é 60 – 90 µg por kg de peso
+corporal, administrados por injeção de bólus intravenoso. O pico da atividade coagulante pode ser
+esperado ao fim de 10 minutos. Pode ser administrada uma segunda dose, com base na resposta clínica
+individual do doente.
+É recomendado que, em caso de uma resposta hemostática insuficiente, possa ser administrada uma
+segunda dose após 30 minutos.
+Modo de Administração
+Para instruções acerca da reconstituição do medicamento antes da administração, ver secção 6.6.
+Administrar a solução sob a forma de bólus por via intravenosa, durante 2-5 minutos.
+Monitorização do tratamento – testes laboratoriais
+Não existe necessidade de monitorização da terapêutica com NovoSeven. A gravidade da hemorragia
+e a resposta clínica à administração de NovoSeven devem guiar as necessidades posológicas.
+Foi demonstrado que após a administração de FVIIa recombinante, os tempos de protrombina (PT) e
+de tromboplastina parcial ativada (aPTT) diminuem; contudo, não foi demonstrada qualquer
+correlação entre PT e aPTT e a eficácia clínica do FVIIa recombinante.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1 ou
+a proteínas de rato, de hamster ou bovinas.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Em condições patológicas, nas quais o fator tecidular seja maior que o que se considera normal, pode
+haver um risco potencial de desenvolvimento de eventos trombóticos ou a indução de coagulação
+intravascular disseminada, associados ao tratamento com NovoSeven.
+Estas situações podem incluir doentes com arteriosclerose avançada, ferimentos por esmagamento,
+septicemia ou coagulação intravascular disseminada. Devido ao risco de complicações
+tromboembólicas, recomenda-se precaução aquando da administração de NovoSeven a doentes com
+histórico de doença coronária, a doentes com doença hepática, a doentes no pós-operatório, a mulheres
+grávidas ou no pós-parto, a recém-nascidos ou a doentes com risco de acontecimentos
+tromboembólicos ou coagulação intravascular disseminada. Em cada uma destas situações, o potencial
+benefício do tratamento com NovoSeven deverá ser avaliado face ao risco destas complicações.
+Na hemorragia pós-parto e gravidez grave, as condições clínicas (parto, hemorragia grave, transfusão,
+coagulação intravascular disseminada, cirurgia/procedimentos invasivos e coagulopatia) são
+conhecidos fatores que contribuem para o risco tromboembólico; e em especial, para o risco de
+tromboembolia venosa, associada à administração de NovoSeven (ver secção 4.8).
+Uma vez que NovoSeven, fator VIIa de coagulação recombinante, pode conter pequenas quantidades
+de IgG de rato, IgG bovina e outras proteínas de cultura residuais (proteínas séricas de hamster e
+bovinas), existe a possibilidade remota dos doentes tratados com este produto poderem desenvolver
+hipersensibilidade a estas proteínas. Nestes casos, deverá ser considerado o tratamento com antihistamínicos por via intravenosa.
+5
+
+Se ocorrerem reações de tipo alérgico ou anafilático, a administração deve ser imediatamente
+descontinuada. Em caso de choque, deve ser implementado o tratamento padrão para o choque. Os
+doentes devem ser informados sobre os sinais iniciais de reações de hipersensibilidade. Se estes
+sintomas ocorrerem, o doente deve ser aconselhado a descontinuar imediatamente a utilização do
+medicamento e a contactar o médico.
+Em casos de hemorragia grave o produto deve ser administrado de preferência em hospitais
+especializados no tratamento de doentes hemofílicos com inibidores para os fatores de coagulação
+VIII ou IX, ou, caso seja impossível, em estreita colaboração com um médico especialista no
+tratamento de hemofilia.
+Caso a hemorragia não seja controlada, é imprescindível o recurso a cuidados hospitalares. Todas as
+utilizações de NovoSeven deverão ser notificadas imediatamente pelos doentes/familiares ao
+médico/hospital que supervisiona o doente.
+Os doentes com deficiência de fator VII devem ser monitorizados no que respeita ao tempo de
+protrombina e ação coagulante do fator VII, antes e depois da administração de NovoSeven. Caso a
+ação do fator VIIa não consiga atingir o nível esperado ou não seja possível controlar a hemorragia
+após o tratamento com as doses recomendadas, poderá suspeitar-se de formação de anticorpos, pelo
+que devem ser feitas análises para despiste desta situação. Foram notificados casos de trombose em
+doentes com deficiência de FVII que receberam NovoSeven durante a cirurgia, mas desconhece-se o
+risco de trombose em doentes com deficiência do fator VII tratados com NovoSeven (ver secção 5.1).
+Teor de sódio
+O medicamento contém menos de 1 mmol de sódio (23 mg) por injeção, o que indica que é,
+basicamente, ‘isento de sódio’.
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Desconhece-se o risco de uma potencial interação entre NovoSeven e os concentrados de fatores de
+coagulação. Deve evitar-se o uso simultâneo de concentrados de complexos protrombínicos, ativados
+ou não.
+Os antifibrinolíticos reduzem a perda de sangue associada a cirurgia nos doentes hemofílicos,
+especialmente em cirurgias ortopédicas e em regiões com marcada atividade fibrinolítica, como é o
+caso da cavidade oral. Os antifibrinolíticos também são utilizados para reduzir a perda de sangue nas
+mulheres com hemorragia pós-parto. A experiência de tratamentos com administração concomitante
+de antifibrinolíticos e FVIIa recombinante é, contudo, limitada.
+Com base num estudo não clínico (ver secção 5.3), não é recomendado combinar rFVIIa e rFXIII. Não
+existem dados clínicos disponíveis sobre a interação entre rFVIIa e rFXIII.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+Como medida de precaução, é preferível evitar a utilização de NovoSeven durante a gravidez. Os
+dados relativos a um número limitado de gravidezes expostas, dentro das indicações aprovadas, não
+revelam quaisquer efeitos adversos de rFVIIa sobre a gravidez ou a saúde do feto/recém-nascido. Até
+à data, não se encontram disponíveis outros dados epidemiológicos relevantes. Os estudos em animais
+não indicam quaisquer efeitos nefastos, diretos ou indiretos, no que respeita à gravidez, ao
+desenvolvimento embrionário/fetal, parto ou ao desenvolvimento pós-natal (ver secção 5.3).
+6
+
+Amamentação
+Desconhece-se se o rFVIIa é excretado no leite humano. A excreção de rFVIIa no leite não foi
+estudada em animais. A decisão sobre continuar/descontinuar a amamentação ou
+continuar/descontinuar a terapia com NovoSeven deve ser tomada com base no benefício da
+amamentação para a criança e no benefício da terapia com NovoSeven para a mulher.
+Fertilidade
+Os dados de estudos não clínicos, bem como os dados após a comercialização, não indicam que o
+rFVIIa tenha um efeito nefasto na fertilidade feminina ou masculina.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas medicamentosas notificadas mais frequentemente são diminuição da resposta
+terapêutica, pirexia, erupção cutânea, tromboembolias venosas, prurido e urticária. Estas reações são
+notificadas como pouco frequentes (≥ 1/1.000, < 1/100).
+Resumo tabelado das reações adversas
+No Quadro 1 estão listadas as reações adversas notificadas durante os ensaios clínicos e provenientes
+de notificações espontâneas (pós-comercialização). Dentro de cada classe de frequência, são
+apresentados efeitos indesejáveis por ordem decrescente de gravidade. As reações adversas
+medicamentosas notificadas como sendo apenas provenientes da pós-comercialização (ou seja, não
+notificadas nos ensaios clínicos) são apresentadas com frequência ‘desconhecida’.
+Os ensaios clínicos realizados em 484 doentes ( incluindo 4297 episódios de tratamento) com
+hemofilia A e B, hemofilia adquirida, deficiência em fator VII ou trombastenia de Glanzmann
+demonstraram que as reações adversas medicamentosas são frequentes (≥ 1/100 a < 1/10). Uma vez
+que o número total de episódios de tratamento nos ensaios clínicos é inferior a 10.000, a frequência
+mais baixa de reações adversas medicamentosas que pode ser classificada é a frequência rara
+(≥ 1/10.000 a < 1/1.000).
+As reações adversas medicamentosas mais frequentes são a pirexia e a erupção cutânea (pouco
+frequentes: ≥ 1/1.000 a < 1/100), e as reações adversas medicamentosas mais graves incluem os
+episódios de tromboembolia venosa (pouco frequentes: ≥ 1/1.000 a < 1/100) e os episódios de
+tromboembolia arterial (raros: ≥ 1/10.000 a < 1/1.000).
+As frequências das reações adversas medicamentosas graves e não graves encontram-se descritas por
+classes de sistemas de orgãos no quadro abaixo.
+
+7
+
+Quadro 1 Reações adversas provenientes de ensaios clínicos e de notificações espontâneas (póscomercialização)
+Classe de
+sistemas de
+orgãos MedDRA
+
+Raros (≥1/10,000 to
+<1/1,000)
+
+Pouco Frequentes
+(≥1/1,000 to <1/100)
+
+Doenças do
+sangue e do
+sistema linfático
+
+-
+
+Coagulação intravascular
+disseminada (ver secção
+4.4)
+
+-
+
+Resultados laboratoriais
+relacionados, incluindo
+níveis elevados de
+dímero D e níveis
+reduzidos de AT (ver
+secção 4.4)
+
+-
+
+Coagulopatia
+
+-
+
+Náuseas
+
+-
+
+Reação no local de
+injeção incluindo dor no
+local de injeção
+
+Doenças do
+sistema
+imunitário
+
+-
+
+Hipersensibilidade (ver
+secções 4.3 e 4.4)
+
+Exames
+complementares
+de diagnóstico
+
+-
+
+Aumento dos produtos
+de degradação da fibrina
+
+-
+
+Aumento da alanina
+aminotransferase,
+fosfatase alcalina, lactato
+desidrogenase e
+protrombina
+
+-
+
+Cefaleias
+
+Doenças
+gastrointestinais
+Perturbações
+gerais e
+alterações no
+local de
+administração
+
+-
+
+Diminuição da
+resposta terapêutica*
+
+-
+
+Pirexia
+
+Doenças do
+sistema nervoso
+Afeções dos
+tecidos cutâneos
+e subcutâneos
+
+-
+
+-
+
+Erupção cutânea
+(incluindo dermatite
+alérgica e erupção
+cutânea eritematosa)
+Prurido e urticária
+
+8
+
+Frequência Desconhecida
+
+-
+
+Reação anafilática
+
+-
+
+Rubor
+
+-
+
+Angioedema
+
+Vasculopatias
+
+-
+
+Episódios
+tromboembólicos
+venosos: (trombose
+venosa profunda,
+trombose no local de
+administração i.v.,
+embolia pulmonar,
+tromboembolias do
+fígado, incluindo
+trombose da veia
+portal, trombose das
+veias renais,
+tromboflebite,
+tromboflebite
+superficial e isquémia
+intestinal)
+
+-
+
+Episódios
+tromboembólicos
+arteriais: (enfarte do
+miocárdio, enfarte
+cerebral, isquémia
+cerebral, oclusão da
+artéria cerebral, acidente
+vascular cerebral,
+trombose das artérias
+renais, isquémia
+periférica, trombose das
+artérias periféricas e
+isquémia intestinal)
+
+-
+
+Angina de peito
+
+-
+
+Trombo intracardíaco
+
+* Foi comunicada falta de eficácia (diminuição da resposta terapêutica). É importante que o regime
+posológico de NovoSeven esteja de acordo com a posologia recomendada, tal como mencionado na
+secção 4.2.
+Descrição de reações adversas selecionadas
+Formação de anticorpos inibidores
+Na experiência pós-comercialização, não houve notificações de anticorpos inibidores contra
+NovoSeven ou FVII em doentes com hemofilia A ou B. O desenvolvimento de anticorpos inibidores
+do NovoSeven foi notificado num registo observacional de doentes com deficiência congénita de
+FVII, na pós-comercialização.
+A formação de anticorpos contra NovoSeven e FVII é a única reação adversa medicamentosa
+comunicada em ensaios clínicos em doentes com deficiência do fator VII (frequência: frequentes (≥
+1/100 a < 1/10). Em dois de cinco doentes em relação aos quais foi comunicada a formação de
+anticorpos contra NovoSeven e FVII, quer em ensaios clínicos quer na pós-comercialização, os
+anticorpos mostraram um efeito inibidor in vitro. Estavam presentes fatores de risco que podem ter
+contribuído para o desenvolvimento de anticorpos, incluindo o tratamento prévio com plasma humano
+e/ou fator VII derivado do plasma, mutação grave do gene de FVII e sobredosagem de NovoSeven. Os
+doentes com deficiência de fator VII tratados com NovoSeven devem ser monitorizados para despiste
+de anticorpos contra o fator VII, (ver secção 4.4).
+Tromboembolias – arteriais e venosas
+Quando NovoSeven é administrado aos doentes fora das indicações aprovadas, as tromboembolias
+arteriais são frequentes (≥ 1/100 a < 1/10). Numa meta análise de uma pool de dados de ensaios
+controlados com placebo, fora das indicações aprovadas e realizados em vários cenários clínicos, cada
+um dos quais tendo doentes com características distintas e, portanto, com diferentes perfis de risco
+subjacentes, foi demonstrado um maior risco de acontecimentos adversos tromboembólicos arteriais
+(ver quadro: Vasculopatias) (5,6% em doentes tratados com NovoSeven versus 3,0% nos doentes
+tratados com placebo).
+A eficácia e segurança de NovoSeven não foram estabelecidas fora das indicações aprovadas e,
+portanto, NovoSeven não deve ser utilizado.
+As tromboembolias podem conduzir a paragem cardíaca.
+9
+
+Outras populações especiais
+Doentes com hemofilia adquirida
+Os ensaios clínicos realizados em 61 doentes com hemofilia adquirida, com um total de 100 episódios
+tratados, demonstraram que certas reações adversas medicamentosas foram comunicadas mais
+frequentemente (1% com base nos episódios tratados): Tromboembolias arteriais específicas (oclusão
+da artéria cerebral, acidente vascular cerebral), tromboembolias venosas específicas (embolia
+pulmonar e trombose venosa profunda), angina de peito, náuseas, pirexia, erupção cutânea eritematosa
+e investigação de níveis elevados de produtos de degradação da fibrina.
+Mulheres com hemorragia pós-parto grave
+Num ensaio clínico aberto, aleatorizado, foram notificados episódios de tromboembolia venosa em 2
+dos 51 doentes tratados com uma dose única de NovoSeven (dose média 58 µg/kg) e em nenhum dos
+33 doentes não tratados com NovoSeven; não foram notificados episódios de tromboembolia arterial
+em qualquer um dos groupos.
+Em 4 estudos não intervencionais, foram notificados episódios de tromboembolia venosa em 3 de 358
+(0,8%) doentes tratados com NovoSeven (intervalo de dose médio 63-105 µg/kg) e foram notificados
+episódios de tromboembolia arterial em 1 (0,3%) doente tratado com NovoSeven.
+Para os fatores conhecidos que contribuem para o risco tromboembólico associado à gravidez e à
+hemorragia pós-parto grave, ver secção 4.4.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+As toxicidades dose-limitativas de NovoSeven não foram investigadas em ensaios clínicos.
+Foram notificados quatro casos de sobredosagem em doentes com hemofilia num período de 16 anos.
+A única complicação notificada, relacionada com uma sobredosagem, foi um aumento ligeiro,
+transitório da pressão arterial num doente com 16 anos de idade a receber 24 mg de rFVIIa em vez de
+5,5 mg.
+Não foi notificado qualquer caso de sobredosagem em doentes com hemofilia adquirida ou
+trombastenia de Glanzmann.
+Em doentes com deficiência do fator VII, situação na qual a dose recomendada é de 15-30 µg/kg de
+rFVIIa, um caso de sobredosagem foi associado a um acontecimento trombótico (trombose occipital)
+num doente idoso (> 80 anos) tratado com uma dose 10-20 vezes superior à dose recomendada.
+Adicionalmente, o desenvolvimento de anticorpos contra NovoSeven e FVII esteve associado a
+sobredosagem num doente com deficiência do fator VII.
+A pauta posológica não deve ser intencionalmente aumentada acima das doses recomendadas, devido
+à ausência de informação sobre o risco adicional que pode estar associado.
+
+10
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Fatores de coagulação do sangue, código ATC: B02BD08
+Mecanismo de ação
+NovoSeven contém fator VII de coagulação recombinante ativado. O mecanismo de ação inclui a
+ligação do fator VIIa ao fator tecidular exposto. Este complexo ativa o fator IX em fator IXa e o fator
+X em fator Xa, dando origem à conversão inicial de pequenas quantidades de protrombina em
+trombina. A trombina conduz à ativação de plaquetas e dos fatores V e VIII no local da lesão, e à
+formação do tampão hemostático por conversão do fibrinogénio em fibrina. Doses farmacológicas de
+NovoSeven ativam diretamente o fator X na superfície das plaquetas ativadas, localizadas no local da
+lesão, independentemente do fator tecidular. Isto resulta na conversão da protrombina em grandes
+quantidades de trombina, independentemente do fator tecidular.
+Efeitos farmacodinâmicos
+O efeito farmacodinâmico do fator VIIa dá origem a uma formação local acrescida de fator Xa,
+trombina e fibrina.
+O tempo para o pico da atividade coagulante após a administração de NovoSeven foi de,
+aproximadamente, 10 minutos nos indivíduos saudáveis e nos doentes com hemofilia.
+Não é possível excluir completamente um risco teórico de desenvolvimento da ativação sistémica do
+sistema de coagulação em doentes que sofram de doenças subjacentes que predisponham para
+coagulação intravascular disseminada.
+Eficácia clínica e segurança
+Deficiência congénita de FVII
+Num registo observacional (F7HAEM-3578) de indivíduos com deficiência congénita de FVII, a dose
+média para a profilaxia a longo prazo contra a hemorragia em 22 doentes pediátricos (com idade
+inferior a 12 anos) com deficiência de Fator VII e um fenótipo clínico grave, foi de 30 µg /kg
+(intervalo entre 17 µg/kg a 200 µg/kg; a dose usada mais frequentemente foi 30 µg /kg em 10
+doentes), com uma frequência média de dose de 3 doses por semana (intervalo entre 1 a 7; a
+frequência de dose notificada mais frequentemente foi de 3 por semana em 13 doentes).
+No mesmo registo, 3 em 91 doentes submetidos a cirurgia sofreram tromboembolias.
+Trombastenia de Glanzmann
+Um registo observacional (F7HAEM-3521) abrangeu 133 indivíduos com trombastenia de Glanzmann
+tratados com NovoSeven. A dose média por perfusão para o tratamento de 333 episódios
+hemorrágicos foi de 90 µg/kg (intervalo entre 28 e 450 µg/kg). NovoSeven foi utilizado em
+157 procedimentos cirúrgicos, com uma dose média de 92 µg/kg (doses até 270 µg/kg). O tratamento
+apenas com NovoSeven ou em associação com antifibrinolíticos e/ou plaquetas, foi definido como
+eficaz quando as hemorragias pararam no mínimo durante 6 horas. As taxas de eficácia foram de 81%
+e 82% em doentes com refratariedade positiva ou negativa a transfusões plaquetárias, respetivamente,
+e de 77% e 85% em doentes com resultados positivos ou negativos de anticorpos antiplaquetários,
+respetivamente. O estado positivo indica, pelo menos, um resultado positivo em qualquer admissão.
+Hemorragia pós-parto grave
+A eficácia e segurança de NovoSeven foi avaliada em 84 mulheres com hemorragia pós-parto grave
+num ensaio clínico aberto, multicêntrico. As doentes foram aleatorizadas ou para o tratamento com
+uma dose única de 60 µg/kg de NovoSeven (em complemento ao tratamento padrão; N=42) ou para o
+11
+
+tratamento de referência (apenas tratamento padrão; N=42), após ineficácia dos medicamentos
+uterotónicos (sulprostona). Os grupos de tratamento eram bem equilibrados, no que respeita às
+características demográficas e ao tratamento da hemorragia pós-parto, antes da aleatorização. O
+fibrinogénio e o ácido tranexâmico fizeram parte do tratamento padrão.
+Estava disponível informação sobre o uso de fibrinogénio/ácido tranexâmico por parte de,
+aproximadamente, 57% das doentes no grupo de NovoSeven e em 43% das doentes no grupo de
+referência. Destas,cerca de 40% das doentes em ambos os grupos receberam fibrinogénio e/ou ácido
+tranexâmico. A hemorragia foi considerada como resolvida (ou seja, tratada com sucesso) quando o
+fluxo sanguíneo estimado diminuiu para menos de 50 ml por 10 minutos, no período de 30 minutos
+após a aleatorização. Quando não foi possível controlar a hemorragia ou não foi possível tratá-la,
+foram considerados procedimentos invasivos.
+Na análise primária, um número inferior de mulhres no grupo de NovoSeven (21 vs 35) teve, pelo
+menos, uma embolia e/ou um procedimento de laqueação, comparativamente ao grupo de referência,
+correspondendo a uma redução relativa do risco estatisticamente significativa de 40% no grupo de
+NovoSeven, em comparação com o grupo de referência (risco relativo = 0,60 (intervalo de confiança
+95%: 0,43 – 0,84, p=0,0012)).
+No grupo de referência, 8 em 42 doentes receberam mais tarde NovoSeven como tratamento
+compassivo, numa tentativa de evitar uma histerectomia de resgate, o que foi conseguido em 2 casos.
+5.2
+
+Propriedades farmacocinéticas
+
+Indivíduos saudáveis
+Distribuição, eliminação e linearidade
+Utilizando o teste de coagulação para o FVII, a farmacocinética do FVIIa recombinante foi
+investigada em 35 indivíduos Caucasianos e Japoneses saudáveis, num estudo de escalamento de dose.
+Os indivíduos foram agrupados de acordo com o género e etnia, tendo recebido 40, 80 e 160 µg de
+FVIIa recombinante por kg de peso corporal (3 doses cada) e/ou placebo. A farmacocinética foi
+semelhante quer no género quer nos grupos étnicos.
+O volume médio de distribuição no equilíbrio situou-se entre 130 e 165 ml/kg, os valores médios de
+depuração situaram-se entre 33,3 e 37,2 ml/h×kg.
+A semi-vida média terminal situou-se entre as 3,9 e a 6,0 horas.
+Os perfis farmacocinéticos indicaram proporcionalidade da dose.
+Hemofilia A e B com inibidores
+Distribuição, eliminação e linearidade
+Utilizando o teste para o FVIIa, as propriedades farmacocinéticas do FVIIa recombinante foram
+estudadas em 12 doentes pediátricos (2-12 anos de idade) e 5 adultos sem hemorragias.
+O volume médio de distribuição no equilíbrio foi de 196 ml/kg nos doentes pediátricos versus 159
+ml/kg nos adultos.
+A depuração média foi aproximadamente 50% mais elevada nos doentes pediátricos, em comparação
+com os adultos (78 versus 53 ml/h×kg), enquanto a semi-vida média terminal foi de 2,3 horas em
+ambos os grupos.
+A depuração parece estar associada à idade, pelo que nos doentes mais jovens a depuração pode
+encontrar-se aumentada em mais de 50%.
+Foi estabelecida a proporcionalidade da dose nas crianças com as doses de 90 e 180 µg por kg de peso
+corporal, a qual está de acordo com o observado anteriormente com doses inferiores (17,5 – 70 µg/kg
+rFVIIa).
+
+12
+
+Deficiência de fator VII
+Distribuição e eliminação
+A farmacocinética de doses únicas de FVIIa recombinante, 15 e 30 µg por kg de peso corporal, não
+exibiu diferenças significativas entre as duas doses usadas, no que respeita aos parâmetros
+independentes da dose:
+Volume de distribuição no estado estacionário (280 – 290 ml/kg), semi-vida (2,82 – 3,11 h),
+depuração corporal total (70,8 – 79,1 ml/h×kg) e tempo médio de permanência (3,75 – 3,80 h).
+A recuperação plasmática média in vivo foi de aproximadamente 20%.
+Trombastenia de Glanzmann
+A farmacocinética de NovoSeven em doentes com trombastenia de Glanzmann não foi investigada,
+mas é esperado que seja semelhante à farmacocinética em doentes com hemofilia A e B.
+Hemorragia pós-parto grave
+A farmacocinética de NovoSeven em doentes com hemorragia pós-parto grave não foi investigada.
+5.3
+
+Dados de segurança pré-clínica
+
+Todos os resultados nos programas de segurança pré-clínica foram relacionados com o efeito
+farmacológico do FVIIa recombinante.
+Um potencial efeito sinérgico do tratamento combinado com rFVIIa e rFXIII, num modelo
+cardiovascular avançado no macaco cynomolgus, resultou numa farmacologia exacerbada (trombose e
+morte) num nível de dose inferior ao dos compostos administrados isoladamente.
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Pó
+Cloreto de sódio
+Cloreto de cálcio di-hidratado
+Glicilglicina
+Polissorbato 80
+Manitol
+Sacarose
+Metionina
+Ácido clorídrico (para ajuste do pH)
+Hidróxido de sódio (para ajuste do pH)
+Solvente
+Histidina
+Ácido clorídrico (para ajuste do pH)
+Hidróxido de sódio (para ajuste do pH)
+Água para preparações injetáveis
+6.2
+
+Incompatibilidades
+
+NovoSeven não deve ser misturado com soluções de perfusão nem administrado gota a gota.
+
+13
+
+6.3
+
+Prazo de validade
+
+O prazo de validade para o produto embalado é de 3 anos quando o medicamento é conservado a uma
+temperatura inferior a 25ºC.
+Em frasco para injetáveis
+Após a reconstituição, a estabilidade física e química demonstrada foi de 6 horas a 25ºC e 24 horas a
+5ºC.
+Do ponto de vista microbiológico, o produto deve ser usado imediatamente. Caso não seja usado
+imediatamente, o tempo e condições de armazenamento antes da sua utilização são da
+responsabilidade do utilizador, e normalmente não devem exceder as 24 horas a 2ºC - 8ºC, a não ser
+que a reconstituição tenha sido feita em condições controladas e validadas de assepsia. A solução
+reconstituída deve ser conservada no frasco para injetáveis.
+Em seringa (50 ml polipropileno) apenas em ambiente hospitalar
+A reconstituição tem de ser feita em condições asséticas controladas e validadas por profissionais de
+saúde com a formação adequada. Nestas condições, foi demonstrada estabilidade química e física
+durante 24 horas a 25ºC, quando conservado numa seringa de 50 ml (polipropileno). Caso não seja
+utilizado imediatamente, as condições antes da utilização são da responsabilidade do utilizador e o
+tempo de armazenamento durante a utilização não pode exceder o mencionado acima.
+6.4
+
+Precauções especiais de conservação
+
+–
+–
+–
+–
+
+Conservar o pó e o solvente a uma temperatura inferior a 25ºC
+Conservar o pó e o solvente ao abrigo da luz
+Não congelar
+Condições de conservação do medicamento reconstituído, ver secção 6.3.
+
+6.5
+
+Natureza e conteúdo do recipiente
+
+O solvente de NovoSeven é fornecido numa seringa pré-cheia. É possível que não sejam
+comercializadas todas as apresentações.
+A embalagem de NovoSeven 1 mg (50 KUI)/NovoSeven 2 mg (100 KUI) contém
+–
+–
+–
+–
+
+1 frasco para injetáveis (2 ml) com pó branco para solução injetável
+1 seringa pré-cheia (3 ml) com solvente para reconstituição
+1 haste do êmbolo
+1 adaptador para frascos para injetáveis, com um filtro de partículas integrado com poros de
+25 micrómetros de dimensão.
+
+A embalagem de NovoSeven 5 mg (250 KUI)/NovoSeven 8 mg (400 KUI)
+–
+–
+–
+–
+
+1 frasco para injetáveis (12 ml) com pó branco para solução injetável
+1 seringa pré-cheia (10 ml) com solvente para reconstituição
+1 haste do êmbolo
+1 adaptador para frascos para injetáveis, com um filtro de partículas integrado com poros de
+25 micrómetros de dimensão.
+
+Frasco para injetáveis: Vidro tipo I fechado com uma rolha de borracha em clorobutilo e uma cápsula
+de alumínio. O frasco para injetáveis fechado está equipado com uma cápsula snap-off em
+polipropileno, para garantia de selagem.
+Seringa pré-cheia: Cilindro de vidro tipo I com um dispositivo de segurança em polipropileno e um
+êmbolo de borracha em bromobutilo. A cápsula da seringa é composta por borracha em bromobutilo e
+um selo em propileno.
+
+14
+
+Haste do êmbolo: É feita de polipropileno.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+O solvente de NovoSeven é fornecido numa seringa pré-cheia. É possível que não sejam
+comercializadas todas as apresentações. Os procedimentos para a utilização são descritos abaixo.
+Pó em frasco para injetáveis e solvente em seringa pré-cheia:
+Usar sempre uma técnica assética.
+Reconstituição
+•
+
+O frasco para injetáveis com o pó de NovoSeven e a seringa pré-cheia com o solvente devem
+estar à temperatura ambiente no momento da reconstituição. Retirar a cápsula plástica do frasco
+para injetáveis. Se a cápsula estiver solta ou não existir, não utilizar o frasco para injetáveis.
+Limpar a rolha de borracha do frasco com uma compressa esterilizada com álcool e deixar secar
+durante alguns segundos antes de usar. Não tocar na rolha de borracha depois de ter sido limpa.
+
+•
+
+Retirar o papel de proteção do adaptador para os frascos para injetáveis. Não tirar o adaptador
+para fora da cápsula de proteção. Se o papel de proteção não estiver completamente colocado ou
+se estiver rasgado, não utilizar o adaptador para os frascos para injetáveis. Retirar o papel de
+proteção e inserir o adaptador no frasco para injetáveis. Apertar ligeiramente a cápsula de
+proteção com o polegar e o dedo indicador. Retirar a cápsula de proteção do adaptador para os
+frascos para injetáveis.
+
+•
+
+Enroscar a haste do êmbolo, no sentido horário, no êmbolo que se encontra dentro da seringa
+pré-cheia, até sentir resistência. Retirar a cápsula da seringa pré-cheia dobrando-a para baixo até
+partir pela parte perfurada. Não tocar na ponta da seringa que se encontra sob a cápsula. Se a
+cápsula da seringa estiver solta ou não existir, não usar a seringa pré-cheia.
+
+•
+
+Enroscar firmemente a seringa pré-cheia no adaptador para os frascos para injetáveis até sentir
+resistência. Segurar a seringa pré-cheia ligeiramente inclinada, com o frasco para injetáveis para
+baixo. Pressionar a haste do êmbolo para injetar todo o solvente para dentro do frasco para
+injetáveis. Manter a haste do êmbolo pressionada e rodar lentamente o frasco para injetáveis até
+todo o pó estar dissolvido. Não agitar o frasco, dado que a agitação provocará espuma.
+
+Se for necessário administrar uma dose maior, repetir o procedimento com frascos para injetáveis,
+seringas pré-cheias e adaptadores para frascos para injetáveis adicionais.
+A solução reconstituída de NovoSeven é incolor e deverá ser observada quanto a partículas em
+suspensão e descoloração, antes da administração.
+Recomenda-se que NovoSeven seja utilizado imediatamente após a reconstituição. Para informação
+sobre as condições de conservação do medicamento reconstituído, ver secção 6.3.
+Administração
+•
+
+Manter a haste do êmbolo completamente pressionada. Pegar na seringa com o frasco para
+injetáveis virado para cima. Parar de pressionar a haste do êmbolo e deixá-la recuar por si
+própria à medida que a solução reconstituída enche a seringa. Puxe a haste do êmbolo
+ligeiramente para baixo para introduzir a solução reconstituída para dentro da seringa.
+
+•
+
+Enquanto se mantém o frasco para injetáveis virado para cima, deverá dar-se pequenos toques
+na seringa para deixar que eventuais bolhas de ar subam para o topo. Pressionar lentamente a
+haste do êmbolo até desaparecerem todas as bolhas de ar.
+
+15
+
+Se não for necessária toda a dose, utilizar a escala na seringa para ver a quantidade de solução
+reconstituída que é retirada.
+•
+
+Desenroscar o adaptador com o frasco para injetáveis.
+
+•
+
+NovoSeven encontra-se agora pronto para ser administrado. Selecionar um local adequado e
+injetar NovoSeven lentamente numa veia, durante um período de 2 – 5 minutos sem retirar a
+agulha do local de injeção.
+
+Eliminar de forma segura os materiais utilizados. Qualquer medicamento não utilizado ou resíduos
+devem ser eliminados de acordo com as exigências locais.
+Procedimento de preparação dos frascos para injetáveis para utilização apenas em meio hospitalar:
+Durante estudos in vitro, a estabilidade química e física durante a utilização foi demonstrada durante
+24 horas a 25ºC numa seringa de 50 ml (polipropileno). A compatibilidade com o medicamento foi
+demonstrada para o sistema que consiste numa seringa de 50 ml (polipropileno), um tubo de 2 m para
+perfusão (polietileno) e filtros in-line com poros entre 0,2 a 5 micrómetros de dimensão.
+Preparação dos frascos para injetáveis (utilização apenas em ambiente hospitalar):
+•
+•
+•
+•
+
+•
+•
+
+•
+•
+
+•
+
+•
+
+7.
+
+Todos os passos devem ser finalizados em condições asséticas controladas e validadas, por
+profissionais de saúde com a formação adequada.
+Se não for reconstituído, preparado ou utilizado como recomendado, os tempos e condições
+antes da utilização são da responsabilidade do utilizador.
+Assegurar que é utilizado um adaptador para frascos para injetáveis.
+Reconstituir o medicamento conforme descrito acima em Reconstituição. Desenroscar a seringa
+vazia do adaptador para frascos para injetáveis e assegurar que é colocado um adaptador para
+frascos para injetáveis no frasco que contém o medicamento reconstituído.
+Repetir o procedimento com o número adicional apropriado de frascos para injetáveis, seringas
+pré-cheias com o solvente e adaptadores para os frascos para injetáveis.
+Aspirar aproximadamente 5 ml de ar estéril para dentro da seringa de 50 ml (polipropileno).
+Enroscar firmemente a seringa no adaptador para os frascos para injetáveis até sentir resistência.
+Segurar a seringa ligeiramente inclinada, com o frasco para injetáveis para baixo. Pressionar
+suavemente a haste do êmbolo para injetar um pouco de ar para dentro do frasco para injetáveis.
+Pegar na seringa com o frasco para injetáveis virado para cima e aspirar o conteúdo do frasco
+para injetáveis para dentro da seringa.
+Repetir o procedimento descrito acima com os restantes frascos para injetáveis com o
+medicamento reconstituído, para obter o volume pretendido dentro da seringa.
+Deverá ser assegurada a utilização de um filtro in-line com poros entre 0,2 a 5 micrómetros de
+dimensão durante e administração. Assegurar que a seringa, o tubo para perfusão e o filtro inline são preparados e não contêm ar antes da administração.
+A seringa com o medicamento reconstituido adequadamente está agora pronta para
+administração com uma bomba de perfusão com marcação CE (compatível com seringas de
+50 ml).
+A bomba de perfusão só pode ser manuseada por profissionais hospitalares com a formação
+adequada.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Novo Nordisk A/S
+Novo Allé
+DK-2880 Bagsværd
+Dinamarca
+
+16
+
+8.
+
+NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+NovoSeven 1 mg (50 KUI)
+EU/1/96/006/008
+NovoSeven 2 mg (100 KUI)
+EU/1/96/006/009
+NovoSeven 5 mg (250 KUI)
+EU/1/96/006/010
+NovoSeven 8 mg (400 KUI)
+EU/1/96/006/011
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 23 de fevereiro de 1996
+Data da última renovação: 09 de fevereiro de 2006
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu/.
+
+17
+
+ANEXO II
+A.
+
+FABRICANTES DA SUBSTÂNCIA ATIVA DE ORIGEM
+BIOLÓGICA E FABRICANTE RESPONSÁVEL PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+SEGURA E EFICAZ DO MEDICAMENTO
+
+18
+
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA E FABRICANTE
+RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante da substância ativa de origem biológica
+Novo Nordisk A/S
+Hallas Allé
+DK-4400 Kalundborg
+Dinamarca
+Nome e endereço do fabricante responsável pela libertação do lote
+Novo Nordisk A/S
+Novo Allé
+DK-2880 Bagsværd
+Dinamarca
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+19
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+20
+
+A. ROTULAGEM
+
+21
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+Embalagem exterior
+
+1.
+
+NOME DO MEDICAMENTO
+
+NovoSeven 1 mg
+Pó e solvente para solução injetável
+eptacog alfa (ativado)
+
+2.
+
+DESCRIÇÃO DA SUBSTÂNCIA ATIVA
+
+eptacog alfa (ativado) 1 mg/frasco para injetáveis (50 KUI/frasco), 1 mg/ml após a reconstituição
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Cloreto de sódio, cloreto de cálcio di-hidratado, glicilglicina, polisorbato 80, manitol, sacarose,
+metionina, histidina, água para preparações injetáveis
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Cada embalagem contém:
+1 frasco para injetáveis com pó
+1 seringa pré-cheia com solvente e haste do êmbolo separada
+1 adaptador para o frasco para injetáveis, para a reconstituição
+
+5.
+
+MODO E VIA DE ADMINISTRAÇÃO
+
+Via intravenosa. Dose para administração única
+A administração deverá ser efetuada imediatamente após a reconstituição
+Consultar o folheto informativo antes de utilizar
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+22
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar a temperatura inferior a 25ºC
+Não congelar
+Conservar ao abrigo da luz
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novo Nordisk A/S
+Novo Allé
+DK-2880 Bagsværd, Dinamarca
+
+12.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/96/006/008
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+Medicamento sujeito a receita médica
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+NovoSeven 1 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+23
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+Rótulo para o frasco para injetáveis com o pó
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+NovoSeven 1 mg
+Pó para solução injetável
+eptacog alfa (ativado)
+IV
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Dose para injeção única
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+4.
+
+NÚMERO DO LOTE
+
+Lote
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 mg
+
+6.
+
+OUTRAS
+
+Novo Nordisk A/S
+
+24
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+Rótulo para a seringa pré-cheia com solvente
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+Solvente para NovoSeven
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+4.
+
+NÚMERO DO LOTE
+
+Lote
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 ml
+
+6.
+
+OUTRAS
+
+1
+2
+3
+ml
+Novo Nordisk A/S
+
+25
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+Embalagem exterior
+
+1.
+
+NOME DO MEDICAMENTO
+
+NovoSeven 2 mg
+Pó e solvente para solução injetável
+eptacog alfa (ativado)
+
+2.
+
+DESCRIÇÃO DA SUBSTÂNCIA ATIVA
+
+eptacog alfa (ativado) 2 mg/frasco para injetáveis (100 KUI/frasco), 1 mg/ml após a reconstituição
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Cloreto de sódio, cloreto de cálcio di-hidratado, glicilglicina, polisorbato 80, manitol, sacarose,
+metionina, histidina, água para preparações injetáveis
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Cada embalagem contém:
+1 frasco para injetáveis com pó
+1 seringa pré-cheia com solvente e haste do êmbolo separada
+1 adaptador para frascos para injetáveis, para a reconstituição
+
+5.
+
+MODO E VIA DE ADMINISTRAÇÃO
+
+Via intravenosa. Dose para administração única
+A administração deverá ser efetuada imediatamente após a reconstituição
+Consultar o folheto informativo antes de utilizar
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+26
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar a temperatura inferior a 25ºC
+Não congelar
+Conservar ao abrigo da luz
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novo Nordisk A/S
+Novo Allé
+DK-2880 Bagsværd, Dinamarca
+
+12.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/96/006/009
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+Medicamento sujeito a receita médica
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+NovoSeven 2 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+27
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+Rótulo para o frasco para injetáveis com o pó
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+NovoSeven 2 mg
+Pó para solução injetável
+eptacog alfa (ativado)
+IV
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Dose para injeção única
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+4.
+
+NÚMERO DO LOTE
+
+Lote
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+2 mg
+
+6.
+
+OUTRAS
+
+Novo Nordisk A/S
+
+28
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+Rótulo para a seringa pré-cheia com solvente
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+Solvente para NovoSeven
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+4.
+
+NÚMERO DO LOTE
+
+Lote
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+2 ml
+
+6.
+
+OUTRAS
+
+1
+2
+3
+ml
+Novo Nordisk A/S
+
+29
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+Embalagem exterior
+
+1.
+
+NOME DO MEDICAMENTO
+
+NovoSeven 5 mg
+Pó e solvente para solução injetável
+eptacog alfa (ativado)
+
+2.
+
+DESCRIÇÃO DA SUBSTÂNCIA ATIVA
+
+eptacog alfa (ativado) 5 mg/frasco para injetáveis (250 KUI/frasco), 1 mg/ml após a reconstituição
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Cloreto de sódio, cloreto de cálcio di-hidratado, glicilglicina, polisorbato 80, manitol, sacarose,
+metionina, histidina, água para preparações injetáveis
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Cada embalagem contém:
+1 frasco para injetáveis com pó
+1 seringa pré-cheia com solvente e haste do êmbolo separada
+1 adaptador para frascos para injetáveis, para a reconstituição
+
+5.
+
+MODO E VIA DE ADMINISTRAÇÃO
+
+Via intravenosa. Dose para administração única
+A administração deverá ser efetuada imediatamente após a reconstituição
+Consultar o folheto informativo antes de utilizar
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+30
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar a temperatura inferior a 25ºC
+Não congelar
+Conservar ao abrigo da luz
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novo Nordisk A/S
+Novo Allé
+DK-2880 Bagsværd, Dinamarca
+
+12.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/96/006/010
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+Medicamento sujeito a receita médica
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+NovoSeven 5 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+31
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+Rótulo para o frasco para injetáveis com o pó
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+NovoSeven 5 mg
+Pó para solução injetável
+eptacog alfa (ativado)
+IV
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Dose para injeção única
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+4.
+
+NÚMERO DO LOTE
+
+Lote
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+5 mg
+
+6.
+
+OUTRAS
+
+Novo Nordisk A/S
+
+32
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+Rótulo para a seringa pré-cheia com solvente
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+Solvente para NovoSeven
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+4.
+
+NÚMERO DO LOTE
+
+Lote
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+5 ml
+
+6.
+
+OUTRAS
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+ml
+Novo Nordisk A/S
+
+33
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+Embalagem exterior
+
+1.
+
+NOME DO MEDICAMENTO
+
+NovoSeven 8 mg
+Pó e solvente para solução injetável
+eptacog alfa (ativado)
+
+2.
+
+DESCRIÇÃO DA SUBSTÂNCIA ATIVA
+
+eptacog alfa (ativado) 8 mg/frasco para injetáveis (400 KUI/frasco), 1 mg/ml após a reconstituição
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Cloreto de sódio, cloreto de cálcio di-hidratado, glicilglicina, polisorbato 80, manitol, sacarose,
+metionina, histidina, água para preparações injetáveis
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Cada embalagem contém:
+1 frasco para injetáveis com pó
+1 seringa pré-cheia com solvente e haste do êmbolo separada
+1 adaptador para frascos para injetáveis, para a reconstituição
+
+5.
+
+MODO E VIA DE ADMINISTRAÇÃO
+
+Via intravenosa. Dose para administração única
+A administração deverá ser efetuada imediatamente após a reconstituição
+Consultar o folheto informativo antes de utilizar
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+34
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar a temperatura inferior a 25ºC
+Não congelar
+Conservar ao abrigo da luz
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novo Nordisk A/S
+Novo Allé
+DK-2880 Bagsværd, Dinamarca
+
+12.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/96/006/011
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+Medicamento sujeito a receita médica
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+NovoSeven 8 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+35
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+Rótulo para o frasco para injetáveis com o pó
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+NovoSeven 8 mg
+Pó para solução injetável
+eptacog alfa (ativado)
+IV
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Dose para injeção única
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+4.
+
+NÚMERO DO LOTE
+
+Lote
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+8 mg
+
+6.
+
+OUTRAS
+
+Novo Nordisk A/S
+
+36
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+Rótulo para a seringa pré-cheia com solvente
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+Solvente para NovoSeven
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+4.
+
+NÚMERO DO LOTE
+
+Lote
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+8 ml
+
+6.
+
+OUTRAS
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+ml
+Novo Nordisk A/S
+
+37
+
+B. FOLHETO INFORMATIVO
+
+38
+
+Folheto informativo: Informação para o utilizador
+NovoSeven 1 mg (50 KUI) pó e solvente para solução injetável
+NovoSeven 2 mg (100 KUI) pó e solvente para solução injetável
+NovoSeven 5 mg (250 KUI) pó e solvente para solução injetável
+NovoSeven 8 mg (400 KUI) pó e solvente para solução injetável
+eptacog alfa (ativado)
+Leia com atenção todo este folheto antes de administrar esta injeção, pois contém informação
+importante para si.
+•
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+•
+Caso ainda tenha dúvidas, fale com o seu médico.
+•
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial, mesmo que apresentem os mesmos sinais de doença.
+•
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico. Ver secção 4.
+O que contém este folheto:
+1.
+O que é NovoSeven e para que é utilizado
+2.
+O que precisa de saber antes de utilizar NovoSeven
+3.
+Como utilizar NovoSeven
+4.
+Efeitos indesejáveispossíveis
+5.
+Como conservar NovoSeven
+6.
+Conteúdo da embalagem e outras informações
+Verso: Instruções sobre como utilizar NovoSeven
+
+1.
+
+O que é NovoSeven e para que é utilizado
+
+NovoSeven é um fator de coagulação do sangue. A sua ação é a de coagular o sangue no local da
+hemorragia quando os fatores de coagulação do corpo não funcionam.
+NovoSeven é utilizado para tratar hemorragias e para prevenir o sangramento excessivo após a
+cirurgia ou outros tratamentos importantes. O tratamento atempado com NovoSeven reduz a
+quantidade e duração do sangramento. Funciona em todos os tipos de hemorragias, incluindo
+hemorragias das articulações. Isto reduz a necessidade de hospitalização e os dias de ausência no
+trabalho e na escola.
+É usado em certos grupos de pessoas:
+•
+Se nasceu com hemofilia hereditária e não responde normalmente ao tratamento com os fatores
+VIII ou IX
+•
+Se tem hemofilia adquirida
+•
+Se tem deficiência de Fator VII
+•
+Se tem trombastenia de Glanzmann (um distúrbio hemorrágico) e a sua situação não pode ser
+tratada de forma eficaz com uma transfusão de plaquetas, ou se as plaquetas não estão
+prontamente disponíveis.
+NovoSeven também lhe pode ser administrado por um médico para tratar o sangramento intenso após
+o parto do seu bebé, mesmo que não tenha qualquer doença hemorrágica.
+
+39
+
+2.
+
+O que precisa de saber antes de utilizar NovoSeven
+
+Não utilize NovoSeven
+•
+Se tem alergia a eptacog alfa (substância ativa de NovoSeven) ou a quaisquer outros
+componentes deste medicamento (indicados na secção 6.1).
+•
+Se tem alergia às proteínas de rato, hamster ou bovinas (tais como as do leite de vaca).
+►
+
+Se alguma destas situações se aplicar a si, não use NovoSeven. Fale com o seu médico.
+
+Advertências e precauções
+Antes do tratamento com NovoSeven, assegure-se de que o seu médico está informado sobre:
+•
+Se foi submetido a cirurgia recentemente
+•
+Se sofreu recentemente lesões por esmagamento
+•
+Se as suas artérias estão mais estreitas devido a doença (aterosclerose)
+•
+Se tem um risco aumentado de coágulos sanguíneos (trombose)
+•
+Se tem uma doença grave do fígado
+•
+Se tem alguma infeção sanguínea grave
+•
+Se tem tendência para coagulação intravascular disseminada (uma situação em que se
+desenvolvem coágulos sanguíneos por toda a corrente sanguínea), tem de ser cuidadosamente
+vigiado.
+►
+
+Se alguma destas situações se aplicar a si, fale com o seu médico antes de administrar a injeção.
+
+Outros medicamentos e NovoSeven
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente ou se vier a
+tomar outros medicamentos.
+Não utilize ao mesmo tempo NovoSeven e concentrados de complexo protrombínico ou rFXIII. Se
+também usa medicamentos com Fator VIII ou IX deve falar com o seu médico antes de usar
+NovoSeven.
+A experiência com a utilização de NovoSeven em conjunto com os chamados medicamentos
+antifibrinolíticos (tais como ácido aminocapróico ou ácido tranexâmico), que também são usados para
+controlar as hemorragias, é limitada. Deverá falar com o seu médico antes de utilizar NovoSeven com
+estes medicamentos.
+Gravidez, amamentação e fertilidade
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+antes de utilizar NovoSeven.
+Condução de veículos e utilização de máquinas
+Não existem estudos sobre o efeito de NovoSeven na capacidade para conduzir e utilizar máquinas.
+Contudo, não há qualquer razão médica para se pensar que a sua capacidade possa ser afetada.
+NovoSeven contém sódio
+Este medicamento contém menos de 1 mmol de sódio (23 mg) por injeção, ou seja, é basicamente
+‘isento de sódio’.
+
+3.
+
+Como utilizar NovoSeven
+
+O pó de NovoSeven tem de ser reconstituído com o respetivo solvente e injetado numa veia. Para
+instruções pormenorizadas, veja o verso da página.
+
+40
+
+Quando deve tratar-se a si próprio
+Comece o tratamento de uma hemorragia o mais cedo possível, de preferência dentro de um período
+de 2 horas.
+•
+Nos casos de hemorragia ligeira ou moderada, deve tratar-se o mais cedo possível, de
+preferência no domicílio.
+•
+
+No caso de uma hemorragia grave, deve contactar o seu médico. Geralmente, as hemorragias
+graves são tratadas no hospital e pode administrar a primeira dose de NovoSeven a si próprio a
+caminho do hospital.
+
+Não se trate a si próprio durante mais de 24 horas sem consultar o seu médico.
+•
+Cada vez que usar NovoSeven informe o seu médico ou o hospital o mais cedo possível.
+•
+Se a hemorragia não for controlada em 24 horas, contacte o seu médico imediatamente.
+Geralmente, irá necessitar de tratamento hospitalar.
+Dose
+A primeira dose deve ser administrada o mais cedo possível, após o início da hemorragia. Fale com o
+seu médico sobre quando e durante quanto tempo deve administrar as injeções.
+A dose será determinada pelo seu médico, com base no seu peso corporal, estado clínico e tipo de
+hemorragia.
+Para alcançar os melhores resultados, siga cuidadosamente a dose que lhe foi receitada. O seu médico
+poderá alterar a dose.
+Se tem hemofilia:
+A dose habitual é de 90 microgramas por cada quilograma de peso; pode repetir a injeção a cada 2–3
+horas, até a hemorragia estar controlada. O seu médico pode recomendar uma dose única de 270
+microgramas por cada quilograma de peso corporal. Não existe experiência clínica com esta dose
+única em pessoas com mais de 65 anos de idade.
+Se tem deficiência de Fator VII:
+O intervalo de dose habitual é de 15 a 30 microgramas por cada quilograma de peso, para cada
+injeção.
+Se tem trombastenia de Glanzmann:
+A dose habitual é de 90 microgramas (80-120 microgramas) por cada quilograma de peso, para cada
+injeção.
+Se injetar mais NovoSeven do que deveria
+Se injetou demasiado NovoSeven, consulte imediatamente o médico.
+Caso se tenha esquecido de administrar uma injeção de NovoSeven
+Se se esqueceu de uma injeção ou se quer parar o tratamento, consulte o seu médico.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não
+se manifestem em todas as pessoas.
+Efeitos indesejáveis graves
+Raros (podem afetar até 1 em 1.000 episódios de tratamento)
+•
+Reações alérgicas, de hipersensibilidade ou anafiláticas. Os sinais podem incluir erupções na
+pele, comichão, vermelhidão e erupção na pele com comichão; pieira ou dificuldade em
+respirar; sensação de desmaio ou tonturas e inchaço grave dos lábios ou garganta, ou no local da
+injeção.
+•
+Coágulos de sangue em artérias no coração (que podem conduzir a um ataque de coração ou a
+angina), no cérebro (que podem conduzir a uma trombose) ou no intestino e rins. Os sinais
+41
+
+podem incluir dor aguda no peito, falta de ar, confusão, dificuldade em falar ou em movimentarse (paralesia) ou dor abdominal.
+Pouco frequentes (podem afetar até 1 em 100 episódios de tratamento)
+•
+Coágulos de sangue em veias nos pulmões, pernas, fígado, rins ou no local da injeção. Os sinais
+podem incluir dificuldade em respirar, inchaço vermelho e doloroso nas pernas e dor abdominal.
+•
+Falta de efeito ou diminuição da resposta ao tratamento.
+►
+
+Se sentir algum destes efeitos indesejáveis graves, procure ajuda médica imediatamente.
+Explique que tem estado a utilizar NovoSeven.
+
+Relembre o seu médico caso tenha antecedentes clínicos de reações alérgicas, pois pode ter
+necessidade de ser vigiado mais cuidadosamente. Na maioria dos casos de coágulos de sangue, os
+doentes apresentavam predisposição para alterações da coagulação sanguínea.
+Outros efeitos indesejáveis raros
+(podem afetar até 1 em 1.000 episódios de tratamento)
+•
+Náuseas (sensação de má disposição)
+•
+Dor de cabeça
+•
+Alterações em algumas análises ao fígado e ao sangue.
+Outros efeitos indesejáveis pouco frequentes
+(podem afetar até 1 em 100 episódios de tratamento)
+•
+Reações alérgicas na pele, incluindo erupção na pele, comichão e erupção na pele com
+comichão
+•
+Febre.
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico. Também poderá comunicar efeitos indesejáveis diretamente através do
+sistema nacional de notificação mencionado no Apêndice V. Ao comunicar efeitos indesejáveis, estará
+a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+5.
+
+Como conservar NovoSeven
+
+•
+•
+
+Mantenha este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior. O
+prazo de validade corresponde ao último dia do mês indicado.
+Conserve o pó e o solvente a temperatura inferior a 25ºC.
+Conserve o pó e o solvente ao abrigo da luz.
+Não congele.
+Utilize NovoSeven imediatamente após ter misturado o pó com o solvente, para evitar uma
+infeção. Se não puder utilizar imediatamente após a mistura, deve conservá-lo no frasco para
+injetáveis com o adaptador e a seringa ainda colocados, no frigorífico entre 2ºC a 8ºC, durante
+não mais de 24 horas. Não congele a solução misturada de NovoSeven e mantenha-a ao abrigo
+da luz. Não conserve a solução sem o conselho do seu médico ou enfermeiro.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a
+proteger o ambiente.
+
+•
+•
+•
+•
+
+•
+
+42
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de NovoSeven
+•
+A substância ativa é o fator VIIa de coagulação recombinante (eptacog alfa ativado).
+•
+Os outros componentes do pó são cloreto de sódio, cloreto de cálcio di-hidratado, glicilglicina,
+polisorbato 80, manitol, sacarose, metionina, ácido clorídrico, hidróxido de sódio. Os
+componentes do solvente são a histidina, ácido clorídrico, hidróxido de sódio, água para
+preparações injetáveis.
+O pó para a solução injetável contém: 1 mg/frasco para injetáveis (correspondente a 50 KUI/frasco),
+2 mg/frasco para injetáveis (correspondente a 100 KUI/frasco), 5 mg/frasco para injetáveis
+(correspondente a 250 KUI/frasco) ou 8 mg/frasco para injetáveis (correspondente a 400 KUI/frasco).
+Após a reconstituição, 1 ml de solução contém 1 mg de eptacog alfa (ativado).
+1 KUI corresponde a 1.000 UI (Unidades Internacionais).
+Qual o aspeto de NovoSeven e conteúdo da embalagem
+O frasco para injetáveis com pó contém um pó branco e a seringa pré-cheia contém uma solução
+transparente e incolor. A solução reconstituída é incolor. Não utilize a solução reconstituída se notar
+que existem partículas ou que está descolorada.
+Cada embalagem de NovoSeven contém:
+•
+1 frasco para injetáveis com pó branco para solução injetável
+•
+1 adaptador para frascos para injetáveis
+•
+1 seringa pré-cheia com solvente para reconstituição
+•
+1 haste do êmbolo
+Apresentações: 1 mg (50 KUI), 2 mg (100 KUI), 5 mg (250 KUI) e 8 mg (400 KUI).
+Consulte a embalagem exterior para saber qual é a apresentação.
+Titular da Autorização de Introdução no Mercado e Fabricante
+Novo Nordisk A/S
+Novo Allé
+DK-2880 Bagsværd, Dinamarca
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+43
+
+Instruções sobre como utilizar NovoSeven
+LEIA ATENTAMENTE ESTAS INSTRUÇÕES ANTES DE UTILIZAR NOVOSEVEN
+NovoSeven é fornecido sob a forma de um pó. Antes da injeção (administração) tem que ser reconstituído
+com o solvente fornecido na seringa. O solvente é uma solução de histidina. NovoSeven reconstituído deve
+ser injetado na sua veia (injeção intravenosa). O material contido nesta embalagem foi concebido para
+reconstituir e injetar NovoSeven.
+Também irá precisar de um kit de administração (tubos e agulha butterfly, compressas com álcool
+esterilizadas, compressas de gaze e pensos). Estes dispositivos não se encontram incluídos na embalagem
+de NovoSeven.
+Não utilize o material sem o seu médico ou enfermeiro lhe terem dado a formação adequada.
+Lave sempre as mãos e assegure-se de que a área à sua volta está limpa.
+Quando prepara e injeta um medicamento diretamente numa veia, é importante utilizar uma técnica limpa
+e livre de bactérias (assética). Uma técnica não apropriada pode introduzir bactérias que podem infetar o
+sangue.
+Não abra o material até estar preparado para utilizá-lo.
+Não utilize o material caso tenha caído ou esteja danificado. Neste caso, utilize uma embalagem nova.
+Não utilize o material após o prazo de validade. Nesta situação, utilize uma embalagem nova. O prazo de
+validade está impresso na embalagem exterior, no frasco para injetáveis, no adaptador para o frasco para
+injetáveis e na seringa pré-cheia, após “VAL.”.
+Não utilize o material se suspeitar que está contaminado. Neste caso, utilize uma embalagem nova.
+Não deite fora qualquer um dos componentes até ter terminado a injeção da solução reconstituída.
+O material destina-se a uma única utilização.
+Conteúdo
+A embalagem contém:
+•
+•
+•
+•
+
+1 frasco para injetáveis com o pó de NovoSeven
+1 adaptador para os frascos para injetáveis
+1 seringa pré-cheia com o solvente
+1 haste do êmbolo (colocada sob a seringa)
+
+44
+
+Diagrama
+Frasco para injetáveis com o pó
+de NovoSeven
+Cápsula plástica
+Rolha de borracha
+(sob a cápsula
+plástica)
+
+Adaptador para os frascos
+para injetáveis
+Cápsula de proteção
+
+Espigão
+(sob o papel de proteção)
+
+Papel de
+proteção
+
+Seringa pré-cheia com o solvente
+Ponta da seringa
+(sob a cápsula da
+seringa)
+
+Êmbolo
+Escala
+
+Cápsula da seringa
+
+Haste do êmbolo
+Rosca
+Extremidade
+larga
+
+45
+
+1. Preparação do frasco para
+injetáveis e da seringa
+•
+
+Retire o número de embalagens
+de NovoSeven de que necessita.
+
+•
+
+Verifique a data de validade.
+
+•
+
+Verifique o nome, dosagem e
+cor da embalagem, para se
+certificar de que contém o
+medicamento certo.
+
+•
+
+Lave as mãos e seque-as
+adequadamente, utilizando uma
+toalha limpa ou deixando-as secar
+ao ar.
+
+•
+
+Retire da embalagem o frasco
+para injetáveis, o adaptador do
+frasco para injetáveis e a
+seringa pré-cheia. Mantenha a
+haste do êmbolo dentro da
+embalagem sem lhe tocar.
+
+•
+
+Deixe que o frasco para
+injetáveis e a seringa pré-cheia
+atinjam a temperatura
+ambiente (inferior a 37°C). Isso
+pode ser feito mantendo o frasco
+e a seringa nas mãos até os sentir
+à mesma temperatura das suas
+mãos.
+
+•
+
+Não utilize qualquer outro meio
+para aquecer o frasco para
+injetáveis e a seringa pré-cheia.
+
+•
+
+Retire a cápsula plástica do
+frasco para injetáveis.
+Se a cápsula plástica estiver
+solta ou não existir, não utilize
+o frasco para injetáveis.
+
+•
+
+Limpe a rolha de borracha com
+uma compressa esterilizada com
+álcool e deixe secar ao ar durante
+alguns segundos antes de usar,
+para garantir que fica o mais livre
+possível de bactérias.
+
+•
+
+Não toque na rolha de borracha
+com os dedos, pois pode
+transferir bactérias.
+
+A
+
+B
+
+2. Inserção do adaptador para os
+frascos para injetáveis
+46
+
+•
+
+Retire o papel de proteção do
+adaptador para os frascos para
+injetáveis.
+
+C
+
+Se o papel de proteção não
+estiver completamente colocado
+ou se estiver rasgado, não
+utilize o adaptador para os
+frascos para injetáveis.
+Não tire o adaptador para fora
+da cápsula de proteção com os
+dedos. Se tocar no espigão do
+adaptador para os frascos para
+injetáveis, os seus dedos podem
+transferir bactérias.
+•
+
+•
+
+Coloque o frasco para injetáveis
+numa superfície plana e sólida.
+
+D
+
+Vire a cápsula de proteção para
+baixo e insira o adaptador no
+frasco para injetáveis.
+Depois de colocado, não retire o
+adaptador do frasco para
+injetáveis.
+
+•
+
+Aperte ligeiramente a cápsula
+de proteção com o polegar e o
+dedo indicador, conforme é
+demonstrado.
+
+E
+
+Retire a cápsula de proteção do
+adaptador para os frascos para
+injetáveis.
+Não levante o adaptador do
+frasco para injetáveis quando
+retirar a cápsula de proteção.
+3. Colocação da haste do êmbolo na
+seringa
+•
+
+F
+
+Pegue na haste do êmbolo pela
+extremidade mais larga e retire-a
+da embalagem. Não toque nos
+lados ou na rosca da haste do
+êmbolo. Se tocar nos lados ou na
+rosca, os seus dedos podem
+transferir bactérias.
+Ligue imediatamente a haste do
+êmbolo à seringa, enroscando-a
+no sentido dos ponteiros do
+relógio ao êmbolo que se encontra
+47
+
+dentro da seringa pré-cheia, até
+sentir resistência.
+•
+
+Retire a cápsula da seringa précheia dobrando-a para baixo até
+partir pela parte perfurada.
+
+G
+
+Não toque na ponta da seringa
+que se encontra sob a cápsula.
+Se tocar na ponta da seringa, os
+seus dedos podem transferir
+bactérias.
+
+•
+
+Se a cápsula da seringa estiver
+solta ou não existir, não use a
+seringa pré-cheia.
+Enrosque firmemente a seringa
+pré-cheia no adaptador para os
+frascos para injetáveis até sentir
+resistência.
+
+H
+
+4. Reconstituir o pó com o solvente
+I
+
+•
+
+Segure a seringa pré-cheia
+ligeiramente inclinada, com o
+frasco para injetáveis para baixo.
+
+•
+
+Pressione a haste do êmbolo
+para injetar todo o solvente para
+dentro do frasco para injetáveis.
+
+•
+
+Mantenha a haste do êmbolo
+pressionada e rode lentamente o
+frasco para injetáveis até todo o
+pó estar dissolvido.
+
+J
+
+Não agite o frasco, dado que a
+agitação provocará espuma.
+
+•
+
+Verifique a solução
+reconstituída. Deve ser incolor.
+Se notar partículas visíveis ou
+descoloração, não utilize a
+solução. Neste caso, utilize uma
+embalagem nova.
+
+48
+
+Utilize de imediato a reconstituição de NovoSeven para evitar infeções.
+Se não puder utilizá-la imediatamente, veja a secção 5 Como conservar NovoSeven na outra face deste
+folheto informativo. Não conserve a solução reconstituída sem o conselho do seu médico ou enfermeiro.
+(I)
+Se a sua dose requer mais do que um frasco para injetáveis, repita os passos de A a J com frascos para
+injetáveis, adaptadores para frascos para injetáveis e seringas pré-cheias adicionais, até ter atingido a sua
+dose.
+•
+
+Mantenha a haste do êmbolo
+completamente pressionada.
+
+•
+
+Pegue na seringa com o frasco
+para injetáveis virado para cima.
+
+•
+
+Pare de pressionar a haste do
+êmbolo e deixe-a recuar por si
+própria à medida que a solução
+reconstituída enche a seringa.
+
+•
+
+Puxe a haste do êmbolo
+ligeiramente para baixo, para
+introduzir a solução reconstituída
+na seringa.
+
+•
+
+Caso só necessite de parte da
+solução reconstituída, utilize a
+escala na seringa para ver a
+quantidade de solução
+reconstituída que retira, de acordo
+com as indicações do seu médico
+ou enfermeiro.
+
+•
+
+Se, em qualquer momento,
+houver demasiado ar dentro da
+seringa, injete o ar de volta para
+dentro do frasco para injetáveis.
+
+•
+
+Enquanto mantém o frasco para
+injetáveis virado para cima, dê
+pequenos toques na seringa para
+deixar que eventuais bolhas de ar
+subam para o topo.
+
+•
+
+Pressione lentamente a haste do
+êmbolo até desaparecerem todas
+as bolhas de ar.
+
+•
+
+Desenrosque o adaptador com o
+frasco para injetáveis.
+
+•
+
+K
+
+L
+
+Não toque na ponta da seringa.
+Se tocar na ponta da seringa, os
+seus dedos podem transferir
+bactérias.
+
+49
+
+Injeção de NovoSeven com uma seringa pré-cheia via sistemas de conexão sem agulha, para cateteres
+intravenosos (i.v.).
+Atenção: A seringa pré-cheia é de vidro e está concebida para ser compatível com conetores padronizados
+luer-lock. Alguns sistemas de conexão sem agulha com um espigão interno são incompatíveis com a
+seringa pré-cheia. Esta incompatibilidade pode impedir a administração do medicamento e/ou danificar o
+sistema de conexão sem agulha.
+Siga as instruções para a utilização do conetor sem agulha. A administração através de um conetor sem
+agulha pode requerer a retirada da solução reconstituída para dentro de uma seringa plástica luer-lock
+padrão esterilizada de 10 ml. Isto deve ser feito logo após o passo J.
+5. Injetar a solução reconstituída
+NovoSeven está agora pronto para ser injetado na sua veia.
+•
+
+Injete a solução reconstituída de acordo com as indicações do seu médico ou enfermeiro.
+
+•
+
+Injete lentamente durante 2 a 5 minutos.
+
+Injeção da solução através de um sistema de acesso venoso central, tal como um cateter venoso central ou
+um cateter de acesso venoso central implantado subcutaneamente:
+•
+Use uma técnica limpa e livre de bactérias (assética). Siga as instruções para a utilização adequada do
+seu conetor e do sistema de acesso venoso central, consultando o seu médico ou enfermeiro.
+•
+A injeção num sistema de acesso venoso central poderá requerer a utilização de uma seringa de
+plástico esterilizada de 10 ml para retirar a solução reconstituída.
+•
+Se a linha de acesso venoso central precisar de ser lavada antes ou depois da injeção de
+NovoSeven, utilize uma solução injetável de cloreto de sódio 9 mg/ml.
+Eliminação
+M
+
+•
+
+Após a injeção, elimine de
+forma segura a seringa com o kit
+de administração, o frasco para
+injetáveis com o adaptador,
+qualquer solução de NovoSeven
+não utilizada e outros resíduos, de
+acordo com as indicações do seu
+médico ou enfermeiro.
+
+•
+
+Não os deite fora com o lixo
+doméstico.
+
+Não desmonte o material antes de o deitar fora.
+Não volte a utilizar o material.
+
+50
+
+

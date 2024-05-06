@@ -5,7 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Tabela from "./components/tabela";
 import HomePage from "./components/homepage";
 import Avaliacao from "./components/avaliacao";
-import Utente from "./components/utente";
+import Utente from "./components/MenBody";
+import Medicamentos from './components/medicamentos';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route exact path="/tabela" element={<Tabela />} />
           <Route exact path="/avaliacao" element={<Avaliacao />} />
           <Route exact path="/utente" element={<Utente />} />
+          <Route exact path="/medicamentos" element={<Medicamentos />} />
         </Routes>
       </Router>
     </div>

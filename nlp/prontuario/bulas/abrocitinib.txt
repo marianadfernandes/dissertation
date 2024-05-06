@@ -1,0 +1,2603 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+1.
+
+NOME DO MEDICAMENTO
+
+Cibinqo 50 mg comprimidos revestidos por película
+Cibinqo 100 mg comprimidos revestidos por película
+Cibinqo 200 mg comprimidos revestidos por película
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cibinqo 50 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 50 mg de abrocitinib.
+Excipiente com efeito conhecido
+Cada comprimido revestido por película contém 1,37 mg de lactose mono-hidratada.
+Cibinqo 100 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 100 mg de abrocitinib.
+Excipiente com efeito conhecido
+Cada comprimido revestido por película contém 2,73 mg de lactose mono-hidratada.
+Cibinqo 200 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 200 mg de abrocitinib.
+Excipiente com efeito conhecido
+Cada comprimido revestido por película contém 5,46 mg de lactose mono-hidratada.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimido revestido por película (comprimido)
+Cibinqo 50 mg comprimidos revestidos por película
+Comprimido oval, cor-de-rosa, com aproximadamente 11 mm de comprimento e 5 mm de largura,
+com “PFE” gravado numa face e “ABR 50” na outra.
+Cibinqo 100 mg comprimidos revestidos por película
+Comprimido redondo, cor-de-rosa, com aproximadamente 9 mm de diâmetro, com “PFE” gravado
+numa face e “ABR 100” na outra.
+Cibinqo 200 mg comprimidos revestidos por película
+Comprimido oval, cor-de-rosa, com aproximadamente 18 mm de comprimento e 8 mm de largura,
+com “PFE” gravado numa face e “ABR 200” na outra.
+2
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Cibinqo é indicado para o tratamento da dermatite atópica moderada a grave em adultos e adolescentes
+com idade igual ou superior a 12 anos que são candidatos para terapêutica sistémica.
+4.2
+
+Posologia e modo de administração
+
+O tratamento deve ser iniciado e supervisionado por um profissional de saúde com experiência no
+diagnóstico e tratamento de dermatite atópica.
+Posologia
+A dose inicial recomendada é de 100 mg ou 200 mg uma vez por dia baseado nas características
+individuais de cada doente:
+
+Recomenda-se uma dose inicial de 100 mg uma vez por dia para doentes com risco elevado de
+tromboembolismo venoso (TEV), acontecimento adverso cardiovascular major (MACE) e
+neoplasia maligna (ver secção 4.4). Se o doente não responder adequadamente a 100 mg uma
+vez por dia, a dose pode ser aumentada para 200 mg uma vez por dia.
+
+Uma dose de 200 mg uma vez por dia poderá ser apropriada para doentes que não têm risco
+elevado de TEV, MACE e neoplasia maligna, com um elevado impacto da doença ou para
+doentes com resposta inadequada a 100 mg uma vez por dia. Assim que a doença esteja
+controlada, a dose deve ser reduzida para 100 mg uma vez por dia. Se o controlo da doença não
+se mantiver após a redução da dose, pode considerar-se voltar a tratar com 200 mg uma vez por
+dia. Em adolescentes (12 a 17 anos de idade), com um peso entre 25 kg e < 59 kg, recomenda-se
+uma dose inicial de 100 mg uma vez por dia. Se o doente não responder adequadamente a
+100 mg uma vez por dia, a dose pode ser aumentada para 200 mg uma vez por dia. Em
+adolescentes com um peso mínimo de 59 kg, poderá ser apropriada uma dose inicial de 100 mg
+ou 200 mg uma vez por dia.
+Deve ser considerada a dose eficaz mais baixa para o tratamento de manutenção.
+Deve ser considerada a descontinuação do tratamento em doentes que não mostrem qualquer evidência
+de benefício terapêutico após 24 semanas.
+Cibinqo pode ser utilizado com ou sem terapêuticas tópicas farmacológicas para a dermatite atópica.
+
+3
+
+Monitorização laboratorial
+Tabela 1. Medições laboratoriais e orientações para a monitorização
+Medições
+Recomendação de monitorização
+Ação
+laboratoriais
+Plaquetas: o tratamento deve ser
+descontinuado se a contagem de
+plaquetas for < 50 × 103/mm3.
+CAL: o tratamento deve ser
+interrompido se a CAL for
+< 0,5 × 103/mm3 e poderá ser
+Hemograma completo,
+reiniciado assim que a CAL for
+incluindo contagem de
+superior a este valor. O tratamento
+plaquetas, contagem
+Antes do início do tratamento,
+deve ser descontinuado em caso de
+absoluta de linfócitos
+4 semanas após o início e,
+confirmação.
+(CAL), contagem
+posteriormente, de acordo com o
+absoluta de neutrófilos controlo de rotina do doente.
+CAN: o tratamento deve ser
+(CAN) e hemoglobina
+interrompido se a CAN for
+(Hb)
+< 1 × 103/mm3 e poderá ser
+reiniciado assim que a CAN for
+superior a este valor.
+Hb: o tratamento deve ser
+interrompido se a Hb for < 8 g/dl e
+poderá ser reiniciado assim que a Hb
+for superior a este valor.
+Antes do início do tratamento,
+4 semanas após o início e,
+posteriormente, de acordo com o
+O doente deve ser monitorizado de
+Parâmetros lipídicos
+risco do doente para doença
+acordo com as normas de orientação
+cardiovascular e as normas de
+clínica para hiperlipidemia.
+orientação clínica para
+hiperlipidemia.
+Início do tratamento
+O tratamento não deve ser iniciado em doentes com uma contagem de plaquetas < 150 × 103/mm3,
+uma contagem absoluta de linfócitos (CAL) < 0,5 × 103/mm3, uma contagem absoluta de neutrófilos
+(CAN) < 1,2 × 103/mm3 ou com um valor de hemoglobina < 10 g/dl (ver secção 4.4).
+Interrupção da dose
+Se um doente desenvolver uma infeção grave, sepsia ou uma infeção oportunista, deve considerar-se a
+interrupção da dose até que a infeção esteja controlada (ver secção 4.4).
+Poderá ser necessário interromper a dose para o controlo de anomalias laboratoriais, tal como descrito
+na Tabela 1.
+Doses esquecidas
+Se uma dose for esquecida, os doentes devem ser aconselhados a tomar a dose assim que possível,
+exceto se faltarem menos de 12 horas para a dose seguinte; se for esse o caso, o doente não deve tomar
+a dose esquecida. Posteriormente, a toma das doses deve ser retomada na hora programada.
+Interações
+Em doentes a tomar inibidores duplos potentes da CYP2C19 e moderados da CYP2C9 ou inibidores
+simples potentes da CYP2C19 (por ex., fluvoxamina, fluconazol, fluoxetina e ticlopidina), a dose
+recomendada deve ser reduzida em metade para 100 mg ou 50 mg uma vez por dia (ver secção 4.5).
+O tratamento não é recomendado concomitantemente com indutores moderados ou potentes das
+enzimas CYP2C19/CYP2C9 (por ex., rifampicina, apalutamida, efavirenz, enzalutamida, fenitoína)
+(ver secção 4.5).
+4
+
+Nos doentes em tratamento com medicamentos que reduzem a acidez gástrica (por ex. antiácidos,
+inibidores da bomba de protões, e antagonistas dos recetores H2), deve ser considerada a dose de 200
+mg uma vez por dia de abrocitinib (ver secção 4.5).
+Populações especiais
+Compromisso renal
+Não é necessário ajuste da dose em doentes com compromisso renal ligeiro, ou seja, uma taxa de
+filtração glomerular estimada (TFGe) entre 60 ml/min e < 90 ml/min.
+Em doentes com compromisso renal moderado (TFGe entre 30 ml/min e < 60 ml/min), a dose
+recomendada de abrocitinib deve ser reduzida em metade para 100 mg ou 50 mg uma vez por dia (ver
+secção 5.2).
+Em doentes com compromisso renal grave (TFGe < 30 ml/min), a dose inicial recomendada é de
+50 mg uma vez por dia. A dose diária máxima é de 100 mg (ver secção 5.2).
+Não foi estudada a utilização de abrocitinib em doentes com doença renal terminal (DRT) a fazer
+terapêutica de substituição renal.
+Compromisso hepático
+Não é necessário ajuste da dose em doentes com compromisso hepático ligeiro (Child Pugh A) ou
+moderado (Child Pugh B). Abrocitinib é contraindicado em doentes com compromisso hepático grave
+(Child Pugh C) (ver secção 4.3).
+Idosos
+Para doentes com idade igual ou superior a 65 anos, a dose recomendada é de 100 mg uma vez por dia
+(ver secção 4.4).
+População pediátrica
+A segurança e eficácia de Cibinqo em crianças com menos de 12 anos de idade não foram ainda
+estabelecidas. Não existem dados disponíveis.
+Modo de administração
+Este medicamento deve ser tomado por via oral uma vez por dia, com ou sem alimentos,
+aproximadamente à mesma hora todos os dias.
+Nos doentes que tenham náuseas, tomar os comprimidos com alimentos pode aliviar as náuseas.
+Os comprimidos devem ser engolidos inteiros com água e não devem ser divididos, esmagados ou
+mastigados, pois estes métodos não foram estudados em ensaios clínicos.
+4.3
+
+Contraindicações
+
+
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+Infeções sistémicas graves ativas, incluindo tuberculose (TB) (ver secção 4.4).
+Compromisso hepático grave (ver secção 4.2).
+Gravidez e amamentação (ver secção 4.6).
+
+
+
+
+
+5
+
+4.4
+
+Advertências e precauções especiais de utilização
+
+Abrocitinib apenas deve ser utilizado se não estiverem disponíveis alternativas de tratamento
+adequadas em doentes com:
+-idade igual ou superior a 65 anos;
+-história de doença cardiovascular aterosclerótica ou outros fatores de risco cardiovascular (tais
+como fumadores que fumam há um longo período de tempo ou ex-fumadores que tenham fumado
+durante um longo período de tempo);
+-fatores de risco de neoplasia maligna (por ex., neoplasia maligna atual ou história de neoplasia
+maligna)
+Infeções/infeções graves
+Foram notificadas infeções graves em doentes a tomar abrocitinib. As infeções graves mais frequentes
+em estudos clínicos foram herpes simplex, herpes zoster e pneumonia (ver secção 4.8).
+Em geral, como existe uma incidência mais elevada de infeções entre os idosos e os diabéticos, deve
+ser usada precaução ao tratar os idosos e os doentes com diabetes. Em doentes com idade igual ou
+superior a 65 anos, abrocitinib apenas deve ser utilizado se não estiverem disponíveis alternativas de
+tratamento adequadas (ver secção 4.2).
+O tratamento não pode ser iniciado em doentes com uma infeção sistémica grave ativa (ver
+secção 4.3).
+Antes de iniciar abrocitinib, os benefícios e os riscos do tratamento devem ser ponderados para
+doentes:
+
+com infeção crónica ou recorrente
+
+que foram expostos a TB
+
+que têm antecedentes de uma infeção grave ou oportunista
+
+que residiram ou viajaram para zonas geográficas de TB endémica ou de micoses endémicas; ou
+
+com condições subjacentes que os podem predispor para infeções.
+Os doentes devem ser cuidadosamente monitorizados quanto ao desenvolvimento de sinais e sintomas
+de infeção durante e após o tratamento com abrocitinib. Um doente que desenvolva uma infeção nova
+durante o tratamento deve ser submetido de imediato a testes de diagnóstico completos e deve ser
+iniciada uma terapêutica antimicrobiana apropriada. Os doentes devem ser cuidadosamente
+monitorizados e a terapêutica deve ser interrompida temporariamente se o doente não responder à
+terapêutica convencional.
+Tuberculose
+Foi observada tuberculose em estudos clínicos com abrocitinib. Os doentes devem ser rastreados
+quanto a TB antes do início do tratamento e deve ser considerado um rastreio anual para doentes em
+zonas geográficas altamente endémicas para TB. Abrocitinib não pode ser administrado a doentes com
+TB ativa (ver secção 4.3). Para os doentes com um diagnóstico novo de TB latente ou TB latente
+anterior não tratada, deve ser iniciada uma terapêutica preventiva para a TB latente antes do início do
+tratamento.
+Reativação viral
+Foram notificados casos de reativação viral, incluindo reativação de vírus do herpes (por ex., herpes
+zoster, herpes simplex) em estudos clínicos (ver secção 4.8). A taxa de infeções por herpes zoster foi
+superior nos doentes que foram tratados com 200 mg, com idade igual ou superior a 65 anos, com
+história clínica de herpes zoster, com uma CAL confirmada < 1 × 103/mm3 antes do acontecimento e
+nos doentes com dermatite atópica grave no início do estudo (ver secção 4.8). Se um doente
+desenvolver herpes zoster, deve ser considerada a interrupção temporária do tratamento até resolução
+do episódio.
+
+6
+
+Deve realizar-se o rastreio de hepatites virais, de acordo com as orientações clínicas, antes de iniciar a
+terapêutica e durante a terapêutica. Os doentes com evidência de infeção ativa pelo vírus da hepatite B
+ou da hepatite C (PCR positivo para hepatite C) foram excluídos dos estudos clínicos (ver secção 5.2).
+Os doentes com resultado negativo para o antigénio de superfície (HBs) do vírus da hepatite B,
+positivo para anticorpos anti-core do vírus da hepatite B e positivo para anticorpos anti-HBs foram
+testados para o ADN do vírus da hepatite B (VHB). Os doentes com ADN do VHB acima do limite
+inferior de quantificação (LIQ) foram excluídos. Os doentes com ADN do VHB negativo ou abaixo do
+LIQ podiam iniciar o tratamento; esses doentes foram sujeitos a monitorização do ADN do VHB. Se o
+ADN do VHB for detetado, deve ser consultado um especialista em hepatologia.
+Vacinação
+Não existem dados disponíveis sobre a resposta à vacinação em doentes a receber abrocitinib. A
+utilização de vacinas vivas atenuadas deve ser evitada durante e imediatamente antes do tratamento.
+Antes de iniciar o tratamento com este medicamento, recomenda-se que os doentes atualizem todas as
+suas imunizações, incluindo vacinas profiláticas contra o herpes zoster, de acordo com o plano de
+vacinação nacional em vigor.
+Tromboembolismo venoso (TEV)
+Foram notificados acontecimentos de trombose venosa profunda (TVP) e de embolia pulmonar (EP)
+em doentes a receber abrocitinib (ver secção 4.8).
+Num grande estudo aleatorizado controlado com tofacitinib (outro inibidor das JAK) em doentes com
+artrite reumatoide com idade igual ou superior a 50 anos e que tinham, pelo menos, um fator de risco
+cardiovascular adicional, foi observada uma taxa superior de TEV, incluindo trombose venosa
+profunda (TVP) e embolia pulmonar (EP), dependente da dose em doentes tratados com tofacitinib
+comparativamente a inibidores do TNF.
+Foi observada uma taxa superior de TEV com 200 mg de abrocitinib comparativamente a 100 mg de
+abrocitinib.
+Em doentes com fatores de risco cardiovascular e de neoplasia maligna (ver também secção 4.4.
+“Acontecimentos adversos cardiovasculares major [MACE]” e “Neoplasias malignas”), abrocitinib
+apenas deve ser utilizado se não estiverem disponíveis alternativas de tratamento adequadas.
+Em doentes com fatores de risco de TEV, que não os fatores de riscos de MACE e neoplasia maligna,
+abrocitinib deve ser utilizado com precaução. Os fatores de risco de TEV, que não os fatores de risco
+de MACE e neoplasia maligna, incluem TEV anterior, doentes submetidos a grandes cirurgias,
+imobilização, utilização de contracetivos hormonais combinados ou terapêutica hormonal de
+substituição, perturbação hereditária da coagulação.
+Os doentes devem ser reavaliados periodicamente durante o tratamento com abrocitinib para avaliar
+quanto a alterações do risco de TEV.
+Avaliar imediatamente os doentes quanto a sinais e sintomas de TEV e interromper a utilização de
+abrocitinib em doentes com suspeita de TEV, independentemente da dose.
+Acontecimentos adversos cardiovasculares major (MACE)
+Foram observados acontecimentos de MACE em doentes a tomar abrocitinib.
+Num grande estudo aleatorizado controlado com tofacitinib (outro inibidor das JAK) em doentes com
+artrite reumatoide com idade igual ou superior a 50 anos e que tinham, pelo menos, um fator de risco
+cardiovascular adicional, foi observada uma taxa superior de acontecimentos adversos
+cardiovasculares major (MACE), definidos como morte cardiovascular, enfarte do miocárdio (EM)
+
+7
+
+não fatal e acidente vascular cerebral não fatal, em doentes tratados com tofacitinib comparativamente
+a inibidores do TNF.
+Por conseguinte, em doentes com idade igual ou superior a 65 anos que são fumadores há um longo
+período de tempo ou ex-fumadores que tenham fumado durante um longo período de tempo e doentes
+com história de doença cardiovascular aterosclerótica ou outros fatores de risco cardiovascular,
+abrocitinib apenas deve ser utilizado se não estiverem disponíveis alternativas de tratamento
+adequadas.
+Neoplasias malignas (excluindo cancros da pele não melanoma [NMSC])
+Foram notificados casos de linfoma e de outras neoplasias malignas em doentes a receber inibidores da
+JAK, incluindo abrocitinib.
+Num grande estudo aleatorizado controlado com tofacitinib (outro inibidor das JAK) em doentes com
+artrite reumatoide com idade igual ou superior a 50 anos e que tinham, pelo menos, um fator de risco
+cardiovascular adicional, foi observada uma maior incidência de neoplasias malignas, particularmente
+cancro do pulmão, linfoma e cancro da pele não melanoma (NMSC), com tofacitinib
+comparativamente a inibidores do TNF.
+Foi observada uma taxa superior de neoplasias malignas (excluindo cancro da pele não melanoma
+[NMSC]) com 200 mg de abrocitinib comparativamente a 100 mg de abrocitinib.
+Em doentes com idade igual ou superior a 65 anos, doentes fumadores há um longo período de tempo
+ou ex-fumadores que tenham fumado durante um longo período de tempo e doentes com outros fatores
+de risco de neoplasia maligna (por ex., neoplasia maligna atual ou história de neoplasia maligna),
+abrocitinib apenas deve ser utilizado se não estiverem disponíveis alternativas de tratamento
+adequadas.
+Cancro da pele não melanoma
+Foram notificados casos de NMSC em doentes tratados com abrocitinib. É recomendado o exame
+periódico da pele para todos os doentes, em particular naqueles com risco acrescido de cancro da pele.
+Anomalias hematológicas
+Foram observados casos confirmados de CAL < 0,5 × 103/mm3 e de contagem de plaquetas
+< 50 × 103/mm3 em menos de 0,5% dos doentes em estudos clínicos (ver secção 4.8). O tratamento
+com abrocitinib não deve ser iniciado em doentes com uma contagem de plaquetas < 150 × 103/mm3,
+uma CAL < 0,5 × 103/mm3, uma CAN < 1,2 × 103/mm3 ou com um valor de hemoglobina < 10 g/dl
+(ver secção 4.2). O hemograma completo deve ser monitorizado 4 semanas após o início da terapêutica
+e, posteriormente, de acordo com o controlo de rotina do doente (ver Tabela 1).
+Lípidos
+Foram notificados aumentos dependentes da dose nos parâmetros lipídicos séricos em doentes tratados
+com abrocitinib comparativamente ao placebo (ver secção 4.8). Os parâmetros lipídicos devem ser
+avaliados cerca de 4 semanas após o início da terapêutica e, posteriormente, de acordo com o risco do
+doente para doença cardiovascular (ver Tabela 1). O efeito destes aumentos dos parâmetros lipídicos
+na morbilidade e mortalidade cardiovasculares não foi determinado. Os doentes com parâmetros
+lipídicos anormais devem ser sujeitos a monitorização e controlo adicionais de acordo com as
+orientações clínicas, devido aos riscos cardiovasculares conhecidos associados à hiperlipidemia.
+Idosos
+O perfil de segurança observado em doentes idosos foi semelhante ao da população adulta, com as
+seguintes exceções: uma proporção maior de doentes com idade igual ou superior a 65 anos
+8
+
+descontinuou os estudos clínicos e tinha maior probabilidade de ocorrência de reações adversas graves
+comparativamente aos doentes mais jovens; os doentes com idade igual ou superior a 65 anos tinham
+maior probabilidade de desenvolverem valores baixos de plaquetas e CAL; a taxa de incidência de
+herpes zoster nos doentes com idade igual ou superior a 65 anos foi superior à dos doentes mais jovens
+(ver secção 4.8). Existem dados limitados sobre doentes com mais de 75 anos de idade.
+Utilização em doentes com idade igual ou superior a 65 anos
+Tendo em conta o risco aumentado de MACE, neoplasias malignas, infeções graves e mortalidade por
+todas as causas em doentes com idade igual ou superior a 65 anos, tal como foi observado num grande
+estudo aleatorizado de tofacitinib (outro inibidor das JAK), abrocitinib apenas deve ser utilizado nestes
+doentes se não estiverem disponíveis alternativas de tratamento adequadas.
+Condições ou medicamentos imunossupressores
+Os doentes com imunodeficiências ou com um familiar de primeiro grau com uma imunodeficiência
+hereditária foram excluídos dos estudos clínicos e não existe informação disponível sobre estes
+doentes.
+A associação com imunomoduladores biológicos, imunossupressores potentes, tais como a
+ciclosporina ou outros inibidores da Janus cinase (JAK) não foi estudada. A sua utilização
+concomitante com abrocitinib não é recomendada, pois não pode ser excluído um risco de
+imunossupressão aditiva.
+Excipientes
+Lactose mono-hidratada
+Os doentes com problemas hereditários raros de intolerância à galactose, deficiência total de lactase ou
+malabsorção de glucose-galactose não devem tomar este medicamento.
+Sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido, ou seja, é
+praticamente “isento de sódio’.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Potencial para outros medicamentos afetarem a farmacocinética de abrocitinib
+Abrocitinib é metabolizado predominantemente pelas enzimas CYP2C19 e CYP2C9 e, em menor
+extensão, pelas enzimas CYP3A4 e CYP2B6 e os seus metabolitos ativos são excretados por via renal
+e são substratos do transportador de aniões orgânicos 3 (OAT3). Consequentemente, as exposições ao
+abrocitinib e/ou aos seus metabolitos ativos podem ser afetadas por medicamentos que inibem ou
+induzem estas enzimas e o transportador. Os ajustes de dose, conforme apropriado, estão descritos na
+secção 4.2.
+Coadministração com inibidores das CYP2C19/CYP2C9
+Quando se administrou 100 mg de abrocitinib concomitantemente com fluvoxamina (um inibidor
+potente da CYP2C19 e moderado da CYP3A) ou fluconazol (um inibidor potente da CYP2C19,
+moderado da CYP2C9 e CYP3A), a extensão da exposição à fração ativa de abrocitinib (ver
+secção 5.2) aumentou 91% e 155%, respetivamente, comparada com a administração isolada (ver
+secção 4.2).
+Coadministração com indutores das CYP2C19/CYP2C9
+A administração de 200 mg de abrocitinib após doses múltiplas de rifampicina, um indutor potente das
+enzimas CYP, resultou na redução das exposições à fração ativa de abrocitinib em cerca de 56% (ver
+secção 4.2).
+9
+
+Coadministração com inibidores do OAT3
+Quando se administrou 200 mg de abrocitinib concomitantemente com probenecida, um inibidor do
+OAT3, as exposições à fração ativa de abrocitinib aumentaram cerca de 66%. Isto não é clinicamente
+significativo, não sendo necessário ajustar a dose.
+Coadministração com medicamentos que aumentam o pH gástrico
+Quando se administrou 200 mg de abrocitinib concomitantemente com 40 mg de famotidina, um
+antagonista dos recetores H2, as exposições à fração ativa de abrocitinib diminuíram aproximadamente
+35%. O efeito do aumento do pH gástrico com antiácidos ou inibidores da bomba de protões
+(omeprazol) na farmacocinética de abrocitinib não foi estudado e pode ser semelhante ao observado
+com a famotidina. Deve ser considerada a dose mais alta de 200 mg para doentes tratados
+concomitantemente com medicamentos que aumentem o pH gástrico, pois estes podem reduzir a
+eficácia de abrocitinib.
+Potencial para abrocitinib afetar a farmacocinética de outros medicamentos
+Não foram observados efeitos clinicamente significativos de abrocitinib em estudos de interação com
+contracetivos orais (por ex., etinilestradiol/levonorgestrel).
+In vitro, abrocitinib é um inibidor da glicoproteína P (gp-P). A coadministração de dabigatrano
+etexilato (um substrato da gp-P), com uma dose única de 200 mg de abrocitinib aumentou a AUCinf e a
+Cmax do dabigatrano em cerca de 53% e 40%, respetivamente, comparado com a administração isolada.
+Recomenda-se precaução no caso de administração concomitante de abrocitinib com dabigatrano. O
+efeito de abrocitinib na farmacocinética de outros substratos da gp-P não foi avaliado. Recomenda-se
+precaução, pois os níveis dos substratos da gp-P com um índice terapêutico estreito, tais como a
+digoxina, podem aumentar.
+In vitro, abrocitinib é um inibidor da enzima CYP2C19. A coadministração de 200 mg de abrocitinib
+uma vez por dia e de uma dose única de 10 mg de omeprazol aumentou a AUCinf e a Cmax de
+omeprazol em aproximadamente 189% e 134%, respetivamente, indicando que abrocitinib é um
+inibidor moderado da enzima CYP2C19. Recomenda-se precaução ao utilizar abrocitinib
+concomitantemente com medicamentos de índice terapêutico estreito que são metabolizados,
+principalmente, pela enzima CYP2C19 (por ex., S-mefenitoína e clopidogrel). Pode ser necessário o
+ajuste da dose para outros medicamentos metabolizados, principalmente, pela enzima CYP2C19, de
+acordo com o seu resumo das características do medicamento (por ex., citalopram, clobazam,
+escitalopram e selumetinib).
+A coadministração de 200 mg de abrocitinib uma vez por dia e de uma dose única de 100 mg de
+cafeína aumentou a AUCinf da cafeína em 40%, não tendo sido detetados efeitos na Cmax, o que sugere
+que abrocitinib é um inibidor ligeiro da enzima CYP1A2. Não pode ser recomendado ajuste
+posológico geral.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar
+As mulheres com potencial para engravidar devem ser aconselhadas a utilizar métodos contracetivos
+eficazes durante o tratamento e durante 1 mês após a dose final de Cibinqo. A contraceção e o
+planeamento da gravidez devem ser encorajados para as mulheres com potencial para engravidar.
+Gravidez
+
+10
+
+A quantidade de dados sobre a utilização de abrocitinib em mulheres grávidas, é limitada ou
+inexistente. Os estudos em animais revelaram toxicidade reprodutiva. Abrocitinib demonstrou causar
+letalidade embriofetal em fêmeas de rato e coelho grávidas, variações esqueléticas nos fetos de fêmeas
+de rato e coelho grávidas e afetar a parturição e o desenvolvimento peri/pós-natal em ratos (ver
+secção 5.3). Cibinqo é contraindicado durante a gravidez (ver secção 4.3).
+Amamentação
+Não existem dados sobre a presença de abrocitinib no leite humano, os efeitos no lactente ou os efeitos
+na produção de leite. Abrocitinib foi excretado no leite de fêmeas de rato a amamentar. Não pode ser
+excluído qualquer risco para os recém-nascidos/lactentes e Cibinqo é contraindicado durante a
+amamentação (ver secção 4.3).
+Fertilidade
+Com base em achados em ratos, a administração oral de Cibinqo poderá resultar na redução
+temporária da fertilidade em mulheres com potencial para engravidar. Os efeitos na fertilidade de
+fêmeas de rato foram reversíveis 1 mês após a cessação da administração oral de abrocitinib (ver
+secção 5.3).
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Cibinqo sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezáveis.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas mais frequentemente notificadas são náuseas (15,1%), cefaleias (7,9%), acne
+(4,8%), herpes simplex (4,2%), aumento da creatina fosfocinase sérica (3,8%), vómitos (3,5%),
+tonturas (3,4%) e dor abdominal superior (2,2%). As reações adversas graves mais frequentes são
+infeções (0,3%) (ver secção 4.4).
+Lista tabelada de reações adversas
+Um total de 3848 doentes foram tratados com abrocitinib em estudos clínicos de dermatite atópica.
+Entre estes, 3050 doentes (representando 5166 doentes-ano de exposição) foram integrados para a
+análise da segurança. A análise da segurança integrada incluiu 1997 doentes a receber uma dose
+constante de 200 mg de abrocitinib e 1053 doentes a receber uma dose constante de 100 mg. Existiam
+2013 doentes com, pelo menos, 48 semanas de exposição. Foram integrados cinco estudos controlados
+por placebo (703 doentes a tomar 100 mg uma vez por dia, 684 doentes a tomar 200 mg uma vez por
+dia e 438 doentes a tomar placebo) para avaliar a segurança de abrocitinib comparativamente ao
+placebo durante até 16 semanas.
+Na Tabela 2 encontram-se listadas as reações adversas observadas em estudos clínicos de dermatite
+atópica, apresentadas por classe de sistemas de órgãos e frequência, utilizando as seguintes categorias:
+muito frequentes (≥ 1/10); frequentes (≥ 1/100, < 1/10); pouco frequentes (≥ 1/1000, < 1/100); raras
+(≥ 1/10.000, < 1/1000); muito raras (< 1/10.000). Em cada grupo de frequência, as reações adversas
+são apresentadas por ordem decrescente de gravidade.
+
+11
+
+Tabela 2. Reações adversas
+Classe de sistemas de
+órgãos
+Infeções e infestações
+
+Muito
+frequentes
+
+Frequentes
+Herpes simplexa
+Herpes zoster b
+
+Doenças do sangue e do
+sistema linfático
+Doenças do metabolismo e da
+nutrição
+Doenças do sistema nervoso
+
+Cefaleia
+Tonturas
+Tromboembolismo
+venosod
+Náuseas
+
+Vómitos
+Dor abdominal
+superior
+Acne
+
+Afeções dos tecidos cutâneos
+e subcutâneos
+Exames complementares de
+diagnóstico
+a.
+b.
+c.
+d.
+e.
+
+Pneumonia
+Trombocitopenia
+Linfopenia
+Hiperlipidemiac
+
+Vasculopatias
+Doenças gastrointestinais
+
+Pouco frequentes
+
+Aumento da creatina
+fosfocinase ˃ 5 × LSNe
+
+Herpes simplex inclui herpes oral, herpes simplex oftálmico, herpes genital e dermatite herpetiforme.
+Herpes zoster inclui herpes zoster oftálmico.
+Hiperlipidemia inclui dislipidemia e hipercolesterolemia.
+Tromboembolismo venoso inclui embolia pulmonar e trombose venosa profunda.
+Inclui alterações detetadas durante a monitorização laboratorial (ver texto a seguir).
+
+Descrição de reações adversas selecionadas
+Infeções
+Em estudos controlados por placebo, até 16 semanas de duração, foram notificadas infeções em 27,4%
+dos doentes tratados com placebo e em 34,9% e 34,8% dos doentes tratados com 100 mg e 200 mg de
+abrocitinib, respetivamente. A maioria das infeções foi ligeira ou moderada. A percentagem de
+doentes que notificaram reações adversas relacionadas com infeção nos grupos de 200 mg e 100 mg
+comparativamente ao placebo foram: herpes simplex (4,2% e 2,8% versus 1,4%), herpes zoster (1,2%
+e 0,6% versus 0%), pneumonia (0,1% e 0,1% versus 0%). O herpes simplex foi mais frequente nos
+doentes com história de herpes simplex ou de eczema herpético. A maioria dos acontecimentos de
+herpes simplex envolveu um único dermátomo e não foi grave. A maioria das infeções oportunistas
+foram casos de herpes zoster (0,70 por 100 doentes-ano no grupo de 100 mg de abrocitinib e 0,96 por
+100 doentes-ano no grupo de 200 mg de abrocitinib), a maioria dos quais foram infeções cutâneas
+multidermátomo não graves. Entre todos os doentes tratados em estudos clínicos com regimes
+posológicos consistentes de 100 mg ou de 200 mg de abrocitinib, incluindo no estudo de extensão a
+longo prazo, a taxa de incidência de herpes zoster em doentes tratados com 200 mg de abrocitinib
+(4,36 por 100 doentes-ano) foi superior à dos doentes tratados com 100 mg de abrocitinib (2,61 por
+100 doentes-ano). As taxas de incidência para herpes zoster também foram superiores para os doentes
+com idade igual ou superior a 65 anos (HR = 1,76), doentes com antecedentes de herpes zoster
+(HR = 3,41), doentes com dermatite atópica grave no início do estudo (HR = 1,17) e com uma CAL
+confirmada < 1,0 × 103/mm3 antes do acontecimento de herpes zoster (HR = 2,18) (ver secção 4.4).
+Em estudos controlados por placebo, até 16 semanas de duração, a taxa de infeções graves foi de 1,81
+por 100 doentes-ano nos doentes tratados com placebo, de 3,32 por 100 doentes-ano nos doentes
+tratados com 100 mg e de 1,12 por 100 doentes-ano nos doentes tratados com 200 mg. Entre todos os
+doentes tratados em estudos clínicos com regimes posológicos consistentes de 100 mg ou de 200 mg
+de abrocitinib, incluindo o estudo de extensão a longo prazo, a taxa de infeções graves foi de 2,20 por
+100 doentes-ano tratados com 100 mg e de 2,46 por 100 doentes-ano tratados com 200 mg. As
+infeções graves mais frequentemente notificadas foram herpes simplex, herpes zoster e pneumonia
+(ver secção 4.4).
+
+12
+
+Tromboembolismo venoso
+Entre todos os doentes tratados em estudos clínicos com regimes posológicos consistentes de 100 mg
+ou de 200 mg de abrocitinib, incluindo o estudo de extensão a longo prazo, a taxa de EP foi de 0,21
+por 100 doentes-ano para 200 mg e de 0,05 por 100 doentes-ano para 100 mg. A taxa de TVP foi de
+0,06 por 100 doentes-ano no grupo de 200 mg e de 0,05 por 100 doentes-ano no grupo de 100 mg (ver
+secção 4.4).
+Trombocitopenia
+Em estudos controlados por placebo, até 16 semanas de duração, o tratamento foi associado a um
+decréscimo relacionado com a dose na contagem de plaquetas. Os efeitos máximos nas plaquetas
+foram observados no prazo de 4 semanas, após o que a contagem de plaquetas retornou para os valores
+iniciais, apesar da terapêutica continuada. Foram notificadas contagens de plaquetas confirmadas
+< 50 × 103/mm3 em 0,1% dos doentes expostos a 200 mg e em 0 doentes tratados com 100 mg ou
+placebo. Entre todos os doentes tratados em estudos clínicos com regimes posológicos consistentes de
+100 mg ou de 200 mg de abrocitinib, incluindo o estudo de extensão a longo prazo, a taxa de contagem
+de plaquetas confirmada < 50 × 103/mm3 foi de 0,15 por 100 doentes-ano para 200 mg e de 0 por
+100 doentes-ano para 100 mg, tendo a maioria ocorrido na semana 4. Os doentes com idade igual ou
+superior a 65 anos tiveram uma taxa superior de contagem de plaquetas < 75 × 103/mm3 (ver
+secção 4.4).
+Linfopenia
+Em estudos controlados por placebo, até 16 semanas de duração, ocorreu CAL confirmada
+< 0,5 × 103/mm3 em 0,3% dos doentes tratados com 200 mg e em 0% dos doentes tratados com
+100 mg ou placebo. Ambos os casos ocorreram nas primeiras 4 semanas de exposição. Entre todos os
+doentes tratados em estudos clínicos com regimes posológicos consistentes de 100 mg ou de 200 mg
+de abrocitinib, incluindo o estudo de extensão a longo prazo, a taxa de CAL confirmada
+< 0,5 × 103/mm3 foi de 0,34 por 100 doentes-ano com 200 mg e de 0 por 100 doentes-ano com
+100 mg. A taxa mais elevada de todas foi observada em doentes com idade igual ou superior a 65 anos
+(ver secção 4.4).
+Aumento dos lípidos
+Em estudos controlados por placebo, até 16 semanas de duração, verificou-se um aumento relacionado
+com a dose do colesterol das lipoproteínas de baixa densidade (LDL-c), do colesterol total e do
+colesterol das lipoproteínas de alta densidade (HDL-c) relativamente ao placebo na semana 4, tendo
+estes parâmetros permanecido elevados até à consulta final do período de tratamento. Não se verificou
+qualquer alteração significativa no rácio LDL/HDL nos doentes tratados com abrocitinib
+comparativamente aos doentes tratados com placebo. Ocorreram acontecimentos relacionados com
+hiperlipidemia em 0,4% dos doentes expostos a 100 mg de abrocitinib, em 0,6% dos doentes expostos
+a 200 mg e em 0% dos doentes expostos ao placebo (ver secção 4.4).
+Aumento da creatina fosfocinase (CPK)
+Em estudos controlados por placebo, até 16 semanas de duração, ocorreram aumentos significativos
+dos valores da CPK (> 5 × LSN) em 1,8% dos doentes tratados com placebo, em 1,8% dos doentes
+tratados com 100 mg e em 3,8% dos doentes tratados com 200 mg de abrocitinib, respetivamente. A
+maioria dos aumentos foi temporária e nenhum resultou em descontinuação.
+Náuseas
+Em estudos controlados por placebo, até 16 semanas de duração, foram notificadas náuseas em 1,8%
+dos doentes tratados com placebo e em 6,3% e 15,1% dos doentes tratados com 100 mg e 200 mg,
+respetivamente. Ocorreu descontinuação devido a náuseas em 0,4% dos doentes tratados com
+abrocitinib. Entre os doentes com náuseas, 63,5% dos doentes tiveram o seu aparecimento na primeira
+semana de terapêutica. A mediana da duração das náuseas foi de 15 dias. A maioria dos casos foram
+ligeiros a moderados em termos de severidade.
+
+13
+
+População pediátrica
+Um total de 635 doentes adolescentes (12 a menos de 18 anos de idade) foram tratados com
+abrocitinib em estudos clínicos de dermatite atópica representado 1326,1 doentes-ano de exposição. O
+perfil de segurança observado em adolescentes nos estudos clínicos de dermatite atópica foi
+semelhante ao da população adulta.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Cibinqo foi administrado em estudos clínicos com doses únicas orais até 800 mg e 400 mg por dia
+durante 28 dias. As reações adversas foram comparáveis às observadas com doses inferiores e não
+foram identificadas toxicidades específicas. No caso de sobredosagem, recomenda-se que o doente
+seja monitorizado quanto a sinais e sintomas de reações adversas (ver secção 4.8). O tratamento deve
+ser sintomático e de suporte. Não existe um antídoto específico para a sobredosagem com este
+medicamento.
+Os dados da farmacocinética para até e incluindo uma dose única oral de 800 mg em voluntários
+adultos saudáveis indicam que é expectável que mais de 90% da dose administrada sejam eliminados
+no prazo de 48 horas.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: outras preparações dermatológicas, agentes para a dermatite, excluindo
+corticosteroides; código ATC: D11AH08
+Mecanismo de ação
+Abrocitinib é um inibidor da Janus cinase (JAK)1. As JAK são enzimas intracelulares que transmitem
+sinais resultantes de interações de citocinas ou fatores de crescimento com os recetores na membrana
+celular que influenciam processos celulares de hematopoiese e de função celular imunitária. As JAK
+fosforilam e ativam transdutores de sinal e ativadores da transcrição (STAT) que modulam a atividade
+intracelular, incluindo a expressão genética. A inibição da JAK1 modula as vias de sinalização ao
+impedir a fosforilação e a ativação de STAT.
+Em ensaios bioquímicos, abrocitinib demonstrou seletividade para a JAK1 em detrimento das três
+outras isoformas da JAK, ou seja, a JAK2 (28 vezes), a JAK3 (> 340 vezes) e a tirosina cinase 2
+(TYK2, 43 vezes). Em ambiente celular, inibe preferencialmente a fosforilação de STAT induzida por
+citocinas que sinalizam envolvendo pares com a JAK1, e poupando a sinalização pelos pares
+JAK2/JAK2 ou JAK2/TYK2. A relevância da inibição enzimática seletiva de enzimas JAK específicas
+para o efeito clínico é atualmente desconhecida.
+Efeitos farmacodinâmicos
+Biomarcadores clínicos
+O tratamento com abrocitinib foi associado a uma redução dependente da dose de biomarcadores
+séricos de inflamação na dermatite tópica (interleucina-31 [IL-31], interleucina-22 [IL-22], contagem
+de eosinófilos e thymus and activation-regulated chemokine [TARC]), sinalização JAK1 (contagem de
+14
+
+células natural killer [NK] e proteína 10 induzida pelo interferão gama [IP-10]) ou ambas (proteína C
+reativa de alta sensibilidade [PCRas]). Estas alterações foram reversíveis após a descontinuação do
+tratamento.
+A contagem absoluta de linfócitos média aumentou 2 semanas após o início do tratamento com
+abrocitinib e regressou aos valores iniciais por volta do mês 9 do tratamento. A maioria dos doentes
+manteve a CAL dentro do intervalo de referência. O tratamento com abrocitinib foi associado a um
+aumento relacionado com a dose nas contagens de células B e a uma diminuição das contagens de
+células NK. O significado clínico destas alterações nas contagens de células B e células NK é
+desconhecido.
+Eletrofisiologia cardíaca
+O efeito de abrocitinib no intervalo QTc foi estudado em participantes que receberam uma dose única
+supraterapêutica de 600 mg de abrocitinib num estudo completo do QT controlado por placebo e por
+controlo positivo. Foi observado um efeito dependente da concentração de abrocitinib no
+prolongamento do QTc; a média (intervalo de confiança de 90%) para o aumento do intervalo QTc foi
+de 6,0 (4,52; 7,49) ms, indicando a ausência de um efeito clinicamente relevante de abrocitinib no
+intervalo QTc para a dose testada.
+Eficácia e segurança clínicas
+A eficácia e a segurança de abrocitinib em monoterapia e em associação com terapêuticas tópicas
+farmacológicas de suporte durante 12-16 semanas foram avaliadas em 1.616 doentes em 3 estudos
+principais de Fase 3, aleatorizados, em dupla ocultação e controlados por placebo (MONO-1,
+MONO-2 e COMPARE). Além disso, a eficácia e a segurança de abrocitinib em monoterapia ao longo
+de 52 semanas (com a opção de tratamento de resgate em doentes com recidiva) foram avaliadas em
+1.233 doentes num estudo de Fase 3, de indução, com descontinuação aleatorizada, em dupla
+ocultação e controlado por placebo (REGIMEN). Os doentes nestes 4 estudos tinham idade igual ou
+superior a 12 anos e dermatite atópica moderada a grave, tal como definido por pontuação
+Investigator’s Global Assessment (IGA) ≥ 3, pontuação Eczema Area and Severity Index (EASI) ≥ 16,
+envolvimento da ASC ≥ 10%, e pontuação Peak Pruritus Numerical Rating Scale (PP-NRS) ≥ 4 no
+início do estudo, antes da aleatorização. Eram elegíveis para inclusão, doentes com resposta anterior
+inadequada ou para quem os tratamentos tópicos eram medicamente desaconselhados ou que tinham
+recebido terapêuticas sistémicas. Todos os doentes que concluíram os estudos principais eram
+elegíveis para serem incluídos no estudo de extensão a longo prazo EXTEND.
+Características no início do estudo
+Nos estudos controlados por placebo (MONO-1, MONO-2, COMPARE) e no estudo de indução em
+regime aberto e descontinuação aleatorizada (REGIMEN), em todos os grupos de tratamento, 41,4% a
+51,1% dos doentes eram do sexo feminino, 59,3% a 77,8% eram caucasianos, 15,0% a 33,0% eram
+asiáticos e 4,1% a 8,3% eram negros e a média da idade era de 32,1 a 37,7 anos. Foi incluído nestes
+estudos um total de 134 doentes com idade igual ou superior a 65 anos. Nestes estudos, 32,2% a
+40,8% tinham IGA inicial de 4 (dermatite atópica grave) e 41,4% a 59,5% dos doentes tinham
+recebido anteriormente tratamento sistémico para a dermatite atópica. A pontuação EASI média inicial
+variava entre 28,5 e 30,9, PP-NRS inicial variava entre 7,0 e 7,3 e a pontuação inicial no Dermatology
+Life Quality Index (DLQI) variava entre 14,4 e 16,0.
+Resposta clínica
+Estudos de monoterapia durante 12 semanas (MONO-1, MONO-2) e de associação terapêutica
+durante 16 semanas (COMPARE)
+Uma proporção significativamente superior de doentes alcançou ambos os parâmetros primários de
+avaliação, ou seja, IGA 0 ou 1 e/ou EASI-75 com 100 mg ou 200 mg de abrocitinib uma vez por dia
+comparativamente ao placebo na semana 12 ou na semana 16 (ver Tabela 3 e Tabela 4).
+
+15
+
+Uma proporção significativamente superior de doentes alcançou, pelo menos, uma melhoria de
+4 pontos na PP-NRS com 100 mg ou 200 mg de abrocitinib uma vez por dia comparativamente ao
+placebo. Esta melhoria foi observada logo na semana 2 e persistiu até à semana 12 (Figura 1).
+No estudo COMPARE, foi demonstrada a superioridade de 200 mg de abrocitinib comparativamente a
+dupilumab na semana 2 para a proporção de doentes que alcançou, pelo menos, uma melhoria de
+4 pontos na PP-NRS, com respostas significativamente superiores para o prurido observadas logo no
+dia 4 após a primeira dose.
+Os efeitos do tratamento em subgrupos (por ex., peso, idade, sexo, raça e tratamento prévio com
+imunossupressor sistémico) nos estudos MONO-1, MONO-2 e COMPARE foram consistentes com os
+resultados na população global do estudo.
+Tabela 3. Resultados de eficácia de abrocitinib em monoterapia na semana 12
+MONO-1d
+Semana 12
+
+MONO-2d
+Semana 12
+
+Abrocitinib em monoterapia
+200 mg QD
+N=154
+
+Abrocitinib em monoterapia
+
+100 mg QD
+N=156
+
+PBO
+200 mg QD
+100 mg QD
+PBO
+N=77
+N=155
+N=158
+N=78
+% de respondedores (IC 95%)
+43,8e
+23,7e
+7,9
+38,1e
+28,4e
+9,1
+IGA 0 ou 1a
+(35,9; 51,7)
+(17,0; 30,4)
+(1,8; 14,0)
+(30,4; 45,7)
+(21,3; 35,5)
+(2,7; 15,5)
+62,7e
+39,7e
+11,8
+61,0e
+44,5e
+10,4
+b
+EASI-75
+(55,1; 70,4)
+(32,1; 47,4)
+(4,6; 19,1)
+(53,3; 68,7)
+(36,7; 52,3)
+(3,6; 17,2)
+57,2e
+37,7e
+15,3
+55,3e
+45,2e
+11,5
+PP-NRS4c
+(48,8; 65,6)
+(29,2; 46,3)
+(6,6; 24,0)
+(47,2; 63,5)
+(37,1; 53,3)
+(4,1; 19,0)
+Abreviaturas: IC = intervalo de confiança; EASI = Eczema Area and Severity Index; IGA = Investigator Global
+Assessment; N = número de doentes aleatorizados; PBO = placebo; PP-NRS = Peak Pruritus Numerical Rating Scale;
+QD = uma vez por dia.
+a. Os respondedores IGA eram doentes com uma pontuação IGA de pele “limpa” (0) ou “quase limpa” (1) (numa escala
+com 5 pontos) e uma redução em relação ao início do estudo  2 pontos.
+b. Os respondedores EASI-75 eram doentes com uma melhoria ≥ 75% na EASI em relação ao início do estudo.
+c. Os respondedores PP-NRS4 eram doentes com uma melhoria ≥ 4 pontos na PP-NRS em relação ao início do estudo.
+d. Abrocitinib utilizado em monoterapia
+e. Estatisticamente significativo com ajuste para multiplicidade versus placebo.
+
+16
+
+Tabela 4. Resultados de eficácia de abrocitinib em associação com terapêutica tópica na
+semana 12 e na semana 16
+COMPAREd
+Semana 12
+Abrocitinib + tópicos
+200 mg
+QD
+N=226
+
+100 mg
+QD
+N=238
+
+PBO +
+tópicos
+N=131
+
+Semana 16
+DUP +
+tópicos
+N=243
+
+Abrocitinib + tópicos
+
+PBO +
+tópicos
+N=131
+
+DUP +
+tópicos
+N=243
+
+200 mg
+QD
+100 mg QD
+N=226
+N=238
+% de respondedores (IC 95%)
+48,4e
+36,6e
+14,0
+36,5
+47,5e
+34,8e
+12,9
+38,8
+(41,8;
+(30,4; 42,8) (8,0; 19,9) (30,4; 42,6)
+(40,9;
+(28,6; 40,9)
+(7,0; 18,8)
+(32,5; 45,1)
+IGA 0 ou 1a
+55,0)
+54,1)
+70,3e
+58,7e
+27,1
+58,1
+71,0e
+60,3e
+30,6
+65,5
+(64,3;
+(52,4; 65,0)
+(19,5;
+(51,9; 64,3)
+(65,1;
+(53,9; 66,6) (22,5; 38,8) (59,4; 71,6)
+EASI-75b
+76,4)
+34,8)
+77,0)
+63,1
+47,5
+28,9
+54,5
+62,8
+47,0
+28,7
+57,1
+(56,7;
+(40,9; 54,1)
+(20,8;
+(47,9; 61,0)
+(55,6;
+(39,5; 54,6) (19,6; 37,9) (50,1; 64,2)
+PP-NRS4c
+69,6)
+37,0)
+70,0)
+Abreviaturas: IC = intervalo de confiança; DUP = dupilumab; EASI = Eczema Area and Severity Index;
+IGA = Investigator Global Assessment; N = número de doentes aleatorizados; PBO = placebo; PP-NRS = Peak Pruritus
+Numerical Rating Scale; QD = uma vez por dia.
+a. Os respondedores IGA eram doentes com uma pontuação IGA de pele “limpa” (0) ou “quase limpa” (1) (numa escala
+com 5 pontos) e uma redução em relação ao início do estudo  2 pontos.
+b. Os respondedores EASI-75 eram doentes com uma melhoria ≥ 75% na EASI em relação ao início do estudo.
+c. Os respondedores PP-NRS4 eram doentes com uma melhoria ≥ 4 pontos na PP-NRS em relação ao início do estudo.
+d. Abrocitinib utilizado em associação com terapêutica tópica.
+e. Estatisticamente significativo com ajuste para multiplicidade versus placebo.
+
+As proporções de doentes que alcançaram PP-NRS4 ao longo do tempo nos estudos MONO-1,
+MONO-2 e COMPARE são apresentadas na Figura 1.
+Figura 1. Proporção de doentes que alcançaram PP-NRS4 ao longo do tempo nos estudos
+MONO-1, MONO-2 e COMPARE
+
+Abreviaturas: PP-NRS = Peak Pruritus Numerical Rating Scale; QD = uma vez por dia; Q2W=semanas alternadas.
+Os respondedores PP-NRS4 eram doentes com uma melhoria ≥ 4 pontos na PP- NRS em relação ao início do estudo.
+a
+. Abrocitinib utilizado em monoterapia
+b. Abrocitinib utilizado em associação com terapêutica tópica.
+* Estatisticamente significativo com ajuste para multiplicidade versus placebo.
+** Estatisticamente significativo com ajuste para multiplicidade versus dupilumab.
+
+Resultados relacionados com a saúde
+Nos dois estudos de monoterapia (MONO-1 e MONO-2) e no estudo de associação terapêutica
+(COMPARE), abrocitinib melhorou significativamente os resultados reportados pelos doentes,
+incluindo o prurido, sono (EVA do sono do SCORAD), sintomas de dermatite atópica (POEM),
+
+17
+
+qualidade de vida (DLQI) e sintomas de ansiedade e depressão (HADS) que não foram corrigidos para
+multiplicidade, às 12 semanas comparativamente ao placebo (ver Tabela 5).
+Tabela 5. Resultados reportados pelo doente de abrocitinib em monoterapia e em associação
+com terapêutica tópica na semana 12
+Monoterapia
+200 mg
+QD
+154
+
+MONO-1
+100 mg
+QD
+156
+
+PBO
+
+MONO-2
+200 mg
+100 mg
+QD
+QD
+155
+158
+
+PBO
+
+Associação terapêutica
+COMPARE
+200 mg QD 100 mg QD PBO +
++ tópicos + tópicos
+tópicos
+226
+238
+131
+
+N
+77
+78
+EVA sonoSCORAD,
+-1,6
+-3,0*
+-2,1
+alteração desde
+-3,7*
+-2,9*
+-3,8*
+-4,6*
+-3,7*
+-2,4
+(-2,2; (-3,4; (-2,7; o início do
+(-4,2; -3,3) (-3,4; -2,5)
+(-4,2; -3,4)
+(-4,9; -4,3) (-4,0; -3,4) (-2,8; -2,0)
+1,0)
+2,6)
+1,5)
+estudo
+(IC 95%)
+Melhoria
+≥ 4 pontos no
+72,6%*
+67,2%*
+43,6%
+78,1%*
+73,3%*
+32,3%
+86,4%*
+74,7%*
+56,5%
+DLQI, % de
+respondedores
+POEM,
+alteração média
+-3,7
+-8,7*
+-3,6
+-12,6*
+-9,6*
+-10,6*
+-6,8*
+-11,0*
+-5,1
+desde o início
+(-5,5; (-9,9; (-5,3; (-13,6; (-10,5; (-11,8; -9,4) (-8,0; -5,6)
+(-12,1; -9,8)
+(-6,3; -3,9)
+do estudo
+1,9)
+7,5)
+1,9)
+11,7)
+8,6)
+(IC 95%)
+AnsiedadeHADS,
+-1,0
+-1,6*
+alteração desde
+-2,1*
+-1,6
+-1,7*
+-0,6
+-1,6*
+-1,2*
+-0,4
+(-1,7; (-2,1; o início do
+(-2,5; -1,6) (-2,0; -1,1)
+(-2,2; -1,2)
+(-1,3; 0,2) (-2,0; -1,2) (-1,5; -0,8) (-0,9; 0,1)
+0,4)
+1,1)
+estudo
+(IC 95%)
+DepressãoHADS,
+-1,0*
+alteração desde
+-1,8*
+-1,4*
+-0,2
+-1,4*
+0,3
+-1,6*
+-1,3*
+-0,3
+(-1,5; o início do
+(-2,2; -1,4) (-1,8; -0,9) (-0,8; 0,4) (-1,8; -1,0)
+(-0,3; 0,9) (-1,9; -1,2) (-1,6; -0,9) (-0,7; 0,2)
+0,6)
+estudo
+(IC 95%)
+IC = intervalo de confiança; DLQI = Dermatology Life Quality Index; HADS = Hospital Anxiety and Depression Scale;
+N = número de doentes aleatorizados; PBO = placebo; POEM = Patient-Oriented Eczema Measure; QD = uma vez por dia;
+SCORAD = SCORing for AD; EVA = escala visual analógica.
+*Estatisticamente significativo sem ajuste para multiplicidade
+
+Estudo de indução em regime aberto e descontinuação aleatorizada (REGIMEN)
+Um total de 1.233 doentes receberam 200 mg de abrocitinib uma vez por dia em regime aberto durante
+a fase inicial de 12 semanas. Entre estes doentes, 798 (64,7%) doentes cumpriam os critérios de
+respondedor (definido como o alcançar uma resposta IGA [0 ou 1] e EASI-75) e foram aleatorizados
+para receber placebo (267 doentes), 100 mg de abrocitinib uma vez por dia (265 doentes) ou 200 mg
+de abrocitinib uma vez por dia (266 doentes).
+O tratamento contínuo (200 mg continuamente) e o tratamento de indução-manutenção (200 mg
+durante 12 semanas seguido de 100 mg) preveniram as recidivas com 81,1% e 57,4% de
+probabilidade, respetivamente, versus 19,1% nos doentes que descontinuaram o tratamento
+(aleatorizados para placebo) após 12 semanas de indução. Trezentos e cinquenta e um (351) doentes,
+incluindo 16,2% do grupo de 200 mg, 39,2% do grupo de 100 mg e 76,4% do grupo do placebo
+receberam terapêutica de resgate composta por 200 mg de abrocitinib em associação com terapêutica
+tópica.
+
+18
+
+Figura 2.
+
+Tempo até recidiva definida pelo protocolo
+
+Abrocitinib utilizado em monoterapia.
+Recidiva definida pelo protocolo = perda de, pelo menos, 50% da resposta EASI na semana 12 e uma pontuação IGA
+igual ou superior a 2.
+p controlado para multiplicidade < 0,0001 para 200 mg versus placebo; 100 mg vs. placebo; 200 mg vs. 100 mg.
+
+Eficácia a longo prazo
+Os doentes elegíveis que completaram o período total de tratamento de um estudo principal
+qualificador (p. ex., MONO-1, MONO-2, COMPARE, REGIMEN) foram considerados para inclusão
+no estudo de extensão a longo prazo EXTEND. No EXTEND, os doentes receberam abrocitinib com
+ou sem terapêutica tópica farmacológica de suporte. Os doentes anteriormente aleatorizados para
+100 mg ou 200 mg uma vez por dia do medicamento do estudo nos estudos principais, continuaram
+com essa mesma dose no estudo EXTEND. No EXTEND, os doentes receberam tratamento em dupla
+ocultação até o estudo principal estar concluído, após o que os doentes receberam tratamento em
+ocultação simples (o tratamento atribuído foi revelado aos investigadores, mas não aos doentes).
+Entre os doentes que alcançaram resposta após 12 semanas de tratamento e que entraram no
+EXTEND, a maioria dos doentes manteve a respetiva resposta na semana 96 de tratamento cumulativo
+para ambas as doses de abrocitinib (64% e 72% para resposta IGA [0 ou 1], 87% e 90% para EASI-75
+e 75% e 80% para PP-NRS4 com 100 mg uma vez por dia e 200 mg uma vez por dia, respetivamente).
+Entre os doentes que não alcançaram resposta após 12 semanas de tratamento e que entraram no
+EXTEND, uma proporção de doentes alcançou resposta de aparecimento tardio na semana 24 (em
+relação ao início do estudo) de tratamento contínuo com abrocitinib (25% e 29% para resposta IGA [0
+ou 1] e 50% e 57% para EASI-75 com 100 mg uma vez por dia e 200 mg uma vez por dia,
+respetivamente). Os doentes que alcançaram uma resposta parcial na semana 12 tinham mais
+probabilidade de alcançar benefício do tratamento na semana 24 do que aqueles sem resposta na
+semana 12.
+Os doentes que receberam dupilumab no estudo COMPARE e entraram subsequentemente no
+EXTEND foram aleatorizados para 100 mg ou 200 mg de abrocitinib uma vez por dia ao entrarem no
+EXTEND. Entre os não respondedores ao dupilumab, uma proporção substancial de doentes tinha
+alcançado resposta 12 semanas após terem mudado para abrocitinib (34% e 47% para resposta
+IGA [0 ou 1] e 68% e 80% para EASI-75 com 100 mg uma vez por dia e 200 mg uma vez por dia,
+respetivamente).
+
+19
+
+População pediátrica
+A Agência Europeia de Medicamentos diferiu a obrigação de apresentação dos resultados dos estudos
+com abrocitinib em um ou mais subgrupos da população pediátrica no tratamento da dermatite atópica
+(ver secção 4.2 para informação sobre utilização pediátrica).
+A eficácia e a segurança de abrocitinib em monoterapia durante 12 semanas foram avaliadas em
+2 estudos de Fase 3, aleatorizados, em dupla ocultação, controlados por placebo (MONO-1, MONO-2)
+que incluíram 124 doentes com idade entre os 12 e menos de 18 anos. A eficácia e a segurança de
+abrocitinib em monoterapia durante 52 semanas (com uma opção de tratamento de resgate para
+doentes que recidivavam) também foram avaliadas num estudo de indução em regime aberto e
+descontinuação aleatorizada (REGIMEN), que incluiu 246 doentes com idade entre os 12 e menos de
+18 anos. Nestes estudos, os resultados do subgrupo dos adolescentes foram consistentes com os
+resultados da população global do estudo.
+A eficácia e a segurança de abrocitinib durante 12 semanas em associação com terapêutica tópica
+farmacológica de suporte foram avaliadas no TEEN, um estudo de Fase 3, aleatorizado, em dupla
+ocultação, controlado por placebo. O estudo incluiu 285 doentes com idade entre os 12 e menos de
+18 anos com dermatite atópica moderada a grave, tal como definido por pontuação IGA ≥ 3,
+pontuação EASI ≥ 16, envolvimento da ASC ≥ 10% e PP-NRS  4 na consulta do início do estudo
+antes da aleatorização. Eram elegíveis para inclusão os doentes com resposta anterior inadequada ou
+que tinham recebido terapêutica sistémica.
+Características no início do estudo
+No TEEN, em todos os grupos de tratamento, 49,1% dos doentes eram do sexo feminino, 56,1% eram
+caucasianos, 33,0% eram asiáticos e 6,0% eram negros. A mediana da idade era de 15 anos e a
+proporção de doentes com dermatite atópica grave (IGA de 4) era de 38,6%.
+Os resultados do tratamento de 12 semanas com abrocitinib em adolescentes no MONO-1 e MONO-,
+e no estudo TEEN são apresentados na Tabela 6.
+Tabela 6. Resultados de eficácia em adolescentes à semana 12 no MONO-1 e MONO-2
+agrupados, e no TEEN
+MONO-1 e MONO-2 agrupados
+Abrocitinib Abrocitinib
+Placebo
+200 mg QD 100 mg QD
+IGA 0 ou 1a
+N
+%
+IC 95%
+EASI-75b
+N
+%
+IC 95%
+PP-NRS4c
+N
+%
+IC 95%
+
+Abrocitinib
+200 mg QD
+
+TEENd
+Abrocitinib
+100 mg QD
+
+Placebo
+
+48
+31,3
+(18,1; 44,4)
+
+50
+22,0
+(10,5; 33,5)
+
+23
+8,7
+(0,0; 20,2)
+
+93
+46,2e
+(36,1; 56,4)
+
+89
+41,6e
+(31,3; 51,8)
+
+94
+24,5
+(15,8; 33,2)
+
+48
+56,3
+(42,2; 70,3)
+
+50
+44,0
+(30,2; 57,8)
+
+23
+8,7
+(0,0; 20,2)
+
+93
+72,0e
+(62,9; 81,2)
+
+89
+68,5e
+(58,9; 78,2)
+
+94
+41,5
+(31,5; 51,4)
+
+36
+61,1
+(45,2; 77,0)
+
+42
+28,6
+(14,9; 42,2)
+
+22
+9,1
+(0,0; 21,1)
+
+74
+55,4e
+(44,1; 66,7)
+
+76
+52,6
+(41,4; 63,9)
+
+84
+29,8
+(20,0; 39,5)
+
+Abreviaturas: IC = intervalo de confiança; EASI = Eczema Area and Severity Index; IGA = Investigator Global
+Assessment; N = número de doentes avaliáveis; PP-NRS = Peak Pruritus Numerical Rating Scale; QD = uma vez por
+dia.
+a. Os respondedores IGA eram doentes com uma pontuação IGA de pele “limpa” (0) ou “quase limpa” (1) (numa
+escala com 5 pontos) e uma redução em relação ao início do estudo  2 pontos.
+b. Os respondedores EASI-75 eram doentes com uma melhoria ≥ 75% na EASI em relação ao início do estudo.
+c. Os respondedores PP-NRS4 eram doentes com uma melhoria ≥ 4 pontos na PP-NRS em relação ao início do estudo.
+d. Abrocitinib utilizado em associação com terapêutica tópica farmacológica.
+e. Estatisticamente significativo com ajuste para multiplicidade versus placebo.
+
+20
+
+Entre os doentes adolescentes que alcançaram resposta após 12 semanas de tratamento e que entraram
+no estudo de extensão a longo prazo EXTEND, a maioria mantinha a sua resposta à semana 96 de
+tratamento cumulativo, para ambas as doses de abrocitinib (62% e 78 % para resposta IGA [0 ou 1],
+89% e 93% para EASI-75, e 77% e 76% para PP-NRS4 com 100 mg e 200 mg uma vez por dia,
+respetivamente).
+Entre os doentes adolescentes que não alcançaram resposta após 12 semanas de tratamento e que
+entraram no EXTEND, uma percentagem de doentes alcançou resposta de aparecimento tardio na
+semana 24 (em relação ao início do estudo) de tratamento contínuo com ambas as doses de abrocitinib
+( 34% e 28% para resposta IGA [0 ou 1], e 41% e 55% para EASI-75 com 100 mg e 200 mg uma vez
+por dia, respetivamente).
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+Abrocitinib é bem absorvido com uma absorção oral de mais de 91% e uma biodisponibilidade oral
+absoluta de aproximadamente 60%. A absorção oral de abrocitinib é rápida, sendo as concentrações
+plasmáticas de pico alcançadas no prazo de 1 hora. As concentrações plasmáticas de abrocitinib no
+estado estacionário são alcançadas em 48 horas após a administração uma vez por dia. Tanto a Cmax
+como a AUC de abrocitinib aumentaram de forma proporcional à dose até 200 mg. A coadministração
+de abrocitinib com uma refeição com elevado teor de gordura não teve qualquer efeito clinicamente
+relevante nas exposições a abrocitinib (a AUC e a Cmax aumentaram aproximadamente 26% e 29%,
+respetivamente e o Tmax foi prolongado em 2 horas). Em estudos clínicos, abrocitinib foi administrado
+sem ter a alimentação em consideração (ver secção 4.2).
+Distribuição
+Após administração intravenosa, o volume de distribuição de abrocitinib é de cerca de 100 L.
+Aproximadamente 64%, 37% e 29% de abrocitinib e dos seus metabolitos ativos, M1 e M2, em
+circulação, respetivamente, estão ligados às proteínas plasmáticas. Abrocitinib e os seus metabolitos
+ativos distribuem-se equitativamente entre os eritrócitos e o plasma.
+Biotransformação
+O metabolismo in vitro de abrocitinib é mediado por múltiplas enzimas CYP, CYP2C19 (~53%),
+CYP2C9 (~30%), CYP3A4 (~11%) e CYP2B6 (~6%). Num estudo com radiomarcação em humanos,
+abrocitinib foi a espécie mais prevalente na circulação, com 3 metabolitos polares mono-hidroxilados
+principais identificados como M1 (3-hidroxipropilo), M2 (2-hidroxipropilo) e M4 (pirrolidona
+pirimidina). No estado estacionário, o M2 e o M4 são metabolitos major e o M1 é um metabolito
+minor. Dos 3 metabolitos em circulação, o M1 e o M2 têm perfis de inibição da JAK semelhantes ao
+de abrocitinib, ao passo que o M4 era farmacologicamente inativo. A atividade farmacológica de
+abrocitinib é atribuível às exposições às formas não ligadas da molécula original (~60%), bem como
+do M1 (~10%) e do M2 (~30%) na circulação sistémica. A soma das exposições às formas não ligadas
+de abrocitinib, M1 e M2, cada uma expressa em unidades molares e ajustada para as potências
+relativas, é referida como fração ativa de abrocitinib.
+Não foram observados efeitos clinicamente significativos de abrocitinib em estudos de interação com
+substratos de BCRP e OAT3 (por exemplo, rosuvastatina), MATE1/2K (por exemplo, metformina),
+CYP3A4 (por exemplo, midazolam) e CYP2B6 (por exemplo, efavirenz).
+Eliminação
+A semivida de eliminação de abrocitinib é de cerca de 5 horas. Abrocitinib é eliminado principalmente
+por mecanismos de depuração metabólica, com menos de 1% da dose excretada na urina sob a forma
+de substância ativa inalterada. Os metabolitos de abrocitinib, M1, M2 e M4, são excretados
+predominantemente na urina e são substratos do transportador OAT3.
+21
+
+Populações especiais
+Peso corporal, género, genótipo, raça e idade
+O peso corporal, o género, o genótipo CYP2C19/2C9, a raça e a idade não tiveram um efeito
+clinicamente significativo na exposição a abrocitinib (ver secção 4.2).
+Adolescentes (≥ 12 a < 18 anos)
+Com base numa análise de farmacocinética da população, não existe uma diferença clinicamente
+relevante entre as exposições médias no estado estacionário a abrocitinib em doentes adolescentes e
+adultos para os seus pesos corporais típicos.
+Pediátrico (< 12 anos)
+Os estudos de interação só foram realizados em adultos. A farmacocinética de abrocitinib em crianças
+com menos de 12 anos de idade não foi ainda estabelecida (ver secção 4.2).
+Compromisso renal
+Num estudo de compromisso renal, os doentes com compromisso renal grave (TFGe < 30 ml/min) e
+moderado (TFGe entre 30 ml/min e < 60 ml/min) tiveram aumentos de aproximadamente 191% e
+110% na AUCinf da fração ativa, respetivamente, comparado a doentes com função renal normal
+(TFGe ≥ 90 ml/min) (ver secção 4.2). A farmacocinética de abrocitinib não foi determinada em
+doentes com compromisso renal ligeiro, contudo, com base nos resultados observados noutros grupos,
+é de esperar um aumento de até 70% na exposição à fração ativa em doentes com compromisso renal
+ligeiro (TFGe entre 60 ml/min e < 90 ml/min). O aumento de até 70% não é clinicamente
+significativo, pois a segurança e a eficácia de abrocitinib nos doentes com dermatite atópica com
+compromisso renal ligeiro (n = 756) foram comparáveis às da população global em estudos clínicos de
+Fase 2 e 3. A TFGe em doentes individuais foi calculada recorrendo à fórmula MDRD (Modification
+of Diet in Renal Disease).
+Abrocitinib não foi estudado em doentes com DRT ou a fazer terapêutica de substituição renal (ver
+secção 4.2). Em estudos clínicos de Fase 3, abrocitinib não foi avaliado em doentes com dermatite
+atópica com valores de depuração na creatinina no início do estudo inferiores a 40 ml/min.
+Compromisso hepático
+Os doentes com compromisso hepático ligeiro (Child Pugh A) e moderado (Child Pugh B) tiveram,
+aproximadamente, uma diminuição de 4% e um aumento de 15% na AUCinf da fração ativa,
+respetivamente, comparado a doentes com função hepática normal. Estas alterações não são
+clinicamente significativas e não é necessário ajustar a dose em doentes com compromisso hepático
+ligeiro ou moderado (ver secção 4.2). Em estudos clínicos, abrocitinib não foi avaliado em doentes
+com compromisso hepático grave (Child Pugh C) (ver secção 4.3) ou em doentes com resultado
+positivo no rastreio de hepatite B ou C ativa (ver secção 4.4).
+5.3
+
+Dados de segurança pré-clínica
+
+Toxicidade geral
+Foi observada diminuição das contagens de linfócitos e diminuição do tamanho e/ou celularidade
+linfoide de órgãos/tecidos dos sistemas imunitário e hematopoiético em estudos não clínicos, tendo
+sido atribuídas às propriedades farmacológicas (inibição da JAK) de abrocitinib.
+Em estudos de toxicidade até um 1 mês de administração de abrocitinib a ratos com uma idade
+comparável à idade humana adolescente de ≥ 12 anos, foi observada distrofia óssea microscópica,
+considerada temporária e reversível e as margens de exposição para as quais não foram encontrados
+achados ósseos foram de 5,7 a 6,1 vezes a AUC humana para a dose humana máxima recomendada
+(DHMR) de 200 mg. Não foram observados achados ósseos em ratos com qualquer dose no estudo de
+22
+
+toxicidade com 6 meses de duração (até 25 vezes a AUC humana para a DHMR de 200 mg) ou em
+qualquer um dos estudos de toxicidade em macacos cynomolgus (comparáveis à idade humana de
+≥ 8 anos; até 30 vezes a AUC humana para a DHMR de 200 mg).
+Genotoxicidade
+Abrocitinib foi não mutagénico no ensaio de mutagenicidade bacteriana (ensaio de Ames). Não foi
+aneugénico ou clastogénico com base nos resultados do ensaio do micronúcleo in vivo em medula
+óssea de rato.
+Carcinogenicidade
+Não foi observada evidência de tumorigenicidade em ratinhos Tg.rasH2 com 6 meses aos quais foram
+administradas doses orais de abrocitinib de até 75 mg/kg/dia e 60 mg/kg/dia a fêmeas e machos,
+respetivamente. No estudo de carcinogenicidade com 2 anos de duração, foi observada uma incidência
+superior de timomas benignos nos ratos fêmea com a dose mais baixa testada. Assim sendo, foi
+definido um nível mínimo com efeitos adversos observáveis (LOAEL) nas fêmeas para exposições
+iguais a 0,6 vezes a AUC humana para a DHMR de 200 mg. Nos machos, o nível sem efeitos adversos
+observáveis (NOAEL) foi definido para exposições iguais a 13 vezes a AUC humana para a DHMR de
+200 mg. A relevância dos timomas benignos para os seres humanos é desconhecida.
+Toxicidade reprodutiva e do desenvolvimento
+Abrocitinib não tem efeitos na fertilidade masculina ou na espermatogénese. Abrocitinib provocou
+efeitos na fertilidade feminina (menor índice de fertilidade, menos corpos lúteos e locais de
+implantação e perdas pós-implantação), mas não foram observados efeitos na fertilidade para
+exposições iguais a 1,9 vezes a AUC humana para a DHMR de 200 mg. Os efeitos reverteram 1 mês
+após a cessação do tratamento.
+Não foram observadas malformações fetais em estudos de desenvolvimento embriofetal em ratos ou
+coelhos. Num estudo de desenvolvimento embriofetal em coelhas prenhas, foram observados efeitos
+na sobrevivência embriofetal com a dose mais baixa testada com exposições iguais a 0,14 vezes a
+AUC humana para a DHMR de 200 mg. Foi observado um aumento da incidência nas ninhadas de não
+ossificação das falanges e tarsos dos membros traseiros e das falanges dos membros dianteiros, com os
+efeitos nas falanges dos membros dianteiros a serem observados com exposições iguais a 0,14 vezes a
+AUC não ligada humana para a DHMR de 200 mg.
+Num estudo de desenvolvimento embriofetal em fêmeas de rato prenhas, embora tenha sido observado
+um aumento da letalidade embriofetal, a mesma não foi observada com exposições iguais a 10 vezes a
+AUC humana para a DHMR de 200 mg. Foi observado um aumento da incidência de variações
+esqueléticas, tais como 13ª costelas curtas, redução dos processos ventrais, espessamento das costelas
+e metatarsos não ossificados nos fetos, não tendo estas variações sido observadas com exposições
+iguais a 2,3 vezes a AUC humana para a DHMR de 200 mg.
+Num estudo de desenvolvimento pré- e pós-natal em fêmeas de rato prenhas, as progenitoras tiveram
+distocia com parturição prolongada, as crias tinham pesos corporais inferiores e menor sobrevivência
+pós-natal. Não foi observada toxicidade materna ou do desenvolvimento nas progenitoras ou nas crias
+com exposições iguais a 2,3 vezes a AUC humana para a DHMR de 200 mg.
+A administração de abrocitinib a ratos juvenis com início no dia 10 do período pós-natal (equiparável
+a seres humanos com 3 meses de idade) resultou em achados ósseos macroscópicos e microscópicos
+adversos, incluindo má rotação das patas, fraturas e/ou anomalias da cabeça do fémur. A
+administração de abrocitinib a ratos juvenis com início no dia 21 do período pós-natal e
+posteriormente (equiparável a seres humanos com 2 anos de idade ou mais) não foi associada a
+achados ósseos macroscópicos ou microscópicos.
+
+23
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Núcleo do comprimido
+Celulose microcristalina (E460i)
+Hidrogenofosfato de cálcio anidro (E341ii)
+Carboximetilamido sódico
+Estearato de magnésio (E470b)
+Película de revestimento
+Hipromelose (E464)
+Dióxido de titânio (E171)
+Lactose mono-hidratada
+Macrogol (E1521)
+Triacetina (E1518)
+Óxido de ferro vermelho (E172)
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+3 anos.
+6.4
+
+Precauções especiais de conservação
+
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Cibinqo 50 mg comprimidos revestidos por película
+Frasco de polietileno de alta densidade (PEAD) e fecho de polipropileno contendo 14 ou
+30 comprimidos revestidos por película.
+Blister de cloreto de polivinilideno (PVDC) selado com película de alumínio contendo 7 comprimidos
+revestidos por película. Cada embalagem contém 14, 28 ou 91 comprimidos revestidos por película.
+Cibinqo 100 mg comprimidos revestidos por película
+Frasco de PEAD e fecho de polipropileno contendo 14 ou 30 comprimidos revestidos por película.
+Blister de PVDC selado com película de alumínio contendo 7 comprimidos revestidos por película.
+Cada embalagem contém 14, 28 ou 91 comprimidos revestidos por película.
+Cibinqo 200 mg comprimidos revestidos por película
+Frasco de PEAD e fecho de polipropileno contendo 14 ou 30 comprimidos revestidos por película.
+Blister de PVDC selado com película de alumínio contendo 7 comprimidos revestidos por película.
+Cada embalagem contém 14, 28 ou 91 comprimidos revestidos por película.
+
+24
+
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Bélgica
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Cibinqo 50 mg comprimidos revestidos por película
+EU/1/21/1593/001
+EU/1/21/1593/002
+EU/1/21/1593/003
+EU/1/21/1593/004
+EU/1/21/1593/005
+Cibinqo 100 mg comprimidos revestidos por película
+EU/1/21/1593/006
+EU/1/21/1593/007
+EU/1/21/1593/008
+EU/1/21/1593/009
+EU/1/21/1593/010
+Cibinqo 200 mg comprimidos revestidos por película
+EU/1/21/1593/011
+EU/1/21/1593/012
+EU/1/21/1593/013
+EU/1/21/1593/014
+EU/1/21/1593/015
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 09 de dezembro de 2021
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+25
+
+ANEXO II
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO
+LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+26
+
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante responsável pela libertação do lote
+Pfizer Manufacturing Deutschland GmbH
+Mooswaldallee 1
+79108 Freiburg Im Breisgau
+Alemanha
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo
+107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal
+europeu de medicamentos.
+O Titular da Autorização de Introdução no Mercado (AIM) deverá apresentar o primeiro RPS para este
+medicamento no prazo de 6 meses após a concessão da autorização.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+ A pedido da Agência Europeia de Medicamentos
+ Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+
+Medidas adicionais de minimização do risco
+
+Antes do lançamento de abrocitinib em cada Estado-Membro, o Titular da AIM deve acordar o
+conteúdo e formato do programa educacional, incluindo os meios de comunicação, modo de
+distribuição e quaisquer outros aspetos do programa, com a Autoridade Nacional Competente.
+O programa educacional tem como objetivo aumentar a consciencialização acerca das preocupações
+de segurança do medicamento, incluindo as infeções (incluindo herpes zoster e infeções graves e
+oportunistas), tromboembolismo venoso (TEV), neoplasias malignas, acontecimentos adversos
+cardiovasculares major (MACE) e toxicidade embriofetal após exposição in utero.
+27
+
+O Titular da AIM deve assegurar que em cada Estado-Membro no qual abrocitinib é comercializado,
+todos os profissionais de saúde e doentes/prestadores de cuidados que se espera que prescrevam,
+dispensem ou utilizem abrocitinib têm acesso e/ou recebem os seguintes pacotes educacionais:
+O material educacional para o médico deve conter:
+ O Resumo das Características do Medicamento
+ O Folheto Informativo
+ A Brochura para o prescritor
+ O Cartão do Doente (CD)
+A brochura para o médico prescritor deve conter os seguintes elementos-chave:
+ Incluir uma secção sobre abrocitinib que descreva a indicação e a posologia.
+ Informação para os profissionais de saúde informarem os doentes acerca da importância do CD.
+ Utilização em doentes com idade igual ou superior a 65 anos
+o Informação para reforçar os riscos nestes doentes e a utilização da dose de 100 mg
+ Infeções (incluindo herpes zoster e infeções graves e oportunistas)
+o Descrever que Cibinqo não pode ser utilizado em doentes com infeções sistémicas graves
+ativas.
+o Informação sobre o risco de infeções durante o tratamento com Cibinqo.
+o Detalhes sobre como reduzir o risco de infeção com medidas clínicas específicas (que
+parâmetros laboratoriais devem ser utilizados para iniciar Cibinqo, rastreio da TB, rastreio
+das hepatites B e C, fazer com que os doentes sejam imunizados de acordo com o plano
+nacional de vacinação e a interrupção temporária de Cibinqo caso uma infeção não esteja
+a responder à terapêutica padrão até à sua resolução).
+o Informação declarando que a utilização de vacinas vivas atenuadas, deve ser evitada
+imediatamente antes ou durante o tratamento, juntamente com exemplos de vacinas vivas
+atenuadas.
+o Informação a recomendar que os fatores de risco para infeções devem ser considerados
+quando se prescreve abrocitinib, incluindo a idade avançada e a diabetes.
+ TEV
+o Informação a descrever o risco de TEV durante o tratamento com Cibinqo.
+o Exemplos de fatores de risco que podem colocar os doentes em risco acrescido para TEV
+e os doentes para os quais é necessária cautela ao utilizar abrocitinib.
+o Informação sobre a necessidade de que os doentes sejam reavaliados periodicamente
+quanto a alterações do risco para TEV.
+o Informação sobre a resposta caso ocorram características clínicas de TEV incluindo a
+necessidade de avaliação imediata e de descontinuação de Cibinqo.
+ Neoplasias malignas
+o Informação para descrever que, nos doentes com risco elevado de neoplasias malignas,
+abrocitinib apenas deve ser utilizado se não estiverem disponíveis alternativas de
+tratamento adequadas, com exemplos de quem pode estar em risco.
+o Aviso acerca da necessidade de exames periódicos da pele para os doentes.
+ MACE
+o Informação a descrever que, em doentes com alto risco para MACE, abrocitinib apenas
+deve ser utilizado se não estiverem disponíveis alternativas de tratamento adequadas, com
+exemplos de quem pode estar em risco.
+o Informação sobre como os lípidos devem ser monitorizados antes de iniciar a terapêutica,
+após 4 semanas de tratamento e, posteriormente, de acordo com as orientações clínicas. Os
+lípidos devem ser controlados de acordo com as orientações clínicas.
+ Toxicidade embriofetal após exposição in utero
+o Informação sobre o facto de que a quantidade de dados sobre a utilização de Cibinqo em
+mulheres grávidas é inexistente ou limitada.
+o Detalhes sobre como reduzir o risco de exposição durante a gravidez para as mulheres
+com potencial para engravidar, baseado no seguinte: Cibinqo é contraindicado durante a
+gravidez; as mulheres com potencial para engravidar devem ser aconselhadas a utilizar
+28
+
+métodos contracetivos eficazes durante o tratamento e durante 1 mês após a cessação da
+administração oral de Cibinqo e as doentes devem ser alertadas para informarem o seu
+profissional de saúde imediatamente se pensarem que estão grávidas ou se a gravidez for
+confirmada.
+O pacote informativo para o doente deve conter:
+ O Folheto Informativo
+ O Cartão do Doente
+
+
+O cartão do doente deve conter as seguintes mensagens-chave:
+o Dados de contacto do médico prescritor de Cibinqo.
+o Informação indicando que o doente deve trazer o CD sempre consigo e que o deve mostrar
+aos profissionais de saúde envolvidos no seu tratamento (ou seja, não prescritores de
+Cibinqo, profissionais de serviços de urgência, etc.).
+o Informação a descrever Cibinqo (ou seja, o que é e para que é utilizado).
+o Risco de infeções:
+ Descrição dos sinais/sintomas de infeções para os quais o doente precisa de estar
+atento, para que possa procurar assistência do seu profissional de saúde.
+ Informação para alertar os doentes e os seus profissionais de saúde acerca do risco
+da administração de vacinas vivas imediatamente antes e durante a terapêutica com
+Cibinqo, com exemplos de vacinas vivas.
+o Risco de coágulos de sangue nas veias e nos pulmões:
+ Descrição dos sinais/sintomas de coágulos de sangue nas veias (trombose venosa
+profunda) ou nos pulmões (embolia pulmonar), para os quais o doente precisa de
+estar atento, para que possa procurar assistência imediata do seu profissional de
+saúde.
+o Risco de doença cardíaca:
+ Descrição dos sinais/sintomas de doença cardíaca, para os quais o doente precisa
+de estar atento, para que possa procurar assistência imediata do seu profissional de
+saúde.
+o Aviso acerca do risco de cancro. Relativamente ao cancro da pele, lembrete para que o
+doente informe o seu médico se notar qualquer novo crescimento na pele.
+o Descrição de riscos específicos para a consciencialização do doente e dos profissionais de
+saúde envolvidos no seu tratamento, incluindo:
+ A necessidade de monitorização laboratorial, incluindo o colesterol elevado.
+ Um lembrete para utilizar métodos contracetivos, que Cibinqo é contraindicado
+durante a gravidez e para informar o respetivo profissional de saúde, se a doente
+engravidar enquanto estiver a tomar Cibinqo.
+
+29
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+30
+
+A. ROTULAGEM
+
+31
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CAIXA PARA A EMBALAGEM BLISTER E RÓTULO DO FRASCO PARA 50 MG
+
+1.
+
+NOME DO MEDICAMENTO
+
+Cibinqo 50 mg comprimidos revestidos por película
+abrocitinib
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 50 mg de abrocitinib.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose mono-hidratada (ver o folheto para mais informações).
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Blisters
+14 comprimidos revestidos por película
+28 comprimidos revestidos por película
+91 comprimidos revestidos por película
+Frasco
+14 comprimidos revestidos por película
+30 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via oral.
+Não dividir, esmagar ou mastigar.
+Consultar o folheto informativo antes de utilizar.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+32
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Bélgica
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Blisters
+EU/1/21/1593/003 14 comprimidos revestidos por película
+EU/1/21/1593/004 28 comprimidos revestidos por película
+EU/1/21/1593/005 91 comprimidos revestidos por película
+Frasco
+EU/1/21/1593/001 14 comprimidos revestidos por película
+EU/1/21/1593/002 30 comprimidos revestidos por película
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Cibinqo 50 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18. IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+PC
+SN
+NN
+
+33
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTERS PARA COMPRIMIDOS DE 50 MG
+
+1.
+
+NOME DO MEDICAMENTO
+
+Cibinqo 50 mg comprimidos revestidos por película
+abrocitinib
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Pfzer Europe MA EEIG (como o logótipo do titular da AIM)
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+OUTROS
+
+Seg., Ter., Qua., Qui., Sex., Sáb., Dom.
+
+34
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CAIXA PARA A EMBALAGEM BLISTER E RÓTULO DO FRASCO PARA 100 MG
+
+1.
+
+NOME DO MEDICAMENTO
+
+Cibinqo 100 mg comprimidos revestidos por película
+abrocitinib
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 100 mg de abrocitinib.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose mono-hidratada (ver o folheto para mais informações).
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Blisters
+14 comprimidos revestidos por película
+28 comprimidos revestidos por película
+91 comprimidos revestidos por película
+Frasco
+14 comprimidos revestidos por película
+30 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via oral.
+Não dividir, esmagar ou mastigar.
+Consultar o folheto informativo antes de utilizar.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+35
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Bélgica
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Blisters
+EU/1/21/1593/008 14 comprimidos revestidos por película
+EU/1/21/1593/009 28 comprimidos revestidos por película
+EU/1/21/1593/010 91 comprimidos revestidos por película
+Frasco
+EU/1/21/1593/006 14 comprimidos revestidos por película
+EU/1/21/1593/007 30 comprimidos revestidos por película
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Cibinqo 100 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18. IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+PC
+SN
+NN
+
+36
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTERS PARA COMPRIMIDOS DE 100 MG
+
+1.
+
+NOME DO MEDICAMENTO
+
+Cibinqo 100 mg comprimidos revestidos por película
+abrocitinib
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Pfzer Europe MA EEIG (como o logótipo do titular da AIM)
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+OUTROS
+
+Seg., Ter., Qua., Qui., Sex., Sáb., Dom.
+
+37
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CAIXA PARA A EMBALAGEM BLISTER E RÓTULO DO FRASCO PARA 200 MG
+
+1.
+
+NOME DO MEDICAMENTO
+
+Cibinqo 200 mg comprimidos revestidos por película
+abrocitinib
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 200 mg de abrocitinib.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose mono-hidratada (ver o folheto para mais informações).
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Blisters
+14 comprimidos revestidos por película
+28 comprimidos revestidos por película
+91 comprimidos revestidos por película
+Frasco
+14 comprimidos revestidos por película
+30 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via oral.
+Não dividir, esmagar ou mastigar.
+Consultar o folheto informativo antes de utilizar.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+38
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Bélgica
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Blisters
+EU/1/21/1593/013 14 comprimidos revestidos por película
+EU/1/21/1593/014 28 comprimidos revestidos por película
+EU/1/21/1593/015 91 comprimidos revestidos por película
+Frasco
+EU/1/21/1593/011 14 comprimidos revestidos por película
+EU/1/21/1593/012 30 comprimidos revestidos por película
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Cibinqo 200 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+39
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+40
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTERS PARA COMPRIMIDOS DE 200 MG
+
+1.
+
+NOME DO MEDICAMENTO
+
+Cibinqo 200 mg comprimidos revestidos por película
+abrocitinib
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Pfzer Europe MA EEIG (como o logótipo do titular da AIM)
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+OUTROS
+
+Seg., Ter., Qua., Qui., Sex., Sáb., Dom.
+
+41
+
+B. FOLHETO INFORMATIVO
+
+42
+
+Folheto informativo: Informação para o doente
+Cibinqo 50 mg comprimidos revestidos por película
+Cibinqo 100 mg comprimidos revestidos por película
+Cibinqo 200 mg comprimidos revestidos por película
+abrocitinib
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+Para além deste folheto, o seu médico irá dar-lhe um cartão do doente, que contém informação de
+segurança importante que precisa de saber. Traga este cartão sempre consigo.
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+1.
+
+O que é Cibinqo e para que é utilizado
+O que precisa de saber antes de tomar Cibinqo
+Como tomar Cibinqo
+Efeitos indesejáveis possíveis
+Como conservar Cibinqo
+Conteúdo da embalagem e outras informações
+O que é Cibinqo e para que é utilizado
+
+Cibinqo contém a substância ativa abrocitinib. Pertence a um grupo de medicamentos chamados
+inibidores da Janus cinase, que ajudam a reduzir a inflamação. Atua reduzindo a atividade de uma
+enzima do organismo chamada “Janus cinase”, que está envolvida na inflamação.
+Cibinqo é utilizado para tratar adultos e adolescentes com idade igual ou superior a 12 anos com
+dermatite atópica, também designada por eczema atópico, moderada a grave. Ao reduzir a atividade da
+enzima Janus cinase, Cibinqo atenua a comichão e a inflamação da pele. Isto, por sua vez, ajuda a
+reduzir as perturbações do sono e outras consequências do eczema atópico, tais como a ansiedade ou
+depressão e melhora a qualidade de vida global.
+2.
+
+O que precisa de saber antes de tomar Cibinqo
+
+Não tome Cibinqo
+se tem alergia a abrocitinib ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+se tem uma infeção grave ativa, incluindo tuberculose.
+se tem problemas graves de fígado.
+se está grávida ou a amamentar (ver secção ”Gravidez, contraceção, amamentação e
+fertilidade”).
+43
+
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes e durante o tratamento com Cibinqo se:
+tem uma infeção ou se contrair infeções com frequência. Informe o seu médico se tiver
+sintomas, tais como febre, feridas, sentir mais cansaço do que é habitual ou problemas dentários,
+pois podem ser sinais de infeção. Cibinqo pode reduzir a capacidade do seu organismo para
+combater as infeções e pode agravar uma infeção existente ou aumentar a probabilidade de
+contrair uma infeção nova. Se tem diabetes ou 65 anos de idade ou mais, poderá ter uma maior
+probabilidade de contrair infeções.
+tem ou já teve tuberculose ou se esteve em contacto próximo com alguém com tuberculose. O
+seu médico vai testá-lo quanto à tuberculose antes de iniciar Cibinqo e poderá repetir o teste
+durante o tratamento.
+alguma vez teve uma infeção pelo vírus do herpes (zona), pois Cibinqo pode permitir que
+reapareça. Informe o seu médico que tiver uma erupção na pele dolorosa com bolhas, pois pode
+ser um sinal de zona.
+alguma vez teve hepatite B ou hepatite C.
+recebeu recentemente ou planeia receber uma vacina (imunização) – isto é porque determinadas
+vacinas (as vacinas vivas) não são recomendadas durante a utilização de Cibinqo.
+teve anteriormente coágulos de sangue nas veias das pernas (trombose venosa profunda) ou nos
+pulmões (embolia pulmonar) ou se tem um risco aumentado de desenvolver estes problemas
+(por exemplo, foi submetido recentemente a uma grande cirurgia, se utiliza contracetivos
+hormonais/terapêutica hormonal de substituição, se foi identificado um defeito da coagulação
+em si ou nos seus familiares próximos). O seu médico vai conversar consigo sobre se Cibinqo é
+apropriado para si. Informe o seu médico se, subitamente, ficar com falta de ar ou dificuldade
+em respirar, tiver dor no peito ou dor na parte superior das costas, inchaço nas pernas ou braços,
+dor ou sensibilidade nas pernas ou vermelhidão ou descoloração nas pernas ou braços, pois
+podem ser sinais de coágulos de sangue nas veias.
+tem ou teve problemas de coração, pois o seu médico vai conversar consigo sobre se Cibinqo é
+apropriado para si.
+tem ou teve cancro, fuma ou fumou no passado, pois o seu médico vai conversar consigo sobre
+se Cibinqo é apropriado para si.
+Foi observado cancro de pele não melanoma em doentes a tomar Cibinqo. O seu médico poderá
+recomendar que seja submetido a exames regulares à pele enquanto estiver a tomar Cibinqo. Se
+aparecerem novas lesões na pele durante ou após o tratamento ou se o aspeto de lesões
+existentes se alterar, informe o seu médico.
+Análises de monitorização adicionais
+O seu médico vai pedir análises ao sangue antes e durante o tratamento com Cibinqo e poderá ajustar o
+seu tratamento, se for necessário.
+Crianças
+Este medicamento não está aprovado para utilização em crianças com menos de 12 anos de idade
+porque a segurança e os benefícios de Cibinqo neste grupo etário ainda não foram estabelecidos.
+Outros medicamentos e Cibinqo
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos.
+Em particular, informe o seu médico ou farmacêutico antes de tomar Cibinqo se estiver a tomar alguns
+dos medicamentos para tratar:
+infeções fúngicas (tais como, fluconazol), depressão (tais como, fluoxetina ou fluvoxamina),
+AVC (acidente vascular cerebral) (tais como, ticlopidina), pois podem aumentar os efeitos
+indesejáveis de Cibinqo.
+refluxo ácido no estômago (tais como, antiácidos, famotidina ou omeprazol), pois podem
+reduzir a quantidade de Cibinqo no sangue.
+depressão (tais como citalopram, clobazam ou escitalopram), pois Cibinqo pode aumentar os
+seus efeitos.
+neurofibromatose tipo 1 (tais como selumetinib), pois Cibinqo pode aumentar os seus efeitos.
+44
+
+-
+
+insuficiência cardíaca (tais como, digoxina) ou AVC (tais como, dabigatrano), pois Cibinqo
+pode aumentar os seus efeitos.
+convulsões (tais como S-mefenitoína), pois Cibinqo pode aumentar os seus efeitos.
+AVC (tais como clopidogrel), pois Cibinqo pode diminuir os seus efeitos.
+asma, artrite reumatoide ou dermatite atópica (tais como terapêuticas com anticorpos biológicos,
+medicamentos que controlam a resposta imune do organismo tais como, ciclosporina, outros
+inibidores da Janus cinase tais como, baricitinib, upadacitinib), pois podem aumentar o risco de
+efeitos indesejáveis.
+
+O seu médico pode dizer-lhe para evitar utilizar ou parar de tomar Cibinqo se estiver a tomar alguns
+dos medicamentos para tratar:
+- tuberculose (tais como, rifampicina), convulsões ou crises (tais como, fenitoína), cancro da
+próstata (tais como, apalutamida, enzalutamida) ou infeção pelo VIH (tais como, efavirenz), pois
+podem reduzir a eficácia de Cibinqo.
+Se alguma das situações acima mencionadas se aplica a si ou se não tem a certeza, fale com o seu
+médico ou farmacêutico antes de tomar Cibinqo.
+Gravidez, contraceção, amamentação e fertilidade
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+ou farmacêutico antes de tomar este medicamento.
+Contraceção nas mulheres
+Se é uma mulher com potencial para engravidar, deve utilizar um método contracetivo eficaz durante o
+tratamento com Cibinqo e, pelo menos, um mês após a sua última dose do tratamento. O seu médico
+pode aconselhá-la sobre métodos contracetivos adequados.
+Gravidez
+Não utilize Cibinqo se está grávida, se pensa estar grávida ou planeia engravidar pois pode ser
+prejudicial para o feto. Informe o seu médico imediatamente se engravidar ou pensar que pode ter
+engravidado durante o tratamento.
+Amamentação
+Não utilize Cibinqo durante a amamentação, pois desconhece-se se este medicamento passa para o
+leite materno e se afeta o bebé. Deve decidir em conjunto com o seu médico se vai amamentar ou
+utilizar este medicamento.
+Fertilidade
+Cibinqo pode causar uma redução temporária da fertilidade em mulheres em idade fértil. Este efeito é
+reversível após a interrupção do tratamento.
+Condução de veículos e utilização de máquinas
+Os efeitos de Cibinqo sobre a capacidade de conduzir e utilizar máquinas são nulos.
+Cibinqo contém lactose mono-hidratada e sódio
+Se foi informado pelo seu médico que tem intolerância a alguns açúcares, contacte-o antes de tomar
+este medicamento.
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido, ou seja, é
+praticamente “isento de sódio’.
+Idosos
+Os doentes com 65 anos de idade ou mais podem ter um risco aumentado de infeções, ataque cardíaco
+ou de alguns tipos de cancro. O seu médico poderá decidir que Cibinqo não é adequado para si.
+
+45
+
+3.
+
+Como tomar Cibinqo
+
+Tome sempre este medicamento exatamente como indicado pelo seu médico. Fale com o seu médico
+ou farmacêutico se tiver dúvidas.
+Cibinqo é um comprimido tomado por via oral. Poderá ser utilizado com outros medicamentos para o
+eczema que aplicam na pele ou poderá ser utilizado isolado.
+A dose inicial recomendada para adultos e adolescentes (dos 12 aos 17 anos de idade) que pesam, pelo
+menos, 59 kg é de 100 mg ou de 200 mg uma vez por dia, tal como receitado pelo seu médico. O seu
+médico poderá aumentar ou diminuir a sua dose, dependendo da forma como o medicamente está a
+atuar.
+Alguns doentes necessitam de uma dose inicial mais baixa e o seu médico poderá receitar-lhe 100 mg
+uma vez por dia, se:
+tiver 65 anos de idade ou mais.
+tiver uma determinada história clínica ou condição médica.
+é um adolescente (dos 12 aos 17 anos de idade) que pesa entre 25 kg e 58 kg.
+Se tem problemas de rins considerados moderados a graves ou se lhe receitaram determinados
+medicamentos, a dose inicial pode ser de 50 mg ou 100 mg uma vez por dia. A dose inicial que vai
+receber será baseada nas suas necessidades e na sua história clínica ou problema de saúde, por
+conseguinte, deve tomar sempre este medicamento exatamente como indicado pelo seu médico.
+Após iniciar o tratamento, o seu médico pode ajustar a dose com base no grau de eficácia do
+medicamento e em quaisquer efeitos indesejáveis que possa ter. Se o medicamento estiver a funcionar
+bem, a dose poderá ser reduzida. O tratamento também poderá ser interrompido temporária ou
+permanentemente se as análises ao sangue revelarem contagens baixas de glóbulos brancos ou de
+plaquetas.
+Se está a tomar Cibinqo há 24 semanas e continua sem ter qualquer melhoria, o seu médico poderá
+decidir parar o tratamento de forma permanente.
+Deve engolir o comprimido inteiro com água. Não divida, esmague ou mastigue o comprimido antes
+de o engolir, pois pode alterar a quantidade de medicamento que entra para a corrente sanguínea.
+Pode tomar os comprimidos com ou sem alimentos. Caso se sinta enjoado (náuseas) quando toma o
+comprimido, tomá-lo com alimentos poderá ajudar. Para o ajudar a lembrar-se de tomar o
+medicamento, sugere-se que o tome à mesma hora todos os dias.
+Se tomar mais Cibinqo do que deveria
+Se tomar mais Cibinqo do que deveria, contacte o seu médico. Poderá ter alguns dos efeitos
+indesejáveis descritos na secção 4.
+Caso se tenha esquecido de tomar Cibinqo
+Caso se esqueça de tomar uma dose, tome-a assim que se lembrar, a menos que a próxima dose
+deva ser tomada daí a menos de 12 horas.
+Se faltarem menos de 12 horas para tomar a próxima dose, omita a dose esquecida e tome a dose
+seguinte à hora habitual.
+Não tome uma dose a dobrar para compensar um comprimido que se esqueceu de tomar.
+Se parar de tomar Cibinqo
+Não deve parar de tomar Cibinqo sem falar antes com o seu médico.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+
+46
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Efeitos indesejáveis graves
+Fale com o seu médico e procure assistência médica imediatamente se tiver quaisquer sinais de:
+Zona (herpes zoster), uma erupção na pele dolorosa com bolhas e febre
+Coágulos de sangue nos pulmões, pernas ou pélvis com sintomas tais como uma perna inchada
+dolorosa, dor no peito ou falta de ar
+Outros efeitos indesejáveis
+Muito frequentes (podem afetar mais de 1 em 10 pessoas)
+Sentir-se enjoado (náuseas)
+Frequentes (podem afetar até 1 em 10 pessoas)
+Herpes labial e outros tipos de infeções pelo herpes simplex
+Vómitos
+Dor de barriga
+Dor de cabeça
+Tonturas
+Acne
+Aumento de uma enzima chamada creatina fosfocinase, revelado por uma análise ao sangue
+Pouco frequentes (podem afetar até 1 em 100 pessoas)
+Pneumonia (infeção dos pulmões)
+Contagem baixa de plaquetas revelada por uma análise ao sangue
+Contagem baixa de glóbulos brancos revelada por uma análise ao sangue
+Nível elevado de gordura (colesterol) no sangue revelado por uma análise ao sangue (ver
+secção 2 “Advertências e precauções”)
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar Cibinqo
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior, no frasco e
+na película do blister após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+47
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Cibinqo
+- A substância ativa é abrocitinib.
+Cada comprimido de 50 mg contém 50 mg de abrocitinib.
+Cada comprimido de 100 mg contém 100 mg de abrocitinib.
+Cada comprimido de 200 mg contém 200 mg de abrocitinib.
+-
+
+Os outros componentes são:
+Núcleo do comprimido: celulose microcristalina (E460i), hidrogenofosfato de cálcio anidro
+(E341ii), carboximetilamido sódico, estearato de magnésio (E470b).
+Película de revestimento: hipromelose (E464), dióxido de titânio (E171), lactose mono-hidratada,
+macrogol (E1521), triacetina (E1518), óxido de ferro vermelho (E172) (ver secção 2 “Cibinqo
+contém lactose e sódio).
+
+Qual o aspeto de Cibinqo e conteúdo da embalagem
+Cibinqo 50 mg comprimidos são comprimidos ovais, cor-de-rosa, com aproximadamente 11 mm de
+comprimento e 5 mm de largura, com “PFE” gravado numa face e “ABR 50” na outra.
+Cibinqo 100 mg comprimidos são comprimidos redondos, cor-de-rosa, com aproximadamente 9 mm
+de diâmetro, com “PFE” gravado numa face e “ABR 100” na outra.
+Cibinqo 200 mg comprimidos são comprimidos ovais, cor-de-rosa, com aproximadamente 18 mm de
+comprimento e 8 mm de largura, com “PFE” gravado numa face e “ABR 200” na outra.
+Os comprimidos de 50 mg, 100 mg e 200 mg são fornecidos em blisters de cloreto de polivinilideno
+(PVDC) selados com película de alumínio ou frascos de polietileno de alta densidade (PEAD) com
+fecho de polipropileno. Cada embalagem blister contém 14, 28 ou 91 comprimidos. Cada frasco
+contém 14 ou 30 comprimidos.
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Bélgica
+Fabricante
+Pfizer Manufacturing Deutschland GmbH
+Mooswaldallee 1
+79108 Freiburg IM Breisgau
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Luxembourg/Luxemburg
+Pfizer NV/SA
+Tél/Tel: +32 (0)2 554 62 11
+
+Lietuva
+Pfizer Luxembourg SARL filialas Lietuvoje
+Tel: + 370 52 51 4000
+
+България
+Пфайзер Люксембург САРЛ, Клон България
+Тел.: +359 2 970 4333
+
+Magyarország
+Pfizer Kft.
+Tel.: +36-1-488-37-00
+48
+
+Česká republika
+Pfizer, spol. s r.o.
+Tel.: +420 283 004 111
+
+Malta
+Vivian Corporation Ltd.
+Tel: +356 21344610
+
+Danmark
+Pfizer ApS
+Tlf: +45 44 20 11 00
+
+Nederland
+Pfizer bv
+Tel: +31 (0) 800 63 34 636
+
+Deutschland
+PFIZER PHARMA GmbH
+Tel: +49 (0)30 550055-51000
+
+Norge
+Pfizer AS
+Tlf: +47 67 52 61 00
+
+Eesti
+Pfizer Luxembourg SARL Eesti filiaal
+Tel: +372 666 7500
+
+Österreich
+Pfizer Corporation Austria Ges.m.b.H.
+Tel: +43 (0)1 521 15-0
+
+Ελλάδα
+Pfizer Ελλάς A.E.
+Τηλ: +30 210 6785 800
+
+Polska
+Pfizer Polska Sp. z o.o.
+Tel.: +48 22 335 61 00
+
+España
+Pfizer S.L.
+Tel: +34 91 490 99 00
+
+Portugal
+Laboratórios Pfizer, Lda.
+Tel: +351 21 423 5500
+
+France
+Pfizer
+Tél: +33 (0)1 58 07 34 40
+
+România
+Pfizer Romania S.R.L.
+Tel: +40 (0) 21 207 28 00
+
+Hrvatska
+Pfizer Croatia d.o.o.
+Tel: +385 1 3908 777
+
+Slovenija
+Pfizer Luxembourg SARL
+Pfizer, podružnica za svetovanje s področja
+farmacevtske dejavnosti, Ljubljana
+Tel: + 386 (0)1 52 11 400
+
+Ireland
+Pfizer Healthcare Ireland
+Tel: +1800 633 363 (toll free)
++44 (0)1304 616161
+
+Slovenská republika
+Pfizer Luxembourg SARL, organizačná zložka
+Tel: + 421 2 3355 5500
+
+Ísland
+Icepharma hf.
+Sími: +354 540 8000
+
+Suomi/Finland
+Pfizer Oy
+Puh/Tel: +358 (0)9 43 00 40
+
+Italia
+Pfizer S.r.l.
+Tel: +39 06 33 18 21
+
+Sverige
+Pfizer AB
+Tel: +46 (0)8 550 520 00
+
+Kύπρος
+Pfizer Ελλάς Α.Ε. (Cyprus Branch)
+Τηλ: +357 22 817690
+
+United Kingdom (Northern Ireland)
+Pfizer Limited
+Tel: +44 (0) 1304 616161
+
+Latvija
+Pfizer Luxembourg SARL filiāle Latvijā
+Tel: + 371 670 35 775
+
+49
+
+Este folheto foi revisto pela última vez em .
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+50
+
+

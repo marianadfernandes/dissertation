@@ -620,3 +620,13 @@ form .btn-2 {
 .human-body {
     padding-top: 150px;
 }
+
+.body-results {
+    padding: 20px;
+    overflow-y: auto;
+    max-height: calc(100vh - 50px);
+}
+
+.medicacao {
+    padding-top: 30px;
+}

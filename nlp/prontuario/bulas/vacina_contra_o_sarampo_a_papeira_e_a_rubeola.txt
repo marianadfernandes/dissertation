@@ -1,0 +1,2753 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+M-M-RvaxPro pó e veículo para suspensão injetável
+M-M-RvaxPro pó e veículo para suspensão injetável em seringa pré-cheia
+Vacina (viva) contra o sarampo, papeira e rubéola
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Após reconstituição, uma dose (0,5 ml) contém:
+Vírus do sarampo1 estirpe Enders’ Edmonston (vivo, atenuado)
+Vírus da papeira1 estirpe Jeryl Lynn™ (Nível B) (vivo, atenuado)
+Vírus da rubéola2 estirpe Wistar RA 27/3 (vivo, atenuado)
+
+não inferior a 1x103 TCID50*
+não inferior a 12.5x103 TCID50*
+não inferior a 1x103 TCID50*
+
+* dose infecciosa para 50% da cultura tecidular
+Produzido em células embrionárias de pinto.
+2
+Produzido em fibroblastos pulmonares diploides humanos WI-38.
+
+1
+
+A vacina pode conter vestígios de albumina humana recombinante (rHA).
+Esta vacina contém quantidades vestigiais de neomicina. Ver secção 4.3.
+Excipiente(s) com efeito conhecido
+A vacina contém 14,5 miligramas de sorbitol por dose. Ver secção 4.4.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Pó e veículo para suspensão injetável.
+Antes da reconstituição, o pó apresenta-se sob a forma de um aglomerado cristalino, compacto,
+ligeiramente amarelado e o veículo é um líquido incolor e límpido.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+M-M-RvaxPro está indicado na vacinação simultânea contra o sarampo, a papeira e a rubéola em
+indivíduos a partir dos 12 meses de idade (ver secção 4.2).
+Em circunstâncias especiais, M-M-RvaxPro pode ser administrado a lactentes a partir dos 9 meses de
+idade (ver secções 4.2, 4.4 e 5.1).
+Para utilização em surtos de sarampo, na vacinação pós-exposição ou para utilização em indivíduos
+com mais de 9 meses de idade que não tenham sido previamente vacinados e que estão em contacto
+com mulheres grávidas suscetíveis e em pessoas com provável suscetibilidade à papeira e à rubéola,
+ver secção 5.1.
+M-M-RvaxPro deve ser usado com base nas recomendações oficiais.
+
+2
+
+4.2
+
+Posologia e modo de administração
+
+Posologia
+
+
+
+Indivíduos com 12 ou mais meses de idade:
+Os indivíduos com 12 ou mais meses de idade devem receber uma dose numa data selecionada.
+Poderá ser administrada uma segunda dose pelo menos 4 semanas após a primeira dose, em
+conformidade com a recomendação oficial. A segunda dose destina-se a indivíduos que, por
+qualquer motivo, não responderam à primeira dose.
+
+
+
+Lactentes entre os 9 e os 12 meses de idade
+Os dados de imunogenicidade e de segurança mostram que M-M-RvaxPro pode ser
+administrado a lactentes entre os 9 e os 12 meses de idade, de acordo com as recomendações
+oficiais, ou quando é considerado necessário obter uma proteção mais precoce (por exemplo:
+creches, situações de surtos, ou viagem para uma região com elevada prevalência de sarampo).
+Estes lactentes devem ser revacinados entre os 12 e os 15 meses de idade. Deve ser considerada
+uma dose adicional de uma vacina contra o sarampo, de acordo com as recomendações oficiais
+(ver secções 4.4 e 5.1).
+
+
+
+Lactentes com menos de 9 meses de idade
+Não estão atualmente disponíveis dados relativos à eficácia ou à segurança de M-M-RvaxPro
+para utilização em lactentes com menos de 9 meses de idade.
+
+Modo de administração
+A vacina deve ser injetada por via intramuscular (IM) ou por via subcutânea (SC).
+Os locais de injeção preferenciais são a zona antero-lateral da coxa nas crianças mais jovens e a região
+deltoide nas crianças mais velhas, adolescentes e adultos.
+A vacina deverá ser administrada por via subcutânea nos indivíduos com trombocitopenia ou com
+algum problema de coagulação.
+Para precauções a ter em conta antes de manusear ou administrar o medicamento e para instruções
+acerca da reconstituição do medicamento antes da administração, ver secção 6.6.
+
+NÃO INJETAR POR VIA INTRAVASCULAR.
+4.3
+
+Contraindicações
+
+Hipersensibilidade a qualquer vacina contra o sarampo, papeira ou rubéola ou a qualquer dos
+excipientes mencionados na secção 6.1, incluindo a neomicina (ver secções 2 e 4.4).
+Gravidez. A gravidez deve ainda ser evitada no mês seguinte à vacinação (ver secção 4.6).
+A vacinação deve ser adiada durante qualquer patologia com febre > 38,5°C.
+Tuberculose ativa não tratada. As crianças submetidas a tratamento para a tuberculose não
+apresentaram uma exacerbação da doença quando imunizadas com a vacina viva contra o sarampo.
+Não existem estudos descritos até à data, sobre o efeito das vacinas virais contra o sarampo em
+crianças com tuberculose não tratada.
+Discrasias sanguíneas, leucemia, linfomas de qualquer tipo ou outros neoplasmas malignos que afetem
+o sistema hematopoiético e linfático.
+Terapêutica imunosupressora atual (incluindo doses elevadas de corticosteroides). M-M-RvaxPro não
+está contraindicado em indivíduos medicados com corticosteroides tópicos ou com doses baixas de
+3
+
+corticosteroides administrados por via parentérica (ex. para a profilaxia da asma ou como terapêutica
+de substituição).
+Imunodeficiência humoral ou celular grave (primária ou adquirida), ex: imunodeficiência combinada
+grave, agamaglobulinémia e SIDA ou infeção por VIH sintomática ou uma percentagem de linfócitos
+T CD4+ específicos da idade, em crianças com menos de 12 meses: CD4+ < 25%; crianças entre os 1235 meses: CD4+ < 20%; crianças entre 36-59 meses: CD4+ < 15% (ver secção 4.4).
+Em indivíduos gravemente imunocomprometidos inadvertidamente vacinados com a vacina contra o
+sarampo, tem sido referida a ocorrência de encefalite de corpos de inclusão do sarampo, pneumonite e
+desfecho fatal como uma consequência direta da disseminação da infeção do vírus da vacina contra o
+sarampo.
+Antecedentes familiares de imunodeficiência congénita ou hereditária, exceto nos casos em que se
+encontra demonstrada a competência imunitária do potencial recetor da vacina.
+
+4.4
+
+Advertências e precauções especiais de utilização
+
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+Tal como para todas as vacinas injetáveis, deverá estar prontamente à disposição tratamento médico
+adequado no caso de uma rara reação anafilática após a administração da vacina (ver secção 4.8).
+Os adultos e adolescentes com antecedentes de alergias podem potencialmente ter um risco acrescido
+de reação anafilática ou anafilatoide. Após a administração, recomenda-se uma monitorização cuidada
+dos sinais precoces destas reações.
+Dado que a vacina viva contra o sarampo e a vacina viva contra a papeira são produzidas em culturas
+de células embrionárias de pinto, as pessoas com antecedentes de reações anafiláticas, anafilatoides ou
+outras reações imediatas (ex. urticária, edema orofaríngeo, dificuldades respiratórias, hipotensão ou
+choque) subsequentes à ingestão de ovos, podem apresentar um risco aumentado de reações de
+hipersensibilidade de tipo imediato. A potencial relação risco-benefício deverá ser cuidadosamente
+avaliada antes de se considerar a vacinação em tais casos.
+Deverão tomar-se precauções na administração de M-M-RvaxPro a pessoas com antecedentes
+individuais ou familiares de convulsões ou antecedentes de lesões cerebrais. O médico deverá estar
+alerta para o caso de ocorrer um aumento da temperatura após a vacinação (ver secção 4.8).
+Os lactentes dos 9 aos 12 meses de idade vacinados com uma vacina contra o sarampo durante os
+surtos de sarampo, ou por outras razões, podem não ter resposta à vacina devido à presença de
+anticorpos de origem materna em circulação e/ou à imaturidade do sistema imunitário (ver secções 4.2
+e 5.1).
+Trombocitopenia
+Esta vacina deve ser administrada por via subcutânea a indivíduos com trombocitopenia ou com algum
+problema de coagulação, porque pode ocorrer hemorragia após uma administração intramuscular
+nestes indivíduos.
+Os indivíduos com trombocitopenia podem desenvolver uma trombocitopenia mais grave após a
+vacinação. Adicionalmente, os indivíduos que apresentam trombocitopenia após a primeira dose de
+M-M-RvaxPro (ou das vacinas dos seus componentes), podem desenvolver trombocitopenia com
+doses repetidas. O estado serológico pode ser avaliado para determinar se são ou não necessárias doses
+adicionais da vacina. Nestes casos, a potencial relação risco-benefício deve ser cuidadosamente
+avaliada antes de se considerar a vacinação (ver secção 4.8).
+
+4
+
+Outros
+A vacinação pode ser considerada em indivíduos com determinadas deficiências imunes, em que os
+benefícios superem os riscos (ex: indivíduos VIH assintomáticos, deficiências de subclasses de IgG,
+neutropenia congénita, doença granulomatosa crónica e doenças de deficiência do complemento).
+Os indivíduos imunocomprometidos que não tenham nenhuma contraindicação para esta vacinação
+(ver secção 4.3) podem não responder tão bem como os indivíduos imunocompetentes; por este
+motivo alguns destes indivíduos podem adquirir sarampo, papeira ou rubéola em caso de contacto,
+apesar da administração apropriada da vacina. Estes indivíduos devem ser cuidadosamente
+monitorizados para sinais de sarampo, parotidite e rubéola.
+A vacinação com M-M-RvaxPro poderá não resultar na proteção de todos os indivíduos vacinados.
+Transmissão
+A excreção de pequenas quantidades do vírus da rubéola vivo atenuado através do nariz ou da
+garganta tem ocorrido na maioria dos indivíduos suscetíveis, 7 a 28 dias após a vacinação. Não
+existem provas que indiquem que este vírus é transmitido a pessoas suscetíveis que estão em contacto
+com os indivíduos vacinados. Consequentemente, a transmissão através de um estreito contacto
+pessoal, embora aceite como uma possibilidade teórica, não é considerado como um risco
+significativo; Contudo, tem sido documentada a transmissão do vírus da rúbeola da vacina a recémnascidos através do leite materno, sem qualquer evidência de patologia clínica (ver secção 4.6).
+
+Não existem relatórios de transmissão da estirpe Enders’ Edmonston mais atenuada do vírus do
+sarampo ou da estirpe Jeryl Lynn™ do vírus da papeira dos indivíduos vacinados para co ntactos
+suscetíveis.
+Sódio
+Este medicamento contém menos do que 1 mmol (23 miligramas) de sódio por dose ou seja, é
+praticamente “isento de sódio”.
+Potássio
+Este medicamento contém menos do que 1 mmol (39 miligramas) de potássio por dose, ou seja, é
+praticamente “isento de potássio”.
+Sorbitol (E 420)
+Este medicamento contém 14,5 miligramas de sorbitol por dose. Deve-se ter em consideração o efeito
+aditivo da administração concomitante de produtos contendo sorbitol (ou frutose) e a ingestão de
+sorbitol (ou frutose) na dieta.
+Interferência com exames laboratoriais: ver secção 4.5.
+
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Imunoglobulina
+Não deverá administrar-se uma imunoglobulina (IG) concomitantemente com M-M-RvaxPro.
+A administração de imunoglobulinas concomitantemente com M-M-RvaxPro pode interferir com a
+esperada resposta imunitária. A vacinação deverá ser adiada, durante pelo menos 3 meses após
+transfusões de sangue ou plasma ou administração de imunoglobulinas séricas humanas.
+A administração de produtos derivados do plasma contendo anticorpos contra o sarampo, a papeira ou
+a rubéola, incluindo preparações de imunoglobulinas, devem ser evitadas no espaço de 1 mês após a
+dose de M-M-RvaxPro, a menos que seja considerada essencial.
+Exames laboratoriais
+Tem sido referido que as vacinas vivas atenuadas contra o sarampo, papeira e rubéola administradas
+individualmente podem resultar numa depressão temporária do teste dérmico de sensibilidade à
+5
+
+tuberculina. Assim, se for necessário efetuar o teste da tuberculina, este deverá ser realizado em
+qualquer momento antes, em simultâneo com, ou pelo menos 4 a 6 semanas após a vacinação com
+M-M-RvaxPro.
+Utilização com outras vacinas
+Não foram efetuados até à data estudos específicos relativamente à utilização concomitante de
+M-M-RvaxPro e outras vacinas. Contudo, dado que M-M-RvaxPro revelou possuir perfis de segurança
+e imunogenicidade semelhantes aos da formulação anterior da vacina combinada contra o sarampo,
+papeira e rubéola fabricada pela Merck & Co., Inc., pode ser considerada a experiência com esta
+vacina.
+Ensaios clínicos publicados dão suporte à administração concomitante da formulação anterior da
+vacina contra o sarampo, papeira e rubéola fabricada pela Merck & Co., Inc. com outras vacinações da
+infância, incluindo a DTaP (ou DTwP), IPV (ou OPV), HIB (Haemophilus influenzae do tipo b), HIBHBV (Haemophilus influenzae do tipo b com a vacina contra a Hepatite B) e VAR (varicela).
+M-M-RvaxPro deve ser administrado, se concomitantemente, em diferentes locais de injeção ou um
+mês antes ou após a administração de outras vacinas virais vivas.
+Com base em ensaios clínicos com a vacina tetravalente contra o sarampo, papeira, rubéola e varicela
+e com a formulação anterior da vacina combinada contra o sarampo, papeira e rubéola fabricada pela
+Merck & Co., Inc., M-M-RvaxPro pode ser administrado simultaneamente (mas em diferentes locais
+de administração) com Prevenar e/ou vacina contra a hepatite A. Nestes ensaios clínicos, foi
+demonstrado que as respostas imunitárias não foram afetadas e que os perfis globais de segurança das
+vacinas administradas foram semelhantes.
+
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+Mulheres grávidas não devem ser vacinadas com M-M-RvaxPro.
+Não foram realizados estudos com M-M-RvaxPro em mulheres grávidas. Não se sabe se
+M-M-RvaxPro pode provocar lesões fetais quando administrado a mulheres grávidas ou afetar a
+capacidade de reprodução.
+No entanto, não foram documentadas lesões fetais quando vacinas contra o sarampo ou papeira foram
+administradas a mulheres grávidas. Apesar de um risco teórico não poder ser excluído, não foram
+notificados casos de síndrome de rubéola congénita em mais de 3500 mulheres suscetíveis que
+estavam no início da gravidez sem o saberem, quando foram vacinadas com vacina contendo rubéola.
+Assim, a vacinação inadvertida de mulheres grávidas que não sabiam estar grávidas, com vacinas
+contendo sarampo, papeira ou rubéola não deverá ser uma razão para interromper a gravidez.
+A gravidez deve ser evitada durante 1 mês após a vacinação. As mulheres que pretendem engravidar
+devem ser devidamente aconselhadas a adiar a gravidez durante este período.
+Amamentação
+Os estudos revelaram que as mulheres que amamentam e que são vacinadas após o parto com vacinas
+vivas atenuadas contra a rubéola, podem secretar o vírus no leite materno e transmiti-lo para os recémnascidos que estão a ser amamentados. Dos recém-nascidos com evidência serológica da infeção da
+rubéola, nenhum apresentou sintomas da doença. Não se sabe se os vírus da vacina contra o sarampo
+ou a papeira são secretados no leite materno. Deste modo, devem tomar-se precauções quando se
+considera a administração de M-M-RvaxPro a mulheres durante o aleitamento.
+Fertilidade
+M-M-RvaxPro não foi avaliado em estudos de fertilidade.
+
+6
+
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir ou utilizar máquinas. É expetável que
+os efeitos de M-M-RvaxPro sobre a capacidade de conduzir e utilizar máquinas sejam nulos ou
+desprezáveis.
+
+4.8
+
+Efeitos indesejáveis
+
+a. Resumo do perfil de segurança
+Em ensaios clínicos, M-M-RvaxPro foi administrado a 1965 crianças (ver secção 5.1) e o perfil geral
+de segurança foi comparável ao da formulação anterior da vacina contra o sarampo, papeira e rubéola
+fabricada pela Merck & Co., Inc.
+Num ensaio clínico, 752 crianças receberam M-M-RvaxPro por via intramuscular ou por via
+subcutânea. O perfil geral de segurança de ambas as vias de administração foi comparável, apesar das
+reações no local de injeção terem sido menos frequentes no grupo IM (15,8%) comparado com o
+grupo SC (25,8%)
+Todas as reações adversas foram avaliadas em 1940 crianças. Nestas crianças, após a vacinação com
+M-M-RvaxPro, foram observadas as reações adversas relacionadas com a vacina, resumidas na
+secção b (excluindo comunicações isoladas com uma frequência < 0,2%).
+Em comparação com a primeira dose, uma segunda dose de M-M-RvaxPro não está associada a um
+aumento de incidência e gravidade dos sintomas clínicos, incluindo os sugestivos de reação de
+hipersensibilidade.
+Adicionalmente, estão disponíveis e são resumidas na secção b outras reações adversas notificadas
+durante a comercialização de M-M-RvaxPro e/ou ensaios clínicos e comercialização de formulações
+anteriores das vacinas monovalentes ou combinadas contra o sarampo, papeira e rubéola, fabricadas
+pela Merck & Co., Inc. independentemente da causalidade ou frequência. A frequência destas reações
+adversas é qualificada como “desconhecido” uma vez que não pode ser calculado a partir dos dados
+disponíveis. Estes dados foram apresentados com base em mais de 400 milhões de doses distribuídas a
+nível mundial.
+As reações adversas notificadas mais frequentemente com a utilização de M-M-RvaxPro foram: febre
+(38,5ºC ou mais elevada); reações no local de injeção incluindo dor, tumefação e eritema.
+b. Resumo das reações adversas em forma tabelar
+As reações adversas encontram-se listadas sob títulos de frequência utilizando a seguinte convenção:
+[Muito frequentes (≥ 1/10); Frequentes (≥ 1/100, < 1/10); Pouco frequentes (≥ 1/1,000, < 1/100);
+Desconhecido (não pode ser calculado a partir dos dados disponíveis)]
+Reações adversas
+
+Frequência
+
+Infeções e infestações
+Nasofaringite, Infeção do trato respiratório superior ou infeção viral
+Meningite assética , Sarampo atípico, Epididimite, Orquite, Otite
+média, Parotidite, Rinite, Panencefalite esclerosante subaguda (SSPE)†
+
+Pouco frequentes
+
+†
+
+Desconhecido
+
+Doenças do sangue e do sistema linfático
+Linfadenopatia regional, Trombocitopenia
+
+Desconhecido
+
+Doenças do sistema imunitário
+Reação anafilatoide, Anafilaxia e fenómenos relacionados como Edema
+angioneurótico, Edema facial e Edema periférico
+
+Desconhecido
+
+Perturbações do foro psiquiátrico
+Choro
+
+Pouco frequentes
+
+Irritabilidade
+
+Desconhecido
+
+Doenças do sistema nervoso
+Convulsões ou crises afebris, Ataxia, Tonturas, Encefalite†,
+7
+
+Desconhecido
+
+Encefalopatia†, Convulsão febril (em crianças), Síndrome de GuillainBarré, Cefaleias, Encefalite de corpos de inclusão do sarampo (MIBE)
+(ver secção 4.3), Paralisias oculares, Neurite ótica, Parestesia,
+Polineurite, Polineuropatia, Neurite retrobulbar, Síncope
+Afeções oculares
+Conjuntivite, Retinite
+
+Desconhecido
+
+Afeções do ouvido e do labirinto
+Surdez neurossensorial
+
+Desconhecido
+
+Doenças respiratórias, torácicas e do mediastino
+Rinorreia
+
+Pouco frequentes
+
+Broncospasmo, Tosse, Pneumonia, Pneumonite (ver secção 4.3), Dor
+de garganta
+
+Desconhecido
+
+Doenças gastrointestinais
+Diarreia ou vómitos
+
+Pouco frequentes
+
+Náuseas
+
+Desconhecido
+
+Afeções dos tecidos cutâneos e subcutâneos
+Erupção cutânea morbiliforme ou outra erupção cutânea
+Urticária
+
+Frequentes
+Pouco frequentes
+
+Paniculite, Prurido, Púrpura, Induração da pele, Síndrome de StevensJohnson
+
+Desconhecido
+
+Afeções musculosqueléticas e dos tecidos conjuntivos
+Artrite† e/ou Artralgia† (geralmente transitórias e raramente crónicas),
+Mialgia
+
+Desconhecido
+
+Perturbações gerais e alterações no local de administração
+Febre (38,5ºC ou mais elevada), Eritema no local de injeção, Dor no
+local de injeção, Tumefação no local de injeção
+Equimose no local de injeção
+
+Muito frequentes
+Frequentes
+
+Erupção cutânea no local de injeção
+
+Pouco frequentes
+
+Sensação de queimadura e/ou picada de curta duração no local de
+administração, Mal-estar geral, Papilite, Edema periférico, Tumefação,
+Hiperestesia, Vesículas no local de injeção, Mácula e Pápula no local
+de injeção
+
+Desconhecido
+
+Vasculopatias
+Vasculite
+†
+
+Desconhecido
+
+ver secção c
+
+c. Descrição de reações adversas selecionadas
+Meningite assética
+Têm sido notificados casos de meningite assética após a vacinação contra o sarampo, papeira e
+rubéola. Embora tenha sido demonstrada uma relação causal entre outras estirpes da vacina contra a
+papeira e meningite assética, não existe evidência que ligue a vacina contra a papeira Jeryl Lynn™ à
+meningite assética.
+Encefalite e Encefalopatia
+Em indivíduos gravemente imunocomprometidos vacinados inadvertidamente com uma vacina contra
+o sarampo foram notificados casos de encefalite de corpos de inclusão do sarampo, pneumonite e
+desfecho fatal como consequência direta da disseminação da infeção do vírus da vacina contra o
+sarampo (ver secção 4.3). Também foram notificados casos de disseminação da infeção dos vírus das
+vacinas contra a papeira e rubéola.
+Panencefalite esclerosante subaguda
+Não existe evidência de que as vacinas contra o sarampo possam provocar SSPE. Têm sido notificados
+casos de SSPE em crianças sem antecedentes de infeção do sarampo de tipo selvagem mas que
+receberam a vacina contra o sarampo. Alguns destes casos podem ter resultado de sarampo não
+reconhecido no primeiro ano de vida ou possivelmente da vacinação contra o sarampo. Os resultados
+de um estudo retrospetivo caso-controlo realizado pela US Centers for Disease Control and
+8
+
+Prevention sugerem que o efeito global da vacina contra o sarampo tem sido a proteção contra SSPE
+através da prevenção do sarampo com o seu risco inerente de SSPE.
+Artralgia e/ou artrite
+A artralgia e/ou artrite (geralmente transitórias e raramente crónicas) e a polineurite são características
+da infeção da rubéola de tipo selvagem e variam em termos de frequência e de gravidade com a idade
+e o sexo, sendo mais frequentes e intensas nas mulheres adultas e menos pronunciadas nas crianças na
+pré-puberdade. Após a vacinação nas crianças, os efeitos nas articulações são geralmente pouco
+frequentes (0-3%) e de curta duração. Nas mulheres, as taxas de incidência da artrite e artralgia são
+geralmente mais elevadas do que as observadas em crianças (12-20%) e as reações têm tendência para
+ser mais pronunciados e de maior duração. Os sintomas podem persistir durante alguns meses ou, em
+raras ocasiões, durante anos. Nas raparigas adolescentes, os efeitos parecem ser intermédios, em
+termos de incidência entre os observados nas crianças e nas mulheres adultas. Mesmo nas mulheres
+mais velhas (35-45 anos), estas reações são geralmente bem toleradas e raramente interferem com as
+atividades normais.
+Artrite crónica
+A artrite crónica tem sido associada à infeção da rubéola do tipo selvagem e foi relacionada com a
+persistência do vírus e/ou antigénio viral, isolado a partir dos tecidos corporais. O desenvolvimento de
+sintomas articulares crónicos nos indivíduos vacinados foi uma ocorrência rara.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+
+4.9
+
+Sobredosagem
+
+Foi notificada raramente a administração de doses de M-M-RvaxPro superiores às recomendadas e o
+perfil de reações adversas foi comparável ao observado com a dose de M-M-RvaxPro recomendada.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Vacina viral, código ATC: J07BD52.
+Avaliação da imunogenicidade e da eficácia clínica
+Num estudo comparativo realizado em 1.279 indivíduos que receberam M-M-RvaxPro ou a
+formulação anterior (fabricada com albumina sérica humana) da vacina contra o sarampo, papeira e
+rubéola fabricada pela Merck & Co., Inc., demonstrou-se que a imunogenicidade e a segurança eram
+semelhantes nos dois produtos.
+Os estudos clínicos realizados em 284 crianças triplamente seronegativas, com idades compreendidas
+entre os 11 meses e os 7 anos, demonstraram que a formulação anterior da vacina contra o sarampo,
+papeira e rubéola fabricada pela Merck & Co., Inc., é altamente imunogénica e geralmente bem
+tolerada. Nestes estudos, uma injeção única da vacina induziu a formação de anticorpos de
+hemaglutinação-inibição (HI) do sarampo em 95%, anticorpos neutralizantes da papeira em 96% e
+anticorpos de HI da rubéola em 99% das pessoas suscetíveis.
+Avaliação da imunogenicidade em lactentes dos 9 aos 12 meses de idade no momento da primeira
+dose
+Foi realizado um ensaio clínico com a vacina tetravalente contra o sarampo, papeira, rubéola e
+varicela fabricada pela Merck & Co., Inc., administrada com um esquema de vacinação de 2 doses,
+
+9
+
+com 3 meses de intervalo, em 1.620 lactentes saudáveis dos 9 aos 12 meses de idade, no momento da
+administração da primeira dose.
+O perfil de segurança após a dose 1 e a dose 2 foi, de um modo geral, comparável para as coortes de
+todas as idades.
+No Total da População Analisada (Full Analysis Set) (indivíduos vacinados independentemente dos
+seus títulos basais de anticorpos), foram detetadas após a dose 2, taxas de seroproteção elevadas de
+> 99% contra a papeira e rubéola, independentemente da idade do indivíduo no momento da
+administração da primeira dose. Após 2 doses, as taxas de seroproteção contra o sarampo foram de
+98,1% quando a primeira dose foi administrada aos 11 meses de idade, em comparação com 98,9%
+quando a primeira dose foi administrada aos 12 meses de idade (objetivo do ensaio de nãoinferioridade alcançado). Após 2 doses, as taxas de seroproteção contra o sarampo foram de 94,6%,
+quando a primeira dose foi administrada aos 9 meses, em comparação com 98,9% quando a primeira
+dose foi administrada aos 12 meses (objetivo do ensaio de não-inferioridade não alcançado).
+As taxas de seroproteção contra o sarampo, papeira e rubéola, para o Total da População Analisada
+(Full Analysis Set), são apresentadas na Tabela 1.
+Tabela 1: Taxas de seroproteção contra o Sarampo, Papeira e Rubéola, 6 semanas após a dose 1 e
+6 semanas após a dose 2 da vacina tetravalente contra o sarampo, papeira, rubéola e varicela fabricada
+pela Merck & Co., Inc., - Total da População Analisada (Full Analysis Set)
+
+Valência
+(nível de
+seroproteção)
+
+Momento
+da análise
+
+Sarampo
+(títulos ≥ 255
+mUI/ml)
+
+Pós-Dose 1
+Pós-Dose 2
+
+Papeira
+
+Pós-Dose 1
+
+(títulos ≥ 10
+unidades
+ELISA Ac/ml)
+
+Pós-Dose 2
+
+Rubéola
+
+Pós-Dose 1
+
+(títulos ≥ 10
+UI/ml)
+
+Pós-Dose 2
+
+Dose 1 aos 9 meses/
+Dose 2 aos 12 meses
+N = 527
+Taxas de
+seroproteção
+[IC de 95%]
+72,3%
+[68,2; 76,1]
+94,6%
+[92,3; 96,4]
+96,4%
+[94,4; 97,8]
+99,2%
+[98,0; 99,8]
+97,3%
+[95,5; 98,5]
+99,4%
+[98,3; 99,9]
+
+Dose 1 aos 11 meses/
+Dose 2 aos 14 meses
+N = 480
+Taxas de
+seroproteção
+[IC de 95%]
+87,6%
+[84,2; 90,4]
+98,1%
+[96,4; 99,1]
+98,7%
+[97,3; 99,5]
+99,6%
+[98,5; 99,9]
+98,7%
+[97,3; 99,5]
+99,4%
+[98,1; 99,9]
+
+Dose 1 aos 12 meses/
+Dose 2 aos 15 meses
+N = 466
+Taxas de
+seroproteção
+[IC de 95%]
+90,6%
+[87,6; 93,1]
+98,9%
+[97,5; 99,6]
+98,5%
+[96,9; 99,4]
+99,3%
+[98,1; 99,9]
+97,8%
+[96,0; 98,9]
+99,6%
+[98,4; 99,9]
+
+Os títulos médios geométricos (TMGs) contra a papeira e a rubéola pós-dose 2 foram comparáveis em
+todas as categorias de idade, enquanto que os TMGs contra o sarampo foram inferiores em indivíduos
+que receberam a primeira dose aos 9 meses de idade, em comparação com os indivíduos que
+receberam a primeira dose aos 11 ou 12 meses de idade.
+Um estudo comparativo em 752 indivíduos que receberam M-M-RvaxPro por via intramuscular ou
+por via subcutânea demonstrou um perfil de imunogenicidade semelhante entre ambas as vias de
+administração.
+A eficácia dos componentes da formulação anterior da vacina contra o sarampo, papeira e rubéola
+fabricada pela Merck & Co., Inc., foi estabelecida numa série de estudos de campo controlados
+realizados em dupla ocultação, os quais demonstraram um elevado grau de eficácia em termos de
+proteção garantida pelos componentes individuais da vacina. Estes estudos também estabeleceram que
+a seroconversão em resposta à vacinação contra o sarampo, papeira e rubéola foi semelhante à
+proteção contra estas doenças.
+
+10
+
+Exposição após a vacinação
+A vacinação de indivíduos expostos ao sarampo de tipo selvagem pode proporcionar alguma proteção
+se a vacina puder ser administrada no espaço de 72 horas após a exposição. Se, contudo, a vacina for
+administrada alguns dias antes da exposição, poderá conseguir-se uma proteção substancial. Não
+existe evidência conclusiva relativamente ao facto da vacinação de indivíduos recentemente expostos à
+papeira de tipo selvagem ou rubéola de tipo selvagem proporcionar proteção.
+Efetividade
+A nível mundial foram distribuídos mais de 400 milhões de doses da formulação anterior da vacina
+contra o sarampo, papeira e rubéola fabricada pela Merck & Co., Inc. (1978 a 2003). O uso alargado
+de um esquema de vacinação com 2 doses nos Estados Unidos e em países como a Finlândia e a
+Suécia deu origem a uma redução > 99% na incidência de cada uma das 3 doenças alvo.
+Mulheres adultas e adolescentes não grávidas
+A vacinação de mulheres adultas e adolescentes não grávidas em idade fértil com a vacina contendo o
+vírus da rubéola vivo e atenuado, está indicada se foram tomadas certas precauções (ver secções 4.4 e
+4.6). A vacinação de mulheres suscetíveis pós-puberdade confere uma proteção individual contra uma
+subsequente infeção de rubéola durante a gravidez, o que, por seu lado, impede a infeção do feto e as
+consequentes lesões congénitas devidas à rubéola.
+Os indivíduos com mais de 9 meses que não foram previamente vacinados e que estão em contacto
+com mulheres grávidas suscetíveis, devem receber uma vacina viva atenuada contendo rubéola (como
+é o caso da M-M-RvaxPro ou de uma vacina monovalente contra a rubéola) para redução do risco de
+exposição da mulher grávida.
+Indivíduos com provável suscetibilidade à papeira e à rubéola
+É preferível a utilização de M-M-RvaxPro para a vacinação de pessoas com provável suscetibilidade à
+papeira e à rubéola. Os indivíduos que requerem uma vacinação contra o sarampo, podem receber
+M-M-RvaxPro independentemente do seu estado imunitário relativamente à papeira e à rubéola, se
+não estiver imediatamente disponível uma vacina monovalente contra o sarampo.
+
+5.2
+
+Propriedades farmacocinéticas
+
+Não aplicável.
+
+5.3
+
+Dados de segurança pré-clínica
+
+Não foram realizados estudos não-clínicos.
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos Excipientes
+
+Pó
+Sorbitol (E 420)
+Fosfato de sódio (NaH2PO4/Na2HPO4)
+Fosfato de potássio (KH2PO4/K2HPO4)
+Sacarose
+Gelatina hidrolisada
+Meio 199 com sais de Hanks
+Meio Essencial Mínimo, Eagle (MEM)
+L-glutamato monossódico
+Neomicina
+Vermelho de fenol
+Bicarbonato de sódio (NaHCO3)
+
+11
+
+Ácido clorídrico (HCl) (para ajuste do pH)
+Hidróxido de sódio (NaOH) (para ajuste do pH)
+Veículo
+Água para preparações injetáveis
+
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, a vacina não pode ser misturada com outros
+medicamentos.
+
+6.3
+
+Prazo de validade
+
+2 anos.
+Após a reconstituição, a vacina deve ser imediatamente utilizada; contudo, foi demonstrada uma
+estabilidade na utilização durante 8 horas quando conservada entre 2 C e 8C.
+
+6.4
+
+Precauções especiais de conservação
+
+Conservar e transportar refrigerado (2°C-8C).
+Não congelar.
+Manter o frasco para injetáveis com o pó dentro da embalagem exterior para proteger da luz.
+Condições de conservação do medicamento após a reconstituição, ver secção 6.3.
+
+6.5
+
+Natureza e conteúdo do recipiente
+
+M-M-RvaxPro com veículo para reconstituição num frasco para injetáveis:
+Pó em frasco para injetáveis (vidro Tipo I) com rolha (borracha butílica) e veículo em frasco para
+injetáveis (vidro Tipo I) com rolha (borracha clorobutílica) em embalagens de 1, 5 e 10 frascos para
+injetáveis.
+M-M-RvaxPro com veículo para reconstituição em seringa-pré-cheia:
+Pó em frasco para injetáveis (vidro Tipo I) com rolha (borracha butílica) e veículo em seringa
+pré-cheia (vidro Tipo I) com êmbolo-rolha (borracha clorobutílica) e cápsula na extremidade (borracha
+butadieno estireno), sem agulha, em embalagens de 1, 10 e 20 unidades.
+Pó em frasco para injetáveis (vidro Tipo I) com rolha (borracha butílica) e veículo em seringa
+pré-cheia (vidro Tipo I) com êmbolo-rolha (borracha clorobutílica) e cápsula na extremidade (borracha
+butadieno estireno), com uma ou duas agulhas não acopladas, em embalagens de 1, 10 e 20 unidades.
+É possível que não sejam comercializadas todas as apresentações.
+
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+Antes de misturar com o veículo, o pó da vacina é um aglomerado cristalino, compacto, ligeiramente
+amarelado. O veículo é um líquido incolor límpido. Quando completamente reconstituída, a vacina é
+um líquido amarelo transparente.
+Para reconstituição da vacina, utilizar o veículo fornecido.
+É importante utilizar seringa e agulha estéreis diferentes para cada pessoa, com vista a evitar a
+transmissão de agentes infeciosos de um indivíduo para outro.
+
+12
+
+Deve ser utilizada uma agulha para a reconstituição e uma agulha diferente, nova para a injeção.
+Instruções de reconstituição
+M-M-RvaxPro com veículo para reconstituição num frasco para injetáveis:
+Retirar todo o conteúdo do frasco para injetáveis de veículo para uma seringa que será usada para a
+reconstituição e administração. Injete todo o conteúdo da seringa no frasco para injetáveis que contém
+o pó. Agitar suavemente para homogeneizar.
+A vacina reconstituída não pode ser usada se forem detetadas quaisquer partículas ou se o aspeto do
+veículo ou do pó ou da vacina reconstituída forem diferentes do acima descrito.
+
+Recomenda-se que a vacina seja administrada imediatamente após reconstituição, para
+minimizar a perda de potência, ou no período de 8 horas se conservada num frigorífico.
+Não congelar a vacina reconstituída.
+Retirar todo o conteúdo da vacina reconstituída do frasco para injetáveis para uma seringa, mudar a
+agulha e injetar todo o volume por via subcutânea ou intramuscular.
+M-M-RvaxPro com veículo para reconstituição em seringa-pré-cheia:
+Para acoplar a agulha, esta deve colocar-se com firmeza na extremidade da seringa e prender-se
+rodando um quarto de volta (90º).
+Injetar todo o conteúdo da seringa de veículo no frasco para injetáveis contendo o pó. Agitar
+suavemente para homogeneizar.
+A vacina reconstituída não pode ser usada se forem detetadas quaisquer partículas ou se o aspeto do
+veículo ou do pó ou da vacina reconstituída forem diferentes do acima descrito.
+
+Recomenda-se que a vacina seja administrada imediatamente após reconstituição, para
+minimizar a perda de potência, ou no período de 8 horas se conservada num frigorífico.
+Não congelar a vacina reconstituída.
+Retirar todo o conteúdo da vacina reconstituída do frasco para injetáveis para uma seringa, mudar a
+agulha e injetar todo o volume por via subcutânea ou intramuscular.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/337/001
+EU/1/06/337/002
+EU/1/06/337/005
+13
+
+EU/1/06/337/006
+EU/1/06/337/007
+EU/1/06/337/008
+EU/1/06/337/009
+EU/1/06/337/010
+EU/1/06/337/011
+EU/1/06/337/012
+EU/1/06/337/013
+EU/1/06/337/014
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 5 de maio de 2006
+Data da última renovação: 05 de maio de 2011
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+<{MM/AAAA}>
+<{DD/MM/AAAA}>
+<{DD de mês de AAAA}>
+Está disponível informação pormenorizada sobre este medicamento no sítio da Internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+14
+
+ANEXO II
+A.
+
+FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ATIVA(S) DE
+ORIGEM BIOLÓGICA E FABRICANTE(S)
+RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+SEGURA E EFICAZ DO MEDICAMENTO
+
+15
+
+A
+
+FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ATIVA(S) DE ORIGEM BIOLÓGICA E
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante da substância ativa de origem biológica
+
+Merck Sharp & Dohme LLC
+770 Sumneytown Pike
+West Point, Pennsylvania
+19486 EUA
+Nome e endereço do fabricante responsável pela libertação do lote
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento sujeito a receita médica.
+
+Libertação oficial do lote
+
+
+
+Nos termos do artigo 114º da Diretiva 2001/83/CE, a libertação oficial do lote será feita por um
+laboratório estatal ou um laboratório designado para esse efeito.
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser submetido um PGR atualizado:
+
+
+
+
+A pedido da Agência Europeia de Medicamentos
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefíciorisco ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+16
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+17
+
+A. ROTULAGEM
+
+18
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+M-M-RvaxPro
+de 1, 5, 10
+
+1.
+
+– Pó em frasco para injetáveis e veículo em frasco para injetáveis - embalagem
+
+NOME DO MEDICAMENTO
+
+M-M-RvaxPro pó e veículo para suspensão injetável
+Vacina (viva) contra o sarampo, papeira e rubéola
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Após reconstituição, 1 dose (0,5 ml) contém (vivo, atenuado):
+
+≥ 1 x103 TCID50
+≥ 12,5 x103 TCID50
+≥ 1 x103 TCID50
+
+Vírus do sarampo estirpe Enders’ Edmonston
+Vírus da papeira estirpe Jeryl Lynn™ [Nível B]
+Vírus da rubéola estirpe Wistar RA 27/3
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+E 420, NaH2PO4/Na2HPO4, KH2PO4/K2HPO4, sacarose, gelatina hidrolisada, meio 199 com sais de
+Hanks, MEM, L-glutamato monossódico, neomicina, vermelho de fenol, NaHCO3, HCl, NaOH e água
+para preparações injetáveis.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó e veículo para suspensão injetável
+1 frasco para injetáveis (pó) + 1 frasco para injetáveis (veículo)
+5 frascos para injetáveis (pó) + 5 frascos para injetáveis (veículo)
+10 frascos para injetáveis (pó) + 10 frascos para injetáveis (veículo)
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via intramuscular ou via subcutânea.
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+19
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar e transportar refrigerado.
+Não congelar.
+Manter o frasco para injetáveis do pó na embalagem exterior para proteger da luz.
+Após reconstituição, use imediatamente ou no período de 8 horas se conservada num frigorífico.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/337/001 - embalagem de 1
+EU/1/06/337/014 - embalagem de 5
+EU/1/06/337/002 - embalagem de 10
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+20
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS CONTENDO O PÓ
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+M-M-RvaxPro pó para injeção
+IM/SC
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 dose
+
+6.
+
+OUTROS
+
+MSD
+
+21
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS DO VEÍCULO
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Veículo para M-M-RvaxPro
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 dose
+
+6.
+
+OUTROS
+
+MSD
+
+22
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+M-M-RvaxPro - Pó em frasco para injetáveis e veículo em seringa pré-cheia sem agulha –
+embalagem de 1, 10, 20
+
+1.
+
+NOME DO MEDICAMENTO
+
+M-M-RvaxPro pó e veículo para suspensão injetável em seringa pré-cheia
+Vacina (viva) contra o sarampo, papeira e rubéola
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Após reconstituição, 1 dose (0,5 ml) contém (vivo, atenuado):
+
+≥ 1x103 TCID50
+≥ 12,5x103 TCID50
+≥ 1x103 TCID50
+
+Vírus do sarampo estirpe Enders’ Edmonston
+Vírus da papeira estirpe Jeryl Lynn™ [Nível B]
+Vírus da rubéola estirpe Wistar RA 27/3
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+E 420, NaH2PO4/Na2HPO4, KH2PO4/K2HPO4, sacarose, gelatina hidrolisada, meio 199 com sais de
+Hanks, MEM, L-glutamato monossódico, neomicina, vermelho de fenol, NaHCO3, HCl, NaOH e água
+para preparações injetáveis.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó e veículo para suspensão injetável
+1 frasco para injetáveis (pó) + 1 seringa pré-cheia (veículo) sem agulha
+10 frascos para injetáveis (pó) + 10 seringas pré-cheias (veículo) sem agulha
+20 frascos para injetáveis (pó) + 20 seringas pré-cheias (veículo) sem agulha
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via intramuscular ou via subcutânea.
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+23
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar e transportar refrigerado.
+Não congelar.
+Manter o frasco para injetáveis do pó na embalagem exterior para proteger da luz.
+Após reconstituição, use imediatamente ou no período de 8 horas se conservada num frigorífico.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/337/005 - embalagem de 1
+EU/1/06/337/006 - embalagem de 10
+EU/1/06/337/007 - embalagem de 20
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+24
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+M-M-RvaxPro – Pó em frasco para injetáveis e veículo em seringa pré-cheia com uma agulha
+não acoplada – embalagem de 1, 10, 20
+
+1.
+
+NOME DO MEDICAMENTO
+
+M-M-RvaxPro pó e veículo para suspensão injetável em seringa pré-cheia
+Vacina (viva) contra o sarampo, papeira e rubéola
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Após reconstituição, 1 dose (0,5 ml) contém (vivo, atenuado):
+Vírus do sarampo estirpe Enders’ Edmonston
+Vírus da papeira estirpe Jeryl Lynn™ [Nível B]
+Vírus da rubéola estirpe Wistar RA 27/3
+
+3.
+
+≥ 1x103 TCID50
+≥ 12,5x103 TCID50
+≥ 1x103 TCID50
+
+LISTA DOS EXCIPIENTES
+
+E 420, NaH2PO4/Na2HPO4, KH2PO4/K2HPO4, sacarose, gelatina hidrolisada, meio 199 com sais de
+Hanks, MEM, L-glutamato monossódico, neomicina, vermelho de fenol, NaHCO3, HCl, NaOH e água
+para preparações injetáveis.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó e veículo para suspensão injetável
+1 frasco para injetáveis (pó) + 1 seringa pré-cheia (veículo) + 1 agulha
+10 frascos para injetáveis (pó) + 10 seringas pré-cheias (veículo) + 10 agulhas
+20 frascos para injetáveis (pó) + 20 seringas pré-cheias (veículo) + 20 agulhas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via intramuscular ou via subcutânea.
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+25
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar e transportar refrigerado.
+Não congelar.
+Manter o frasco para injetáveis do pó na embalagem exterior para proteger da luz.
+Após reconstituição, use imediatamente ou no período de 8 horas se conservada num frigorífico.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/337/008 - embalagem de 1
+EU/1/06/337/009 - embalagem de 10
+EU/1/06/337/010 - embalagem de 20
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO
+
+– CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO
+
+– DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+26
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+M-M-RvaxPro – Pó em frasco para injetáveis e veículo em seringa pré-cheia com duas agulhas
+não acopladas – embalagem de 1, 10, 20
+
+1.
+
+NOME DO MEDICAMENTO
+
+M-M-RvaxPro pó e veículo para suspensão injetável em seringa pré-cheia
+Vacina (viva) contra o sarampo, papeira e rubéola
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Após reconstituição, 1 dose (0,5 ml) contém (vivo, atenuado):
+Vírus do sarampo estirpe Enders’ Edmonston
+
+Vírus da papeira estirpe Jeryl Lynn™ [Nível B]
+Vírus da rubéola estirpe Wistar RA 27/3
+
+3.
+
+≥ 1x103 TCID50
+≥ 12,5x103 TCID50
+≥ 1x103 TCID50
+
+LISTA DOS EXCIPIENTES
+
+E 420, NaH2PO4/Na2HPO4, KH2PO4/K2HPO4, sacarose, gelatina hidrolisada, meio 199 com sais de
+Hanks, MEM, L-glutamato monossódico, neomicina, vermelho de fenol, NaHCO3, HCl, NaOH e água
+para preparações injetáveis.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó e veículo para suspensão injetável
+1 frasco para injetáveis (pó) + 1 seringa pré-cheia (veículo) + 2 agulhas
+10 frascos para injetáveis (pó) + 10 seringas pré-cheias (veículo) + 20 agulhas
+20 frascos para injetáveis (pó) + 20 seringas pré-cheias (veículo) + 40 agulhas
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via intramuscular ou via subcutânea.
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+27
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar e transportar refrigerado.
+Não congelar.
+Manter o frasco para injetáveis do pó na embalagem exterior para proteger da luz.
+Após reconstituição, use imediatamente ou no período de 8 horas se conservada num frigorífico.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/06/337/011 - embalagem de 1
+EU/1/06/337/012 - embalagem de 10
+EU/1/06/337/013 - embalagem de 20
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO
+
+– CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO
+
+– DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+28
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS CONTENDO O PÓ
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+M-M-RvaxPro pó para injeção
+IM/SC
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 dose
+
+6.
+
+OUTROS
+
+MSD
+
+29
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+SERINGA PRÉ-CHEIA DO VEÍCULO
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Veículo para M-M-RvaxPro
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 dose
+
+6.
+
+OUTROS
+
+MSD
+
+30
+
+B. FOLHETO INFORMATIVO
+
+31
+
+Folheto informativo: Informação para o utilizador
+M-M-RvaxPro
+Pó e veículo para suspensão injetável
+Vacina (viva) contra o sarampo, papeira e rubéola
+Leia com atenção todo este folheto antes de você ou do seu filho ser vacinado, pois contém
+informação importante para si.
+- Conserve este folheto. Pode ter necessidade de o ler novamente.
+- Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+- Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+O que contém este folheto
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é M-M-RvaxPro e para que é utilizado
+O que precisa de saber antes de receber M-M-RvaxPro
+Como utilizar M-M-RvaxPro
+Efeitos indesejáveis possíveis
+Como conservar M-M-RvaxPro
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é M-M-RvaxPro e para que é utilizado
+
+M-M-RvaxPro é uma vacina que contém os vírus do sarampo, papeira e rubéola, que foram atenuados.
+Quando a vacina é administrada a uma pessoa, o sistema imunitário (as defesas naturais do organismo)
+produz anticorpos contra os vírus do sarampo, papeira e rubéola. Os anticorpos ajudam a proteger
+contra as doenças provocadas por estes vírus.
+M-M-RvaxPro é administrado para ajudar a protegê-lo ou ao seu filho contra o sarampo, a papeira e a
+rubéola. A vacina pode ser administrada a pessoas com 12 ou mais meses de idade.
+Em circunstâncias especiais, M-M-RvaxPro pode ser administrado a lactentes dos 9 aos 12 meses de
+idade.
+M-M-RvaxPro pode também ser usado em surtos de sarampo ou para vacinação após a exposição ou
+para utilização em pessoas com mais de 9 meses que não tenham sido previamente vacinadas e que
+estejam em contacto com mulheres grávidas suscetíveis e pessoas com provável suscetibilidade à
+papeira e à rubéola.
+Embora M-M-RvaxPro contenha vírus vivos, estes estão demasiado atenuados para provocarem
+sarampo, papeira ou rubéola em pessoas saudáveis.
+
+2.
+
+O que precisa de saber antes de receber M-M-RvaxPro
+
+Não utilize M-M-RvaxPro
+se a pessoa a ser vacinada é alérgica a qualquer vacina contra o sarampo, papeira ou rubéola ou
+a qualquer componente desta vacina (indicados na secção 6) incluindo neomicina
+se a pessoa a ser vacinada está grávida (além disso, deve evitar-se a gravidez durante 1 mês após
+a vacinação, ver Gravidez e amamentação)
+se a pessoa a ser vacinada tem qualquer doença com febre superior a 38,5°C; contudo, uma
+febre baixa por si só não é um motivo para adiar a vacinação
+se a pessoa a ser vacinada tem tuberculose ativa não tratada
+se a pessoa a ser vacinada tem uma doença do sangue ou qualquer tipo de cancro que afete o
+sistema imunitário
+
+32
+
+-
+
+-
+
+se a pessoa a ser vacinada está a receber tratamento ou toma medicamentos que enfraquecem o
+sistema imunitário (exceto uma terapêutica com uma dose baixa de um corticosteroide para a
+asma ou terapêutica de substituição)
+se a pessoa a ser vacinada tem o sistema imunitário debilitado devido a uma doença (incluindo
+SIDA)
+se a pessoa a ser vacinada tem antecedentes familiares de imunodeficiência congénita ou
+hereditária, exceto se a competência imunitária da pessoa a ser vacinada estiver demonstrada.
+
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes da pessoa a ser vacinada receber M-M-RvaxPro, se a
+pessoa apresentou qualquer das seguintes situações:
+uma reação alérgica aos ovos ou a algo que contenha ovo
+antecedentes ou antecedentes familiares de alergias ou convulsões
+um efeito indesejável após a vacinação com as vacinas contra o sarampo, papeira e/ou rubéola
+que tenha envolvido o aparecimento frequente de nódoas negras ou de hemorragias mais
+prolongadas do que o habitual
+uma infeção pelo Vírus da Imunodeficiência Humana (VIH) mas não apresenta sintomas da
+doença do VIH. A pessoa vacinada deve ser estreitamente monitorizada relativamente ao
+aparecimento de sarampo, papeira e rubéola pois a vacinação pode ser menos eficaz do que em
+pessoas não infetadas (ver secção Não utilize M-M-RvaxPro).
+Tal como acontece com outras vacinas, M-M-RvaxPro poderá não proteger completamente todas as
+pessoas que são vacinadas. Também, se a pessoa que vai ser vacinada tiver já estado exposta aos vírus
+do sarampo, papeira ou rubéola mas ainda não está doente, M-M-RvaxPro pode não ser capaz de
+evitar o aparecimento da doença.
+M-M-RvaxPro pode ser administrado a pessoas que tiveram um contacto recente (no espaço de 3 dias)
+com um caso de sarampo e que poderão estar a incubar a doença. Contudo, M-M-RvaxPro poderá,
+nem sempre, ser capaz de evitar o desenvolvimento do sarampo nestes casos.
+
+Outros medicamentos e M-M-RvaxPro
+Informe o seu médico ou farmacêutico se a pessoa a ser vacinada estiver a tomar, tiver tomado
+recentemente, ou se vier a tomar outros medicamentos (ou outras vacinas).
+O médico pode atrasar a vacinação durante, pelo menos, 3 meses após transfusões de sangue ou
+plasma ou após a administração de imunoglobulinas (conhecidas como IGs). Após a vacinação com
+M-M-RvaxPro, não devem administrar-se IGs durante 1 mês, exceto se indicado pelo seu médico.
+Caso seja necessário efetuar uma prova de tuberculina, esta deverá ter lugar algum tempo antes, em
+simultâneo com, ou 4 a 6 semanas após a vacinação com M-M-RvaxPro.
+M-M-RvaxPro pode ser administrado com Prevenar e/ou com a vacina contra a hepatite A, num local
+diferente de injeção (ex: no outro braço ou perna), durante a mesma consulta.
+M-M-RvaxPro pode ser administrado em simultâneo com algumas vacinas de rotina previstas durante
+a infância. No caso das vacinas que não podem ser administradas em simultâneo, M-M-RvaxPro deve
+ser administrado 1 mês antes ou após a administração dessas vacinas.
+
+Gravidez e amamentação
+M-M-RvaxPro não deve ser administrado a mulheres grávidas. Após a vacinação, as mulheres em
+idade fértil devem tomar as precauções necessárias para evitar engravidar durante 1 mês ou conforme
+a recomendação do médico.
+As mulheres que estão a amamentar ou pretendem amamentar devem consultar o médico. O médico
+decidirá se deverá proceder-se à administração de M-M-RvaxPro.
+
+33
+
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+ou farmacêutico antes de tomar esta vacina.
+
+Condução de veículos e utilização de máquinas
+Não existe informação que sugira que M-M-RvaxPro afeta a capacidade de condução ou utilização de
+máquinas.
+M-M-RvaxPro contém sódio
+Este medicamento contém menos do que 1 mmol (23 miligramas) de sódio por dose ou seja, é
+praticamente “isento de sódio”.
+M-M-RvaxPro contém potássio
+Este medicamento contém menos do que 1 mmol (39 miligramas) de potássio por dose, ou seja, é
+praticamente “isento de potássio”.
+M-M-RvaxPro contém sorbitol (E 420)
+Este medicamento contém 14,5 miligramas de sorbitol por dose. Deve-se ter em consideração o efeito
+aditivo da administração concomitante de produtos contendo sorbitol (ou frutose) e a ingestão de
+sorbitol (ou frutose) na dieta.
+
+3.
+
+Como utilizar M-M-RvaxPro
+
+M-M-RvaxPro deve ser injetado no músculo ou sob a pele, na parte lateral da coxa ou na parte
+superior do braço. Habitualmente, para injeções no músculo, a zona da coxa é preferencial em crianças
+mais novas, enquanto que para pessoas com mais idade, a parte superior do braço é o local de injeção
+preferencial.
+M-M-RvaxPro não deve ser injetado diretamente em nenhum vaso sanguíneo.
+M-M-RvaxPro deve ser administrado da seguinte forma:
+É administrada uma dose na data selecionada, normalmente a partir dos 12 meses de idade.
+Em circunstâncias especiais, pode ser administrado a partir dos 9 meses. As doses seguintes devem ser
+administradas de acordo com a recomendação do seu médico. O intervalo entre as 2 doses deve ser, no
+mínimo, de 4 semanas.
+As instruções de reconstituição destinadas aos médicos e profissionais de saúde estão incluídas no fim
+do folheto informativo.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, esta vacina pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Os seguintes efeitos indesejáveis foram notificados com a utilização de M-M-RvaxPro:
+
+Frequência
+Muito frequentes
+(podem afetar mais de
+1 em 10 vacinados)
+Frequentes (podem
+afetar até 1 em
+10 vacinados)
+Pouco frequentes
+(podem afetar até 1 em
+100 vacinados)
+
+Efeitos indesejáveis
+
+
+
+
+Febre (38,5ºC ou superior).
+
+
+
+
+Erupção cutânea (incluindo erupção cutânea tipo sarampo).
+
+
+
+Congestão nasal e dor de garganta; Infeção no trato respiratório
+superior ou infeção viral; Corrimento nasal.
+
+
+
+
+Vermelhidão, dor e inchaço no local de injeção.
+
+Nódoas negras no local da injeção.
+
+Choro.
+Diarreia, Vómitos.
+34
+
+Desconhecido (a
+frequência não pode
+ser calculada a partir
+dos dados
+disponíveis)*
+
+
+
+
+
+Urticária.
+Erupção cutânea no local da injeção.
+Meningite assética (febre, sensação de mal estar, vómitos, dor de
+cabeça, rigidez no pescoço, sensibilidade à luz); testículos
+inchados; Infeção do ouvido médio, glândulas salivares inflamadas;
+Sarampo atípico (descrito em doentes que receberam uma vacina
+contra o sarampo com o vírus inativado, habitualmente utilizada
+antes de 1975).
+
+
+
+
+Nódulos linfáticos inchados.
+
+
+
+Reação alérgica grave que pode incluir dificuldade em respirar,
+inchaço da face, inchaço localizado, e inchaço dos membros.
+
+
+
+
+Irritabilidade.
+
+
+
+Uma doença que consiste em fraqueza muscular, sensações
+anormais e formigueiro nos braços, pernas e parte superior do corpo
+(síndrome Guillain-Barré).
+
+
+
+Dor de cabeça; Desmaios, Perturbações nervosas que podem causar
+fraqueza, formigueiro ou dormência; Distúrbios do nervo do olho.
+
+
+
+
+
+
+
+
+Pús e comichão nos olhos com pálpebras coladas (conjuntivite).
+
+Hemorragia ou aparecimento de nódoas negras mais facilmente que
+o habitual.
+
+Convulsões sem febre; Convulsões com febre em crianças;
+Instabilidade da marcha; Tonturas, Doenças envolvendo a
+inflamação do sistema nervoso (cérebro e/ou medula espinhal)
+
+Inflamação da retina (no olho) com alterações da visão.
+Surdez.
+Tosse; Infeção pulmonar com ou sem febre.
+Sensação de doença (náuseas).
+Comichão; Inflamação do tecido adiposo subcutâneo, pintas
+vermelhas ou roxas na pele (petéquias); zona de pele endurecida e
+elevada; Doença grave com úlceras ou formação de bolhas na pele,
+boca, olhos e/ou genitais (Síndrome Stevens-Johnson).
+
+
+
+Dor e/ou inchaço nas articulações (geralmente transitório e
+raramente crónico); dor muscular.
+
+
+
+Sensação de queimadura e/ou ardor de curta duração no local da
+injeção; Bolhas e/ou urticária no local da injeção.
+
+
+
+
+Sensação de mal-estar geral, inchaço; dor.
+Inflamação dos vasos sanguíneos.
+
+*Estes efeitos indesejáveis foram notificados com a utilização de M-M-RvaxPro ou com a vacina
+contra o sarampo, papeira e rubéola fabricada pela Merck & Co., Inc., ou com as suas componentes
+monovalentes, durante a utilização nos ensaios clínicos e /ou durante a utilização pós-comercialização.
+
+Comunicação de efeitos indesejáveis
+Se a pessoa vacinada tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não
+indicados neste folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos
+indesejáveis diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+
+5.
+
+Como conservar M-M-RvaxPro
+
+Manter este medicamento fora da vista e do alcance das crianças.
+
+35
+
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior após EXP. O
+prazo de validade corresponde ao último dia do mês indicado.
+Conservar e transportar refrigerado (2ºC - 8ºC).
+Manter o frasco para injetáveis do pó dentro da embalagem exterior para o proteger da luz.
+Não congelar a vacina.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de M-M-RvaxPro
+As substâncias ativas são:
+Após reconstituição, uma dose (0,5 ml) contém:
+Vírus do sarampo1 estirpe Enders’ Edmonston (vivo, atenuado)
+Vírus da papeira1 estirpe Jeryl Lynn™ (Nível B) (vivo, atenuado)
+Vírus da rubéola2 estirpe Wistar RA 27/3 (vivo, atenuado)
+
+não inferior a 1x103 TCID50*
+não inferior a 12.5x103 TCID50*
+não inferior a 1x103 TCID50*
+
+* dose infecciosa para 50% da cultura tecidular
+1
+2
+
+Produzido em células embrionárias de pinto.
+Produzido em fibroblastos pulmonares diploides humanos WI-38.
+
+Os outros componentes são:
+Pó:
+Sorbitol (E 420), fosfato de sódio (NaH2PO4/Na2HPO4), fosfato de potássio (KH2PO4/K2HPO4),
+sacarose, gelatina hidrolisada, meio 199 com sais de Hanks, MEM, L-glutamato monossódico,
+neomicina, vermelho de fenol, bicarbonato de sódio (NaHCO3), ácido clorídrico (HCl) (para ajuste do
+pH) e hidróxido de sódio (NaOH) (para ajuste do pH).
+Veículo:
+Água para preparações injetáveis
+
+Qual o aspeto de M-M-RvaxPro e conteúdo da embalagem
+A vacina é um pó para suspensão injetável contido num frasco para injetáveis de dose unitária, o qual
+deve ser misturado com o veículo fornecido.
+O veículo é um líquido incolor e límpido. O pó é um aglomerado cristalino, compacto, ligeiramente
+amarelado.
+M-M-RvaxPro está disponível em embalagens de 1, 5 e 10. É possível que não sejam comercializadas
+todas as apresentações.
+
+Titular da Autorização de Introdução no Mercado e Fabricante
+Merck Sharp & Dohme, B.V., Waarderweg 39, 2031 BN Haarlem, Países Baixos
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado.
+
+België/Belgique/Belgien
+
+Lietuva
+36
+
+MSD Belgium
+Tél/Tel: +32(0)27766211
+dpoc_belux@merck.com
+
+UAB Merck Sharp & Dohme
+Tel.: +370.5.2780.247
+msd_lietuva@merck.com
+
+България
+Мерк Шарп и Доум България ЕООД
+Тел.: +359 2 819 3737
+
+Luxembourg/Luxemburg
+MSD Belgium
+Tél/Tel: +32(0)27766211
+dpoc_belux@merck.com
+
+info-msdbg@merck.com
+
+Česká republika
+Merck Sharp & Dohme s.r.o.
+Tel.: +420.233.010.111
+dpoc_czechslovak@merck.com
+
+Magyarország
+MSD Pharma Hungary Kft.
+Tel.: + 36.1.888.5300
+hungary_msd@merck.com
+
+Danmark
+MSD Danmark ApS
+Tlf: + 45 4482 4000
+dkmail@merck.com
+
+Malta
+Merck Sharp & Dohme Cyprus Limited., Tel:
+8007 4433 (+356 99917558)
+malta_info@merck.com
+
+Deutschland
+MSD Sharp & Dohme GmbH
+Tel: 0800 673 673 673 (+49 (0) 89 4561 0)
+e-mail@msd.de
+
+Nederland
+Merck Sharp & Dohme B.V.
+Tel: 0800 9999000
+(+31 23 5153153)
+medicalinfo.nl@merck.com
+
+Eesti
+Merck Sharp & Dohme OÜ
+Tel: +372.6144 200
+msdeesti@merck.com
+
+Norge
+MSD (Norge) AS
+Tlf: +47 32 20 73 00
+msdnorge@msd.no
+
+Ελλάδα
+MSD Α.Φ.Β.Ε.Ε.
+Τηλ: +30 210 98 97 300
+dpoc_greece@merck.com
+
+Österreich
+Merck Sharp & Dohme Ges.m.b.H.
+Tel: +43 (0) 1 26 044
+dpoc_austria@merck.com
+
+España
+Merck Sharp & Dohme de España, S.A.
+Tel: +34 91 321 06 00
+msd_info@merck.com
+
+Polska
+MSD Polska Sp. z o.o.
+Tel.: +48.22.549.51.00
+msdpolska@merck.com
+
+France
+MSD France
+Tél: +33 (0)1 80 46 40 40
+
+Portugal
+Merck Sharp & Dohme, Lda
+Tel: +351 21 4465700
+inform_pt@merck.com
+
+Hrvatska
+Merck Sharp & Dohme d.o.o.
+Tel: +385 1 66 11 333
+croatia_info@merck.com
+
+România
+Merck Sharp & Dohme Romania S.R.L.
+Tel: + 4021 529 29 00
+msdromania@merck.com
+
+Ireland
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 2998700
+medinfo_ireland@merck.com
+
+Slovenija
+Merck Sharp & Dohme, inovativna zdravila
+d.o.o.,
+Tel: +386.1.520.4201
+msd.slovenia@merck.com
+
+Ísland
+
+Slovenská republika
+37
+
+Vistor hf.
+Sími: + 354 535 7000
+
+Merck Sharp & Dohme, s. r. o.
+Tel: +421.2.58282010
+dpoc_czechslovak@merck.com
+
+Italia
+MSD Italia S.r.l.
+Tel: 800 23 99 89 (+39 06 361911)
+medicalinformation.it@msd.com
+
+Suomi/Finland
+MSD Finland Oy
+Puh/Tel: +358 (0)9 804 650
+info@msd.fi
+
+Κύπρος
+
+Sverige
+Merck Sharp & Dohme (Sweden) AB
+Tel: +46 77 5700488
+medicinskinfo@merck.com
+
+Merck Sharp & Dohme Cyprus Limited
+
+Τηλ: +800 00 673 (+357 22866700)
+cyprus_info@merck.com
+
+Latvija
+SIA Merck Sharp & Dohme Latvija
+Tel: +371 67364 224
+msd_lv@merck.com
+
+United Kingdom (Northern ireland)
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 2998700
+medinfoNI@msd.com
+
+Este folheto foi revisto pela última vez em <{MM/AAAA}><{mês de AAAA}>
+Outras fontes de informação
+Está disponível informação pormenorizada sobre esta vacina no sítio da internet da Agência Europeia
+de Medicamentos: http://www.ema.europa.eu.
+---------------------------------------------------------------------------------------------------------------------
+
+A informação que se segue destina-se apenas aos profissionais de saúde:
+Antes de misturar com o veículo, o pó da vacina é um aglomerado cristalino, compacto, ligeiramente
+amarelado. O veículo é um líquido incolor límpido. Quando reconstituída completamente, a vacina é
+um líquido amarelado transparente.
+Para reconstituição da vacina, utilize o veículo fornecido.
+É importante utilizar seringa e agulha estéreis diferentes para cada doente, para evitar a transmissão de
+agentes infeciosos de um indivíduo para outro.
+Deve ser utilizada uma agulha para a reconstituição e uma agulha diferente, nova para a injeção.
+Instruções de reconstituição
+Retire todo o conteúdo do frasco para injetáveis de veículo para uma seringa que será usada para a
+reconstituição e administração. Injete todo o conteúdo da seringa no frasco para injetáveis que contém
+o pó. Agite suavemente para misturar bem.
+A vacina reconstituída não pode ser usada se forem detetadas quaisquer partículas ou se o aspeto do
+veículo ou do pó ou da vacina reconstituída forem diferentes do acima descrito.
+
+Recomenda-se que a vacina seja administrada imediatamente após reconstituição, para
+minimizar a perda de potência, ou no período de 8 horas se conservada num frigorífico.
+Não congelar a vacina reconstituída.
+Retirar todo o conteúdo da vacina reconstituída do frasco para injetáveis para uma seringa, mudar a
+agulha e injetar todo o volume por via subcutânea ou intramuscular.
+
+38
+
+Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+Ver também a secção 3 Como utilizar M-M-RvaxPro.
+
+39
+
+Folheto informativo: Informação para o utilizador
+M-M-RvaxPro
+Pó e veículo para suspensão injetável em seringa pré-cheia
+Vacina (viva) contra o sarampo, papeira e rubéola
+Leia com atenção todo este folheto antes de você ou do seu filho ser vacinado, pois contém
+informação importante para si.
+- Conserve este folheto. Pode ter necessidade de o ler novamente.
+- Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+- Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+O que contém este folheto
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é M-M-RvaxPro e para que é utilizado
+O que precisa de saber antes de receber M-M-RvaxPro
+Como utilizar M-M-RvaxPro
+Efeitos indesejáveis possíveis
+Como conservar M-M-RvaxPro
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é M-M-RvaxPro e para que é utilizado
+
+M-M-RvaxPro é uma vacina que contém os vírus do sarampo, papeira e rubéola, que foram atenuados.
+Quando a vacina é administrada a uma pessoa, o sistema imunitário (as defesas naturais do organismo)
+produz anticorpos contra os vírus do sarampo, papeira e rubéola. Os anticorpos ajudam a proteger
+contra as doenças provocadas por estes vírus.
+M-M-RvaxPro é administrado para ajudar a protegê-lo ou ao seu filho contra o sarampo, a papeira e a
+rubéola. A vacina pode ser administrada a pessoas com 12 ou mais meses de idade.
+Em circunstâncias especiais, M-M-RvaxPro pode ser administrado a lactentes dos 9 aos 12 meses de
+idade.
+M-M-RvaxPro pode também ser usado em surtos de sarampo ou para vacinação após a exposição ou
+para utilização em pessoas com mais de 9 meses que não tenham sido previamente vacinadas e que
+estejam em contacto com mulheres grávidas suscetíveis e pessoas com provável suscetibilidade à
+papeira e à rubéola.
+Embora M-M-RvaxPro contenha vírus vivos, estes estão demasiado atenuados para provocarem
+sarampo, papeira ou rubéola em pessoas saudáveis.
+
+2.
+
+O que precisa de saber antes de receber M-M-RvaxPro
+
+Não utilize M-M-RvaxPro:
+se a pessoa a ser vacinada é alérgica a qualquer vacina contra o sarampo, papeira ou rubéola ou
+a qualquer componente desta vacina (indicados na secção 6) incluindo neomicina
+se a pessoa a vacinar está grávida (além disso, deve evitar-se a gravidez durante 1 mês após a
+vacinação, ver Gravidez e amamentação)
+se a pessoa a vacinada tem qualquer doença com febre superior a 38,5°C; contudo, uma febre
+baixa por si só não é um motivo para adiar a vacinação
+se a pessoa a ser vacinada tem tuberculose ativa não tratada
+se a pessoa a ser vacinada tem uma doença do sangue ou qualquer tipo de cancro que afete o
+sistema imunitário
+
+40
+
+-
+
+-
+
+se a pessoa a ser vacinada está a receber tratamento ou toma medicamentos que enfraquecem o
+sistema imunitário (exceto uma terapêutica com uma dose baixa de um corticosteroide para a
+asma ou uma terapêutica de substituição)
+se a pessoa a ser vacinada tem o sistema imunitário debilitado devido a uma doença (incluindo
+SIDA)
+se a pessoa a ser vacinada tem antecedentes familiares de imunodeficiência congénita ou
+hereditária, exceto se a competência imunitária da pessoa a ser vacinada estiver demonstrada.
+
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes da pessoa a ser vacinada receber M-M-RvaxPro, se a
+pessoa apresentou qualquer das seguintes situações:
+uma reação alérgica aos ovos ou a algo que contenha ovo
+antecedentes ou antecedentes familiares de alergias ou convulsões
+um efeito indesejável após a vacinação com vacina contra o sarampo, papeira e/ou rubéola que
+tenha envolvido o aparecimento frequente de nódoas negras ou de hemorragias mais
+prolongadas do que o habitual
+uma infeção pelo Vírus da Imunodeficiência Humana (VIH) mas não apresentam sintomas da
+doença do VIH. A pessoa vacinada deve ser estreitamente monitorizada relativamente ao
+aparecimento de sarampo, papeira e rubéola pois a vacinação pode ser menos eficaz do que em
+pessoas não infetadas (ver secção Não utilize M-M-RvaxPro).
+Tal como acontece com outras vacinas, M-M-RvaxPro poderá não proteger completamente todas as
+pessoas que são vacinadas. Também, se pessoa que vai ser vacinada tiver já estado exposta aos vírus
+do sarampo, papeira ou rubéola mas ainda não está doente, M-M-RvaxPro pode não ser capaz de
+evitar o aparecimento da doença.
+M-M-RvaxPro pode ser administrado a pessoas que tiveram um contacto recente (no espaço de 3 dias)
+com um caso de sarampo e que poderão estar a incubar a doença. Contudo, M-M-RvaxPro poderá,
+nem sempre, ser capaz de evitar o desenvolvimento do sarampo nestes casos.
+
+Outros medicamentos e M-M-RvaxPro
+Informe o seu médico ou farmacêutico se a pessoa a ser vacinada estiver a tomar, tiver tomado
+recentemente, ou se vier a tomar outros medicamentos (ou outras vacinas).
+O médico pode atrasar a vacinação durante, pelo menos, 3 meses após transfusões de sangue ou
+plasma ou após a administração de imunoglobulinas (conhecidas como IGs). Após a vacinação com
+M-M-RvaxPro, não devem administrar-se IGs durante 1 mês, exceto se indicado pelo seu médico.
+Caso seja necessário efetuar uma prova de tuberculina, esta deverá ter lugar algum tempo antes, em
+simultâneo com, ou 4 a 6 semanas após a vacinação com M-M-RvaxPro.
+M-M-RvaxPro pode ser administrado com Prevenar e/ou com a vacina contra a hepatite A, num local
+diferente de injeção (ex: no outro braço ou perna), durante a mesma consulta.
+M-M-RvaxPro pode ser administrado em simultâneo com algumas vacinas de rotina previstas durante
+a infância. No caso das vacinas que não podem ser administradas em simultâneo, M-M-RvaxPro deve
+ser administrado 1 mês antes ou após a administração dessas vacinas.
+
+Gravidez e amamentação
+M-M-RvaxPro não deve ser administrado a mulheres grávidas. Após a vacinação, as mulheres em
+idade fértil devem tomar as precauções necessárias para evitar engravidar durante 1 mês ou conforme
+a recomendação do médico.
+As mulheres que estão a amamentar ou pretendem amamentar devem consultar o médico. O médico
+decidirá se deverá proceder-se à administração de M-M-RvaxPro.
+
+41
+
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+ou farmacêutico antes de tomar esta vacina.
+
+Condução de veículos e utilização de máquinas
+Não existe informação que sugira que M-M-RvaxPro afeta a capacidade de condução ou utilização de
+máquinas.
+M-M-RvaxPro contém sódio
+Este medicamento contém menos do que 1 mmol (23 miligramas) de sódio por dose ou seja, é
+praticamente “isento de sódio”.
+M-M-RvaxPro contém potássio
+Este medicamento contém menos do que 1 mmol (39 miligramas) de potássio por dose, ou seja, é
+praticamente “isento de potássio”.
+M-M-RvaxPro contém sorbitol (E 420)
+Este medicamento contém 14,5 miligramas de sorbitol por dose. Deve-se ter em consideração o efeito
+aditivo da administração concomitante de produtos contendo sorbitol (ou frutose) e a ingestão de
+sorbitol (ou frutose) na dieta.
+
+3.
+
+Como utilizar M-M-RvaxPro
+
+M-M-RvaxPro deve ser injetado no músculo ou sob a pele, na parte lateral da coxa ou na parte
+superior do braço. Habitualmente, para injeções no músculo, a zona da coxa é preferencial em crianças
+mais novas, enquanto que para pessoas com mais idade, a parte superior do braço é o local de injeção
+preferencial.
+M-M-RvaxPro não deve ser injetado diretamente em nenhum vaso sanguíneo.
+M-M-RvaxPro deve ser administrado da seguinte forma:
+É administrada uma dose na data selecionada, normalmente a partir dos 12 meses de idade.
+Em circunstâncias especiais, pode ser administrado a partir dos 9 meses. As doses seguintes devem ser
+administradas de acordo com a recomendação do seu médico. O intervalo entre as 2 doses deve ser, no
+mínimo, de 4 semanas.
+As instruções de reconstituição destinadas aos médicos e profissionais de saúde estão incluídas no fim
+do folheto informativo.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, esta vacina pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Os seguintes efeitos indesejáveis foram notificados com a utilização de M-M-RvaxPro:
+
+Frequência
+
+Efeitos indesejáveis
+
+Muito frequentes
+(podem afetar mais de
+1 em 10 vacinados)
+
+
+
+
+Frequentes (podem
+afetar até 1 em
+10 vacinados)
+
+
+
+
+Erupção cutânea (incluindo erupção cutânea tipo sarampo).
+
+Pouco frequentes
+(podem afetar até 1 em
+100 vacinados)
+
+
+
+Congestão nasal e dor de garganta; Infeção no trato respiratório
+superior ou infeção viral; Corrimento nasal.
+
+
+
+
+Febre (38,5ºC ou superior).
+Vermelhidão, dor e inchaço no local de injeção.
+
+Nódoas negras no local da injeção.
+
+Choro.
+Diarreia, Vómitos.
+42
+
+Desconhecido (a
+frequência não pode
+ser calculada a partir
+dos dados
+disponíveis)*
+
+
+
+
+
+Urticária.
+Erupção cutânea no local da injeção.
+Meningite assética (febre, sensação de mal estar, vómitos, dor de
+cabeça, rigidez no pescoço, sensibilidade à luz); testículos
+inchados; Infeção do ouvido médio, glândulas salivares inflamadas;
+Sarampo atípico (descrito em doentes que receberam uma vacina
+contra o sarampo com o vírus inativado, habitualmente utilizada
+antes de 1975).
+
+
+
+
+Nódulos linfáticos inchados.
+
+
+
+Reação alérgica grave que pode incluir dificuldade em respirar,
+inchaço da face, inchaço localizado, e inchaço dos membros.
+
+
+
+
+Irritabilidade.
+
+Hemorragia ou aparecimento de nódoas negras mais facilmente que
+o habitual.
+
+Convulsões sem febre; Convulsões com febre em crianças;
+Instabilidade da marcha; Tonturas, Doenças envolvendo a
+inflamação do sistema nervoso (cérebro e/ou medula espinhal)
+
+
+
+Uma doença que consiste em fraqueza muscular, sensações
+anormais e formigueiro nos braços, pernas e parte superior do corpo
+(Síndrome Guillain-Barré).
+
+
+
+Dor de cabeça; Desmaios, Perturbações nervosas que podem causar
+fraqueza, formigueiro ou dormência; Distúrbios do nervo do olho.
+
+
+
+
+
+
+
+
+Pús e comichão nos olhos com pálpebras coladas (conjuntivite).
+Inflamação da retina (no olho) com alterações da visão.
+Surdez.
+Tosse; Infeção pulmonar com ou sem febre.
+Sensação de doença (náuseas).
+Comichão; Inflamação do tecido adiposo subcutâneo, pintas
+vermelhas ou roxas na pele (petéquias); zona de pele endurecida e
+elevada; Doença grave com úlceras ou formação de bolhas na pele,
+boca, olhos e/ou genitais (Síndrome Stevens-Johnson).
+
+
+
+Dor e/ou inchaço nas articulações (geralmente transitório e
+raramente crónico); dor muscular.
+
+
+
+Sensação de queimadura e/ou ardor de curta duração no local da
+injeção; Bolhas e/ou urticária no local da injeção.
+
+ Sensação de mal-estar geral, inchaço; dor.
+Inflamação dos vasos sanguíneos.
+*Estes efeitos indesejáveis foram notificados com a utilização de M-M-RvaxPro ou com a vacina
+contra o sarampo, papeira e rubéola fabricada pela Merck & Co., Inc., ou com a sua componente
+monovalente, durante a utilização nos ensaios clínicos e /ou durante a utilização pós-comercialização.
+
+Comunicação de efeitos indesejáveis
+Se a pessoa vacinada tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não
+indicados neste folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos
+indesejáveis diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+
+5.
+
+Como conservar M-M-RvaxPro
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior após EXP. O
+prazo de validade corresponde ao último dia do mês indicado.
+43
+
+Conservar e transportar refrigerado (2ºC - 8ºC).
+Manter o frasco para injetáveis do pó dentro da embalagem exterior para o proteger da luz.
+Não congelar a vacina.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de M-M-RvaxPro
+As substâncias ativas são:
+Após reconstituição, uma dose (0,5 ml) contém:
+Vírus do sarampo1 estirpe Enders’ Edmonston (vivo, atenuado)
+Vírus da papeira1 estirpe Jeryl Lynn™ (Nível B) (vivo, atenuado)
+Vírus da rubéola2 estirpe Wistar RA 27/3 (vivo, atenuado)
+
+não inferior a 1x103 TCID50*
+não inferior a 12.5x103 TCID50*
+não inferior a 1x103 TCID50*
+
+* dose infecciosa para 50% da cultura tecidular.
+1
+2
+
+Produzido em células embrionárias de pinto.
+Produzido em fibroblastos pulmonares diploides humanos WI-38.
+
+Os outros componentes são:
+Pó:
+Sorbitol (E 420), fosfato de sódio (NaH2PO4/Na2HPO4), fosfato de potássio (KH2PO4/K2HPO4),
+sacarose, gelatina hidrolisada, meio 199 com sais de Hanks, MEM, L-glutamato monossódico,
+neomicina, vermelho de fenol, bicarbonato de sódio (NaHCO3), ácido clorídrico (HCl) (para ajuste do
+pH) e hidróxido de sódio (NaOH) (para ajuste do pH).
+Veículo:
+Água para preparações injetáveis
+
+Qual o aspeto de M-M-RvaxPro e conteúdo da embalagem
+A vacina é um pó para suspensão injetável contido num frasco para injetáveis de dose unitária, o qual
+deve ser misturado com o veículo fornecido.
+O veículo é um líquido incolor e límpido. O pó é um aglomerado cristalino, compacto, ligeiramente
+amarelado.
+M-M-RvaxPro está disponível em embalagens de 1, 10 e 20, com ou sem agulhas. É possível que não
+sejam comercializadas todas as apresentações.
+
+Titular da Autorização de Introdução no Mercado e Fabricante
+Merck Sharp & Dohme, B.V., Waarderweg 39, 2031 BN Haarlem, Países Baixos
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado.
+
+44
+
+België/Belgique/Belgien
+MSD Belgium
+Tél/Tel: +32(0)27766211
+dpoc_belux@merck.com
+
+Lietuva
+UAB Merck Sharp & Dohme
+Tel.: +370.5.2780.247
+msd_lietuva@merck.com
+
+България
+Мерк Шарп и Доум България ЕООД
+Тел.: +359 2 819 3737
+
+Luxembourg/Luxemburg
+MSD Belgium
+Tél/Tel: +32(0)27766211
+dpoc_belux@merck.com
+
+info-msdbg@merck.com
+
+Merck Sharp & Dohme s.r.o.
+Tel.: +420.233.010.111
+dpoc_czechslovak@merck.com
+
+Magyarország
+MSD Pharma Hungary Kft.
+Tel.: + 36.1.888.5300
+hungary_msd@merck.com
+
+Danmark
+MSD Danmark ApS
+Tlf: + 45 4482 4000
+dkmail@merck.com
+
+Malta
+Merck Sharp & Dohme Cyprus Limited., Tel:
+8007 4433 (+356 99917558)
+malta_info@merck.com
+
+Deutschland
+MSD Sharp & Dohme GmbH
+Tel: 0800 673 673 673 (+49 (0) 89 4561 0)
+e-mail@msd.de
+
+Nederland
+Merck Sharp & Dohme B.V.
+Tel: 0800 9999000
+(+31 23 5153153)
+medicalinfo.nl@merck.com
+Norge
+MSD (Norge) AS
+Tlf: +47 32 20 73 00
+msdnorge@msd.no
+
+Česká republika
+
+Eesti
+Merck Sharp & Dohme OÜ
+Tel: +372.6144 200
+msdeesti@merck.com
+
+dpoc_greece@merck.com
+
+Österreich
+Merck Sharp & Dohme Ges.m.b.H.
+Tel: +43 (0) 1 26 044
+dpoc_austria@merck.com
+
+España
+Merck Sharp & Dohme de España, S.A.
+Tel: +34 91 321 06 00
+msd_info@merck.com
+
+Polska
+MSD Polska Sp. z o.o.
+Tel.: +48.22.549.51.00
+msdpolska@merck.com
+
+France
+MSD France
+Tél: +33 (0)1 80 46 40 40
+
+Portugal
+Merck Sharp & Dohme, Lda
+Tel: +351 21 4465700
+inform_pt@merck.com
+
+Hrvatska
+Merck Sharp & Dohme d.o.o.
+Tel: +385 1 66 11 333
+croatia_info@merck.com
+
+România
+Merck Sharp & Dohme Romania S.R.L.
+Tel: + 4021 529 29 00
+msdromania@merck.com
+
+Ireland
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 2998700
+medinfo_ireland@merck.com
+
+Slovenija
+Merck Sharp & Dohme, inovativna zdravila
+d.o.o.,
+Tel: +386.1.520.4201
+msd.slovenia@merck.com
+
+Ísland
+
+Slovenská republika
+
+Ελλάδα
+MSD Α.Φ.Β.Ε.Ε.
+Τηλ: +30 210 98 97 300
+
+45
+
+Vistor hf.
+Sími: + 354 535 7000
+
+Merck Sharp & Dohme, s. r. o.
+Tel: +421.2.58282010
+dpoc_czechslovak@merck.com
+
+Italia
+MSD Italia S.r.l.
+Tel: 800 23 99 89 (+39 06 361911)
+medicalinformation.it@msd.com
+
+Suomi/Finland
+MSD Finland Oy
+Puh/Tel: +358 (0)9 804 650
+info@msd.fi
+
+Κύπρος
+
+Sverige
+Merck Sharp & Dohme (Sweden) AB
+Tel: +46 77 5700488
+medicinskinfo@merck.com
+
+Merck Sharp & Dohme Cyprus Limited
+
+Τηλ: +80000 673 (+357 22866700)
+cyprus_info@merck.com
+
+Latvija
+SIA Merck Sharp & Dohme Latvija
+Tel: +371 67364 224
+msd_lv@merck.com
+
+United Kingdom (Northern Ireland)
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 2998700
+medinfoNI@msd.com
+
+Este folheto foi revisto pela última vez em <{MM/AAAA}><{mês de AAAA}>
+Outras fontes de informação
+Está disponível informação pormenorizada sobre esta vacina no sítio da internet da Agência Europeia
+de Medicamentos: http://www.ema.europa.eu.
+
+--------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos profissionais de saúde:
+Antes de misturar com o veículo, o pó da vacina é um aglomerado cristalino, compacto, ligeiramente
+amarelado. O veículo é um líquido incolor límpido. Quando reconstituída completamente, a vacina é
+um líquido amarelado transparente.
+Para reconstituição da vacina, utilizar o veículo fornecido.
+É importante utilizar seringa e agulha estéreis diferentes para cada doente, para evitar a transmissão de
+agentes infeciosos de um indivíduo para outro.
+Deve ser utilizada uma agulha para a reconstituição e uma agulha diferente, nova para a injeção.
+Instruções de reconstituição
+Para acoplar a agulha, esta deve colocar-se com firmeza na extremidade da seringa e prender-se
+rodando um quarto de volta (90º).
+Injetar todo o conteúdo da seringa de veículo no frasco para injetáveis que contém o pó. Agite
+suavemente para misturar completamente.
+A vacina reconstituída não pode ser usada se forem detetadas quaisquer partículas ou se o aspeto do
+veículo ou do pó ou da vacina reconstituída forem diferentes do acima descrito.
+
+Recomenda-se que a vacina seja administrada imediatamente após reconstituição, para
+minimizar a perda de potência, ou no período de 8 horas se conservada num frigorífico.
+Não congelar a vacina reconstituída.
+
+46
+
+Retirar todo o conteúdo da vacina reconstituída do frasco para injetáveis para uma seringa, mudar a
+agulha e injetar todo o volume por via subcutânea ou intramuscular.
+Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+Ver também a secção 3 Como utilizar M-M-RvaxPro.
+
+47
+
+

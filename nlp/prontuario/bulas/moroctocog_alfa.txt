@@ -1,0 +1,2594 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+ReFacto AF 250 UI pó e solvente para solução injetável
+ReFacto AF 500 UI pó e solvente para solução injetável
+ReFacto AF 1000 UI pó e solvente para solução injetável
+ReFacto AF 2000 UI pó e solvente para solução injetável
+ReFacto AF 250 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 500 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 1000 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 2000 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 3000 UI pó e solvente para solução injetável em seringa pré-cheia
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+ReFacto AF 250 UI pó e solvente para solução injetável
+Cada frasco para injetáveis contém nominalmente 250 UI* de moroctocog alfa**.
+Após a reconstituição, cada ml da solução contém aproximadamente 62,5 UI de moroctocog alfa.
+ReFacto AF 500 UI pó e solvente para solução injetável
+Cada frasco para injetáveis contém nominalmente 500 UI* de moroctocog alfa**.
+Após a reconstituição, cada ml da solução contém aproximadamente 125 UI de moroctocog alfa.
+ReFacto AF 1000 UI pó e solvente para solução injetável
+Cada frasco para injetáveis contém nominalmente 1000 UI* de moroctocog alfa**.
+Após a reconstituição, cada ml da solução contém aproximadamente 250 UI de moroctocog alfa.
+ReFacto AF 2000 UI pó e solvente para solução injetável
+Cada frasco para injetáveis contém nominalmente 2000 UI* de moroctocog alfa**.
+Após a reconstituição, cada ml da solução contém aproximadamente 500 UI de moroctocog alfa.
+ReFacto AF 250 UI pó e solvente para solução injetável em seringa pré-cheia
+Cada frasco para injetáveis contém nominalmente 250 UI* de moroctocog alfa**.
+Após a reconstituição, cada ml da solução contém aproximadamente 62,5 UI de moroctocog alfa.
+ReFacto AF 500 UI pó e solvente para solução injetável em seringa pré-cheia
+Cada frasco para injetáveis contém nominalmente 500 UI* de moroctocog alfa**.
+Após a reconstituição, cada ml da solução contém aproximadamente 125 UI de moroctocog alfa.
+ReFacto AF 1000 UI pó e solvente para solução injetável em seringa pré-cheia
+Cada frasco para injetáveis contém nominalmente 1000 UI* de moroctocog alfa**.
+Após a reconstituição, cada ml da solução contém aproximadamente 250 UI de moroctocog alfa.
+ReFacto AF 2000 UI pó e solvente para solução injetável em seringa pré-cheia
+Cada frasco para injetáveis contém nominalmente 2000 UI* de moroctocog alfa**.
+Após a reconstituição, cada ml da solução contém aproximadamente 500 UI de moroctocog alfa.
+ReFacto AF 3000 UI pó e solvente para solução injetável em seringa pré-cheia
+Cada frasco para injetáveis contém nominalmente 3000 UI* de moroctocog alfa**.
+Após a reconstituição, cada ml da solução contém aproximadamente 750 UI de moroctocog alfa.
+* A potência (Unidades Internacionais) é determinada utilizando o doseamento cromogénico da
+Farmacopeia Europeia. A atividade específica do ReFacto AF é de 7.600-13.800 UI/mg de proteína.
+** O fator VIII de coagulação humano é produzido por tecnologia do ADN recombinante em células
+do ovário do hamster chinês (CHO). O moroctocog alfa é uma glicoproteína com 1438 aminoácidos,
+cuja sequência é comparável à forma 90 + 80 kDa do fator VIII (i.e. domínio B eliminado) e possui
+2
+
+modificações pós-translacionais semelhantes às da molécula derivada do plasma.
+O processo de fabrico de ReFacto foi modificado de modo a eliminar qualquer proteína exógena,
+derivada de ser humano ou de animal, do processo de cultura de células, da purificação ou da
+formulação final; e ao mesmo tempo o nome de fantasia foi alterado para ReFacto AF.
+Excipiente com efeito conhecido
+Após reconstituição, 1,27 mmol (29 mg) de sódio por frasco para injetáveis ou seringa pré-cheia.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI pó e solvente para solução injetável
+Pó e solvente para solução injetável
+Pó/aglomerado branco a esbranquiçado
+Solvente límpido e incolor
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI, 3000 UI pó e solvente para solução injetável em
+seringa pré-cheia
+Pó e solvente para solução injetável em seringa pré-cheia
+Pó/aglomerado branco a esbranquiçado na câmara superior da seringa pré-cheia
+Solvente límpido e incolor na câmara inferior da seringa pré-cheia
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Tratamento e profilaxia da hemorragia em doentes com hemofilia A (deficiência de fator VIII
+congénita).
+ReFacto AF é adequado para utilização em adultos e crianças de todas as idades, incluindo
+recém-nascidos.
+ReFacto AF não contém o fator von Willebrand, e não está, portanto, indicado na doença de von
+Willebrand.
+4.2
+
+Posologia e modo de administração
+
+O tratamento deve ser iniciado sob vigilância de um médico com experiência no tratamento da
+hemofilia A.
+Monitorização do tratamento
+No decurso do tratamento, recomenda-se a determinação adequada dos níveis de fator VIII para servir
+de orientação para a dose a administrar e a frequência das sucessivas perfusões. A resposta ao fator
+VIII pode variar individualmente, demonstrando diferentes níveis de recuperação e tempos de
+semivida. A dose baseada no peso corporal pode necessitar de ajustes em doentes com baixo peso ou
+com excesso de peso. Principalmente no caso de grandes intervenções cirúrgicas, é indispensável a
+realização de uma monitorização precisa da terapêutica de substituição através da análise da
+coagulação (atividade do fator VIII plasmático).
+Durante o tratamento com ReFacto AF, quando se monitorizam os níveis de atividade do fator VIII
+nos doentes, recomenda-se a utilização do doseamento cromogénico. Ao utilizar um doseamento de
+3
+
+coagulação de uma só fase baseado no tempo da tromboplastina (aPTT) in vitro, para determinar a
+atividade do fator VIII em amostras de sangue dos doentes, os resultados da atividade do fator VIII no
+plasma podem ser afetados significativamente pelo tipo de reagente aPTT utilizado e pelo padrão de
+referência utilizada no doseamento. Também podem existir discrepâncias significativas entre os
+resultados do doseamento obtidos por um doseamento de coagulação de uma só fase baseado no tempo
+da tromboplastina (aPTT) e o doseamento cromogénico. Tipicamente, os resultados do doseamento de
+coagulação de uma só fase são 20-50% inferiores aos resultados do doseamento com substrato
+cromogénico. O padrão laboratorial de ReFacto AF pode ser utilizado para corrigir esta discrepância
+(ver secção 5.2). Este aspeto é especialmente importante ao mudar o laboratório e/ou os reagentes
+utilizados.
+Posologia
+A dose e a duração da terapêutica de substituição dependem da gravidade da deficiência do fator VIII,
+da localização e da extensão da hemorragia, bem como do estado clínico do doente. As doses que se
+administram devem ser tituladas de acordo com a resposta clínica do doente. Na presença de um
+inibidor, podem ser necessárias doses mais elevadas ou um tratamento específico apropriado.
+O número de unidades administradas de fator VIII é expresso em Unidades Internacionais (UI), as
+quais estão de acordo com o padrão atual da OMS para os medicamentos com fator VIII. A atividade
+do fator VIII no plasma é expressa em percentagem (relativamente ao plasma humano normal) ou em
+UI (relativamente ao Padrão Internacional para o fator VIII no plasma). Uma UI de atividade do fator
+VIII é equivalente à quantidade de fator VIII num ml de plasma humano normal.
+Outro medicamento contendo moroctocog alfa, aprovado para utilização fora da Europa, tem uma
+potência atribuída de fabrico diferente que foi calibrada com o Padrão Internacional da OMS, através
+de um doseamento de coagulação de uma só fase; este medicamento identifica-se pelo nome comercial
+XYNTHA. Dada a diferença dos métodos utilizados para atribuir a potência dos medicamentos
+XYNTHA e ReFacto AF, 1 UI de XYNTHA (calibrado por doseamento de uma só fase) é
+aproximadamente equivalente a 1,38 UI de ReFacto AF (calibrado por doseamento cromogénico). No
+caso de prescrever ReFacto AF a um doente que habitualmente recebe tratamento com XYNTHA, o
+médico assistente pode considerar um ajuste das recomendações posológicas com base nos valores de
+recuperação do fator VIII.
+Com base no seu regime atual, deve recomendar-se aos indivíduos com hemofilia A para levarem
+consigo uma quantidade adequada de medicamento com fator VIII, antecipando as necessidades de
+tratamento em viagem. Deve recomendar-se aos doentes que consultem o seu médico antes de viajar.
+Tratamento de acordo com as necessidades
+O cálculo da dose necessária de fator VIII baseia-se no dado empírico de que 1 UI de fator VIII por kg
+de peso corporal aumenta a atividade do fator VIII no plasma em 2 UI/dl. A dose necessária é
+determinada utilizando a seguinte fórmula:
+Unidades necessárias (UI) = peso corporal (kg) x aumento desejado do fator VIII (% ou UI/dl) x 0,5
+(UI/kg por UI/dl), onde 0,5 UI/kg por UI/dl representa o recíproco da recuperação geralmente
+observada após as perfusões de fator VIII.
+A quantidade a administrar e a frequência de administração devem ser sempre orientadas para a
+efetividade clínica individual.
+Nas seguintes situações hemorrágicas, a atividade do fator VIII não deve diminuir para valores
+inferiores aos níveis plasmáticos (em % relativamente ao normal ou em UI/dl) no período
+correspondente. A tabela seguinte pode ser utilizada para servir de orientação para a dose a administrar
+em episódios hemorrágicos e durante a cirurgia:
+
+4
+
+Grau de hemorragia/
+Tipo de procedimento
+cirúrgico
+
+Nível de fator VIII
+necessário (% ou
+UI/dl)
+
+Frequência das doses (horas)/
+Duração da terapêutica (dias)
+
+Hemorragia
+Hemartrose precoce,
+hemorragia muscular ou
+hemorragia oral
+
+20-40
+
+Repetir cada 12-24 horas. Pelo menos
+1 dia, até resolução do episódio
+hemorrágico, indicada pelo
+desaparecimento da dor, ou até à
+cicatrização.
+
+Hemartrose mais extensa,
+hemorragia muscular ou
+hematoma
+
+30-60
+
+Repetir a perfusão cada 12-24 horas,
+durante 3-4 dias ou mais até resolução
+da dor e incapacidade aguda.
+
+Hemorragias que
+coloquem a vida em perigo
+
+60-100
+
+Repetir a perfusão cada 8-24 horas, até
+resolução da ameaça.
+
+Cirurgia
+Cirurgia “minor”
+incluindo extração dentária
+Cirurgia “major”
+
+30-60
+80-100
+(pré- e pósoperatória)
+
+Cada 24 horas, durante pelo menos
+1 dia, até à cicatrização.
+Repetir a perfusão cada 8-24 horas até
+cicatrização adequada da ferida, seguida
+de terapêutica durante pelo menos mais
+7 dias de modo a manter a atividade do
+fator VIII em 30% a 60% (UI/dl).
+
+Profilaxia
+Para uma profilaxia a longo prazo contra a hemorragia em doentes com hemofilia A grave, as doses
+habituais são de 20 a 40 UI do fator VIII por kg de peso corporal, com intervalos de 2 a 3 dias. Em
+alguns casos, especialmente em doentes mais jovens, podem ser necessários intervalos mais curtos
+entre as doses ou doses mais elevadas.
+População pediátrica
+Deve ser antecipada a necessidade de aumentar a dose de ReFacto AF a utilizar no tratamento de
+crianças mais novas (idade inferior a 6 anos) relativamente à dose utilizada para tratamento de adultos
+e crianças mais velhas (ver secção 5.2).
+População idosa
+Os estudos clínicos não incluíram indivíduos com idade igual ou superior a 65 anos. Em geral, a
+seleção de dose para um doente idoso deve ser individualizada.
+Compromisso renal ou afeção hepática
+O ajuste da dose em doentes com compromisso renal ou afeção hepática não foi estudado em ensaios
+clínicos.
+
+5
+
+Modo de administração
+Via intravenosa.
+ReFacto AF é administrado por perfusão intravenosa durante vários minutos após reconstituição do pó
+liofilizado injetável com a solução injetável de cloreto de sódio a 9 mg/ml (0,9%) (fornecida). A
+velocidade de administração deve ser determinada pelo grau de conforto do doente.
+Recomenda-se que seja prestada formação apropriada aos indivíduos que administrem o medicamento
+que não sejam profissionais de saúde.
+Para instruções acerca da reconstituição do medicamento antes da administração, ver secção 6.6.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Reação alérgica conhecida à proteína de hamster.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+Os doentes podem afixar um dos rótulos destacáveis do frasco para injetáveis ou da seringa pré-cheia
+no seu diário para documentar o número de lote ou para notificar quaisquer efeitos indesejáveis.
+Hipersensibilidade
+Foram observadas reações de hipersensibilidade do tipo alérgico com ReFacto AF. O medicamento
+contém vestígios de proteína de hamster. Se ocorrerem sintomas de hipersensibilidade, os doentes
+devem ser aconselhados a descontinuar de imediato a utilização do medicamento e a contactar o seu
+médico. Os doentes devem ser informados dos sinais iniciais de reações de hipersensibilidade,
+incluindo urticária, urticária generalizada, aperto torácico, sibilos, hipotensão e anafilaxia.
+Em caso de choque, devem instituir-se os procedimentos médicos padrão para o tratamento do choque.
+Inibidores
+A formação de anticorpos neutralizantes (inibidores) do fator VIII é uma complicação conhecida no
+tratamento dos indivíduos com hemofilia A. Estes inibidores são geralmente imunoglobulinas IgG
+dirigidas contra a atividade procoagulante do fator VIII, as quais são quantificadas em Unidades
+Bethesda (UB) por ml de plasma usando o doseamento modificado. O risco de desenvolvimento de
+inibidores está correlacionado com a gravidade da doença e com a exposição ao fator VIII, sendo este
+risco mais elevado nos primeiros 50 dias de exposição embora se mantenha ao longo da vida apesar do
+risco ser pouco frequente.
+A relevância clínica do desenvolvimento de inibidores depende do título do inibidor, representando os
+inibidores de título baixo um menor risco de resposta clínica insuficiente, em comparação com
+inibidores de título elevado.
+De uma forma geral, os doentes tratados com medicamentos com fator VIII de coagulação devem ser
+cuidadosamente monitorizados quanto ao desenvolvimento de inibidores, através da observação
+clínica adequada e testes laboratoriais apropriados. Se os níveis de atividade do fator VIII plasmático
+esperados não forem obtidos ou se não for conseguido o controlo da hemorragia com uma dose
+adequada, deve ser realizado um doseamento para determinar se o inibidor do fator VIII está presente.
+Nos doentes com níveis elevados de inibidores, a terapêutica com fator VIII pode não ser eficaz,
+6
+
+devendo ser consideradas outras opções terapêuticas. A monitorização destes doentes deve ser
+efetuada por médicos com experiência no tratamento de hemofilia e inibidores do fator VIII.
+Notificações de ausência de efeito
+Foi notificada ausência de efeito, principalmente em doentes em profilaxia, nos ensaios clínicos e após
+comercialização de ReFacto. Esta ausência de efeito de ReFacto foi descrita como a ocorrência de
+hemorragias nas articulações alvo, hemorragia em novas articulações, ou sensação subjetiva por parte
+do doente da ocorrência de novas hemorragias. Quando se prescreve ReFacto AF é importante
+estabelecer individualmente e monitorizar o nível de fator para cada doente de modo a assegurar uma
+resposta terapêutica adequada (ver a secção 4.8).
+Acontecimentos cardiovasculares
+A terapêutica de substituição com fator VIII pode aumentar o risco cardiovascular nos doentes com
+fatores de risco cardiovascular existentes.
+Complicações relacionadas com o cateter
+Se for necessário um dispositivo de acesso venoso central (CVAD), deve ser considerado o risco de
+complicações relacionadas com o CVAD, incluindo infeções locais, bacteriemia e trombose no local
+do cateter (ver secção 4.8).
+Teor de sódio
+Após a reconstituição este medicamento contém 1,27 mmol (29 mg) de sódio por frasco para
+injetáveis ou seringa pré-cheia, equivalente a 1,5% da ingestão diária máxima recomendada (IDR) pela
+OMS de 2 g de sódio para um adulto. Dependendo do peso corporal do doente e da posologia de
+ReFacto AF, os doentes podem receber múltiplos frascos para injetáveis ou seringas pré-cheias. Isto
+deve ser considerado se o doente estiver em dieta com baixo teor em sal.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Não foram notificadas interações de medicamentos com fator VIII de coagulação recombinante com
+outros medicamentos.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Não foram realizados estudos de reprodução em animais com o fator VIII, pelo que não existem dados
+disponíveis sobre a fertilidade. Devido à ocorrência rara de hemofilia A em mulheres, não existe
+experiência relativa à utilização de fator VIII durante a gravidez e amamentação. Assim, o fator VIII
+só deve ser utilizado durante a gravidez e amamentação se claramente indicado.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de ReFacto AF na capacidade de conduzir e utilizar máquinas são nulos.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Foram observadas pouco frequentemente reações de hipersensibilidade ou alérgicas (as quais podem
+incluir angioedema, ardor e picadas no local de perfusão, arrepios, afrontamentos, urticária
+generalizada, cefaleia, urticária, hipotensão, letargia, náuseas, irrequietude, taquicardia, aperto
+torácico, formigueiro, vómitos, sibilo) com ReFacto, que podem, em alguns casos, progredir para
+anafilaxia grave, incluindo choque (ver secção 4.4).
+
+7
+
+Podem estar presentes no ReFacto AF quantidades vestigiais de proteína de hamster. O
+desenvolvimento de anticorpos às proteínas de hamster foi observado muito raramente, sem que no
+entanto, tenham existido sequelas clínicas. Num estudo com ReFacto, vinte dos 113 (18%) doentes
+previamente tratados (DPT) tiveram um aumento no título de anticorpos anti-CHO, sem qualquer
+efeito clínico aparente.
+O desenvolvimento de anticorpos neutralizantes (inibidores) pode ocorrer em doentes com
+hemofilia A tratados com fator VIII, incluindo ReFacto AF. Se ocorrerem tais inibidores, a condição
+pode manifestar-se como uma resposta clínica insuficiente. Em tais casos, recomenda-se que seja
+contactado um centro especializado em hemofilia.
+Lista tabelada das reações adversas
+A tabela apresentada abaixo está de acordo com a classificação de sistema de órgãos da MedDRA
+(Classe de Sistema de Órgãos e Nível de Termo Preferido). As frequências foram avaliadas de acordo
+com a seguinte convenção: muito frequentes (≥ 1/10), frequentes (≥ 1/100, < 1/10) e pouco frequentes
+(≥ 1/1.000, < 1/100). A tabela lista as reações adversas notificadas nos ensaios clínicos com ReFacto
+ou ReFacto AF. As frequências são baseadas em todos os acontecimentos adversos resultantes do
+tratamento em ensaios clínicos agrupados em 765 indivíduos.
+Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de
+frequência.
+Classe de sistema de
+órgãos
+Doenças do sangue e do
+sistema linfático
+Doenças do sistema
+imunitário
+Doenças do
+metabolismo e da
+nutrição
+Doenças do sistema
+nervoso
+Cardiopatias
+
+Muito
+frequentes
+≥ 1/10
+
+Pouco frequentes
+≥ 1/1.000,
+< 1/100
+Inibição do fator VIII – (DPT) *
+
+Inibição do fator
+VIII – (DSTP) *
+
+Reação anafilática
+Diminuição do apetite
+Cefaleias
+
+Vasculopatias
+Doenças respiratórias,
+torácicas e do
+mediastino
+Doenças
+gastrointestinais
+Afeções dos tecidos
+cutâneos e subcutâneos
+Afeções
+musculosqueléticas e
+dos tecidos conjuntivos
+Perturbações gerais e
+alterações no local de
+administração
+
+Frequentes
+≥ 1/100, < 1/10
+
+Tonturas
+
+Hemorragia;
+hematoma
+Tosse
+
+Artralgia
+Pirexia
+
+Neuropatia periférica;
+sonolência; disguesia
+Angina de peito; taquicardia;
+palpitações
+Hipotensão; tromboflebite;
+rubor
+Dispneia
+
+Diarreia; vómitos; dor
+abdominal; náuseas
+Urticária; erupção
+cutânea; prurido
+Mialgia
+
+Hiperidrose
+
+Arrepios; reação no
+local do acesso venoso
+por cateter
+
+Astenia; reação no local da
+injeção; dor no local da injeção;
+inflamação no local da injeção
+
+8
+
+Classe de sistema de
+órgãos
+
+Muito
+frequentes
+≥ 1/10
+
+Exames
+complementares de
+diagnóstico
+
+Frequentes
+≥ 1/100, < 1/10
+
+Pouco frequentes
+≥ 1/1.000,
+< 1/100
+
+Teste para anticorpos
+positivo; teste para
+anticorpos antifator
+VIII positivo
+
+Aspartato aminotransferase
+aumentada; alanina
+aminotransferase aumentada;
+bilirrubinemia aumentada;
+creatina fosfoquinase sanguínea
+aumentada
+*
+A frequência é baseada em estudos com todos os medicamentos com FVIII que incluíram doentes
+com hemofilia A grave. DPT = doentes previamente tratados, DSTP = doentes sem tratamento prévio
+População pediátrica
+Foram notificados, como estando possivelmente relacionados com o tratamento com ReFacto AF, um
+caso de um quisto num doente de 11 anos de idade e um caso descrito como confusão num doente de
+13 anos de idade.
+A segurança de ReFacto AF foi avaliada em estudos que incluíram adultos, crianças e adolescentes
+previamente tratados (n=18, com idades compreendidas entre 12-16 anos num estudo e n=49, com
+idades compreendidas entre 7-16 anos num estudo de suporte) com uma tendência para frequências
+mais elevadas de reações adversas em crianças com idades entre os 7-16 anos, comparativamente com
+as observadas em adultos. Foi acumulada experiência adicional de segurança em crianças através de
+estudos que englobavam tanto doentes previamente tratados (n=18 com idades < 6 anos e n=19 com
+idades > 6 anos e < 12 anos) como doentes sem tratamento prévio (n= 23 com idades < 6 anos),
+suportando um perfil de segurança semelhante ao observado nos doentes adultos.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Não foram descritos sintomas de sobredosagem com medicamentos com fator VIII de coagulação
+recombinante.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Anti-hemorrágicos, fator VIII de coagulação do sangue; código ATC:
+B02BD02.
+ReFacto AF contém o fator VIII de coagulação recombinante (moroctocog alfa) com o domínio B
+eliminado. É uma glicoproteína com uma massa molecular aproximada de 170.000 Da composta por
+1.438 aminoácidos. ReFacto AF possui características funcionais comparáveis às do fator VIII
+endógeno. A atividade do fator VIII é muito reduzida em doentes com hemofilia A, sendo por isso
+necessária a terapêutica de substituição.
+O fator VIII, quando administrado por perfusão num doente hemofílico, liga-se ao fator de von
+Willebrand presente na circulação do doente.
+
+9
+
+O fator VIII ativado atua como um cofator para o fator IX ativado, acelerando a conversão do fator X
+a fator X ativado. Este fator X ativado converte a protrombina em trombina. A trombina irá converter
+o fibrinogénio em fibrina, formando-se um coágulo. A hemofilia A é uma doença da coagulação
+sanguínea, hereditária, ligada ao sexo, causada pelos níveis diminuídos de fator VIII:C o que provoca
+hemorragias profusas para as articulações, músculos ou órgãos internos, as quais podem ser
+espontâneas ou resultantes de um traumatismo acidental ou cirúrgico. Os níveis plasmáticos de fator
+VIII são aumentados por terapêutica de substituição, permitindo, deste modo, uma correção temporária
+da deficiência do fator e uma correção da tendência hemorrágica.
+Eficácia clínica
+Os dados na tabela abaixo referem-se aos dados de DSTP e DPT dos estudos com ReFacto AF em
+doentes com idade inferior a 12 anos.
+Resultados de consumo e eficácia na população pediátrica
+DPT
+< 6 anos
+n=14
+36 UI/kg
+(28; 51)
+
+DPT
+6 a < 12 anos
+n=13
+32 UI/kg
+(21; 49)
+
+DSTP
+< 6 anos
+n=22
+46 UI/kg
+(17;161)
+n=23
+3,17
+(0,0; 39,5)
+
+Dose por peso (UI/kg) por
+perfusão profilática a
+Mediana (mín, máx)
+Taxa de hemorragia anual (ABR)
+total em todos os indivíduos b
+--Mediana (mín, máx)
+Taxa de hemorragia anual (ABR)
+total em indivíduos que
+n=5
+n=9
+notificaram após um regime de
+41,47
+25,22
+-tratamento de acordo com as
+(1,6; 50,6)
+(0,0; 46,6)
+c
+necessidades na linha de base
+Mediana (mín, máx)
+Taxa de hemorragia anual (ABR)
+total em indivíduos que
+n=13
+n=9
+notificaram após um regime
+1,99
+5,55
+-profilático na linha de base c
+(0,0; 11,2)
+(0,0; 13,0)
+Mediana (mín, máx)
+Dose por peso (UI/kg) por episódio
+n=13
+n=14
+n=21
+hemorrágico para tratamento da
+35 UI/kg
+33 UI/kg
+55 UI/kg
+hemorragia
+(28; 86)
+(17; 229)
+(11; 221)
+Mediana (mín, máx)
+% de hemorragias tratadas com
+98,7%
+98,8%
+96,7%
+sucesso com ≤ 2 perfusões
+a
+A dose e a frequência de ReFacto AF prescrito ao longo do estudo foram deixados
+ao critério do investigador de acordo com tratamento padrão local.
+b
+Os indivíduos no estudo DSTP não tiveram que seguir um tratamento profilático
+contínuo regular; no entanto, com exceção de um indivíduo (recebendo apenas
+tratamento de acordo com as necessidades), a maioria dos indivíduos recebeu
+perfusões profiláticas regulares. Vários começaram com perfusões de acordo com as
+necessidades, mas mudaram para tratamento profilático durante a sua participação e
+alguns receberam apenas perfusões profiláticas esporádicas.
+c
+Os indivíduos do estudo DPT notificaram a sua modalidade de tratamento com
+FVIII (profilaxia ou de acordo com as necessidades) na linha de base e não tiveram
+que manter essa modalidade como condição para participação no estudo. A dose e a
+frequência de ReFacto AF prescritos ao longo do estudo foram deixadas ao critério
+do investigador de acordo com o tratamento padrão local.
+De realçar que a taxa de hemorragia anual (ABR) não é comparável entre concentrados de fator
+diferentes e entre estudos clínicos diferentes.
+10
+
+Indução de Tolerância Imunológica
+Os dados sobre a indução de tolerância imunológica (ITI) foram recolhidos em doentes com
+hemofilia A que desenvolveram inibidores ao fator VIII. Como parte do ensaio principal com ReFacto
+em DSTP, foram analisados dados de ITI de 25 doentes (15 com título elevado, 10 com título baixo).
+Destes 25 doentes, 20 tiveram uma diminuição no título do inibidor para <0,6 UB/ml, dos quais
+inicialmente 11 de 15 tinham título elevado (≥ 5 UB/ml) e 9 de 10 tinham título baixo. Dos 6 doentes
+que desenvolveram inibidores de título baixo, mas que não receberam ITI, 5 apresentaram diminuições
+de título semelhantes. Não estão disponíveis dados de resultados a longo prazo.
+5.2
+
+Propriedades farmacocinéticas
+
+Na tabela seguinte encontram-se enumeradas as propriedades farmacocinéticas de ReFacto, resultantes
+de um estudo cruzado de ReFacto e de um concentrado de fator VIII derivado do plasma, utilizando o
+doseamento cromogénico (ver secção 4.2), em 18 doentes previamente tratados.
+Estimativas dos parâmetros farmacocinéticos de ReFacto em doentes com hemofilia A previamente
+tratados
+Parâmetro
+Média
+DP
+Mediana
+farmacocinético
+AUCt (UI.h/ml)
+19,9
+4,9
+19,9
+t1/2 (h)
+14,8
+5,6
+12,7
+.
+CL (ml/h kg)
+2,4
+0,75
+2,3
+MRT (h)
+20,2
+7,4
+18,0
+recuperação
+2,4
+0,38
+2,5
+(aumento de fator VIII:C em UI/dl por UI/kg de
+fator VIII administrado)
+Abreviaturas: AUCt = área sob a curva de concentração plasmática-tempo desde o zero até às últimas
+concentrações mensuráveis; t1/2 = tempo de semivida; CL = Depuração; FVIII:C = atividade do FVIII,
+MRT = tempo médio de residência
+Num estudo no qual a potência de ReFacto AF, de ReFacto e a atividade do fator VIII no plasma de
+doentes foi medida através do doseamento com substrato cromogénico, o ReFacto AF mostrou ser
+bioequivalente a ReFacto. As razões entre as médias geométricas dos mínimos quadrados de
+ReFacto AF e de ReFacto foram de 100,6%, 99,5% e 98, 1% em relação à recuperação, AUCt e AUC∞
+(área sob a curva de concentração plasmática desde o tempo zero até o infinito), respetivamente. Os
+intervalos de confiança de 90% correspondentes às razões de médias geométricas de ReFacto AF e
+ReFacto estavam dentro do intervalo de bioequivalência de 80% a 125%, demonstrando a
+bioequivalência de ReFacto AF e de ReFacto.
+Num estudo cruzado de farmacocinética, os parâmetros de farmacocinética de ReFacto AF foram
+determinados na linha de base e após o seguimento de 25 doentes previamente tratados (≥ 12 anos)
+após a administração repetida de ReFacto AF durante 6 meses. As razões das médias geométricas dos
+mínimos quadrados entre os parâmetros farmacocinéticos no mês 6 e a linha de base foram de 107%,
+100% e 104%, relativamente à recuperação, AUCt e AUC∞, respetivamente. Os intervalos de
+confiança de 90% correspondentes às razões entre os parâmetros farmacocinéticos no mês 6 e a linha
+de base estavam dentro da janela de equivalência entre 80% e 125%. Este facto indica que não existem
+alterações dependentes do tempo nas propriedades farmacocinéticas de ReFacto AF.
+No mesmo estudo, no qual a potência farmacológica de ReFacto AF, de um comparador constituído
+por fator VIII recombinante completo (FLrFVIII) e a atividade do fator VIII medida em amostras de
+plasma de doentes foram todas determinadas através de um doseamento de coagulação de uma só fase,
+num laboratório central, ReFacto AF mostrou ser farmacocineticamente equivalente a FLrFVIII em 30
+doentes previamente tratados (≥12 anos de idade), utilizando a abordagem padronizada de
+11
+
+bioequivalência.
+Em DSTP, os parâmetros farmacocinéticos de ReFacto foram avaliados utilizando o doseamento
+cromogénico. Estes doentes (n=59; mediana de idades de 10 ± 8,3 meses) tiveram uma média de
+recuperação na Semana 0 de 1,5 ± 0,6 UI/dl por UI/kg (no intervalo entre 0,2 a 2,8 UI/dl por UI/kg), a
+qual foi mais baixa do que a obtida em DPT com ReFacto na Semana 0 com uma média de
+recuperação de 2,4 ± 0,4 UI/dl por UI/kg (no intervalo entre 1,1 a 3,8 UI/dl por UI/kg). Nos DSTP, a
+média das recuperações foi estável no tempo (5 visitas num período de 2 anos) e variaram entre 1,5 a
+1,8 UI/dl por UI/kg. A modelação da farmacocinética da população com base nos dados de 44 DSTP
+permitiu estimar uma média de semivida de 8,0 ± 2,2 horas.
+Num estudo com ReFacto AF em 19 DSTP, a recuperação no início do estudo nas 17 crianças com
+idades entre os 28 dias e inferior a 2 anos foi de 1,32 ± 0,65 UI/dl por UI/kg e nas 2 crianças com
+idades entre os 2 anos e inferior a 6 anos foi de 1,7 e 1,8 UI/dl por UI/kg. Com exceção dos casos em
+que foram detetados inibidores, a recuperação média foi estável ao longo do tempo (6 visitas durante
+um período de 2 anos) e os valores individuais variaram de 0 (na presença de inibidor) a 2,7 UI/dl por
+UI/kg.
+Num estudo de 37 DPT pediátricos, os parâmetros farmacocinéticos do ReFacto AF observados após
+uma dose de 50 UI/kg são apresentados na tabela seguinte.
+Média ± SD dos parâmetros farmacocinéticos do FVIII após uma dose única de 50 UI/kg em DPT
+pediátricos
+Parâmetro farmacocinético
+Número de indivíduos
+Médiaa  SD
+Recuperação, UI/dl por UI/kg
+Idade < 6 anos
+17
+1,7 ± 0,4
+Idade entre 6 a < 12 anos
+19
+2,1 ± 0,8
+Cmax, UI/mlb
+19
+0,9 (45)
+AUCinf, UI∙h/mlb
+14
+9,9 (41)
+t½, hb
+14
+9,1 ± 1,9
+CL, ml/h/kgb
+14
+4,4 (30)
+Vss, ml/kgb
+14
+56,4 (15)
+a
+
+Média geométrica (CV% geométrico) para todos, exceto média aritmética ±SD para recuperação incremental
+e t½.
+b
+Apenas doentes com idades entre 6 e < 12 anos.
+Abreviaturas: Cmax = concentração plasmática máxima observada; CV= coeficiente de variação; AUCinf = área
+sob o perfil de concentração plasmática-tempo desde o tempo zero extrapolada ao infinito; t½= tempo de
+semivida terminal; CL= depuração; Vss= volume de distribuição estacionário.
+
+5.3
+
+Dados de segurança pré-clínica
+
+Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais
+de farmacologia de segurança, toxicidade de dose repetida e genotoxicidade.
+Não foram efetuadas investigações sobre o potencial carcinogénico e a toxicidade reprodutiva.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Pó
+Sacarose
+Cloreto de cálcio di-hidratado
+L-Histidina
+Polissorbato 80
+Cloreto de sódio
+12
+
+Solvente
+Cloreto de sódio
+Água para preparações injetáveis
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros
+medicamentos, incluindo outras soluções de perfusão.
+Apenas deve ser utilizado o sistema de perfusão fornecido, uma vez que pode ocorrer insucesso do
+tratamento em consequência da adsorção do fator VIII de coagulação humana pelas superfícies
+internas de certos equipamentos de perfusão.
+6.3
+
+Prazo de validade
+
+3 anos.
+O medicamento pode ser retirado do local de armazenamento refrigerado durante um período único
+máximo de 3 meses à temperatura ambiente (até 25°C). No final deste período de conservação à
+temperatura ambiente, o medicamento não pode voltar a ser refrigerado, devendo ser utilizado ou
+eliminado.
+Após reconstituição
+A estabilidade química e física após reconstituição foi demonstrada durante 3 horas a temperaturas até
+25°C.
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI pó e solvente para solução injetável
+O medicamento não contém um conservante, e o medicamento reconstituído deve ser utilizado
+imediatamente, ou no prazo de 3 horas após a reconstituição. Outros períodos e condições de
+armazenamento durante a utilização são da responsabilidade do utilizador.
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI, 3000 UI pó e solvente para solução injetável em
+seringa pré-cheia
+O medicamento não contém um conservante, e o medicamento reconstituído deve ser utilizado
+imediatamente, ou no prazo de 3 horas após a reconstituição ou remoção da cápsula de fecho de
+proteção cinzenta. Outros períodos e condições de armazenamento durante a utilização são da
+responsabilidade do utilizador.
+6.4
+
+Precauções especiais de conservação
+
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI pó e solvente para solução injetável
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI, 3000 UI pó e solvente para solução injetável em
+seringa pré-cheia
+Conservar e transportar refrigerado (2°C - 8°C). Não congelar.
+Manter o medicamento dentro da embalagem exterior para proteger da luz.
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+6.5
+
+Natureza e conteúdo do recipiente
+
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI pó e solvente para solução injetável
+250 UI, 500 UI, 1000 UI ou 2000 UI de pó em frasco para injetáveis de 10 ml (vidro do tipo I) com
+uma rolha de borracha (butílica) e um selo não-roscado (alumínio) e 4 ml de solvente fornecido em
+seringa pré-cheia (vidro do tipo I) com uma rolha no êmbolo (butílica), um selo na extremidade
+(butílico), um adaptador para o frasco para injetáveis para a reconstituição, um sistema de perfusão
+13
+
+estéril, compressas com álcool, adesivo e penso em gaze.
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI, 3000 UI pó e solvente para solução injetável em
+seringa pré-cheia
+250 UI, 500 UI, 1000 UI, 2000 UI ou 3000 UI de pó liofilizado na parte superior da câmara e 4 ml de
+solvente na parte inferior da câmara da seringa pré-cheia (vidro do tipo I) com êmbolo de borracha e
+fecho de butilo, uma haste do êmbolo pré-fixa para montagem, uma cápsula de fecho ventilada estéril
+de polipropileno, um sistema de perfusão estéril, compressas com álcool, adesivo e penso em gaze.
+Embalagem com 1 unidade.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI pó e solvente para solução injetável
+O pó liofilizado para injetável contido no frasco para injetáveis tem de ser reconstituído com o
+solvente fornecido na seringa pré-cheia, solução de cloreto de sódio a 9 mg/ml (0,9%), utilizando-se
+para a reconstituição o adaptador para o frasco para injetáveis. O frasco para injetáveis deve ser rodado
+suavemente até que todo o pó esteja dissolvido. Consulte o folheto informativo, secção 3, para obter
+informações adicionais sobre a reconstituição e administração.
+Após a reconstituição, a solução é retirada para dentro da seringa. A solução será límpida ou
+ligeiramente opalescente e incolor. A solução deve ser eliminada se apresentar partículas visíveis ou se
+for observada qualquer alteração na coloração.
+ReFacto AF 250 UI, 500 UI, 1000 UI, 2000 UI, 3000 UI pó e solvente para solução injetável em
+seringa pré-cheia
+O pó liofilizado na parte superior da câmara da seringa pré-cheia tem de ser reconstituído com o
+solvente [solução de cloreto de sódio a 9 mg/ml (0,9%)], da parte inferior da câmara da seringa précheia. A seringa pré-cheia deve ser rodada suavemente até que todo o pó esteja dissolvido. Ver secção
+3 do folheto informativo para informação adicional sobre reconstituição e administração.
+Após a reconstituição, a solução deve ser clara ou ligeiramente opalescente ou sem cor. A solução
+deve ser eliminada se apresentar partículas visíveis ou se for observada qualquer alteração na
+coloração.
+O medicamento, após a reconstituição, contém polissorbato 80, que aumenta a taxa de extração de di(2-etil-hexil)ftalato (DEHP) do cloreto de polivinilo (PVC). Tal deve ser tido em consideração durante
+a preparação e administração do medicamento, incluindo o tempo de conservação num recipiente de
+PVC após a reconstituição. É importante que as recomendações dadas na secção 6.3 sejam
+rigorosamente seguidas.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Bélgica
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/99/103/001
+EU/1/99/103/002
+14
+
+EU/1/99/103/003
+EU/1/99/103/004
+EU/1/99/103/009
+EU/1/99/103/006
+EU/1/99/103/007
+EU/1/99/103/008
+EU/1/99/103/005
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 13 de abril de 1999
+Data da última renovação: 15 de abril de 2014
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu/.
+
+15
+
+ANEXO II
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM
+BIOLÓGICA E FABRICANTE RESPONSÁVEL PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+16
+
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA FABRICANTE
+RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante da substância ativa de origem biológica
+Swedish Orphan Biovitrum AB (publ)
+Strandbergsgatan 49
+SE-11276 Estocolmo
+Suécia
+Nome e endereço do fabricante da substância ativa de origem biológica
+Pfizer Ireland Pharmaceuticals
+Grange Castle Business Park
+Clondalkin
+Dublin 22
+Irlanda
+Nome e endereço do fabricante responsável pela libertação do lote
+Wyeth Farma S.A
+Autovia del Norte A-1 Km 23
+Desvio Algete Km 1
+28700 San Sebastian de los Reyes
+Madrid
+Espanha
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2.).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+
+
+A pedido da Agência Europeia de Medicamentos
+17
+
+
+
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+18
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+19
+
+A. ROTULAGEM
+
+20
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR DE REFACTO AF
+
+1.
+
+NOME DO MEDICAMENTO
+
+ReFacto AF 250 UI pó e solvente para solução injetável
+ReFacto AF 500 UI pó e solvente para solução injetável
+ReFacto AF 1000 UI pó e solvente para solução injetável
+ReFacto AF 2000 UI pó e solvente para solução injetável
+moroctocog alfa
+(Fator VIII de coagulação recombinante humano)
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+1 frasco para injetáveis: 250 UI de moroctocog alfa (aproximadamente 62,5 UI/ml após
+reconstituição).
+1 frasco para injetáveis: 500 UI de moroctocog alfa (aproximadamente 125 UI/ml após reconstituição).
+1 frasco para injetáveis: 1000 UI de moroctocog alfa (aproximadamente 250 UI/ml após
+reconstituição).
+1 frasco para injetáveis: 2000 UI de moroctocog alfa (aproximadamente 500 UI/ml após
+reconstituição).
+3.
+
+LISTA DOS EXCIPIENTES
+
+Sacarose,
+cloreto de cálcio di-hidratado,
+L-histidina,
+polissorbato 80,
+cloreto de sódio
+Consultar o folheto informativo antes de utilizar.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó e solvente para solução injetável
+1 frasco para injetáveis com 250 UI de moroctocog alfa
+1 frasco para injetáveis com 500 UI de moroctocog alfa
+1 frasco para injetáveis com 1000 UI de moroctocog alfa
+1 frasco para injetáveis com 2000 UI de moroctocog alfa
+1 seringa pré-cheia com 4 ml de solvente
+1 adaptador para o frasco para injetáveis
+1 sistema de perfusão estéril
+2 compressas com álcool
+21
+
+1 adesivo
+1 gaze
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via intravenosa, após reconstituição.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+Não utilizar após o prazo de validade.
+Utilizar imediatamente ou no prazo de 3 horas após a reconstituição.
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar e transportar a 2°C - 8°C.
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem de origem para proteger da luz.
+ReFacto AF pode ser guardado à temperatura ambiente (até 25°C), por um único período máximo de 3
+meses. O medicamento não pode voltar a ser refrigerado após ter sido armazenado à temperatura
+ambiente.
+Data em que foi retirado do frigorífico:
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Eliminar qualquer solução reconstituída não utilizada.
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+22
+
+Bélgica
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/99/103/001
+EU/1/99/103/002
+EU/1/99/103/003
+EU/1/99/103/004
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+ReFacto AF 250
+ReFacto AF 500
+ReFacto AF 1000
+ReFacto AF 2000
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+23
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO PARA INJETÁVEIS DE REFACTO AF
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+ReFacto AF 250 UI pó para solução injetável
+ReFacto AF 500 UI pó e solvente para solução injetável
+ReFacto AF 1000 UI pó e solvente para solução injetável
+ReFacto AF 2000 UI pó e solvente para solução injetável
+moroctocog alfa
+(Fator VIII de coagulação recombinante humano)
+Via IV
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+6.
+
+OUTROS
+
+Conservar no frigorífico
+
+24
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DA SERINGA PRÉ-CHEIA DE SOLVENTE DE REFACTO AF
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Solvente para ReFacto AF
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Via IV, após reconstituição
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+Contém 4 ml de solução injetável de cloreto de sódio a 9 mg/ml (0,9%)
+6.
+
+OUTROS
+
+Conservar no frigorífico
+
+25
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+
+1. NOME DO MEDICAMENTO
+ReFacto AF 250 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 500 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 1000 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 2000 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 3000 UI pó e solvente para solução injetável em seringa pré-cheia
+moroctocog alfa
+(Fator VIII de coagulação recombinante humano)
+2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+1 seringa pré-cheia: 250 UI de moroctocog alfa (aproximadamente 62,5 UI/ml após reconstituição).
+1 seringa pré-cheia: 500 UI de moroctocog alfa (aproximadamente 125 UI/ml após reconstituição).
+1 seringa pré-cheia: 1000 UI de moroctocog alfa (aproximadamente 250 UI/ml após reconstituição).
+1 seringa pré-cheia: 2000 UI de moroctocog alfa (aproximadamente 500 UI/ml após reconstituição).
+1 seringa pré-cheia: 3000 UI de moroctocog alfa (aproximadamente 750 UI/ml após reconstituição).
+3. LISTA DOS EXCIPIENTES
+Ver o folheto informativo para mais informação
+Sacarose,
+cloreto de cálcio di-hidratado,
+L-histidina,
+polissorbato 80,
+cloreto de sódio.
+4. FORMA FARMACÊUTICA E CONTEÚDO
+Pó e solvente para solução injetável em seringa pré-cheia FuseNGo
+1 seringa pré-cheia (250 UI de pó no topo da câmara e 4 ml de solvente na parte inferior da câmara da
+seringa)
+1 seringa pré-cheia (500 UI de pó no topo da câmara e 4 ml de solvente na parte inferior da câmara da
+seringa)
+1 seringa pré-cheia (1000 UI de pó no topo da câmara e 4 ml de solvente na parte inferior da câmara
+da seringa)
+1 seringa pré-cheia (2000 UI de pó no topo da câmara e 4 ml de solvente na parte inferior da câmara
+da seringa)
+26
+
+1 seringa pré-cheia (3000 UI de pó no topo da câmara e 4 ml de solvente na parte inferior da câmara
+da seringa)
+1 êmbolo de borracha
+1 sistema de perfusão estéril
+2 compressas com álcool
+1 adesivo
+1 gaze
+1 cápsula de fecho ventilada estéril
+5. MODO E VIA(S) DE ADMINISTRAÇÃO
+Consultar o folheto informativo antes de utilizar.
+Via intravenosa, apenas para administração única.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA e DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+Utilizar imediatamente ou no prazo de 3 horas após a reconstituição ou após remoção da cápsula de
+fecho de borracha de proteção cinzenta da seringa.
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar e transportar refrigerado (2°C - 8°C).
+Não congelar.
+Manter dentro da embalagem de origem para proteger da luz.
+ReFacto AF pode ser guardado à temperatura ambiente (até 25°C), por um único período máximo de 3
+meses. O medicamento não pode voltar a ser refrigerado após ter sido armazenado à temperatura
+ambiente.
+Data em que foi retirado do frigorífico:
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+27
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Bélgica
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/99/103/009
+EU/1/99/103/006
+EU/1/99/103/007
+EU/1/99/103/008
+EU/1/99/103/005
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+ReFacto AF 250
+ReFacto AF 500
+ReFacto AF 1000
+ReFacto AF 2000
+ReFacto AF 3000
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+28
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DA SERINGA PRÉ-CHEIA
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+ReFacto AF 250 UI pó e solvente para solução injetável
+ReFacto AF 500 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 1000 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 2000 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 3000 UI pó e solvente para solução injetável em seringa pré-cheia
+moroctocog alfa
+(Fator VIII de coagulação recombinante humano)
+Via IV
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+250 UI moroctocog alfa para administração intravenosa única
+500 UI moroctocog alfa para administração intravenosa única
+1000 UI moroctocog alfa para administração intravenosa única
+2000 UI moroctocog alfa para administração intravenosa única
+3000 UI moroctocog alfa para administração intravenosa única
+6.
+
+OUTROS
+
+Conservar no frigorífico
+
+29
+
+B. FOLHETO INFORMATIVO
+
+30
+
+Folheto informativo: Informação para o utilizador
+ReFacto AF 250 UI pó e solvente para solução injetável
+ReFacto AF 500 UI pó e solvente para solução injetável
+ReFacto AF 1000 UI pó e solvente para solução injetável
+ReFacto AF 2000 UI pó e solvente para solução injetável
+moroctocog alfa (fator VIII de coagulação recombinante humano)
+Leia com atenção todo este folheto antes de começar a utilizar este medicamento, pois contém
+informação importante para si.
+
+
+
+
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é ReFacto AF e para que é utilizado
+O que precisa de saber antes de utilizar ReFacto AF
+Como utilizar ReFacto AF
+Efeitos indesejáveis possíveis
+Como conservar ReFacto AF
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é ReFacto AF e para que é utilizado
+
+ReFacto AF contém a substância ativa moroctocog alfa, o fator VIII de coagulação humano. O fator
+VIII é necessário para que o sangue forme coágulos e para estancar as hemorragias. Nos doentes com
+hemofilia A (deficiência congénita de fator VIII) este fator está em falta ou não atua adequadamente.
+ReFacto AF é utilizado para o tratamento e prevenção das hemorragias (profilaxia) em adultos e
+crianças de todas as idades (incluindo recém-nascidos) com hemofilia A.
+2.
+
+O que precisa de saber antes de utilizar ReFacto AF
+
+Não utilize ReFacto AF
+
+
+
+
+se tem alergia ao moroctocog alfa ou a qualquer outro componente deste medicamento
+(indicados na secção 6).
+se tem alergia às proteínas do hamster.
+
+Se não está seguro acerca disto, fale com o seu médico.
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes de utilizar ReFacto AF
+
+
+
+se sentir reações alérgicas. Alguns dos sinais de reações alérgicas são dificuldade em respirar,
+falta de ar, inchaço, urticária, comichão, aperto no peito, respiração ruidosa e tensão arterial
+baixa. A anafilaxia é uma reação alérgica grave que pode causar dificuldade em engolir e/ou
+31
+
+respirar e vermelhidão ou inchaço da face e/ou mãos. Se ocorrer qualquer um destes sinais,
+suspenda a perfusão imediatamente e contacte o seu médico ou procure de imediato um serviço
+de urgência. No caso de reações alérgicas graves, deve considerar-se uma terapêutica
+alternativa.
+
+
+
+a formação de inibidores (anticorpos) é uma complicação conhecida que pode ocorrer durante o
+tratamento com todos os medicamentos com fator VIII. Estes inibidores, sobretudo em
+concentrações elevadas, impedem o funcionamento correto do tratamento e você ou a sua
+criança serão monitorizados cuidadosamente para verificar o desenvolvimento destes inibidores.
+Se a sua hemorragia ou a da sua criança não estiver a ser controlada com Refacto AF, informe o
+seu médico imediatamente.
+
+
+
+se a hemorragia não estancar como esperado, contacte o seu médico ou procure de imediato um
+serviço de urgência.
+
+Outros medicamentos e ReFacto AF
+Informe o seu médico ou farmacêutico se estiver a utilizar, tiver utilizado recentemente, ou se vier a
+utilizar outros medicamentos.
+Gravidez, amamentação e fertilidade
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+ou farmacêutico antes de utilizar este medicamento.
+Condução de veículos e utilização de máquinas
+ReFacto AF não tem influência na capacidade de conduzir e utilizar máquinas.
+ReFacto AF contém sódio
+Após a reconstituição, ReFacto AF contém 1,27 mmol (ou 29 mg) de sódio (principal componente de
+sal de cozinha/sal de mesa) por frasco para injetáveis. Isto é equivalente a 1,5% da ingestão diária
+máxima de sódio recomendada na dieta para um adulto. Dependendo do seu peso corporal e da sua
+dose de ReFacto AF, poderá receber múltiplos frascos para injetáveis. Isto deve ser considerado se
+estiver a fazer uma dieta com baixo teor em sal.
+3.
+
+Como utilizar ReFacto AF
+
+Utilize este medicamento exatamente como indicado pelo seu médico. Fale com o seu médico ou
+farmacêutico se tiver dúvidas.
+O tratamento com ReFacto AF deve ser iniciado por um médico com experiência no tratamento de
+doentes com hemofilia A. O seu médico vai decidir qual a dose de ReFacto AF que lhe irá ser
+administrada. Esta dose e a duração da administração dependem das suas necessidades individuais de
+terapêutica de substituição do fator VIII. ReFacto AF é administrado por injeção numa veia durante
+vários minutos. Os doentes ou respetivos cuidadores podem administrar injeções de ReFacto AF,
+desde que tenham recebido formação adequada.
+Durante o tratamento, o seu médico poderá decidir alterar a dose de ReFacto AF que lhe vai ser
+administrada.
+Consulte o seu médico antes de viajar. Deve levar consigo uma quantidade adequada de medicamento
+com fator VIII, antecipando as necessidades de tratamento em viagem.
+Recomenda-se que, sempre que utilizar ReFacto AF, registe o nome do medicamento inscrito na
+32
+
+cartonagem e o número de lote do medicamento. Pode afixar um dos rótulos destacáveis do frasco para
+injetáveis no seu diário para documentar o número de lote ou para comunicar quaisquer efeitos
+indesejáveis.
+Reconstituição e administração
+Os procedimentos abaixo indicados são fornecidos como orientações para a reconstituição e
+administração de ReFacto AF. Os doentes devem seguir os procedimentos específicos de
+reconstituição e administração que lhes foram fornecidos pelos seus médicos.
+Utilize apenas a seringa pré-cheia fornecida na embalagem para a reconstituição. Outras seringas
+esterilizadas descartáveis podem ser utilizadas para a administração.
+ReFacto AF é administrado por perfusão intravenosa (IV) após reconstituição do pó liofilizado para
+injetável com a seringa de solvente, cloreto de sódio a 9 mg/ml (0,9%), fornecida. ReFacto AF não
+deve ser misturado com outras soluções para perfusão.
+Lave sempre as mãos antes de efetuar os seguintes procedimentos de reconstituição e administração.
+Dever-se-á utilizar uma técnica asséptica (limpa e isenta de micróbios) durante o processo de
+reconstituição.
+Reconstituição
+1.
+
+Esperar até que o frasco para injetáveis de pó liofilizado de ReFacto AF e a seringa pré-cheia de
+solvente atinjam a temperatura ambiente.
+
+2.
+
+Retirar a tampa de plástico “flip-top” do frasco para injetáveis de ReFacto AF, a fim de expor a
+parte central da rolha de borracha.
+
+3.
+
+Limpar a parte de cima do frasco para injetáveis com a compressa embebida em álcool que é
+fornecida, ou utilizar outra solução antisséptica, e deixar secar. De seguida, não tocar na rolha
+de borracha com as mãos nem permitir que esta toque em qualquer outra superfície.
+
+4.
+
+Remover a cobertura da embalagem de plástico transparente que contém o adaptador para o
+frasco para injetáveis. Não retirar o adaptador da embalagem.
+
+5.
+
+Colocar o frasco para injetáveis sobre uma superfície plana. Segurar a embalagem com o
+adaptador e colocar o adaptador na parte superior do frasco para injetáveis. Pressionar
+firmemente na embalagem até que o adaptador se fixe no topo do frasco para injetáveis e o
+perfurador do adaptador penetre na rolha do frasco para injetáveis.
+
+33
+
+6.
+
+Retirar e rejeitar a embalagem do adaptador.
+
+7.
+
+Adaptar a haste do êmbolo à seringa de solvente inserindo o êmbolo na abertura da tampa da
+seringa e empurrando e rodando o êmbolo firmemente, até que fique colocado de modo seguro
+na tampa.
+
+8.
+
+Quebrar a tampa protetora de plástico da extremidade da seringa de solvente pela perfuração da
+mesma. Para tal, dobrar para cima e para baixo a tampa até que a perfuração seja quebrada. Não
+tocar no interior da tampa protetora nem na extremidade da seringa. A tampa protetora pode ter
+que ser substituída (se o ReFacto AF reconstituído não for administrado imediatamente), pelo
+que deve ser colocada de parte e voltada para cima.
+
+9.
+
+Colocar o frasco para injetáveis sobre uma superfície plana. Adaptar a seringa de solvente ao
+adaptador para o frasco para injetáveis inserindo a extremidade da seringa na abertura do
+adaptador, empurrando e rodando firmemente a seringa no sentido dos ponteiros do relógio até a
+ligação ficar segura.
+
+10.
+
+Carregar lentamente no êmbolo para injetar a totalidade do solvente para dentro do frasco para
+injetáveis de ReFacto AF.
+
+11.
+
+Ainda com a seringa ligada ao adaptador, rodar suavemente o frasco para injetáveis até que o
+
+34
+
+pó se dissolva.
+
+12.
+
+Antes da administração, a solução final tem de ser inspecionada para detetar se existem
+partículas. A solução deve ter um aspeto límpido a ligeiramente opalescente e incolor.
+Nota: Se se utilizar mais do que um frasco para injetáveis de ReFacto AF por perfusão, cada
+frasco para injetáveis deve ser reconstituído de acordo com as instruções acima descritas. A
+seringa de solvente deverá ser removida, deixando ficar o adaptador para o frasco para
+injetáveis, e deve utilizar-se uma seringa única maior com fecho luer para retirar o conteúdo
+reconstituído de cada um dos frascos para injetáveis.
+
+13.
+
+Assegurando que o êmbolo da seringa está completamente pressionado, inverter o frasco para
+injetáveis. Lentamente retirar a totalidade da solução para dentro da seringa.
+
+14.
+
+Retirar a seringa do adaptador para o frasco para injetáveis, puxando lentamente e rodando a
+seringa no sentido contrário ao dos ponteiros do relógio. Rejeitar o frasco para injetáveis com o
+adaptador.
+Nota: Se a solução não for utilizada imediatamente, a tampa protetora da seringa é recolocada
+cuidadosamente. Não tocar na extremidade da seringa ou no interior da tampa protetora.
+
+ReFacto AF tem de ser utilizado no prazo de 3 horas após reconstituição. A solução reconstituída pode
+ser guardada à temperatura ambiente antes de ser administrada.
+Administração (Perfusão intravenosa):
+ReFacto AF deve ser administrado utilizando o sistema de perfusão estéril incluído na embalagem e a
+seringa pré-cheia de solvente fornecida ou uma única seringa esterilizada descartável de plástico com
+fecho luer.
+1.
+
+Introduzir a seringa na extremidade adaptadora luer da tubagem do sistema de perfusão.
+
+2.
+
+Colocar um torniquete e preparar o local da injeção limpando bem a pele com a compressa com
+
+35
+
+álcool fornecida na embalagem.
+
+3.
+
+Inserir a agulha do sistema de perfusão na veia conforme indicado pelo seu médico, e retirar o
+torniquete. Remover qualquer ar da tubagem do sistema de perfusão recuando o êmbolo da
+seringa. O medicamento reconstituído é para ser injetado intravenosamente ao longo de vários
+minutos. O seu médico poderá alterar a taxa de perfusão recomendada para aumentar o grau de
+conforto da perfusão.
+
+Rejeitar a solução não utilizada, o(s) frasco(s) para injetáveis vazio(s) e as agulhas e seringas
+utilizadas, para um recipiente próprio para resíduos perigosos uma vez que aqueles materiais podem
+ferir outras pessoas caso não sejam eliminados corretamente.
+Se utilizar mais ReFacto AF do que deveria
+Fale com o seu médico ou farmacêutico.
+Se parar de utilizar ReFacto AF
+Não interrompa a utilização de ReFacto AF sem consultar o seu médico.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Reações alérgicas
+Se ocorrerem reações alérgicas súbitas graves (anafiláticas), a perfusão tem de ser interrompida
+imediatamente. Tem de contactar o seu médico imediatamente se ocorrer qualquer um dos
+sintomas iniciais de reações alérgicas:
+
+
+
+
+
+
+erupção na pele, urticária, bolhas, comichão generalizada
+inchaço dos lábios e língua
+dificuldade em respirar, respiração ruidosa, sensação de aperto no peito
+sensação de mal-estar geral
+tonturas e perda de consciência
+
+Os sintomas graves, tais como dificuldade em respirar e (quase) desmaio, requerem tratamento de
+emergência imediato. As reações alérgicas súbitas graves (anafiláticas) são pouco frequentes (podem
+afetar até 1 em 100 pessoas).
+36
+
+Desenvolvimento de inibidores
+Para crianças não tratadas previamente com medicamentos com fator VIII, pode ocorrer a formação de
+anticorpos inibidores (ver secção 2) muito frequentemente (mais de 1 em 10 doentes); no entanto, para
+doentes que receberam tratamento prévio com fator VIII (mais de 150 dias de tratamento), o risco é
+pouco frequente (menos de 1 em 100 doentes). Se isto acontecer, os medicamentos que você ou a sua
+criança estão a tomar podem deixar de funcionar adequadamente e você ou a sua criança podem
+apresentar hemorragias persistentes. Se isto acontecer, contacte o seu médico imediatamente.
+Efeitos indesejáveis muito frequentes (podem afetar mais do que 1 em 10 pessoas):
+
+
+
+
+
+
+desenvolvimento de inibidores em doentes sem tratamento anterior com medicamentos
+contendo fator VIII
+dor de cabeça
+tosse
+dor nas articulações
+febre
+
+Efeitos indesejáveis frequentes (podem afetar até 1 em 10 pessoas):
+
+
+
+
+
+
+
+
+hemorragias
+tonturas
+diminuição do apetite, diarreia, vómitos, dor de estômago, náuseas
+urticária, erupção na pele, comichão
+dor muscular
+arrepios, reação no acesso venoso do cateter
+alguns testes sanguíneos podem demonstrar um aumento de anticorpos contra o fator VIII
+
+Efeitos indesejáveis pouco frequentes (podem afetar até 1 em 100 pessoas):
+
+
+
+
+
+
+
+
+
+
+
+desenvolvimento de inibidores em doentes que foram tratados anteriormente com medicamentos
+contendo fator VIII (cerca de 1 em 100 pessoas)
+reação alérgica grave
+dormência, sonolência, alteração do paladar
+dor no peito, batimentos rápidos do coração, palpitações
+tensão arterial baixa, dor e vermelhidão nas veias associado à coagulação do sangue, rubor
+falta de ar
+sudação excessiva
+fraqueza, reação no local da injeção incluindo dor
+aumento ligeiro das enzimas cardíacas
+aumento das enzimas do fígado, aumento da bilirrubina
+
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar ReFacto AF
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no rótulo do
+frasco para injetáveis após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+37
+
+Conservar e transportar refrigerado (2°C - 8°C). Não congelar, a fim de evitar danos na seringa précheia de solvente.
+Para a sua conveniência, o medicamento pode ser retirado destas condições de conservação durante
+um único período máximo de 3 meses à temperatura ambiente (até 25C). No final deste período de
+conservação à temperatura ambiente, o medicamento não pode voltar a ser refrigerado, devendo ser ou
+utilizado ou eliminado. Registe na embalagem exterior de ReFacto AF a data em que foi retirado do
+frigorífico e colocado à temperatura ambiente (até 25C). Manter o frasco para injetáveis dentro da
+embalagem exterior para proteger da luz.
+A solução reconstituída deve ser utilizada no prazo de 3 horas.
+A solução será límpida a ligeiramente opalescente e incolor. Não utilize este medicamento se verificar
+que a solução está turva ou contém partículas visíveis.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de ReFacto AF
+
+
+
+
+A substância ativa é o moroctocog alfa (fator VIII de coagulação recombinante). Cada frasco
+para injetáveis de ReFacto AF contém nominalmente 250, 500, 1000 ou 2000 UI de moroctocog
+alfa.
+Os outros componentes são sacarose, cloreto de cálcio di-hidratado, L-histidina, polissorbato 80
+e cloreto de sódio (ver secção 2 “ReFacto AF contém sódio”). O solvente para reconstituição,
+solução injetável de cloreto de sódio a 9 mg/ml (0,9%), é também fornecido.
+Depois de reconstituído com o solvente fornecido, solução de cloreto de sódio a 9 mg/ml
+(0,9%), cada frasco para injetáveis contém 62,5; 125; 250; ou 500 UI de moroctocog alfa,
+respetivamente (com base na dosagem de moroctocog alfa i.e., 250, 500, 1000 ou 2000 UI), por
+1 ml da solução injetável preparada.
+
+Qual o aspeto de ReFacto AF e conteúdo da embalagem
+ReFacto AF é fornecido com o pó para injetável em frasco para injetáveis de vidro e um solvente
+numa seringa pré-cheia.
+A embalagem contém:
+
+
+
+
+
+
+
+
+1 frasco para injetáveis de moroctocog alfa com 250, 500, 1000 ou 2000 UI de pó
+1 seringa pré-cheia de solvente, 4 ml de solução injetável estéril de cloreto de sódio a 9 mg/ml
+(0,9%) para reconstituição, com um êmbolo
+1 adaptador para o frasco para injetáveis estéril
+1 sistema de perfusão estéril
+2 compressas com álcool
+1 adesivo
+1 penso de gaze
+
+Titular da Autorização de Introdução no Mercado
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+38
+
+1050 Bruxelles
+Bélgica
+Fabricante
+Wyeth Farma S.A
+Autovia del Norte A-1 Km 23
+Desvio Algete Km 1
+28700 San Sebastian de los Reyes
+Madrid
+Espanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado.
+België/Belgique/Belgien
+Luxembourg/Luxemburg
+Pfizer NV/SA
+Tél/Tel: +32 (0)2 554 62 11
+
+Lietuva
+Pfizer Luxembourg SARL filialas Lietuvoje
+Tel: +370 5 251 4000
+
+България
+Пфайзер Люксембург САРЛ, Клон
+България
+Тел.: +359 2 970 4333
+
+Magyarország
+Pfizer Kft.
+Tel.: + 36 1 488 37 00
+
+Česká republika
+Pfizer, spol. s r.o.
+Tel: +420 283 004 111
+
+Malta
+Vivian Corporation Ltd.
+Tel: +356 21344610
+
+Danmark
+Pfizer ApS
+Tlf: +45 44 20 11 00
+
+Nederland
+Pfizer bv
+Tel: +31 (0)800 63 34 636
+
+Deutschland
+PFIZER PHARMA GmbH
+Tel: +49 (0)30 550055-51000
+
+Norge
+Pfizer AS
+Tlf: +47 67 52 61 00
+
+Eesti
+Pfizer Luxembourg SARL Eesti filiaal
+Tel: +372 666 7500
+
+Österreich
+Pfizer Corporation Austria Ges.m.b.H.
+Tel: +43 (0)1 521 15-0
+
+39
+
+Ελλάδα
+Pfizer Ελλάς Α.Ε
+Τηλ: +30 210 6785800
+
+Polska
+Pfizer Polska Sp. z o.o.
+Tel.: +48 22 335 61 00
+
+España
+Pfizer S.L.
+Tel: +34 91 490 99 00
+
+Portugal
+Laboratórios Pfizer, Lda.
+Tel: +351 21 423 5500
+
+France
+Pfizer
+Tél: +33 (0)1 58 07 34 40
+
+România
+Pfizer Romania S.R.L.
+Tel: +40 (0) 21 207 28 00
+
+Hrvatska
+Pfizer Croatia d.o.o.
+Tel: + 385 1 3908 777
+
+Slovenija
+Pfizer Luxembourg SARL
+Pfizer, podružnica za svetovanje s področja
+farmacevtske dejavnosti, Ljubljana
+Tel: + 386 (0) 1 52 11 400
+
+Ireland
+Pfizer Healthcare Ireland
+Tel: 1800 633 363 (toll free)
+Tel: +44 (0)1304 616161
+
+Slovenská republika
+Pfizer Luxembourg SARL, organizačná zložka
+Tel: + 421 2 3355 5500
+
+Ísland
+Icepharma hf.
+Sími: +354 540 8000
+
+Suomi/Finland
+Pfizer Oy
+Puh/Tel: +358 (0)9 430 040
+
+Italia
+Pfizer S.r.l.
+Tel: +39 06 33 18 21
+
+Sverige
+Pfizer AB
+Tel: + 46 (0)8 550 520 00
+
+Κύπρος
+Pfizer Ελλάς Α.Ε. (Cyprus Branch)
+Τηλ: +357 22817690
+
+United Kingdom (Northern Ireland)
+Pfizer Limited
+Tel: +44 (0)1304 616161
+
+Latvija
+Pfizer Luxembourg SARL filiāle Latvijā
+Tel: +371 670 35 775
+
+Este folheto foi revisto pela última vez em
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu/.
+
+40
+
+Folheto informativo: Informação para o utilizador
+ReFacto AF 250 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 500 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 1000 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 2000 UI pó e solvente para solução injetável em seringa pré-cheia
+ReFacto AF 3000 UI pó e solvente para solução injetável em seringa pré-cheia
+moroctocog alfa (fator VIII de coagulação recombinante humano)
+Leia com atenção todo este folheto antes de começar a utilizar este medicamento, pois contém
+informação importante para si.
+
+
+
+
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é ReFacto AF e para que é utilizado
+O que precisa de saber antes de utilizar ReFacto AF
+Como utilizar ReFacto AF
+Efeitos indesejáveis possíveis
+Como conservar ReFacto AF
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é ReFacto AF e para que é utilizado
+
+ReFacto AF contém a substância ativa moroctocog alfa, o fator VIII de coagulação humano. O fator
+VIII é necessário para que o sangue forme coágulos e para estancar as hemorragias. Nos doentes com
+hemofilia A (deficiência congénita de fator VIII) este fator está em falta ou não atua adequadamente.
+ReFacto AF é utilizado para o tratamento e prevenção das hemorragias (profilaxia) em adultos e
+crianças de todas as idades (incluindo recém-nascidos) com hemofilia A.
+2.
+
+O que precisa de saber antes de utilizar ReFacto AF
+
+Não utilize ReFacto AF
+
+
+
+
+se tem alergia ao moroctocog alfa ou a qualquer outro componente deste medicamento
+(indicados na secção 6).
+se tem alergia às proteínas do hamster.
+
+Se não está seguro acerca disto, fale com o seu médico.
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes de utilizar ReFacto AF
+
+
+
+se sentir reações alérgicas. Alguns dos sinais de reações alérgicas são dificuldade em respirar,
+falta de ar, inchaço, urticária, comichão, aperto no peito, respiração ruidosa e tensão arterial
+41
+
+baixa. A anafilaxia é uma reação alérgica grave que pode causar dificuldade em engolir e/ou
+respirar e vermelhidão ou inchaço da face e/ou mãos. Se ocorrer qualquer um destes sinais,
+suspenda a perfusão imediatamente e contacte o seu médico ou procure de imediato um serviço
+de urgência. No caso de reações alérgicas graves, deve considerar-se uma terapêutica
+alternativa.
+
+
+
+a formação de inibidores (anticorpos) é uma complicação conhecida que pode ocorrer durante o
+tratamento com todos os medicamentos com fator VIII. Estes inibidores, sobretudo em
+concentrações elevadas, impedem o funcionamento correto do tratamento e você ou a sua
+criança serão monitorizados cuidadosamente para verificar o desenvolvimento destes inibidores.
+Se a sua hemorragia ou a da sua criança não estiver a ser controlada com Refacto AF, informe o
+seu médico imediatamente.
+
+
+
+se a hemorragia não estancar como esperado, contacte o seu médico ou procure de imediato um
+serviço de urgência.
+
+Outros medicamentos e ReFacto AF
+Informe o seu médico ou farmacêutico se estiver a utilizar, tiver utilizado recentemente, ou se vier a
+utilizar outros medicamentos.
+Gravidez, amamentação e fertilidade
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+ou farmacêutico antes de utilizar este medicamento.
+Condução de veículos e utilização de máquinas
+ReFacto AF não tem influência na capacidade de conduzir e utilizar máquinas.
+ReFacto AF contém sódio
+Após a reconstituição, ReFacto AF contém 1,27 mmol (ou 29 mg) de sódio (principal componente de
+sal de cozinha/sal de mesa) por seringa pré-cheia. Isto é equivalente a 1,5% da ingestão diária máxima
+de sódio recomendada na dieta para um adulto. Dependendo do seu peso corporal e da sua dose de
+ReFacto AF, poderá receber múltiplas seringas pré-cheias. Isto deve ser considerado se estiver a fazer
+uma dieta com baixo teor em sal.
+3.
+
+Como utilizar ReFacto AF
+
+Utilize este medicamento exatamente como indicado pelo seu médico. Fale com o seu médico ou
+farmacêutico se tiver dúvidas.
+O tratamento com ReFacto AF deve ser iniciado por um médico com experiência no tratamento de
+doentes com hemofilia A. O seu médico vai decidir qual a dose de ReFacto AF que lhe irá ser
+administrada. Esta dose e a duração da administração dependem das suas necessidades individuais de
+terapêutica de substituição do fator VIII. ReFacto AF é administrado por injeção numa veia durante
+vários minutos. Os doentes ou respetivos cuidadores podem administrar injeções de ReFacto AF,
+desde que tenham recebido formação adequada.
+Durante o tratamento, o seu médico poderá decidir alterar a dose de ReFacto AF que lhe vai ser
+administrada.
+Consulte o seu médico antes de viajar. Deve levar consigo uma quantidade adequada de medicamento
+com fator VIII, antecipando as necessidades de tratamento em viagem.
+
+42
+
+Recomenda-se que, sempre que utilizar ReFacto AF, registe o nome do medicamento inscrito na
+cartonagem e o número de lote do medicamento. Pode afixar um dos rótulos destacáveis da seringa
+pré-cheia no seu diário para documentar o número de lote ou para comunicar quaisquer efeitos
+indesejáveis.
+Reconstituição e administração
+Os procedimentos abaixo indicados são fornecidos como orientações para a reconstituição e
+administração de ReFacto AF em seringa pré-cheia. Os doentes devem seguir os procedimentos
+específicos de reconstituição e administração que lhes foram fornecidos pelos seus médicos.
+ReFacto AF é administrado por perfusão intravenosa (IV) após reconstituição. A seringa pré-cheia é
+constituída por duas câmaras, uma câmara contém o pó liofilizado de ReFacto AF e outra câmara
+contém o solvente [solução de cloreto de sódio 9 mg/ml (0,9%)]. Nestas instruções, este dispositivo
+será referido como seringa pré-cheia.
+Utilize apenas a seringa pré-cheia fornecida na embalagem para a reconstituição. Podem ser utilizadas
+para a administração outras seringas esterilizadas descartáveis.
+ReFacto AF não deve ser misturado com outras soluções de perfusão.
+Nota: Se precisar de utilizar mais do que uma seringa pré-cheia de ReFacto AF por perfusão, cada
+seringa deve ser reconstituída de acordo com as instruções específicas. Pode ser utilizada uma seringa
+de 10 cc ou uma seringa maior com adaptador luer lock (não incluída no kit) para retirar o conteúdo
+reconstituído de cada seringa (ver Instruções adicionais).
+Preparação
+1.
+2.
+3.
+
+Lave sempre as mãos antes de realizar os seguintes procedimentos.
+Deve utilizar-se uma técnica assética (limpa e isenta de micróbios) durante o processo de
+reconstituição.
+Todos os componentes utilizados na reconstituição e administração deste medicamento devem
+ser utilizados logo que possível após a abertura dos seus recipientes esterilizados, para
+minimizar a exposição desnecessária ao ar.
+
+Reconstituição
+1.
+2.
+
+3.
+
+Espere que a seringa pré-cheia atinja a temperatura ambiente.
+Retire o conteúdo do kit de ReFacto AF seringa pré-cheia e coloque-o numa superfície limpa,
+certificando-se que tem tudo o que necessita.
+Segure a haste do êmbolo, como demonstrado na figura abaixo. Rode a haste do êmbolo com
+firmeza na abertura do resto da haste da seringa pré-cheia de ReFacto AF, empurrando e
+rodando com firmeza, no sentido dos ponteiros do relógio, até sentir resistência
+
+43
+
+(aproximadamente 2 voltas).
+
+Ao longo do processo de reconstituição, é importante manter a seringa pré-cheia de ReFacto AF na
+vertical (com o pó branco sobre a solução clara) para evitar possíveis fugas.
+4.
+
+Segurando a seringa pré-cheia na posição vertical, retire o selo branco inviolável, dobrando o
+selo da direita para a esquerda (ou com um movimento de balanço suave) para quebrar a
+perfuração da cápsula de fecho e expor a cápsula de fecho de borracha cinzenta da seringa précheia de ReFacto AF.
+
+5.
+
+Retire a cápsula de fecho protetora estéril azul e ventilada da embalagem.
+
+Enquanto continua a segurar a seringa pré-cheia de ReFacto AF na posição vertical, retire a cápsula de
+fecho de borracha cinzenta e substitua-a pela cápsula de fecho protetora azul ventilada. Esta cápsula de
+fecho ventilada tem pequenos orifícios que permitem a saída do ar de modo a evitar o aumento da
+pressão. Evite tocar na extremidade aberta da seringa ou na cápsula de fecho protetora azul ventilada.
+
+6.
+
+Empurre o êmbolo devagar e suavemente, até que os dois êmbolos se encontrem no interior da
+seringa pré-cheia e que todo o solvente seja transferido para a câmara superior contendo o pó de
+ReFacto AF.
+44
+
+Nota: De modo a evitar a saída de líquido pela ponta da seringa, não empurre o êmbolo com muita
+força.
+
+7.
+
+Com a seringa pré-cheia de ReFacto AF na posição vertical, agite suavemente várias vezes até
+o pó estar dissolvido.
+
+Olhe para a solução final para verificar se existem partículas ou descoloração. A solução deve ser
+límpida a ligeiramente opalescente e incolor. Rejeite a seringa pré-cheia se forem observadas
+partículas visíveis ou descoloração.
+8.
+
+Continuando a segurar a seringa pré-cheia de ReFacto AF na posição vertical, insira lentamente
+o êmbolo até que quase todo o ar seja retirado da câmara (superior).
+
+ReFacto AF deve ser administrado no prazo de 3 horas após a reconstituição ou após tirar a cápsula de
+fecho de borracha cinzenta da seringa pré-cheia.
+Se não vai utilizar a solução de ReFacto AF imediatamente, a seringa deve ser conservada na posição
+vertical, com a cápsula de fecho protetora azul ventilada colocada na seringa pré-cheia, até ao
+momento da perfusão. A solução reconstituída pode ser conservada à temperatura ambiente até 3
+horas. Caso não a utilize no prazo de 3 horas, a solução deve ser eliminada.
+Administração (Perfusão intravenosa)
+O seu médico ou outro profissional de saúde deve ensiná-lo a utilizar ReFacto AF. Depois de aprender
+45
+
+como fazer a autoadministração, pode seguir as instruções deste folheto informativo.
+ReFacto AF é administrado por perfusão intravenosa (IV) após a reconstituição do pó com o solvente
+(cloreto de sódio 0,9%). Após a reconstituição e antes da administração ReFacto AF deve ser
+inspecionado quanto à presença de partículas e alteração da cor.
+ReFacto AF deve ser administrado utilizando o sistema de perfusão incluído no kit, salvo indicação
+em contrário do seu médico ou outro profissional de saúde.
+1.
+
+Retire a cápsula de fecho protetora azul ventilada e prenda firmemente o kit de perfusão
+intravenoso fornecido juntamente com a seringa pré-cheia de ReFacto AF.
+
+2.
+
+Aplique o torniquete e prepare o local da injeção limpando bem a pele com a compressa com
+álcool fornecida no kit.
+
+46
+
+3.
+
+Retire a tampa protetora da agulha e insira a agulha do tipo borboleta do tubo do sistema de
+perfusão na sua veia, como indicado pelo seu médico ou outro profissional de saúde. Retire o
+torniquete. O medicamento ReFacto AF reconstituído deve ser injetado por via intravenosa
+durante vários minutos. O seu médico poderá alterar a taxa de perfusão (ritmo ou velocidade de
+administração) recomendada para tornar a perfusão mais confortável. Fale do procedimento de
+perfusão intravenosa com o seu médico ou outro profissional de saúde. Não tente fazer a
+autoperfusão a menos que tenha sido devidamente treinado.
+
+ReFacto AF reconstituído não pode ser administrado no mesmo tubo ou recipiente com outros
+medicamentos.
+4.
+
+Após a perfusão de ReFacto AF, retire o sistema de perfusão e elimine-o. A quantidade de
+medicamento que ficou no conjunto de perfusão não irá afetar o seu tratamento.
+
+Nota: Coloque por favor toda a solução não utilizada, a seringa pré-cheia vazia, e o material médico
+utilizado num recipiente apropriado para eliminação de resíduos médicos, uma vez que estes materiais
+podem ferir os outros se não forem eliminados corretamente.
+
+Recomenda-se que registe o número de lote descrito no rótulo da seringa pré-cheia de ReFacto AF
+cada vez que utilizar ReFacto AF. Pode utilizar os rótulos destacáveis da seringa pré-cheia de
+ReFacto AF para registar o número do lote.
+Instruções adicionais:
+Reconstituição de várias seringas pré-cheias de ReFacto AF em seringa de 10 cc ou seringa com
+adaptador luer lock (seringa de 10 cc e seringa com adaptador luer lock não fornecidas)
+As instruções abaixo destinam-se à utilização de múltiplos kits de seringa pré-cheia de ReFacto AF
+com uma seringa de 10 cc ou uma seringa com adaptador luer lock.
+1.
+Reconstituir todas as seringas pré-cheias de ReFacto AF de acordo com as instruções descritas
+acima, nas instruções de reconstituição (ver Reconstituição e Administração).
+
+47
+
+Segurando a seringa pré-cheia de ReFacto AF na posição vertical, insira lentamente o êmbolo
+até que quase todo o ar seja retirado da câmara que contém o medicamento.
+
+2.
+
+Remova o conector da seringa luer-luer da embalagem (o conector e a seringa luer-luer não são
+fornecidos).
+
+3.
+
+Adapte a seringa de 10 cc ou a seringa luer lock à extremidade aberta do conector da seringa e
+adapte a seringa pré-cheia de ReFacto AF à outra extremidade aberta na ponta oposta.
+
+4.
+
+Com a seringa pré-cheia de ReFacto AF por cima, pressione lentamente o êmbolo até esvaziar o
+conteúdo para a seringa de 10 cc ou para a seringa com o adaptador luer lock.
+
+5.
+
+Retire a seringa pré-cheia vazia de ReFacto AF e repita os procedimentos 3 e 4 para outras
+seringas reconstituídas.
+
+6.
+
+Remova o conector da seringa luer-luer da seringa de 10 cc ou da seringa com o adaptador luer
+lock e prenda o sistema de perfusão, como descrito nas instruções de administração da seringa
+pré-cheia [ver Administração (Perfusão intravenosa)].
+
+Nota: Coloque por favor toda a solução não utilizada, a seringa pré-cheia vazia, e o material médico
+utilizado num recipiente apropriado para eliminação de resíduos médicos, uma vez que estes materiais
+48
+
+podem ferir os outros se não forem eliminados corretamente.
+
+Se utilizar mais ReFacto AF do que deveria
+Fale com o seu médico ou farmacêutico.
+Se parar de utilizar ReFacto AF
+Não interrompa a utilização de ReFacto AF sem consultar o seu médico.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Reações alérgicas
+Se ocorrerem reações alérgicas súbitas graves (anafiláticas), a perfusão tem de ser interrompida
+imediatamente. Tem de contactar o seu médico imediatamente se ocorrer qualquer um dos
+sintomas iniciais de reações alérgicas:
+
+
+
+
+
+
+erupção na pele, urticária, bolhas, comichão generalizada
+inchaço dos lábios e língua
+dificuldade em respirar, respiração ruidosa, sensação de aperto no peito
+sensação de mal-estar geral
+tonturas e perda de consciência
+
+Os sintomas graves, tais como dificuldade em respirar e (quase) desmaio, requerem tratamento de
+emergência imediato. As reações alérgicas súbitas graves (anafiláticas) são pouco frequentes (podem
+afetar até 1 em 100 pessoas).
+Desenvolvimento de inibidores
+Para crianças não tratadas previamente com medicamentos com fator VIII, pode ocorrer a formação de
+anticorpos inibidores (ver secção 2) muito frequentemente (mais de 1 em 10 doentes); no entanto, para
+doentes que receberam tratamento prévio com fator VIII (mais de 150 dias de tratamento), o risco é
+pouco frequente (menos de 1 em 100 doentes). Se isto acontecer, os medicamentos que você ou a sua
+criança estão a tomar podem deixar de funcionar adequadamente e você ou a sua criança podem
+apresentar hemorragias persistentes. Se isto acontecer, contacte o seu médico imediatamente.
+
+49
+
+Efeitos indesejáveis muito frequentes (podem afetar mais do que 1 em 10 pessoas):
+
+
+
+
+
+
+desenvolvimento de inibidores em doentes sem tratamento anterior com medicamentos
+contendo fator VIII
+dor de cabeça
+tosse
+dor nas articulações
+febre
+
+Efeitos indesejáveis frequentes (podem afetar até 1 em 10 pessoas):
+
+
+
+
+
+
+
+
+hemorragias
+tonturas
+diminuição do apetite, diarreia, vómitos, dor de estômago, náuseas
+urticária, erupção na pele, comichão
+dor muscular
+arrepios, reação no acesso venoso do cateter
+alguns testes sanguíneos podem demonstrar um aumento de anticorpos contra o fator VIII
+
+Efeitos indesejáveis pouco frequentes (podem afetar até 1 em 100 pessoas):
+
+
+
+
+
+
+
+
+
+
+
+desenvolvimento de inibidores em doentes que foram tratados anteriormente com medicamentos
+contendo fator VIII (cerca de 1 em 100 pessoas)
+reação alérgica grave
+dormência, sonolência, alteração do paladar
+dor no peito, batimentos rápidos do coração, palpitações
+tensão arterial baixa, dor e vermelhidão nas veias associado à coagulação do sangue, rubor
+falta de ar
+sudação excessiva
+fraqueza, reação no local da injeção, incluindo dor
+aumento ligeiro das enzimas cardíacas
+aumento das enzimas do fígado, aumento da bilirrubina
+
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar ReFacto AF
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no rótulo da
+seringa pré-cheia após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+Conservar e transportar refrigerado (2°C-8°C). Não congelar, a fim de evitar danos na seringa précheia.
+Para a sua conveniência, o medicamento pode ser retirado destas condições de conservação durante
+um único período máximo de 3 meses à temperatura ambiente (até 25°C). No final deste período de
+conservação à temperatura ambiente, o medicamento não pode voltar a ser refrigerado, devendo ser ou
+utilizado ou eliminado. Registe na embalagem exterior de ReFacto AF seringa pré-cheia a data em que
+foi retirado do frigorífico e colocado à temperatura ambiente (até 25°C).
+50
+
+Manter a seringa pré-cheia dentro da embalagem exterior para proteger da luz.
+Utilizar a solução reconstituída no prazo de 3 horas após a reconstituição ou após tirar a cápsula de
+fecho de proteção cinzenta.
+A solução será límpida a ligeiramente opalescente e incolor. Não utilize este medicamento se verificar
+que a solução está turva ou contém partículas visíveis.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de ReFacto AF
+
+
+
+
+
+A substância ativa é o moroctocog alfa (fator VIII de coagulação recombinante). Cada seringa
+pré-cheia de ReFacto AF contém nominalmente 250, 500, 1000, 2000 ou 3000 UI de
+moroctocog alfa.
+Na seringa pré-cheia de ReFacto AF é incluído o solvente [solução para injetável de cloreto de
+sódio 9 mg/ml (0,9%)] para reconstituição do moroctocog alfa.
+Os outros componentes são sacarose, cloreto de cálcio di-hidratado, L-histidina, polissorbato 80
+e cloreto de sódio (ver secção 2 “ReFacto AF contém sódio”).
+Depois de reconstituído com o solvente fornecido [solução de cloreto de sódio a 9 mg/ml
+(0,9%)], a solução para injetável contém 62,5; 125; 250; 500 ou 750 UI de moroctocog alfa por
+ml, respetivamente (com base na dosagem de moroctocog alfa i.e., 250, 500, 1000, 2000 ou
+3000 UI).
+
+Qual o aspeto de ReFacto AF e conteúdo da embalagem
+ReFacto AF é fornecido como um pó e solvente para solução injetável em seringa pré-cheia que
+contém o pó de ReFacto AF no topo da câmara e solvente [solução de cloreto de sódio 9 mg/ml
+(0,9%)] na parte inferior da câmara.
+A embalagem contém:
+
+
+
+
+
+
+
+
+1 seringa pré-cheia contendo 250, 500, 1000, 2000 ou 3000 UI de pó de moroctocog alfa, e 4 ml
+de solução injetável estéril de cloreto de sódio 9 mg/ml (0,9%) para reconstituição, como
+solvente.
+1 êmbolo de borracha
+1 cápsula de fecho protetora estéril azul e ventilada
+1 sistema de perfusão estéril
+2 compressas com álcool
+1 adesivo
+1 penso de gaze
+
+Titular da Autorização de Introdução no Mercado
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Bélgica
+
+51
+
+Fabricante
+Wyeth Farma S.A
+Autovia del Norte A-1 Km 23
+Desvio Algete Km 1
+28700 San Sebastian de los Reyes
+Madrid
+Espanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado.
+België/Belgique/Belgien
+Luxembourg/Luxemburg
+Pfizer NV/SA
+Tél/Tel: +32 (0)2 554 62 11
+
+Lietuva
+Pfizer Luxembourg SARL filialas Lietuvoje
+Tel: +370 5 251 4000
+
+България
+Пфайзер Люксембург САРЛ, Клон
+България
+Тел.: +359 2 970 4333
+
+Magyarország
+Pfizer Kft.
+Tel.: + 36 1 488 37 00
+
+Česká republika
+Pfizer, spol. s r.o.
+Tel: +420 283 004 111
+
+Malta
+Vivian Corporation Ltd.
+Tel: +356 21344610
+
+Danmark
+Pfizer ApS
+Tlf: +45 44 20 11 00
+
+Nederland
+Pfizer bv
+Tel: +31 (0)800 63 34 636
+
+Deutschland
+PFIZER PHARMA GmbH
+Tel: +49 (0)30 550055-51000
+
+Norge
+Pfizer AS
+Tlf: +47 67 52 61 00
+
+Eesti
+Pfizer Luxembourg SARL Eesti filiaal
+Tel: +372 666 7500
+
+Österreich
+Pfizer Corporation Austria Ges.m.b.H.
+Tel: +43 (0)1 521 15-0
+
+52
+
+Ελλάδα
+Pfizer Ελλάς Α.Ε
+Τηλ: +30 210 6785800
+
+Polska
+Pfizer Polska Sp. z o.o.
+Tel.: +48 22 335 61 00
+
+España
+Pfizer S.L.
+Tel: +34 91 490 99 00
+
+Portugal
+Laboratórios Pfizer, Lda.
+Tel: +351 21 423 5500
+
+France
+Pfizer
+Tél: +33 (0)1 58 07 34 40
+
+România
+Pfizer Romania S.R.L.
+Tel: +40 (0) 21 207 28 00
+
+Hrvatska
+Pfizer Croatia d.o.o.
+Tel: + 385 1 3908 777
+
+Slovenija
+Pfizer Luxembourg SARL
+Pfizer, podružnica za svetovanje s področja
+farmacevtske dejavnosti, Ljubljana
+Tel: + 386 (0) 1 52 11 400
+
+Ireland
+Pfizer Healthcare Ireland
+Tel: 1800 633 363 (toll free)
+Tel: +44 (0)1304 616161
+
+Slovenská republika
+Pfizer Luxembourg SARL, organizačná zložka
+Tel: + 421 2 3355 5500
+
+Ísland
+Icepharma hf.
+Sími: +354 540 8000
+
+Suomi/Finland
+Pfizer Oy
+Puh/Tel: +358 (0)9 430 040
+
+Italia
+Pfizer S.r.l.
+Tel: +39 06 33 18 21
+
+Sverige
+Pfizer AB
+Tel: + 46 (0)8 550 520 00
+
+Κύπρος
+Pfizer Ελλάς Α.Ε. (Cyprus Branch)
+Τηλ: +357 22817690
+
+United Kingdom (Northern Ireland)
+Pfizer Limited
+Tel: +44 (0)1304 616161
+
+Latvija
+Pfizer Luxembourg SARL filiāle Latvijā
+Tel: +371 670 35 775
+Este folheto foi revisto pela última vez em
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu/.
+
+53
+
+

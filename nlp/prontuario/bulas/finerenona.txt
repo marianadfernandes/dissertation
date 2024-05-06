@@ -1,0 +1,2412 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+
+1.
+
+NOME DO MEDICAMENTO
+
+Kerendia 10 mg comprimidos revestidos por película
+Kerendia 20 mg comprimidos revestidos por película
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Kerendia 10 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 10 mg de finerenona.
+Excipiente com efeito conhecido
+Cada comprimido revestido por película contém 45 mg de lactose (sob a forma mono-hidratada), ver
+secção 4.4.
+
+Kerendia 20 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 20 mg de finerenona.
+Excipiente com efeito conhecido
+Cada comprimido revestido por película contém 40 mg de lactose (sob a forma mono-hidratada), ver
+secção 4.4.
+
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimido revestido por película (comprimido)
+Kerendia 10 mg comprimidos revestidos por película
+Comprimido revestido por película oblongo, oval, cor de rosa, com 10 mm de comprimento e 5 mm de
+largura, com “10” marcado numa face e “FI” na outra face.
+Kerendia 20 mg comprimidos revestidos por película
+Comprimido revestido por película oblongo, oval, amarelo, com 10 mm de comprimento e 5 mm de
+largura, com “20” marcado numa face e “FI” na outra face.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Kerendia é indicado para o tratamento da doença renal crónica com albuminúria associada a diabetes
+tipo 2 em adultos.
+Para resultado dos estudos relativos a acontecimentos renais e cardiovasculares, ver secção 5.1.
+
+2
+
+4.2
+
+Posologia e modo de administração
+
+Posologia
+A dose alvo recomendada é de 20 mg de finerenona uma vez por dia.
+A dose máxima recomendada é de 20 mg de finerenona uma vez por dia.
+Início do tratamento
+O potássio sérico e a taxa de filtração glomerular estimada (TFGe) têm de ser medidos para determinar
+se o tratamento com finerenona pode ser iniciado e para determinar a dose inicial.
+Se o potássio sérico for ≤ 4,8 mmol/l, o tratamento com finerenona pode ser iniciado. Para a
+monitorização do potássio sérico, ver a secção “Continuação do tratamento”.
+Se o potássio sérico for > 4,8 mmol/l a 5,0 mmol/l, poderá considerar-se iniciar o tratamento com
+monitorização adicional do potássio sérico durante as primeiras 4 semanas, com base nas
+características do doente e nos níveis do potássio sérico (ver secção 4.4).
+Se o potássio sérico for > 5,0 mmol/l, o tratamento com finerenona não deve ser iniciado (ver
+secção 4.4).
+A dose inicial recomendada de finerenona é baseada na TFGe e é apresentada na tabela 1.
+Tabela 1: Início do tratamento com finerenona e dose recomendada
+TFGe (ml/min/1,73 m2)
+Dose inicial (uma vez por dia)
+≥ 60
+20 mg
+≥ 25 a < 60
+10 mg
+< 25
+Não recomendada
+Continuação do tratamento
+O potássio sérico e a TFGe têm de ser novamente medidos 4 semanas após o início ou reinício do
+tratamento com finerenona ou após o aumento da dose (ver tabela 2 para determinar a continuação do
+tratamento com finerenona e o ajuste da dose).
+Daí em diante, o potássio sérico tem de ser medido periodicamente e conforme necessário, com base
+nas características do doente e nos níveis do potássio sérico.
+Para mais informação ver secções 4.4 e 4.5.
+Tabela 2: Continuação do tratamento com finerenona e ajuste da dose
+Dose atual de finerenona (uma vez por dia)
+10 mg
+Potássio
+sérico
+atual
+(mmol/l)
+
+≤ 4,8
+> 4,8 a 5,5
+> 5,5
+
+20 mg
+
+Aumentar para 20 mg de
+finerenona uma vez por dia*
+Manter 10 mg uma vez por dia
+Suspender finerenona.
+Considerar reiniciar o tratamento
+com 10 mg uma vez por dia
+quando o potássio sérico
+≤ 5,0 mmol/l.
+
+Manter 20 mg uma vez por dia
+Manter 20 mg uma vez por dia
+Suspender finerenona.
+Reiniciar com 10 mg uma vez por
+dia quando o potássio sérico
+≤ 5,0 mmol/l.
+
+* manter 10 mg uma vez por dia, se a TFGe tiver um decréscimo > 30% comparativamente à medição anterior
+
+Dose esquecida
+Uma dose esquecida deve ser tomada logo que o doente se aperceba da omissão, mas apenas no
+mesmo dia.
+O doente não deve tomar 2 doses para compensar uma dose que se esqueceu de tomar.
+3
+
+Populações especiais
+Idosos
+Não é necessário qualquer ajuste da dose em doentes idosos (ver secção 5.2).
+Compromisso renal
+Início do tratamento
+Em doentes com TFGe < 25 ml/min/1,73 m2, o tratamento com finerenona não deve ser iniciado, visto
+os dados clínicos serem limitados (ver secções 4.4 e 5.2).
+Continuação do tratamento
+Em doentes com TFGe ≥ 15 ml/min/1,73 m2, o tratamento com finerenona pode ser continuado com
+ajuste da dose baseado no potássio sérico. A TFGe deve ser medida 4 semanas após o início, para
+determinar se a dose inicial pode ser aumentada para a dose diária recomendada de 20 mg (ver
+“Posologia, Continuação do tratamento” e tabela 2).
+Devido a dados clínicos limitados, o tratamento com finerenona deve ser interrompido em doentes que
+progrediram para doença renal em fase terminal (TFGe < 15 ml/min/1,73 m2) (ver secção 4.4).
+Compromisso hepático
+Doentes com
+compromisso hepático grave:
+A finerenona não deve ser iniciada (ver secções 4.4 e 5.2). Não existem dados disponíveis.
+-
+
+compromisso hepático moderado:
+Não é necessário qualquer ajuste da dose inicial. Considerar uma monitorização adicional do
+potássio sérico e adaptar a monitorização em função das características do doente (ver
+secções 4.4 e 5.2).
+
+-
+
+compromisso hepático ligeiro:
+Não é necessário qualquer ajuste da dose inicial.
+
+Medicação concomitante
+Em doentes a tomar finerenona concomitantemente com inibidores moderados ou fracos do CYP3A4,
+suplementos de potássio, trimetoprim ou trimetoprim/sulfametoxazol, deve considerar-se a
+monitorização adicional do potássio sérico e a adaptação da monitorização em função das
+características do doente (ver secção 4.4). As decisões sobre o tratamento com finerenona devem ser
+tomadas segundo as indicações da tabela 2 (“Posologia, Continuação do tratamento”).
+Poderá ser necessária a interrupção temporária da finerenona quando os doentes têm de tomar
+trimetoprim ou trimetoprim/sulfametoxazol. Para mais informação ver secções 4.4 e 4.5.
+Peso corporal
+Não é necessário qualquer ajuste da dose com base no peso corporal (ver secção 5.2).
+População pediátrica
+A segurança e eficácia da finerenona em crianças e adolescentes com menos de 18 anos de idade não
+foram ainda estabelecidas. Não existem dados disponíveis.
+Modo de administração
+Via oral
+Os comprimidos podem ser tomados com um copo de água e com ou sem alimentos (ver secção 5.2).
+Os comprimidos não devem ser tomados com toranja ou sumo de toranja (ver secção 4.5).
+
+4
+
+Esmagar os comprimidos
+Para os doentes incapazes de engolir comprimidos inteiros, os comprimidos de Kerendia podem ser
+esmagados e misturados com água ou alimentos moles, tais como puré de maçã, imediatamente antes
+da administração por via oral (ver secção 5.2).
+4.3
+
+Contraindicações
+
+-
+
+-
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na
+secção 6.1.
+Tratamento concomitante com inibidores fortes do CYP3A4 (ver secção 4.5), p. ex.,
+itraconazol
+cetoconazol
+ritonavir
+nelfinavir
+cobicistate
+claritromicina
+telitromicina
+nefazodona
+Doença de Addison
+
+4.4
+
+Advertências e precauções especiais de utilização
+
+-
+
+Hipercaliemia
+Tem sido observada hipercaliemia em doentes tratados com finerenona (ver secção 4.8).
+Alguns doentes têm um risco mais elevado de desenvolver hipercaliemia.
+Os fatores de risco incluem TFGe baixa, potássio sérico mais elevado e episódios anteriores de
+hipercaliemia. Nestes doentes tem de se considerar uma monitorização mais frequente.
+Início e continuação do tratamento (ver secção 4.2)
+Se o potássio sérico for > 5,0 mmol/l, o tratamento com finerenona não deve ser iniciado.
+Se o potássio sérico for > 4,8 mmol/l até 5,0 mmol/l, poderá considerar-se iniciar o tratamento com
+finerenona com monitorização adicional do potássio sérico durante as primeiras 4 semanas, com base
+nas características do doente e nos níveis do potássio sérico.
+Se o potássio sérico for > 5,5 mmol/l, o tratamento com finerenona tem de ser suspenso. As
+orientações locais para o tratamento da hipercaliemia têm de ser seguidas.
+Quando o potássio sérico for ≤ 5,0 mmol/l, o tratamento com finerenona pode ser reiniciado com
+10 mg uma vez por dia.
+Monitorização
+O potássio sérico e a TFGe têm de ser novamente medidos em todos os doentes 4 semanas após o
+início ou reinício do tratamento ou após o aumento da dose de finerenona. Daí em diante, o potássio
+sérico tem de ser avaliado periodicamente e conforme necessário, com base nas características do
+doente e nos níveis do potássio sérico (ver secção 4.2.).
+Medicações concomitantes
+O risco de hipercaliemia também pode aumentar com a toma de medicações concomitantes que
+possam aumentar o potássio sérico (ver secção 4.5). Ver também “Utilização concomitante de
+substâncias que afetam a exposição à finerenona”.
+A finerenona não deve ser administrada concomitantemente com
+diuréticos poupadores de potássio (p. ex., amilorida, triamtereno) e
+outros antagonistas dos recetores mineralocorticoides (ARM), p. ex., eplerenona, esaxerenona,
+espironolactona, canrenona.
+
+5
+
+A finerenona deve ser utilizada com precaução e o potássio sérico deve ser monitorizado quando é
+tomada concomitantemente com
+suplementos de potássio;
+trimetoprim ou trimetoprim/sulfametoxazol. Poderá ser necessária a interrupção temporária de
+finerenona.
+Compromisso renal
+O risco de hipercaliemia aumenta com o decréscimo da função renal. Deve efetuar-se uma
+monitorização contínua da função renal, conforme necessário, de acordo com a prática padrão (ver
+secção 4.2).
+Início do tratamento
+O tratamento com finerenona não deve ser iniciado em doentes com TFGe < 25 ml/min/1,73 m2, visto
+os dados clínicos serem limitados (ver secções 4.2 e 5.2).
+Continuação do tratamento
+Devido a dados clínicos limitados, o tratamento com finerenona deve ser interrompido em doentes que
+tenham progredido para doença renal em fase terminal (TFGe < 15 ml/min/1,73 m2).
+Compromisso hepático
+O tratamento com finerenona não deve ser iniciado em doentes com compromisso hepático grave (ver
+secção 4.2). Estes doentes não foram estudados (ver secção 5.2) mas é de esperar um aumento
+significativo na exposição à finerenona.
+A utilização de finerenona em doentes com compromisso hepático moderado poderá necessitar de
+monitorização adicional devido a um aumento na exposição à finerenona. Tem de se considerar uma
+monitorização adicional do potássio sérico e a adaptação da monitorização em função das
+características do doente (ver secções 4.2 e 5.2).
+Insuficiência cardíaca
+Os doentes com diagnóstico de insuficiência cardíaca com fração de ejeção reduzida e classe II-IV da
+New York Heart Association foram excluídos dos estudos clínicos de fase III (ver secção 5.1).
+Utilização concomitante de substâncias que afetam a exposição à finerenona
+Inibidores moderados e fracos do CYP3A4
+O potássio sérico deve ser monitorizado durante a utilização concomitante de finerenona com
+inibidores moderados ou fracos do CYP3A4 (ver secções 4.2 e 4.5).
+Inibidores fortes e moderados do CYP3A4
+A finerenona não deve ser utilizada concomitantemente com indutores fortes ou moderados do
+CYP3A4 (ver secção 4.5).
+Toranja
+Toranja ou sumo de toranja não devem ser consumidos durante o tratamento com finerenona (ver
+secções 4.2 e 4.5).
+Toxicidade embriofetal
+A finerenona não deve ser utilizada durante a gravidez, a menos que tenha havido uma ponderação
+cuidadosa do benefício para a mãe e do risco para o feto. Se uma mulher engravidar enquanto estiver a
+tomar finerenona, deve ser informada acerca dos potenciais riscos para o feto.
+As mulheres com potencial para engravidar devem ser aconselhadas a utilizar métodos contracetivos
+eficazes durante o tratamento com finerenona.
+6
+
+As mulheres devem ser aconselhadas a não amamentar durante o tratamento com finerenona.
+Para mais informação ver secções 4.6 e 5.3.
+Informação sobre os excipientes
+Kerendia contém lactose
+Doentes com problemas hereditários raros de intolerância à galactose, deficiência total de lactase ou
+malabsorção de glucose-galactose não devem tomar este medicamento.
+Kerendia contém sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido, ou seja, é
+praticamente “isento de sódio”.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Os estudos de interação só foram realizados em adultos.
+A finerenona é depurada quase exclusivamente através do metabolismo oxidativo mediado pelo
+citocromo (CYP) P450 [principalmente pelo CYP3A4 (90%), com uma pequena contribuição do
+CYP2C8 (10%)].
+Utilização concomitante contraindicada
+Inibidores fortes do CYP3A4
+A utilização concomitante de Kerendia com itraconazol, claritromicina e outros inibidores fortes do
+CYP3A4 (p. ex., cetoconazol, ritonavir, nelfinavir, cobicistate, telitromicina ou nefazodona) é
+contraindicada (ver secção 4.3), pois é de esperar um aumento acentuado na exposição à finerenona.
+Utilização concomitante não recomendada
+Indutores fortes e moderados do CYP3A4
+Kerendia não deve ser utilizado concomitantemente com rifampicina e outros indutores fortes do
+CYP3A4 (p. ex., carbamazepina, fenitoína, fenobarbital, hipericão) ou com efavirenz e outros
+indutores moderados do CYP3A4. É de esperar que estes indutores do CYP3A4 diminuam
+acentuadamente a concentração plasmática da finerenona, resultando na redução do efeito terapêutico
+(ver secção 4.4).
+Determinados medicamentos que aumentam o potássio sérico
+Kerendia não deve ser utilizado concomitantemente com diuréticos poupadores de potássio (p. ex.,
+amilorida, triamtereno) e outros ARM (p. ex., eplerenona, esaxerenona, espirolactona, canrenona). É
+de esperar que estes medicamentos aumentem o risco de hipercaliemia (ver secção 4.4).
+Toranja
+Toranja ou sumo de toranja não devem ser consumidos durante o tratamento com finerenona, pois é de
+esperar que aumente as concentrações plasmáticas da finerenona através da inibição do CYP3A4 (ver
+secções 4.2 e 4.4).
+Utilização concomitante com precauções
+Inibidores moderados do CYP3A4
+Num estudo clínico, a utilização concomitante de eritromicina (500 mg três vezes por dia) resultou
+num aumento de 3,5 vezes da AUC e de 1,9 vezes da Cmax da finerenona. Noutro estudo clínico, o
+verapamilo (comprimido de libertação controlada de 240 mg, uma vez por dia) resultou num aumento
+de 2,7 vezes e de 2,2 vezes da AUC e da Cmax da finerenona, respetivamente.
+O potássio sérico pode aumentar e, por isso, a monitorização do potássio sérico é recomendada,
+especialmente durante o início ou aquando de alterações da dose de finerenona ou do inibidor do
+CYP3A4 (ver secções 4.2 e 4.4).
+7
+
+Inibidores fracos do CYP3A4
+As simulações com modelos farmacocinéticos de base fisiológica (PBPK) sugerem que a fluvoxamina
+(100 mg duas vezes por dia) aumenta a AUC (1,6 vezes) e a Cₘₐₓ (1,4 vezes) da finerenona.
+O potássio sérico pode aumentar e, por isso, a monitorização do potássio sérico é recomendada,
+especialmente durante o início ou aquando de alterações da dose de finerenona ou do inibidor do
+CYP3A4 (ver secções 4.2 e 4.4).
+Determinados medicamentos que aumentam o potássio sérico (ver secção 4.4)
+É de esperar que a utilização concomitante de Kerendia com suplementos de potássio e trimetoprim ou
+trimetoprim/sulfametoxazol aumente o risco de hipercaliemia. É necessária a monitorização do
+potássio sérico.
+Poderá ser necessária a interrupção temporária de Kerendia durante o tratamento com trimetoprim ou
+trimetoprim/sulfametoxazol.
+Medicamentos anti-hipertensores
+O risco de hipotensão aumenta com o uso concomitante de vários outros medicamentos antihipertensores. Recomenda-se a monitorização da tensão arterial nestes doentes.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Contraceção feminina
+As mulheres com potencial para engravidar devem utilizar métodos contracetivos eficazes durante o
+tratamento com finerenona (ver secção 4.4).
+Gravidez
+A quantidade de dados sobre a utilização de finerenona em mulheres grávidas é inexistente.
+Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3).
+Kerendia não deve ser utilizado durante a gravidez a menos que o estado clínico da mulher exija
+tratamento com finerenona. Se uma mulher engravidar enquanto estiver a tomar finerenona, deve ser
+informada acerca dos potenciais riscos para o feto (ver secção 4.4.).
+Amamentação
+Desconhece-se se a finerenona/metabolitos são excretados no leite humano.
+Os dados farmacocinéticos/toxicológicos disponíveis em animais mostraram excreção da finerenona e
+dos seus metabolitos no leite. Crias de rato expostas através desta via demonstraram reações adversas
+(ver secção 5.3).
+Não pode ser excluído qualquer risco para os recém-nascidos/lactentes.
+Tem que ser tomada uma decisão sobre a descontinuação da amamentação ou a
+descontinuação/abstenção da terapêutica com Kerendia tendo em conta o benefício da amamentação
+para a criança e o benefício da terapêutica para a mulher (ver secção 4.4).
+Fertilidade
+Não existem dados sobre o efeito da finerenona na fertilidade humana.
+Estudos em animais mostraram compromisso da fertilidade feminina com exposições consideradas
+excessivas relativamente à exposição humana máxima, indicando uma baixa relevância clínica (ver
+secção 5.3).
+
+8
+
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Kerendia sobre a capacidade de conduzir e utilizar máquinas são nulos.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+A reação adversa comunicada com mais frequência durante o tratamento com finerenona foi a
+hipercaliemia (14,0%). Ver “Descrição de reações adversas selecionadas, Hipercaliemia” a seguir e
+secção 4.4.
+Lista tabelada de reações adversas
+A segurança de finerenona em doentes com doença renal crónica (DRC) e diabetes tipo 2 (DT2) foi
+avaliada em 2 estudos principais de Fase III FIDELIO-DKD (diabetic kidney disease - doença renal
+diabética) e FIGARO-DKD. No estudo FIDELIO-DKD, 2 827 doentes receberam finerenona (10 mg
+ou 20 mg uma vez por dia) com uma duração média do tratamento de 2,2 anos. No estudo FIGARODKD, 3 683 doentes receberam finerenona (10 mg ou 20 mg uma vez por dia) com uma duração
+média do tratamento de 2,9 anos.
+As reações adversas observadas encontram-se listadas na tabela 3. Estão classificadas de acordo com a
+convenção sobre frequência e as classes de sistemas de órgãos segundo a base de dados MedDRA.
+As reações adversas estão agrupadas de acordo com as suas frequências por ordem decrescente de
+gravidade.
+As frequências são definidas da seguinte forma:
+Muito frequentes (≥ 1/10), frequentes (≥ 1/100; < 1/10), pouco frequentes (≥ 1/1 000; < 1/100), raros
+(≥ 1/10 000; < 1/1 000), muito raros (< 1/10 000), desconhecido (não pode ser calculado a partir dos
+dados disponíveis).
+Tabela 3: Reações adversas
+Classe de sistemas
+de órgãos
+Muito frequentes
+(MedDRA)
+Doenças do
+metabolismo e da
+Hipercaliemia
+nutrição
+Vasculopatias
+Afeções dos tecidos
+cutâneos e
+subcutâneos
+Exames
+complementares de
+diagnóstico
+
+Frequentes
+
+Pouco frequentes
+
+Hiponatremia
+Hiperuricemia
+Hipotensão
+Prurido
+Diminuição da taxa de
+filtração glomerular
+
+Diminuição de
+hemoglobina
+
+Descrição de reações adversas selecionadas
+Hipercaliemia
+Nos dados agrupados dos estudos FIDELIO-DKD e FIGARO-DKD foram comunicados
+acontecimentos de hipercaliemia em 14,0% dos doentes tratados com finerenona comparativamente a
+6,9% dos doentes tratados com placebo. Foi observado um aumento desde o início do estudo no
+potássio sérico médio de 0,17 mmol/l no primeiro mês de tratamento no grupo da finerenona
+comparativamente ao placebo e que permaneceu estável daí em diante. A maioria dos acontecimentos
+de hipercaliemia foram ligeiros a moderados e resolveram-se nos doentes tratados com finerenona.
+
+9
+
+Foram comunicados acontecimentos graves de hipercaliemia mais frequentemente com finerenona
+(1,1%) do que com placebo (0,2%). Foram comunicadas concentrações de potássio sérico
+> 5,5 mmol/l e > 6,0 mmol/l em 16,8% e 3,3% dos doentes tratados com finerenona e em 7,4% e 1,2%
+dos doentes tratados com placebo, respetivamente. A percentagem de hipercaliemia que resultou em
+descontinuação permanente nos doentes que receberam finerenona foi de 1,7% versus 0,6% no grupo
+do placebo. A percentagem de hospitalização devido a hipercaliemia nos doentes que receberam
+finerenona foi de 0,9% versus 0,2% no grupo do placebo.
+Para recomendações específicas, ver secções 4.2 e 4.4.
+Hipotensão
+Nos dados agrupados dos estudos FIDELIO-DKD e FIGARO-DKD, foram comunicados
+acontecimentos de hipotensão em 4,6% dos doentes tratados com finerenona comparativamente a
+3,0% dos doentes tratados com placebo. Em 3 doentes (< 0,1%), o tratamento com finerenona foi
+descontinuado permanentemente devido a hipotensão. A percentagem de hospitalização devido a
+hipotensão foi semelhante nos doentes a receber finerenona ou placebo (< 0,1 %). A maioria dos
+acontecimentos de hipotensão foram ligeiros ou moderados e resolveram-se nos doentes tratados com
+finerenona. A tensão arterial sistólica média diminuiu 2-4 mmHg e a tensão arterial diastólica média
+diminuiu 1-2 mmHg no mês 1, tendo permanecido estáveis daí em diante.
+Hiperuricemia
+Nos dados agrupados dos estudos FIDELIO-DKD e FIGARO-DKD, foi comunicada hiperuricemia em
+5,1% dos doentes tratados com finerenona comparativamente a 3,9% dos doentes tratados com placebo.
+Todos os acontecimentos foram não graves e não resultaram em descontinuação permanente nos doentes
+que receberam finerenona. Foi observado um aumento desde o início do estudo no ácido úrico sérico
+médio de 0,3 mg/dl no grupo da finerenona comparativamente ao placebo até ao mês 16, e que se foi
+atenuando ao longo do tempo. Não foi observada qualquer diferença entre o grupo da finerenona e o
+grupo do placebo no que se refere a acontecimentos comunicados de gota (3,0%).
+Diminuição da taxa de filtração glomerular (TFG)
+Nos dados agrupados dos estudos FIDELIO-DKD e FIGARO-DKD, foram comunicados
+acontecimentos de diminuição da TFG em 5,3% dos doentes tratados com finerenona comparativamente
+a 4,2% dos doentes tratados com placebo. Os acontecimentos de diminuição da TFG que resultaram em
+descontinuação permanente foram semelhantes nos doentes que receberam finerenona ou placebo
+(0,2%). A percentagem dehospitalização devido a diminuição da TFG foi semelhante nos doentes que
+receberam finerenona ou placebo (< 0,1 %). A maioria dos acontecimentos de diminuição da TFG foram
+ligeiros ou moderados e resolveram-se nos doentes tratados com finerenona. Os doentes a tomar
+finerenona tiveram uma diminuição inicial da TFGe (média de 2 ml/min/1,73 m2) que se foi atenuando
+ao longo do tempo comparativamente ao placebo. Esta diminuição parece ser reversível durante o
+tratamento contínuo.
+Diminuição de hemoglobina
+Nos dados agrupados dos estudo FIDELIO-DKD e FIGARO-DKD, a finerenona foi associada a uma
+diminuição absoluta corrigida para o placebo na média de hemoglobina de 0,15 g/dl e na média do
+hematócrito de 0,5% após 4 meses de tratamento. A comunicação de anemia foi comparável em doentes
+tratados com finerenona (6,5%) e doentes tratados com placebo (6,1%). A frequência de acontecimentos
+graves de anemia foi baixa em ambos os doentes tratados com finerenoma e doentes tratados com
+placebo (0,5%). As alterações na hemoglobina e hematócrito foram transitórias e chegaram a níveis
+comparáveis aos observados no grupo tratado com placebo após cerca de 24-32 meses.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+
+10
+
+4.9
+
+Sobredosagem
+
+É de esperar que a manifestação mais provável de sobredosagem seja a hipercaliemia. Caso se
+desenvolva hipercaliemia, deve ser iniciado um tratamento padrão.
+É improvável que a finerenona seja removida eficientemente através de hemodiálise, uma vez que a
+sua fração ligada às proteínas plasmáticas é de cerca de 90%.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: diuréticos, antagonistas da aldosterona, código ATC: C03DA05
+Mecanismo de ação
+A finerenona é um antagonista seletivo, não esteroide, dos recetores mineralocorticoides (RM) que é
+ativado pela aldosterona e cortisol e que regula a transcrição genética. A sua ligação aos RM resulta na
+formação de um complexo recetor-ligando específico que bloqueia o recrutamento de coativadores
+transcricionais implicados na expressão de mediadores pró-inflamatórios e pró-fibróticos.
+Efeitos farmacodinâmicos
+No FIDELIO-DKD e FIGARO-DKD, estudos de Fase III, multicêntricos, aleatorizados, em dupla
+ocultação, controlados por placebo em doentes adultos com DRC e DT2, a redução relativa corrigida
+para o placebo no rácio albumina/creatinina urinária (RACU) nos doentes aleatorizados para
+receberem finerenona foi de 31% e de 32%, respetivamente, no mês 4 e o RACU permaneceu
+reduzido durante os dois estudos.
+No ARTS-DN, um estudo de Fase IIb, multicêntrico, aleatorizado, em dupla ocultação, controlado por
+placebo em doentes adultos com DRC e DT2, a redução relativa corrigida para o placebo no RACU no
+dia 90 foi de 25% e de 38% nos doentes tratados com 10 mg ou 20 mg de finerenona uma vez por dia,
+respetivamente.
+Eletrofisiologia cardíaca
+Um estudo dedicado do intervalo QT em 57 participantes saudáveis demonstrou que a finerenona não
+tem qualquer efeito na repolarização cardíaca. Não existiu qualquer indicação de um efeito de
+prolongamento do QT/QTc exercido pela finerenona após doses únicas de 20 mg (terapêutica) ou de
+80 mg (supraterapêutica).
+Eficácia e segurança clínicas
+Os estudos FIDELIO-DKD e FIGARO-DKD investigaram o efeito da finerenona comparativamente
+ao placebo nos resultados renais e cardiovasculares (CV) em doentes adultos com DRC e DT2.
+Os doentes tinham de estar a receber cuidados de saúde normais, incluindo uma dose tolerada máxima
+aprovada para a indicação de um inibidor da enzima conversora da angiotensina (IECA) ou de um
+antagonista dos recetores da angiotensina (ARA). Os doentes com insuficiência cardíaca diagnosticada
+com fração de ejeção reduzida e classe II-IV da New York Heart Association foram excluídos devido à
+recomendação de classe 1A para terapêutica com ARM (antagonistas dos recetores dos
+mineralocorticoides).
+No estudo FIDELIO-DKD, os doentes eram elegíveis com base em evidências de albuminúria
+persistente (> 30 mg/g a 5 000 mg/g), uma TFGe entre 25 a 75 ml/min/1,73 m2 e potássio sérico
+≤ 4,8 mmol/l no rastreio.
+
+11
+
+O parâmetro de avaliação primário era um composto de tempo até à primeira ocorrência de
+insuficiência renal (definida como diálise crónica ou transplante renal, ou uma diminuição sustentada
+da TFGe para < 15 ml/min/1,73 m2 durante, pelo menos, 4 semanas), um declínio sustentado da TFGe
+de 40% ou mais comparativamente ao início do estudo durante, pelo menos, 4 semanas, ou morte
+renal. O parâmetro chave de avaliação secundário era um composto de tempo até à primeira ocorrência
+de morte CV, enfarte do miocárdio (EM) não fatal, AVC não fatal ou hospitalização devido a
+insuficiência cardíaca.
+Um total de 5 674 doentes foram aleatorizados para receber finerenona (N = 2 833) ou placebo
+(N = 2 841) e incluídos nas análises. A mediana de seguimento foi de 2,6 anos. A dose de finerenona
+ou placebo podia ser ajustada entre 10 mg e 20 mg uma vez por dia durante o curso do estudo, baseado
+principalmente na concentração do potássio sérico. No mês 24, dos participantes tratados com
+finerenona, 67% estavam a ser tratados com 20 mg uma vez por dia, 30% com 10 mg uma vez por dia
+e 3% estavam numa fase de interrupção do tratamento.
+Após o final do estudo, o estado vital foi obtido em 99,7% dos doentes. A população do estudo era
+composta por 63% de caucasianos, 25% de asiáticos e 5% de negros. A média etária na inclusão era de
+66 anos e 70% dos doentes eram do sexo masculino. No início do estudo, a TFGe média era de
+44,3 ml/min/1,73 m2, com 55% dos doentes com uma TFGe < 45 ml/min/1,73 m2, a mediana do
+RACU era de 852 mg/g e a média da HbA1c era de 7,7%, 46% dos doentes tinham antecedentes de
+doença CV aterosclerótica, 30% tinham antecedentes de doença arterial coronária, 8% tinham
+antecedentes de insuficiência cardíaca e a tensão arterial média era de 138/76 mmHg. No início do
+estudo, a duração média da DT2 era de 16,6 anos e foram comunicados antecedentes de retinopatia
+diabética e de neuropatia diabética em 47% e 26% dos doentes, respetivamente. No início do estudo,
+quase todos os doentes estavam a tomar um IECA (34%) ou ARA (66%) e 97% dos doentes
+utilizavam um ou mais medicamentos antidiabéticos [insulina (64%), biguanidas (44%), análogos do
+GLP1 (glucagon-like peptideo-1) (7%), inibidores do cotransportador-2-sódio-glucose (SGLT2)
+(5%)]. As outras medicações mais frequentes tomadas no início do estudo eram estatinas (74%) e
+bloqueadores dos canais de cálcio (63%).
+Foi mostrada uma diferença estatisticamente significativa a favor da finerenona para o parâmetro de
+avaliação primário composto e para o parâmetro de avaliação secundário principal composto (ver
+figura 1/tabela 4 a seguir). O efeito do tratamento nos parâmetros de avaliação primário e secundário
+principal foi, no geral, consistente entre os subgrupos, incluindo região, TFGe, RACU, tensão arterial
+sistólica (TAS) e HbA1c no início do estudo.
+No estudo FIGARO-DKD, os doentes eram elegíveis com base em evidências de albuminúria
+persistente com um RACU ≥ 30 mg/g a < 300 mg/g e uma TFGe entre 25 ml/min/1,73 m2 e
+90 ml/min/1,73 m2 ou um RACU ≥ 300 mg/g e uma TFGe ≥ 60 ml/min/1,73 m2 na seleção. Os
+doentes tinham de ter um potássio sérico ≤ 4,8 mmol/l na seleção.
+O parâmetro de avaliação primário era um composto de tempo até à primeira ocorrência de morte CV,
+enfarte do miocárdio (EM) não fatal, AVC não fatal ou hospitalização devido a insuficiência cardíaca.
+Os parâmetros de avaliação secundários incluíam um composto de tempo até insuficiência renal, um
+declínio sustentado da TFGe de 40% ou mais, comparativamente ao início do estudo durante pelo
+menos 4 semanas, ou morte renal.
+Um total de 7 352 doentes foram aleatorizados para receber finerenona (N = 3 686) ou placebo
+(N = 3 666) e incluídos nas análises. A mediana de seguimento foi de 3,4 anos. A dose de finerenona
+ou placebo podia ser ajustada entre 10 mg e 20 mg uma vez por dia durante o curso do estudo, baseado
+principalmente na concentração do potássio sérico. No mês 24, dos participantes tratados com
+finerenona, 82% estavam a ser tratados com 20 mg uma vez por dia, 15% com 10 mg uma vez por dia
+e 3% estavam numa fase de interrupção do tratamento. Após o final do estudo, o estado vital foi obtido
+em 99,8% dos doentes. A população do estudo era composta por 72% de caucasianos, 20% de
+asiáticos e 4% de negros. A média etária na inclusão era de 64 anos e 69% dos doentes eram do sexo
+masculino. No início do estudo, a TFGe média era de 67,8 ml/min/1,73 m2, com 62% dos doentes com
+uma TFGe ≥ 60 ml/min/1,73 m2, a mediana do RACU era de 308 mg/g e a média da HbA1c era de
+7,7%, 45% dos doentes tinham antecedentes de doença CV aterosclerótica, 8% tinham antecedentes de
+12
+
+insuficiência cardíaca e a tensão arterial média era de 136/77 mmHg. No início do estudo, a duração
+média da DT2 era de 14,5 anos e foram comunicados antecedentes de retinopatia diabética e de
+neuropatia diabética em 31% e 28% dos doentes, respetivamente. No início do estudo, quase todos os
+doentes estavam a tomar um IECA (43%) ou ARA (57%) e 98% dos doentes utilizavam um ou mais
+medicamentos antidiabéticos (insulina [54%], biguanidas [69%], análogos do GLP1 [7%], inibidores
+do SGLT2 [8%]). As outras medicações mais frequentes tomadas no início do estudo eram estatinas
+(71%).
+Foi demonstrada uma diferença estatisticamente significativa a favor da finerenona para o parâmetro
+de avaliação primário composto CV (ver Figura 2/Tabela 5 a seguir). O efeito do tratamento no
+parâmetro de avaliação primário foi consistente entre os subgrupos, incluindo região, TFGe, RACU,
+TAS e HbA1c no início do estudo.
+Foi observada uma taxa de incidência inferior do resultado composto secundário de insuficiência
+renal, declínio sustentado da TFGe de 40% ou mais ou morte renal no grupo da finerenona
+comparativamente ao placebo, no entanto, esta diferença não alcançou significado estatístico (ver
+Tabela 5 a seguir). O efeito do tratamento para o parâmetro de avaliação secundário composto de
+insuficiência renal foi consistente entre os grupos de TFGe no início de estudo, mas para os doentes
+com RACU < 300 mg/g a HR (Razão de risco) foi de 1,16 (IC 95%: 0,91-1,47) e para o subgrupo de
+doentes com RACU ≥ 300 mg/g a HR foi de 0,74 (IC 95%: 0,62-0,90).
+Os parâmetros adicionais de avaliação secundários pré-especificados do tempo até ao acontecimento
+estão incluídos na Tabela 5.
+
+13
+
+Tabela 4: Análise dos parâmetros de avaliação primário e secundário do tempo até ao acontecimento
+(e respetivos componentes individuais) no estudo de Fase III FIDELIO-DKD
+Kerendia* (N = 2 833)
+
+N (%)
+
+Aconte
+ciment
+os/
+100 d-a
+
+Placebo (N = 2 841)
+
+N (%)
+
+Acontec
+imentos
+/
+100 d-a
+
+Efeito do
+tratamento
+HR (IC de 95%)
+
+Parâmetro de avaliação primário renal composto e seus componentes
+Composto de insuficiência
+renal, declínio sustentado da
+TFGe ≥ 40% ou morte renal
+
+504 (17,8)
+
+7,59
+
+600 (21,1)
+
+9,08
+
+0,82 (0,73; 0,93)
+p = 0,0014
+
+Insuficiência renal
+
+208 (7,3)
+
+2,99
+
+235 (8,3)
+
+3,39
+
+0,87 (0,72; 1,05)
+
+Declínio sustentado da
+TFGe ≥ 40%
+
+479 (16,9)
+
+7,21
+
+577 (20,3)
+
+8,73
+
+0,81 (0,72; 0,92)
+
+2 (< 0,1)
+
+-
+
+2 (< 0,1)
+
+-
+
+-
+
+Morte renal
+
+Parâmetro de avaliação secundário principal CV composto e seus componentes
+Composto de morte CV, EM
+367 (13,0)
+5,11
+420 (14,8)
+5,92
+0,86 (0,75; 0,99)
+não fatal, AVC não fatal ou
+hospitalização devido a
+p = 0,0339
+insuficiência cardíaca
+Morte CV
+128 (4,5)
+1,69
+150 (5,3)
+1,99
+0,86 (0,68; 1,08)
+EM não fatal
+
+70 (2,5)
+
+0,94
+
+87 (3,1)
+
+1,17
+
+0,80 (0,58; 1,09)
+
+AVC não fatal
+
+90 (3,2)
+
+1,21
+
+87 (3,1)
+
+1,18
+
+1,03 (0,76; 1,38)
+
+Hospitalização devido a
+insuficiência cardíaca
+
+139 (4,9)
+
+1,89
+
+162 (5,7)
+
+2,21
+
+0,86 (0,68; 1,08)
+
+Parâmetros de avaliação secundários da eficácia
+Mortalidade por todas as
+219 (7,7)
+2,90
+244 (8,6)
+3,23
+causas
+Hospitalização por todas as
+causas
+Composto de insuficiência
+renal, declínio sustentado da
+TFGe ≥ 57% ou morte renal
+
+1.263 (44,6)
+
+252 (8,9)
+
+0,90 (0,75; 1,07) **
+
+22,56 1.321 (46,5)
+
+23,87
+
+0,95 (0,88; 1,02) **
+
+3,64
+
+4,74
+
+0,76 (0,65; 0,90) **
+
+*
+
+326 (11,5)
+
+Tratamento com 10 mg ou 20 mg uma vez por dia adicionalmente com as doses máximas toleradas
+aprovadas de IECA ou BRA.
+** p = não estatisticamente significativo após ajustes para multiplicidade
+IC: Intervalo de confiança
+HR: Hazard ratio - Razão de risco
+d-a: doentes-ano
+
+14
+
+Figura 1: Tempo até à primeira ocorrência de insuficiência renal, declínio sustentado da TFGe ≥ 40%
+ou morte renal em relação ao início do estudo FIDELIO-DKD
+0,50
+Tratamento
+1: Finerenona (N = 2 833)
+
+0,45
+
+2: Placebo (N = 2 841)
+0,40
+0,35
+0,30
+0,25
+0,20
+0,15
+0,10
+0,05
+0,00
+
+Número de participantes em risco
+
+1
+
+2 833
+
+2 705
+
+2 607
+
+2 397
+
+1 808
+
+1 274
+
+787
+
+441
+
+83
+
+2
+
+2 841
+
+2 724
+
+2 586
+
+2 379
+
+1 759
+
+1 248
+
+792
+
+453
+
+82
+
+15
+
+Tabela 5: Análise dos parâmetros de avaliação primário e secundário do tempo até ao acontecimento
+(e respetivos componentes individuais) no estudo de Fase III FIGARO-DKD
+Kerendia* (N = 3 686)
+
+N (%)
+
+Aconte
+ciment
+os/
+100 d-a
+
+Placebo (N = 3 666)
+
+N (%)
+
+Acontec
+imentos
+/
+100 d-a
+
+Efeito do
+tratamento
+HR (IC de 95%)
+
+Parâmetro de avaliação primário CV composto e seus componentes
+Composto de morte CV, EM
+458 (12,4)
+3,87
+519 (14,2)
+4,45
+0,87 (0,76; 0,98)
+não fatal, AVC não fatal ou
+hospitalização devido a
+p = 0,0264
+insuficiência cardíaca
+Morte CV
+194 (5,3)
+1,56
+214 (5,8)
+1,74
+0,90 (0,74; 1,09)
+EM não fatal
+
+103 (2,8)
+
+0,85
+
+102 (2,8)
+
+0,85
+
+0,99 (0,76; 1,31)
+
+EM não fatal
+
+108 (2,9)
+
+0,89
+
+111 (3,0)
+
+0,92
+
+0,97 (0,74; 1,26)
+
+Hospitalização devido a
+insuficiência cardíaca
+
+117 (3,2)
+
+0,96
+
+163 (4,4)
+
+1,36
+
+0,71 (0,56; 0,90)
+
+Parâmetro de avaliação secundário composto renal e seus componentes
+Composto de insuficiência
+renal, declínio sustentado da
+TFGe ≥ 40% ou morte renal
+Insuficiência renal
+Declínio sustentado da
+TFGe ≥ 40%
+Morte renal
+
+350 (9,5)
+
+3,15
+
+395 (10,8)
+
+3,58
+
+0,87 (0,76; 1,01)
+p = 0,0689 **
+
+46 (1,2)
+
+0,40
+
+62 (1,7)
+
+0,54
+
+0,72 (0,49;1,05)
+
+338 (9,2)
+
+3,04
+
+385 (10,5)
+
+3,49
+
+0,87 (0,75; > 1,00)
+
+0
+
+-
+
+2 (< 0,1)
+
+-
+
+-
+
+Parâmetros de avaliação secundários da eficácia
+Mortalidade por todas as
+333 (9,0)
+2,68
+370 (10,1)
+3,01
+causas
+Hospitalização por todas as
+causas
+Composto de insuficiência
+renal, declínio sustentado da
+TFGe ≥ 57% ou morte renal
+
+1 573 (42,7)
+
+108 (2,9)
+
+0,89 (0,77; 1,04) **
+
+16,91 1 605 (43,8)
+
+17,52
+
+0,97 (0,90; 1,04) **
+
+0,95
+
+1,23
+
+0,77 (0,60; 0,99) **
+
+*
+
+139 (3,8)
+
+Tratamento com 10 mg ou 20 mg uma vez por dia adicionalmente com as doses máximas toleradas
+aprovadas de IECA ou ARA.
+** p = não estatisticamente significativo após ajustes para multiplicidade
+IC: Intervalo de confiança
+HR: Hazard ratio - Razão de risco
+d-a: doentes-ano
+
+16
+
+Figura 2: Tempo até à primeira ocorrência de morte CV, EM não fatal, AVC não fatal ou
+hospitalização devido a insuficiência cardíaca no estudo FIGARO-DKD
+
+População pediátrica
+A Agência Europeia de Medicamentos diferiu a obrigação de apresentação dos resultados dos estudos
+com Kerendia em um ou mais subgrupos da população pediátrica no tratamento de doença renal
+crónica (ver secção 4.2 para informação sobre utilização pediátrica).
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+A finerenona é absorvida quase na sua totalidade após administração oral. A absorção é rápida com o
+aparecimento de concentrações plasmáticas máximas (Cmax) entre 0,5 horas e 1,25 horas após a toma
+do comprimido em jejum. A biodisponibilidade absoluta da finerenona é de 43,5% devido ao
+metabolismo de primeira passagem na parede intestinal e no fígado. A finerenona é um substrato
+in vitro do transportador de efluxo glicoproteína-P, a qual, no entanto, não é considerada relevante
+para a sua absorção in vivo devido à elevada permeabilidade da finerenona.
+Efeitos dos alimentos
+A ingestão de alimentos altamente calóricos e com elevado teor de gordura aumentou a AUC da
+finerenona em 21%, reduziu a Cmax em 19% e prolongou o tempo necessário para atingir a Cmax para
+2,5 horas. Uma vez que isto não é considerado clinicamente relevante, a finerenona pode ser tomada
+com ou sem alimentos.
+Distribuição
+O volume de distribuição no estado estacionário (Vₛₛ) da finerenona é de 52,6 l. A ligação da
+finerenona às proteínas plasmáticas humanas in vitro é de 91,7%, sendo a albumina sérica a principal
+proteína de ligação.
+
+17
+
+Biotransformação
+Aproximadamente 90% do metabolismo da finerenona é mediado pelo CYP3A4 e 10% pelo CYP2C8.
+Foram encontrados quatro metabolitos principais no plasma. Todos os metabolitos são
+farmacologicamente inativos.
+Eliminação
+A eliminação da finerenona do plasma é rápida com uma semivida de eliminação (t½) de cerca de 2 a
+3 horas. A depuração sanguínea sistémica da finerenona é de cerca de 25 l/h. Cerca de 80% da dose
+administrada foi excretada na urina e cerca de 20% da dose foi excretada nas fezes. A excreção foi
+quase exclusivamente sob a forma de metabolitos, com a excreção da finerenona inalterada a
+representar uma via menor (< 1% da dose na urina devido a filtração glomerular, < 0,2% nas fezes).
+Linearidade
+A farmacocinética da finerenona foi linear ao longo do intervalo de dose investigado, de 1,25 mg até
+80 mg administrados sob a forma de comprimidos de dose única.
+Populações especiais
+Idosos
+Dos 2 827 doentes que receberam finerenona no estudo FIDELIO-DKD, 58% tinham idade igual ou
+superior a 65 anos e 15% tinham idade igual ou superior a 75 anos. Dos 3 683 doentes que receberam
+finerenona no estudo FIGARO-DKD, 52% tinham idade igual ou superior a 65 anos e 13% tinham
+idade igual ou superior a 75 anos.
+Em ambos os estudos, não foram observadas diferenças globais na segurança ou na eficácia entre estes
+doentes e os doentes mais jovens.
+Num estudo de Fase I (N = 48), participantes saudáveis idosos (≥ 65 anos de idade) apresentaram
+concentrações plasmáticas de finerenona mais elevadas do que participantes saudáveis mais jovens
+(≤ 45 anos), com os valores médios da AUC e Cmax a serem 34% e 51% mais elevados nos idosos (ver
+secção 4.2). Análises de farmacocinética populacional não identificaram a idade como uma covariável
+para a AUC ou a Cmax da finerenona.
+Compromisso renal
+O compromisso renal ligeiro (depuração da creatinina [CLCR] 60 a < 90 ml/min) não afetou a AUC e a
+Cmax da finerenona.
+Comparativamente a doentes com função renal normal (CLCR ≥ 90 ml/min), o efeito do compromisso
+renal moderado (CLCR 30 ml/min a < 60 ml/min) ou grave (CLCR < 30 ml/min) na AUC da finerenona
+foi semelhante, com aumentos na ordem dos 34%-36%. O compromisso renal moderado ou grave não
+teve efeito na Cmax (ver secção 4.2).
+Devido à elevada ligação às proteínas plasmáticas, não é de esperar que a finerenona seja dialisável.
+Compromisso hepático
+Não se constatou qualquer alteração na exposição à finerenona em doentes cirróticos com
+compromisso hepático ligeiro (ver secção 4.2).
+Em doentes cirróticos com compromisso hepático moderado, as AUC da finerenona total e não ligada
+aumentaram 38% e 55%, respetivamente; não foi observada qualquer alteração na Cmax
+comparativamente a participantes saudáveis de controlo (ver secção 4.2).
+Não existem dados em doentes com compromisso hepático grave (ver secções 4.2 e 4.5).
+
+18
+
+Peso corporal
+Análises de farmacocinética populacional identificaram o peso corporal como uma covariável para a
+Cmax da finerenona. Calculou-se que a Cmax de um indivíduo com um peso corporal de 50 kg seja 38%
+a 51% mais elevada comparativamente a um indivíduo com 100 kg. Não se justifica a adaptação da
+dose com base no peso corporal (ver secção 4.2).
+Relações farmacocinética/farmacodinâmica
+A relação concentração-efeito ao longo do tempo para o RACU foi caracterizada por um modelo de
+efeito máximo indicando saturação com exposições elevadas. O tempo previsto pelo modelo para se
+alcançar o efeito farmacológico total no estado estacionário (99%) no RACU foi de 138 dias. A
+semivida farmacocinética foi de 2-3 horas e o estado estacionário da farmacocinética foi alcançado
+após 2 dias, indicando um efeito indireto e retardado nas respostas farmacodinâmicas.
+Estudos clínicos sem interações medicamentosas relevantes
+A utilização concomitante de gemfibrozil (600 mg duas vezes por dia), um inibidor forte do CYP2C8,
+aumentou as médias da AUC e Cmax da finerenona 1,1 vezes e 1,2 vezes, respetivamente. Esta
+constatação não é considerada clinicamente relevante.
+O pré- e cotratamento com o inibidor da bomba de protões omeprazol (40 mg uma vez por dia) não
+teve qualquer efeito na AUC média e na Cmax média da finerenona.
+A utilização concomitante do antiácido hidróxido de alumínio e hidróxido de magnésio (70 mEq) não
+teve qualquer efeito na AUC média da finerenona e reduziu a sua Cmax média em 19%. Esta
+constatação não é considerada clinicamente relevante.
+In vivo, um regime de doses múltiplas de 20 mg de finerenona administradas uma vez por dia durante
+10 dias não teve qualquer efeito relevante na AUC do substrato sonda do CYP3A4 midazolam. Por
+conseguinte, pode ser excluída uma inibição ou indução clinicamente relevante do CYP3A4 exercida
+pela finerenona.
+Uma dose única de 20 mg de finerenona também não teve qualquer efeito clinicamente relevante na
+AUC e Cmax do substrato sonda do CYP2C8 repaglinida. Assim, a finerenona não inibe o CYP2C8.
+Foi demonstrada a ausência de interação farmacocinética mútua entre a finerenona e o substrato do
+CYP2C9 varfarina e entre a finerenona e o substrato da gp-P digoxina.
+Doses múltiplas de 40 mg de finerenona uma vez por dia não tiveram um efeito clinicamente relevante
+na AUC e Cmax da rosuvastatina, um substrato da proteína de resistência ao cancro da mama (BCRP) e
+dos polipéptidos transportadores de aniões orgânicos (OATP).
+5.3
+
+Dados de segurança pré-clínica
+
+Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais
+de farmacologia de segurança, toxicidade de dose única, toxicidade de dose repetida, genotoxicidade,
+fototoxicidade, potencial carcinogénico e fertilidade masculina e feminina.
+Toxicidade de dose repetida
+Em cães, uma redução do peso e tamanho da próstata foi encontrada numa AUCnão ligada de cerca de 10
+a 60 vezes do que em humanos. A dose isenta de achados fornece uma margem de segurança de cerca
+de 2.
+
+19
+
+Potencial carcinogénico
+Em estudos de carcinogenicidade com 2 anos de duração, a finerenona não mostrou potencial
+carcinogénico em ratos macho e fêmea ou em ratinhos fêmea. Em ratinhos macho, a finerenona
+resultou num aumento de adenomas das células de Leydig com doses representando 26 vezes a
+AUCnão ligada em humanos. Uma dose representando 17 vezes a AUCnão ligada em humanos não causou
+quaisquer tumores. Com base na sensibilidade conhecida dos roedores para desenvolverem estes
+tumores e no mecanismo baseado na farmacologia com doses supraterapêuticas, bem como margens
+de segurança adequadas, o aumento dos tumores das células de Leydig em ratinhos machos não é
+clinicamente relevante.
+Toxicidade de desenvolvimento
+No estudo de toxicidade embriofetal em ratos, a finerenona resultou na redução do peso da placenta e
+dos sinais de toxicidade fetal, incluindo redução do peso fetal e ossificação retardada com a dose
+maternotóxica de 10 mg/kg/dia, que corresponde a uma AUCnão ligada de 19 vezes a dos humanos. Com
+30 mg/kg/dia, a incidência de variações viscerais e esqueléticas estava aumentada (ligeiro edema,
+cordão umbilical encurtado, fontanela ligeiramente aumentada) e um feto apresentava malformações
+complexas, incluindo uma malformação rara (arco aórtico duplo) com uma AUCnão ligada de cerca de
+25 vezes a dos humanos. As doses isentas de quaisquer achados (dose baixa nos ratos, dose alta nos
+coelhos) proporcionaram margens de segurança de 10 a 13 vezes para a AUCnão ligada. Por conseguinte,
+os achados em ratos não indicam uma preocupação crescente em termos de efeitos nefastos fetais.
+Quando os ratos foram expostos durante a gravidez e a lactação no estudo de toxicidade de
+desenvolvimento pré- e pós-natal, foi observado um aumento da mortalidade das crias, bem como
+outros efeitos adversos (peso inferior das crias, desdobramento retardado da orelha) com cerca de
+4 vezes a AUCnão ligada esperada nos humanos. Além disso, a prole demonstrou um ligeiro aumento da
+atividade locomotora, mas nenhuma outra alteração neurocomportamental, começando com cerca de
+4 vezes a AUCnão ligada esperada nos humanos. A dose isenta de quaisquer achados proporcionou uma
+margem de segurança de aproximadamente 2 para a AUCnão ligada. O aumento da atividade locomotora
+na prole poderá indicar um possível risco para o feto. Além disso, devido aos achados nas crias, não
+pode ser excluído qualquer risco para os recém-nascidos/lactentes.
+Fertilidade feminina
+A finerenona causou redução da fertilidade feminina (diminuição do número de corpos lúteos e dos
+locais de implantação), bem como sinais de toxicidade embrionária precoce (aumento das perdas
+pós-implantação e diminuição do número de fetos viáveis) com cerca de 21 vezes a AUCnão ligada
+humana. Além disso, constataram-se pesos ováricos reduzidos para cerca de 17 vezes a AUCnão ligada
+humana. Não foram observados efeitos na fertilidade feminina e no desenvolvimento embrionário
+inicial com cerca de 10 vezes a AUCnão ligada humana. Por conseguinte, os achados em ratos fêmea
+possuem pouca relevância clínica (ver secção 4.6).
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Núcleo do comprimido
+Celulose microcristalina
+Croscarmelose sódica
+Hipromelose 2910
+Lactose mono-hidratada
+Estearato de magnésio
+Laurilsulfato de sódio
+
+20
+
+Revestimento do comprimido
+Hipromelose 2910
+Dióxido de titânio
+Talco
+Kerendia 10 mg comprimidos revestidos por película
+Óxido de ferro vermelho (E 172)
+Kerendia 20 mg comprimidos revestidos por película
+Óxido de ferro amarelo (E 172)
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+3 anos
+6.4
+
+Precauções especiais de conservação
+
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Blisters de PVC/PVDC/alumínio transparentes, calendarizados com 14 comprimidos revestidos por
+película. Apresentações de 14, 28 ou 98 comprimidos revestidos por película.
+Blisters destacáveis para dose unitária de PVC/PVDC/alumínio transparentes com 10 x 1 comprimidos
+revestidos por película. Apresentação de 100 x 1 comprimidos revestidos por película.
+Frasco de PEAD branco opaco, com tampa com rosca de polipropileno branco opaco resistente à
+abertura por crianças com junta de vedação. Apresentação de 100 comprimidos revestidos por
+película.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Bayer AG
+51368 Leverkusen
+Alemanha
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Kerendia 10 mg comprimidos revestidos por película
+EU/1/21/1616/001-005
+Kerendia 20 mg comprimidos revestidos por película
+
+21
+
+EU/1/21/1616/006-010
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 16 de fevereiro de 2022
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+22
+
+ANEXO II
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO
+LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+23
+
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante responsável pela libertação do lote
+Bayer AG
+Kaiser-Wilhelm-Allee
+51368 Leverkusen
+Alemanha
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento sujeito a receita médica.
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do
+artigo 107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no
+portal europeu de medicamentos.
+O Titular da Autorização de Introdução no Mercado (AIM) deverá apresentar o primeiro RPS para
+este medicamento no prazo de 6 meses após a concessão da autorização.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+24
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+25
+
+A. ROTULAGEM
+
+26
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR para 10 mg (blisters e frasco)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Kerendia 10 mg comprimidos revestidos por película
+finerenona
+
+2.
+
+DESCRIÇÃO DA SUBSTÂNCIA ATIVA
+
+Cada comprimido contém 10 mg de finerenona.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo antes de utilizar.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+14 comprimidos revestidos por película
+28 comprimidos revestidos por película
+98 comprimidos revestidos por película
+100 x 1 comprimidos revestidos por película
+100 comprimidos revestidos por película
+
+5.
+
+MODO E VIA DE ADMINISTRAÇÃO
+
+Via oral
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+27
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Bayer AG
+51368 Leverkusen
+Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1616/001 - 14 comprimidos (blister)
+EU/1/21/1616/002 - 28 comprimidos (blister)
+EU/1/21/1616/003 - 98 comprimidos (blister)
+EU/1/21/1616/004 - 100 x 1 comprimidos (blister destacável para dose unitária)
+EU/1/21/1616/005 - 100 comprimidos (frasco)
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Kerendia 10 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+28
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO para 10 mg
+
+1.
+
+NOME DO MEDICAMENTO
+
+Kerendia 10 mg comprimidos revestidos por película
+finerenona
+
+2.
+
+DESCRIÇÃO DA SUBSTÂNCIA ATIVA
+
+Cada comprimido contém 10 mg de finerenona.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo antes de utilizar.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+100 comprimidos
+
+5.
+
+MODO E VIA DE ADMINISTRAÇÃO
+
+Via oral
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+29
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Bayer AG
+51368 Leverkusen
+Alemanha
+
+12.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1616/005 - 100 comprimidos (frasco)
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+30
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER para 10 mg
+
+1.
+
+NOME DO MEDICAMENTO
+
+Kerendia 10 mg comprimidos
+finerenona
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Bayer AG (logótipo da Bayer)
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+Seg Ter Qua Qui Sex Sab Dom
+
+31
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER DE DOSE UNITÁRIA para 10 mg
+
+1.
+
+NOME DO MEDICAMENTO
+
+Kerendia 10 mg comprimidos
+finerenona
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Bayer AG (logótipo da Bayer)
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+32
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR para 20 mg (blisters e frasco)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Kerendia 20 mg comprimidos revestidos por película
+finerenona
+
+2.
+
+DESCRIÇÃO DA SUBSTÂNCIA ATIVA
+
+Cada comprimido contém 20 mg de finerenona.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo antes de utilizar.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+14 comprimidos revestidos por película
+28 comprimidos revestidos por película
+98 comprimidos revestidos por película
+100 x 1 comprimidos revestidos por película
+100 comprimidos revestidos por película
+
+5.
+
+MODO E VIA DE ADMINISTRAÇÃO
+
+Via oral
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+33
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Bayer AG
+51368 Leverkusen
+Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1616/006 - 14 comprimidos (blister)
+EU/1/21/1616/007 - 28 comprimidos (blister)
+EU/1/21/1616/008 - 98 comprimidos (blister)
+EU/1/21/1616/009 - 100 x 1 comprimidos (blister destacável para dose unitária)
+EU/1/21/1616/010 - 100 comprimidos (frasco)
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Kerendia 20 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+34
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO para 20 mg
+
+1.
+
+NOME DO MEDICAMENTO
+
+Kerendia 20 mg comprimidos revestidos por película
+finerenona
+
+2.
+
+DESCRIÇÃO DA SUBSTÂNCIA ATIVA
+
+Cada comprimido contém 20 mg de finerenona.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Consultar o folheto informativo antes de utilizar.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+100 comprimidos
+
+5.
+
+MODO E VIA DE ADMINISTRAÇÃO
+
+Via oral
+Consultar o folheto informativo antes de utilizar.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+35
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Bayer AG
+51368 Leverkusen
+Alemanha
+
+12.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1616/010 - 100 comprimidos (frasco)
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+36
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER para 20 mg
+
+1.
+
+NOME DO MEDICAMENTO
+
+Kerendia 20 mg comprimidos
+finerenona
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Bayer AG (logótipo da Bayer)
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+Seg Ter Qua Qui Sex Sab Dom
+
+37
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER DE DOSE UNITÁRIA para 20 mg
+
+1.
+
+NOME DO MEDICAMENTO
+
+Kerendia 20 mg comprimidos
+finerenona
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Bayer AG (logótipo da Bayer)
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+38
+
+B. FOLHETO INFORMATIVO
+
+39
+
+Folheto informativo: Informação para o doente
+Kerendia 10 mg comprimidos revestidos por película
+Kerendia 20 mg comprimidos revestidos por película
+finerenona
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Kerendia e para que é utilizado
+O que precisa de saber antes de tomar Kerendia
+Como tomar Kerendia
+Efeitos indesejáveis possíveis
+Como conservar Kerendia
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Kerendia e para que é utilizado
+
+Kerendia contém a substância ativa finerenona. A finerenona atua bloqueando a ação de determinadas
+hormonas (mineralcorticoides) que podem danificar os seus rins e coração.
+Kerendia é utilizado para o tratamento de adultos com doença renal crónica (com presença anormal
+da proteína albumina na urina) associada a diabetes tipo 2.
+A doença renal crónica é uma condição a longo prazo. A capacidade dos seus rins removerem resíduos
+e fluidos do sangue continua a piorar.
+A diabetes tipo 2 é uma doença na qual o seu organismo não consegue manter os níveis de açúcar no
+sangue dentro dos valores normais. O seu organismo não produz quantidade suficiente da hormona
+insulina ou não consegue utilizar a insulina de forma adequada. Isto leva a um nível elevado de açúcar
+no seu sangue.
+
+2.
+
+O que precisa de saber antes de tomar Kerendia
+
+Não tome Kerendia
+se tem alergia à finerenona ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+se está a tomar medicamentos que pertencem ao grupo dos “inibidores fortes do CYP3A4”, por
+exemplo
+itraconazol ou cetoconazol (para tratar infeções fúngicas)
+ritonavir, nelfinavir ou cobicistate (para tratar infeções pelo VIH)
+claritromicina, telitromicina (para tratar infeções bacterianas)
+nefazodona (para tratar a depressão).
+se tem doença de Addison (quando o organismo não produz uma quantidade suficiente das
+hormonas “cortisol” e “aldosterona”).
+40
+
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes de tomar Kerendia se tiver
+lhe sido dito, alguma vez, que tinha um nível elevado de potássio no seu sangue.
+perda grave da função renal ou insuficiência renal.
+problemas de fígado moderados ou graves.
+insuficiência cardíaca ligeira, moderada ou grave. Isto é quando o seu coração não bombeia o
+sangue tão bem como deveria. Não bombeia sangue suficiente para fora do coração num
+batimento.
+Análises ao sangue
+Estas análises verificam o seu nível de potássio e como os seus rins estão a funcionar.
+Utilizando os resultados das suas análises ao sangue, o seu médico decide se pode começar a tomar
+Kerendia.
+Após 4 semanas a tomar Kerendia, fará mais análises ao sangue.
+O seu médico pode pedir análises ao sangue noutras ocasiões, por exemplo, enquanto está a tomar
+determinados medicamentos.
+Crianças e adolescentes
+Não dê este medicamento a crianças e adolescentes com menos de 18 anos de idade porque
+desconhece-se se é seguro e efetivo neste grupo etário.
+Outros medicamentos e Kerendia
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos. O seu médico dir-lhe-á que medicamentos pode tomar. O seu médico
+poderá necessitar de análises ao sangue para confirmar.
+Não pode tomar medicamentos que pertencem ao grupo dos “inibidores fortes do CYP3A4” enquanto
+estiver a tomar Kerendia (ver secção 2 “Não tome Kerendia”).
+Fale com o seu médico ou farmacêutico se estiver a tomar outros medicamentos enquanto está a
+tomar Kerendia, especialmente
+se estiver a tomar, por exemplo,
+amilorida ou triamtereno (para remover o excesso de água do seu organismo através da
+urina)
+eplerenona, esaxerenona, espironolactona ou canrenona (medicamentos semelhantes à
+finerenona)
+trimetoprim ou uma associação de trimetoprim e sulfametoxazol (para tratar infeções
+bacterianas)
+suplementos de potássio, incluindo alguns substitutos do sal
+ou se estiver a tomar outros medicamentos que podem aumentar o nível de potássio no sangue.
+Estes medicamentos poderão não ser seguros para si.
+-
+
+se estiver a tomar, por exemplo,
+eritromicina (para tratar infeções bacterianas)
+verapamilo (para tratar a tensão arterial elevada, dor no peito e batimento cardíaco
+acelerado)
+fluvoxamina (para tratar a depressão e a “perturbação obsessivo-compulsiva”)
+rifampicina (para tratar infeções bacterianas)
+carbamazepina, fenitoína ou fenobarbital (para tratar a epilepsia)
+hipericão (Hypericum perforatum) (um medicamento à base de plantas para tratar a
+depressão)
+efavirenz (para tratar infeções pelo VIH)
+ou se estiver a tomar outros medicamentos que pertencem ao mesmo grupo de medicamentos tal
+como os listados anteriormente (determinados “inibidores” e “indutores do CYP3A4”). Poderá
+ter mais efeitos indesejáveis ou Kerendia poderá não atuar como seria de esperar.
+
+41
+
+-
+
+se estiver a tomar outros medicamentos que baixem a tensão arterial. O seu médico
+pode ter necessidade de ver a sua tensão arterial.
+
+Kerendia com alimentos e bebidas
+Não coma toranja ou beba sumo de toranja enquanto estiver a tomar Kerendia.
+Se o fizer, poderá ficar com demasiada finerenona no seu sangue. Poderá ter mais efeitos
+indesejáveis (os efeitos indesejáveis possíveis encontram-se listados na secção 4).
+Gravidez e amamentação
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+ou farmacêutico antes de tomar este medicamento.
+Gravidez
+Não deve tomar este medicamento durante a gravidez, a menos que o seu médico diga que é
+claramente necessário. Poderá haver um risco para o seu bebé por nascer. O seu médico vai discutir
+este assunto consigo.
+Deve utilizar métodos contracetivos eficazes, se puder engravidar. O seu médico vai explicar-lhe
+que tipos de método contracetivo pode utilizar.
+Amamentação
+Não deve amamentar enquanto estiver a tomar este medicamento. Poderá ser prejudicial para o seu
+bebé.
+Condução de veículos e utilização de máquinas
+Os efeitos da Kerendia sobre a capacidade de conduzir e utilizar máquinas são nulos.
+Kerendia contém lactose
+Se foi informado pelo seu médico que tem intolerância a alguns açúcares, contacte-o antes de tomar
+este medicamento.
+Kerendia contém sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido, ou seja, é
+praticamente “isento de sódio”.
+
+3.
+
+Como tomar Kerendia
+
+Tome este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale com o seu
+médico ou farmacêutico se tiver dúvidas.
+Que quantidade tem de tomar
+A dose diária máxima e recomendada deste medicamento é 1 comprimido de 20mg.
+-
+
+-
+
+Tome sempre 1 comprimido uma vez por dia. Cada comprimido contém 10 mg ou 20 mg de
+finerenona.
+A dose inicial depende de como os seus rins funcionam. Para verificar isto o seu médico irá
+pedir-lhe análises ao sangue. Os resultados ajudam o seu médico a decidir, se pode iniciar com
+1 comprimido de 20 mg ou de 10 mg uma vez por dia.
+Após 4 semanas, o seu médico pedir-lhe-á análises ao sangue novamente. O seu médico irá
+decidir qual a dose correta para si. Que poderá ser 1 comprimido de 20 mg ou de 10 mg uma
+vez por dia.
+O seu médico também poderá dizer-lhe para interromper ou parar de tomar Kerendia.
+
+O seu médico poderá sempre decidir alterar o seu tratamento após efetuar análises ao seu sangue.
+Para mais informações, ver “Análises ao sangue” na secção 2.
+
+42
+
+Como tomar este medicamento
+Kerendia é tomada pela boca. Tome Kerendia à mesma hora todos os dias. Assim é mais fácil lembrarse.
+Engula o comprimido inteiro.
+Pode tomá-lo com um copo de água.
+Pode tomá-lo com ou sem alimentos.
+Não o tome com sumo de toranja ou com toranja. Para mais informações, ver “Kerendia com
+alimentos e bebidas” na secção 2.
+Se não conseguir engolir o comprimido inteiro, pode esmagá-lo.
+Misture-o com água ou alimentos moles, tais como puré de maçã.
+Tome-o imediatamente.
+Se tomar mais Kerendia do que deveria
+Fale com o seu médico ou farmacêutico se pensa que tomou demasiado deste medicamento.
+Caso se tenha esquecido de tomar Kerendia
+Caso se tenha esquecido de tomar o seu comprimido nesse dia à hora habitual
+►tome o comprimido assim que se lembrar nesse mesmo dia.
+Caso se tenha esquecido de tomar durante um dia
+►tome o próximo comprimido no dia seguinte, à hora habitual.
+Não tome 2 comprimidos para compensar um comprimido que se esqueceu de tomar.
+Se parar de tomar Kerendia
+Pare de tomar Kerendia apenas se o seu médico lhe disse para o fazer.
+O seu médico poderá decidir nesse sentido após efetuar análises ao seu sangue.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Efeitos indesejáveis que o seu médico poderá detetar nos resultados das suas análises ao sangue
+muito frequentes (podem afetar mais de 1 em 10 pessoas)
+nível de potássio elevado (hipercaliemia)
+Os possíveis sinais de nível elevado de potássio no sangue podem incluir fraqueza ou cansaço,
+sentir-se indisposto (náuseas), dormência nas mãos e lábios, cãibras musculares, diminuição da
+pulsação.
+frequentes (podem afetar até 1 em 10 pessoas)
+nível de sódio baixo (hiponatremia)
+Os possíveis sinais de nível de sódio baixo no sangue podem incluir sentir-se indisposto
+(náuseas), cansaço, dores de cabeça, confusão, fraqueza muscular, espasmos ou cãibras.
+diminuição da capacidade de os rins filtrarem o sangue (diminuição da taxa de filtração
+glomerular).
+nível elevado de ácido úrico (hiperuricemia)
+pouco frequentes (podem afetar até 1 em 100 pessoas)
+diminuição de uma proteína (hemoglobina) que é encontrada nos seus glóbulos vermelhos.
+
+43
+
+Outros efeitos indesejáveis
+frequentes (podem afetar até 1 em 10 pessoas)
+tensão arterial baixa (hipotensão)
+Os sinais possíveis de tensão arterial baixa podem incluir tonturas, sensação de desmaio e
+desmaio.
+comichão (prurido)
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+5.
+
+Como conservar Kerendia
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso no blister, no rótulo do frasco e na
+embalagem exterior após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Kerendia
+A substância ativa é a finerenona.
+Cada comprimido de Kerendia 10 mg comprimidos revestidos por película contém
+10 mg de finerenona.
+Cada comprimido de Kerendia 20 mg comprimidos revestidos por película contém
+20 mg de finerenona.
+Os outros componentes são:
+Núcleo do comprimido: celulose microcristalina, croscarmelose sódica,
+hipromelose 2910, lactose mono-hidratada, estearato de magnésio, laurilsulfato de sódio.
+Ver “Kerendia contém lactose” e “Kerendia contém sódio” na secção 2, para mais
+informação.
+Revestimento do comprimido: hipromelose 2910, dióxido de titânio, talco, óxido de ferro
+vermelho (E 172, apenas em Kerendia 10 mg comprimidos revestidos por película),
+óxido de ferro amarelo (E 172, apenas em Kerendia 20 mg comprimidos revestidos por
+película).
+Qual o aspeto de Kerendia e conteúdo da embalagem
+Kerendia 10 mg comprimidos revestidos por película (comprimidos) são oblongos, ovais, cor de
+rosa com 10 mm de comprimento e 5 mm de largura, com “10” marcado numa face e “FI” na outra
+face.
+Kerendia 20 mg comprimidos revestidos por película (comprimidos) são oblongos, ovais, amarelos
+com 10 mm de comprimento e 5 mm de largura, com “20” marcado numa face e “FI” na outra face.
+Kerendia está disponível em embalagens contendo
+14, 28 ou 98 comprimidos revestidos por película.
+Cada blister transparente calendarizado contém 14 comprimidos revestidos por película.
+44
+
+-
+
+100 x 1 comprimidos revestidos por película.
+Cada blister transparente destacável para dose unitária contém 10 comprimidos revestidos por
+película.
+
+-
+
+100 comprimidos revestidos por película num frasco de plástico.
+
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado
+Bayer AG
+51368 Leverkusen
+Alemanha
+Fabricante
+Bayer AG
+Kaiser-Wilhelm-Allee
+51368 Leverkusen
+Alemanha
+
+45
+
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado.
+België/Belgique/Belgien
+Bayer SA-NV
+Tél/Tel: +32-(0)2-535 63 11
+
+Lietuva
+UAB Bayer
+Tel. +37 05 23 36 868
+
+България
+Байер България ЕООД
+Tел.: +359 02 4247280
+
+Luxembourg/Luxemburg
+Bayer SA-NV
+Tél/Tel: +32-(0)2-535 63 11
+
+Česká republika
+Bayer s.r.o.
+Tel: +420 266 101 111
+
+Magyarország
+Bayer Hungária KFT
+Tel: +36 14 87-41 00
+
+Danmark
+Bayer A/S
+Tlf: +45 45 23 50 00
+
+Malta
+Alfred Gera and Sons Ltd.
+Tel: +35 621 44 62 05
+
+Deutschland
+Bayer Vital GmbH
+Tel: +49 (0)214-30 513 48
+
+Nederland
+Bayer B.V.
+Tel: +31-(0)23-799 1000
+
+Eesti
+Bayer OÜ
+Tel: +372 655 8565
+
+Norge
+Bayer AS
+Tlf: +47 23 13 05 00
+
+Ελλάδα
+Bayer Ελλάς ΑΒΕΕ
+Τηλ: +30-210-61 87 500
+
+Österreich
+Bayer Austria Ges.m.b.H.
+Tel: +43-(0)1-711 46-0
+
+España
+Bayer Hispania S.L.
+Tel: +34-93-495 65 00
+
+Polska
+Bayer Sp. z o.o.
+Tel: +48 22 572 35 00
+
+France
+Bayer HealthCare
+Tél (N° vert): +33-(0)800 87 54 54
+
+Portugal
+Bayer Portugal, Lda.
+Tel: +351 21 416 42 00
+
+Hrvatska
+Bayer d.o.o.
+Tel: +385-(0)1-6599 900
+
+România
+SC Bayer SRL
+Tel: +40 21 529 59 00
+
+Ireland
+Bayer Limited
+Tel: +353 1 216 3300
+
+Slovenija
+Bayer d. o. o.
+Tel: +386 (0)1 58 14 400
+
+Ísland
+Icepharma hf.
+Sími: +354 540 8000
+
+Slovenská republika
+Bayer spol. s r.o.
+Tel. +421 2 59 21 31 11
+
+Italia
+Bayer S.p.A.
+Tel: +39 02 397 8 1
+
+Suomi/Finland
+Bayer Oy
+Puh/Tel: +358- 20 785 21
+
+Κύπρος
+NOVAGEM Limited
+Tηλ: +357 22 48 38 58
+
+Sverige
+Bayer AB
+Tel: +46 (0) 8 580 223 00
+
+Latvija
+SIA Bayer
+Tel: +371 67 84 55 63
+
+United Kingdom (Irlanda do Norte)
+Bayer AG
+Tel: +44-(0)118 206 3000
+
+46
+
+Este folheto foi revisto pela última vez em
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+47
+
+

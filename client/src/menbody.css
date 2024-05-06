@@ -162,8 +162,8 @@ html {
   --color-body-model-subtle-highlight: var(--color-blue-200);
 }
 .sc-body-model {
-  align-items: flex-start;
-  align-items: var(--body-model-align-items, flex-start);
+  align-items: center;
+  align-items: var(--body-model-align-items, center);
   display: flex;
   display: var(--body-model-display, flex);
   flex-direction: column-reverse;
@@ -187,8 +187,8 @@ html {
   margin: var(--body-model-dropdown-margin, var(--space-16) 0 0 0);
   position: relative;
   position: var(--body-model-dropdown-position, relative);
-  width: 25%;
-  width: var(--body-model-dropdown-width, 25%);
+  width: 100%;
+  width: var(--body-model-dropdown-width, 100%);
 }
 @media (min-width: 768px) {
   .sc-body-model__dropdown {
@@ -543,6 +543,11 @@ html {
 }
 @media (min-width: 768px) {
   .evidence-search-body-widget__body-model {
-    flex: 0 0 10.5rem;
+    flex: 0 0 30%;
   }
+}
+
+.ui-button {
+  width: 100px;
+  margin-left: 8%;
 }

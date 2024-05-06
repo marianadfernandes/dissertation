@@ -9,7 +9,8 @@ import element from "../img/element.png";
 import icon from "../img/icon-serv-1.png";
 import shape from "../img/service-shape-1.png";
 import lupa from '../img/lupa.png';
-import utente from '../img/icon-utente.png'
+import utente from '../img/icon-utente.png';
+import medicamento from '../img/medicamento.png';
 
 import { useNavigate } from "react-router-dom";
 
@@ -19,6 +20,7 @@ function NewHomePage() {
     const navTabela = async () => { navigate("/tabela"); window.scrollTo(0, 0);}
     const navCalculo = async () => { navigate("/avaliacao"); window.scrollTo(0, 0);}
     const navUtente = async () => { navigate("/utente"); window.scrollTo(0, 0);}
+    const navMedicamento = async () => { navigate("/medicamentos"); window.scrollTo(0, 0);}
 
     return (
         <div>
@@ -78,8 +80,39 @@ function NewHomePage() {
                                         de saúde
                                     </p>
                                 </div>
+                            {/* service 4 */}
+                            <div class="service">
+                                <div class="service-img">
+                                    <img src={medicamento} />
+                                </div>
+                                <a onClick={navMedicamento}><h3>Pesquisa de Medicação</h3></a>
+                                <p>
+                                    Registo de medicação através do site oficial
+                                    da Infarmed.
+                                </p>
                             </div>
-                        
+                            {/* service 5 */}
+                            <div class="service">
+                                <div class="service-img">
+                                {/* <img src="img/servs/5.png" /> */}
+                                </div>
+                                {/* <h3>Emergency care</h3>
+                                <p>
+                                You can get 24/7 urgent care for yourself or your children and
+                                your lovely family
+                                </p> */}
+                            </div>
+                            {/* service 6 */}
+                            <div class="service">
+                                <div class="service-img">
+                                    {/* <img src="img/servs/6.png" /> */}
+                                </div>
+                                {/* <h3>Tracking</h3>
+                                <p>
+                                Track and save your medical history and health data
+                                </p> */}
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <img src={element} className="services-shape-1" />

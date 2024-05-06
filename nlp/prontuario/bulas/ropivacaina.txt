@@ -1,0 +1,838 @@
+APROVADO EM
+07-07-2018
+INFARMED
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1. NOME DO MEDICAMENTO
+Ropivacaína B. Braun 10 mg/ml solução injetável.
+
+2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+1 ml solução injetável contém 10 mg de cloridrato de ropivacaína (sob a forma de
+cloridrato de ropivacaína mono-hidratada).
+1 ampola de 10 ml de solução injetável contém 100 mg de cloridrato de ropivacaína sob
+a forma de cloridrato de ropivacaina mono-hidratado.
+1 ampola de 20 ml de solução injetável contém 200 mg de cloridrato de ropivacaína sob a
+forma de cloridrato de ropivacaina mono-hidratado.
+
+Excipientes com efeito conhecido:
+Ropivacaína B. Braun 10 mg/ml solução injetável contém 2,7 mg/ml de sódio.
+Lista completa de excipientes, ver secção 6.1.
+
+3. FORMA FARMACÊUTICA
+Solução injetável.
+Límpida, solução incolor com um pH de 4 – 6 e uma osmolalidade de 270 – 320
+mOsmol/kg.
+
+4. INFORMAÇÕES CLÍNICAS
+4.1 Indicações terapêuticas
+O medicamento é indicado em adultos e crianças com idade superior a 12 anos, para:
+Anestesia cirúrgica:
+- Bloqueio epidural para cirurgia, incluindo cesariana
+- Bloqueio de nervos ”major”
+- Bloqueios de campo
+4.2 Posologia e modo de administração
+
+APROVADO EM
+07-07-2018
+INFARMED
+O cloridrato de ropivacaína deve apenas ser utilizado mediante supervisão clínica de
+profissionais experientes em anestesia regional.
+Em geral, a anestesia cirúrgica (por exemplo por administração epidural) requer a
+utilização de concentrações e doses mais elevadas. Recomenda-se uma concentração de
+10 mg/ml de cloridrato de ropivacaína para a anestesia epidural, nos casos em que um
+bloqueio motor completo seja essencial para a cirurgia,. Para analgesia (por exemplo
+administração epidural no controlo da dor aguda), são recomendadas menores
+concentrações e doses.
+Posologia
+Adultos e adolescentes com idade superior a 12 anos
+A tabela seguinte é um guia para a dosagem para os bloqueios utilizados com maior
+frequência no adulto médio. Deve consultar-se a literatura padrão para fatores que afetam
+técnicas de bloqueio específicas e para requisitos individuais do doente. Deve ser
+utilizada a menor dose necessária para produzir um bloqueio efetivo. A experiência do
+clínico e o conhecimento do estado físico do doente são importantes na decisão da
+posologia.
+Concentração
+de cloridrato
+de
+ropivacaína
+mg/ml
+ANALGESIA CIRURGICA
+Administração Epidural Lombar
+Cirurgia
+7,5
+10,0
+Cesariana
+7,5
+Administração Epidural Torácica
+Para estabelecer um
+bloqueio para alívio
+da dor pós-operatória 7,5
+
+Volume
+
+Dose
+Início
+de cloridrato
+de ação
+de ropivacaína
+
+ml
+
+mg
+
+minutos horas
+
+15-25
+15-20
+15-20
+
+113-188
+150-200
+113-1501)
+
+10-20
+10-20
+10-20
+
+3-5
+4-6
+3-5
+
+5-15
+(dependen
+te do nível
+da
+injeção)
+
+38-113
+
+10-20
+
+n/a2)
+
+Duração
+
+Bloqueio do Nervo “Major” *
+Bloqueio do plexo
+7,5
+30-40
+225-3003)
+10-25
+6-10
+braquial
+Bloqueio de Campo
+(por exemplo,
+7,5
+1-30
+7,5-225
+1-15
+2-6
+bloqueio do nervo
+“minor” e infiltração)
+(1) Dose inicial de aproximadamente 100 mg (13 ml - 14 ml) de cloridrato de ropivacaína
+deve ser administrada durante 3–5 minutos. Duas doses extra, no total adicional de 50 mg,
+podem ser administradas, se necessário.
+
+APROVADO EM
+07-07-2018
+INFARMED
+(2) n/a = não aplicável
+(3) Apenas é possível fazer uma recomendação posológica para o bloqueio do plexo
+braquial. Para outros bloqueios do nervos “major”, são necessárias doses menores.
+*
+A dose para o bloqueio do nervo “major” deve ser ajustada de acordo com o local
+de administração e o estado do doente. Os bloqueios do plexo braquial interescaleno e
+supraclavicular podem estar associados a maior frequência de reações adversas graves,
+independentemente do anestésico local utilizado, ver secção 4.4)
+
+No bloqueio epidural para cirurgia, foram utilizadas doses únicas até 250 mg de
+cloridrato de ropivacaína e foram bem toleradas.
+A utilização de concentrações acima de 7,5 mg/ml de cloridrato de ropivacaína não foram
+documentadas para cesariana.
+Após a utilização de 40 ml de cloridrato de ropivacaína 7,5 mg/ml para o bloqueio do
+plexo braquial, a máxima concentração plasmática de ropivacaína, nalguns doentes,
+atingiu o nível de moderada toxicidade do SNC. Doses acima de 40 ml de Cloridrato de
+ropivacaína 7,5 mg/ml (300 mg de ropivacaína) não são, por este motivo, recomendadas.
+Quando se utilizam bloqueios mais prolongados, tanto por perfusão contínua com através
+de administrações repetidas de bólus, deve ser considerado o risco de atingir uma
+concentração plasmática tóxica ou de indução da lesão neural local. Doses cumulativas
+até 675 mg de cloridrato de ropivacaína, administradas durante 24 horas, na cirurgia e na
+analgesia pós-operatória foram bem toleradas em adultos, bem como perfusões epidurais
+contínuas pós-operatórias, nas velocidades de perfusão até 28 mg/hora de cloridrato de
+ropivacaína durante 72 horas. Num número limitado de doentes, doses superiores até 800
+mg/dia têm sido administradas com relativamente poucas reações adversas.
+A duração máxima do bloqueio epidural é de 3 dias.
+Combinação com opioides:
+Nos estudos clínicos foi administrada uma perfusão epidural de cloridrato de ropivacaína
+de 2 mg/ml misturada com fentanil 1-4 µg/ml para o controlo da dor pós-operatória de até
+72 horas. A combinação de ropivacaína e fentanil administrada melhorou o alívio da dor
+mas causou efeitos indesejáveis opioides. A combinação de ropivacaína e de fentanil foi
+investigada apenas para cloridrato de ropivacaína 2 mg/ml.
+População pediátrica
+A utilização de ropivacaína 7,5 mg/ml e 10 mg/ml poderá estar associada a
+acontecimentos tóxicos sistémicos e centrais. As dosagens mais baixas (2 mg/ml,
+5 mg/ml) são mais apropriadas para administração nesta população.
+Modo de administração
+Para uso perineural e epidural.
+É recomendada a aspiração antes e depois da injeção, para prevenir a injeção
+intravascular.
+
+APROVADO EM
+07-07-2018
+INFARMED
+Quando se pretende administrar uma dose elevada, é recomendada uma dose teste de
+lidocaína com adrenalina (epinefrina)). Uma injeção intravascular inadvertida pode ser
+reconhecida por um aumento temporário da frequência cardíaca e uma injeção intratecal
+acidental por de sinais de bloqueio espinal.
+Cloridrato de ropivacaína deve ser injetado lentamente ou em doses incrementais, a uma
+taxa de 25-50 mg/min, enquanto se monitoriza rigorosamente as funções vitais do doente
+e se mantém o contacto verbal.
+Se ocorrerem sinais tóxicos, a injeção deve ser imediatamente interrompida.
+
+4.3 Contraindicações
+- Hipersensibilidade à ropivacaína, a outros anestésicos locais do tipo amida ou a
+qualquer dos excipientes mencionados na secção 6.1.
+- As contraindicações gerais relacionadas com anestesia regional, incluindo anestesia
+neuraxial, devem ser tidas em consideração
+- Anestesia regional intravenosa (bloqueio de Bier)
+- Anestesia paracervical obstétrica
+- Hipovolemia
+4.4 Advertências e precauções especiais de utilização
+Os procedimentos anestésicos regionais devem ser sempre ser realizados em locais
+adequadamente equipados, munidos de pessoal especializado. Devem encontrar-se
+imediatamente disponíveis equipamentos e medicamentos necessários à monitorização e
+ressuscitação de emergência.
+Doentes a receber bloqueios “major” devem encontrar-se numa condição ótima e devem
+possuir uma via intravenosa inserida antes do se proceder ao bloqueio.
+O clínico responsável deve tomar as precauções necessárias para evitar uma injeção
+intravascular (ver secção 4.2) e deve estar adequadamente formado e familiarizado com o
+diagnóstico e tratamento dos efeitos secundários, toxicidade sistémica e outras
+complicações (ver secções 4.8 e 4.9) tais como injeção subaracnóidea inadvertida que
+pode produzir um bloqueio espinal elevado com apneia e hipotensão. Ocorreram
+convulsões mais frequentemente após bloqueio do plexo braquial e bloqueio epidural.
+Isto é provável que seja o resultado de uma injeção intravascular acidental ou de uma
+rápida absorção do local de injeção.
+Devem ser tomadas precauções para evitar a injeção em áreas inflamadas.
+Risco Cardiovascular
+Doentes tratados com medicamentos antiarrítmicos da classe III (por ex. amiodarona)
+devem ser submetidos a monitorização rigorosa e deve ser considerada a monitorização
+por ECG, dado que os efeitos cardíacos podem ser aditivos.
+
+APROVADO EM
+07-07-2018
+INFARMED
+Raramente foram reportados casos de paragem cardíaca durante o uso de cloridrato de
+ropivacaína na anestesia epidural ou bloqueio nervoso periférico, especialmente após
+administração intravascular acidental em doentes idosos e em doentes com patologia
+cardíaca concomitante. Nalguns casos, foi difícil a ressuscitação. Se ocorrer paragem
+cardíaca, podem ser necessários esforços mais prolongados para a manobra de
+ressuscitação, de forma a aumentar a possibilidade eficácia deste processo.
+Bloqueio dos nervos da região da cabeça e do pescoço
+Certos procedimentos anestésicos locais, tais como injeções nas regiões da cabeça e do
+pescoço, podem ser associados a uma maior frequência de reações adversas graves,
+independentemente do anestésico local utilizado.
+Bloqueios dos nervos periféricos “major”
+O bloqueio dos nervos periféricos “major” pode implicar a administração de elevados
+volumes de anestésico local em áreas altamente vascularizadas, frequentemente próximas
+de vasos sanguíneos de elevado calibre, onde existe um risco acrescido de injeção
+intravascular e/ou absorção sistémica rápida, o que pode originar elevadas concentrações
+plasmáticas.
+Hipovolemia
+Doentes com hipovolemia devido a qualquer etiologia podem desenvolver hipotensão
+repentina e grave, durante a anestesia epidural, independentemente do anestésico local
+utilizado.
+Doentes em mau estado geral
+Doentes em mau estado geral, devido a idade avançada ou outros fatores
+comprometedores, tais como, bloqueio parcial ou total da condução cardíaca, doença
+hepática avançada ou insuficiência renal grave, exigem precaução especial, apesar dos
+anestésicos regionais serem frequentemente indicados nestes doentes.
+Doentes com compromisso hepático e renal
+A ropivacaína é metabolizada no fígado e deve, por isso, ser utilizada com precaução nos
+doentes com doença hepática grave; doses repetidas podem ter que ser reduzidas devido
+ao atraso na eliminação. Normalmente não é necessário modificar a posologia em doentes
+com insuficiência renal quando administrados em dose única ou em tratamentos de curta
+duração.
+Acidose e redução da concentração proteica plasmática, efeitos frequentemente
+observados nos doentes com insuficiência renal crónica, podem aumentar o risco de
+toxicidade sistémica.
+Porfiria aguda
+A ropivacaína é possivelmente porfirinogénica e deve apenas ser prescrita a doentes com
+porfiria aguda em situações em que não está disponível alternativa mais segura. Devem
+ser tomadas precauções apropriadas no caso de doentes vulneráveis, de acordo com a
+literatura de referência e/ou por consulta de peritos da área na patologia.
+
+APROVADO EM
+07-07-2018
+INFARMED
+Condrólise
+Houve comunicações pós-comercialização de condrólise em doentes a receberem
+perfusão contínua intra-articular pós-operatória de anestésicos locais. A maioria dos
+casos comunicados de condrólise envolveram a articulação do ombro. A perfusão
+contínua intra-articular não é uma indicação aprovada para Ropivacaína B. Braun. A
+perfusão contínua intra-articular com Ropivacaína B. Braun deve ser evitada, uma vez
+que a segurança e eficácia não foram estabelecidas.
+Administração prolongada
+A administração prolongada de ropivacaína deve ser evitada em doentes
+concomitantemente tratados com potentes inibidores da CYP1A2, tais como fluvoxamina
+e enoxacina (ver secção 4.5).
+Advertências e precauções especiais relacionadas com os excipientes
+Este medicamento contém 2,7 mg de sódio por ml, equivalente a 0,14% da ingestão
+diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+População pediátrica
+A segurança e eficácia de ropivacaína 10 mg/ml não foi estabelecida para crianças com
+menos de 12 anos.
+Os recém-nascidos podem necessitar de atenção especial devido à imaturidade dos
+processos metabólicos. As grandes variações nas concentrações plasmáticas de
+ropivacaína, observadas nos ensaios clínicos realizados em recém-nascidos, sugerem que
+pode existir um risco aumentado de toxicidade sistémica neste grupo etário.
+4.5 Interações medicamentosas e outras formas de interação
+O cloridrato de ropivacaína deve ser utilizado com precaução em doentes em tratamento
+com outros anestésicos ou agentes estruturalmente relacionados com os anestésicos locais
+do tipo amida, por exemplo, certos anti-arrítmicos, tais como lidocaína e mexiletina, dado
+que os efeitos tóxicos sistémicos são aditivos. O uso simultâneo de cloridrato de
+ropivacaína com anestésicos gerais ou opioides podem-se potenciar os efeitos adversos
+de cada um. Não foram efetuados estudos de interação específicos com a ropivacaína e os
+medicamentos anti-arrítmicos de classe II (por ex. amiodarona), mas é aconselhável
+precaução (ver também secção 4.4).
+O Citocromo P450 (CYP) 1A2 está envolvido na formação de 3-hidroxi -ropivacaína, o
+maior metabolito. In vivo a depuração plasmática de ropivacaína foi reduzida até 77%
+durante a coadministração de fluvoxamina, um potente inibidor seletivo do CYP1A2. A
+administração prolongada de ropivacaína deve ser evitada em doentes tratados
+concomitantemente com potentes inibidores do CYP1A2, tais como a fluvoxamina e a
+enoxacina, uma vez que podem interagir com o cloridrato de ropivacaína (ver secção
+4.4).
+
+APROVADO EM
+07-07-2018
+INFARMED
+In vivo, a depuração plasmática de ropivacaína foi reduzida cerca de 51% durante a
+coadministração com cetoconazol, um potente e seletivo inibidor do CYP3A4. Contido,
+não é provável que a inibição desta isoenzima tenha relevância clínica.
+In vitro, ropivacaína é um inibidor competitivo do CYP2D6 mas não parece inibir esta
+isoenzima nas concentrações plasmáticas obtidas clinicamente
+4.6 Fertilidade, gravidez e aleitamento
+Gravidez
+Com exceção da administração epidural na indicação obstétrica, não existem dados
+adequados sobre a utilização de ropivacaína na gravidez humana. Estudos experimentais
+em animais não indicam haver efeitos prejudiciais diretos ou indiretos no que respeita a
+toxicidade reprodutiva (ver secção 5.3)
+Amamentação
+Não existe informação suficiente quanto à excreção da ropivacaína no leite materno.
+Fertilidade
+Não existem dados clínicos disponíveis.
+4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+Não foram realizados estudos sobre os efeitos na capacidade de condução e utilização de
+máquinas. Dependendo da dose, os anestésicos locais podem ter menor influência sobre a
+função mental e a coordenação, mesmo na ausência de toxicidade evidente sobre o SNC,
+podendo afetar temporariamente a locomoção e o estado de alerta.
+4.8 Efeitos indesejáveis
+O perfil de reações para o cloridrato de ropivacaína é similar ao de outros anestésicos
+locais do tipo amida de longa duração de ação.
+As reações adversas devem ser distinguidas dos efeitos fisiológicos do próprio bloqueio
+nervoso, por exemplo, uma hipotensão e bradicardia observadas durante o bloqueio
+espinal / epidural
+A percentagem de doentes em que pode ser expectável desenvolverem reações adversas
+varia com a via de administração de cloridrato de ropivacaína. As reações adversas de
+cloridrato de ropivacaína, sistémicas e localizadas, geralmente ocorrem devido a
+sobredosagem, uma rápida absorção ou uma injeção intravascular inadvertida.
+As reações adversas mais frequentemente reportadas, náuseas e hipotensão, são muito
+frequentes durante a anestesia e a cirurgia no geral e não é possível distinguir as que são
+causadas pela situação clínica das que são causadas pelo medicamento ou pelo tipo de
+bloqueio.
+
+APROVADO EM
+07-07-2018
+INFARMED
+Tabela de reações adversas
+Muito frequentes
+(≥ 1/10)
+Frequentes
+(≥ 1/100 to <1/10)
+Pouco frequentes
+(≥ 1/1 000 to < 1/100)
+Raros
+(≥ 1/10 000 to < 1/1 000)
+Muito raros
+(< 1/10 000)
+Desconhecido
+(não pode ser calculado a partir dos dados disponíveis)
+Dentro de cada classe de sistemas de órgãos, as reações adversas foram classificadas por
+frequências, as reações mais frequentes são referidas em primeiro lugar.
+Classe de sistemas de
+órgãos
+Doenças do sistema
+imunitário
+Perturbações do foro
+psiquiátrico
+Doenças do sistema
+nervoso
+
+Cardiopatias
+
+Vasculopatias
+
+Doenças respiratórias,
+torácicas e do mediastino
+Doenças gastrointestinais
+
+Raros
+reações alérgicas (urticária, edema angioneurótico e reação
+anafilática até choque anafilático)
+Pouco frequentes
+ansiedade
+Frequentes
+parestesia, tonturas, cefaleias
+Pouco frequentes
+sintomas de toxicidade do SNC (convulsões, convulsões de
+grande mal, tonturas, ataques repentinos, sensação de cabeça
+vazia, parestesia circumoral, dormência da língua, hiperacusia,
+acufeno, alterações na visão, contrações musculares, disartria,
+tremor, hipoestesia)*
+Desconhecidos
+Discinesia
+Frequentes
+bradicardia, taquicardia
+Raros
+paragem cardíaca, arritmias
+Muito frequentes
+hipotensão
+Frequentes
+hipotensão (crianças), hipertensão
+Pouco frequentes
+síncope
+Pouco frequentes
+dispneia
+Muito frequentes
+náuseas, vómitos (crianças)
+Frequentes
+
+APROVADO EM
+07-07-2018
+INFARMED
+vómitos
+Afeções
+musculosqueléticas e dos
+tecidos conjuntivos
+Doenças renais e urinárias
+Perturbações gerais e
+alterações no local de
+administração
+
+Frequentes
+Dor de costas
+Frequentes
+retenção urinária
+Frequentes
+elevação da temperatura, arrepios
+Pouco frequentes
+hipotermia
+
+* Estes sintomas normalmente ocorrem devido à injeção intravascular inadvertida,
+sobredosagem ou absorção rápida (ver secção 4.9).
+Reações adversas relacionadas com a classe
+Complicações neurológicas
+Neuropatia e disfunções do cordão espinal (por exemplo síndroma da artéria espinal
+anterior, aracnoidite, síndroma da cauda equina), que podem resultar em casos raros de
+sequelas permanentes, têm sido associadas a anestesia regional, independentemente do
+anestésico local utilizado.
+Bloqueio espinal total
+O bloqueio espinal total pode ocorrer se uma dose epidural for inadvertidamente
+administrada por via intratecal.
+População pediátrica:
+Espera-se que a frequência, tipo e gravidade das reações adversas em crianças sejam
+iguais às dos adultos, com a exceção da hipotensão, que ocorre menos frequentemente em
+crianças (<1 em cada 10) e vómitos, que ocorrem mais frequentemente em crianças (>1
+em cada 10).
+Em crianças, os sinais precoces de toxicidade por anestésicos locais podem ser difíceis de
+detetar, uma vez que podem ser incapazes de os expressar verbalmente (ver também
+secção 4.4).
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é
+importante, uma vez que permite uma monitorização contínua da relação benefício-risco
+do medicamento. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas diretamente ao INFARMED, I.P.:
+INFARMED, I.P.
+Direção de Gestão do Risco de Medicamentos,
+Parque da Saúde de Lisboa, Av. Brasil 53
+
+APROVADO EM
+07-07-2018
+INFARMED
+1749-004 Lisboa
+Tel: +351 21 798 71 43
+Linha do Medicamento: 800222444 (gratuita)
+Fax: + 351 21 798 73 97,
+Sítio da internet:
+http://extranet.infarmed.pt/page.seram.frontoffice.seramhomepage,
+E-mail: farmacovigilancia@infarmed.pt
+4.9 Sobredosagem
+Sintomas
+Toxicidade sistémica aguda
+As reações tóxicas sistémicas envolvem primariamente o Sistema Nervoso Central (SNC)
+e o Sistema Cardiovascular. Tais reações são provocadas por elevadas concentrações
+sanguíneas de um anestésico local, que pode ocorrer (de forma acidental) devido a
+injeção intravascular, sobredosagem ou absorção excecionalmente rápida por áreas
+altamente vascularizadas (ver secção 4.4) As reações associadas ao SNC são similares
+para todos os anestésicos locais do tipo amida, enquanto que as reações cardíacas são
+mais dependentes do medicamento, tanto quantitativa como qualitativamente.
+A injeção intravascular acidental de anestésicos locais pode causar reações tóxicas
+sistémicas imediatas (em poucos segundos a alguns minutos). No caso de ocorrer uma
+sobredosagem, as concentrações plasmáticas máximas não devem ser alcançadas ao fim
+de uma ou duas horas, dependendo do local de injeção, pelo que os sinais de toxicidade
+podem assim ser retardados.
+Pode ser difícil de detetar os sinais precoces de toxicidade provocada pelos anestésicos
+locais pode se o bloqueio ocorrer durante a anestesia geral.
+Sistema Nervoso Central
+A toxicidade sobre o Sistema Nervoso Central é uma resposta graduada com sinais e
+sintomas de gravidade progressivamente mais acentuada. Inicialmente surgem sintomas
+como perturbações visuais ou auditivas, entorpecimento perioral, tonturas, sensação de
+cabeça leve, zumbidos e parestesias. A disartria, rigidez muscular e contrações
+musculares são mais graves e podem preceder o aparecimento de convulsões
+generalizadas. Estes sinais não devem ser confundidos com uma patologia neurológica de
+base. Subsequentemente pode ocorrer perda da consciência e convulsões tónico-clónicas
+(do tipo grande mal), que podem durar por poucos segundos até vários minutos. Durante
+as convulsões ocorrem rapidamente hipoxia e hipercapnia devido ao aumento da
+atividade muscular, juntamente com a interferência com a respiração. Em casos graves
+pode mesmo surgir apneia. A acidose respiratória e metabólica aumenta e prolonga os
+efeitos tóxicos dos anestésicos locais.
+A recuperação segue-se à redistribuição do medicamento anestésico local a partir do
+Sistema Nervoso Central, e subsequente metabolismo e excreção. A recuperação pode ser
+rápida, salvo se tiverem sido injetadas grandes quantidades do fármaco.
+
+APROVADO EM
+07-07-2018
+INFARMED
+Toxicidade cardiovascular
+A toxicidade cardiovascular indicia uma situação mais grave. Podem ocorrer hipotensão,
+bradicardia, arritmia e mesmo paragem cardíaca como resultado de elevadas
+concentrações sistémicas de anestésicos locais. Em voluntários, a perfusão intravenosa de
+ropivacaína desencadeou sinais de depressão da condução e contractilidade cardíaca.
+Os efeitos tóxicos cardiovasculares são geralmente precedidos por sinais de toxicidade no
+Sistema Nervoso Central, a não ser que o doente esteja a receber um anestésico geral ou
+se encontre sob intensa sedação com medicamentos como as benzodiazepinas ou os
+barbitúricos.
+Tratamento
+Os equipamentos e medicamentos necessários para a monitorização e reanimação de
+emergência devem estar imediatamente disponíveis.
+Se surgirem sinais de toxicidade sistémica aguda, a injeção do anestésico local deve ser
+imediatamente interrompida e os sintomas do SNC (convulsões, depressão do SNC) têm
+de ser prontamente tratados com o suporte respiratório apropriado e com a administração
+de medicamentos anticonvulsivantes.
+Se ocorrer paragem circulatória, deve instituir-se de imediato ressuscitação
+cardiopulmonar. Reveste-se de vital importância manter uma oxigenação ótima e assistir
+a ventilação e circulação, bem como proceder ao tratamento da acidose.
+Se ocorrer depressão cardiovascular (hipotensão, bradicardia), deve ser considerado o
+tratamento adequado com fluidos intravenosos, vasopressores e/ou agentes inotrópicos.
+Caso ocorra paragem cardíaca, pode ser necessário prolongar o tempo de manobras de
+reanimação para um resultado bem sucedido.
+
+5. PROPRIEDADES FARMACOLÓGICAS
+5.1 Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: 2.2 Sistema Nervoso Central, Anestésicos locais
+Código ATC: N01BB09
+A ropivacaína é um anestésico local de longa ação do tipo amida que exerce efeitos tanto
+anestésicos como analgésicos. Em doses elevadas, a ropivacaína produz anestesia
+cirúrgica, enquanto que em doses mais baixas produz bloqueio sensorial com bloqueio
+motor limitado e não progressivo.
+O mecanismo consiste numa redução reversível da permeabilidade da membrana da fibra
+nervosa aos iões sódio. Consequentemente, a velocidade de despolarização é diminuída e
+o limiar excitável aumentado, resultando num bloqueio local dos impulsos nervosos.
+A principal característica da ropivacaína é a sua longa duração de ação. O início e a
+duração da eficácia do anestésico local são dependentes do local de administração e da
+dose, mas não são influenciadas pela presença de um vasoconstritor (por exemplo,
+
+APROVADO EM
+07-07-2018
+INFARMED
+adrenalina). Para mais informações sobre o início e duração da ação da ropivacaína, ver
+secção 4.2.
+Voluntários saudáveis expostos a perfusões intravenosas toleraram bem a ropivacaína em
+doses baixas, apresentando sintomas previsíveis ao nível do SNC com a dose máxima
+tolerada. A experiência clínica com este fármaco indica uma boa margem de segurança
+quando adequadamente utilizado nas doses recomendadas.
+5.2 Propriedades farmacocinéticas
+A ropivacaína possui um centro quiral e está disponível sob a forma de S-(-)-enantiómero
+puro. É altamente lipossolúvel. Todos os metabolitos exercem um efeito anestésico local
+mas a sua potência é consideravelmente menor e a sua duração mais curta do que a da
+ropivacaína.
+Absorção
+A concentração plasmática de ropivacaína depende da dose, da via de administração e da
+vascularização do local de injeção. A ropivacaína, quando administrada por via
+intravenosa, segue uma cinética linear e a concentração plasmática máxima Cmax é
+proporcional à dose até 80 mg.
+A ropivacaína mostra uma absorção completa e bifásica a partir do espaço epidural,
+sendo as semividas das duas fases da ordem dos 14 minutos e das 4 horas, no adulto. A
+absorção lenta é o fator limitativo da velocidade na eliminação da ropivacaína, o que
+explica o motivo pelo qual a semivida aparente de eliminação é mais prolongada após a
+administração epidural do que após a administração intravenosa.
+Observou-se um aumento das concentrações plasmáticas totais durante a perfusão
+epidural contínua e perfusão interescalena relacionada com o aumento pós-operatório da
+α1-glicoproteína ácida.
+As variações na concentração do fármaco não ligado, ou seja, farmacologicamente ativo,
+foram muito inferiores à concentração plasmática total.
+Considerando que a ropivacaína possui uma taxa de extração hepática intermédia a baixa,
+a sua taxa de eliminação deverá depender da concentração plasmática da fração não
+ligada. Um aumento pós-operativo nas AAG irá diminuir a fração não ligada devido a um
+aumento da ligação às proteínas, o que originará uma diminuição da depuração total e
+resulta num aumento das concentrações plasmáticas totais, como observado tanto em
+estudos pediátricos como em estudos com adultos. A depuração da fração não ligada de
+ropivacaína permanece inalterada como ilustrado pela estabilidade das concentrações da
+fração não ligada durante a perfusão pós-operatória. É a concentração plasmática da
+fração não ligada que está relacionada com os efeitos farmacodinâmicos sistémicos e
+toxicidade.
+Distribuição
+
+APROVADO EM
+07-07-2018
+INFARMED
+A ropivacaína apresenta uma depuração plasmática total média na ordem de 440 ml/min,
+uma depuração renal de 1 ml/min, um volume de distribuição no estado de equilíbrio de
+47 litros, e uma semivida terminal de 1,8 h após administração IV. A ropivacaína
+apresenta uma razão de extração hepática intermédia de cerca de 0,4. Está
+predominantemente ligada no plasma à α1-glicoproteína ácida, sendo a fração não ligada
+de aproximadamente 6%.
+A ropivacaína atravessa prontamente a placenta, atingindo-se rapidamente o equilíbrio
+relativamente à concentração da fração não ligada. O grau de ligação às proteínas
+plasmáticas é menor no feto comparativamente à mãe, o que resulta numa menor
+concentração plasmática total no feto do que na mãe.
+Biotransformação e eliminação
+A ropivacaína é extensamente metabolizada, predominantemente por hidroxilação
+aromática. No total, 86% da dose é excretada na urina após administração intravenosa,
+dos quais somente cerca de 1% dizem respeito ao fármaco inalterado. O metabolito
+principal é a 3-hidroxi-ropivacaína, do qual cerca de 37% é excretado na urina,
+maioritariamente sob a forma conjugada. A excreção urinária da 4-hidroxi-ropivacaína, o
+metabolito N-desalquilado (PPX) e o metabolito 4-hidroxi-desalquilado é de 1-3%. A 3hidroxi-ropivacaína nas formas conjugada e não conjugada revela apenas concentrações
+detetáveis no plasma.
+Foi encontrado um padrão similar de metabolitos nas crianças com idade superior a um
+ano.
+A insuficiência renal tem pouca ou nenhuma influência na farmacocinética da
+ropivacaína. A depuração renal do PPX está significativamente correlacionada com a
+depuração da creatinina. A falta de correlação entre a exposição total, expressa como
+AUC, com depuração da creatinina indica que a depuração total do PPX inclui uma
+eliminação não renal para além da excreção renal. Alguns doentes com insuficiência
+renal podem apresentar um aumento da exposição ao PPX, resultante de uma depuração
+não renal baixa. Devido à toxicidade reduzida do PPX sobre o SNC comparativamente
+com a ropivacaína, as consequências clínicas são consideradas desprezáveis no
+tratamento a curto prazo. Os doentes com doença renal em fase terminal submetidos a
+diálise não foram estudados.
+Não há evidência de racemização in vivo da ropivacaína.
+Idosos
+A depuração plasmática da ropivacaína é reduzida e a semivida de eliminação é
+prolongada nesta população. Por isso, quando injetada continuamente, a dose deve ser
+individualizada (eventualmente reduzida) para evitar a acumulação da ropivacaína.
+População pediátrica
+A farmacocinética da ropivacaína foi caracterizada numa população selecionada de 192
+crianças, com idades compreendidas entre os 0 e os 12 anos, com base na análise dos
+dados da farmacocinética. A taxa de depuração da ropivacaína não-ligada e do PPX e o
+volume de distribuição da ropivacaína não-ligada, dependem tanto do peso corporal como
+
+APROVADO EM
+07-07-2018
+INFARMED
+da idade, até à maturidade da função hepática, passando a depender largamente, a partir
+desse momento, do peso corporal. A maturação da depuração da ropivacaína não-ligada
+parece ficar completa perto dos 3 anos de idade, enquanto que do PPX, perto de 1 ano de
+idade e o volume de distribuição da ropivacaína não-ligada perto dos 2 anos de idade. O
+volume de distribuição do PPX não-ligado depende apenas do peso corporal.
+Considerando que o PPX possui um tempo de semivida superior e uma taxa de depuração
+menor, pode ocorrer acumulação durante a perfusão epidural.
+Para idades superiores a 6 meses, a depuração da fração não-ligada da ropivacaína atinge
+valores na ordem dos valores atingidos pelos adultos. Os valores da taxa de depuração
+total (CL) de ropivacaína, dispostos na tabela seguinte, são os não afetados pelo aumento
+pós-operatório da AAG.
+
+Parâmetros farmacocinéticos estimados derivados a partir da análise PK da população
+pediátrica selecionada.
+Grupo
+BWa
+Club
+Vuc
+CL d
+t 1/2e t 1/2ppx f
+etário
+kg
+(l/h/kg)
+(l/kg)
+(l/h/kg)
+(h)
+(h)
+Recém3,27
+2,40
+21,86
+0,096
+6,3
+43,3
+nascidos
+1 mês
+4,29
+3,60
+25,94
+0,143
+5,0
+25,7
+6 meses 7,85
+8,03
+41,71
+0,320
+3,6
+14,5
+1 ano
+10,15
+11,32
+52,60
+0,451
+3,2
+13,6
+4 anos
+16,69
+15,91
+65,24
+0,633
+2,8
+15,1
+10 anos 32,19
+13,94
+65,57
+0,555
+3,3
+17,8
+a peso corporal médio para a idade respetiva proveniente da base de dados da OMS.
+b depuração da ropivacaína não-ligada
+c Volume de distribuição da ropivacaína não-ligada
+d Depuração da ropivacaína total
+e Semivida terminal da ropivacaína
+f Semivida terminal da PPX
+A simulação da média da concentração plasmática máxima da fração não-ligada (Cumax)
+após um bloqueio caudal único é tendencialmente superior em recém-nascidos e o tempo
+para se atingir a Cumax (tmax) diminui com o aumento da idade.
+A simulação da média da concentração plasmática máxima da fração livre, no final das
+72 h de perfusão epidural contínua, nas doses recomendadas, mostrou também níveis
+superiores em recém-nascidos comparativamente aos valores em bebés e crianças (ver
+secção 4.4).
+Médias simuladas e intervalos observados de Concentração Plasmática máxima da fração
+não-ligada CuMax, após bloqueio caudal único
+Grupo etário
+
+Dose
+
+Cumaxa
+
+tmaxb
+
+Cumaxc
+
+APROVADO EM
+07-07-2018
+INFARMED
+(mg/kg)
+(mg/l)
+(h)
+(mg/l)
+0-1 mês
+2,00
+0,0582
+2.00
+0,05-0,08 (n=5)
+1-6 meses
+2,00
+0,0375
+1.50
+0,02-0,09 (n=18)
+6-12 meses
+2,00
+0,0283
+1.00
+0,01-0,05 (n=9)
+1-10 anos
+2,00
+0,0221
+0.50
+0,01-0,05 (n=60)
+a Concentração plasmática máxima da fração não-ligada.
+b Tempo para atingir a concentração plasmática máxima da fração não-ligada.
+c Concentração plasmática máxima da fração não-ligada observada e dose-normalizada.
+Aos 6 meses, que é o limite para a mudança na taxa de dose recomendada para a perfusão
+epidural contínua, a depuração do cloridrato de ropivacaína não-ligado atingiu 34% e o
+PPX não-ligado atingiu 71% do seu valor após maturação. A exposição sistémica é
+superior em recém-nascidos e é também um pouco elevada em bebés entre 1 mês e 6
+meses de idade, quando comparados com crianças mais velhas, sendo que tal está
+relacionado com a imaturidade da sua função hepática.
+No entanto, tal é parcialmente compensado pela taxa de dose recomendada ser reduzida
+em 50% para a perfusão contínua em bebés com menos de 6 meses de idade.
+Simulações da soma das concentração plasmáticas da forma não-ligada de ropivacaína e
+PPX, baseadas nos parâmetros farmacocinéticos e na sua variância na análise
+populacional, indicam que para um bloqueio caudal único a dose recomendada deve ser
+aumentada num fator de 2,7 no grupo mais jovem e num fator de 7,4 no grupo dos 1-10
+anos, de forma a que a previsão do limite superior do intervalo de confiança 90% atinja o
+limiar da toxicidade sistémica. Os fatores correspondentes para a perfusão epidural
+contínua são 1,8 e 3,8, respetivamente.
+5.3 Dados de segurança pré-clínica
+Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos
+convencionais de farmacologia de segurança, toxicidade de dose repetida, genotoxicidade
+e toxicidade reprodutiva e desenvolvimento para além dos que seriam de esperar com
+base na ação farmacodinâmica de doses elevadas de ropivacaína (por ex. sinais a nível do
+SNC, incluindo convulsões e cardiotoxicidade).
+
+6. INFORMAÇÕES FARMACÊUTICAS
+6.1 Lista dos excipientes
+Cloreto de sódio
+Ácido clorídrico 0,36% (para ajuste de pH)
+Hidróxido de sódio 0,4% (para ajuste de pH)
+Água para preparações injetáveis
+6.2 Incompatibilidades
+
+APROVADO EM
+07-07-2018
+INFARMED
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado
+com outros medicamentos.
+6.3 Prazo de validade
+30 meses.
+- Após primeira abertura do recipiente:
+De um ponto de vista microbiológico, a menos que o método de abertura exclua o risco
+de contaminação microbiana, o medicamento deve ser imediatamente utilizado. Caso não
+seja imediatamente utilizado, o tempo e condições de conservação durante o uso são da
+responsabilidade do utilizador.
+6.4 Precauções especiais de conservação
+Não congelar.
+6.5 Natureza e conteúdo do recipiente
+Ampolas de polietileno (LDPE) de 10 ml e 20 ml em caixas de 20 unidades.
+As ampolas de polietileno de baixa densidade (LDPE) são especialmente desenhadas para
+se adaptarem a fechos Luer e seringas com adaptador Luer.
+É possível que não sejam comercializadas todas as apresentações.
+6.6 Precauções especiais de eliminação e manuseamento
+Qualquer medicamento não utilizado ou os resíduos devem ser eliminados de acordo com
+as exigências locais.
+Para utilização única.
+O medicamento deve ser inspecionado visualmente antes de utilizar.
+Utilizar apenas se a solução estiver límpida e incolor e o recipiente e o fecho não
+estiverem danificados.
+
+7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+B. Braun Melsungen AG
+Carl-Braun-Strasse 1,
+34212 Melsungen
+Alemanha
+Endereço postal:
+34209 Melsungen
+Alemanha
+
+APROVADO EM
+07-07-2018
+INFARMED
+Telefone: + 49/5661/71-0
+Fax: + 49/5661/71-4567
+
+8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+Registo no INFARMED I.P. n.º 5341458 - Ampolas de polietileno 10 ml – 20 unidades
+Registo no INFARMED I.P. n.º 5341466 - Ampolas de polietileno 20 ml – 20 unidades
+
+9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+Data da primeira autorização: 27 de outubro de 2010
+Data da última renovação:
+
+10. DATA DA REVISÃO DO TEXTO
+04/2018
+
+

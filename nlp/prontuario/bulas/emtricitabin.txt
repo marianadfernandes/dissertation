@@ -1,0 +1,3586 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+Truvada 200 mg/245 mg comprimidos revestidos por película
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada comprimido revestido por película contém 200 mg de emtricitabina e 245 mg de tenofovir
+disoproxil (equivalente a 300 mg de tenofovir disoproxil fumarato ou 136 mg de tenofovir).
+Excipiente com efeito conhecido
+Cada comprimido contém 91 mg de lactose (na forma mono-hidratada).
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimido revestido por película.
+Comprimido revestido por película, de cor azul, em forma de cápsula, com as dimensões
+19 mm x 8,5 mm, impresso num lado com “GILEAD” e no outro lado com “701”.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Tratamento da infeção por VIH-1:
+Truvada é indicado em terapêutica de associação de antirretrovirais para o tratamento de adultos
+infetados por VIH-1 (ver secção 5.1).
+Truvada também é indicado para o tratamento de adolescentes infetados por VIH-1 com resistência
+aos NRTIs ou toxicidades que impossibilitem o uso de agentes de primeira linha (ver secções 4.2, 4.4
+e 5.1).
+Profilaxia pré-exposição (PrEP):
+Truvada é indicado em associação com práticas de sexo seguro como profilaxia pré-exposição para
+reduzir o risco de aquisição da infeção por VIH-1 por via sexual em adultos e adolescentes de elevado
+risco (ver secções 4.2, 4.4 e 5.1).
+4.2
+
+Posologia e modo de administração
+
+Truvada deve ser iniciado por um médico com experiência no tratamento da infeção por VIH.
+Posologia
+Tratamento da infeção por VIH em adultos e adolescentes com idade igual ou superior a 12 anos, que
+pesam, pelo menos, 35 kg: Um comprimido, uma vez por dia.
+Prevenção da infeção por VIH em adultos e adolescentes com idade igual ou superior a 12 anos, que
+pesam, pelo menos, 35 kg: Um comprimido, uma vez por dia.
+Estão disponíveis as formulações em separado de emtricitabina e tenofovir disoproxil para o
+tratamento da infeção por VIH-1 se for necessário descontinuar ou modificar a dose de um dos
+
+2
+
+componentes de Truvada. Por favor consulte o Resumo das Características do Medicamento destes
+mesmos medicamentos.
+Se ocorrer a omissão de uma dose de Truvada no período de 12 horas após a hora em que esta é
+habitualmente administrada, Truvada deve ser administrado logo que for possível e o esquema de
+administração habitual deve ser retomado. Se ocorrer a omissão de uma dose de Truvada e tiverem
+decorrido mais de 12 horas e estiver quase na hora de ser administrada a próxima dose, a dose omitida
+não deve ser administrada e o esquema de administração habitual deve ser retomado.
+Se ocorrer vómito no espaço de 1 hora após a administração de Truvada, deve ser administrado outro
+comprimido. Se ocorrer vómito 1 hora após a administração de Truvada, não deve ser administrada
+uma segunda dose.
+Populações especiais
+Idosos: Não é necessário um ajuste posológico (ver secção 5.2).
+Compromisso renal: A emtricitabina e o tenofovir são eliminados por excreção renal e, nos indivíduos
+com disfunção renal, a exposição à emtricitabina e ao tenofovir está aumentada (ver secções 4.4 e 5.2).
+Adultos com compromisso renal:
+Truvada só deve ser utilizado em indivíduos com depuração da creatinina (ClCr) <80 ml/min se os
+benefícios potenciais superarem os riscos potenciais. Ver Tabela 1.
+Tabela 1: Recomendações posológicas em adultos com compromisso renal
+Compromisso renal ligeiro (ClCr
+50-80 ml/min)
+
+Compromisso renal moderado
+(ClCr 30-49 ml/min)
+
+Compromisso renal grave
+(ClCr < 30 ml/min) e doentes
+sujeitos a hemodiálise
+
+Tratamento da infeção por VIH-1
+Dados limitados de estudos clínicos
+apoiam a administração uma vez por
+dia (ver secção 4.4).
+
+A administração em intervalos de 48
+horas é recomendada, com base em
+dados de modelos farmacocinéticos
+de dose única para a emtricitabina e
+o tenofovir disoproxil em indivíduos
+não infetados por VIH com graus
+variáveis de compromisso renal (ver
+secção 4.4).
+Não está recomendado porque não
+podem ser obtidas as reduções de
+dose adequadas com o comprimido
+de associação de dose fixa.
+
+Profilaxia pré-exposição
+Dados limitados de estudos
+clínicos apoiam a administração
+uma vez por dia em indivíduos não
+infetados por VIH-1 com
+ClCr 60-80 ml/min. A utilização
+não é recomendada em indivíduos
+não infetados por VIH-1 com
+ClCr < 60 ml/min, uma vez que
+não foi estudado nesta população
+(ver secções 4.4 e 5.2).
+Não recomendado para utilização
+nesta população.
+
+Não recomendado para utilização
+nesta população.
+
+Indivíduos pediátricos com compromisso renal:
+A utilização não é recomendada em indivíduos com idade inferior a 18 anos e com compromisso renal
+(ver secção 4.4).
+Compromisso hepático: Não é necessário um ajuste posológico nos doentes com compromisso
+hepático (ver secções 4.4 e 5.2).
+
+3
+
+População pediátrica:
+A segurança e eficácia de Truvada em crianças com idade inferior a 12 anos de idade não foram
+estabelecidas (ver secção 5.2).
+Modo de administração
+Administração por via oral. Truvada deve ser administrado preferencialmente com alimentos.
+O comprimido revestido por película pode ser desintegrado em, aproximadamente, 100 ml de água,
+sumo de laranja ou sumo de uva e administrado imediatamente.
+4.3
+
+Contraindicações
+
+Hipersensibilidade às substâncias ativas ou a qualquer um dos excipientes mencionados na secção 6.1.
+Utilização como profilaxia pré-exposição em indivíduos com estatuto serológico para o VIH-1
+desconhecido ou positivo.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Doentes infetados por VIH-1 com mutações
+Truvada deve ser evitado em doentes previamente tratados com antirretrovirais que apresentem
+estirpes do VIH-1 com a mutação K65R (ver secção 5.1).
+Estratégia global para prevenção da infeção por VIH-1
+Nem sempre Truvada é efetivo na prevenção da aquisição do VIH-1. O tempo até ao início da
+proteção após iniciar Truvada é desconhecido.
+Truvada só deve ser utilizado para profilaxia pré-exposição como parte de uma estratégia global para
+prevenção da infeção por VIH-1, incluindo a utilização de outras medidas de prevenção contra o
+VIH-1 (por exemplo, uso consistente e correto de preservativo, conhecimento do estatuto serológico
+para o VIH-1, testes regulares para outras infeções sexualmente transmissíveis).
+Risco de resistência com infeção por VIH-1 indetetável:
+Truvada só deve ser utilizado para redução do risco de aquisição do VIH-1 em indivíduos cujo estatuto
+serológico para o VIH seja negativo (ver secção 4.3). O estatuto serológico negativo para o VIH do
+indivíduo deve ser reconfirmado a intervalos regulares (por exemplo, pelo menos, a cada 3 meses),
+utilizando um teste combinado de antigénio/anticorpo enquanto decorrer a administração de Truvada
+como profilaxia pré-exposição.
+Truvada por si só não constitui um regime completo para o tratamento da infeção por VIH-1, tendo
+ocorrido a emergência de mutações de resistência para o VIH-1 em indivíduos com infeção por VIH-1
+indetetável que estavam apenas sob tratamento com Truvada.
+Na presença de sintomatologia clínica consistente com infeção viral aguda e se suspeitar de exposição
+recente (< 1 mês) ao VIH-1, a utilização de Truvada deve ser adiada, pelo menos, um mês e deve
+voltar a confirmar-se o estatuto serológico para o VIH-1 antes de se iniciar Truvada como profilaxia
+pré-exposição.
+Importância da adesão:
+A efetividade de Truvada na redução do risco de aquisição do VIH-1 está fortemente correlacionada
+com a adesão, tal como demonstrado pelos níveis mensuráveis do fármaco no sangue (ver secção 5.1).
+Os indivíduos não infetados por VIH-1 devem ser aconselhados, em intervalos frequentes, a cumprir
+rigorosamente o esquema posológico diário recomendado de Truvada.
+
+4
+
+Doentes infetados pelo vírus da hepatite B ou C
+Os doentes infetados por VIH-1 com hepatite crónica B ou C em tratamento com terapêutica
+antirretroviral têm um risco acrescido de sofrerem reações adversas hepáticas graves e potencialmente
+fatais. Os médicos deverão consultar as normas orientadoras atuais para o tratamento do VIH para a
+gestão da infeção por VIH em doentes coinfetados pelo vírus da hepatite B (VHB) ou pelo vírus da
+hepatite C (VHC).
+A segurança e a eficácia de Truvada para a profilaxia pré-exposição em doentes com infeção por VHB
+ou VHC não foram estabelecidas.
+No caso de terapêutica antiviral concomitante para a hepatite B ou C, por favor consulte também o
+Resumo das Características do Medicamento destes mesmos medicamentos. Consulte também
+Utilização com ledipavir e sofosbuvir ou sofosbuvir e velpatasvir, em baixo.
+O tenofovir disoproxil está indicado para o tratamento da infeção por VHB e a emtricitabina
+demonstrou atividade contra o VHB em estudos farmacodinâmicos, mas a segurança e eficácia de
+Truvada não foram especificamente estabelecidas em doentes com infeção crónica por VHB.
+A descontinuação do tratamento com Truvada em doentes infetados por VHB pode estar associada a
+exacerbações agudas graves de hepatite. Os doentes infetados por VHB que descontinuaram o
+tratamento com Truvada devem ser cuidadosamente monitorizados, com acompanhamento clínico e
+laboratorial durante, pelo menos, vários meses após a paragem do tratamento. Se apropriado, pode
+justificar-se o recomeço do tratamento da hepatite B. Em doentes com doença hepática avançada ou
+cirrose, a descontinuação do tratamento não é recomendada, uma vez que a exacerbação da hepatite
+após o tratamento pode dar origem a descompensação hepática.
+Doença hepática
+A segurança e a eficácia de Truvada não foram estabelecidas em doentes com doenças hepáticas
+significativas subjacentes. A farmacocinética de tenofovir foi estudada em doentes com compromisso
+hepático, não sendo necessário ajuste posológico. A farmacocinética da emtricitabina não foi estudada
+em doentes com compromisso hepático. Uma vez que o metabolismo hepático da emtricitabina é
+mínimo e sendo esta eliminada por via renal, é improvável que seja necessário um ajuste da posologia
+de Truvada nos doentes com compromisso hepático (ver secções 4.2 e 5.2).
+Os doentes infetados por VIH-1 com disfunção hepática preexistente, incluindo hepatite crónica ativa,
+têm uma frequência aumentada de alterações da função hepática durante a terapêutica antirretroviral
+combinada (TARC) e devem ser monitorizados de acordo com a prática clínica. Se nestes doentes
+existir evidência de agravamento da doença hepática, tem que ser considerada a descontinuação ou
+interrupção do tratamento.
+Efeitos renais e ósseos em adultos
+Efeitos renais
+A emtricitabina e o tenofovir são eliminados principalmente pelos rins por filtração glomerular e
+secreção tubular ativa. Têm sido notificados casos de insuficiência renal, compromisso renal,
+creatinina elevada, hipofosfatemia e tubulopatia proximal (incluindo síndrome de Fanconi) com a
+utilização de tenofovir disoproxil (ver secção 4.8).
+Monitorização renal
+Antes de iniciar Truvada para o tratamento da infeção por VIH-1 ou como profilaxia pré-exposição,
+recomenda-se que a depuração da creatinina seja calculada em todos os indivíduos.
+Nos indivíduos sem fatores de risco para a doença renal, recomenda-se que a função renal (depuração
+da creatinina e fosfato sérico) seja monitorizada após duas a quatro semanas de uso, após três meses de
+uso e depois, em intervalos de três a seis meses.
+5
+
+Nos indivíduos em risco de doença renal, é necessária uma monitorização mais frequente da função
+renal.
+Consulte também Coadministração com outros medicamentos, em baixo.
+Controlo renal em doentes infetados por VIH-1
+Se o fosfato sérico for < 1,5 mg/dl (0,48 mmol/l) ou a depuração da creatinina diminuir para valores
+< 50 ml/min em qualquer doente tratado com Truvada, a função renal deve ser reavaliada dentro de
+uma semana, incluindo a determinação das concentrações de glucose e potássio no sangue e da
+glucose na urina (ver secção 4.8, tubulopatia proximal). Deve considerar-se a interrupção do
+tratamento com Truvada em doentes com diminuição da depuração da creatinina para valores
+< 50 ml/min ou uma diminuição do fosfato sérico para níveis < 1,0 mg/dl (0,32 mmol/l). A interrupção
+do tratamento com Truvada também deve ser considerada em caso de declínio progressivo da função
+renal nos casos em que não foi identificada qualquer outra causa.
+A segurança renal com Truvada foi apenas estudada de forma muito limitada em doentes infetados por
+VIH-1 com função renal comprometida (depuração da creatinina < 80 ml/min). São recomendados
+ajustes no intervalo posológico para doentes infetados por VIH-1 com depuração da creatinina entre
+30 e 49 ml/min (ver secção 4.2). Dados limitados de estudos clínicos sugerem que um intervalo
+posológico prolongado não é ideal e pode resultar em toxicidade aumentada e possível resposta
+inadequada. Além disso, num pequeno estudo clínico, um subgrupo de doentes com depuração da
+creatinina entre 50 e 60 ml/min tratado com tenofovir disoproxil em associação com emtricitabina a
+cada 24 horas apresentou uma exposição ao tenofovir 2 a 4 vezes superior e um agravamento da
+função renal (ver secção 5.2). Por conseguinte, é necessário fazer uma cuidadosa avaliação do
+risco-benefício quando se administra Truvada em doentes com depuração da creatinina < 60 ml/min e
+a função renal deve ser cuidadosamente monitorizada. Adicionalmente, a resposta clínica ao
+tratamento deve ser cuidadosamente monitorizada nos doentes que estejam sob tratamento com um
+intervalo posológico prolongado de Truvada. A utilização de Truvada não é aconselhada em doentes
+com compromisso renal grave (depuração da creatinina < 30 ml/min) e em doentes sujeitos a
+hemodiálise, uma vez que não podem ser realizadas as reduções de dose adequadas com o comprimido
+de associação de dose fixa (ver secções 4.2 e 5.2).
+Controlo renal na profilaxia pré-exposição
+Truvada não foi estudado em indivíduos não infetados por VIH-1 com depuração da creatinina
+< 60 ml/min e, por conseguinte, a sua utilização não é recomendada nesta população. Se o fosfato
+sérico for < 1,5 mg/dl (0,48 mmol/l) ou a depuração da creatinina diminuir para valores < 60 ml/min
+em qualquer indivíduo a receber Truvada como profilaxia pré-exposição, a função renal deve ser
+reavaliada dentro de uma semana, incluindo a determinação das concentrações de glucose e potássio
+no sangue e as concentrações de glucose na urina (ver secção 4.8, tubulopatia proximal). Deve
+considerar-se a interrupção da utilização de Truvada em indivíduos com diminuição da depuração da
+creatinina para valores < 60 ml/min ou uma diminuição do fosfato sérico para níveis < 1,0 mg/dl
+(0,32 mmol/l). A interrupção da utilização de Truvada também deve ser considerada em caso de
+declínio progressivo da função renal nos casos em que não foi identificada qualquer outra causa.
+Efeitos ósseos
+As anomalias ósseas, tais como osteomalacia, que podem manifestar-se como dor óssea persistente ou
+agravada e que podem contribuir infrequentemente para fraturas, podem ser associadas a tubulopatia
+renal proximal induzida por tenofovir disoproxil (ver secção 4.8).
+Se se suspeitar de anomalias ósseas, ou caso estas sejam detetadas, deve recorrer-se a consulta
+apropriada.
+
+6
+
+Tratamento da infeção por VIH-1
+Foram observadas diminuições da densidade mineral óssea (DMO) com tenofovir disoproxil em
+estudos clínicos controlados e aleatorizados com duração de até 144 semanas em doentes infetados
+pelo VIH ou VHB. Estas diminuições da DMO geralmente melhoraram após a interrupção do
+tratamento.
+Noutros estudos (prospetivo e transversal), as diminuições mais pronunciadas da DMO foram
+observadas em doentes tratados com tenofovir disoproxil como parte de um regime contendo um
+inibidor da protease potenciado. De modo geral, face às anomalias ósseas associadas a tenofovir
+disoproxil e às limitações dos dados a longo prazo sobre o impacto de tenofovir disoproxil na saúde
+óssea e no risco de fraturas, devem considerar-se regimes de tratamento alternativos em doentes com
+osteoporose ou com história de fraturas ósseas.
+Profilaxia pré-exposição
+Nos estudos clínicos em indivíduos não infetados por VIH-1, observaram-se pequenas diminuições na
+DMO. Num estudo realizado em 498 homens, as alterações médias na DMO desde o início até à
+semana 24 variaram entre -0,4% a -1,0% ao nível da anca, coluna, colo do fémur e trocânter em
+homens que receberam diariamente profilaxia com Truvada (n = 247) em comparação com placebo
+(n = 251).
+Efeitos renais e ósseos na população pediátrica
+Existem incertezas associadas aos efeitos renais e ósseos a longo prazo do tenofovir disoproxil durante
+o tratamento da infeção por VIH-1 na população pediátrica e aos efeitos renais e ósseos a longo prazo
+de Truvada quando usado para profilaxia pré-exposição em adolescentes não infetados (ver secção
+5.1). Além disso, a reversibilidade da toxicidade renal após a cessação do tenofovir disoproxil para o
+tratamento da infeção por VIH-1 ou após a cessação de Truvada para a profilaxia pré-exposição não
+pode ser completamente verificada.
+Recomenda-se uma abordagem multidisciplinar para ponderar o equilíbrio benefício/risco da
+utilização de Truvada para o tratamento da infeção por VIH-1 ou para profilaxia pré-exposição, decidir
+acerca da monitorização apropriada durante o tratamento (incluindo a decisão de suspender o
+tratamento) e considerar a necessidade de suplementação caso a caso.
+Ao usar Truvada para profilaxia pré-exposição, é necessário reavaliar os indivíduos em cada consulta
+para verificar se continuam a apresentar elevado risco de infeção por VIH-1. O risco de infeção por
+VIH-1 deve ser equilibrado face aos potenciais efeitos renais e ósseos da utilização a longo prazo de
+Truvada.
+Efeitos renais
+No estudo clínico GS-US-104-0352 foram notificadas reações adversas renais consistentes com
+tubulopatia renal proximal em doentes pediátricos infetados por VIH-1 com idade compreendida entre
+os 2 e < 12 anos (ver secções 4.8 e 5.1).
+Monitorização renal
+A função renal (depuração da creatinina e fosfato sérico) deve ser avaliada antes de iniciar a
+administração de Truvada para o tratamento da infeção por VIH-1 ou para profilaxia pré-exposição, e
+deve ser monitorizada durante a utilização como nos adultos (ver acima).
+Controlo renal
+Se for confirmado que o fosfato sérico é < 3,0 mg/dl (0,96 mmol/l) em qualquer doente pediátrico a
+receber Truvada, a função renal deve ser reavaliada dentro de uma semana, incluindo os níveis
+sanguíneos de glucose e potássio e as concentrações de glucose na urina (ver secção 4.8, tubulopatia
+proximal). Se se suspeitar de anomalias renais, ou caso estas sejam detetadas, deve recorrer-se a
+consulta com um nefrologista para se considerar a interrupção da utilização de Truvada. A interrupção
+da utilização de Truvada também deve ser considerada em caso de declínio progressivo da função
+renal nos casos em que não foi identificada qualquer outra causa.
+7
+
+Coadministração e risco de toxicidade renal
+Aplicam-se as mesmas recomendações que nos adultos (ver Coadministração com outros
+medicamentos, em baixo).
+Compromisso renal
+A utilização de Truvada não é recomendada em indivíduos com idade inferior a 18 anos de idade com
+compromisso renal (ver secção 4.2). Truvada não deve ser iniciado em doentes pediátricos com
+compromisso renal e deve ser descontinuado em doentes pediátricos que desenvolvam compromisso
+renal durante a utilização de Truvada.
+Efeitos ósseos
+A utilização de tenofovir disoproxil pode causar uma diminuição da DMO. Os efeitos das alterações
+na DMO associadas ao tenofovir disoproxil sobre a saúde óssea a longo prazo e sobre o risco futuro de
+fraturas são incertos (ver secção 5.1).
+Se se detetar ou suspeitar de anomalias ósseas durante a utilização de Truvada em algum doente
+pediátrico, deve recorrer-se a consulta com um endocrinologista e/ou nefrologista.
+Peso e parâmetros metabólicos
+Durante a terapêutica antirretroviral pode ocorrer um aumento do peso e dos níveis de lípidos e
+glucose no sangue. Estas alterações podem estar em parte associadas ao controlo da doença e ao estilo
+de vida. Para os lípidos, existe em alguns casos evidência de um efeito do tratamento, enquanto que
+para o aumento do peso não existe uma evidência forte que o relacione com um tratamento em
+particular. Para a monitorização dos lípidos e glucose no sangue é feita referência às orientações
+estabelecidas para o tratamento do VIH. As alterações lipídicas devem ser tratadas de modo
+clinicamente apropriado.
+Disfunção mitocondrial após exposição in utero
+Os análogos dos nucleosídeos e nucleótidos podem, num grau variável, ter um impacto na função
+mitocondrial, o qual é mais pronunciado com a estavudina, didanosina e zidovudina. Existem
+notificações de disfunção mitocondrial em lactentes VIH negativos, expostos in utero e/ou após o
+nascimento a análogos dos nucleosídeos; estas estavam relacionadas predominantemente com regimes
+contendo zidovudina. As principais reações adversas notificadas são afeções hematológicas (anemia,
+neutropenia) e perturbações metabólicas (hiperlactatemia, hiperlipasemia). Estes acontecimentos
+foram com frequência transitórios. Foram notificadas raramente afeções neurológicas de início tardio
+(hipertonia, convulsões, comportamento anormal). Desconhece-se presentemente se estas afeções
+neurológicas são transitórias ou permanentes. Estes resultados devem ser tidos em consideração em
+qualquer criança exposta in utero a análogos dos nucleosídeos e nucleótidos que apresentem sinais
+clínicos graves de etiologia desconhecida, especialmente sinais neurológicos. Estes resultados não
+afetam as recomendações nacionais atuais para utilizar a terapêutica antirretroviral em mulheres
+grávidas para prevenção da transmissão vertical do VIH.
+Síndrome de Reativação Imunológica
+Em doentes infetados por VIH com deficiência imunológica grave à data da instituição da TARC,
+pode ocorrer uma reação inflamatória a infeções oportunistas assintomáticas ou residuais e causar
+várias situações clínicas graves, ou o agravamento dos sintomas. Tipicamente, estas reações foram
+observadas durante as primeiras semanas ou meses após início da TARC. São exemplos relevantes a
+retinite por citomegalovírus, as infeções micobacterianas generalizadas e/ou focais e a pneumonia por
+Pneumocystis jirovecii. Qualquer sintoma de inflamação deve ser avaliado e, quando necessário,
+instituído o tratamento. Doenças autoimunes (tal como a Doença de Graves e a hepatite autoimune),
+também têm sido descritas como tendo ocorrido no contexto de reativação imunitária; no entanto, o
+tempo de início descrito é mais variável e estes acontecimentos podem ocorrer muitos meses após o
+início do tratamento.
+8
+
+Infeções oportunistas
+Os doentes infetados por VIH-1 em tratamento com Truvada ou qualquer outra terapêutica
+antirretroviral podem continuar a desenvolver infeções oportunistas e outras complicações da infeção
+por VIH e, por conseguinte, devem permanecer sob observação clínica cuidadosa de médicos com
+experiência no tratamento de doentes com doenças associadas ao VIH.
+Osteonecrose
+Foram notificados casos de osteonecrose, particularmente em doentes com doença por VIH avançada
+e/ou exposição prolongada a TARC, apesar da etiologia ser considerada multifatorial (incluindo a
+utilização de corticosteroides, o consumo de álcool, a imunossupressão grave, um índice de massa
+corporal aumentado). Os doentes devem ser instruídos a procurar aconselhamento médico caso sintam
+mal-estar e dor articular, rigidez articular ou dificuldade de movimentos.
+Coadministração com outros medicamentos
+A utilização de Truvada deve ser evitada concomitantemente ou pouco tempo após a utilização de
+medicamentos nefrotóxicos (ver secção 4.5). Caso seja inevitável a utilização concomitante com
+agentes nefrotóxicos, a função renal deve ser monitorizada semanalmente.
+Foram notificados casos de insuficiência renal aguda após o início de doses altas ou múltiplos
+fármacos anti-inflamatórios não esteroides (AINEs) em doentes infetados por VIH-1 tratados com
+tenofovir disoproxil e com fatores de risco para disfunção renal. Se Truvada for coadministrado com
+um AINE, a função renal deve ser devidamente monitorizada.
+Foi notificado um risco mais elevado de compromisso renal em doentes infetados por VIH-1 em
+tratamento com tenofovir disoproxil em associação com um inibidor da protease potenciado com
+ritonavir ou cobicistate. Nestes doentes, é necessária a monitorização cuidadosa da função renal (ver
+secção 4.5). Em doentes infetados por VIH-1 com fatores de risco renal, a coadministração de
+tenofovir disoproxil com um inibidor da protease potenciado deve ser cuidadosamente avaliada.
+Truvada não deve ser administrado concomitantemente com outros medicamentos que contêm
+emtricitabina, tenofovir disoproxil, tenofovir alafenamida ou outros análogos da citidina, como a
+lamivudina (ver secção 4.5). Truvada não deve ser administrado concomitantemente com adefovir
+dipivoxil.
+Utilização com ledipasvir e sofosbuvir, sofosbuvir e velpatasvir ou sofosbuvir, velpatasvir e
+voxilaprevir
+A coadministração de tenofovir disoproxil com ledipasvir/sofosbuvir, sofosbuvir/velpatasvir ou
+sofosbuvir/velpatasvir/voxilaprevir demonstrou aumentar as concentrações plasmáticas de tenofovir,
+especialmente quando utilizado em conjunto com um regime contra o VIH contendo tenofovir
+disoproxil e um potenciador farmacocinético (ritonavir ou cobicistate).
+A segurança de tenofovir disoproxil quando coadministrado com ledipasvir/sofosbuvir,
+sofosbuvir/velpatasvir ou sofosbuvir/velpatasvir/voxilaprevir e um potenciador farmacocinético não
+foi estabelecida. Os riscos e benefícios potenciais associados à coadministração devem ser
+considerados, especialmente em doentes com um maior risco de disfunção renal. Os doentes
+medicados com ledipasvir/sofosbuvir, sofosbuvir/velpatasvir ou sofosbuvir/velpatasvir/voxilaprevir
+concomitantemente com tenofovir disoproxil e um inibidor da protease do VIH potenciado devem ser
+monitorizados para deteção de reações adversas associadas ao tenofovir disoproxil.
+Coadministração de tenofovir disoproxil e didanosina
+A coadministração de tenofovir disoproxil e didanosina não é recomendada (ver secção 4.5).
+
+9
+
+Terapêutica tripla com análogos nucleosídeos
+Tem havido notificações de uma elevada percentagem de falência virológica e de emergência de
+resistência, numa fase inicial, em doentes infetados por VIH-1, quando o tenofovir disoproxil foi
+administrado em associação com lamivudina e abacavir, assim como com lamivudina e didanosina,
+num regime uma vez por dia. Existe uma grande semelhança estrutural entre a lamivudina e a
+emtricitabina e semelhanças na farmacocinética e farmacodinâmica destes dois fármacos. Deste modo,
+podem observar-se os mesmos problemas caso Truvada seja administrado com um terceiro análogo
+nucleosídeo.
+Idosos
+Truvada não foi estudado em indivíduos com idade superior a 65 anos. Os indivíduos com mais de
+65 anos são mais suscetíveis de apresentar a função renal diminuída, portanto, a administração de
+Truvada nestes indivíduos deve ser efetuada com precaução.
+Excipientes
+Truvada contém lactose mono-hidratada. Doentes com problemas hereditários raros de intolerância à
+galactose, deficiência total de lactase ou malabsorção de glucose-galactose não devem tomar este
+medicamento.
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido ou seja, é
+praticamente “isento de sódio”.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Os estudos de interação só foram realizados em adultos.
+Uma vez que Truvada contém emtricitabina e tenofovir disoproxil, as interações que foram
+identificadas com estes medicamentos individualmente podem ocorrer com Truvada. Os estudos de
+interação só foram realizados em adultos.
+A farmacocinética no estado estacionário da emtricitabina e tenofovir não foi afetada quando a
+emtricitabina e o tenofovir disoproxil foram administrados em associação comparativamente a cada
+medicamento administrado isoladamente.
+Os estudos de interação farmacocinética in vitro e clínica demonstraram que o potencial para
+interações mediadas pelo CYP450, envolvendo a emtricitabina e o tenofovir disoproxil com outros
+medicamentos, é baixo.
+Utilização concomitante não recomendada
+Truvada não deve ser administrado concomitantemente com outros medicamentos que contenham
+emtricitabina, tenofovir disoproxil, tenofovir alafenamida ou outros análogos da citidina, tais como a
+lamivudina (ver secção 4.4). Truvada não deve ser administrado concomitantemente com adefovir
+dipivoxil.
+Didanosina: A coadministração de Truvada e didanosina não é recomendada (ver secção 4.4 e a
+Tabela 2).
+Medicamentos eliminados por via renal: Uma vez que a emtricitabina e o tenofovir são excretados
+principalmente pelos rins, a coadministração de Truvada com medicamentos que reduzem a função
+renal ou competem pela secreção tubular ativa (ex. cidofovir) poderá aumentar as concentrações
+séricas da emtricitabina e do tenofovir e/ou dos medicamentos administrados concomitantemente.
+
+10
+
+A utilização de Truvada deve ser evitada concomitantemente ou pouco tempo após a utilização de
+medicamentos nefrotóxicos. Alguns exemplos destes medicamentos incluem, mas não se limitam a,
+aminoglicosídeos, anfotericina B, foscarneto, ganciclovir, pentamidina, vancomicina, cidofovir ou
+interleucina-2 (ver secção 4.4).
+Outras interações
+As interações entre Truvada ou o(s) seu(s) componente(s) individual(ais) e outros medicamentos estão
+indicadas na Tabela 2 abaixo (um aumento é indicado como “↑”, uma diminuição como “↓”, sem
+alteração como “↔”, duas vezes por dia como “b.i.d.” e uma vez por dia como “q.d.”). Se disponíveis,
+os intervalos de confiança de 90% são indicados entre parênteses.
+Tabela 2: Interações entre Truvada ou o(s) seu(s) componente(s) individual(ais) e outros
+medicamentos
+Medicamento por áreas
+terapêuticas
+
+ANTI-INFECIOSOS
+Antirretrovirais
+Inibidores da protease
+Atazanavir/Ritonavir/Tenofovir
+disoproxil
+(300 mg q.d./100 mg q.d./245 mg
+q.d.)
+
+Atazanavir/Ritonavir/Emtricitabina
+Darunavir/Ritonavir/Tenofovir
+disoproxil
+(300 mg q.d./100 mg q.d./245 mg
+q.d.)
+
+Efeitos sobre os níveis dos fármacos
+Recomendação respeitante à
+Alteração média em percentagem da coadministração com Truvada
+AUC, Cmax, Cmin com intervalos de (emtricitabina 200 mg, tenofovir
+confiança de 90% se disponíveis
+disoproxil 245 mg)
+(mecanismo)
+
+Atazanavir:
+AUC: ↓ 25% (↓ 42 a ↓ 3)
+Cmax: ↓ 28% (↓ 50 a ↑ 5)
+Cmin: ↓ 26% (↓ 46 a ↑ 10)
+Tenofovir:
+AUC: ↑ 37%
+Cmax: ↑ 34%
+Cmin: ↑ 29%
+Interação não estudada.
+Darunavir:
+AUC: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 22%
+Cmin: ↑ 37%
+
+Darunavir/Ritonavir/Emtricitabina
+Lopinavir/Ritonavir/Tenofovir
+disoproxil
+(400 mg b.i.d./100 mg
+b.i.d./245 mg q.d.)
+
+Interação não estudada.
+Lopinavir/Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Lopinavir/Ritonavir/Emtricitabina
+
+Tenofovir:
+AUC: ↑ 32% (↑ 25 a ↑ 38)
+Cmax: ↔
+Cmin: ↑ 51% (↑ 37 a ↑ 66)
+Interação não estudada.
+
+11
+
+Não é recomendado ajuste
+posológico. O aumento da
+exposição do tenofovir pode
+potenciar os acontecimentos
+adversos associados ao tenofovir,
+incluindo doenças renais.
+A função renal deverá ser
+cuidadosamente monitorizada (ver
+secção 4.4).
+Não é recomendado ajuste
+posológico. O aumento da
+exposição do tenofovir pode
+potenciar os acontecimentos
+adversos associados ao tenofovir,
+incluindo doenças renais.
+A função renal deverá ser
+cuidadosamente monitorizada (ver
+secção 4.4).
+Não é recomendado ajuste
+posológico. O aumento da
+exposição do tenofovir pode
+potenciar os acontecimentos
+adversos associados ao tenofovir,
+incluindo doenças renais.
+A função renal deverá ser
+cuidadosamente monitorizada (ver
+secção 4.4).
+
+Medicamento por áreas
+terapêuticas
+
+NRTIs
+Didanosina/Tenofovir disoproxil
+
+Didanosina/Emtricitabina
+
+Lamivudina/Tenofovir disoproxil
+
+Efavirenz/Tenofovir disoproxil
+
+Efeitos sobre os níveis dos fármacos
+Recomendação respeitante à
+Alteração média em percentagem da coadministração com Truvada
+AUC, Cmax, Cmin com intervalos de (emtricitabina 200 mg, tenofovir
+confiança de 90% se disponíveis
+disoproxil 245 mg)
+(mecanismo)
+A coadministração de tenofovir
+disoproxil e didanosina resulta num
+aumento de 40-60% da exposição
+sistémica de didanosina.
+Interação não estudada.
+
+Lamivudina:
+AUC: ↓ 3% (↓ 8% a ↑ 15)
+Cmax: ↓ 24% (↓ 44 a ↓ 12)
+Cmin: NC
+Tenofovir:
+AUC: ↓ 4% (↓ 15 a ↑ 8)
+Cmax: ↑ 102% (↓ 96 a ↑ 108)
+Cmin: NC
+Efavirenz:
+AUC: ↓ 4% (↓ 7 a ↓ 1)
+Cmax: ↓ 4% (↓ 9 a ↑ 2)
+Cmin: NC
+Tenofovir:
+AUC: ↓ 1% (↓ 8 a ↑ 6)
+Cmax: ↑ 7% (↓ 6 a ↑ 22)
+Cmin: NC
+
+12
+
+Não se recomenda a
+coadministração de Truvada e
+didanosina (ver secção 4.4).
+O aumento da exposição sistémica
+de didanosina pode aumentar as
+reações adversas relacionadas com
+a didanosina. Raramente, foram
+notificadas pancreatite e acidose
+láctica, ocasionalmente fatais.
+A coadministração de tenofovir
+disoproxil e didanosina na dose de
+400 mg por dia foi associada a
+uma redução significativa na
+contagem de células CD4,
+possivelmente devido a uma
+interação intracelular aumentando
+a didanosina fosforilada (isto é,.
+ativa). Uma redução da dosagem
+de 250 mg de didanosina
+administrada concomitantemente
+com tenofovir disoproxil tem sido
+associada a relatos de elevados
+índices de falência virológica
+dentro de várias associações
+testadas para o tratamento de
+infeção por VIH 1.
+Lamivudina e Truvada não devem
+ser administrados
+concomitantemente
+(ver secção 4.4).
+
+Não é necessário um ajuste
+posológico de efavirenz.
+
+Medicamento por áreas
+terapêuticas
+
+Efeitos sobre os níveis dos fármacos
+Recomendação respeitante à
+Alteração média em percentagem da coadministração com Truvada
+AUC, Cmax, Cmin com intervalos de (emtricitabina 200 mg, tenofovir
+confiança de 90% se disponíveis
+disoproxil 245 mg)
+(mecanismo)
+
+ANTI-INFECIOSOS
+Agentes antivirais contra o vírus da hepatite B (VHB)
+Adefovir dipivoxil/Tenofovir
+Adefovir dipivoxil:
+disoproxil
+AUC: ↓ 11% (↓ 14 a ↓ 7)
+Cmax: ↓ 7% (↓ 13 a ↓ 0)
+Cmin: NC
+
+Tenofovir:
+AUC: ↓ 2% (↓ 5 a ↑ 0)
+Cmax: ↓ 1% (↓ 7 a ↑ 6)
+Cmin: NC
+Agentes antivirais contra o vírus da hepatite C (VHC)
+Ledipasvir/Sofosbuvir
+Ledipasvir:
+(90 mg/400 mg q.d.) +
+AUC: ↑ 96% (↑ 74 a ↑ 121)
+Atazanavir/Ritonavir
+Cmax: ↑ 68% (↑ 54 a ↑ 84)
+Cmin: ↑ 118% (↑ 91 a ↑ 150)
+(300 mg q.d./100 mg q.d.) +
+Emtricitabina/Tenofovir disoproxil
+Sofosbuvir:
+(200 mg/245 mg q.d.)1
+AUC: ↔
+Cmax: ↔
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 42% (↑ 34 a ↑ 49)
+Atazanavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 63% (↑ 45 a ↑ 84)
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 45% (↑ 27 a ↑ 64)
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↔
+Cmax: ↑ 47% (↑ 37 a ↑ 58)
+Cmin: ↑ 47% (↑ 38 a ↑ 57)
+
+13
+
+Adefovir dipivoxil e Truvada não
+devem ser administrados
+concomitantemente
+(ver secção 4.4).
+
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da coadministração de
+tenofovir disoproxil,
+ledipasvir/sofosbuvir e
+atazanavir/ritonavir pode aumentar
+os acontecimentos adversos
+associados ao tenofovir disoproxil,
+incluindo doenças renais. A
+segurança do tenofovir disoproxil
+no contexto terapêutico de
+ledipasvir/sofosbuvir e de um
+potenciador farmacocinético (ex.
+ritonavir ou cobicistate) não foi
+estabelecida.
+A associação deve ser utilizada
+com precaução com monitorização
+renal frequente, se não estiverem
+disponíveis outras alternativas (ver
+secção 4.4).
+
+Medicamento por áreas
+terapêuticas
+
+Ledipasvir/Sofosbuvir
+(90 mg/400 mg q.d.) +
+Darunavir/Ritonavir
+(800 mg q.d./100 mg q.d.) +
+Emtricitabina/Tenofovir disoproxil
+(200 mg/245 mg q.d.)1
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem da
+AUC, Cmax, Cmin com intervalos de
+confiança de 90% se disponíveis
+(mecanismo)
+Ledipasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Sofosbuvir:
+AUC: ↓ 27% (↓ 35 a ↓ 18)
+Cmax: ↓ 37% (↓ 48 a ↓ 25)
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Darunavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 48% (↑ 34 a ↑ 63)
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 50% (↑ 42 a ↑ 59)
+Cmax: ↑ 64% (↑ 54 a ↑ 74)
+Cmin: ↑ 59% (↑ 49 a ↑ 70)
+
+14
+
+Recomendação respeitante à
+coadministração com Truvada
+(emtricitabina 200 mg, tenofovir
+disoproxil 245 mg)
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da coadministração de
+tenofovir disoproxil,
+ledipasvir/sofosbuvir e
+darunavir/ritonavir pode aumentar
+os acontecimentos adversos
+associados ao tenofovir disoproxil,
+incluindo doenças renais. A
+segurança do tenofovir disoproxil
+no contexto terapêutico de
+ledipasvir/sofosbuvir e de um
+potenciador farmacocinético (ex.
+ritonavir ou cobicistate) não foi
+estabelecida.
+A associação deve ser utilizada
+com precaução com monitorização
+renal frequente, se não estiverem
+disponíveis outras alternativas (ver
+secção 4.4).
+
+Medicamento por áreas
+terapêuticas
+
+Ledipasvir/Sofosbuvir
+(90 mg/400 mg q.d.) +
+Efavirenz/Emtricitabina/Tenofovir
+disoproxil
+(600 mg/200 mg/245 mg q.d.)
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem da
+AUC, Cmax, Cmin com intervalos de
+confiança de 90% se disponíveis
+(mecanismo)
+Ledipasvir:
+AUC: ↓ 34% (↓ 41 a ↓ 25)
+Cmax: ↓ 34% (↓ 41 a ↑ 25)
+Cmin: ↓ 34% (↓ 43 a ↑ 24)
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Recomendação respeitante à
+coadministração com Truvada
+(emtricitabina 200 mg, tenofovir
+disoproxil 245 mg)
+Não é recomendado ajuste
+posológico. O aumento da
+exposição do tenofovir pode
+potenciar os acontecimentos
+adversos associados ao tenofovir
+disoproxil, incluindo doenças
+renais. A função renal deve ser
+cuidadosamente monitorizada (ver
+secção 4.4).
+
+Efavirenz:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Ledipasvir/Sofosbuvir
+(90 mg/400 mg q.d.) +
+Emtricitabina/Rilpivirina/
+Tenofovir disoproxil
+(200 mg/25 mg/245 mg q.d.)
+
+Tenofovir:
+AUC: ↑ 98% (↑ 77 a ↑ 123)
+Cmax: ↑ 79% (↑ 56 a ↑ 104)
+Cmin: ↑ 163% (↑ 137 a ↑ 197)
+Ledipasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Rilpivirina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 40% (↑ 31 a ↑ 50)
+Cmax: ↔
+Cmin: ↑ 91% (↑ 74 a ↑ 110)
+
+15
+
+Não é recomendado ajuste
+posológico. O aumento da
+exposição do tenofovir pode
+potenciar os acontecimentos
+adversos associados ao tenofovir
+disoproxil, incluindo doenças
+renais. A função renal deve ser
+cuidadosamente monitorizada (ver
+secção 4.4).
+
+Medicamento por áreas
+terapêuticas
+
+Ledipasvir/Sofosbuvir
+(90 mg/400 mg q.d.) +
+Dolutegravir (50 mg q.d.) +
+Emtricitabina/Tenofovir disoproxil
+(200 mg/245 mg q.d.)
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem da
+AUC, Cmax, Cmin com intervalos de
+confiança de 90% se disponíveis
+(mecanismo)
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Ledipasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Dolutegravir
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 65% (↑ 59 a ↑ 71)
+Cmax: ↑ 61% (↑ 51 a ↑ 72)
+Cmin: ↑ 115% (↑ 105 a ↑ 126)
+
+16
+
+Recomendação respeitante à
+coadministração com Truvada
+(emtricitabina 200 mg, tenofovir
+disoproxil 245 mg)
+Não é recomendado ajuste
+posológico. O aumento da
+exposição do tenofovir pode
+potenciar os acontecimentos
+adversos associados ao tenofovir
+disoproxil, incluindo doenças
+renais. A função renal deve ser
+cuidadosamente monitorizada (ver
+secção 4.4).
+
+Medicamento por áreas
+terapêuticas
+
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Atazanavir/Ritonavir
+(300 mg q.d./100 mg q.d.) +
+Emtricitabina/Tenofovir disoproxil
+(200 mg/245 mg q.d.)
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem da
+AUC, Cmax, Cmin com intervalos de
+confiança de 90% se disponíveis
+(mecanismo)
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 42% (↑ 37 a ↑ 49)
+Velpatasvir:
+AUC: ↑ 142% (↑ 123 a ↑ 164)
+Cmax: ↑ 55% (↑ 41 a ↑ 71)
+Cmin: ↑ 301% (↑ 257 a ↑ 350)
+Atazanavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 39% (↑ 20 a ↑ 61)
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↑ 29% (↑ 15 a ↑ 44)
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↔
+Cmax: ↑ 55% (↑ 43 a ↑ 68)
+Cmin: ↑ 39% (↑ 31 a ↑ 48)
+
+17
+
+Recomendação respeitante à
+coadministração com Truvada
+(emtricitabina 200 mg, tenofovir
+disoproxil 245 mg)
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da coadministração de
+tenofovir disoproxil,
+sofosbuvir/velpatasvir e
+atazanavir/ritonavir pode aumentar
+os acontecimentos adversos
+associados ao tenofovir disoproxil,
+incluindo doenças renais. A
+segurança do tenofovir disoproxil
+no contexto terapêutico de
+sofosbuvir/velpatasvir e de um
+potenciador farmacocinético (ex.
+ritonavir ou cobicistate) não foi
+estabelecida.
+A associação deve ser utilizada
+com precaução com monitorização
+renal frequente (ver secção 4.4).
+
+Medicamento por áreas
+terapêuticas
+
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Darunavir/Ritonavir
+(800 mg q.d./100 mg q.d.) +
+Emtricitabina/Tenofovir disoproxil
+(200 mg/245 mg q.d.)
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem da
+AUC, Cmax, Cmin com intervalos de
+confiança de 90% se disponíveis
+(mecanismo)
+Sofosbuvir:
+AUC: ↓ 28% (↓ 34 a ↓ 20)
+Cmax: ↓ 38% (↓ 46 a ↓ 29)
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↔
+Cmax: ↓ 24% (↓ 35 a ↓ 11)
+Cmin: ↔
+Darunavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Recomendação respeitante à
+coadministração com Truvada
+(emtricitabina 200 mg, tenofovir
+disoproxil 245 mg)
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da coadministração de
+tenofovir disoproxil,
+sofosbuvir/velpatasvir e
+darunavir/ritonavir pode aumentar
+os acontecimentos adversos
+associados ao tenofovir disoproxil,
+incluindo doenças renais. A
+segurança do tenofovir disoproxil
+no contexto terapêutico de
+sofosbuvir/velpatasvir e de um
+potenciador farmacocinético (ex.
+ritonavir ou cobicistate) não foi
+estabelecida.
+A associação deve ser utilizada
+com precaução com monitorização
+renal frequente (ver secção 4.4).
+
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 39% (↑ 33 a ↑ 44)
+Cmax: ↑ 55% (↑ 45 a ↑ 66)
+Cmin: ↑ 52% (↑ 45 a ↑ 59)
+
+18
+
+Medicamento por áreas
+terapêuticas
+
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Lopinavir/Ritonavir
+(800 mg/200 mg q.d.) +
+Emtricitabina/Tenofovir disoproxil
+(200 mg/245 mg q.d.)
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem da
+AUC, Cmax, Cmin com intervalos de
+confiança de 90% se disponíveis
+(mecanismo)
+Sofosbuvir:
+AUC: ↓ 29% (↓ 36 a ↓ 22)
+Cmax: ↓ 41% (↓ 51 a ↓ 29)
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↔
+Cmax: ↓ 30% (↓ 41 a ↓ 17)
+Cmin: ↑ 63% (↑ 43 a ↑ 85)
+Lopinavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Recomendação respeitante à
+coadministração com Truvada
+(emtricitabina 200 mg, tenofovir
+disoproxil 245 mg)
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da coadministração de
+tenofovir disoproxil,
+sofosbuvir/velpatasvir e
+lopinavir/ritonavir pode aumentar
+os acontecimentos adversos
+associados ao tenofovir disoproxil,
+incluindo doenças renais. A
+segurança do tenofovir disoproxil
+no contexto terapêutico de
+sofosbuvir/velpatasvir e de um
+potenciador farmacocinético (ex.
+ritonavir ou cobicistate) não foi
+estabelecida.
+A associação deve ser utilizada
+com precaução com monitorização
+renal frequente (ver secção 4.4).
+
+Ritonavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↔
+Cmax: ↑ 42% (↑ 27 a ↑ 57)
+Cmin: ↔
+
+19
+
+Medicamento por áreas
+terapêuticas
+
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Raltegravir
+(400 mg b.i.d) +
+Emtricitabina/Tenofovir disoproxil
+(200 mg/245 mg q.d.)
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem da
+AUC, Cmax, Cmin com intervalos de
+confiança de 90% se disponíveis
+(mecanismo)
+Sofosbuvir:
+AUC: ↔
+Cmax: ↔
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Recomendação respeitante à
+coadministração com Truvada
+(emtricitabina 200 mg, tenofovir
+disoproxil 245 mg)
+Não é recomendado ajuste
+posológico. O aumento da
+exposição do tenofovir pode
+potenciar os acontecimentos
+adversos associados ao tenofovir
+disoproxil, incluindo doenças
+renais. A função renal deve ser
+cuidadosamente monitorizada (ver
+secção 4.4).
+
+Raltegravir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↓ 21% (↓ 58 a ↑ 48)
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Sofosbuvir/Velpatasvir
+(400 mg/100 mg q.d.) +
+Efavirenz/Emtricitabina/Tenofovir
+disoproxil
+(600 mg/200 mg/245 mg q.d.)
+
+Tenofovir:
+AUC: ↑ 40% (↑ 34 a ↑ 45)
+Cmax: ↑ 46% (↑ 39 a ↑ 54)
+Cmin: ↑ 70% (↑ 61 a ↑ 79)
+Sofosbuvir:
+AUC: ↔
+Cmax: ↑ 38% (↑ 14 a ↑ 67)
+GS-3310072:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↓ 53% (↓ 61 a ↓ 43)
+Cmax: ↓ 47% (↓ 57 a ↓ 36)
+Cmin: ↓ 57% (↓ 64 a ↓ 48)
+Efavirenz:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 81% (↑ 68 a ↑ 94)
+Cmax: ↑ 77% (↑ 53 a ↑ 104)
+Cmin: ↑ 121% (↑ 100 a ↑ 143)
+
+20
+
+Espera-se que a administração
+concomitante de
+sofosbuvir/velpatasvir e efavirenz
+diminua as concentrações
+plasmáticas de velpatasvir. Não se
+recomenda a coadministração de
+sofosbuvir/velpatasvir com
+regimes contendo efavirenz.
+
+Medicamento por áreas
+terapêuticas
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem da
+AUC, Cmax, Cmin com intervalos de
+confiança de 90% se disponíveis
+(mecanismo)
+Sofosbuvir/Velpatasvir
+Sofosbuvir:
+(400 mg/100 mg q.d.) +
+AUC: ↔
+Emtricitabina/Rilpivirina/Tenofovir Cmax: ↔
+disoproxil
+GS-3310072:
+(200 mg/25 mg/245 mg q.d.)
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Velpatasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Rilpivirina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 40% (↑ 34 a ↑ 46)
+Cmax: ↑ 44% (↑ 33 a ↑ 55)
+Cmin: ↑ 84% (↑ 76 a ↑ 92)
+
+21
+
+Recomendação respeitante à
+coadministração com Truvada
+(emtricitabina 200 mg, tenofovir
+disoproxil 245 mg)
+Não é recomendado ajuste
+posológico. O aumento da
+exposição do tenofovir pode
+potenciar os acontecimentos
+adversos associados ao tenofovir
+disoproxil, incluindo doenças
+renais. A função renal deve ser
+cuidadosamente monitorizada (ver
+secção 4.4).
+
+Medicamento por áreas
+terapêuticas
+
+Efeitos sobre os níveis dos fármacos
+Alteração média em percentagem da
+AUC, Cmax, Cmin com intervalos de
+confiança de 90% se disponíveis
+(mecanismo)
+Sofosbuvir/Velpatasvir/
+Sofosbuvir:
+Voxilaprevir (400 mg/100 mg/
+AUC: ↔
+100 mg+100 mg q.d.)3 + Darunavir Cmax: ↓ 30%
+(800 mg q.d.) + Ritonavir (100 mg
+Cmin: N/A
+q.d.) + Emtricitabina/Tenofovir
+GS-3310072:
+disoproxil (200 mg/245 mg q.d.)
+AUC: ↔
+Cmax:↔
+Cmin: N/A
+Velpatasvir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Voxilaprevir:
+AUC: ↑ 143%
+Cmax:↑ 72%
+Cmin: ↑ 300%
+
+Recomendação respeitante à
+coadministração com Truvada
+(emtricitabina 200 mg, tenofovir
+disoproxil 245 mg)
+O aumento das concentrações
+plasmáticas de tenofovir
+resultantes da coadministração de
+tenofovir disoproxil,
+sofosbuvir/velpatasvir/voxilaprevir
+e darunavir/ritonavir pode
+aumentar os acontecimentos
+adversos associados ao tenofovir
+disoproxil, incluindo doenças
+renais. A segurança do tenofovir
+disoproxil no contexto terapêutico
+de
+sofosbuvir/velpatasvir/voxilaprevir
+e de um potenciador
+farmacocinético (ex. ritonavir ou
+cobicistate) não foi estabelecida.
+A associação deve ser utilizada
+com precaução com monitorização
+renal frequente (ver secção 4.4).
+
+Darunavir:
+AUC: ↔
+Cmax: ↔
+Cmin: ↓ 34%
+Ritonavir:
+AUC: ↑ 45%
+Cmax: ↑ 60%
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Tenofovir:
+AUC: ↑ 39%
+Cmax: ↑ 48%
+Cmin: ↑ 47%
+
+22
+
+Medicamento por áreas
+terapêuticas
+
+Sofosbuvir
+(400 mg q.d.) +
+Efavirenz/Emtricitabina/Tenofovir
+disoproxil
+(600 mg/200 mg/245 mg q.d.)
+
+Efeitos sobre os níveis dos fármacos
+Recomendação respeitante à
+Alteração média em percentagem da coadministração com Truvada
+AUC, Cmax, Cmin com intervalos de (emtricitabina 200 mg, tenofovir
+confiança de 90% se disponíveis
+disoproxil 245 mg)
+(mecanismo)
+Sofosbuvir:
+Não é necessário ajuste
+AUC: ↔
+posológico.
+Cmax: ↓ 19% (↓ 40 a ↑ 10)
+GS-3310072:
+AUC: ↔
+Cmax: ↓ 23% (↓ 30 a ↑ 16)
+Efavirenz:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+Emtricitabina:
+AUC: ↔
+Cmax: ↔
+Cmin: ↔
+
+Tenofovir:
+AUC: ↔
+Cmax: ↑ 25% (↑ 8 a ↑ 45)
+Cmin: ↔
+Ribavirina/Tenofovir disoproxil
+Ribavirina:
+AUC: ↑ 26% (↑ 20 a ↑ 32)
+Cmax: ↓ 5% (↓ 11 a ↑ 1)
+Cmin: NC
+Agentes antivirais contra o vírus herpes
+Famciclovir/Emtricitabina
+Famciclovir:
+AUC: ↓ 9% (↓ 16 a ↓ 1)
+Cmax: ↓ 7% (↓ 22 a ↑ 11)
+Cmin: NC
+
+Antimicobacterianos
+Rifampicina/Tenofovir disoproxil
+
+CONTRACETIVOS ORAIS
+Norgestimato/Etinilestradiol/
+Tenofovir disoproxil
+
+Não é necessário ajuste posológico
+da ribavirina.
+
+Não é necessário ajuste posológico
+de famciclovir.
+
+Emtricitabina:
+AUC: ↓ 7% (↓ 13 a ↓ 1)
+Cmax: ↓ 11% (↓ 20 a ↑ 1)
+Cmin: NC
+Tenofovir:
+AUC: ↓ 12% (↓ 16 a ↓ 8)
+Cmax: ↓ 16% (↓ 22 a ↓ 10)
+Cmin: ↓ 15% (↓ 12 a ↓ 9)
+
+Não é necessário ajuste
+posológico.
+
+Norgestimato:
+AUC: ↓ 4% (↓ 32 a ↑ 34)
+Cmax: ↓ 5% (↓ 27 a ↑ 24)
+Cmin: NC
+
+Não é necessário ajuste posológico
+de norgestimato/ etinilestradiol.
+
+Etinilestradiol:
+AUC: ↓ 4% (↓ 9 a ↑ 0)
+Cmax: ↓ 6% (↓ 13 a ↑ 0)
+Cmin: ↓ 2% (↓ 9 a ↑ 6)
+
+23
+
+Medicamento por áreas
+terapêuticas
+
+IMUNOSSUPRESSORES
+Tacrolímus/Tenofovir
+disoproxil/Emtricitabina
+
+Efeitos sobre os níveis dos fármacos
+Recomendação respeitante à
+Alteração média em percentagem da coadministração com Truvada
+AUC, Cmax, Cmin com intervalos de (emtricitabina 200 mg, tenofovir
+confiança de 90% se disponíveis
+disoproxil 245 mg)
+(mecanismo)
+Tacrolímus:
+AUC: ↑ 4% (↓ 3 a ↑ 11)
+Cmax: ↑ 3% (↓ 3 a ↑ 9)
+Cmin: NC
+
+Não é necessário ajuste posológico
+de tacrolímus.
+
+Emtricitabina:
+AUC: ↓ 5% (↓ 9 a ↓ 1)
+Cmax: ↓ 11% (↓ 17 a ↓ 5)
+Cmin: NC
+
+ANALGÉSICOS NARCÓTICOS
+Metadona/Tenofovir disoproxil
+
+Tenofovir:
+AUC: ↑ 6% (↓ 1 a ↑ 13)
+Cmax: ↑13% (↑ 1 a ↑ 27)
+Cmin: NC
+Metadona:
+AUC: ↑ 5% (↓ 2 a ↑ 13)
+Cmax: ↑ 5% (↓ 3 a ↑ 14)
+Cmin: NC
+
+Não é necessário ajuste posológico
+de metadona.
+
+NC = Não calculado.
+N/A = não aplicável.
+1 Dados gerados a partir de uma administração simultânea com ledipasvir/sofosbuvir. A administração escalonada (intervalo
+de 12 horas) apresentou resultados semelhantes.
+2 O metabolito circulante predominante do sofosbuvir.
+3 Estudo realizado com 100 mg de voxilaprevir adicionais para se atingir as exposições ao voxileprevir esperadas em doentes
+infetados pelo VHC.
+
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+Uma quantidade elevada de dados em mulheres grávidas (mais de 1.000 gravidezes expostas) indicam
+ausência de malformações ou toxicidade fetal/neonatal associadas à emtricitabina e tenofovir
+disoproxil. Os estudos da emtricitabina e do tenofovir disoproxil em animais não indicam toxicidade
+reprodutiva (ver secção 5.3). Por este motivo, a utilização de Truvada pode ser considerada durante a
+gravidez, se necessário.
+Amamentação
+A emtricitabina e o tenofovir são excretados no leite humano. Existe informação insuficiente sobre os
+efeitos da emtricitabina e do tenofovir em recém-nascidos/lactentes. Por este motivo, Truvada não
+deve ser utilizado durante a amamentação.
+De forma a evitar a transmissão do VIH ao lactente, recomenda-se que as mulheres que vivem com
+VIH não amamentem os seus filhos.
+Fertilidade
+Não existem dados disponíveis sobre o efeito de Truvada em humanos. Os estudos em animais não
+indicam efeitos nefastos de emtricitabina ou tenofovir disoproxil sobre a fertilidade.
+
+24
+
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, os
+indivíduos devem ser informados que foram descritas tonturas durante o tratamento com emtricitabina
+e tenofovir disoproxil.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Infeção por VIH-1: As reações adversas notificadas mais frequentemente, consideradas como possível
+ou provavelmente relacionadas com a emtricitabina e/ou tenofovir disoproxil, foram náuseas (12%) e
+diarreia (7%) num estudo clínico aberto aleatorizado em adultos (GS-01-934, ver secção 5.1). O perfil
+de segurança de emtricitabina e tenofovir disoproxil neste estudo foi consistente com a experiência
+anterior com estes fármacos quando cada um foi administrado com outros fármacos antirretrovirais.
+Profilaxia pré-exposição: Não foram identificadas novas reações adversas ao Truvada em dois estudos
+aleatorizados controlados por placebo (iPrEx e Partners PrEP), nos quais 2.830 adultos não infetados
+por VIH-1 receberam Truvada uma vez por dia como profilaxia pré-exposição. Os doentes foram
+seguidos durante uma mediana de 71 semanas e 87 semanas, respetivamente. A reação adversa
+notificada mais frequentemente no grupo de Truvada no estudo iPrEx foi a cefaleia (1%).
+Resumo tabulado das reações adversas
+As reações adversas consideradas, pelo menos, como possivelmente relacionadas com o tratamento
+com os componentes de Truvada, provenientes de estudos clínicos e experiência pós-comercialização
+em doentes infetados por VIH-1, encontram-se descritas na Tabela 3, abaixo, por classes de sistemas
+de órgãos e frequência. Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade
+dentro de cada classe de frequência. As frequências são definidas como muito frequentes (≥ 1/10),
+frequentes (≥ 1/100, < 1/10), pouco frequentes (≥ 1/1.000, < 1/100) ou raros (≥ 1/10.000, < 1/1.000).
+Tabela 3: Resumo tabulado das reações adversas associadas aos componentes individuais de
+Truvada baseado em estudo clínico e experiência pós-comercialização
+Frequência
+Emtricitabina
+Doenças do sangue e do sistema linfático:
+Frequentes:
+neutropenia
+Pouco frequentes:
+anemia2
+Doenças do sistema imunitário:
+Frequentes:
+reação alérgica
+Doenças do metabolismo e da nutrição:
+Muito frequentes:
+Frequentes:
+hiperglicemia, hipertrigliceridemia
+Pouco frequentes:
+Raros:
+Perturbações do foro psiquiátrico:
+Frequentes:
+insónia, sonhos anormais
+Doenças do sistema nervoso:
+Muito frequentes:
+cefaleias
+Frequentes:
+tonturas
+Doenças gastrointestinais:
+Muito frequentes:
+diarreia, náuseas
+Frequentes:
+elevação da amilase incluindo elevação
+da amilase pancreática, elevação da
+lipase sérica, vómitos, dor abdominal,
+dispepsia
+Pouco frequentes:
+
+25
+
+Tenofovir disoproxil
+
+hipofosfatemia1
+hipocaliemia1
+acidose láctica
+
+tonturas
+cefaleias
+diarreia, vómitos, náuseas
+dor abdominal, distensão abdominal,
+flatulência
+pancreatite
+
+Frequência
+Afeções hepatobiliares:
+Frequentes:
+
+Emtricitabina
+
+Tenofovir disoproxil
+
+elevação da aspartato aminotransferase
+sérica (AST) e/ou da alanina
+aminotransferase (ALT),
+hiperbilirrubinemia
+
+elevação das transaminases
+
+Raros:
+Afeções dos tecidos cutâneos e subcutâneos:
+Muito frequentes:
+Frequentes:
+erupção cutânea vesicular, erupção
+cutânea pustular, erupção cutânea
+maculopapular, erupção cutânea,
+prurido, urticária, alterações da
+pigmentação cutânea
+(hiperpigmentação)2
+Pouco frequentes:
+angioedema3
+Raros:
+Afeções musculosqueléticas e dos tecidos conjuntivos:
+Muito frequentes:
+elevação da creatina cinase
+Frequentes:
+Pouco frequentes:
+Raros:
+
+Doenças renais e urinárias:
+Pouco frequentes:
+Raros:
+
+Perturbações gerais e alterações no local de administração:
+Muito frequentes:
+Frequentes:
+dor, astenia
+
+esteatose hepática, hepatite
+erupção cutânea
+
+angioedema
+diminuição da densidade mineral óssea
+rabdomiólise1, fraqueza muscular1
+osteomalacia (manifestada como dores
+ósseas e contribuindo
+infrequentemente para fraturas)1,3,
+miopatia1
+elevação da creatinina, proteinúria,
+tubulopatia renal proximal incluindo
+síndrome de Fanconi
+insuficiência renal (aguda e crónica),
+necrose tubular aguda, nefrite
+(incluindo nefrite intersticial aguda)3,
+diabetes insípida nefrogénica
+astenia
+
+1 Esta
+
+reação adversa pode ocorrer como consequência de tubulopatia renal proximal. Não se considera associada de forma
+causal ao tenofovir disoproxil na ausência desta condição.
+2 Quando a emtricitabina foi administrada a doentes pediátricos, a anemia foi frequente e a alteração da pigmentação cutânea
+(hiperpigmentação) foi muito frequente.
+3 Esta reação adversa foi identificada através da vigilância pós-comercialização mas não foi observada em estudos clínicos
+controlados aleatorizados em adultos ou em estudos clínicos em pediatria VIH com a emtricitabina ou em estudos clínicos
+controlados aleatorizados ou no programa de acesso alargado para o tenofovir disoproxil. As categorias de frequência foram
+estimadas a partir de um cálculo estatístico baseado no número total de doentes expostos à emtricitabina nos estudos clínicos
+controlados aleatorizados (n = 1.563) ou ao tenofovir disoproxil nos estudos clínicos controlados aleatorizados e no programa
+de acesso alargado (n = 7.319).
+
+Descrição de reações adversas selecionadas
+Compromisso renal: Como Truvada pode causar lesão renal, é recomendada a monitorização da
+função renal (ver secção 4.4). Geralmente, a tubulopatia renal proximal resolveu-se ou melhorou após
+a interrupção de tenofovir disoproxil. Contudo, em alguns doentes infetados por VIH-1, as
+diminuições da depuração da creatinina não se resolveram completamente apesar da interrupção do
+tenofovir disoproxil. Os doentes em risco de compromisso renal (como por exemplo, os doentes com
+fatores iniciais de risco renal, doença por VIH avançada ou doentes a receberem medicamentos
+nefrotóxicos concomitantes) estão em maior risco de ter uma recuperação incompleta da função renal
+apesar da interrupção do tenofovir disoproxil (ver secção 4.4).
+Acidose láctica: Foram notificados casos de acidose láctica com tenofovir disoproxil em monoterapia
+ou em associação com outros antirretrovirais. Os doentes com fatores de predisposição, tais como,
+doença hepática descompensada, ou os doentes a receber medicamentos concomitantes conhecidos por
+26
+
+induzir acidose láctica, apresentam maior risco de sofrer acidose láctica grave durante o tratamento
+com tenofovir disoproxil, incluindo com desfecho fatal.
+Parâmetros metabólicos: O peso e os níveis de lípidos e glucose no sangue podem aumentar durante a
+terapêutica antirretroviral (ver secção 4.4).
+Síndrome de Reativação Imunológica: Em doentes infetados por VIH com deficiência imunológica
+grave à data de início da TARC, pode ocorrer uma reação inflamatória a infeções oportunistas
+assintomáticas ou residuais. Doenças autoimunes (tal como a Doença de Graves e a hepatite
+autoimune), também têm sido descritas; no entanto, o tempo de início descrito é mais variável e estes
+acontecimentos podem ocorrer muitos meses após o início do tratamento (ver secção 4.4).
+Osteonecrose: Foram notificados casos de osteonecrose, particularmente em doentes com fatores de
+risco identificados, doença por VIH avançada ou exposição prolongada a TARC. A sua frequência é
+desconhecida (ver secção 4.4).
+População pediátrica
+A avaliação das reações adversas relacionadas com a emtricitabina baseia-se na experiência de três
+estudos pediátricos (n = 169), em que doentes pediátricos infetados por VIH, com idade compreendida
+entre os 4 meses e os 18 anos, sem terapêutica antirretroviral prévia (n = 123) e com exposição
+anterior ao tratamento (n = 46) foram tratados com emtricitabina em associação com outros agentes
+antirretrovirais. Em adição às reações adversas notificadas nos adultos, a anemia (9,5%) e as alterações
+da pigmentação cutânea (31,8%) ocorreram mais frequentemente nos ensaios clínicos em doentes
+pediátricos do que em adultos (ver secção 4.8, Resumo tabulado das reações adversas).
+A avaliação das reações adversas relacionadas com o tenofovir disoproxil baseia-se em dois ensaios
+aleatorizados (estudos GS-US-104-0321 e GS-US-104-0352) em 184 doentes pediátricos infetados por
+VIH-1 (com idade compreendida entre os 2 e < 18 anos), tratados com tenofovir disoproxil (n = 93) ou
+placebo/comparador ativo (n = 91), em associação com outros agentes antirretrovirais, durante 48
+semanas (ver secção 5.1). As reações adversas observadas em doentes pediátricos tratados com
+tenofovir disoproxil foram consistentes com as que foram observadas nos estudos clínicos de tenofovir
+disoproxil em adultos (ver secção 4.8, Resumo tabulado das reações adversas e 5.1).
+Foram notificadas diminuições da DMO em doentes pediátricos. Em adolescentes infetados por VIH-1
+(com idade compreendida entre os 12 e < 18 anos), os índices Z da DMO observados em indivíduos
+tratados com tenofovir disoproxil foram inferiores aos observados em indivíduos tratados com
+placebo. Em crianças infetadas por VIH-1 (com idade compreendida entre os 2 e os 15 anos), os
+índices Z da DMO observados em indivíduos que mudaram para tenofovir disoproxil foram inferiores
+aos observados em indivíduos que permaneceram no seu regime contendo estavudina ou zidovudina
+(ver secções 4.4 e 5.1).
+No estudo GS-US-104-0352, 89 doentes pediátricos infetados por VIH-1 com uma mediana de idade
+de 7 anos (intervalo de 2 a 15 anos) foram expostos ao tenofovir disoproxil durante uma mediana de
+331 semanas. Oito dos 89 doentes (9,0%) descontinuaram o medicamento do estudo devido a
+acontecimentos adversos renais. Cinco indivíduos (5,6%) desenvolveram resultados laboratoriais
+clinicamente consistentes com tubulopatia renal proximal, 4 dos quais descontinuaram a terapêutica
+com tenofovir disoproxil. Sete doentes tinham valores da taxa de filtração glomerular (TFG) estimada
+entre 70 e 90 ml/min/1,73 m2. Entre estes, 3 doentes apresentaram uma diminuição clinicamente
+significativa da TFG estimada durante o tratamento, que melhorou após a descontinuação do tenofovir
+disoproxil.
+
+27
+
+Outras populações especiais
+Indivíduos com compromisso renal: Como o tenofovir disoproxil pode causar toxicidade renal,
+recomenda-se uma monitorização cuidadosa da função renal em qualquer adulto com compromisso
+renal a receber Truvada (ver secções 4.2, 4.4 e 5.2). A utilização de Truvada não é recomendada em
+indivíduos com idade inferior a 18 anos de idade com compromisso renal (ver secções 4.2 e 4.4).
+Doentes coinfetados por VIH/VHB ou VHC: O perfil das reações adversas de emtricitabina e tenofovir
+disoproxil num número limitado de doentes infetados por VIH que se encontravam coinfetados por
+VHB (n = 13) ou VHC (n = 26) no estudo GS-01-934 foi idêntico ao observado em doentes infetados
+por VIH sem coinfeção. No entanto, tal como seria de esperar nesta população de doentes, as
+elevações da AST e ALT ocorreram com maior frequência do que na generalidade da população
+infetada por VIH.
+Exacerbações de hepatite após a descontinuação do tratamento: Em doentes infetados por VHB,
+ocorreram evidências clínicas e laboratoriais de hepatite após a interrupção da terapêutica (ver
+secção 4.4).
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Se ocorrer sobredosagem, o indivíduo deve ser monitorizado para pesquisa de toxicidade (ver
+secção 4.8) e, se necessário, deve ser administrada terapêutica de suporte.
+A hemodiálise pode remover até 30% da dose de emtricitabina e aproximadamente 10% da dose de
+tenofovir. Desconhece-se se a emtricitabina ou o tenofovir podem ser eliminados por diálise
+peritoneal.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Antivirais para uso sistémico; antivirais para o tratamento de infeções por
+VIH, associações. Código ATC: J05AR03
+Mecanismo de ação
+A emtricitabina é um análogo nucleosídeo da citidina. O tenofovir disoproxil é convertido in vivo em
+tenofovir, que é um análogo nucleosídeo monofosfatado (nucleótido) do monofosfato de adenosina.
+Ambos, emtricitabina e tenofovir, têm atividade que é específica para os vírus da imunodeficiência
+humana (VIH-1 e VIH-2) e vírus da hepatite B.
+A emtricitabina e o tenofovir são fosforilados por enzimas celulares para formar a emtricitabina
+trifosfato e o tenofovir difosfato, respetivamente. Estudos in vitro demonstraram que ambos,
+emtricitabina e tenofovir, podem ser totalmente fosforilados quando ambos estão presentes nas células.
+A emtricitabina trifosfato e o tenofovir difosfato inibem competitivamente a transcriptase reversa do
+VIH-1, por terminação da cadeia de ADN.
+Ambos, a emtricitabina trifosfato e o tenofovir difosfato são fracos inibidores das ADN polimerases
+dos mamíferos e não houve evidência de toxicidade mitocondrial, in vitro e in vivo.
+28
+
+Atividade antiviral in vitro
+Uma atividade antiviral sinérgica foi observada, in vitro, com a associação de emtricitabina e
+tenofovir. Observaram-se efeitos de aditivos a sinérgicos em estudos de associação com inibidores da
+protease, e com análogos nucleosídeos e não-nucleosídeos inibidores da transcriptase reversa do VIH.
+Resistência
+In vitro: Foi observada resistência in vitro e em alguns doentes infetados por VIH-1 devido ao
+desenvolvimento da mutação M184V/I associada à emtricitabina ou da mutação K65R associada ao
+tenofovir. Os vírus com a mutação M184V/I de resistência à emtricitabina apresentaram resistência
+cruzada à lamivudina, mas mantiveram a sensibilidade à didanosina, estavudina, tenofovir e
+zidovudina. A mutação K65R pode também ser selecionada pelo abacavir ou didanosina e resulta
+numa suscetibilidade reduzida a estes fármacos e à lamivudina, à emtricitabina e ao tenofovir. Em
+doentes que tenham estirpes de VIH-1 com a mutação K65R deve evitar-se o uso de tenofovir
+disoproxil. Além disso, foi selecionada pelo tenofovir uma substituição K70E na transcriptase reversa
+do VIH-1 que resulta em suscetibilidade reduzida de baixo nível ao abacavir, emtricitabina,
+lamivudina e ao tenofovir. As estirpes de VIH-1 com 3 ou mais mutações da transcriptase reversa
+associadas a análogos da timidina (TAMs) que incluíam quer a M41L ou L210W apresentaram
+suscetibilidade reduzida ao tenofovir disoproxil.
+Tratamento do VIH-1 in vivo: Num estudo clínico aberto aleatorizado (GS-01-934) em doentes sem
+terapêutica antirretroviral prévia, foi efetuada a genotipagem em isolados do VIH-1 plasmático de
+todos os doentes com ARN VIH > 400 cópias/ml confirmado às semanas 48, 96 ou 144 ou no
+momento da descontinuação precoce do medicamento do estudo. À semana 144:
+•
+
+•
+•
+
+A mutação M184V/I desenvolveu-se em 2/19 (10,5%) dos isolados analisados de doentes no
+grupo de emtricitabina/tenofovir disoproxil/efavirenz e em 10/29 (34,5%) dos isolados
+analisados do grupo de lamivudina/zidovudina/efavirenz (p < 0,05, Teste Exato de Fisher
+comparando o grupo de emtricitabina+tenofovir disoproxil ao grupo de lamivudina/zidovudina
+entre todos os doentes).
+Nenhum vírus analisado continha a mutação K65R ou K70E.
+Desenvolveu-se resistência genotípica ao efavirenz, predominantemente a mutação K103N, no
+vírus de 13/19 (68%) doentes no grupo de emtricitabina/tenofovir disoproxil/efavirenz e no
+vírus de 21/29 (72%) doentes no grupo comparativo.
+
+Profilaxia pré-exposição in vivo: Foram analisadas amostras de plasma de indivíduos não infetados
+por VIH-1 que participaram em 2 estudos clínicos (iPrEX e Partners PrEP) para 4 variantes do VIH-1
+que expressavam substituições de aminoácidos (isto é, K65R, K70E, M184V e M184I) que
+potencialmente conferem resistência ao tenofovir ou à emtricitabina. No estudo clínico iPrEx, não
+foram detetadas variantes do VIH-1 que expressassem as mutações K65R, K70E, M184V ou M184I
+no momento da seroconversão nos indivíduos que ficaram infetados por VIH-1 após a inclusão no
+estudo. Em 3 dos 10 indivíduos que apresentavam infeção aguda por VIH-1 à data da inclusão no
+estudo, foram detetadas as mutações M184I e M184V no VIH em 2 dos 2 indivíduos no grupo de
+Truvada e em 1 dos 8 indivíduos no grupo do placebo.
+No estudo clínico Partners PrEP, não foram detetadas variantes do VIH-1 que expressassem a K65R,
+K70E, M184V ou M184I no momento da seroconversão entre indivíduos que ficaram infetados por
+VIH-1 durante o estudo. Em 2 dos 14 indivíduos que apresentavam infeção aguda por VIH no
+momento da inclusão no estudo, foi detetada a mutação K65R em 1 dos 5 indivíduos no grupo de
+tenofovir disoproxil 245 mg e a mutação M184V (associada a resistência à emtricitabina) em 1 dos 3
+indivíduos no grupo de Truvada.
+
+29
+
+Dados clínicos
+Tratamento da infeção por VIH-1: Num estudo clínico aberto aleatorizado (GS-01-934), doentes
+adultos sem terapêutica antirretroviral prévia infetados por VIH-1 receberam ou um regime de
+emtricitabina, tenofovir disoproxil e efavirenz uma vez ao dia (n = 255) ou uma associação de dose
+fixa de lamivudina e zidovudina administrada duas vezes ao dia e efavirenz uma vez ao dia (n = 254).
+Os doentes no grupo de emtricitabina e tenofovir disoproxil receberam Truvada e efavirenz desde a
+semana 96 à semana 144. No início do estudo os grupos aleatorizados tinham um valor mediano de
+ARN VIH-1 plasmático (5,02 e 5,00 log10 cópias/ml) e contagem de células CD4 (233 e
+241 células/mm3) semelhantes. O objetivo de eficácia primário para este estudo foi o alcance e
+manutenção de concentrações confirmadas de ARN VIH-1 < 400 cópias/ml ao longo das 48 semanas.
+Análises secundárias de eficácia ao longo das 144 semanas incluíram a proporção de doentes com
+concentrações de ARN VIH-1 < 400 ou < 50 cópias/ml e alterações dos valores iniciais na contagem
+de células CD4.
+Os dados do objetivo primário às 48 semanas revelaram que a associação de emtricitabina, tenofovir
+disoproxil e efavirenz apresentou eficácia antiviral superior quando comparada com a associação fixa
+de lamivudina e zidovudina com efavirenz como demonstrado na Tabela 4. Os dados do objetivo
+secundário às 144 semanas estão igualmente apresentados na Tabela 4.
+Tabela 4: Dados de eficácia às 48 e 144 semanas do estudo GS-01-934 no qual a emtricitabina,
+tenofovir disoproxil e efavirenz foram administrados em doentes sem terapêutica antirretroviral
+prévia com infeção por VIH-1
+GS-01-934
+Tratamento para 48 semanas
+
+ARN VIH-1
+< 400 cópias/ml (TPRV)
+Valor p
+% da diferença (IC 95%)
+ARN VIH-1
+< 50 cópias/ml (TPRV)
+Valor p
+% da diferença (IC 95%)
+Mudança média no valor
+inicial da contagem de
+células CD4 (células/mm3)
+Valor p
+Diferença (IC 95%)
+*
+
+Emtricitabina+
+tenofovir disoproxil+
+efavirenz
+84% (206/244)
+
+Lamivudina+
+zidovudina+
+efavirenz
+73% (177/243)
+
+GS-01-934
+Tratamento para 144 semanas
+
+Emtricitabina+
+tenofovir disoproxil+
+efavirenz*
+71% (161/227)
+
+Lamivudina+
+zidovudina+
+efavirenz
+58% (133/229)
+
+0,002**
+11% (4% a 19%)
+80% (194/244)
+70% (171/243)
+
+0,004**
+13% (4% a 22%)
+64% (146/227)
+56% (130/231)
+
+0,021**
+9% (2% a 17%)
++190
++158
+
+0,082**
+8% (-1% a 17%)
++312
++271
+
+0,002a
+32 (9 a 55)
+
+0,089a
+41 (4 a 79)
+
+Doentes a receber emtricitabina, tenofovir disoproxil e efavirenz receberam Truvada e efavirenz desde a semana 96 à
+semana 144
+** Valor p baseado no teste de Cochran-Mantel-Haenszel estratificado para contagem de células CD4 no início do estudo
+TPRV = Tempo de Perda de Resposta Virológica
+a: Teste de Van Elteren
+
+Num estudo clínico aleatorizado (M02-418), 190 adultos sem terapêutica antirretroviral prévia
+receberam terapêutica com emtricitabina e tenofovir disoproxil, uma vez por dia, em associação com
+lopinavir/ritonavir tomado uma ou duas vezes por dia. Às 48 semanas, 70% e 64% dos doentes
+apresentaram ARN VIH-1 < 50 cópias/ml com os regimes diários de lopinavir/ritonavir uma e duas
+vezes por dia, respetivamente. As alterações médias na contagem inicial de células CD4 foram de
++185 células/mm3 e +196 células/mm3, respetivamente.
+Experiência clínica limitada em doentes coinfetados por VIH e VHB sugere que o tratamento com
+emtricitabina ou tenofovir disoproxil em terapêutica de associação de antirretrovirais para controlar a
+infeção por VIH resulta numa redução de ADN VHB (redução de 3 log10 ou redução de 4 a 5 log10,
+respetivamente) (ver secção 4.4).
+30
+
+Profilaxia pré-exposição: O estudo iPrEx (CO-US-104-0288) avaliou Truvada ou placebo em
+2.499 homens não infetados por VIH (ou mulheres transgénero) que mantinham relações sexuais com
+homens e que eram considerados de elevado risco para a infeção por VIH. Os indivíduos foram
+seguidos por 4.237 pessoas-ano. As características iniciais estão resumidas na Tabela 5.
+Tabela 5: População do estudo CO-US-104-0288 (iPrEx)
+
+Idade (anos), Média (DP)
+Raça, N (%)
+Negros/Afro-americanos
+Caucasianos
+Mistos/Outros
+Asiáticos
+Etnia hispânica/latina, N (%)
+Fatores de risco sexual no rastreio
+Número de parceiros nas 12 semanas anteriores, Média (DP)
+URAI nas 12 semanas anteriores, N (%)
+URAI com parceiro infetado por VIH (ou estado de infeção
+desconhecido) nos 6 meses anteriores, N (%)
+Envolvimento em sexo transacional nos últimos 6 meses, N (%)
+Parceiro infetado por VIH nos últimos 6 meses, N (%)
+Serorreatividade à sífilis, N (%)
+Infeção sérica por vírus Herpes Simplex Tipo 2, N (%)
+Positividade para esterase leucocitária na urina, N (%)
+URAI = sexo anal recetivo desprotegido
+
+Placebo
+(n = 1248)
+27 (8,5)
+
+Truvada
+(n = 1251)
+27 (8,6)
+
+97 (8)
+208 (17)
+878 (70)
+65 (5)
+906 (73)
+
+117 (9)
+223 (18)
+849 (68)
+62 (5)
+900 (72)
+
+18 (43)
+753 (60)
+1009 (81)
+
+18 (35)
+732 (59)
+992 (79)
+
+510 (41)
+32 (3)
+162/1239 (13)
+430/1243 (35)
+22 (2)
+
+517 (41)
+23 (2)
+164/1240 (13)
+458/1241 (37)
+23 (2)
+
+A incidência da seroconversão para o VIH global e no subgrupo que reportou sexo anal recetivo
+desprotegido é apresentada na Tabela 6. A eficácia esteve fortemente correlacionada com a adesão, tal
+como avaliado pela deteção dos níveis plasmáticos ou intracelulares do fármaco num estudo de casocontrolo (Tabela 7).
+Tabela 6: Eficácia no estudo CO-US-104-0288 (iPrEx)
+Análise mITT
+Seroconversões/N
+Redução do risco relativo (IC 95%)b
+URAI até 12 semanas antes do rastreio, análise mITT
+Seroconversões/N
+Redução do risco relativo (IC 95%)b
+
+Placebo
+
+Truvada
+
+Valor de pa, b
+
+83/1217
+48/1224
+42% (18%, 60%)
+
+0,002
+
+72/753
+34/732
+52% (28%, 68%)
+
+0,0349
+
+Valores de p por meio do teste logrank. O valor de p para URAI refere-se à hipótese nula de que a eficácia era diferente
+entre estratos do subgrupo (URAI, não URAI).
+b Redução do risco relativo calculada por mITT com base na incidência de seroconversão, ou seja, que ocorria após o início
+até à primeira visita após o tratamento (aproximadamente 1 mês depois da última dispensa do medicamento do estudo).
+a
+
+Tabela 7: Eficácia e adesão no estudo CO-US-104-0288 (iPrEx, análise de caso-controlo
+correspondente)
+Coorte
+Indivíduos positivos para VIH
+Indivíduos negativos para VIH do
+grupo controlo
+
+Fármaco
+detetado
+4 (8%)
+63 (44%)
+
+Fármaco não
+detetado
+44 (92%)
+81 (56%)
+
+Redução do risco relativo (IC
+95% bilateral)a
+94% (78%, 99%)
+—
+
+a Redução do risco relativo calculada a partir da incidência de seroconversão (após o início) no período de tratamento em
+dupla ocultação e ao longo do período de seguimento de 8 semanas. Só foram avaliadas amostras de indivíduos aleatorizados
+para o grupo de Truvada para determinação dos níveis detetáveis de tenofovir disoproxil-DP plasmáticos ou intracelulares.
+
+31
+
+O estudo clínico Partners PrEP (CO-US-104-0380) avaliou Truvada, tenofovir disoproxil 245 mg ou
+placebo em 4.758 indivíduos não infetados por VIH do Quénia ou Uganda que eram casais
+heterossexuais serodiscordantes. Os indivíduos foram seguidos por 7.830 pessoas-ano.
+As características iniciais estão resumidas na Tabela 8.
+Tabela 8: População do estudo CO-US-104-0380 (Partners PrEP)
+Placebo
+(n = 1584)
+
+Tenofovir disoproxil
+245 mg
+(n = 1584)
+
+Truvada
+(n = 1579)
+
+33 (28, 39)
+
+33 (28, 40)
+
+986 (62)
+598 (38)
+
+1013 (64)
+566 (36)
+
+1543 (97)
+7,0 (3,0, 13,5)
+
+1540 (98)
+7,1 (3,0, 14,0)
+
+0,5 (0,1, 2,0)
+
+0,4 (0,1, 2,0)
+
+Idade (anos), mediana (Q1, Q3)
+34 (28, 40)
+Sexo, N (%)
+Masculino
+963 (61)
+Feminino
+621 (39)
+Características-chave do casal, N (%) ou mediana (Q1, Q3)
+Casado com o parceiro do estudo
+1552 (98)
+Número de anos a viver com o parceiro do
+7,1 (3,0, 14,0)
+estudo
+Número de anos com conhecimento do
+0,4 (0,1, 2,0)
+estado discordante
+
+A incidência da seroconversão para o VIH é apresentada na Tabela 9. A taxa de seroconversão para o
+VIH-1 nos indivíduos do sexo masculino foi de 0,24/100 pessoas-ano de exposição ao Truvada e a
+taxa de seroconversão para o VIH-1 nos indivíduos do sexo feminino foi de 0,95/100 pessoas-ano de
+exposição ao Truvada. A eficácia esteve fortemente correlacionada com a adesão, tal como
+determinado pela deteção dos níveis plasmáticos ou intracelulares do fármaco e foi mais elevada entre
+os participantes do sub-estudo que receberam aconselhamento ativo para a adesão como indicado na
+Tabela 10.
+Tabela 9: Eficácia no estudo CO-US-104-0380 (Partners PrEP)
+
+Seroconversões/Na
+Incidência por 100 pessoas-ano (IC 95%)
+Redução do risco relativo (IC 95%)
+
+Placebo
+52/1578
+1,99 (1,49, 2,62)
+—
+
+Tenofovir disoproxil
+245 mg
+17/1579
+0,65 (0,38, 1,05)
+67% (44%, 81%)
+
+Truvada
+13/1576
+0,50 (0,27, 0,85)
+75% (55%, 87%)
+
+Redução do risco relativo calculada para a coorte mITT com base na incidência de seroconversão (após o início). Foram
+realizadas comparações para os grupos do estudo ativo versus placebo.
+
+a
+
+Tabela 10: Eficácia e adesão no estudo CO-US-104-0380 (Partners PrEP)
+Número com deteção de tenofovir/Total de
+amostras (%)
+Quantificação do
+medicamento do
+estudo
+Grupo FTC/tenofovir
+disoproxila
+Grupo tenofovir
+disoproxila
+Sub-estudo de
+adesão
+Seroconversões/Nb
+
+Caso
+
+Coorte
+
+3/12 (25%)
+
+375/465 (81%)
+
+6/17 (35%)
+
+363/437 (83%)
+
+Participantes do sub-estudo de adesão
+Tenofovir disoproxil
+Placebo
+245 mg+Truvada
+14/404 (3,5%)
+0/745 (0%)
+
+Estimativa de risco para proteção
+contra o VIH-1:
+Deteção versus sem deteção de
+Tenofovir
+Redução do risco
+relativo (IC 95%)
+Valor de p
+90% (56%, 98%)
+
+0,002
+
+86% (67%, 95%)
+
+< 0,001
+
+Redução do risco
+relativo (IC 95%)
+100% (87%, 100%)
+
+Valor de p
+< 0,001
+
+b
+
+a ‘Caso’ = seroconversão para o VIH; ‘Coorte’ = 100 indivíduos selecionados aleatoriamente de cada um dos grupos de
+tenofovir disoproxil 245 mg e Truvada. Só foram avaliadas as amostras de Caso ou Coorte de indivíduos aleatorizados para
+tenofovir disoproxil 245 mg ou Truvada para determinação dos níveis detetáveis de tenofovir no plasma.
+
+32
+
+b Os participantes do sub-estudo foram sujeitos a monitorização de adesão ativa, por exemplo: visitas ao domicílio sem aviso
+prévio e contagem do número de comprimidos, bem como aconselhamento para melhorar a adesão ao medicamento do
+estudo.
+
+População pediátrica
+A segurança e a eficácia de Truvada em crianças com idade inferior a 12 anos de idade não foram
+estabelecidas.
+Tratamento da infeção por VIH-1 na população pediátrica
+Não existem estudos clínicos realizados com Truvada na população pediátrica com infeção por VIH-1.
+A eficácia e a segurança clínica de Truvada foram estabelecidas a partir de estudos realizados com
+emtricitabina e tenofovir disoproxil quando administrados como agentes únicos.
+Estudos com emtricitabina
+Em lactentes e crianças com idade superior a 4 meses, a maioria dos doentes tratados com
+emtricitabina atingiu ou manteve a supressão completa de ARN VIH-1 plasmático ao longo de 48
+semanas (89% atingiu ≤ 400 cópias/ml e 77% atingiu ≤ 50 cópias/ml).
+Estudos com tenofovir disoproxil
+No estudo GS-US-104-0321, 87 doentes infetados por VIH-1, previamente tratados, com idade
+compreendida entre os 12 e < 18 anos, foram tratados com tenofovir disoproxil (n = 45) ou placebo
+(n = 42) em associação com uma terapêutica base otimizada (TBO) durante 48 semanas. Devido às
+limitações do estudo, não se demonstrou um benefício do tenofovir disoproxil em relação ao placebo
+com base nos níveis plasmáticos de ARN VIH-1 na semana 24. Contudo, é de prever um benefício
+para a população adolescente com base na extrapolação dos dados em adultos e os dados
+farmacocinéticos comparativos (ver secção 5.2).
+Em doentes que receberam tratamento com tenofovir disoproxil ou placebo, o índice Z médio da DMO
+ao nível da coluna lombar foi de -1,004 e de -0,809 e o índice Z médio da DMO do corpo inteiro foi
+respetivamente de -0,866 e de -0,584 em relação aos valores basais. As alterações médias na semana
+48 (fim da fase com dupla ocultação) do índice Z médio da DMO ao nível da coluna lombar foram de
+-0,215 e de -0,165 e o índice Z médio da DMO do corpo inteiro foram de -0,254 e de -0,179,
+respetivamente, nos grupos do tenofovir disoproxil e placebo. A proporção média do aumento da
+DMO foi inferior no grupo do tenofovir disoproxil em comparação com o grupo do placebo. Na
+semana 48, seis adolescentes do grupo do tenofovir disoproxil e um adolescente do grupo do placebo
+apresentaram uma diminuição significativa da DMO ao nível da coluna lombar (definida como uma
+diminuição > 4%). Nos 28 doentes que receberam tratamento com tenofovir disoproxil durante
+96 semanas, os índices Z da DMO diminuíram em -0,341 na coluna lombar e em -0,458 no corpo
+inteiro.
+No estudo GS-US-104-0352, 97 doentes previamente tratados, com idade compreendida entre os 2 e
+< 12 anos e com supressão virológica estável em regimes contendo estavudina ou zidovudina, foram
+aleatorizados para substituir a estavudina ou a zidovudina por tenofovir disoproxil (n = 48) ou para
+continuar com o seu regime original (n = 49) durante 48 semanas. Na semana 48, 83% dos doentes do
+grupo de tratamento com tenofovir disoproxil e 92% dos doentes do grupo de tratamento com
+estavudina ou zidovudina apresentaram concentrações de ARN VIH-1 < 400 cópias/ml. A diferença na
+proporção de doentes que manteve < 400 cópias/ml na semana 48 foi influenciada principalmente por
+um número maior de descontinuações no grupo de tratamento com tenofovir disoproxil. Quando se
+excluiram os dados em falta, 91% dos doentes do grupo de tratamento com tenofovir disoproxil e 94%
+dos doentes do grupo de tratamento com estavudina ou zidovudina tinham concentrações de ARN
+VIH-1 < 400 cópias/ml na semana 48.
+Foram notificadas diminuições da DMO em doentes pediátricos. Em doentes que receberam
+tratamento com tenofovir disoproxil ou com estavudina ou com zidovudina, o índice Z médio da DMO
+ao nível da coluna lombar foi respetivamente de -1,034 e de -0,498 e o índice Z médio da DMO do
+corpo inteiro foi respetivamente de -0,471 e de -0,386, em relação aos valores basais. As alterações
+33
+
+médias na semana 48 (fim da fase de aleatorização) do índice Z médio da DMO ao nível da coluna
+lombar foram de 0,032 e de 0,087 e o índice Z médio da DMO do corpo inteiro foram de -0,184 e 0,027, respetivamente nos grupos do tenofovir disoproxil e da estavudina ou zidovudina. A proporção
+média do aumento ósseo na coluna lombar na semana 48 foi semelhante no grupo de tratamento do
+tenofovir disoproxil e no grupo de tratamento da estavudina ou zidovudina. O aumento ósseo do corpo
+inteiro foi inferior no grupo de tratamento do tenofovir disoproxil em comparação com o grupo de
+tratamento da estavudina ou zidovudina. Um indivíduo tratado com tenofovir disoproxil e nenhum
+indivíduo tratado com estavudina ou zidovudina apresentou uma diminuição significativa da DMO ao
+nível da coluna lombar (> 4%) na semana 48. Nos 64 doentes que foram tratados com tenofovir
+disoproxil durante 96 semanas, os índices Z da DMO diminuíram em -0,012 na coluna lombar e em 0,338 no corpo inteiro. Os índices Z da DMO não foram ajustados em relação à altura e peso.
+No estudo GS-US-104-0352, 8 de um total de 89 doentes pediátricos (9,0%) expostos ao tenofovir
+disoproxil descontinuaram o medicamento do estudo devido a acontecimentos adversos renais. Cinco
+indivíduos (5,6%) desenvolveram resultados laboratoriais clinicamente consistentes com tubulopatia
+renal proximal, 4 dos quais descontinuaram a terapêutica com tenofovir disoproxil (exposição mediana
+ao tenofovir disoproxil de 331 semanas).
+Profilaxia pré-exposição na população pediátrica
+Espera-se que a eficácia e a segurança de Truvada na profilaxia pré-exposição em adolescentes que
+aderem à dose diária sejam semelhantes às dos adultos com o mesmo nível de adesão. Os potenciais
+efeitos renais e ósseos da utilização a longo prazo de Truvada para profilaxia pré-exposição em
+adolescentes são incertos (ver secção 4.4).
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+A bioequivalência de um comprimido revestido por película de Truvada com uma cápsula de 200 mg
+de emtricitabina e um comprimido revestido por película de 245 mg de tenofovir disoproxil foi
+estabelecida após a administração de uma dose única em jejum a indivíduos saudáveis. Após
+administração oral de Truvada, a indivíduos saudáveis, a emtricitabina e o tenofovir disoproxil são
+rapidamente absorvidos e o tenofovir disoproxil é convertido em tenofovir. As concentrações séricas
+máximas de emtricitabina e de tenofovir são observadas dentro de 0,5 a 3,0 horas após a administração
+em jejum. A administração de Truvada com os alimentos resultou num acréscimo de
+aproximadamente três quartos de hora para atingir a concentração máxima de tenofovir e com
+aumentos da AUC do tenofovir e Cmax de aproximadamente 35% e 15%, respetivamente, quando
+administrado com uma refeição rica em lípidos ou com uma refeição ligeira, comparativamente à
+administração em jejum. Recomenda-se que Truvada seja tomado preferencialmente com alimentos,
+de modo a otimizar a absorção do tenofovir.
+Distribuição
+Após a administração intravenosa o volume de distribuição foi aproximadamente de 1,4 l/kg e
+800 ml/kg para a emtricitabina e tenofovir, respetivamente. Após administração oral de emtricitabina
+ou tenofovir disoproxil, a emtricitabina e o tenofovir são largamente distribuídos no organismo.
+In vitro, a ligação da emtricitabina às proteínas plasmáticas foi < 4% e independente da concentração
+dentro do intervalo 0,02 a 200 µg/ml. In vitro, a ligação do tenofovir às proteínas plasmáticas ou às
+proteínas séricas foi inferior a 0,7 e 7,2%, respetivamente, acima do intervalo de concentração de
+tenofovir 0,01 a 25 µg/ml.
+Biotransformação
+O metabolismo da emtricitabina é limitado. A biotransformação da emtricitabina inclui a oxidação da
+metade tiol para formar os diastereoisómeros 3'-sulfóxido (aproximadamente 9% da dose) e a
+conjugação com o ácido glucorónico para formar o 2'-O-glucoronido (aproximadamente 4% da dose).
+Os estudos in vitro determinaram que nem o tenofovir disoproxil nem o tenofovir são substratos para
+34
+
+as enzimas do CYP450. Nem a emtricitabina nem o tenofovir inibiram in vitro o metabolismo de
+fármacos mediado por qualquer uma das principais isoformas humanas do CYP450 envolvidas na
+biotransformação de fármacos. A emtricitabina também não inibiu a
+uridina-5'-difosfato glucoroniltransferase, a enzima responsável pela glucoronidação.
+Eliminação
+A emtricitabina é excretada principalmente pelos rins, sendo que aproximadamente 86% da dose foi
+recuperada na urina e aproximadamente 14% nas fezes. Treze por cento da dose de emtricitabina foi
+recuperada na urina na forma de três metabolitos. A depuração sistémica da emtricitabina foi, em
+média, 307 ml/min. O tempo de semivida de eliminação da emtricitabina, após administração oral, é
+de, aproximadamente, 10 horas.
+O tenofovir é excretado principalmente pelo rim, por filtração e também pelo sistema de transporte
+tubular ativo sendo aproximadamente 70-80% da dose excretada na forma inalterada na urina após a
+administração intravenosa. A depuração aparente do tenofovir, em média, foi de aproximadamente
+307 ml/min. A depuração renal foi estimada como sendo aproximadamente 210 ml/min, a qual excede
+a taxa de filtração glomerular. Isto indica que a secreção tubular ativa é uma parte importante da
+eliminação do tenofovir. Após a administração oral, o tempo de semivida de eliminação do tenofovir é
+de, aproximadamente, 12 a 18 horas.
+Idosos
+Não foram efetuados estudos farmacocinéticos com emtricitabina ou tenofovir (administrado como
+tenofovir disoproxil) em idosos (com idade superior a 65 anos).
+Sexo
+A farmacocinética da emtricitabina e do tenofovir é idêntica em doentes do sexo masculino e
+feminino.
+Etnia
+Não foram identificadas diferenças farmacocinéticas clinicamente importantes relacionadas com a
+etnia para a emtricitabina. A farmacocinética de tenofovir (administrado como tenofovir disoproxil)
+não foi especificamente estudada em diferentes grupos étnicos.
+População pediátrica
+Não foram realizados estudos de farmacocinética com Truvada em crianças e adolescentes (com
+menos de 18 anos de idade). A farmacocinética no estado estacionário do tenofovir foi avaliada em
+8 doentes adolescentes infetados por VIH-1 (com idades compreendidas entre os 12 e < 18 anos) com
+um peso corporal ≥ 35 kg e em 23 crianças infetadas por VIH-1 com idades compreendidas entre os
+2 e < 12 anos. A exposição ao tenofovir atingida nestes doentes pediátricos que receberam doses orais
+diárias de tenofovir disoproxil 245 mg ou 6,5 mg de tenofovir disoproxil por kg de peso corporal até
+uma dose máxima de 245 mg foi semelhante às exposições atingidas nos adultos que receberam doses
+únicas diárias de tenofovir disoproxil 245 mg. Não foram realizados estudos de farmacocinética com
+tenofovir disoproxil em crianças com menos de 2 anos de idade. De um modo geral, a farmacocinética
+da emtricitabina em lactentes, crianças e adolescentes (com idades compreendidas entre os 4 meses e
+os 18 anos) é idêntica à verificada em adultos.
+Espera-se que a farmacocinética da emtricitabina e do tenofovir (administrado como tenofovir
+disoproxil) seja idêntica em adolescentes infetados e não infetados por VIH-1, com base em
+exposições semelhantes à emtricitabina e tenofovir verificadas em adolescentes e adultos infetados por
+VIH-1, e em adultos infetados e não infetados por VIH-1.
+
+35
+
+Compromisso renal
+Estão disponíveis dados farmacocinéticos limitados para a emtricitabina e para o tenofovir após a
+administração concomitante das formulações separadas ou na forma de Truvada em doentes com
+compromisso renal. Os parâmetros farmacocinéticos foram determinados principalmente após a
+administração de doses únicas de 200 mg de emtricitabina ou 245 mg de tenofovir disoproxil a
+indivíduos não infetados por VIH com graus variáveis de compromisso renal. O grau de compromisso
+renal foi definido de acordo com os níveis basais de depuração da creatinina (ClCr) (função renal
+normal quando a ClCr > 80 ml/min; compromisso renal ligeiro se ClCr = 50-79 ml/min; compromisso
+renal moderado se ClCr = 30-49 ml/min e compromisso renal grave se ClCr = 10-29 ml/min).
+A exposição média ao fármaco (%CV) emtricitabina aumentou de 12 µg•h/ml (25%) em indivíduos
+com a função renal normal, para 20 µg•h/ml (6%), 25 µg•h/ml (23%) e 34 µg•h/ml (6%), em
+indivíduos com compromisso renal ligeiro, moderado e grave, respetivamente. A exposição média ao
+fármaco (%CV) tenofovir aumentou de 2.185 ng•h/ml (12%) em indivíduos com a função renal
+normal, para 3.064 ng•h/ml (30%), 6.009 ng•h/ml (42%) e 15.985 ng•h/ml (45%), em indivíduos com
+compromisso renal ligeiro, moderado e grave, respetivamente.
+Nos doentes infetados por VIH-1 com compromisso renal moderado, espera-se que o aumento do
+intervalo entre doses de Truvada resulte numa concentração máxima plasmática mais elevada e
+menores níveis de Cmin, em comparação com doentes com função renal normal. Em indivíduos com
+doença renal em fase terminal (End Stage Renal Disease - ESRD) necessitando de hemodiálise, a
+exposição aos fármacos entre diálise aumentou substancialmente durante 72 horas para
+53 µg•h/ml (19%) de emtricitabina e, durante 48 horas para 42.857 ng•h/ml (29%) de tenofovir.
+Foi realizado um pequeno estudo clínico para avaliar a segurança, atividade antiviral e a
+farmacocinética do tenofovir disoproxil em associação com emtricitabina em doentes infetados por
+VIH com compromisso renal. Um subgrupo de doentes com níveis basais de depuração da creatinina
+entre 50 e 60 ml/min, com uma administração diária, apresentou um aumento de 2-4 vezes na
+exposição ao tenofovir e um agravamento da função renal.
+A farmacocinética da emtricitabina e do tenofovir (administrado como tenofovir disoproxil) em
+doentes pediátricos com compromisso renal não foi estudada. Não existem dados disponíveis para que
+sejam feitas recomendações posológicas (ver secções 4.2 e 4.4).
+Compromisso hepático
+A farmacocinética de Truvada não foi estudada em indivíduos com compromisso hepático.
+A farmacocinética da emtricitabina não foi estudada em indivíduos não infetados por VHB com
+diferentes graus de insuficiência hepática. De um modo geral, a farmacocinética da emtricitabina em
+indivíduos infetados por VHB foi idêntica à verificada em indivíduos saudáveis e doentes infetados
+por VIH.
+Uma dose única de 245 mg de tenofovir disoproxil foi administrada a indivíduos não infetados por
+VIH com diferentes graus de compromisso hepático definidos de acordo com a classificação
+Child-Pugh-Turcotte (CPT). A farmacocinética do tenofovir não foi substancialmente alterada nos
+indivíduos com compromisso hepático sugerindo que não é necessário um ajuste da posologia nestes
+indivíduos. Os valores médios (%CV) da Cmax e AUC0-∞ do tenofovir foram 223 ng/ml (34,8%) e
+2.050 ng•h/ml (50,8%), respetivamente, em indivíduos normais comparativamente com
+289 ng/ml (46,0%) e 2.310 ng•h/ml (43,5%) em indivíduos com compromisso hepático moderado,
+305 ng/ml (24,8%) e 2.740 ng•h/ml (44,0%) em indivíduos com compromisso hepático grave.
+
+36
+
+5.3
+
+Dados de segurança pré-clínica
+
+Emtricitabina: Os dados não clínicos com a emtricitabina não revelam riscos especiais para o ser
+humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida,
+genotoxicidade, potencial carcinogénico e toxicidade reprodutiva e desenvolvimento.
+Tenofovir disoproxil: Os estudos não clínicos de farmacologia de segurança com tenofovir disoproxil
+não revelam riscos especiais para o ser humano. Os estudos de toxicidade de dose repetida em ratos,
+cães e macacos sujeitos a níveis de exposição superiores ou análogos aos níveis de exposição clínica, e
+com eventual relevância para a utilização clínica, incluem toxicidade renal e óssea e uma diminuição
+na concentração sérica de fosfato. A toxicidade óssea foi diagnosticada como osteomalacia (macacos)
+e redução da DMO (ratos e cães). A toxicidade óssea em ratos e cães adultos jovens ocorreu em
+exposições ≥ 5 vezes a exposição em doentes pediátricos ou adultos; a toxicidade óssea ocorreu em
+macacos jovens infetados em exposições muito elevadas após administração subcutânea (≥ 40 vezes a
+exposição em doentes). As descobertas dos estudos realizados em ratos e em macacos indicam que
+houve uma diminuição na absorção intestinal de fosfato relacionada com a substância com potencial
+redução secundária na DMO.
+Os estudos de genotoxicidade revelaram resultados positivos no ensaio de célula de linfoma de
+ratinhos in vitro, resultados equívocos numa das estirpes usadas no teste de Ames e resultados
+fracamente positivos num teste de UDS em hepatócitos primários do rato. Contudo, os resultados
+foram negativos num ensaio de micronúcleo de medula óssea do ratinho in vivo.
+Os estudos de carcinogenicidade por via oral em ratos e ratinhos apenas revelaram uma baixa
+incidência de tumores duodenais numa dose extremamente alta em ratinhos. Estes tumores não são,
+provavelmente, relevantes para os humanos.
+Os estudos de toxicidade reprodutiva em ratos e coelhos não demonstraram efeitos nos parâmetros de
+acasalamento, fertilidade, gravidez ou nos parâmetros fetais. No entanto, o tenofovir disoproxil
+reduziu o índice de viabilidade e o peso das crias num estudo de toxicidade peri- e pós-natal a doses
+tóxicas para o animal materno.
+Associação de emtricitabina e tenofovir disoproxil: Os estudos de genotoxicidade e de toxicidade de
+dose repetida com um mês ou menos efetuados com a associação destes dois componentes não
+revelaram nenhuma exacerbação dos efeitos toxicológicos, em comparação com os estudos dos
+componentes separados.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Núcleo do comprimido:
+Croscarmelose sódica (E468)
+Lactose mono-hidratada
+Estearato de magnésio (E572)
+Celulose microcristalina (E460)
+Amido pré-gelificado (sem glúten)
+Película de revestimento:
+Triacetato de glicerol (E1518)
+Hipromelose (E464)
+Laca de alumínio indigotina (E132)
+Lactose mono-hidratada
+Dióxido de titânio (E171)
+
+37
+
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+4 anos
+6.4
+
+Precauções especiais de conservação
+
+Conservar na embalagem de origem para proteger da humidade. Manter o frasco bem fechado.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Frasco de polietileno de alta densidade (PEAD) com um fecho de polipropileno resistente à abertura
+por crianças contendo 30 comprimidos revestidos por película e um exsicante de sílica gel.
+Estão disponíveis as seguintes apresentações: embalagens contendo 1 frasco de 30 comprimidos
+revestidos por película e embalagens contendo 60 (2 frascos de 30) e 90 (3 frascos de
+30) comprimidos revestidos por película. É possível que não sejam comercializadas todas as
+apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Irlanda
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/04/305/001
+EU/1/04/305/002
+EU/1/04/305/003
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 21 de fevereiro de 2005
+Data da última renovação: 20 de janeiro de 2010
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+38
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+39
+
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+Gilead Sciences Ireland UC
+IDA Business & Technology Park
+Carrigtohill
+County Cork
+Irlanda
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+O titular desta autorização de introdução no mercado deve informar a Comissão Europeia sobre os
+planos de comercialização do medicamento autorizado pela presente decisão.
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+•
+
+Medidas adicionais de minimização do risco
+
+O Titular da Autorização de Introdução no Mercado (AIM) deve assegurar que todos os médicos que se
+espera possam vir a prescrever/utilizar Truvada em adultos e adolescentes para a PrEP recebem material
+educacional destinado a médicos contendo o Resumo das Características do Medicamento e uma
+brochura educacional adequada, como descrito abaixo:
+•
+
+Brochura educacional para os médicos prescritores sobre a PrEP intitulada “Informação de
+segurança importante para os médicos prescritores sobre a profilaxia pré-exposição (PrEP) com
+Truvada”
+40
+
+•
+•
+•
+
+Lista de verificação para os médicos prescritores sobre a PrEP
+Brochura educacional para os indivíduos em risco sobre a PrEP intitulada “Informação
+importante sobre Truvada para reduzir o risco de contrair a infeção pelo vírus da
+imunodeficiência humana (VIH)”
+Cartão lembrete sobre a PrEP
+
+Brochura educacional para os médicos prescritores sobre a PrEP:
+•
+•
+•
+•
+
+Chamada de atenção para as informações chave de segurança referentes à utilização de Truvada
+para a PrEP em adultos e adolescentes
+Chamada de atenção para os fatores que ajudam a identificar os indivíduos que apresentam um
+risco elevado de contraírem o VIH-1
+Chamada de atenção sobre o risco de desenvolver VIH-1 com resistência aos fármacos em
+indivíduos infetados por VIH-1 não diagnosticados
+Disponibilização de informação de segurança relativa à adesão, testes para determinação do
+estatuto serológico para o VIH, estado dos rins, dos ossos e VHB.
+
+Lista de verificação para os médicos prescritores sobre a PrEP:
+•
+
+Chamada de atenção para a avaliação/aconselhamento na consulta inicial e nas de seguimento.
+
+Brochura educacional para os indivíduos em risco sobre a PrEP (a ser entregue pelo profissional
+de saúde):
+•
+•
+•
+•
+•
+
+Chamada de atenção sobre o que os indivíduos devem saber antes e durante o tratamento com
+Truvada para reduzir o risco de contraírem a infeção por VIH
+Chamada de atenção sobre a importância da adesão rigorosa ao regime posológico recomendado
+Disponibilização de informação sobre como tomar Truvada
+Disponibilização de informação sobre os possíveis efeitos indesejáveis
+Disponibilização de informação como conservar Truvada
+
+Cartão lembrete para os indivíduos em risco sobre a PrEP (a ser entregue pelo profissional de
+saúde):
+•
+•
+
+Chamada de atenção para a adesão ao esquema posológico
+Chamada de atenção para a comparência nas consultas médicas programadas.
+
+41
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+42
+
+A. ROTULAGEM
+
+43
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO
+ACONDICIONAMENTO PRIMÁRIO
+ROTULAGEM DO FRASCO E DA EMBALAGEM
+1.
+
+NOME DO MEDICAMENTO
+
+Truvada 200 mg/245 mg comprimidos revestidos por película
+emtricitabina/tenofovir disoproxil
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 200 mg de emtricitabina e 245 mg de tenofovir
+disoproxil (equivalente a 300 mg de tenofovir disoproxil fumarato ou 136 mg de tenofovir).
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose mono-hidratada, consulte o folheto informativo para mais informação.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+30 comprimidos revestidos por película.
+60 (2 frascos de 30) comprimidos revestidos por película.
+90 (3 frascos de 30) comprimidos revestidos por película.
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via oral.
+Consultar o folheto informativo antes de utilizar
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.
+
+44
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar na embalagem de origem para proteger da humidade. Manter o frasco bem fechado.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Irlanda
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/04/305/001 30 comprimidos revestidos por película
+EU/1/04/305/003 60 (2 x 30) comprimidos revestidos por película
+EU/1/04/305/002 90 (3 x 30) comprimidos revestidos por película
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Truvada [Apenas no acondicionamento secundário]
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído. [Apenas no acondicionamento secundário]
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC {número}
+SN {número}
+NN {número}
+[Apenas no acondicionamento secundário]
+
+45
+
+B. FOLHETO INFORMATIVO
+
+46
+
+Folheto informativo: Informação para o utilizador
+Truvada 200 mg/245 mg comprimidos revestidos por película
+emtricitabina/tenofovir disoproxil
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+O que contém este folheto:
+1.
+O que é Truvada e para que é utilizado
+2.
+O que precisa de saber antes de tomar Truvada
+3.
+Como tomar Truvada
+4.
+Efeitos indesejáveis possíveis
+5.
+Como conservar Truvada
+6.
+Conteúdo da embalagem e outras informações
+1.
+
+O que é Truvada e para que é utilizado
+
+Truvada contém duas substâncias ativas, emtricitabina e tenofovir disoproxil. Estas substâncias
+ativas são ambas fármacos antirretrovirais utilizados para tratar a infeção por VIH. A emtricitabina é
+um análogo nucleosídeo inibidor da transcriptase reversa e o tenofovir é um análogo nucleótido
+inibidor da transcriptase reversa. No entanto, ambos são geralmente conhecidos como análogos
+nucleosídeos inibidores da transcriptase reversa (NRTIs) e eles atuam interferindo com a atividade
+normal de uma enzima (transcriptase reversa) que é fundamental para que o vírus se possa reproduzir.
+•
+•
+
+Truvada é utilizado para tratar a infeção pelo Vírus da Imunodeficiência Humana 1
+(VIH-1) em adultos
+É também utilizado para tratar a infeção pelo VIH em adolescentes com idade
+compreendida entre os 12 e < 18 anos que pesam, pelo menos, 35 kg, e que foram
+previamente tratados com outros medicamentos para o VIH que já não são eficazes ou que
+causaram efeitos indesejáveis.
+­
+­
+
+Truvada deve ser sempre utilizado em associação com outros medicamentos para tratar a
+infeção por VIH.
+Truvada pode ser administrado em vez da emtricitabina e do tenofovir disoproxil
+utilizados nas mesmas doses em separado.
+
+Este medicamento não é uma cura para a infeção por VIH. Enquanto tomar Truvada pode
+desenvolver, na mesma, infeções ou outras doenças associadas com a infeção por VIH.
+•
+
+Truvada também é utilizado para reduzir o risco de contrair a infeção por VIH-1 em
+adultos e adolescentes com idade compreendida entre os 12 e < 18 anos que pesam, pelo
+menos, 35 kg, quando tomado diariamente, juntamente com práticas de sexo seguro:
+Consulte a lista de precauções a tomar contra a infeção por VIH na secção 2.
+
+47
+
+2.
+
+O que precisa de saber antes de tomar Truvada
+
+Não tome Truvada para tratar o VIH ou para reduzir o risco de contrair o VIH se tem alergia à
+emtricitabina, ao tenofovir, ao tenofovir disoproxil, ou a qualquer outro componente deste
+medicamento (indicados na secção 6).
+
+
+Caso isto se aplique a si, informe imediatamente o seu médico.
+
+Antes de tomar Truvada para reduzir o risco de contrair a infeção por VIH:
+Truvada apenas pode ajudar a reduzir o risco de contrair a infeção por VIH antes de estar infetado.
+•
+
+Tem de ser negativo para o VIH antes de começar a tomar Truvada para reduzir o risco
+de contrair a infeção por VIH. Tem de realizar uma análise para garantir que ainda não está
+infetado pelo VIH. Não tome Truvada para reduzir o risco de infeção sem que tenha a
+confirmação de que é negativo para o VIH. As pessoas que já estão infetadas pelo VIH têm de
+tomar Truvada em combinação com outros medicamentos.
+
+•
+
+Muitos testes para o VIH podem não detetar uma infeção recente. Se tiver sintomas
+parecidos com os de uma gripe, tal pode significar que foi recentemente infetado por VIH.
+Os seguintes sinais podem ser sinais de infeção por VIH:
+•
+cansaço
+•
+febre
+•
+dores musculares ou nas articulações
+•
+cefaleias
+•
+vómitos ou diarreia
+•
+erupção cutânea
+•
+suores noturnos
+•
+gânglios linfáticos aumentados no pescoço ou na virilha
+
+Informe o seu médico se sentir qualquer sintoma parecido com os da gripe – quer
+seja no mês antes de começar a tomar Truvada ou em qualquer altura enquanto estiver a
+tomar Truvada.
+
+Advertências e precauções
+Enquanto tomar Truvada para reduzir o risco de contrair a infeção por VIH:
+•
+
+Tome Truvada todos os dias para reduzir o risco e não apenas quando achar que esteve em
+risco de contrair a infeção por VIH. Não falhe nenhuma dose nem deixe de tomar Truvada.
+As doses em falta podem aumentar o risco de contrair a infeção por VIH.
+
+•
+
+Realize testes para o VIH regularmente.
+
+•
+
+Se achar que foi infetado pelo VIH informe imediatamente o seu médico. O médico poderá
+querer realizar mais exames para ter a certeza que ainda é negativo para o VIH.
+
+•
+
+Tomar Truvada por si só pode não impedir que contraia o VIH.
+o
+Pratique sempre sexo seguro. Use preservativos para reduzir o contacto com sémen,
+fluidos vaginais ou sangue.
+o
+Não partilhe artigos pessoais que possam ter sangue ou fluidos corporais, como escovas
+de dentes e lâminas de barbear.
+o
+Não partilhe nem reutilize agulhas ou outros utensílios de injeção ou de medicamentos.
+o
+Realize testes para outras infeções transmitidas sexualmente como a sífilis e a gonorreia.
+Estas infeções podem facilitar a infeção por VIH.
+
+48
+
+Fale com o seu médico se tiver mais perguntas sobre como evitar contrair o VIH ou transmitir o VIH
+às outras pessoas.
+Enquanto tomar Truvada para tratar o VIH ou para reduzir o risco de contrair VIH:
+•
+
+Truvada pode afetar os seus rins. Antes e durante o tratamento, o seu médico pode pedir-lhe
+análises ao sangue para medir a função dos seus rins. Informe o seu médico se tiver tido uma
+doença nos rins ou se as análises tiverem apresentado alterações relativas aos seus rins. Truvada
+não deve ser administrado a adolescentes com alterações preexistentes ao nível dos rins. Se tiver
+alterações ao nível dos rins. O seu médico pode aconselhá-lo a deixar de tomar Truvada ou, se
+já estiver infetado por VIH, a tomar Truvada menos frequentemente. Truvada não é
+recomendado se tiver doença renal grave ou se está em diálise.
+
+•
+
+Fale com o seu médico se tem osteoporose, tiver história de fraturas ósseas ou tiver
+problemas com os ossos.
+Podem também ocorrer problemas ósseos (manifestados como dor óssea persistente ou
+agravada e que, por vezes, resulta em fraturas), devido a lesão nas células tubulares do rim (ver
+secção 4, Efeitos indesejáveis possíveis). Informe o seu médico se tiver dores ósseas ou fraturas.
+Tenofovir disoproxil também pode causar a perda de massa óssea. A perda óssea mais
+pronunciada foi observada em estudos clínicos quando os doentes foram tratados para o VIH
+com tenofovir disoproxil e um inibidor da protease potenciado.
+De modo geral, os efeitos de tenofovir disoproxil na saúde óssea a longo prazo e o risco de
+fraturas em doentes adultos e pediátricos são incertos.
+
+•
+
+Se tem ou tiver tido uma doença no fígado, incluindo hepatite, fale com o seu médico. Os
+doentes infetados por VIH com doença no fígado (incluindo hepatite B ou C crónica) que
+estejam a ser tratados com medicamentos antirretrovirais, apresentam um risco superior ao
+normal de sofrerem complicações graves e potencialmente fatais ao nível do fígado. Se tem
+hepatite B ou C, o seu médico irá considerar exatamente o melhor regime terapêutico para si.
+
+•
+
+Conheça o seu estado da infeção por vírus da hepatite B (VHB) antes de começar a tomar
+Truvada. Se tiver o VHB, existe um risco elevado de ter problemas hepáticos quando deixar de
+tomar Truvada, quer esteja ou não infetado pelo VIH. É importante que não pare de tomar
+Truvada sem falar com o seu médico: ver secção 3, Não pare de tomar Truvada.
+
+•
+
+Se tem mais de 65 anos, fale com o seu médico. Truvada não foi estudado em doentes com
+mais de 65 anos de idade.
+
+•
+
+Se for intolerante à lactose, fale com o seu médico (ver mais à frente nesta secção, Truvada
+contém lactose).
+
+Crianças e adolescentes
+Truvada não é para ser utilizado em crianças com menos de 12 anos de idade.
+Outros medicamentos e Truvada
+Não tome Truvada se já estiver a tomar outros medicamentos que contenham os componentes de
+Truvada (emtricitabina e tenofovir disoproxil) ou quaisquer outros medicamentos antivirais que
+contenham tenofovir alafenamida, lamivudina ou adefovir dipivoxil.
+
+49
+
+Tomar Truvada com outros medicamentos que podem danificar os rins: é particularmente
+importante informar o seu médico se estiver a tomar algum destes medicamentos, incluindo
+•
+aminoglicosídeos (para infeções bacterianas)
+•
+anfotericina B (para infeções fúngicas)
+•
+foscarneto (para infeções virais)
+•
+ganciclovir (para infeções virais)
+•
+pentamidina (para infeções)
+•
+vancomicina (para infeções bacterianas)
+•
+interleucina-2 (para tratamento do cancro)
+•
+cidofovir (para infeções virais)
+•
+anti-inflamatórios não esteroides (AINEs, para aliviar a dor óssea ou a dor muscular)
+Se estiver a tomar outro medicamento antiviral para tratar o VIH chamado inibidor da protease, o seu
+médico pode pedir análises sanguíneas para monitorizar mais de perto a sua função renal.
+Também é importante que informe o seu médico se estiver a tomar ledipasvir/sofosbuvir,
+sofosbuvir/velpatasvir ou sofosbuvir/velpatasvir/voxilaprevir para tratar a infeção por hepatite C.
+Tomar Truvada com outros medicamentos que contêm didanosina (para o tratamento da
+infeção por VIH): Tomar Truvada com outros medicamentos antivirais que contêm didanosina pode
+aumentar os níveis de didanosina no seu sangue e pode reduzir as contagens de células CD4. Foram
+notificadas, raramente, inflamação do pâncreas e acidose láctica (excesso de ácido láctico no sangue),
+que ocasionalmente causaram morte, quando foram tomados em conjunto medicamentos contendo
+tenofovir disoproxil e didanosina. O seu médico irá considerar cuidadosamente se deverá tratá-lo com
+associações de tenofovir e didanosina.
+
+
+Informe o seu médico se estiver a tomar algum destes medicamentos. Informe o seu médico ou
+farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a tomar outros
+medicamentos.
+
+Truvada com alimentos e bebidas
+•
+
+Sempre que possível, Truvada deve ser tomado com alimentos.
+
+Gravidez e amamentação
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu
+médico ou farmacêutico antes de tomar este medicamento.
+Se tomou Truvada durante a gravidez, o seu médico pode pedir-lhe para efetuar análises ao sangue e
+outros testes de diagnóstico regulares para verificar o desenvolvimento da sua criança. Nas crianças
+cujas mães tomaram NRTIs durante a gravidez, o benefício da menor possibilidade de infeção pelo
+VIH é superior ao risco de sofrerem efeitos indesejáveis.
+•
+
+Não deverá amamentar durante o tratamento com Truvada. Isto deve-se ao fato de que as
+substâncias ativas deste medicamento são excretadas no leite humano.
+
+•
+
+A amamentação não é recomendada em mulheres que vivem com VIH, uma vez que a infeção
+pelo VIH pode ser transmitida ao bebé através do leite materno.
+
+•
+
+Se estiver a amamentar ou planeia vir a amamentar, deve falar com o seu médico o mais
+rapidamente possível.
+
+50
+
+Condução de veículos e utilização de máquinas
+Truvada pode causar tonturas. Se sentir tonturas enquanto estiver a tomar Truvada, não conduza e não
+utilize quaisquer ferramentas ou máquinas.
+Truvada contém lactose
+Se foi informado pelo seu médico que tem intolerância a alguns açúcares, contacte-o antes de tomar
+este medicamento.
+Truvada contém sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido ou seja, é
+praticamente “isento de sódio”.
+3.
+
+Como tomar Truvada
+
+•
+
+Tome este medicamento exatamente como indicado pelo seu médico. Fale com o seu médico
+ou farmacêutico se tiver dúvidas.
+
+A dose recomendada de Truvada para tratar a infeção por VIH é:
+•
+•
+
+Adultos: um comprimido por dia, sempre que possível com alimentos.
+Adolescentes com idade compreendida entre os 12 e < 18 anos que pesam, pelo menos,
+35 kg: um comprimido por dia, sempre que possível com alimentos.
+
+A dose recomendada de Truvada para reduzir o risco de contrair o VIH é:
+•
+•
+
+Adultos: um comprimido por dia, sempre que possível com alimentos.
+Adolescentes com idade compreendida entre os 12 e < 18 anos que pesam, pelo menos,
+35 kg: um comprimido por dia, sempre que possível com alimentos.
+Se tiver dificuldade em engolir, pode desfazer o comprimido com a ajuda de uma colher. Em
+seguida, dissolva o pó em cerca de 100 ml (meio copo) de água, sumo de laranja ou sumo de
+uva, e beba imediatamente.
+
+•
+
+Tomar sempre a dose recomendada pelo seu médico. Isto para ter a certeza que o seu
+medicamento é totalmente eficaz, e para reduzir o risco de desenvolvimento de resistência ao
+tratamento. Não altere a dose a menos que o seu médico lhe diga para o fazer.
+
+•
+
+Se estiver a ser tratado para a infeção por VIH, o seu médico irá receitar-lhe Truvada com
+outros medicamentos antirretrovirais. Por favor, consulte o folheto informativo dos outros
+medicamentos antirretrovirais para orientação sobre o modo como tomar esses medicamentos.
+
+•
+
+Se estiver a tomar Truvada para reduzir o risco de contrair o VIH, tome Truvada todos os
+dias e não apenas quando achar que esteve em risco de contrair a infeção por VIH.
+
+Fale com o seu médico se tiver mais perguntas sobre como evitar contrair o VIH ou evitar transmitir o
+VIH às outras pessoas.
+Se tomar mais Truvada do que deveria
+Se acidentalmente tomar mais do que a dose recomendada de Truvada, consulte o seu médico ou
+aconselhe-se junto do serviço de urgência mais próximo. Mantenha o frasco de comprimidos consigo
+para que facilmente possa descrever o que tomou.
+51
+
+Caso se tenha esquecido de tomar Truvada
+É importante que não falhe nenhuma dose de Truvada.
+•
+•
+
+Caso se aperceba até 12 horas após a hora em que habitualmente toma Truvada, tome o
+comprimido de preferência com alimentos logo que possível. Depois, tome a dose seguinte
+como normalmente.
+Caso se aperceba 12 horas ou mais após a hora a que habitualmente toma Truvada, não tome
+a dose que falhou. Aguarde e tome a dose seguinte, de preferência com alimentos, à hora
+habitual.
+
+Se vomitar até 1 hora após a toma de Truvada, tome outro comprimido. Não terá de tomar outro
+comprimido se tiver vomitado mais de 1 hora após a toma de Truvada.
+Não pare de tomar Truvada
+•
+
+Se estiver a tomar Truvada para o tratamento da infeção por VIH, deixar de tomar os
+comprimidos pode reduzir a eficácia da terapêutica anti-VIH recomendada pelo seu médico.
+
+•
+
+Se estiver a tomar Truvada para reduzir o risco de contrair o VIH, não deixe de tomar
+Truvada nem falhe nenhuma dose. Interromper o uso de Truvada, ou falhar doses, pode
+aumentar o risco de contrair a infeção por VIH.
+
+
+•
+
+Não pare de tomar Truvada sem falar com o seu médico.
+
+Se tiver hepatite B, é particularmente importante não parar o tratamento com Truvada sem
+previamente consultar o seu médico. Pode necessitar de análises ao sangue durante vários meses
+após interrupção do tratamento. Em alguns doentes com doença hepática (do fígado) avançada
+ou cirrose, a interrupção do tratamento não é recomendada, uma vez que pode levar a um
+agravamento da sua hepatite e pode ser fatal.
+
+
+Informe imediatamente o seu médico se surgirem quaisquer sintomas novos ou pouco
+habituais após parar o tratamento, particularmente sintomas que associaria à sua
+hepatite B.
+
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não
+se manifestem em todas as pessoas.
+Efeitos indesejáveis graves possíveis:
+•
+
+Acidose láctica (excesso de ácido láctico no sangue) é um efeito indesejável raro, mas
+potencialmente fatal. A acidose láctica ocorre mais frequentemente em mulheres,
+particularmente nas que apresentam excesso de peso, e em pessoas com doença do fígado. Os
+seguintes podem ser sinais de acidose láctica:
+•
+respiração profunda, rápida
+•
+sonolência
+•
+sentir-se enjoado (náuseas), estar enjoado (vómitos)
+•
+dor de estômago
+
+
+Caso pense que possa ter acidose láctica, obtenha ajuda médica imediatamente.
+52
+
+•
+
+Quaisquer sinais de inflamação ou infeção. Em alguns doentes com infeção avançada por
+VIH (SIDA) e antecedentes de infeções oportunistas (infeções que ocorrem em pessoas com um
+sistema imunitário fraco), podem ocorrer sinais e sintomas de inflamação de infeções prévias
+logo após iniciar o tratamento contra o VIH. Pensa-se que estes sintomas são devidos a uma
+melhoria na resposta imunitária do corpo, permitindo que o corpo lute contra infeções que
+possam estar presentes sem sintomas óbvios.
+
+•
+
+Também podem ocorrer doenças autoimunes, quando o sistema imunitário ataca os tecidos
+corporais saudáveis, após começar a tomar os medicamentos para tratar a infeção pelo VIH. As
+doenças autoimunes podem ocorrer muitos meses depois do início do tratamento. Esteja atento a
+quaisquer sintomas de infeção ou outros sintomas como:
+•
+fraqueza muscular
+•
+fraqueza a começar nas mãos e nos pés e que progride para o tronco
+•
+palpitações, tremores ou hiperatividade
+
+
+Se observar estes ou quaisquer outros sintomas de inflamação ou infeção, obtenha
+ajuda médica imediatamente.
+
+Efeitos indesejáveis possíveis:
+Efeitos indesejáveis muito frequentes
+(podem afetar mais do que 1 em 10 pessoas)
+•
+diarreia, estar enjoado (vómitos), sentir-se enjoado (náuseas),
+•
+tonturas, dor de cabeça,
+•
+erupção cutânea
+•
+fraqueza
+As análises também podem revelar:
+•
+diminuição do fosfato no sangue
+•
+elevação da creatina cinase
+Efeitos indesejáveis frequentes
+(podem afetar 1 em 10 pessoas)
+•
+dor, dor de estômago
+•
+dificuldade em dormir, sonhos anormais
+•
+problemas digestivos que podem resultar em desconforto após as refeições, enfartamento,
+flatulência
+•
+erupções cutâneas (incluindo manchas vermelhas ou pústulas algumas vezes com bolhas e
+inchaço da pele), que podem ser reações alérgicas, comichão, alterações na cor da pele
+incluindo escurecimento da pele em manchas
+•
+outras reações alérgicas, tais como dificuldade em respirar, inchaço do corpo ou sentir-se
+confuso
+•
+perda de massa óssea
+As análises também podem revelar:
+•
+baixa contagem de glóbulos brancos (uma diminuição dos seus glóbulos brancos pode torná-lo
+mais sujeito a infeções)
+•
+aumento dos triglicéridos (ácidos gordos), da bílis ou do açúcar no sangue
+•
+alterações no fígado e pâncreas
+
+53
+
+Efeitos indesejáveis pouco frequentes
+(podem afetar até 1 em 100 pessoas)
+•
+dor no abdómen (barriga) causada por inflamação do pâncreas
+•
+inchaço da face, lábios, língua ou garganta
+•
+anemia (baixa contagem de glóbulos vermelhos)
+•
+perda da força muscular, dor muscular ou fraqueza muscular que podem ocorrer devido a lesão
+nas células tubulares do rim
+As análises também podem revelar:
+•
+diminuição do potássio no sangue
+•
+aumento da creatinina no sangue
+•
+alterações na urina
+Efeitos indesejáveis raros
+(podem afetar até 1 em 1.000 doentes)
+•
+acidose láctica (ver Efeitos indesejáveis graves possíveis)
+•
+fígado gordo
+•
+pele ou olhos de cor amarelada, comichão ou dor no abdómen (barriga) causadas por inflamação
+do fígado
+•
+inflamação do rim, aumento da quantidade de urina e sentir sede, insuficiência renal, lesão nas
+células tubulares do rim
+•
+perda de resistência dos ossos (com dor nos ossos e por vezes resultando em fraturas)
+•
+dor nas costas causadas por problemas de rins
+A lesão nas células tubulares do rim pode estar associada a perda de força muscular, perda de
+resistência dos ossos (com dor nos ossos e por vezes resultando em fraturas), dor muscular, fraqueza
+muscular e diminuição do potássio ou fosfato no sangue.
+
+
+Se observar qualquer um dos efeitos indesejáveis acima indicados ou se algum destes
+efeitos indesejáveis se agravar, informe o seu médico ou farmacêutico.
+
+A frequência dos efeitos indesejáveis seguintes é desconhecida.
+•
+Problemas ósseos. Alguns doentes tratados com associações de medicamentos antirretrovirais
+tais como Truvada podem desenvolver uma doença óssea chamada osteonecrose (morte do
+tecido ósseo causada pela perda da irrigação de sangue no osso). Tomar este tipo de
+medicamentos durante um período prolongado, tomar corticosteroides, consumir bebidas
+alcoólicas, ter um sistema imunológico muito fraco e ter excesso de peso, podem ser alguns dos
+muitos fatores de risco para o desenvolvimento desta doença. Sinais de osteonecrose são:
+•
+Rigidez nas articulações
+•
+dores nas articulações (especialmente na anca, joelho e ombro)
+•
+dificuldade em se movimentar
+
+Se observar qualquer um destes sintomas, informe o seu médico.
+Durante o tratamento para o VIH pode haver um aumento do peso e dos níveis de lípidos e glucose no
+sangue. Isto está em parte associado a uma recuperação da saúde e do estilo de vida e, no caso dos
+lípidos no sangue, por vezes aos medicamentos para o VIH. O seu médico irá realizar exames para
+determinar estas alterações.
+Outros efeitos em crianças
+•
+As crianças que tomaram emtricitabina apresentaram muito frequentemente alterações na cor da
+pele, incluindo
+•
+escurecimento da pele em manchas
+•
+As crianças apresentaram frequentemente contagens baixas dos glóbulos vermelhos (anemia).
+•
+Isto pode fazer com que a criança fique cansada ou com falta de ar
+
+Se observar qualquer um destes sintomas, informe o seu médico.
+54
+
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar Truvada
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso no frasco e na embalagem exterior,
+após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+Conservar na embalagem de origem para proteger da humidade. Manter o frasco bem fechado.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Truvada
+•
+
+As substâncias ativas são a emtricitabina e o tenofovir disoproxil. Cada comprimido revestido
+por película de Truvada contém 200 mg de emtricitabina e 245 mg de tenofovir disoproxil
+(equivalente a 300 mg de tenofovir disoproxil fumarato ou 136 mg de tenofovir).
+
+•
+
+Os outros componentes são croscarmelose sódica (E468), triacetato de glicerol (E1518),
+hipromelose (E464), laca de alumínio indigotina (E132), lactose mono-hidratada, estearato de
+magnésio (E572), celulose microcristalina (E460), amido pré-gelificado (sem glúten) e dióxido
+de titânio (E171).
+
+Qual o aspeto de Truvada e conteúdo da embalagem
+Truvada comprimidos revestidos por película são comprimidos de cor azul, em forma de cápsula,
+impressos num lado com a palavra “GILEAD” e no outro lado com o número “701”. Truvada
+apresenta-se em frascos de 30 comprimidos. Cada frasco contém um exsicante de sílica gel que deve
+ser mantido no frasco para ajudar a proteger os seus comprimidos. O exsicante de sílica gel está
+contido numa saqueta ou recipiente separado e não deve ser engolido.
+Estão disponíveis as seguintes apresentações: embalagens contendo 1 frasco de 30 comprimidos
+revestidos por película e 60 (2 frascos de 30) e 90 (3 frascos de 30) comprimidos revestidos por
+película. É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado:
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Irlanda
+
+55
+
+Fabricante:
+Gilead Sciences Ireland UC
+IDA Business & Technology Park
+Carrigtohill
+County Cork
+Irlanda
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Gilead Sciences Belgium SRL-BV
+Tél/Tel: + 32 (0) 24 01 35 50
+
+Lietuva
+Gilead Sciences Ireland UC
+Tel: + 353 (0) 1 686 1888
+
+България
+Gilead Sciences Ireland UC
+Тел.: + 353 (0) 1 686 1888
+
+Luxembourg/Luxemburg
+Gilead Sciences Belgium SRL-BV
+Tél/Tel: + 32 (0) 24 01 35 50
+
+Česká republika
+Gilead Sciences s.r.o.
+Tel: + 420 (0) 910 871 986
+
+Magyarország
+Gilead Sciences Ireland UC
+Tel.: + 353 (0) 1 686 1888
+
+Danmark
+Gilead Sciences Sweden AB
+Tlf: + 46 (0) 8 5057 1849
+
+Malta
+Gilead Sciences Ireland UC
+Tel: + 353 (0) 1 686 1888
+
+Deutschland
+Gilead Sciences GmbH
+Tel: + 49 (0) 89 899890-0
+
+Nederland
+Gilead Sciences Netherlands B.V.
+Tel: + 31 (0) 20 718 36 98
+
+Eesti
+Gilead Sciences Ireland UC
+Tel: + 353 (0) 1 686 1888
+
+Norge
+Gilead Sciences Sweden AB
+Tlf: + 46 (0) 8 5057 1849
+
+Ελλάδα
+Gilead Sciences Ελλάς Μ.ΕΠΕ.
+Τηλ: + 30 210 8930 100
+
+Österreich
+Gilead Sciences GesmbH
+Tel: + 43 1 260 830
+
+España
+Gilead Sciences, S.L.
+Tel: + 34 91 378 98 30
+
+Polska
+Gilead Sciences Poland Sp. z o.o.
+Tel.: + 48 22 262 8702
+
+France
+Gilead Sciences
+Tél: + 33 (0) 1 46 09 41 00
+
+Portugal
+Gilead Sciences, Lda.
+Tel: + 351 21 7928790
+
+Hrvatska
+Gilead Sciences Ireland UC
+Tel: + 353 (0) 1 686 1888
+
+România
+Gilead Sciences (GSR) S.R.L
+Tel: + 40 31 631 18 00
+
+Ireland
+Gilead Sciences Ireland UC
+Tel: + 353 (0) 214 825 999
+
+Slovenija
+Gilead Sciences Ireland UC
+Tel: + 353 (0) 1 686 1888
+
+56
+
+Ísland
+Gilead Sciences Sweden AB
+Sími: + 46 (0) 8 5057 1849
+
+Slovenská republika
+Gilead Sciences Slovakia s.r.o.
+Tel: + 421 232 121 210
+
+Italia
+Gilead Sciences S.r.l.
+Tel: + 39 02 439201
+
+Suomi/Finland
+Gilead Sciences Sweden AB
+Puh/Tel: + 46 (0) 8 5057 1849
+
+Κύπρος
+Gilead Sciences Ελλάς Μ.ΕΠΕ.
+Τηλ: + 30 210 8930 100
+
+Sverige
+Gilead Sciences Sweden AB
+Tel: + 46 (0) 8 5057 1849
+
+Latvija
+Gilead Sciences Ireland UC
+Tel: + 353 (0) 1 686 1888
+
+United Kingdom (Northern Ireland)
+Gilead Sciences Ireland UC
+Tel: + 44 (0) 8000 113 700
+
+Este folheto foi revisto pela última vez em.
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+57
+
+ANEXO IV
+CONCLUSÕES CIENTÍFICAS E FUNDAMENTOS DA ALTERAÇÃO DOS TERMOS DAS
+AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO
+
+58
+
+Conclusões científicas
+Tendo em conta o relatório de avaliação do PRAC sobre o(s) RPS para emtricitabina / tenofovir
+disoproxil, as conclusões científicas do PRAC são as seguintes:
+Face aos dados disponíveis sobre diminuição da densidade mineral óssea provenientes de estudos
+clínicos, da literatura, de notificações espontâneas, o PRAC considera que uma relação causal entre
+emtricitabina / tenofovir disoproxil e uma diminuição da densidade mineral óssea é pelo menos uma
+possibilidade razoável. O PRAC também considera que a advertência/precaução atual sobre Efeitos
+ósseos deve ser ainda mais reforçada. O PRAC concluiu que a informação do medicamento dos
+medicamentos que contêm emtricitabina / tenofovir disoproxil deve ser corrigida em conformidade.
+Tendo revisto a recomendação do PRAC, o CHMP concorda com as conclusões gerais e com os
+fundamentos para a recomendação do PRAC.
+Fundamentos da alteração dos termos da(s) autorização(ões) de introdução no mercado
+Com base nas conclusões científicas relativas a emtricitabina / tenofovir disoproxil, o CHMP
+considera que o perfil de benefício-risco do(s) medicamento(s) que contém (contêm) emtricitabina /
+tenofovir disoproxil se mantém inalterado na condição de serem introduzidas as alterações propostas
+na informação do medicamento.
+O CHMP recomenda a alteração dos termos da(s) autorização(ões) de introdução no mercado.
+
+59
+
+

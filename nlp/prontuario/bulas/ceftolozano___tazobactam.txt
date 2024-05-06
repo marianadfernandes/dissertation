@@ -1,0 +1,2081 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+Zerbaxa 1 g/0,5 g pó para concentrado para solução para perfusão
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada frasco para injetáveis contém sulfato de ceftolozano equivalente a 1 g de ceftolozano e
+tazobactam sódico equivalente a 0,5 g de tazobactam.
+Após reconstituição com 10 ml de solvente, o volume total da solução no frasco para injetáveis é de
+11,4 ml, o que contém 88 mg/ml de ceftolozano e 44 mg/ml de tazobactam.
+Excipiente(s) com efeito conhecido
+Cada frasco para injetáveis contém 10 mmol (230 mg) de sódio.
+Quando o pó é reconstituído com 10 ml de solução de cloreto de sódio a 9 mg/ml (0,9 %) para
+injetáveis, o frasco para injetáveis contém 11,5 mmol (265 mg) de sódio.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Pó para concentrado para solução para perfusão (pó para concentrado).
+Pó branco a amarelado.
+
+4.
+
+INFORMAÇÕES
+
+4.1
+
+Indicações terapêuticas
+
+CLÍNICAS
+
+Zerbaxa é indicado para o tratamento das seguintes infeções em doentes adultos e pediátricos (ver
+secções 4.2 e 5.1):
+-
+
+Infeções intra-abdominais complicadas (ver secção 4.4);
+Pielonefrite aguda;
+Infeções complicadas das vias urinárias (ver secção 4.4).
+
+Zerbaxa é também indicado para o tratamento da seguinte infeção em doentes adultos (idade igual ou
+superior a 18 anos) (ver secção 5.1):
+-
+
+Pneumonia adquirida no hospital (PAH), incluindo pneumonia associada ao ventilador (PAV).
+
+Deverão ser tidas em consideração as normas orientadoras acerca do uso apropriado de agentes
+antibacterianos.
+
+4.2
+
+Posologia e modo de administração
+
+Posologia
+O regime posológico intravenoso recomendado para doentes adultos com depuração de creatinina
+> 50 ml/min está indicado na Tabela 1, de acordo com o tipo de infeção.
+
+2
+
+Tabela 1: Dose intravenosa de Zerbaxa de acordo com o tipo de infeção em doentes adultos (idade
+igual ou superior a 18 anos) com depuração de creatinina* > 50 ml/min
+Tipo de infeção
+
+Dose
+
+Frequência
+
+Tempo de
+perfusão
+1 hora
+
+Duração do
+tratamento
+4-14 dias
+
+Infeção intra-abdominal
+complicada**
+
+1 g ceftolozano /
+0,5 g tazobactam
+
+A cada
+8 horas
+
+Infeção complicada das vias
+urinárias
+Pielonefrite aguda
+
+1 g ceftolozano /
+0,5 g tazobactam
+
+A cada
+8 horas
+
+1 hora
+
+7 dias
+
+Pneumonia adquirida no hospital,
+incluindo pneumonia associada ao
+ventilador***
+
+2 g ceftolozano /
+1 g tazobactam
+
+A cada
+8 horas
+
+1 hora
+
+8-14 dias
+
+*Depuração de creatinina estimada de acordo com a fórmula de Cockcroft-Gault.
+**A ser utilizado em associação com metronidazol quando se suspeite de agentes patogénicos
+anaeróbios.
+***A ser utilizado em associação com um agente antibacteriano ativo contra agentes patogénicos
+Gram-positivo quando confirmado ou se suspeite que estes estão a contribuir para o processo
+infecioso.
+O regime posológico intravenoso recomendado para doentes pediátricos com taxa de filtração
+glomerular estimada (TFGe) > 50 ml/min/1,73 m2 está indicado na Tabela 2, de acordo com o tipo de
+infeção.
+
+Tabela 2: Dose intravenosa de Zerbaxa de acordo com o tipo de infeção em doentes pediátricos
+(desde o nascimento* até idade inferior a 18 anos) com TFGe** > 50 ml/min/1,73 m2
+Tipo de infeção
+
+Dose
+
+Frequência
+
+Tempo de
+perfusão
+
+Duração do
+tratamento
+
+Infeção intra-abdominal
+
+20 mg/kg ceftolozano /
+
+A cada
+
+1 hora
+
+5-14 dias*****
+
+complicada***
+
+10 mg/kg tazobactam
+
+8 horas
+
+1 hora
+
+7-14 dias*****
+
+até uma dose máxima
+de 1 g ceftolozano /
+0,5 g tazobactam****
+Infeção complicada das
+vias urinárias
+
+20 mg/kg ceftolozano /
+
+A cada
+
+10 mg/kg tazobactam
+
+Pielonefrite aguda
+
+8 horas
+
+até uma dose máxima
+de 1 g ceftolozano /
+0,5 g tazobactam****
+
+*Definido como idade gestacional > 32 semanas e pós-parto ≥ 7 dias.
+**TFGe calculada de acordo com a equação de Bedside Schwartz.
+***A ser utilizado em associação com metronidazol quando se suspeite de agentes patogénicos
+anaeróbios.
+****Crianças com peso > 50 kg não devem exceder a dose máxima de 1 g ceftolozano / 0,5 g
+tazobactam.
+*****A duração total do tratamento apresentada pode incluir Zerbaxa intravenoso seguido de
+terapêutica oral apropriada.
+Populações especiais
+Idosos (≥ 65 anos de idade)
+Não é necessário qualquer ajuste posológico em idosos apenas com base na idade (ver secção 5.2).
+Compromisso renal
+Não é necessário qualquer ajuste posológico em doentes com compromisso renal ligeiro (depuração de
+creatinina estimada > 50 ml/min) (ver secção 5.2).
+
+3
+
+Em doentes adultos com compromisso renal moderado ou grave e em doentes adultos com doença
+renal terminal submetidos a hemodiálise, a dose deverá ser ajustada conforme indicado na Tabela 3
+(ver secções 5.1 e 6.6).
+
+Tabela 3: Regimes posológicos intravenosos recomendados de Zerbaxa em doentes adultos
+(idade igual ou superior a 18 anos) com depuração de creatinina* ≤ 50 ml/min
+Pneumonia adquirida no hospital,
+incluindo pneumonia associada ao
+ventilador**
+
+Depuração
+de
+creatinina
+estimada
+(ml/min)*
+
+Infeções intra-abdominais complicadas,
+infeções complicadas das vias urinárias,
+e pielonefrite aguda**
+
+30 a 50
+
+500 mg ceftolozano / 250 mg tazobactam
+por via intravenosa a cada 8 horas
+
+1 g ceftolozano / 0,5 g tazobactam por via
+intravenosa a cada 8 horas
+
+15 a 29
+
+250 mg ceftolozano / 125 mg tazobactam
+por via intravenosa a cada 8 horas
+
+500 mg ceftolozano / 250 mg tazobactam
+por via intravenosa a cada 8 horas
+
+Doença
+renal
+terminal,
+submetido
+a
+hemodiálise
+
+Uma dose de carga única de 500 mg
+ceftolozano / 250 mg tazobactam, seguida
+após 8 horas de uma dose de manutenção
+de 100 mg ceftolozano / 50 mg
+tazobactam administrada a cada 8 horas
+durante o resto do período de tratamento
+(nos dias da hemodiálise, a dose deverá
+ser administrada o mais cedo possível
+após terminar a hemodiálise)
+
+Uma dose de carga única de 1,5 g
+ceftolozano / 0,75 g tazobactam seguida
+após 8 horas de uma dose de manutenção
+de 300 mg ceftolozano / 150 mg
+tazobactam administrada a cada 8 horas
+durante o resto do período de tratamento
+(nos dias da hemodiálise, a dose deverá
+ser administrada o mais cedo possível
+após terminar a hemodiálise)
+
+*Depuração de creatinina estimada de acordo com a fórmula de Cockcroft-Gault.
+**Todas as doses de Zerbaxa são administradas por via intravenosa durante 1 hora e são
+recomendadas para todas as indicações. A duração do tratamento deve seguir as recomendações da
+Tabela 1.
+Não existe informação suficiente para recomendar um regime posológico para doentes pediátricos com
+compromisso renal moderado ou grave (TFGe ≤ 50 ml/min/1,73 m2) ou doença renal terminal (ver
+secções 5.1 e 5.2).
+Compromisso hepático
+Não é necessário qualquer ajuste posológico em doentes com compromisso hepático (ver secção 5.2).
+População pediátrica
+A segurança e eficácia de ceftolozano/tazobactam em crianças e adolescentes com idade inferior a
+18 anos não foram ainda estabelecidas para o tratamento da pneumonia adquirida no hospital (PAH),
+incluindo pneumonia associada ao ventilador (PAV).
+Modo de administração
+Zerbaxa é para ser administrado por perfusão intravenosa durante um período de 1 hora para todas as
+doses.
+Precauções a ter em conta antes de manusear ou administrar o medicamento
+Para incompatibilidades, ver secção 6.2.
+Para instruções acerca da reconstituição e diluição do medicamento antes da administração, ver
+secção 6.6.
+
+4
+
+4.3
+
+Contraindicações
+
+-
+
+Hipersensibilidade às substâncias ativas ou a qualquer um dos excipientes mencionados na
+secção 6.1;
+Hipersensibilidade a qualquer agente antibacteriano do grupo da cefalosporina;
+Hipersensibilidade grave (por ex. reação anafilática, reação cutânea grave) a qualquer outro tipo
+de agente antibacteriano beta-lactâmico (por ex. penicilinas ou carbapenemes).
+
+-
+
+4.4
+
+Advertências e precauções especiais de utilização
+
+Reações de hipersensibilidade
+São possíveis reações de hipersensibilidade graves e ocasionalmente fatais (anafilaxia) (ver
+secções 4.3 e 4.8). Se ocorrer uma reação alérgica grave durante o tratamento com
+ceftolozano/tazobactam, o medicamento deve ser suspenso e devem ser tomadas medidas adequadas.
+Os doentes com antecedentes de hipersensibilidade às cefalosporinas, penicilinas ou a outros agentes
+antibacterianos beta-lactâmicos poderão ter também hipersensibilidade a ceftolozano/tazobactam.
+Ceftolozano/tazobactam é contraindicado em doentes com antecedentes de hipersensibilidade a
+ceftolozano, tazobactam ou cefalosporinas (ver secção 4.3).
+Ceftolozano/tazobactam é também contraindicado em doentes com hipersensibilidade grave (por ex.
+reação anafilática, reação cutânea grave) a qualquer outro tipo de agente antibacteriano beta-lactâmico
+(por ex. penicilinas ou carbapenemes) (ver secção 4.3).
+Ceftolozano/tazobactam deve ser utilizado com precaução em doentes com antecedentes de qualquer
+outro tipo de reação de hipersensibilidade a penicilinas ou a outros agentes antibacterianos betalactâmicos.
+Efeito na função renal
+Foi observado um declínio da função renal em doentes adultos a receber ceftolozano/tazobactam.
+Compromisso da função renal
+A dose de ceftolozano/tazobactam deve ser ajustada com base na função renal (ver secção 4.2,
+Tabela 3).
+Em ensaios clínicos de infeções intra-abdominais complicadas e infeções complicadas das vias
+urinárias, incluindo pielonefrite, a eficácia de ceftolozano/tazobactam foi menor em doentes adultos
+com compromisso renal moderado em comparação com doentes adultos com função renal normal ou
+ligeiramente comprometida de base.
+Doentes com compromisso renal de base devem ser monitorizados frequentemente para quaisquer
+alterações da função renal durante o tratamento e a dose de ceftolozano/tazobactam deve ser ajustada
+conforme necessário.
+Limitações dos dados clínicos
+Foram excluídos dos ensaios clínicos doentes imunocomprometidos, doentes com neutropenia grave e
+doentes com doença renal terminal submetidos a hemodiálise.
+Infeções intra-abdominais complicadas
+Num ensaio em doentes adultos com infeções intra-abdominais complicadas, o diagnóstico mais
+frequente foi perfuração apendicular ou abcesso peri-apendicular (420/970 [43,3%] doentes), dos
+quais 137/420 (32,6%) tinha peritonite difusa de base. Aproximadamente 82% de todos os doentes do
+5
+
+ensaio tinha índices APACHE II (Acute Physiology and Chronic Health Evaluation II) < 10 e 2,3%
+tinha bacteremia de base. Nos doentes clinicamente avaliáveis (CA), as taxas de cura clínica para
+ceftolozano/tazobactam foram 95,9% em 293 doentes com idade inferior a 65 anos e 87,8% em
+82 doentes com idade igual ou superior a 65 anos.
+Infeções complicadas das vias urinárias
+Os dados de eficácia clínica em doentes adultos com infeção complicada das vias urinárias inferiores
+são limitados. Num ensaio aleatorizado controlado por comparador ativo, 18,2% (126/693) dos
+doentes microbiologicamente avaliáveis (MA) tinham infeções complicadas das vias urinárias
+inferiores, incluindo 60/126 doentes tratados com ceftolozano/tazobactam. Um destes 60 doentes tinha
+bacteremia de base.
+Diarreia associada a Clostridioides difficile
+Foram notificadas a colite e colite pseudomembranosa associadas a antibacterianos com a utilização
+de ceftolozano/tazobactam (ver secção 4.8). A gravidade destes tipos de infeção pode variar desde
+ligeira até com risco de vida. Assim, é importante ter em consideração este diagnóstico nos doentes
+que apresentem diarreia durante ou após a administração de ceftolozano/tazobactam. Nestas
+circunstâncias, deverão ser consideradas a descontinuação da terapêutica com ceftolozano/tazobactam
+e a utilização de medidas de suporte juntamente com a administração de tratamento específico para
+Clostridioides difficile.
+Microrganismos não-suscetíveis
+A utilização de ceftolozano/tazobactam pode promover o crescimento de microrganismos não
+suscetíveis. Devem ser tomadas medidas apropriadas caso ocorram superinfeções durante ou após o
+tratamento.
+Ceftolozano/tazobactam não é ativo contra bactérias produtoras de enzimas beta-lactamases que têm a
+capacidade de degradar o ceftolozano e que não são inibidas pelo componente tazobactam (ver
+secção 5.1).
+Seroconversão no teste de anti-globulina direto (teste de Coombs) e risco potencial de anemia
+hemolítica
+Durante o tratamento com ceftolozano/tazobactam pode desenvolver-se um teste de anti-globulina
+direto positivo (DAGT) (ver secção 4.8). Em estudos clínicos não houve evidência de hemólise nos
+doentes que desenvolveram um DAGT positivo durante o tratamento.
+Teor de sódio
+Ceftolozano/tazobactam contém 230 mg de sódio por frasco para injetáveis, equivalente a 11,5% da
+ingestão diária máxima recomendada pela OMS de 2 g de sódio para um adulto. O frasco para
+injetáveis reconstituído com 10 ml de cloreto de sódio a 0,9% (solução salina normal) para injetáveis
+contém 265 mg de sódio por frasco para injetáveis, equivalente a 13,3% da ingestão diária máxima
+recomendada pela OMS de 2 g de sódio para um adulto.
+
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Com base nos estudos in vitro e in vivo, não se antecipam interações medicamentosas significativas
+entre ceftolozano/tazobactam e os substratos, inibidores e indutores das enzimas do citocromo P450
+(CYPs).
+Os estudos in vitro demonstraram que o ceftolozano, o tazobactam e o metabolito M1 de tazobactam
+não inibiram a CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 ou CYP3A4, e não
+induziram as CYP1A2, CYP2B6 ou CYP3A4 em concentrações plasmáticas terapêuticas.
+
+6
+
+Em concentrações plasmáticas terapêuticas in vitro, o ceftolozano e o tazobactam não foram substratos
+para a P-gp ou para a BCRP, e o tazobactam não foi um substrato para a OCT2. Os dados in vitro
+indicam que o ceftolozano não inibiu a P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, MRP,
+BSEP, OAT1, OAT3, MATE1 ou MATE2-K em concentrações plasmáticas terapêuticas. Os dados
+in vitro indicam que nem o tazobactam nem o metabolito M1 de tazobactam inibiram a P-gp, os
+transportadores BCRP, OATP1B1, OATP1B3, OCT1, OCT2 ou BSEP em concentrações plasmáticas
+terapêuticas.
+Tazobactam é um substrato para OAT1 e OAT3. Tazobactam inibiu os transportadores OAT1 e OAT3
+humanos in vitro, com valores de IC50 de 118 e 147 mcg/ml, respetivamente. Num estudo clínico, a
+administração concomitante de ceftolozano/tazobactam com furosemida, um substrato para a OAT1 e
+OAT3, não aumentou significativamente as exposições plasmáticas à furosemida (razões das médias
+geométricas de 0,83 e 0,87 para C max e AUC, respetivamente). Contudo, as substâncias ativas que
+inibem a OAT1 e OAT3 (p. ex., probenecida) podem aumentar as concentrações plasmáticas de
+tazobactam.
+
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+Não existem dados sobre a utilização de ceftolozano/tazobactam em mulheres grávidas. Tazobactam
+atravessa a placenta. Desconhece-se se ceftolozano atravessa a placenta.
+Os estudos com tazobactam em animais revelaram toxicidade reprodutiva (ver secção 5.3) sem
+evidência de efeitos teratogénicos. Estudos com ceftolozano em ratinhos e ratos não demonstraram
+evidência de toxicidade reprodutiva ou de teratogenicidade. Ceftolozano administrado a ratos durante
+a gestação e amamentação foi associado a uma diminuição da resposta de sobressalto auditivo em
+crias do sexo masculino no dia 60 pós-nascimento (PND) (ver secção 5.3).
+Zerbaxa apenas deve ser utilizado durante a gravidez se o benefício esperado justificar os possíveis
+riscos para a mulher grávida e para o feto.
+Amamentação
+Desconhece-se se ceftolozano e tazobactam são excretados no leite humano. Não pode ser excluído
+qualquer risco para os recém-nascidos/lactentes. Tem que ser tomada uma decisão sobre a
+descontinuação da amamentação ou a descontinuação/abstenção da terapêutica com Zerbaxa tendo em
+conta o benefício da amamentação para a criança e o benefício da terapêutica para a mulher.
+Fertilidade
+Os efeitos de ceftolozano e tazobactam sobre a fertilidade no ser humano não foram estudados. Os
+estudos de fertilidade em ratos não demonstraram qualquer efeito sobre a fertilidade e acasalamento
+após a administração intraperitoneal de tazobactam ou a administração intravenosa de ceftolozano (ver
+secção 5.3).
+
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Zerbaxa pode reduzir ligeiramente a capacidade de conduzir e utilizar máquinas. Podem ocorrer
+tonturas após administração de Zerbaxa (ver secção 4.8).
+
+7
+
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Zerbaxa foi avaliado em ensaios clínicos de Fase 3, controlados por comparador, de infeções
+intra-abdominais complicadas e infeções complicadas das vias urinárias (incluindo pielonefrite) em
+doentes adultos.
+As reações adversas mais frequentes (≥ 3% nos ensaios de Fase 3 agrupados de infeções
+intra-abdominais complicadas e infeções complicadas das vias urinárias, incluindo pielonefrite) que
+ocorreram em doentes tratados com Zerbaxa foram náuseas, cefaleia, obstipação, diarreia e pirexia, e
+foram geralmente de gravidade ligeira ou moderada.
+Zerbaxa foi avaliado num ensaio clínico de Fase 3, controlado por comparador, de doentes adultos
+com pneumonia adquirida no hospital, incluindo pneumonia associada ao ventilador.
+As reações adversas mais frequentes (≥ 5% num ensaio de Fase 3 de pneumonia adquirida no hospital,
+incluindo pneumonia associada ao ventilador) que ocorreram em doentes tratados com Zerbaxa foram
+diarreia, alanina aminotransferase aumentada e aspartato aminotransferase aumentada e foram
+geralmente de gravidade ligeira ou moderada.
+Lista tabelada de reações adversas
+As seguintes reações adversas foram identificadas durante os ensaios clínicos em adultos com
+Zerbaxa. As reações adversas são classificadas de acordo com as classes de sistemas de órgãos e
+frequência MedDRA. As categorias de frequência derivam das seguintes convenções: frequentes
+(≥ 1/100, < 1/10), pouco frequentes (≥ 1/1000, < 1/100) (ver Tabela 4).
+
+Tabela 4: Reações adversas identificadas durante os ensaios clínicos em adultos com
+ceftolozano/tazobactam
+Classe de sistemas de órgãos
+Pouco frequentes
+Frequentes
+(≥ 1/100, < 1/10)
+( 1/1000, < 1/100)
+
+Infeções e infestações
+
+Colite por Clostridioides
+difficile2
+
+Candidíase incluindo
+orofaríngea e vulvovaginal1,
+colite por Clostridioides
+difficile1, infeção fúngica
+das vias urinárias1, infeção
+por Clostridioides difficile2
+
+Doenças do sangue e do sistema
+linfático
+
+Trombocitose1
+
+Anemia1
+
+Doenças do metabolismo e da
+nutrição
+
+Hipocaliemia
+
+Perturbações do foro psiquiátrico
+
+Insónia1, ansiedade1
+
+Doenças do sistema nervoso
+
+Cefaleia1, tonturas1
+
+1
+
+AVC isquémico1
+Fibrilhação auricular1,
+taquicardia1, angina de
+peito1
+
+Cardiopatias
+Vasculopatias
+
+Hiperglicemia1,
+hipomagnesemia1,
+hipofosfatemia1
+
+Hipotensão1
+
+Doenças respiratórias, torácicas e do
+mediastino
+
+Flebite1, flebotrombose 1
+Dispneia1
+
+Doenças gastrointestinais
+
+Náuseas1, diarreia3,
+obstipação1, vómitos3, dor
+abdominal1
+
+Gastrite1, distensão
+abdominal1, dispepsia1,
+flatulência1, íleus paralítico1
+
+Afeções dos tecidos cutâneos e
+subcutâneos
+
+Erupção cutânea1
+
+Urticária1
+
+8
+
+Classe de sistemas de órgãos
+
+Frequentes
+
+(≥ 1/100, < 1/10)
+Doenças renais e urinárias
+Perturbações gerais e alterações no
+local de administração
+
+Pirexia1, reações no local de
+perfusão1
+
+Exames complementares de
+diagnóstico
+
+Alanina aminotransferase
+aumentada3, aspartato
+aminotransferase aumentada3,
+transaminases aumentadas2,
+prova da função hepática
+anormal2, fosfatase alcalina no
+sangue aumentada2,
+gamaglutamiltransferase
+aumentada2
+
+1
+
+Pouco frequentes
+( 1/1000, < 1/100)
+Compromisso renal1,
+insuficiência renal1
+
+Teste de Coombs positivo3,
+gama-glutamil
+transpeptidase sérica (GGT)
+aumentada1, fosfatase
+alcalina sérica aumentada1,
+teste positivo a
+Clostridioides2
+
+Específico para as indicações infeções intra-abdominais complicadas, pielonefrite aguda e infeções
+
+complicadas das vias urinárias tratadas com Zerbaxa (1 g / 0,5 g por via intravenosa a cada 8 horas)
+durante até 14 dias.
+2
+
+Específico para a indicação pneumonia adquirida no hospital, incluindo pneumonia associada ao
+
+ventilador tratada com Zerbaxa (2 g / 1 g por via intravenosa a cada 8 horas) durante até 14 dias.
+3
+
+Aplica-se a todas as indicações: infeções intra-abdominais complicadas, pielonefrite aguda, infeções
+
+complicadas das vias urinárias e pneumonia adquirida no hospital, incluindo pneumonia associada ao
+ventilador.
+População pediátrica
+A avaliação de segurança em doentes pediátricos, desde o nascimento até idade inferior a 18 anos, é
+baseada nos dados de segurança de dois ensaios nos quais 70 doentes com infeções intra-abdominais
+complicadas e 100 doentes com infeções complicadas das vias urinárias (incluindo pielonefrite aguda)
+foram tratados com Zerbaxa. O perfil de segurança nestes 170 doentes pediátricos foi geralmente
+semelhante ao observado na população de adultos com infeções intra-abdominais complicadas e
+infeções complicadas das vias urinárias (incluindo pielonefrite aguda). Na população pediátrica
+observaram-se três reações adversas adicionais: neutropenia, apetite aumentado e disgeusia (todas
+frequentes). As reações adversas mais frequentes (≥ 2% nos ensaios de Fase 2 agrupados em doentes
+pediátricos) que ocorreram em doentes tratados com Zerbaxa foram diarreia, alanina aminotransferase
+aumentada e aspartato aminotransferase aumentada. Os dados de segurança em doentes de idade
+inferior a 3 meses com infeções intra-abdominais complicadas são limitados.
+Descrição de reações adversas selecionadas
+Valores laboratoriais
+Pode ocorrer o desenvolvimento de um teste de Coombs direto positivo durante o tratamento com
+Zerbaxa. A incidência de seroconversão para um teste de Coombs direto positivo foi de 0,2% em
+doentes aos quais foi administrado Zerbaxa e de 0% em doentes aos quais foi administrado o
+comparador nos ensaios clínicos de infeções intra-abdominais complicadas e infeções complicadas das
+vias urinárias em adultos. A incidência de seroconversão para um teste de Coombs direto positivo foi
+de 31,2% em doentes aos quais foi administrado Zerbaxa e 3,6% em doentes aos quais foi
+administrado meropenem nos ensaios clínicos de pneumonia adquirida no hospital em adultos,
+incluindo pneumonia associada ao ventilador. A incidência de seroconversão para um teste de Coombs
+direto positivo foi de 45,3% em doentes aos quais foi administrado Zerbaxa e 33,3% em doentes aos
+quais foi administrado meropenem no ensaio clínico de infeções intra-abdominais complicadas em
+doentes pediátricos. A incidência de seroconversão para um teste de Coombs direto positivo foi de
+29,7% em doentes aos quais foi administrado Zerbaxa e 8,7% em doentes aos quais foi administrado
+meropenem no ensaio clínico de infeções complicadas das vias urinárias em doentes pediátricos. Em
+estudos clínicos, não houve evidência de hemólise em doentes que desenvolveram um teste de
+Coombs direto positivo em qualquer grupo de tratamento.
+
+9
+
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+
+4.9
+
+Sobredosagem
+
+Não existe experiência em sobredosagem com Zerbaxa. A dose única mais elevada de Zerbaxa,
+administrada em estudos clínicos foi de 3 g/ 1,5 g de ceftolozano/tazobactam, administrada a
+voluntários saudáveis.
+Em caso de sobredosagem, Zerbaxa deverá ser descontinuado e administrado tratamento de suporte
+geral. Zerbaxa pode ser removido por hemodiálise. Aproximadamente 66% do ceftolozano, 56% do
+tazobactam e 51% do metabolito M1 de tazobactam foram removidos por diálise.
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Antibacterianos para uso sistémico, outras cefalosporinas e penemes,
+código ATC: J01DI54.
+Mecanismo de ação
+Ceftolozano pertence aos antimicrobianos da classe das cefalosporinas. Ceftolozano exerce uma
+atividade bactericida através da ligação a importantes proteínas de ligação à penicilina (PBPs –
+penicillin-binding proteins), resultando na inibição da síntese da parede celular bacteriana e
+subsequente morte celular.
+Tazobactam é um beta-lactâmico estruturalmente relacionado com as penicilinas. É um inibidor de
+muitas beta-lactamases de Classe molecular A, incluindo as enzimas CTX-M, SHV e TEM. Ver em
+baixo.
+Mecanismos de resistência
+Os mecanismos de resistência bacteriana ao ceftolozano/tazobactam incluem:
+i.
+Produção de beta-lactamases que têm a capacidade de hidrolisar o ceftolozano e que não
+são inibidas pelo tazobactam (ver em baixo).
+ii.
+Modificação das PBPs.
+O tazobactam não inibe todas as enzimas da Classe A.
+Adicionalmente, o tazobactam não inibe os seguintes tipos de beta-lactamases:
+i.
+Enzimas AmpC (produzidas pelas Enterobacterales)
+ii.
+Carbapenemases do grupo serina (por ex., carbapenemases Klebsiella pneumoniae
+[KPCs])
+iii.
+Metalo-beta-lactamases (por ex., metalo-beta-lactamases New Delhi [NDM])
+iv.
+Beta-lactamases Classe D de Ambler (OXA-carbapenemases).
+Relação farmacocinética/farmacodinâmica
+Para o ceftolozano foi demonstrado que o período de tempo em que a concentração plasmática excede
+a concentração inibitória mínima de ceftolozano para o agente infeccioso, é o melhor preditor de
+eficácia em modelos de infeção animal.
+
+10
+
+Para o tazobactam o índice de FD associado com a eficácia foi definido como a percentagem do
+intervalo de dose durante o qual a concentração plasmática de tazobactam excede um valor limite
+(%T > limite). O tempo acima de uma concentração limite foi estabelecido como o parâmetro que
+melhor prevê a eficácia de tazobactam em modelos não-clínicos in vitro e in vivo.
+Concentrações críticas nos testes de sensibilidade
+Os valores críticos das concentrações inibitórias mínimas estabelecidas pelo Comité Europeu para
+Testes de Sensibilidade a Antimicrobianos (European Committee on Antimicrobial Susceptibility
+Testing [EUCAST]) são os seguintes:
+
+Concentrações
+inibitórias mínimas
+(mg/l)
+Suscetível Resistente
+>2
+≤2
+
+Agente patogénico
+Enterobacterales
+
+Tipo de infeção
+Infeções intra-abdominais complicadas*
+Infeções complicadas das vias urinárias*
+Pielonefrite aguda*
+Pneumonia adquirida no hospital, incluindo
+pneumonia associada ao ventilador**
+≤4
+P. aeruginosa
+Infeções intra-abdominais complicadas*
+Infeções complicadas das vias urinárias*
+Pielonefrite aguda*
+Pneumonia adquirida no hospital, incluindo
+pneumonia associada ao ventilador**
+Pneumonia adquirida no hospital, incluindo
+≤ 0,5
+H. influenzae
+pneumonia associada ao ventilador**
+*Com base em 1 g ceftolozano / 0,5 g de tazobactam por via intravenosa a cada 8 horas.
+**Com base em 2 g ceftolozano / 1 g de tazobactam por via intravenosa a cada 8 horas.
+
+>4
+
+> 0,5
+
+Eficácia clínica contra agentes patogénicos específicos
+Foi demonstrada eficácia em estudos clínicos contra os agentes patogénicos mencionados abaixo de
+cada indicação, os quais foram suscetíveis a Zerbaxa in vitro:
+
+Infeções intra-abdominais complicadas
+Bactérias Gram-negativo
+Enterobacter cloacae
+Escherichia coli
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Proteus mirabilis
+Pseudomonas aeruginosa
+Bactérias Gram-positivo
+Streptococcus anginosus
+Streptococcus constellatus
+Streptococcus salivarius
+
+Infeções complicadas das vias urinárias, incluindo pielonefrite
+Bactérias Gram-negativo
+Escherichia coli
+Klebsiella pneumoniae
+Proteus mirabilis
+
+11
+
+Pneumonia adquirida no hospital, incluindo pneumonia associada ao ventilador
+Bactérias Gram-negativo
+Enterobacter cloacae
+Escherichia coli
+Haemophilus influenzae
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Proteus mirabilis
+Pseudomonas aeruginosa
+Serratia marcescens
+Não foi estabelecida eficácia clínica contra os seguintes agentes patogénicos, apesar de os estudos
+in vitro sugerirem que seriam suscetíveis a Zerbaxa na ausência de mecanismos de resistência
+adquirida:
+Citrobacter freundii
+Citrobacter koseri
+Klebsiella (Enterobacter) aerogenes
+Morganella morganii
+Proteus vulgaris
+Serratia liquefaciens
+Os dados in vitro indicam que as seguintes espécies não são suscetíveis a ceftolozano/tazobactam:
+Staphylococcus aureus
+Enterococcus faecalis
+Enterococcus faecium
+População pediátrica
+Zerbaxa foi avaliado em dois ensaios clínicos com ocultação, aleatorizados, controlados por
+comparador ativo, em doentes pediátricos desde o nascimento (definido como idade gestacional
+> 32 semanas e pós-parto ≥ 7 dias) até idade inferior a 18 anos, um em doentes com infeções
+intra-abdominais complicadas (em associação com metronidazol) e o outro em doentes com infeções
+complicadas das vias urinárias e pielonefrite aguda. Os objetivos primários nestes estudos foram
+avaliar a segurança e tolerabilidade do ceftolozano/tazobactam; a eficácia foi um parâmetro de
+avaliação descritivo secundário. Doentes de idade inferior a 18 anos com TFGe < 50 ml/min/1,73 m2
+(calculada de acordo com a equação de Bedside Schwartz) foram excluídos destes ensaios clínicos.
+Adicionalmente, os dados em doentes de idade inferior a 3 meses com infeções intra-abdominais
+complicadas são muito limitados (um doente no braço de Zerbaxa). A taxa de cura clínica no Teste de
+Cura (TOC) (MITT – Intenção de Tratar Modificada) foi de 80,0% (56/70) para Zerbaxa em
+comparação com 100,0% (21/21) para meropenem em doentes pediátricos com infeções
+intra-abdominais complicadas. A taxa de erradicação microbiológica no TOC (mMITT – Intenção de
+Tratar Modificada microbiológica) foi de 84,5% (60/71) para Zerbaxa em comparação com 87,5%
+(21/24) para meropenem em doentes pediátricos com pielonefrite aguda e infeções complicadas das
+vias urinárias.
+A Agência Europeia de Medicamentos diferiu a obrigação de apresentação dos resultados dos estudos
+com Zerbaxa em um ou mais subgrupos da população pediátrica em pneumonia adquirida no hospital,
+incluindo pneumonia associada ao ventilador (ver secção 4.2 para informação sobre utilização
+pediátrica).
+
+5.2
+
+Propriedades farmacocinéticas
+
+A Cmax e a AUC de ceftolozano/tazobactam aumentam de forma aproximadamente proporcional à
+dose, dentro do intervalo de doses únicas de ceftolozano de 250 mg a 3 g e do intervalo de doses
+únicas de tazobactam de 500 mg a 1,5 g. Não foi observada qualquer acumulação apreciável de
+ceftolozano/tazobactam após perfusões intravenosas múltiplas com duração de 1 hora de 1 g/0,5 g de
+12
+
+ceftolozano/tazobactam ou 2 g / 1 g de ceftolozano/tazobactam, administrados a cada 8 horas durante
+um período de até 10 dias em adultos saudáveis com função renal normal. A semivida de eliminação
+(t½) de ceftolozano ou tazobactam é independente da dose.
+Distribuição
+A ligação de ceftolozano e tazobactam às proteínas plasmáticas humanas é baixa (aproximadamente
+16% a 21% e 30%, respetivamente). O volume de distribuição médio no estado estacionário
+(coeficiente de variação CV%) da distribuição de ceftolozano/tazobactam em indivíduos adultos
+saudáveis do sexo masculino (n=51) após uma dose intravenosa única de 1 g/0,5 g foi de 13,5 l (21%)
+e 18,2 l (25%) para o ceftolozano e o tazobactam, respetivamente, semelhante ao volume do fluido
+extracelular.
+Após perfusões intravenosas de 1 hora de 2 g / 1 g de ceftolozano/tazobactam, ou de doses ajustadas
+com base na função renal, a cada 8 horas em doentes adultos ventilados com pneumonia confirmada
+ou suspeita de pneumonia (N=22), as concentrações de ceftolozano e tazobactam no fluido de
+revestimento epitelial pulmonar foram superiores a 8 mcg/ml e 1 mcg/ml, respetivamente, durante
+100% do intervalo de doseamento. As razões médias entre AUC pulmonar epitelial e plasmática livre
+de ceftolozano e tazobactam foram de aproximadamente 50% e 62%, respetivamente, e são
+semelhantes às de indivíduos adultos saudáveis (aproximadamente 61% e 63%, respetivamente) aos
+quais foi administrado 1 g / 0,5 g de ceftolozano/tazobactam.
+Biotransformação
+Ceftolozano é eliminado na urina na forma da substância original inalterada, e portanto não parece ser
+metabolizado numa extensão apreciável. O anel beta-lactâmico de tazobactam é hidrolisado, formando
+o metabolito M1 de tazobactam, farmacologicamente inativo.
+Eliminação
+Ceftolozano, tazobactam e o metabolito M1 de tazobactam são eliminados pelos rins. Após a
+administração de uma dose intravenosa única de 1 g/0,5 g de ceftolozano/tazobactam a indivíduos
+adultos saudáveis do sexo masculino, mais de 95% do ceftolozano foi excretado na urina na forma da
+substância original inalterada. Mais de 80% do tazobactam foi excretado na forma do composto
+original, enquanto o restante foi excretado na forma do metabolito M1 de tazobactam. Após uma dose
+única de ceftolozano/tazobactam, a depuração renal de ceftolozano (3,41 - 6,69 l/h) foi semelhante à
+depuração plasmática (4,10 - 6,73 l/h) e semelhante à taxa de filtração glomerular da fração livre, o
+que sugere que ceftolozano é eliminado pelos rins através de filtração glomerular.
+A semivida de eliminação terminal média de ceftolozano e tazobactam em adultos saudáveis com
+função renal normal é de aproximadamente 3 horas e 1 hora, respetivamente.
+Linearidade/não linearidade
+As Cmax e AUC de ceftolozano/tazobactam aumentam de forma proporcional à dose. Os níveis
+plasmáticos de ceftolozano/tazobactam não aumentam de forma apreciável na sequência de perfusões
+intravenosas múltiplas de até 2,0 g/1,0 g, administradas a cada 8 horas durante um período de até
+10 dias em adultos saudáveis com função renal normal. A semivida de eliminação (t½) de ceftolozano
+é independente da dose.
+Populações especiais
+Compromisso renal
+Ceftolozano/tazobactam e o metabolito M1 de tazobactam são eliminados pelos rins.
+A média geométrica da AUC de ceftolozano normalizada pela dose aumentou até 1,26 vezes,
+2,5 vezes e 5 vezes em adultos com compromisso renal ligeiro, moderado e grave, respetivamente,
+13
+
+quando comparados com adultos saudáveis com função renal normal. A média geométrica da AUC de
+tazobactam normalizada pela dose aumentou aproximadamente até 1,3 vezes, 2 vezes e 4 vezes. Para
+manter exposições sistémicas semelhantes às observadas com uma função renal normal é necessário
+efetuar um ajuste posológico (ver secção 4.2).
+Nos adultos com doença renal terminal submetidos a hemodiálise, aproximadamente dois terços da
+dose de ceftolozano/tazobactam administrada é removida por hemodiálise. A dose recomendada em
+adultos com doença renal terminal submetidos a hemodiálise com infeções intra-abdominais
+complicadas ou infeções complicadas das vias urinárias (incluindo pielonefrite aguda) é de uma dose
+de carga única de 500 mg / 250 mg de ceftolozano/tazobactam, seguida de uma dose de manutenção
+de 100 mg / 50 mg de ceftolozano/tazobactam, administrada a cada 8 horas durante o resto do período
+de tratamento. A dose recomendada em adultos com doença renal terminal submetidos a hemodiálise
+com pneumonia adquirida no hospital, incluindo pneumonia associada ao ventilador, é de uma dose de
+carga única de 1,5 g / 0,75 g de ceftolozano/tazobactam seguida de uma dose de manutenção de
+300 mg / 150 mg de ceftolozano/tazobactam administrada a cada 8 horas durante o resto do período de
+tratamento. Com hemodiálise, a dose deverá ser administrada imediatamente após terminar a diálise
+(ver secção 4.2).
+Depuração renal aumentada
+Após uma perfusão intravenosa única de 1 hora de 2 g / 1 g de ceftolozano/tazobactam a adultos em
+estado crítico com CrCl igual ou superior a 180 ml/min (N=10), os valores médios dos tempos de
+meia-vida terminal de ceftolozano e tazobactam foram de 2,6 horas e de 1,5 horas, respetivamente. As
+concentrações plasmáticas de ceftolozano livre foram superiores a 8 mcg/ml durante 70% de um
+período de 8 horas; as concentrações de tazobactam livre foram superiores a 1 mcg/ml durante 60% de
+um período de 8 horas. Não é recomendado ajuste de dose de ceftolozano/tazobactam para pneumonia
+adquirida no hospital, incluindo pneumonia associada ao ventilador, em adultos com depuração renal
+aumentada.
+Compromisso hepático
+Uma vez que ceftolozano/tazobactam não sofre metabolismo hepático, não se antecipa que a
+depuração sistémica de ceftolozano/tazobactam seja afetada por compromisso hepático. Não se
+recomenda qualquer ajuste posológico para ceftolozano/tazobactam em indivíduos com compromisso
+hepático (ver secção 4.2).
+Idosos
+Numa análise da farmacocinética populacional de ceftolozano/tazobactam, não foram observadas
+diferenças clinicamente relevantes quanto à exposição relacionadas com a idade. Não se recomenda
+qualquer ajuste da dose de ceftolozano/tazobactam com base somente na idade.
+Doentes pediátricos
+Para recomendações posológicas de Zerbaxa em doentes pediátricos com infeções intra-abdominais
+complicadas e infeções complicadas das vias urinárias, incluindo pielonefrite, consultar Tabela 2 na
+secção 4.2.
+As farmacocinéticas de ceftolozano e tazobactam em doentes pediátricos (idade inferior a 18 anos)
+foram avaliadas num estudo de Fase 1 (em caso de confirmação ou suspeita de infeção por Gramnegativo) e dois estudos de Fase 2 (em infeções intra-abdominais complicadas e em infeções
+complicadas das vias urinárias, incluindo pielonefrite). Os dados destes três estudos foram agrupados e
+foi realizada modelação farmacocinética da população para calcular a AUC e Cmax individuais no
+estado estacionário de doentes pediátricos bem como para realizar simulações para avaliar a
+probabilidade de atingir o objetivo (PTA) de farmacocinética/farmacodinâmica (PK/PD).
+A AUC e Cmax individuais no estado estacionário para ceftolozano e tazobactam, em doentes
+pediátricos desde os 2 anos até idade inferior a 18 anos com infeções intra-abdominais complicadas ou
+infeções complicadas das vias urinárias, foram geralmente semelhantes às dos adultos. A experiência
+sobre a utilização de ceftolozano e tazobactam em doentes pediátricos com idade inferior a 2 anos é
+limitada. Os regimes posológicos recomendados nestes doentes pediátricos foram baseados em
+14
+
+simulações realizadas com modelos farmacocinéticos da população e não são esperadas diferenças
+clinicamente relevantes da AUC e C max no estado estacionário entre doentes pediátricos com idade
+inferior a 2 anos e crianças mais velhas e adultos.
+Os dados clínicos de farmacocinética em doentes pediátricos com TFGe ≤ 50 ml/min/1,73 m2 com
+infeções intra-abdominais complicadas ou infeções complicadas das vias urinárias foram insuficientes
+para recomendar um regime posológico para doentes pediátricos com TFGe ≤ 50 ml/min/1,73 m2.
+Sexo
+Numa análise da farmacocinética populacional de ceftolozano/tazobactam, não foram observadas
+diferenças clinicamente relevantes na AUC do ceftolozano e do tazobactam. Não se recomenda
+qualquer ajuste posológico com base no sexo.
+Etnicidade
+Numa análise da farmacocinética populacional de ceftolozano/tazobactam, não foram observadas
+diferenças clinicamente relevantes na AUC do ceftolozano/tazobactam em caucasianos quando
+comparados com as outras etnias. Não se recomenda qualquer ajuste posológico com base na raça.
+
+5.3
+
+Dados de segurança pré-clínica
+
+Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais
+de farmacologia de segurança, toxicidade de dose repetida em animais adultos e jovens ou
+genotoxicidade. Não foram realizados estudos de carcinogenicidade com ceftolozano/tazobactam.
+Apenas se observaram efeitos em estudos não clínicos a partir de níveis de exposição considerados
+suficientemente excessivos em relação ao nível máximo de exposição humana, pelo que se revelam
+pouco pertinentes para a utilização clínica.
+As reações adversas não observadas durante os estudos clínicos, mas constatadas nos animais sujeitos
+a níveis de exposição análogos aos níveis de exposição clínica, e com eventual relevância para a
+utilização clínica, foram as seguintes: o ceftolozano administrado a ratos fêmea durante a gestação e
+amamentação, em doses de 300 e 1000 mg/kg/dia, foi associado a uma diminuição da resposta de
+sobressalto auditivo em crias do sexo masculino no dia 60 pós-nascimento (PND). Uma dose de
+300 mg/kg/dia em ratos foi associada com um valor de exposição plasmática a ceftolozano (AUC)
+inferior ao valor da AUC plasmática de ceftolozano na dose mais elevada recomendada no ser humano
+de 2 gramas a cada 8 horas.
+Após a administração intraperitoneal de tazobactam a ratos fêmea, o desenvolvimento peri/pósnascimento foi comprometido (peso reduzido das crias, aumento em nados-mortos, aumento na
+mortalidade das crias), em concomitância com a toxicidade materna.
+Avaliação do risco ambiental (ARA)
+Os estudos de avaliação ambiental demonstraram que uma das substâncias ativas, ceftolozano, pode
+ser um risco para organismos de água superficial (ver secção 6.6).
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Cloreto de sódio
+Arginina
+Ácido cítrico, anidro
+
+15
+
+6.2
+
+Incompatibilidades
+
+Este medicamento não deve ser misturado com outros medicamentos, exceto os mencionados na
+secção 6.6.
+
+6.3
+
+Prazo de validade
+
+3 anos.
+Após reconstituição e diluição, a estabilidade química e física em utilização foi demonstrada durante
+24 horas a temperatura ambiente ou 4 dias entre 2 e 8 ºC. O medicamento é fotossensível e deve estar
+protegido da luz quando não conservado dentro da embalagem de origem.
+Do ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente após a
+reconstituição. Se não for utilizado imediatamente, os períodos e condições de conservação antes da
+utilização são da responsabilidade do utilizador, não sendo geralmente superiores a 24 horas entre 2 e
+8 ºC a não ser que a reconstituição/diluição tenha sido efetuada em condições de assepsia controladas
+e validadas.
+
+6.4
+
+Precauções especiais de conservação
+
+Conservar no frigorífico (2 ºC - 8 ºC).
+Conservar na embalagem de origem para proteger da luz.
+Condições de conservação do medicamento após reconstituição e diluição, ver secção 6.3.
+
+6.5
+
+Natureza e conteúdo do recipiente
+
+Frasco para injetáveis de 20 ml (vidro transparente tipo I) com rolha (borracha bromobutílica) e selo
+destacável.
+Apresentação de 10 frascos para injetáveis.
+
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+Cada frasco para injetáveis destina-se apenas a uma única utilização.
+Deverá ser seguida técnica assética na preparação da solução para perfusão.
+Preparação das doses
+O pó para concentrado para solução para perfusão de cada frasco para injetáveis é reconstituído com
+10 ml de água para preparações injetáveis ou com solução de cloreto de sódio a 9 mg/ml (0,9%) para
+injetáveis por frasco para injetáveis; após reconstituição o frasco para injetáveis deve ser agitado
+suavemente para dissolver o pó. O volume final é de aproximadamente 11,4 ml por frasco para
+injetáveis. A concentração resultante é de aproximadamente 132 mg/ml (88 mg/ml de ceftolozano e
+44 mg/ml de tazobactam) por frasco para injetáveis.
+ATENÇÃO: A SOLUÇÃO RECONSTITUÍDA NÃO SE DESTINA A INJEÇÃO DIRETA.
+A solução para perfusão de Zerbaxa é transparente e incolor a ligeiramente amarelada.
+Alterações de cor neste intervalo não afetam a potência do produto.
+Ver secção 4.2 para regimes posológicos recomendados de Zerbaxa baseados na indicação e função
+renal. A preparação para cada dose é apresentada abaixo.
+
+16
+
+Instruções para preparação de doses para adultos em SACO DE PERFUSÃO:
+Para preparação da dose de 2 g ceftolozano / 1 g tazobactam: Retirar o conteúdo total de dois frascos
+para injetáveis reconstituídos (aproximadamente 11,4 ml por frasco para injetáveis) utilizando uma
+seringa e adicioná-lo a um saco de perfusão de 100 ml de cloreto de sódio a 0,9% para injetáveis
+(solução salina normal) ou glicose a 5% para injetáveis.
+Para preparação da dose de 1,5 g ceftolozano / 0,75 g tazobactam: Retirar o conteúdo total de
+um frasco para injetáveis reconstituído (aproximadamente 11,4 ml por frasco para injetáveis) e 5,7 ml
+de um segundo frasco para injetáveis reconstituído utilizando uma seringa e adicioná-lo a um saco de
+perfusão de 100 ml de cloreto de sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5%
+para injetáveis.
+Para preparação da dose de 1 g ceftolozano / 0,5 g tazobactam: Retirar o conteúdo total
+(aproximadamente 11,4 ml) do frasco para injetáveis reconstituído utilizando uma seringa e
+adicioná-lo a um saco de perfusão contendo 100 ml de cloreto de sódio a 0,9% para injetáveis (solução
+salina normal) ou glicose a 5% para injetáveis.
+Para preparação da dose de 500 mg ceftolozano / 250 mg tazobactam: Retirar 5,7 ml do conteúdo do
+frasco para injetáveis reconstituído e adicioná-lo a um saco de perfusão contendo 100 ml de cloreto de
+sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+Para preparação da dose de 300 mg ceftolozano / 150 mg tazobactam: Retirar 3,5 ml do conteúdo do
+frasco para injetáveis reconstituído e adicioná-lo a um saco de perfusão de 100 ml de solução de
+cloreto de sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+Para preparação da dose de 250 mg ceftolozano / 125 mg tazobactam: Retirar 2,9 ml do conteúdo do
+frasco para injetáveis reconstituído e adicioná-lo a um saco de perfusão contendo 100 ml de cloreto de
+sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+Para preparação da dose de 100 mg ceftolozano / 50 mg tazobactam: Retirar 1,2 ml do conteúdo do
+frasco para injetáveis reconstituído e adicioná-lo a um saco de perfusão contendo 100 ml de cloreto de
+sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+Instruções para preparação de doses para doentes pediátricos em SACO DE PERFUSÃO ou em
+SERINGA DE PERFUSÃO:
+NOTA: O seguinte procedimento descreve os passos para preparar 100 ml de solução padrão com uma
+concentração final de 10 mg/ml ceftolozano / 5 mg/ml tazobactam. O volume desta solução padrão a
+ser administrado a um doente pediátrico será baseado no cálculo da dose necessária em função do peso
+do doente (ver secção 4.2). São fornecidos cálculos e passos detalhados.
+1.
+
+2.
+
+Preparação da solução padrão (100 ml de 10 mg/ml ceftolozano / 5 mg/ml tazobactam):
+Retirar o conteúdo total (aproximadamente 11,4 ml) do frasco para injetáveis reconstituído
+utilizando uma seringa e adicioná-lo a um saco de perfusão contendo 89 ml de cloreto de
+sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+Preparação do volume necessário de solução padrão para perfusão:
+a. Calcular a quantidade apropriada de Zerbaxa (em mg) para fornecer a dose
+necessária ao doente pediátrico. Com base nesta dose em mg, calcular o volume
+apropriado da solução padrão de 10 mg/ml ceftolozano / 5 mg/ml tazobactam a ser
+administrado. Consultar a Tabela 5 abaixo para confirmar os cálculos. Tenha em
+atenção que a tabela NÃO inclui todas as doses calculadas possíveis, mas pode ser
+utilizada para calcular o volume aproximado para verificar o cálculo.
+b. Transferir o volume da solução padrão devidamente calculado para um saco de
+perfusão ou seringa de perfusão de tamanho apropriado. Os valores apresentados na
+Tabela 5 são aproximados e pode ser necessário arredondar para a marca de
+
+17
+
+graduação mais próxima de uma seringa de tamanho adequado para volumes
+menores.
+
+Tabela 5: Preparação de Zerbaxa para doentes pediátricos (desde o nascimento* até idade
+inferior a 18 anos) a partir de 100 ml da solução padrão de 10 mg/ml ceftolozano / 5 mg/ml
+tazobactam
+
+Dose de Zerbaxa
+(mg/kg)
+
+Peso (kg)
+
+Quantidade
+calculada de
+ceftolozano (mg)
+
+Quantidade
+calculada de
+tazobactam (mg)
+
+Volume da
+solução padrão a
+administrar ao
+doente (ml)
+
+50 e superior
+
+1000
+
+500
+
+100
+
+40
+
+800
+
+400
+
+80
+
+30
+
+600
+
+300
+
+60
+
+20
+
+400
+
+200
+
+40
+
+15
+
+300
+
+150
+
+30
+
+10
+
+200
+
+100
+
+20
+
+5
+
+100
+
+50
+
+10
+
+3
+
+60
+
+30
+
+6
+
+1,5
+
+30
+
+15
+
+3
+
+20 mg/kg
+ceftolozano /
+10 mg/kg
+tazobactam**
+
+*Definido como idade gestacional > 32 semanas e pós-parto ≥ 7 dias.
+**Crianças com peso > 50 kg e com TFGe > 50 ml/min/1,73 m2 não devem exceder a dose máxima de
+1 g ceftolozano / 0,5 g tazobactam.
+Uma das substâncias ativas, ceftolozano, pode ter efeitos prejudiciais se atingir o ambiente aquático
+(ver secção 5.3). Não deite fora qualquer medicamento não utilizado ou resíduos pela canalização.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais. Estas medidas ajudarão a proteger o ambiente.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/15/1032/001
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 18 de setembro de 2015
+Data da última renovação: 17 de abril de 2020
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+MM/AAAA
+
+18
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+19
+
+ANEXO II
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+SEGURA E EFICAZ DO MEDICAMENTO
+
+20
+
+A
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante responsável pela libertação do lote
+FAREVA Mirabel
+Route de Marsat
+Riom
+63963, Clermont-Ferrand Cedex 9
+França
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+B.
+
+Medicamento sujeito a receita médica.
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Relatórios periódicos de segurança (RPS)
+
+
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+Plano de gestão do risco (PGR)
+
+
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+
+
+
+
+A pedido da Agência Europeia de Medicamentos
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+21
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+22
+
+A. ROTULAGEM
+
+23
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+
+1.
+
+NOME DO MEDICAMENTO
+
+Zerbaxa 1 g/0,5 g pó para concentrado para solução para perfusão
+ceftolozano/tazobactam
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada frasco para injetáveis contém sulfato de ceftolozano equivalente a 1 g de ceftolozano e
+tazobactam sódico equivalente a 0,5 g de tazobactam.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Cloreto de sódio, arginina, ácido cítrico anidro
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó para concentrado para solução para perfusão
+10 frascos para injetáveis
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Para via intravenosa após reconstituição e diluição.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico.
+Conservar na embalagem de origem para proteger da luz.
+
+24
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/15/1032/001
+
+13.
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+
+17.
+
+IDENTIFICADOR ÚNICO
+
+– CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+25
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO PARA INJETÁVEIS
+
+1.
+
+NOME DO MEDICAMENTO E VIA DE ADMINISTRAÇÃO
+
+Zerbaxa 1 g/0,5 g pó para concentrado
+ceftolozano/tazobactam
+
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Para via IV após reconstituição e diluição
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+6.
+
+OUTRAS
+
+26
+
+B. FOLHETO INFORMATIVO
+
+27
+
+Folheto informativo: Informação para o doente
+Zerbaxa 1 g/0,5 g pó para concentrado para solução para perfusão
+ceftolozano/tazobactam
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Zerbaxa e para que é utilizado
+O que precisa de saber antes de tomar Zerbaxa
+Como tomar Zerbaxa
+Efeitos indesejáveis possíveis
+Como conservar Zerbaxa
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Zerbaxa e para que é utilizado
+
+Zerbaxa é um medicamento utilizado para tratar uma variedade de infeções bacterianas. Este
+medicamento contém duas substâncias ativas:
+ceftolozano, um antibiótico que pertence ao grupo das “cefalosporinas” e que pode matar alguns
+tipos de bactérias que podem causar infeção;
+tazobactam, que bloqueia a ação de algumas enzimas conhecidas como beta-lactamases. Estas
+enzimas tornam as bactérias resistentes ao ceftolozano quebrando o antibiótico antes de este
+atuar. Ao bloquear a sua ação, o tazobactam torna o ceftolozano mais eficaz a matar as
+bactérias.
+Zerbaxa é utilizado em todos os grupos etários para o tratamento de infeções complicadas do abdómen
+e rim e sistema urinário.
+Zerbaxa é também utilizado em adultos para o tratamento de uma infeção dos pulmões chamada
+
+“pneumonia”.
+2.
+
+O que precisa de saber antes de tomar Zerbaxa
+
+Não tome Zerbaxa
+se tem alergia ao ceftolozano, ao tazobactam ou a qualquer outro componente deste
+medicamento (indicados na secção 6).
+se for alérgico a medicamentos conhecidos como “cefalosporinas”.
+se teve uma reação alérgica grave (por ex.: descamação grave da pele; inchaço da cara, mãos,
+pés, lábios, língua ou garganta; ou dificuldade em engolir ou respirar) a certos antibióticos (por
+ex.: penicilinas ou carbapenemes).
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes de tomar Zerbaxa se souber que é ou já foi
+anteriormente alérgico a cefalosporinas, penicilinas ou outros antibióticos.
+Fale com o seu médico ou farmacêutico caso tenha diarreia enquanto estiver a tomar Zerbaxa.
+
+28
+
+Durante ou após o tratamento com Zerbaxa, podem ocorrer infeções causadas por bactérias que não
+são sensíveis ao Zerbaxa ou causadas por fungos. Informe o seu médico se pensa que pode ter outra
+infeção.
+O tratamento com Zerbaxa leva por vezes à produção de anticorpos que reagem com células
+vermelhas do seu sangue. Se foi informado que tem um teste ao sangue alterado (chamado teste de
+Coombs), informe o seu médico que está a tomar ou que tomou recentemente Zerbaxa.
+
+Crianças e adolescentes
+Este medicamento não deve ser dado a crianças com idade inferior a 18 anos para o tratamento de
+pneumonia, uma vez que não existe informação suficiente sobre a utilização neste grupo etário para o
+tratamento desta infeção.
+Outros medicamentos e Zerbaxa
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos.
+Alguns medicamentos podem interagir com o ceftolozano e o tazobactam. Estes incluem:
+Probenecida (um medicamento para a gota). Este pode aumentar o tempo que o tazobactam
+demora a ser eliminado do seu corpo.
+
+Gravidez e amamentação
+Se está grávida ou a amamentar, ou se pensa estar grávida, consulte o seu médico ou farmacêutico
+antes de tomar este medicamento. O seu médico irá aconselha-la se deve tomar Zerbaxa durante a
+gravidez.
+Se estiver a amamentar, o seu médico irá aconselhá-la se deve parar de amamentar ou parar ou evitar o
+tratamento com Zerbaxa, tendo em conta o benefício da amamentação para a criança e o benefício da
+terapêutica para si.
+
+Condução de veículos e utilização de máquinas
+Zerbaxa pode causar tonturas, o que pode afetar a sua capacidade de conduzir veículos e utilizar
+máquinas.
+Zerbaxa contém sódio
+Este medicamento contém 230 mg de sódio (principal componente do sal de cozinha/sal de mesa) em
+cada frasco para injetáveis. Isto é equivalente a 11,5% da ingestão diária máxima de sódio
+recomendada na dieta de um adulto. O frasco para injetáveis reconstituído com 10 ml de solução de
+cloreto de sódio a 0,9% (solução salina normal) para injetáveis contém 265 mg de sódio em cada
+frasco para injetáveis. Isto é equivalente a 13,3% da ingestão diária máxima de sódio recomendada na
+dieta de um adulto.
+
+3.
+
+Como tomar Zerbaxa
+
+O seu médico ou outro profissional de saúde irá dar-lhe este medicamento através de uma perfusão
+numa das suas veias (por gota-a-gota), durante 1 hora. A dose do medicamento que lhe for
+administrada dependerá de ter ou não problemas de rins.
+
+A dose depende do tipo de infeção que tem, em que local do corpo está a infeção e da gravidade da
+infeção. O seu medico irá decidir a dose que necessita.
+
+Utilização em adultos
+A dose recomendada de Zerbaxa é de 1 g de ceftolozano e 0,5 g de tazobactam ou de 2 g de
+ceftolozano e 1 g de tazobactam a cada 8 horas, administrada numa das veias (diretamente na corrente
+sanguínea).
+29
+
+O tratamento com Zerbaxa normalmente dura entre 4 e 14 dias, dependendo da gravidade e local da
+infeção e de como o corpo responde ao tratamento.
+
+Utilização em crianças e adolescentes
+A dose recomendada de Zerbaxa é de 20 mg/kg de ceftolozano e 10 mg/kg de tazobactam a cada
+8 horas, administrada numa das veias (diretamente na corrente sanguínea). A dose não deve exceder
+1 g de ceftolozano e 0,5 g de tazobactam.
+O tratamento com Zerbaxa normalmente dura entre 5 e 14 dias, dependendo da gravidade e local da
+infeção e de como o corpo responde ao tratamento.
+
+Doentes com problemas de rins
+O seu médico pode ter de reduzir a dose de Zerbaxa ou decidir a frequência com que este lhe é
+administrado. O seu médico pode ainda querer fazer análises ao seu sangue para se certificar que
+recebe uma dose apropriada, especialmente se tiver de tomar este medicamento por um período
+prolongado.
+Se tomar mais Zerbaxa do que deveria
+Uma vez que este medicamento é dado por um médico ou outro profissional de saúde, é muito pouco
+provável que lhe seja administrado Zerbaxa em excesso. Contudo, se tiver alguma dúvida informe
+imediatamente o seu médico, enfermeiro ou farmacêutico.
+Se parar de tomar Zerbaxa
+Se achar que não lhe foi administrada uma dose de Zerbaxa, informe imediatamente o seu médico ou
+outro profissional de saúde.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+
+Informe imediatamente o seu médico caso tenha estes sintomas pois pode precisar de tratamento
+médico urgente:
+−
+Inchaço súbito dos lábios, cara, garganta ou língua; erupção na pele grave; e dificuldade em
+engolir ou respirar. Estes podem ser sinais de reação alérgica grave (anafilaxia) e podem colocar
+a vida em risco
+Diarreia que se torna grave ou que não desaparece, ou fezes com sangue ou muco, durante ou
+−
+após tratamento com Zerbaxa. Nesta situação, não deve tomar medicamentos que parem ou
+atrasem o movimento intestinal
+Adultos tratados para infeções complicadas do abdómen e rim e sistema urinário
+Efeitos indesejáveis frequentes (podem afetar até 1 em 10 pessoas):
+Dor de cabeça, dor de estômago, prisão de ventre, diarreia, náuseas, vómitos, aumento das
+enzimas hepáticas (através de análises ao sangue), erupção na pele, febre (temperatura elevada),
+diminuição na pressão sanguínea, diminuição de potássio (através de análises ao sangue),
+aumento no número de certos tipos de células do sangue conhecidas como plaquetas, tonturas,
+ansiedade, dificuldade em dormir, reações no local de administração
+Efeitos indesejáveis pouco frequentes (podem afetar até 1 em 100 pessoas):
+Inflamação do intestino grosso devida à bactéria C. difficile, inflamação do estômago, distensão
+abdominal, indigestão, quantidade excessiva de gás no estômago ou no intestino, obstrução do
+intestino, infeção da boca por leveduras (candidíase), infeção fúngica dos órgãos genitais
+30
+
+femininos, infeção fúngica das vias urinárias, aumento dos níveis de açúcar (glucose) (nas
+análises sanguíneas), diminuição dos níveis de magnésio (nas análises sanguíneas), diminuição
+dos níveis de fosfato (nas análises sanguíneas), AVC isquémico (AVC causado por fluxo
+sanguíneo diminuído no cérebro), irritação ou inflamação de uma veia no local de injeção,
+flebotrombose (coágulo sanguíneo numa veia), contagem baixa de células vermelhas do sangue,
+fibrilhação auricular (batimento do coração rápido ou irregular), batimento do coração
+acelerado, angina de peito (dor no peito ou sensação de aperto, pressão ou peso no peito),
+inflamação da pele com comichão ou inchaço da pele, urticária, teste de Coombs positivo (uma
+análise ao sangue que procura anticorpos que podem atacar os glóbulos vermelhos), problemas
+nos rins, doença renal, falta de ar
+Efeitos indesejáveis adicionais observados em crianças e adolescentes tratados para infeções
+complicadas do abdómen e rim e sistema urinário
+Efeitos indesejáveis frequentes (podem afetar até 1 em 10 pessoas):
+Apetite aumentado, baixo número de glóbulos brancos, paladar alterado
+Adultos tratados para uma infeção dos pulmões chamada “pneumonia”
+Efeitos indesejáveis frequentes (podem afetar até 1 em 10 pessoas):
+Inflamação do intestino grosso devido à bactéria C. difficile, diarreia, vómitos, aumento das
+enzimas do fígado (nos testes sanguíneos)
+Efeitos indesejáveis pouco frequentes (podem afetar até 1 em 100 pessoas):
+Infeção devida à bactéria C. difficile, teste positivo a C. difficile (em análise às fezes), teste de
+Coombs positivo (uma análise ao sangue que procura anticorpos que podem atacar os glóbulos
+vermelhos)
+
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+
+5.
+
+Como conservar Zerbaxa
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no frasco
+para injetáveis após “EXP”. O prazo de validade corresponde ao último dia do mês indicado.
+Frascos para injetáveis não abertos: Conservar no frigorífico (2 ºC - 8 ºC).
+Conservar na embalagem de origem para proteger da luz.
+Não deite fora quaisquer medicamentos na canalização. Qualquer medicamento não utilizado ou
+resíduos devem ser eliminados de acordo com as exigências locais. Estas medidas ajudarão a proteger
+o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Zerbaxa
+As substâncias ativas são ceftolozano e tazobactam.
+Cada frasco para injetáveis contém sulfato de ceftolozano equivalente a 1 g de ceftolozano e
+tazobactam sódico equivalente a 0,5 g de tazobactam. Para doses superiores a 1 g de ceftolozano
+e 0,5 g de tazobactam, são usados dois frascos para injetáveis.
+31
+
+-
+
+Os outros excipientes são cloreto de sódio, arginina e ácido cítrico, anidro.
+
+Qual o aspeto de Zerbaxa e conteúdo da embalagem
+Zerbaxa é um pó para concentrado para solução para perfusão (pó para concentrado) de cor branca a
+ligeiramente amarelada, fornecido num frasco para injetáveis.
+Zerbaxa está disponível em embalagens contendo frascos para injetáveis de 20 ml de vidro
+transparente Tipo I com uma rolha (borracha bromobutílica) e selo destacável.
+Apresentação de 10 frascos para injetáveis.
+
+Titular da Autorização de Introdução no Mercado
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+Fabricante
+FAREVA Mirabel
+Route de Marsat
+Riom
+63963, Clermont-Ferrand Cedex 9
+França
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+
+België/Belgique/Belgien
+MSD Belgium
+Tél/Tel: +32(0)27766211
+dpoc_belux@merck.com
+
+Lietuva
+UAB Merck Sharp & Dohme
+Tel.: +370 5 278 02 47
+msd_lietuva@merck.com
+
+България
+Мерк Шарп и Доум България ЕООД
+Тел.: +359 2 819 3737
+
+Luxembourg/Luxemburg
+MSD Belgium
+Tél/Tel: +32(0)27766211
+dpoc_belux@merck.com
+
+info-msdbg@merck.com
+
+Česká republika
+Merck Sharp & Dohme s.r.o.
+Tel.: +420 233 010 111
+dpoc_czechslovak@merck.com
+
+Magyarország
+MSD Pharma Hungary Kft.
+Tel.: +361 888 53 00
+hungary_msd@merck.com
+
+Danmark
+MSD Danmark ApS
+Tlf: +45 4482 4000
+dkmail@merck.com
+
+Malta
+Merck Sharp & Dohme Cyprus Limited
+Tel: 8007 4433 (+356 99917558)
+malta_info@merck.com
+
+Deutschland
+MSD Sharp & Dohme GmbH
+Tel: 0800 673 673 673 (+49 (0) 89 4561 0)
+e-mail@msd.de
+
+Nederland
+Merck Sharp & Dohme B.V.
+Tel: 0800 9999000 (+31 23 5153153)
+medicalinfo.nl@merck.com
+
+Eesti
+Merck Sharp & Dohme OÜ
+Tel.: +372 6144 200
+msdeesti@merck.com
+
+Norge
+MSD (Norge) AS
+Tlf: +47 32 20 73 00
+msdnorge@msd.no
+
+32
+
+dpoc_greece@merck.com
+
+Österreich
+Merck Sharp & Dohme Ges.m.b.H.
+Tel: +43 (0) 1 26 044
+dpoc_austria@merck.com
+
+España
+Merck Sharp & Dohme de España, S.A.
+Tel: +34 91 321 06 00
+msd_info@merck.com
+
+Polska
+MSD Polska Sp.z o.o.
+Tel.: +48 22 549 51 00
+msdpolska@merck.com
+
+France
+MSD France
+Tél: + 33 (0) 1 80 46 40 40
+
+Portugal
+Merck Sharp & Dohme, Lda
+Tel: +351 21 4465700
+inform_pt@merck.com
+
+Hrvatska
+Merck Sharp & Dohme d.o.o.
+Tel: + 385 1 6611 333
+croatia_info@merck.com
+
+România
+Merck Sharp & Dohme Romania S.R.L.
+Tel: +40 21 529 29 00
+msdromania@merck.com
+
+Ireland
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 299 8700
+medinfo_ireland@merck.com
+
+Slovenija
+Merck Sharp & Dohme, inovativna zdravila d.o.o.
+Tel: + 386 1 5204 201
+msd.slovenia@merck.com
+
+Ísland
+Vistor hf.
+Sími: +354 535 7000
+
+Slovenská republika
+Merck Sharp & Dohme, s. r. o.
+Tel.: +421 2 58282010
+dpoc_czechslovak@merck.com
+
+Ιtalia
+
+Suomi/Finland
+MSD Finland Oy
+Puh/Tel: +358 (0) 9 804650
+info@msd.fi
+
+Ελλάδα
+MSD Α.Φ.Β.Ε.Ε.
+Τηλ: +30 210 98 97 300
+
+MSD Italia S.r.l.
+Tel: 800 23 99 89 (+39 06 361911)
+medicalinformation.it@msd.com
+
+Merck Sharp & Dohme Cyprus Limited
+Τηλ: 800 00 673 (+357 22866700)
+cyprus_info@merck.com
+
+Sverige
+Merck Sharp & Dohme (Sweden) AB
+Tel: +46 77 5700488
+medicinskinfo@merck.com
+
+Latvija
+SIA Merck Sharp & Dohme Latvija
+Tel: +371 67364224
+msd_lv@merck.com.
+
+United Kingdom (Northern Ireland)
+Merck Sharp & Dohme Ireland (Human Health)
+Limited
+Tel: +353 (0)1 2998700
+
+Κύπρος
+
+medinfoNI@msd.com
+
+Este folheto foi revisto pela última vez em {mês de AAAA}.
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+33
+
+----------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos profissionais de saúde:
+Preparação de soluções
+Cada frasco para injetáveis destina-se apenas a uma única utilização.
+Deverá ser seguida técnica assética na preparação da solução para perfusão.
+Preparação das doses
+O pó para concentrado para solução para perfusão de cada frasco para injetáveis é reconstituído com
+10 ml de água para preparações injetáveis ou com solução de cloreto de sódio a 9 mg/ml (0,9%) para
+injetáveis por frasco para injetáveis; após reconstituição o frasco para injetáveis deve ser agitado
+suavemente para dissolver o pó. O volume final é de aproximadamente 11,4 ml por frasco para
+injetáveis. A concentração resultante é de aproximadamente 132 mg/ml (88 mg/ml de ceftolozano e
+44 mg/ml de tazobactam) por frasco para injetáveis.
+ATENÇÃO: A SOLUÇÃO RECONSTITUÍDA NÃO SE DESTINA A INJEÇÃO DIRETA.
+A solução para perfusão de Zerbaxa é transparente e incolor a ligeiramente amarelada.
+Alterações de cor neste intervalo não afetam a potência do produto.
+Após reconstituição e diluição, a estabilidade química e física em utilização foi demonstrada durante
+24 horas a temperatura ambiente ou 4 dias entre 2 e 8 ºC. O medicamento é fotossensível e deve estar
+protegido da luz quando não conservado dentro da embalagem de origem.
+Ver secção 4.2 do Resumo das Características do Medicamento para regimes posológicos
+recomendados de Zerbaxa baseados na indicação e função renal. A preparação para cada dose é
+apresentada abaixo.
+Instruções para preparação de doses para adultos em SACO DE PERFUSÃO:
+Para preparação da dose de 2 g ceftolozano / 1 g tazobactam: Retirar o conteúdo total de dois frascos
+para injetáveis reconstituídos (aproximadamente 11,4 ml por frasco para injetáveis) utilizando uma
+seringa e adicioná-lo a um saco de perfusão de 100 ml de cloreto de sódio a 0,9% para injetáveis
+(solução salina normal) ou glicose a 5% para injetáveis.
+Para preparação da dose de 1,5 g ceftolozano / 0,75 g tazobactam: Retirar o conteúdo total de
+um frasco para injetáveis reconstituído (aproximadamente 11,4 ml por frasco para injetáveis) e 5,7 ml
+de um segundo frasco para injetáveis reconstituído utilizando uma seringa e adicioná-lo a um saco de
+perfusão de 100 ml de cloreto de sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5%
+para injetáveis.
+Para preparação da dose de 1 g ceftolozano / 0,5 g tazobactam: Retirar o conteúdo total
+(aproximadamente 11,4 ml) do frasco para injetáveis reconstituído utilizando uma seringa e
+adicioná-lo a um saco de perfusão contendo 100 ml de cloreto de sódio a 0,9% para injetáveis (solução
+salina normal) ou glicose a 5% para injetáveis.
+Para preparação da dose de 500 mg ceftolozano / 250 mg tazobactam: Retirar 5,7 ml do conteúdo do
+frasco para injetáveis reconstituído e adicioná-lo a um saco de perfusão contendo 100 ml de cloreto de
+sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+
+34
+
+Para preparação da dose de 300 mg ceftolozano / 150 mg tazobactam: Retirar 3,5 ml do conteúdo do
+frasco para injetáveis reconstituído e adicioná-lo a um saco de perfusão de 100 ml de cloreto de sódio
+a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+Para preparação da dose de 250 mg ceftolozano / 125 mg tazobactam: Retirar 2,9 ml do conteúdo do
+frasco para injetáveis reconstituído e adicioná-lo a um saco de perfusão contendo 100 ml de cloreto de
+sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+Para preparação da dose de 100 mg ceftolozano / 50 mg tazobactam: Retirar 1,2 ml do conteúdo do
+frasco para injetáveis reconstituído e adicioná-lo a um saco de perfusão contendo 100 ml de cloreto de
+sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+Instruções para preparação de doses para doentes pediátricos em SACO DE PERFUSÃO ou em
+SERINGA DE PERFUSÃO:
+NOTA: O seguinte procedimento descreve os passos para preparar 100 ml de solução padrão com uma
+concentração final de 10 mg/ml ceftolozano / 5 mg/ml tazobactam. O volume desta solução padrão a
+ser administrado a um doente pediátrico será baseado no cálculo da dose necessária em função do peso
+do doente (ver secção 4.2 do Resumo das Características do Medicamento). São fornecidos cálculos e
+passos detalhados.
+1.
+
+2.
+
+Preparação da solução padrão (100 ml de 10 mg/ml ceftolozano / 5 mg/ml tazobactam):
+Retirar o conteúdo total (aproximadamente 11,4 ml) do frasco para injetáveis reconstituído
+utilizando uma seringa e adicioná-lo a um saco de perfusão contendo 89 ml de cloreto de
+sódio a 0,9% para injetáveis (solução salina normal) ou glicose a 5% para injetáveis.
+Preparação do volume necessário de solução padrão para perfusão:
+a. Calcular a quantidade apropriada de Zerbaxa (em mg) para fornecer a dose necessária
+ao doente pediátrico. Com base nesta dose em mg, calcular o volume apropriado da
+solução padrão de 10 mg/ml ceftolozano / 5 mg/ml tazobactam a ser administrado.
+Consultar a Tabela 1 abaixo para confirmar os cálculos. Tenha em atenção que a
+tabela NÃO inclui todas as doses calculadas possíveis, mas pode ser utilizada para
+calcular o volume aproximado para verificar o cálculo.
+b. Transferir o volume da solução padrão devidamente calculado para um saco de
+perfusão ou seringa de perfusão de tamanho apropriado. Os valores apresentados na
+Tabela 1 são aproximados e pode ser necessário arredondar para a marca de graduação
+mais próxima de uma seringa de tamanho adequado para volumes menores.
+
+Tabela 1: Preparação de Zerbaxa para doentes pediátricos (desde o nascimento* até idade
+inferior a 18 anos) a partir de 100 ml da solução padrão de 10 mg/ml ceftolozano / 5 mg/ml
+tazobactam
+
+Dose de Zerbaxa
+(mg/kg)
+
+20 mg/kg
+ceftolozano /
+10 mg/kg
+tazobactam**
+
+Peso (kg)
+
+Quantidade
+calculada de
+ceftolozano (mg)
+
+Quantidade
+calculada de
+tazobactam (mg)
+
+Volume da
+solução padrão a
+administrar ao
+doente (ml)
+
+50 e superior
+
+1000
+
+500
+
+100
+
+40
+
+800
+
+400
+
+80
+
+30
+
+600
+
+300
+
+60
+
+20
+
+400
+
+200
+
+40
+
+15
+
+300
+
+150
+
+30
+
+10
+
+200
+
+100
+
+20
+
+5
+
+100
+
+50
+
+10
+
+3
+
+60
+
+30
+
+6
+
+1,5
+
+30
+
+15
+
+3
+
+35
+
+*Definido como idade gestacional > 32 semanas e pós-parto ≥ 7 dias.
+**Crianças com peso > 50 kg e com TFGe > 50 ml/min/1,73 m2 não devem exceder a dose máxima de
+1 g ceftolozano / 0,5 g tazobactam.
+Do ponto de vista microbiológico, o medicamento deve ser utilizado imediatamente após a
+reconstituição. Se não for utilizado imediatamente, os períodos e condições de conservação antes da
+utilização são da responsabilidade do utilizador, não sendo superiores a 24 horas entre 2 e 8 ºC, a não
+ser que a reconstituição/diluição tenha sido efetuada em condições de assepsia controladas e validadas.
+
+Uma das substâncias ativas, ceftolozano, pode ter efeitos prejudiciais se atingir o ambiente
+aquático. Não deite fora qualquer medicamento não utilizado ou resíduos pela canalização.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as
+exigências locais. Estas medidas ajudarão a proteger o ambiente.
+
+36
+
+

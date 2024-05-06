@@ -1,0 +1,2026 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+IDELVION 250 UI pó e solvente para solução injetável
+IDELVION 500 UI pó e solvente para solução injetável
+IDELVION 1000 UI pó e solvente para solução injetável
+IDELVION 2000 UI pó e solvente para solução injetável
+IDELVION 3500 UI pó e solvente para solução injetável
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+IDELVION 250 UI pó e solvente para solução injetável
+Cada frasco para injetáveis contém nominalmente 250 UI de fator IX da coagulação recombinante
+ligado à albumina através de uma proteína de fusão (rIX-PF), (albutrepenonacog alfa). Após
+reconstituição com 2,5 ml de água para preparações injetáveis a solução contém 100 UI/ml de
+albutrepenonacog alfa.
+IDELVION 500 UI pó e solvente para solução injetável
+Cada frasco para injetáveis contém nominalmente 500 UI de fator IX da coagulação recombinante ligado
+à albumina através de uma proteína de fusão (rIX-PF), (albutrepenonacog alfa). Após reconstituição
+com 2,5 ml de água para preparações injetáveis a solução contém 200 UI/ml de albutrepenonacog alfa.
+IDELVION 1000 UI pó e solvente para solução injetável
+Cada frasco para injetáveis contém nominalmente 1000 UI de fator IX da coagulação recombinante
+ligado à albumina através de uma proteína de fusão (rIX-PF), (albutrepenonacog alfa). Após
+reconstituição com 2,5 ml de água para preparações injetáveis a solução contém 400 UI/ml de
+albutrepenonacog alfa.
+IDELVION 2000 UI pó e solvente para solução injetável
+Cada frasco para injetáveis contém nominalmente 2000 UI de fator IX da coagulação recombinante
+ligado à albumina através de uma proteína de fusão (rIX-PF), (albutrepenonacog alfa). Após
+reconstituição com 5 ml de água para preparações injetáveis a solução contém 400 UI/ml de
+albutrepenonacog alfa.
+IDELVION 3500 UI pó e solvente para solução injetável
+Cada frasco para injetáveis contém nominalmente 3500 UI de fator IX da coagulação recombinante
+ligado à albumina através de uma proteína de fusão (rIX-PF), (albutrepenonacog alfa). Após
+reconstituição com 5 ml de água para preparações injetáveis a solução contém 700 UI/ml de
+albutrepenonacog alfa.
+A potência (UI) é determinada usando o ensaio de coagulação de passo único da Farmacopeia
+Europeia. A atividade específica do IDELVION é aproximadamente 54 – 85 UI/mg de proteína.
+Albutrepenonacog alfa é uma proteína purificada produzida por tecnologia DNA recombinante, gerada
+por fusão genética entre a albumina recombinante e o fator IX da coagulação recombinante. A fusão
+genética do cDNA da albumina humana com o cDNA do fator IX da coagulação humana permite que
+a proteína seja produzida como uma proteína recombinante única e assegura a homogeneidade do
+produto evitando a conjugação química. A porção fator IX recombinante é idêntica à forma alélica
+Thr148 do fator IX derivado do plasma. O ligante de clivagem entre as moléculas do fator IX
+recombinante e de albumina deriva do “péptido de ativação” endógeno no fator IX nativo.
+2
+
+Excipiente com efeito conhecido
+Após reconstituição, cada frasco para injetáveis de 250 UI, 500 UI ou 1000 UI contém 4,3 mg de
+sódio.
+Após reconstituição, cada frasco para injetáveis de 2000 UI ou 3500 UI contém 8,6 mg de sódio (ver
+secção 4.4).
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Pó e solvente para solução injetável.
+Pó amarelo pálido a branco e solvente para solução injetável incolor e límpido.
+pH: 6,6 – 7,2
+Osmolalidade:
+IDELVION 250 UI pó e solvente para solução injetável
+175 - 215 mOsmol/kg
+IDELVION 500 UI pó e solvente para solução injetável
+260 – 300 mOsm/kg
+IDELVION 1000 UI pó e solvente para solução injetável
+260 – 300 mOsm/kg
+IDELVION 2000 UI pó e solvente para solução injetável
+260 – 300 mOsm/kg
+IDELVION 3500 UI pó e solvente para solução injetável
+260 – 300 mOsm/kg
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Tratamento e profilaxia de hemorragias em doentes com hemofilia B (deficiência congénita de fator
+IX).
+IDELVION pode ser usado por todas as faixas etárias.
+4.2
+
+Posologia e modo de administração
+
+O tratamento deve decorrer sob a supervisão de um médico com experiência no tratamento da
+hemofilia B.
+Monitorização do tratamento
+Durante o tratamento, recomenda-se a determinação apropriada dos níveis de fator IX para aferir a
+dose a ser administrada e a frequência de repetição das perfusões. A resposta de cada doente ao fator
+IX pode variar, demonstrando diferentes tempos de semivida e recuperações. A dose com base no peso
+corporal do doente pode necessitar de ajustes no caso de doentes com peso baixo ou com excesso de
+peso. No caso particular de grandes cirurgias, é indispensável uma monitorização precisa da
+3
+
+terapêutica de substituição, através da análise dos parâmetros da coagulação (atividade do fator IX no
+plasma).
+Quando se utiliza um ensaio de coagulação in vitro de passo único baseado no tempo parcial de
+tromboplastina ativada (aPTT) para determinação da atividade do fator IX nas amostras de sangue dos
+doentes, os resultados da atividade do fator IX no plasma podem ser significativamente afetados, tanto
+pelo tipo de reagente de aPTT, como pelo padrão de referência utilizado no ensaio. A determinação
+com um ensaio de coagulação de passo único usando um reagente de aPTT à base de caulino ou um
+reagente de aPTT à base de Actina FS resultará muito provavelmente num nível de atividade
+subestimado. Tal é particularmente importante aquando da mudança de laboratório e/ou de reagentes
+utilizados no ensaio.
+Posologia
+A dose e a duração da terapêutica de substituição dependem da gravidade da deficiência de fator IX,
+da localização e extensão da hemorragia e do estado clínico do doente.
+O número de unidades administradas de fator IX é expresso em Unidades Internacionais (UI), as quais
+estão relacionadas com o atual padrão da OMS para produtos de fator IX. A atividade do fator IX no
+plasma é expressa ou em percentagem (relativa ao plasma humano normal) ou em Unidades
+Internacionais (relativa a um Padrão Internacional para o fator IX no plasma).
+Uma Unidade Internacional (UI) de atividade de fator IX é equivalente à quantidade de fator IX
+existente em um ml de plasma humano normal.
+Tratamento consoante necessário
+O cálculo da dose necessária de fator IX baseia-se na observação empírica de que 1 UI de fator IX por
+kg de peso corporal aumente a atividade do fator IX no plasma em média 1,3 UI/dl (1,3% da atividade
+normal) em doentes > 12 anos de idade e 1,0 UI/dl (1,0% da atividade normal) em doentes < 12 anos
+de idade. A dose necessária é determinada através das seguintes fórmulas:
+Dose necessária (UI) = peso corporal (kg) x aumento de fator IX pretendido (% do normal ou UI/dl) x
+{recíproco da recuperação observada (UI/kg por UI/dl)}
+Aumento de fator IX esperado (UI/dl ou % do normal) = Dose (UI) x Recuperação (UI/dl por
+UI/kg)/peso corporal (kg)
+A quantidade a ser administrada e a frequência de administração devem ser sempre orientadas em
+função da eficácia clínica em cada caso individual.
+Doentes < 12 anos de idade
+Para um aumento da recuperação de 1 UI/dl por 1 UI/kg, a dose é calculada da seguinte forma:
+Dose necessária (UI) = peso corporal (kg) x aumento de fator IX pretendido (UI/dl) x 1 dl/kg
+Exemplo
+1. Pretende-se um nível máximo de 50 % do normal num doente com 20 kg que tem hemofilia B
+grave. A dose apropriada seria 20 kg x 50 UI/dl x 1 dl/kg = 1000 UIs.
+2.
+
+Uma dose de 1000 UIs de IDELVION, administrada a um doente com 25 kg, será de esperar que
+resulte num aumento máximo de fator IX após a injeção de 1000 UIs/25 kg x 1,0 (UI/dl por
+UI/kg) = 40 UI/dl (40 % do normal).
+
+Doentes ≥12 anos de idade
+Para um aumento da recuperação de 1,3 UI/dl por 1 UI/kg, a dose é calculada da seguinte forma:
+Dose necessária (UI) = peso corporal (kg) x aumento de fator IX pretendido (UI/dl) x 0,77 dl/kg
+Exemplo
+
+4
+
+3.
+
+Pretende-se um nível máximo de 50 % do normal num doente com 80 kg que tem hemofilia B
+grave. A dose apropriada seria 80 kg x 50 UI/dl x 0,77 dl/kg = 3080 UIs.
+
+4.
+
+Uma dose de 2000 UIs de IDELVION, administrada a um doente com 80 kg, será de esperar que
+resulte num aumento máximo de fator IX após a injeção de 2000 UIs x 1,3 (UI/dl por UI/kg)/80
+kg = 32,5 UI/dl (32,5 % do normal).
+
+Em caso de ocorrência dos seguintes episódios hemorrágicos, a atividade de fator IX não deve
+diminuir para valores inferiores aos níveis de atividade plasmática (em % do normal ou em UI/dl) no
+período correspondente. O quadro seguinte pode ser usado como orientação da posologia em caso de
+episódios hemorrágicos e cirurgia:
+Grau de hemorragia /
+Tipo de intervenção cirúrgica
+Hemorragia
+Hemartrose ligeira ou moderada,
+hemorragia muscular (exceto no
+psoas ilíaco) ou hemorragia oral
+
+Nível de Fator IX
+pretendido (%)
+(UI/dl)
+30 - 60
+
+Hemorragia grave
+Hemorragia com risco de vida,
+hemorragia em músculos
+profundos incluindo o psoas ilíaco
+
+60 - 100
+
+Pequena cirurgia
+Incluindo uma extração dentária
+não complicada
+
+50 – 80 (pré e pósoperatório)
+
+Grande cirurgia
+
+60 - 100
+(pré e pós-operatório)
+
+Frequência de administração
+(horas) / Duração da
+terapêutica (dias)
+Uma dose única deverá ser
+suficiente para a maioria das
+hemorragias. Dose de
+manutenção após 24 – 72 horas
+se houver evidência de
+hemorragia.
+Repetir cada 24 – 72 horas na
+primeira semana e depois dose
+de manutenção semanal até que
+a hemorragia estanque e seja
+obtida a cicatrização.
+Uma dose única poderá ser
+suficiente para a maioria das
+pequenas cirurgias. Se
+necessário pode administrar-se
+uma dose de manutenção após
+24 – 72 horas até que a
+hemorragia estanque e seja
+obtida a cicatrização.
+Repetir cada 24 – 72 horas na
+primeira semana e depois dose
+de manutenção 1 – 2 vezes por
+semana até que a hemorragia
+estanque e seja obtida a
+cicatrização.
+
+Profilaxia
+Na profilaxia a longo prazo das hemorragias em doentes com hemofilia B grave, as doses habituais
+são 35 a 50 UI/kg uma vez por semana.
+Alguns doentes que estão bem controlados num regime de uma vez por semana, podem ser tratados
+com uma dose até 75 UI/kg com intervalos de 10 ou 14 dias. Para doentes >18 anos, pode ser
+considerado um alargamento adicional do intervalo entre os tratamentos (ver secção 5.1).
+Em alguns casos, especialmente em doentes mais jovens, podem ser necessários intervalos entre as
+doses mais curtos ou doses mais elevadas.
+Após um episódio hemorrágico durante a profilaxia, os doentes devem manter o seu regime profilático
+tanto quanto possível, através da administração de 2 doses de IDELVION com, pelo menos, 24 horas
+de intervalo ou com um intervalo mais prolongado se adequado para o doente.
+População pediátrica
+5
+
+Na profilaxia a longo prazo, o regime posológico recomendado é 35 a 50 UI/kg uma vez por semana
+(ver secções 5.1 e 5.2). Em adolescentes com idade igual ou superior a 12 anos, as recomendações
+para as doses são idênticas às dos adultos (ver acima).
+Modo de administração
+Via intravenosa.
+A preparação reconstituída deve ser lentamente injetada por via intravenosa a uma velocidade
+confortável para o doente até um máximo de 5 ml/min.
+Para instruções acerca da reconstituição do medicamento antes da administração, ver secção 6.6.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Reação alérgica conhecida à proteína de hamster.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Rastreabilidade
+De forma a melhorar a rastreabilidade dos medicamentos biológicos, devem ser claramente registados
+o nome e o número do lote do medicamento administrado.
+Hipersensibilidade
+É possível que ocorram reações de hipersensibilidade do tipo alérgico com IDELVION. O produto
+contém vestígios de proteínas de hamster. Caso ocorram sintomas de hipersensibilidade, os doentes
+devem ser aconselhados a interromper imediatamente a utilização do medicamento e a contactar o seu
+médico. Os doentes devem ser informados acerca dos sinais iniciais das reações de hipersensibilidade,
+incluindo urticária, urticária generalizada, aperto torácico, respiração ruidosa, hipotensão e anafilaxia.
+Em caso de choque, deve instituir-se o tratamento médico padrão para situações de choque.
+Inibidores
+Após tratamento repetido com produtos de fator IX da coagulação humana, os doentes devem ser
+monitorizados para o desenvolvimento de anticorpos neutralizantes (inibidores), os quais deverão ser
+quantificados em Unidades Bethesda (UB) utilizando ensaios biológicos apropriados. Tem sido
+notificada a formação de inibidores do fator IX durante a terapêutica de substituição do fator com
+IDELVION no tratamento da hemofilia B.
+Têm sido referidos casos na literatura que mostram uma correlação entre a ocorrência de inibidor do
+fator IX e reações alérgicas. Deste modo, os doentes que apresentarem reações alérgicas devem ser
+avaliados relativamente à presença de um inibidor. Deve salientar-se que os doentes com inibidores do
+fator IX podem ter um risco aumentado de anafilaxia numa exposição subsequente ao fator IX.
+Devido ao risco de reações alérgicas com os produtos de fator IX, a administração inicial de fator IX
+deve, de acordo com o critério do médico assistente, ser realizada sob supervisão médica onde poderá
+ser proporcionado tratamento médico adequado para reações alérgicas.
+Tromboembolismo
+Devido ao risco potencial de complicações trombóticas, deve iniciar-se uma supervisão clínica
+relativamente aos sinais precoces de coagulopatia trombótica e de consumo, através de ensaios
+biológicos adequados, quando se administrar este produto a doentes com doença hepática, doentes no
+pós-operatório, recém-nascidos ou doentes em risco de fenómenos trombóticos ou coagulação
+intravascular disseminada. Em cada uma destas situações, o benefício do tratamento com IDELVION
+deve ser avaliado tendo em conta o risco deste tipo de complicações.
+Eventos cardiovasculares
+6
+
+Em doentes com fatores de risco cardiovascular existentes, a terapêutica de substituição com FIX
+poderá aumentar o risco cardiovascular.
+Complicações relacionadas com o cateter
+Caso seja necessário um dispositivo de acesso venoso central (DAVC), deverá ter-se em consideração
+o risco de complicações relacionadas com o DAVC incluindo infeções locais, bacteremia e tromboses
+no local do cateter.
+Idosos
+Os estudos clínicos realizados com IDELVION não incluíram indivíduos com idade igual ou superior
+a 65 anos. Não se sabe se respondem de forma diferente dos indivíduos mais jovens.
+Indução de tolerância imunológica
+Não foram estabelecidas a segurança e a eficácia da utilização de IDELVION para a indução de
+tolerância imunológica.
+Conteúdo em sódio
+Este medicamento contém até 8,6 mg de sódio por frasco para injetáveis, equivalente a 0,4% da
+ingestão diária máxima recomendada pela OMS de 2 g de sódio para um adulto.
+População pediátrica
+As advertências e precauções mencionadas aplicam-se tanto a adultos como a crianças.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Não foram notificadas quaisquer interações entre produtos de fator IX da coagulação humana (rDNA)
+e outros medicamentos.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Não foram realizados estudos de reprodução em animais com o fator IX. Dada a rara ocorrência de
+hemofilia B em mulheres, não existe experiência relativamente à utilização de fator IX durante a
+gravidez e o aleitamento.
+Assim, o fator IX só deve ser utilizado durante a gravidez e o aleitamento se estiver claramente
+indicado.
+Não existe informação acerca dos efeitos do fator IX na fertilidade.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+IDELVION não influencia a capacidade de conduzir e utilizar máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Foram raramente observadas reações alérgicas ou de hipersensibilidade (que podem incluir
+angioedema, sensação de ardor e de picadas no local da perfusão, arrepios, afrontamentos, urticária
+generalizada, cefaleias, urticária, hipotensão, letargia, náuseas, irrequietude, taquicardia, aperto
+torácico, formigueiro, vómitos, pieira) que podem, em alguns casos, evoluir para anafilaxia grave
+(incluindo choque). Em alguns casos estas reações evoluíram para anafilaxia grave, tendo ocorrido em
+estreita associação temporal com o desenvolvimento de inibidores do fator IX (ver também secção
+4.4). Foram notificados casos de síndrome nefrótico após tentativas de indução de tolerância
+imunológica em doentes com hemofilia B que apresentavam inibidores do fator IX e antecedentes de
+reação alérgica.
+
+7
+
+Tem sido muito raramente observado o desenvolvimento de anticorpos para as proteínas de hamster
+com reações de hipersensibilidade associadas..
+Os doentes com hemofilia B podem desenvolver anticorpos neutralizantes (inibidores) do fator IX. Se
+tais inibidores ocorrerem, a condição poderá manifestar-se como uma resposta clínica insuficiente.
+Nestes casos, recomenda-se que seja contactado um centro especializado em hemofilia. Um caso com
+título elevado do inibidor foi notificado num estudo clínico que avaliou doentes previamente não
+tratados. O desenvolvimento do inibidor foi observado em doentes previamente tratados na
+experiência pós-comercialização com IDELVION.
+Existe um risco potencial de ocorrência de episódios tromboembólicos após a administração de
+produtos de fator IX, sendo este risco mais elevado com preparações de baixa pureza. A utilização de
+produtos de fator IX de baixa pureza tem sido associada a situações de enfarte do miocárdio,
+coagulação intravascular disseminada, trombose venosa e embolismo pulmonar. A utilização de fator
+IX de elevada pureza encontra-se raramente associada a tais reações adversas.
+Lista das reações adversas em formato de tabela
+O quadro apresentado em seguida encontra-se em conformidade com a classificação de sistemas de
+órgãos MedDRA (CSO e Nível de Termo Preferido). Na tabela estão listadas as reações adversas que
+foram notificadas em ensaios clínicos e/ou foram identificadas na utilização pós-comercialização.
+As frequências foram avaliadas de acordo com a seguinte convenção: muito frequentes (≥1/10);
+frequentes (≥1/100 a <1/10); pouco frequentes (≥1/1.000 a <1/100); raros (≥1/10.000 a <1/1.000);
+muito raros (<1/10.000); frequência desconhecida (não pode ser calculada a partir dos dados
+disponíveis).
+Em cada classe de frequência, as reações adversas são apresentadas por ordem decrescente de
+gravidade.
+Classe de Sistemas de Órgãos MedDRA
+
+Reações adversas
+
+Frequência por doente
+
+Doenças do sangue e do sistema linfático
+
+Desconhecida
+
+Doenças do sistema imunitário
+
+Desenvolvimento de
+inibição/inibidor do fator
+IX
+Hipersensibilidade
+
+Doenças do sistema nervoso
+
+Cefaleias
+
+Frequentes
+
+Tonturas
+
+Frequentes
+
+Erupção cutânea
+
+Frequente
+
+Eczema
+
+Pouco frequente
+
+Reações no local de
+injeção
+
+Frequentes
+
+Afeções dos tecidos cutâneos e subcutâneos
+Perturbações gerais e alterações no local de
+administração
+
+Frequente
+
+Descrição de reações adversas selecionadas
+Um caso com título elevado do inibidor foi notificado num estudo clínico que avaliou doentes
+previamente não tratados (ver secção 5.1). Devido aos dados limitados não é providenciada nenhuma
+incidência de inibidor.
+População pediátrica
+É expectável que a frequência, tipo e gravidade das reações adversas em crianças sejam as mesmas dos
+adultos.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+8
+
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Não foram notificados sintomas de sobredosagem com IDELVION.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: anti-hemorrágicos, fator IX da coagulação sanguínea
+Código ATC: B02BD04
+Mecanismo de ação
+O fator IX é uma glicoproteína de cadeia única com uma massa molecular de cerca de 68.000 Dalton.
+É um fator da coagulação dependente da vitamina K e é sintetizado no fígado. O fator IX é ativado
+pelo fator XIa na via intrínseca da coagulação e pelo complexo fator VII/fator tecidual na via
+extrínseca. O fator IX ativado, em combinação com o fator VIII ativado, ativa o fator X. O fator X
+ativado converte a protrombina em trombina. A trombina converte depois o fibrinogénio em fibrina e
+forma-se o coágulo. A hemofilia B é uma doença hereditária associada aos cromossomas sexuais, que
+afeta a coagulação do sangue devido à diminuição dos níveis de fator IX e resulta numa hemorragia
+profusa das articulações, músculos ou órgãos internos, de forma espontânea ou como resultado de um
+trauma acidental ou cirúrgico. Através de terapêutica de substituição, os níveis plasmáticos de fator IX
+são aumentados, permitindo deste modo uma correção temporária da deficiência do fator e uma
+correção das tendências hemorrágicas.
+É de salientar que a THA (taxa de hemorragia anualizada) não é comparável entre os diferentes
+concentrados de fator e entre diferentes estudos clínicos.
+Albutrepenonacog alfa é um fator IX da coagulação recombinante. O prolongamento da semivida do
+albutrepenonacog alfa e a melhorada exposição sistémica (ver secção 5.2) são obtidos através da fusão
+com albumina recombinante. A albumina é uma proteína de transporte natural e inerte que existe no
+plasma e cuja semivida é de aproximadamente 20 dias.
+Albutrepenonacog alfa permanece intacto na circulação até o fator IX ser ativado, verificando-se então
+a clivagem da albumina e a libertação do fator IX ativado (FIXa) quando este é necessário para a
+coagulação.
+Informações gerais sobre eficácia e segurança clínicas
+Um estudo de fase 1/2 avaliou a eficácia do tratamento e a prevenção de episódios hemorrágicos
+com rIX-FP em 17 indivíduos (entre 13-46 anos de idade), 13 indivíduos no braço da profilaxia
+receberam semanalmente um tratamento profilático com IDELVION durante aproximadamente
+11 meses e 4 indivíduos no braço do tratamento quando necessário receberam IDELVION após a
+ocorrência de episódios hemorrágicos. Os 85 episódios hemorrágicos foram todos tratados com
+sucesso com 1 ou 2 doses de IDELVION.
+A eficácia de IDELVION foi avaliada na parte aberta e não controlada do estudo de fase 2/3, no
+qual um total de 63 doentes do sexo masculino previamente tratados (DPTs) entre os 12 e os 61
+anos de idade receberam IDELVION ou para profilaxia com 7, 10 e/ou 14 dias de intervalo e/ou
+para o tratamento de episódios hemorrágicos quando necessário. Todos os indivíduos tinham
+hemofilia B grave (nível de FIX <1%) ou moderadamente grave (nível de FIX ≤ 2%). Quarenta
+DPTs receberam IDELVION para profilaxia.
+Os indivíduos que receberam tratamento profilático começaram com 35-50 UI/kg uma vez por
+semana. Um subgrupo de doentes mudou para intervalos de tratamento mais prolongados (cada 10
+9
+
+ou 14 dias) com uma dose recomendada de 75 UI/kg e ajustes individuais. 21 DPTs mantiveram a
+profilaxia com o intervalo prolongado de 14 dias ao longo da duração adicional do tratamento de
+98 até 575 (mediana 386) dias. Destes indivíduos, 8 (38%) tiveram pelo menos uma hemorragia
+durante a profilaxia cada 14 dias, embora não tivessem tido episódios hemorrágicos durante a
+profilaxia efetuada com a administração uma vez por semana. A mediana da Taxa de Hemorragia
+Anualizada (THA) na profilaxia cada 7 dias com IDELVION para todas as hemorragias foi de 0,0
+(intervalo de 0-6) e com a profilaxia cada 14 dias foi de 1,08 (intervalo de 0-9,1).
+A eficácia e a segurança a longo prazo do tratamento profilático de rotina foram confirmadas num
+estudo de extensão aberto com uma duração até 5 anos. Neste estudo, um total de 59 DTPs >12
+anos (54 adultos e 5 adolescentes) receberam IDELVION para profilaxia e/ou para o tratamento
+de episódios hemorrágicos num regime de utilização consoante necessário.
+Os doentes que receberam tratamento profilático continuaram ou iniciaram o tratamento com 3550 UI/kg uma vez por semana. Um subgrupo de doentes mudou para intervalos de tratamento
+alargados (cada 10, 14 ou 21 dias) com a dose recomendada de 75 UI/kg (10 ou 14 dias) ou 100
+UI/kg (21 dias). No final do estudo, 14 DTPs (24%) tinham um intervalo de 7 dias na profilaxia e
+um total de 11 (19%), 25 (42%) e 9 (15%) DTPs mantinham o intervalo alargado na profilaxia de
+10, 14 e 21 dias, respetivamente. Durante o estudo, 2 DTPs (18%) no regime de 21 dias
+regressaram a um regime de administração mais frequente devido a um aumento nas complicações
+hemorrágicas. As medianas estimadas para as Taxas de Hemorragia Anualizada (THA) na
+profilaxia com IDELVION cada 7, 14 e 21 dias foram, para todas as hemorragias, de 1,3
+(intervalo de 0-8), 0,9 (intervalo de 0-13) e 0,3 (intervalo de 0-5), respetivamente.
+As informações atualmente disponíveis dão suporte ao prolongamento dos intervalos entre os
+tratamentos para alguns doentes embora tal possa estar potencialmente associado a um aumento
+do risco de hemorragias em comparação com o regime de administração uma vez por semana.
+Profilaxia e controlo de hemorragias em DTPs com menos de 12 anos
+A eficácia de IDELVION foi avaliada num estudo de fase 3, no qual 27 DTPs, no total, com idade
+entre 1 e 10 anos (mediana de idades 6,0 anos) sendo que 12 doentes tinham < 6 anos, receberam
+IDELVION para profilaxia e controlo de episódios hemorrágicos. Todos os 27 indivíduos receberam
+um tratamento profilático semanal com IDELVION durante o tempo médio no estudo de 13,1 meses
+(9, 18 meses).
+Os 106 episódios hemorrágicos foram, na sua maioria (94; 88,7%), tratados com uma única injeção,
+103; 97,2% foram tratados com 1-2 injeções. A eficácia hemostática na resolução da hemorragia foi
+classificada como excelente ou boa em 96% de todos os episódios hemorrágicos tratados.
+A eficácia e a segurança a longo prazo do tratamento profilático de rotina foram confirmadas num
+estudo de extensão aberto com uma duração até 5 anos. Neste estudo, um total de 24 DTPs <12
+anos receberam IDELVION para profilaxia e/ou para o tratamento de episódios hemorrágicos
+num regime de utilização consoante necessário.
+Os doentes que receberam tratamento profilático continuaram com 35-50 UI/kg uma vez por semana.
+Um subgrupo de doentes mudou para intervalos de tratamento alargados (cada 10 ou 14 dias) com a
+dose recomendada de 75 UI/kg. No final do estudo, 17 DTPs (71%) tinham um intervalo de 7 dias na
+profilaxia e um total de 3 (12%) e 4 (17%) DTPs mantinham o intervalo alargado na profilaxia de 10 e
+14 dias, respetivamente. Durante o estudo, 4 DTPs (50%) no regime de 14 dias regressaram a um
+regime de administração mais frequente devido a um aumento nas complicações hemorrágicas. As
+medianas estimadas para as Taxas de Hemorragia Anualizada (THA) na profilaxia com IDELVION
+cada 7 e 14 dias foram, para todas as hemorragias, de 2,0 (intervalo de 0-14) e 5,6 (intervalo de 0-8),
+respetivamente.
+Tratamento peri-operatório
+A segurança e a eficácia no quadro peri-operatório foram avaliadas em dois estudos principais de
+Fase 3 e num estudo de extensão prolongado. A análise de eficácia pelo protocolo inclui 30
+10
+
+cirurgias realizadas em 21 doentes entre os 5 e os 58 anos de idade submetidos a grande ou
+pequena cirurgia, cirurgia dentária ou outros procedimentos cirúrgicos invasivos. As doses foram
+individualizadas com base na farmacocinética dos indivíduos e na sua resposta clínica ao
+tratamento. Em 96,7% (n=29) das cirurgias foi utilizada uma dose bólus única pré-operatória que
+variou entre 14 e 163 UI/kg. A eficácia hemostática foi classificada como excelente ou boa em
+todos os procedimentos avaliados. Durante o período pós-operatório de 14 dias, os doentes
+receberam entre 0 e 11 perfusões e as doses totais variaram entre 0 e 444 UI/kg.
+Doentes não tratados previamente (PUP)
+A segurança e a eficácia de IDELVION foram avaliadas num estudo clínico aberto multicêntrico com
+12 doentes pediátricos (PUPs) não tratados previamente com hemofilia B (≤2% de atividade endógena
+do FIX), dos quais 11 estavam na faixa etária de 0 a 1 ano. O número médio de dias de exposição (EDs)
+foi de 50 (intervalo de 22 a 146 EDs), e 8 PUPs atingiram ≥50 EDs durante os períodos de necesidade,
+profilaxia, cirúrgico e farmacocinético.
+Todos os 12 PUPs receberam profilaxia de rotina com 11 a receber o regime de 7 dias. O tempo médio
+geral de profilaxia foi de 11,5 meses (intervalo: 3,1 a 32,3 meses). Nos 9 PUPs no regime de profilaxia
+de 7 dias que atingiram > 6 meses de tratamento, a mediana da taxa de hemorragia anualizada (ABR) foi
+de 1,16 (intervalo de 0 a 3,1). Cinco dos 9 PUPs tiveram um ABR de 0. A dose mensal média foi de
+195,9 UI/kg (intervalo de 171,8 a 215,6 UI/kg) para o regime de profilaxia de 7 dias (N = 9).
+Cinco indivíduos receberam tratamento sob demanda em períodos variados antes da profilaxia, com o
+número de DEs variando de 1 a 4.
+Dos 37 eventos hemorrágicos observados em 10 PUPs em todos os períodos do estudo, 94% foram
+controlados com sucesso com 1 ou 2 perfusões.
+5.2
+
+Propriedades farmacocinéticas
+
+População adulta
+A farmacocinética (PK) do IDELVION foi avaliada após uma injeção intravenosa de uma dose única
+de 25, 50 e 75 UI/kg. Os parâmetros PK após uma injeção única de 50 UI/kg de IDELVION (ver
+tabela abaixo) basearam-se na atividade do fator IX no plasma, medida através de um ensaio de
+coagulação em passo único. A atividade média do fator IX no dia 7 e no dia 14 era de 13,76% e de
+6,10%, respetivamente após uma dose única de 50 UI/kg de IDELVION. A repetição da determinação
+dos parâmetros PK até 30 semanas demonstrou um perfil farmacocinético estável e a recuperação
+incremental foi consistente ao longo do tempo.
+Foram atingidos níveis mínimos de 5-10% em estudos clínicos para se obter o controlo da hemorragia
+na profilaxia. As simulações de farmacocinética sugerem que o tempo para atingir uma atividade de
+FIX no plasma de 5% após uma injeção única de 50 UI/kg de IDELVION é de 12,5 dias para adultos.
+
+11
+
+Parâmetros farmacocinéticos para indivíduos com hemofilia grave (Mediana (min, máx)) após
+uma injeção única de IDELVION em adultos
+50 UI/kg
+(N=22)
+
+Parâmetros PK
+RI a
+(UI/dl)/(UI/kg)
+
+1,18 (0,86, 1,86)
+
+Cmaxa
+(UI/dl)
+
+62,7 (40.5, 87,0)
+
+AUC0-inf
+(h*UI/dl)
+
+6638 (2810, 9921)
+
+t1/2 de eliminação
+(h)
+
+95,3 (51,5, 135,7)
+
+CL
+(ml/h/kg)
+
+0,875 (0,748, 1,294)
+
+a = corrigida para os níveis basais
+RI = recuperação incremental; AUC = área sob a curva de atividade de fator IX vs tempo; CL = depuração da
+creatinina ajustada ao peso corporal; t1/2 de eliminação = semivida de eliminação
+
+População pediátrica
+Os parâmetros farmacocinéticos do IDELVION foram avaliados em adolescentes (12 a <18 anos de
+idade) e bebés e crianças (1 a <12 anos de idade) após a injeção intravenosa de uma dose única de
+50 UI/kg. Os parâmetros PK (apresentados abaixo) foram calculados com base no perfil da atividade
+do fator IX no plasma ao longo do tempo, medida por meio de um ensaio de coagulação em passo
+único.
+Comparação dos parâmetros farmacocinéticos do IDELVION em crianças (Mediana (min,
+máx)) após uma injeção única de 50 UI/kg de IDELVION
+6 a <12 anos
+12 a <18 anos
+1 a <6 anos
+Parâmetros PK
+(N=12)
+(N=15)
+(N=58)
+RI a
+(UI/dl)/(UI/kg)
+
+0,968 (0,660, 1,280)
+
+1,07 (0,70, 1,47)
+
+1,11 (0,84, 1,61)
+
+48,2 (33,0, 64,0)
+
+50,5 (34,9, 73,6)
+
+55,3 (40,5, 80,3)
+
+AUC0-inf
+(h*UI/dl)
+
+4301 (2900, 8263)
+
+4718 (3212, 7720)
+
+4804 (2810, 9595)
+
+t1/2 de eliminação
+(h)
+
+86,2 (72,6, 105,8)
+
+89,3 (62,1, 123,0)
+
+88,8 (51,5, 130,0)
+
+CL
+(ml/h/kg)
+
+1,16 (0,61, 1,72)
+
+1,06 (0,65, 1,56)
+
+1,04 (0,52, 1,67)
+
+a
+
+Cmax
+(UI/dl)
+
+a = corrigida para os níveis basais
+RI = recuperação incremental; AUC = área sob a curva de atividade de fator IX vs tempo; CL = depuração da
+creatinina ajustada ao peso corporal; t1/2 de eliminação = semivida de eliminação
+
+Foram atingidos níveis mínimos de 5-10% em estudos clínicos para se obter o controlo da hemorragia
+na profilaxia. As simulações de farmacocinética sugerem que o tempo para atingir uma atividade de
+FIX no plasma de 5% após uma injeção única de 50 UI/kg de IDELVION é de 7 dias para 1-<6 anos,
+9 dias para 6-<12 anos e 11 dias para 12-<18 anos de idade).
+
+12
+
+5.3
+
+Dados de segurança pré-clínica
+
+Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais
+de segurança farmacológica, toxicidade de doses únicas e repetidas, genotoxicidade, trombogenicidade
+e tolerância local.
+Não foram realizadas investigações de carcinogenicidade e toxicologia na reprodução.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Pó:
+Citrato de sódio
+Polissorbato 80
+Manitol
+Sacarose
+Ácido clorídrico (para ajuste do pH)
+Solvente:
+Água para preparações injetáveis
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros
+medicamentos.
+Apenas devem ser utilizados os sistemas de administração fornecidos pois o tratamento pode falhar
+como consequência da adsorção do fator IX da coagulação humana às superfícies internas de alguns
+equipamentos de injeção.
+6.3
+
+Prazo de validade
+
+3 anos.
+Após a reconstituição foi demonstrada estabilidade química e física na utilização durante 8 horas a 225 °C). Do ponto de vista microbiológico, o produto deve ser imediatamente utilizado. Caso não seja
+imediatamente utilizado, os tempos de conservação durante a utilização e as condições antes da
+utilização são da responsabilidade do utilizador.
+6.4
+
+Precauções especiais de conservação
+
+Não conservar acima de 25 °C.
+Não congelar. Manter os frascos para injetáveis dentro da embalagem exterior para proteger da luz.
+Condições de conservação do medicamento após reconstituição, ver secção 6.3.
+6.5
+
+Natureza e conteúdo do recipiente
+
+IDELVION 250 UI pó e solvente para solução injetável
+Pó (250 UI) em frasco para injetáveis de 6 ml (vidro de tipo I), com tampa (borracha bromobutílica),
+disco (plástico) e cápsula de fecho (alumínio).
+13
+
+2,5 ml de solvente em frasco para injetáveis (vidro de tipo I), com tampa (borracha bromo ou
+clorobutílica), disco (plástico) e cápsula de fecho (alumínio).
+IDELVION 500 UI pó e solvente para solução injetável
+Pó (500 UI) em frasco para injetáveis de 6 ml (vidro de tipo I), com tampa (borracha bromobutílica),
+disco (plástico) e cápsula de fecho (alumínio).
+2,5 ml de solvente em frasco para injetáveis (vidro de tipo I), com tampa (borracha bromo ou
+clorobutílica), disco (plástico) e cápsula de fecho (alumínio).
+IDELVION 1000 UI pó e solvente para solução injetável
+Pó (1000 UI) em frasco para injetáveis de 6 ml (vidro de tipo I), com tampa (borracha bromobutílica),
+disco (plástico) e cápsula de fecho (alumínio).
+2,5 ml de solvente em frasco para injetáveis (vidro de tipo I), com tampa (borracha bromo ou
+clorobutílica), disco (plástico) e cápsula de fecho (alumínio).
+IDELVION 2000 UI pó e solvente para solução injetável
+Pó (2000 UI) em frasco para injetáveis de 10 ml (vidro de tipo I), com tampa (borracha
+bromobutílica), disco (plástico) e cápsula de fecho (alumínio).
+5 ml de solvente em frasco para injetáveis (vidro de tipo I), com tampa (borracha bromo ou
+clorobutílica), disco (plástico) e cápsula de fecho (alumínio).
+IDELVION 3500 UI pó e solvente para solução injetável
+Pó (3500 UI) em frasco para injetáveis de 10 ml (vidro de tipo I), com tampa (borracha
+bromobutílica), disco (plástico) e cápsula de fecho (alumínio).
+5 ml de solvente em frasco para injetáveis (vidro de tipo I), com tampa (borracha bromo ou
+clorobutílica), disco (plástico) e cápsula de fecho (alumínio).
+Apresentações
+Cada embalagem contém:
+IDELVION 250 UI pó e solvente para solução injetável:
+1 frasco para injetáveis com o pó
+1 frasco para injetáveis com 2,5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 5 ml
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+IDELVION 500 UI pó e solvente para solução injetável:
+1 frasco para injetáveis com o pó
+1 frasco para injetáveis com 2,5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 5 ml
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+IDELVION 1000 UI pó e solvente para solução injetável:
+1 frasco para injetáveis com o pó
+1 frasco para injetáveis com 2,5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 5 ml
+14
+
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+IDELVION 2000 UI pó e solvente para solução injetável:
+1 frasco para injetáveis com o pó
+1 frasco para injetáveis com 5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 10 ml
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+IDELVION 3500 UI pó e solvente para solução injetável:
+1 frasco para injetáveis com o pó
+1 frasco para injetáveis com 5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 10 ml
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+Instruções gerais:
+- A solução reconstituída deve ser límpida ou ligeiramente opalescente. O produto reconstituído deve
+ser visualmente inspecionado para deteção de partículas ou aparecimento de coloração após a
+filtração/transferência (descritas em seguida) e antes da administração.
+- Não utilizar soluções turvas ou com depósitos.
+- A reconstituição e a transferência da solução devem ser realizadas em condições assépticas.
+Reconstituição
+Deixe que o solvente atinja a temperatura ambiente (abaixo de 25ºC). Certifique-se que são retiradas
+as cápsulas de fecho dos frascos de IDELVION e do solvente e que as tampas são tratadas com uma
+solução antisséptica, permitindo que sequem antes da abertura da embalagem do Mix2vial.
+1. Abra o Mix2Vial descolando e retirando a aba.
+Não retire o Mix2Vial da embalagem do blister!
+1
+
+2
+
+2. Coloque o frasco para injetáveis do solvente
+sobre uma superfície lisa e limpa e agarre-o com
+firmeza. Segure no Mix2Vial em conjunto com a
+embalagem do blister e, empurrando para baixo,
+insira a extremidade azul através da tampa do
+frasco para injetáveis do solvente.
+
+15
+
+3. Retire cuidadosamente a embalagem do blister
+do Mix2Vial segurando na borda e puxando para
+cima na vertical. Certifique-se que puxa apenas a
+embalagem do blister e não o sistema Mix2Vial.
+
+3
+4. Coloque o frasco para injetáveis de
+IDELVION sobre uma superfície lisa e firme.
+Inverta o frasco para injetáveis do solvente com o
+sistema Mix2Vial acoplado e, empurrando para
+baixo, insira o adaptador transparente através da
+tampa do frasco para injetáveis de IDELVION. O
+solvente será automaticamente transferido para o
+frasco para injetáveis de IDELVION.
+5. Com uma das mãos segure a parte do sistema
+Mix2Vial acoplada ao frasco para injetáveis de
+IDELVION, com a outra mão segure a parte
+acoplada ao frasco para injetáveis do solvente e
+cuidadosamente desenrosque o sistema no sentido
+contrário ao dos ponteiros do relógio separando-o
+em duas peças.
+Rejeite o frasco para injetáveis do solvente com o
+adaptador azul do Mix2Vial acoplado.
+6. Rode suavemente o frasco para injetáveis de
+IDELVION com o adaptador transparente
+acoplado até que a substância esteja
+completamente dissolvida. Não agite.
+
+4
+
+5
+
+6
+7. Insira ar numa seringa estéril vazia. Mantendo o
+frasco para injetáveis de IDELVION na vertical,
+virado para cima, adapte a seringa à extremidade
+Luer Lock do Mix2Vial enroscando no sentido
+dos ponteiros do relógio. Injete ar no frasco para
+injetáveis de IDELVION.
+
+7
+Transferência da solução e aplicação
+8. Mantendo o êmbolo da seringa pressionado,
+vire o sistema para baixo e aspire a solução
+preparada para a seringa puxando o êmbolo
+devagar para trás.
+
+8
+
+16
+
+9. Uma vez transferida a solução para a seringa,
+segure com firmeza no corpo da seringa
+(mantendo o êmbolo da seringa virado para baixo)
+e retire o adaptador transparente do Mix2Vial da
+seringa desenroscando no sentido contrário ao dos
+ponteiros do relógio.
+
+9
+Devem tomar-se precauções para assegurar que não há entrada de sangue na seringa que contém o
+produto pois existe o risco do sangue coagular na seringa e deste modo poderem ser administrados ao
+doente coágulos de fibrina.
+A solução de IDELVION reconstituída não deve ser diluída.
+A solução reconstituída deve ser administrada por injeção intravenosa lenta. A velocidade de
+administração deve ser determinada pelo nível de conforto do doente, até um máximo de 5 ml/min.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+CSL Behring GmbH
+Emil-von-Behring-Strasse 76
+35041 Marburg
+Alemanha
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1095/001
+EU/1/16/1095/002
+EU/1/16/1095/003
+EU/1/16/1095/004
+EU/1/16/1095/009
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 11 Maio 2016
+Data da última renovação: 04 Fevereiro 2021
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+17
+
+ANEXO II
+A.
+
+FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ATIVA(S) DE ORIGEM
+BIOLÓGICA E FABRICANTE(S) RESPONSÁVEL(VEIS) PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E
+EFICAZ DO MEDICAMENTO
+
+18
+
+A.
+
+FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ATIVA(S) DE ORIGEM BIOLÓGICA E
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante da substância ativa de origem biológica
+CSL Behring GmbH
+Emil-von-Behring Strasse 76
+35041 Marburg
+Alemanha
+Nome e endereço do fabricante responsável pela libertação do lote
+CSL Behring GmbH
+Emil-von-Behring Strasse 76
+35041 Marburg
+Alemanha
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+Medicamento de receita médica restrita (ver Anexo I: Resumo das Características do Medicamento,
+secção 4.2).
+C.
+
+
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.ºC da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+D.
+
+
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+
+
+
+A pedido da Agência Europeia de Medicamentos;
+
+
+
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefíciorisco ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+19
+
+A. ROTULAGEM
+
+20
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM 250 UI
+
+1.
+
+NOME DO MEDICAMENTO
+
+IDELVION 250 UI
+pó e solvente para solução injetável
+albutrepenonacog alfa (fator IX da coagulação recombinante)
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Albutrepenonacog alfa 250 UI (100 UI/ml após reconstituição)
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Outros componentes: Citrato de sódio, Polissorbato 80, Manitol, Sacarose, HCl
+Solvente: Água para preparações injetáveis
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+pó e solvente para solução injetável
+1 frasco para injetáveis com o pó. 250 UI de albutrepenonacog alfa
+1 frasco para injetáveis com 2,5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 5 ml
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via intravenosa.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL:
+21
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25 °C. Não congelar.
+Manter os frascos para injetáveis na embalagem exterior para proteger da luz.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+CSL Behring GmbH, 35041 Marburg, Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1095/001
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+IDELVION 250 UI
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+22
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O PÓ 250 UI
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+IDELVION 250 UI
+pó para solução injetável
+albutrepenonacog alfa
+Via intravenosa
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+6.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+OUTRAS
+
+23
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O SOLVENTE 2,5 ml
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Água para preparações injetáveis
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+2,5 ml
+
+6.
+
+OUTRAS
+
+24
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM 500 UI
+
+1.
+
+NOME DO MEDICAMENTO
+
+IDELVION 500 UI
+pó e solvente para solução injetável
+albutrepenonacog alfa (fator IX da coagulação recombinante)
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Albutrepenonacog alfa 500 UI (200 UI/ml após reconstituição)
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Outros componentes: Citrato de sódio, Polissorbato 80, Manitol, Sacarose, HCl
+Solvente: Água para preparações injetáveis
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+pó e solvente para solução injetável
+1 frasco para injetáveis com o pó: 500 UI de albutrepenonacog alfa
+1 frasco para injetáveis com 2,5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 5 ml
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via intravenosa.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL:
+25
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25 °C. Não congelar.
+Manter os frascos para injetáveis na embalagem exterior para proteger da luz.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+CSL Behring GmbH, 35041 Marburg, Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1095/002
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+IDELVION 500 UI
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+26
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O PÓ 500 UI
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+IDELVION 500 UI
+pó para solução injetável
+albutrepenonacog alfa
+Via intravenosa
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+6.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+OUTRAS
+
+27
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O SOLVENTE 2,5 ml
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Água para preparações injetáveis
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+2,5 ml
+
+6.
+
+OUTRAS
+
+28
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM 1000 UI
+
+1.
+
+NOME DO MEDICAMENTO
+
+IDELVION 1000 UI
+pó e solvente para solução injetável
+albutrepenonacog alfa (fator IX da coagulação recombinante)
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Albutrepenonacog alfa 1000 UI (400 UI/ml após reconstituição)
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Outros componentes: Citrato de sódio, Polissorbato 80, Manitol, Sacarose, HCl
+Solvente: Água para preparações injetáveis
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+pó e solvente para solução injetável
+1 frasco para injetáveis com o pó: 1000 UI de albutrepenonacog alfa
+1 frasco para injetáveis com 2,5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 5 ml
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via intravenosa.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL:
+29
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25 °C. Não congelar.
+Manter os frascos para injetáveis na embalagem exterior para proteger da luz.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+CSL Behring GmbH, 35041 Marburg, Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1095/003
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+IDELVION 1000 UI
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+30
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O PÓ 1000 UI
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+IDELVION 1000 UI
+pó para solução injetável
+albutrepenonacog alfa
+Via intravenosa
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+6.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+OUTRAS
+
+31
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O SOLVENTE 2,5 ml
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Água para preparações injetáveis
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+2,5 ml
+
+6.
+
+OUTRAS
+
+32
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM 2000 UI
+
+1.
+
+NOME DO MEDICAMENTO
+
+IDELVION 2000 UI
+pó e solvente para solução injetável
+albutrepenonacog alfa (fator IX da coagulação recombinante)
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Albutrepenonacog alfa 2000 UI (400 UI/ml após reconstituição)
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Outros componentes: Citrato de sódio, Polissorbato 80, Manitol, Sacarose, HCl
+Solvente: Água para preparações injetáveis
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+pó e solvente para solução injetável
+1 frasco para injetáveis com o pó: 2000 UI de albutrepenonacog alfa
+1 frasco para injetáveis com 5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 10 ml
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via intravenosa.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL:
+33
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25 °C. Não congelar.
+Manter os frascos para injetáveis na embalagem exterior para proteger da luz.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+CSL Behring GmbH, 35041 Marburg, Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1095/004
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+IDELVION 2000 UI
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+34
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O PÓ 2000 UI
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+IDELVION 2000 UI
+pó para solução injetável
+albutrepenonacog alfa
+Via intravenosa
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+6.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+OUTRAS
+
+35
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O SOLVENTE 5 ml
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Água para preparações injetáveis
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+5 ml
+
+6.
+
+OUTRAS
+
+36
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM 3500 UI
+1.
+
+NOME DO MEDICAMENTO
+
+IDELVION 3500 UI
+pó e solvente para solução injetável
+albutrepenonacog alfa (fator IX da coagulação recombinante)
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Albutrepenonacog alfa 3500 UI (700 UI/ml após reconstituição)
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Outros componentes: Citrato de sódio, Polissorbato 80, Manitol, Sacarose, HCl
+Solvente: Água para preparações injetáveis
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+pó e solvente para solução injetável
+1 frasco para injetáveis com o pó: 3500 UI de albutrepenonacog alfa
+1 frasco para injetáveis com 5 ml de água para preparações injetáveis
+1 dispositivo de transferência com filtro 20/20
+Uma caixa no interior contendo:
+1 seringa descartável de 10 ml
+1 sistema de venopunção
+2 toalhetes de álcool
+1 penso rápido não estéril
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via intravenosa.
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL:
+37
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25 °C. Não congelar.
+Manter os frascos para injetáveis na embalagem exterior para proteger da luz.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+CSL Behring GmbH, 35041 Marburg, Alemanha
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1095/009
+
+13.
+
+NÚMERO DO LOTE
+
+Lote
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+IDELVION 3500 UI
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+38
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O PÓ 3500 UI
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+IDELVION 3500 UI
+pó para solução injetável
+albutrepenonacog alfa
+Via intravenosa
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+6.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+OUTRAS
+
+39
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS COM O SOLVENTE 5 ml
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Água para preparações injetáveis
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+5 ml
+
+6.
+
+OUTRAS
+
+40
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+CARTONAGEM DO SISTEMA DE ADMINISTRAÇÃO (CAIXA NO INTERIOR)
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Sistema de administração
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+6.
+
+CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+
+OUTRAS
+
+CSL Behring
+
+41
+

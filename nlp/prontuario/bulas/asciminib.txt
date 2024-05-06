@@ -1,0 +1,2064 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+
+1.
+
+NOME DO MEDICAMENTO
+
+Scemblix 20 mg comprimidos revestidos por película
+Scemblix 40 mg comprimidos revestidos por película
+
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Scemblix 20 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 21,62 mg de cloridrato de asciminib, equivalente a
+20 mg de asciminib.
+Excipiente(s) com efeito conhecido
+Cada comprimido revestido por película contém 43 mg de lactose monohidratada.
+Scemblix 40 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 43,24 mg de cloridrato de asciminib. equivalente a
+40 mg de asciminib.
+Excipiente(s) com efeito conhecido
+Cada comprimido revestido por película contém 86 mg de lactose monohidratada.
+Lista completa de excipientes, ver secção 6.1.
+
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimido revestido por película (comprimido).
+Scemblix 20 mg comprimidos revestidos por película
+Comprimidos revestidos por película amarelos-claro, redondos, biconvexos com bordos biselados,
+com aproximadamente 6 mm de diâmetro, com gravação do logotipo da empresa numa face e “20” na
+outra face.
+Scemblix 40 mg comprimidos revestidos por película
+Comprimidos revestidos por película brancos-violeta, redondos, biconvexos com bordos biselados,
+com aproximadamente 8 mm de diâmetro, com gravação do logotipo da empresa numa face e “40” na
+outra face.
+
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Scemblix é indicado para o tratamento de doentes adultos com leucemia mieloide crónica positiva para
+o cromossoma Filadélfia em fase crónica (LMC-Ph+ FC) previamente tratados com dois ou mais
+inibidores da tirosina cinase (ver secção 5.1).
+2
+
+4.2
+
+Posologia e modo de administração
+
+O tratamento deve ser iniciado por um médico experiente no diagnóstico e tratamento de doentes com
+leucemia.
+Posologia
+A dose recomendada é de 40 mg duas vezes por dia com intervalos de aproximadamente 12 horas.
+Dose esquecida
+Se for esquecida uma dose por menos de 6 horas, esta deve ser tomada e a dose seguinte deve ser
+tomada à hora prevista.
+Se for esquecida uma dose por mais de aproximadamente 6 horas, esta deve ser ignorada e a dose
+seguinte deve ser tomada à hora prevista.
+Duração do tratamento
+O tratamento com asciminib deve ser mantido enquanto se observar benefício clínico ou até ocorrer
+toxicidade inaceitável.
+Ajustes de dose para reações adversas
+A dose inicial é de 40 mg duas vezes por dia, enquanto que a dose reduzida é 20 mg duas vezes por
+dia. A dose pode ser alterada com base na segurança e tolerabilidade individual conforme descrito na
+Tabela 1. Asciminib deve ser descontinuado permanentemente se os doentes não conseguirem tolerar
+uma dose de 20 mg duas vezes por dia.
+Tabela 1
+
+Esquema de modificação de dose para a gestão de reações adversas
+
+Reação adversa
+Trombocitopenia e/ou neutropenia
+CAN <1,0 x 109/l e/ou PLT
+<50 x 109/l
+
+Modificação de dose
+
+Suspender asciminib até resolução para CAN ≥1 x 109/l
+e/ou PLT ≥50 x 109/l.
+Se resolvido:
+• Dentro de 2 semanas: reiniciar na dose inicial.
+• Após mais de 2 semanas: reiniciar na dose reduzida.
+Em caso de trombocitopenia e/ou neutropenia graves
+recorrentes, suspender asciminib até resolução para CAN
+≥1 x 109/l e PLT ≥50 x 109/l, depois reiniciar na dose
+reduzida.
+Elevação assintomática de amilase e/ou lipase
+Elevação >2,0 x LSN
+Suspender asciminib até resolução para <1,5 x LSN.
+• Se resolvido: reiniciar na dose reduzida. Se voltarem a
+ocorrer acontecimentos na dose reduzida, descontinuar
+permanentemente.
+• Se não resolvido: descontinuar permanentemente.
+Realizar exames de diagnóstico para excluir pancreatite.
+Reações adversas não hematológicas
+Reações adversas de grau 3 ou
+Suspender asciminib até resolução para grau 1 ou inferior.
+superior1
+• Se resolvido: reiniciar na dose reduzida.
+• Se não resolvido: descontinuar permanentemente.
+CAN: contagem absoluta de neutrófilos; PLT: plaquetas; LSN: limite superior do normal
+1
+Baseada em National Cancer Institute Common Terminology Criteria for Adverse Events (NCICTCAE) v
+4.03.
+
+3
+
+Populações especiais
+Idosos
+Não é necessário ajuste de dose em doentes com 65 anos de idade ou mais.
+Compromisso renal
+Não é necessário ajuste de dose em doentes com compromisso renal ligeiro, moderado ou grave (ver
+secção 5.2).
+Compromisso hepático
+Não é necessário ajuste de dose em doentes com compromisso hepático ligeiro, moderado ou grave
+(ver secção 5.2).
+População pediátrica
+A segurança e eficácia de Scemblix em doentes pediátricos com menos de 18 anos de idade não foram
+ainda estabelecidas. Não existem dados disponíveis.
+Modo de administração
+Scemblix é para administração por via oral. Os comprimidos revestidos por película devem ser
+engolidos inteiros com um copo de água e não devem ser partidos, esmagados ou mastigados.
+Os comprimidos devem ser tomados por via oral sem alimentos. O consumo de alimentos deve ser
+evitado durante pelo menos 2 horas antes e 1 hora depois de tomar asciminib (ver secção 5.2).
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Mielosupressão
+Ocorreram trombocitopenia, neutropenia e anemia em doentes a receber asciminib. Foram notificadas
+trombocitopenia e neutropenia graves (NCI CTCAE grau 3 ou 4) durante o tratamento com asciminib
+(ver secção 4.8). A mielosupressão foi geralmente reversível e gerida pela suspensão temporária do
+tratamento. Devem ser realizados hemogramas completos a cada duas semanas durante os primeiros
+3 meses de tratamento e depois mensalmente ou conforme indicação clínica. Os doentes devem ser
+monitorizados para deteção de sinais e sintomas de mielosupressão.
+Com base na gravidade da trombocitopenia e/ou neutropenia, a dose deve ser suspendida
+temporariamente, reduzida ou descontinuada definitivamente conforme se descreve na Tabela 1 (ver
+secção 4.2).
+Toxicidade pancreática
+Ocorreram pancreatite e elevações assintomáticas de lipase e amilase séricas, incluindo reações
+graves, em doentes a receber asciminib (ver secção 4.8).
+Os níveis séricos de lipase e amilase devem ser avaliados mensalmente durante o tratamento com
+asciminib, ou conforme indicação clínica. Os doentes devem ser monitorados quanto a sinais e
+sintomas de toxicidade pancreática. Deve ser realizada monitorização mais frequente em doentes com
+antecedentes de pancreatite. Se as elevações da lipase e da amilase séricas forem acompanhadas por
+sintomas abdominais, o tratamento deve ser temporariamente suspenso e deve ser considerada a
+realização de exames de diagnóstico apropriados para excluir a hipótese de pancreatite (ver
+secção 4.2).
+
+4
+
+Com base na gravidade das elevações da lipase e da amilase séricas a dose deve ser, suspendida
+temporariamente, reduzida ou descontinuada permanentemente conforme se descreve na Tabela 1 (ver
+secção 4.2).
+Prolongamento do intervalo QT
+Ocorreu prolongamento do intervalo QT em doentes a receber asciminib (ver secção 4.8).
+Recomenda-se a realização de um eletrocardiograma antes do início do tratamento com asciminib e
+monitorização durante o tratamento conforme indicação clínica. A hipocaliemia e a hipomagnesemia
+devem ser corrigidas antes da administração de asciminib e monitorizadas durante o tratamento
+conforme indicação clínica.
+Asciminib deve ser usado com precaução quando administrado concomitantemente com
+medicamentos com risco conhecido de torsades de pointes (ver secções 4.5 e 5.1).
+Hipertensão
+Ocorreu hipertensão, incluindo hipertensão grave, em doentes a receber asciminib (ver secção 4.8).
+A hipertensão e outros fatores de risco cardiovasculares devem ser monitorizados regularmente e
+geridos utilizando as terapêuticas padrão, durante o tratamento com asciminib.
+Reativação da hepatite B
+Ocorreu reativação do vírus da hepatite B (VHB) em doentes que são portadores crónicos deste vírus
+após administração de outros inibidores da tirosina cinase (ITC) BCR::ABL1. Os doentes devem ser
+testados para infeção de VHB antes de iniciar tratamento com asciminib. Portadores de VHB que
+necessitem de tratamento com asciminib devem ser cuidadosamente monitorizados para deteção de
+sinais e sintomas de infeção ativa de VHB ao longo do tratamento e durante vários meses após o final
+do tratamento.
+Lactose
+Doentes com problemas hereditários raros de intolerância à galactose, deficiência total de lactase ou
+malabsorção de glucose-galactose não devem tomar este medicamento.
+Sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido revestido por
+película ou seja, é praticamente “isento de sódio”.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Medicamentos com risco conhecido de torsades de pointes
+Recomenda-se precaução durante a administração concomitante de asciminib e medicamentos com
+risco conhecido de torsades de pointes, incluindo, mas não limitado a bepridil, cloroquina,
+claritromicina, halofantrina, haloperidol, metadona, moxifloxacina ou pimozida (ver secção 5.1).
+Medicamentos que podem diminuir as concentrações plasmáticas de asciminib
+Indutores potentes da CYP3A4
+A coadministração de um indutor potente da CYP3A4 (rifampicina) diminuiu a AUCinf de asciminib
+em 15% e aumentou a Cmax em 9% em indivíduos saudáveis que receberam uma dose única de
+asciminib de 40 mg.
+
+5
+
+Recomenda-se precaução durante a administração concomitante de asciminib com indutores potentes
+da CYP3A4, incluindo, mas não limitado a carbamazepina, fenobarbital, fenitoína ou erva de S. João
+(Hypericum perforatum), que pode resultar em menor eficácia de asciminib.
+Medicamentos que podem ter as suas concentrações plasmáticas alteradas por asciminib
+Substratos da CYP3A4 com margem terapêutica estreita
+A coadministração de asciminib com um substrato da CYP3A4 (midazolam) aumentou a AUCinf e a
+Cmax de midazolam em 28% e 11%, respetivamente, em indivíduos saudáveis que receberam asciminib
+40 mg duas vezes por dia.
+Recomenda-se precaução durante a administração concomitante de asciminib com substratos da
+CYP3A4 conhecidos por terem uma margem terapêutica estreita, incluindo, mas não limitado aos
+substratos da CYP3A4 fentanil, alfentanil, dihidroergotamina ou ergotamina (ver secção 5.2). Não é
+necessário ajuste de dose de asciminib.
+Substratos da CYP2C9
+A coadministração de asciminib com um substrato da CYP2C9 (varfarina) aumentou a AUCinf e a Cmax
+da S-varfarina em 41% e 8%, respetivamente, em indivíduos saudáveis que receberam asciminib
+40 mg duas vezes por dia.
+Recomenda-se precaução durante a administração concomitante de asciminib com substratos da
+CYP2C9 conhecidos por terem uma margem terapêutica estreita, incluindo, mas não limitado a
+fenitoína ou varfarina (ver secção 5.2). Não é necessário ajuste de dose de asciminib.
+Substratos do BCRP, OATP1B ou substratos de ambos os transportadores
+Com base num modelo PBPK, recomenda-se precaução durante a administração concomitante de
+asciminib com substratos do OATP1B, BCRP ou de ambos os transportadores, incluindo, mas não
+limitado a sulfasalazina, metotrexato, pravastatina, atorvastatina, pitavastatina, rosuvastatina e
+sinvastatina. Não foi realizado estudo clínico de interacção medicamentosa.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar/Contraceção
+O estado de gravidez de mulheres com potencial para engravidar deve ser verificado antes de iniciar o
+tratamento com asciminib.
+Mulheres sexualmente ativas com potencial para engravidar devem utilizar contraceção eficaz
+(métodos que resultem em taxas de gravidez inferiores a 1%) durante o tratamento com asciminib e
+durante pelo menos 3 dias após parar com o tratamento.
+Gravidez
+A quantidade de dados sobre a utilização de asciminib em mulheres grávidas, é limitada ou
+inexistente. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Asciminib não é
+recomendado durante a gravidez e em mulheres com potencial para engravidar que não utilizam
+métodos contracetivos. A doente deve ser avisada de um potencial risco para o feto se asciminib for
+utilizado durante a gravidez ou se a doente engravidar enquanto estiver a tomar asciminib.
+Amamentação
+Desconhece-se se asciminib/metabolitos são excretados no leite humano. Não existem dados sobre os
+efeitos de asciminib sobre o recém-nascido/criança amamentada ou sobre a produção de leite. Devido
+ao potencial de reações adversas graves no recém-nascido/lactente, a amamentação deve ser
+descontinuada durante o tratamento e durante pelo menos 3 dias após a interrupção do tratamento com
+asciminib.
+6
+
+Fertilidade
+Não existem dados sobre o efeito de asciminib na fertilidade humana. Em estudos de fertilidade em
+ratos, asciminib não afetou a função reprodutiva de ratos machos e fêmeas. Contudo, foram
+observados efeitos adversos na motilidade e contagem do esperma em ratos com doses de
+200 mg/kg/dia (ver secção 5.3). A relevância para os seres humanos não é conhecida.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de asciminib sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezáveis.
+Contudo, recomenda-se que os doentes que sintam tonturas, fadiga ou outros efeitos indesejáveis (ver
+secção 4.8) com um potencial impacto na capacidade de conduzir ou utilizar máquinas com segurança,
+se abstenham de realizar essas atividades enquanto persistirem os efeitos indesejáveis.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas mais frequentes de qualquer grau (incidência ≥20%) em doentes a receber
+asciminib foram dor musculoesquelética (37,1%), infeções do trato respiratório superior (28,1%),
+trombocitopenia (27,5%), fadiga (27,2%), cefaleia (24,2%), artralgia (21,6%), enzimas pancreáticas
+aumentadas (21,3%), dor abdominal (21,3%), diarreia (20,5%) e náuseas (20,2%).
+As reações adversas mais frequentes de ≥ grau 3 (incidência ≥5%) em doentes a receber asciminib
+foram trombocitopenia (18,5%), neutropenia (15,7%), enzimas pancreáticas aumentadas (12,4%),
+hipertensão (8,7%) e anemia (5,3%).
+Ocorreram reações adversas graves em 12,4% dos doentes a receber asciminib. As reações adversas
+graves mais frequentes (incidência ≥1%) foram derrame pleural (2,5%), infeções do trato respiratório
+inferior (2,2%), trombocitopenia (1,7%), pirexia (1,4%), pancreatite (1,1%), dor no peito não cardíaca
+(1,1%) e vómitos (1,1%).
+Lista tabelada de reações adversas
+O perfil de segurança global de asciminib foi avaliado em 356 doentes com LMC Ph+ em fase crónica
+(FC) e acelerada (FA) no estudo principal de fase III A2301 (ASCEMBL) e no estudo de fase I
+X2101. No estudo ASCEMBL, os doentes receberam asciminib em monoterapia na dose de 40 mg
+duas vezes por dia. No estudo X2101, os doentes receberam asciminib em monoterapia em doses que
+variaram de 10 a 200 mg duas vezes por dia e 80 a 200 mg uma vez por dia. No conjunto dos dados
+agrupados, a mediana da duração da exposição a asciminib foi de 116 semanas (intervalo: 0,1 a
+342 semanas).
+As reações adversas de estudos clínicos (Tabela 2) estão enumeradas por classe de sistema de órgãos
+MedDRA. Dentro de cada classe de sistema de órgãos, as reações adversas são apresentadas por
+frequência, com as mais frequentes primeiro. Dentro de cada grupo de frequência, as reações adversas
+são apresentadas por ordem decrescente de gravidade. Adicionalmente, a categoria de frequência
+correspondente para cada reação adversa é baseada na convenção seguinte: muito frequentes (≥1/10);
+frequentes (≥1/100, <1/10); pouco frequentes (≥1/1000, <1/100); raros (≥1/10 000, <1/1000); muito
+raros (<1/10 000).
+
+7
+
+Tabela 2
+
+Reações adversas observadas nos estudos clínicos com asciminib
+
+Classe de sistema de órgãos
+Infeções e infestações
+Doenças do sangue e do
+sistema linfático
+Doenças do sistema
+imunitário
+Doenças do metabolismo e
+da nutrição
+Doenças do sistema nervoso
+Afeções oculares
+Cardiopatias
+Vasculopatias
+Doenças respiratórias,
+torácicas e do mediastino
+Doenças gastrointestinais
+Afeções hepatobiliares
+Afeções dos tecidos cutâneos
+e subcutâneos
+Afeções musculosqueléticas
+e dos tecidos conjuntivos
+Perturbações gerais e
+alterações no local de
+administração
+Exames complementares de
+diagnóstico
+1
+
+2
+3
+4
+5
+6
+
+7
+8
+9
+10
+11
+
+12
+
+13
+14
+
+15
+16
+17
+
+Categoria de
+frequência
+Muito frequentes
+Frequentes
+Muito frequentes
+Pouco frequentes
+Pouco frequentes
+
+Reação adversa
+Infeção do trato respiratório superior1
+Infeção do trato respiratório inferior2, influenza
+Trombocitopenia3, neutropenia4, anemia5
+Neutropenia febril
+Hipersensibilidade
+
+Frequentes
+Muito frequentes
+Frequentes
+Muito frequentes
+Frequentes
+
+Dislipidemia6
+Diminuição do apetite, hiperglicemia
+Cefaleia, tonturas
+Olho seco, visão enevoada
+Palpitações
+Hipertensão7
+Tosse
+Derrame pleural, dispneia, dor no peito não
+cardíaca
+Enzimas pancreáticas aumentadas8, vómitos,
+diarreia, náuseas, dor abdominal9
+Pancreatite10
+Enzimas hepáticas aumentadas11
+Bilirrubina sérica aumentada12
+Erupção cutânea13
+Urticária
+
+Muito frequentes
+
+Dor musculoesquelética14, artralgia
+
+Muito frequentes
+
+Fadiga15, prurido
+
+Frequentes
+
+Pirexia16, edema17
+
+Frequentes
+Pouco frequentes
+
+Creatina fosfoquinase sérica aumentada
+Intervalo QT prolongado no electrocardiograma
+
+Muito frequentes
+Frequentes
+Muito frequentes
+Frequentes
+Frequentes
+Muito frequentes
+Muito frequentes
+Frequentes
+Muito frequentes
+
+Infeções do trato respiratório superior incluem: infeção do trato respiratório superior, nasofaringite, faringite e
+rinite.
+Infeções do trato respiratório inferior incluem: pneumonia, bronquite e traqueobronquite.
+Trombocitopenia inclui: trombocitopenia e contagem de plaquetas diminuída.
+Neutropenia inclui: neutropenia e contagem de neutrófilos diminuída.
+Anemia inclui: anemia, hemoglobina diminuída e anemia normocítica.
+Dislipidemia inclui: hipertrigliceridemia, colesterol sérico aumentado, hipercolesterolemia, triglicéridos séricos
+aumentados, hiperlipidemia e dislipidemia.
+Hipertensão inclui: hipertensão e pressão arterial aumentada.
+Enzimas pancreáticas aumentadas incluem: lipase aumentada, amilase aumentada e hiperlipasemia.
+Dor abdominal inclui: dor abdominal e dor abdominal superior.
+Pancreatite inclui: pancreatite e pancreatite aguda.
+Enzimas hepáticas aumentadas incluem: alanina aminotransferase aumentada, aspartato aminotransferase
+aumentada, gama-glutamiltransferase aumentada e transaminases aumentadas.
+Bilirrubina sérica aumentada inclui: bilirrubina sérica aumentada, bilirrubina conjugada aumentada e
+hiperbilirrubinemia.
+Erupção cutânea inclui: erupção cutânea e erupção cutânea maculopapular.
+Dor musculoesquelética inclui: dor nas extremidades, dor nas costas, mialgia, dor óssea, dor
+musculoesquelética, dor no pescoço, dor no peito musculoesquelética e desconforto musculoesquelético.
+Fadiga inclui: fadiga e astenia.
+Pirexia inclui: pirexia e temperatura corporal aumentada.
+Edema inclui: edema e edema periférico.
+
+8
+
+Descrição de reações adversas selecionadas
+Mielosupressão
+Ocorreu trombocitopenia em 27,5% dos doentes a receber asciminib, com reações de grau 3 e 4
+notificadas em 6,7% e 11,8% dos doentes, respetivamente. Entre os doentes com trombocitopenia
+≥ grau 3, a mediana de tempo até à primeira ocorrência de reações foi 6 semanas (intervalo: 0,14 a
+64 semanas), com uma duração mediana de qualquer reação ocorrida de 1,71 semanas (IC 95%,
+intervalo: 1,43 a 2 semanas). 2% dos doentes a receber asciminib descontinuaram permanentemente
+devido a trombocitopenia, enquanto que asciminib foi temporariamente suspenso em 12,6% dos
+doentes devido à reação adversa.
+Ocorreu neutropenia em 19,4% dos doentes a receber asciminib, com reações de grau 3 e 4 notificadas
+em 7,3% e 8,4% dos doentes, respetivamente. Entre os doentes com neutropenia ≥ grau 3, a mediana
+de tempo até à primeira ocorrência de reações foi 6 semanas (intervalo: 0,14 a 180 semanas), com
+duração mediana de qualquer reação ocorrida de 1,79 semanas (IC 95%, intervalo: 1,29 a 2 semanas).
+1,1% dos doentes a receber asciminib descontinuaram permanentemente devido a neutropenia,
+enquanto que asciminib foi temporariamente suspenso em 9,6% dos doentes devido à reação adversa.
+Ocorreu anemia em 12,9% dos doentes a receber asciminib, com reações de grau 3 registadas em 5,3%
+dos doentes. Entre os doentes com anemia ≥ grau 3, a mediana de tempo até à primeira ocorrência de
+reações foi 30 semanas (intervalo: 0,4 a 207 semanas), com duração mediana de qualquer reação
+ocorrida de 0,9 semanas (IC 95%, intervalo: 0,43 a 2,14 semanas). Asciminib foi temporariamente
+suspenso em 0,6% dos doentes devido à reação adversa.
+Toxicidade pancreática
+Ocorreu pancreatite em 2,5% dos doentes a receber asciminib, com reações de grau 3 registadas em
+1,1% dos doentes. Todas estas reações ocorreram no estudo de fase I (X2101). 0,6% dos doentes a
+receber asciminib descontinuaram permanentemente devido a pancreatite, enquanto que asciminib foi
+temporariamente suspenso em 1,1% dos doentes devido à reação adversa. Ocorreram elevações
+assintomáticas da lipase e amilase séricas em 21,3% dos doentes a receber asciminib, com reações de
+grau 3 e 4 a ocorrer em 10,1% e 2,2% dos doentes, respetivamente. Entre os doentes com enzimas
+pancreáticas aumentadas, asciminib foi descontinuado permanentemente em 2,2% dos doentes devido
+à reação adversa.
+Prolongamento do intervalo QT
+Ocorreu prolongamento do intervalo QT em eletrocardiograma em 0,8% dos doentes a receber
+asciminib. No estudo clínico ASCEMBL, um doente teve um prolongamento QTcF superior a
+500 milisegundos (ms) juntamente com mais de 60 ms de aumento QTcF desde o valor inicial e um
+doente teve prolongamento QTcF com mais de 60 ms de aumento QTcF desde o valor inicial.
+Hipertensão
+Ocorreu hipertensão em 18,5% dos doentes a receber asciminib, com reações de grau 3 e 4 notificadas
+em 8,4% e 0,3% dos doentes, respetivamente. Entre os doentes com hipertensão ≥ grau 3, a mediana
+de tempo até à primeira ocorrência das reações foi 14 semanas (intervalo: 0,1 a 156 semanas).
+Asciminib foi temporariamente suspenso em 0,8% dos doentes devido à reação adversa.
+Alterações laboratoriais
+Ocorreu diminuição dos níveis de fosfato como uma alteração laboratorial em 17,9% (todos os graus)
+e 6,4% (grau 3/4) dos 156 doentes a receber asciminib na dose de 40 mg duas vezes por dia.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+
+9
+
+4.9
+
+Sobredosagem
+
+Em estudos clínicos, asciminib tem sido administrado em doses até 280 mg duas vezes por dia sem
+nenhuma evidência de toxicidade aumentada.
+Devem ser iniciadas medidas gerais de suporte e tratamento sintomático em casos de suspeita de
+sobredosagem.
+
+5.
+
+PROPRIEDADES FAMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Agentes antineoplásicos, inibidores da proteína cinase, código ATC:
+L01EA06
+Mecanismo de ação
+Asciminib é um inibidor potente da tirosina cinase ABL/BCR::ABL1. Asciminib inibe a atividade da
+cinase ABL1 da proteína de fusão BCR::ABL1, ligando-se especificamente à bolsa miristoil da ABL.
+Efeitos farmacodinâmicos
+In vitro, asciminib inibe a atividade da tirosina cinase da ABL1 com valores médios de IC50 abaixo de
+3 nanomolares. Em células cancerígenas de doentes, asciminib inibe especificamente a proliferação de
+células contendo a BCR::ABL1 com valores de IC50 entre 1 e 25 nanomolares. Em células
+manipuladas para expressar tanto a forma wild-type da BCR::ABL1 como a forma com a mutação
+T315I, verificou-se uma inibição do desenvolvimento celular pelo asciminib com valores médios de
+IC50 de 0,61 ± 0,21 e 7,64 ± 3,22 nanomolares, respetivamente.
+Em modelos xenoenxerto em ratinhos para a LMC, asciminib inibiu, de forma dependente da dose, o
+desenvolvimento de tumores contendo tanto a forma wild-type da BCR::ABL1 como a forma com a
+mutação T315I, com regressão do tumor observada nas doses acima de 7,5 mg/kg ou 30 mg/kg duas
+vezes por dia, respetivamente.
+Eletrofisiologia cardíaca
+O tratamento com asciminib está associado a um prolongamento do intervalo QT relacionado com a
+exposição.
+A correlação entre a concentração de asciminib e a alteração média estimada desde o valor inicial do
+intervalo QT com correção de Fridericia (ΔQTcF) foi avaliada em 239 doentes com LMC Ph+ ou
+leucemia linfoblástica aguda (LLA) Ph+ a receber asciminib em doses entre 10 a 280 mg duas vezes
+por dia e 80 a 200 mg uma vez por dia. A média estimada de ΔQTcF foi 3,35 ms (limite superior de IC
+90%: 4,43 ms) para a dose de asciminib 40 mg duas vezes por dia. Ver secção 4.4.
+
+10
+
+Eficácia e segurança clínicas
+LMC-Ph+ FC
+A eficácia e segurança clínica de asciminib no tratamento de doentes com leucemia mieloide positiva
+para o cromossoma Filadélfia em fase crónica (LMC-Ph+ FC) com falência de tratamento ou
+intolerância a dois ou mais inibidores da tirosina cinase, foram avaliadas no estudo ASCEMBL de
+fase III, multicêntrico, aleatorizado, controlado com composto ativo e aberto. A resistência ao último
+ITC foi definida como qualquer um dos seguintes acontecimentos: falha em obter resposta
+hematológica ou citogénica aos 3 meses; BCR::ABL1 (na Escala Internacional, EI) >10% aos 6 meses
+ou posteriormente; >65% de metástases Ph+ aos 6 meses ou >35% aos 12 meses ou posteriormente;
+perda de resposta hematológica completa (RHC), resposta citogenética parcial (RCP), resposta
+citogénica completa (RCC) ou resposta molecular major (RMM) em qualquer momento; novas
+mutações na BCR::ABL1 com potencial para desenvolvimento de resistência ao medicamento do
+estudo ou evolução clonal em metástases Ph+ em qualquer momento. A intolerância ao último ITC foi
+definida como toxicidades não hematológicas que não respondem a gestão clínica otimizada ou, como
+toxicidades hematológicas recorrentes após redução da dose para a dose mais baixa recomendada.
+Neste estudo, foram aleatorizados um total de 233 doentes numa proporção de 2:1 e estratificados de
+acordo com o estado de resposta citogénica major (RCM) inicial para receber asciminib 40 mg duas
+vezes por dia (N=157) ou bosutinib 500 mg uma vez por dia (N=76). Doentes com presença conhecida
+de mutações T315I e/ou V299L em qualquer momento antes da entrada no estudo não foram incluídos
+no estudo ASCEMBL. Os doentes mantiveram-se em tratamento até ocorrência de toxicidade
+inaceitável ou falência do tratamento.
+Os doentes com LMC-Ph+ FC eram 51,5% do sexo feminino e 48,5% do sexo masculino, com
+mediana de idade de 52 anos (intervalo: 19 a 83 anos). Dos 233 doentes, 18,9% tinham 65 anos ou
+mais, enquanto que 2,6% tinham 75 anos ou mais. Os doentes eram caucasianos (74,7%), asiáticos
+(14,2%) e negros (4,3%). Dos 233 doentes, 80,7% e 18% tinham, de acordo com a escala Eastern
+Cooperative Oncology Group (ECOG), capacidade funcional 0 ou 1, respetivamente. Doentes que
+tinham recebido anteriormente 2, 3, 4, 5 ou mais linhas de ITC eram 48,1%, 31,3%, 14,6% e 6%,
+respetivamente.
+A mediana de duração do tratamento aleatorizado foi de 103 semanas (intervalo: 0,1 a 201 semanas)
+para doentes a receber asciminib e de 31 semanas (intervalo: 1 a 188 semanas) para doentes a receber
+bosutinib.
+Resultados
+O parâmetro de avaliação primário do estudo foi a taxa de RMM às 24 semanas e o pârametro de
+avaliação secundário chave foi a taxa de RMM às 96 semanas. RMM é definida como a proporção
+BCR::ABL1 IS ≤0,1%. Outros parâmetros de avaliação secundários foram a taxa de RCC às 24 e às
+96 semanas, definidas como nenhuma metástase positiva para o cromossoma Filadélfia na medula
+óssea de um mínimo de 20 metástases examinadas.
+Os principais resultados de eficácia do estudo ASCEMBL encontram-se resumidos na Tabela 3.
+
+11
+
+Tabela 3
+
+Resultados de eficácia em doentes tratados com dois ou mais inibidores da tirosina
+cinase (ASCEMBL)
+
+Taxa de RMM, % (IC
+95%) às 24 semanas
+Taxa de RMM, % (IC
+95%) às 96 semanas
+Taxa de RCC, % (IC
+95%) às 24 semanas
+Taxa de RCC, % (IC
+95%) às 96 semanas
+1
+2
+3
+
+Asciminib
+40 mg
+duas vezes por
+dia
+N=157
+25,48
+(18,87; 33,04)
+37,58
+(29,99; 45,65)
+N=1033
+40,78
+(31,20; 50,90)
+39,81
+(30,29; 49,92)
+
+Bosutinib
+500 mg
+uma vez por
+dia
+N=76
+13,16
+(6,49; 22,87)
+15,79
+(8,43; 25,96)
+N=623
+24,19
+(14,22; 36,74)
+16,13
+(8,02; 27,67)
+
+Diferença
+(IC 95%)1
+
+Valor-p
+
+12,24
+(2,19; 22,30)
+
+0,0292
+
+21,74
+(10,53; 32,95)
+
+0,0012
+
+17,30
+(3,62; 30,99)
+
+Não testado
+formalmente
+
+23,87
+(10,3; 37,43)
+
+Não testado
+formalmente
+
+No ajuste para o valor de resposta citogenética major inicial
+Teste bilateral de Cochran Mantel Haenszel estratificado pelo estado de resposta citogenética major inicial
+Análise de RCC com base em doentes que não estavam em RCC no início
+
+O parâmetro de avaliação primário e os parâmetros de avaliação secundário chave foram os únicos que
+foram formalmente testados em relação à significância estatística de acordo com o protocolo.
+No ASCEMBL, 12,7% dos doentes tratados com asciminib e 13,2% dos doentes a receber bosutinib
+tinham uma ou mais mutações na BCR::ABL1 detetadas no início. Observou-se RMM às 24 semanas
+em 35,3% e 24,8% dos doentes a receber asciminib com ou sem nenhuma mutação BCR::ABL1 no
+início, respetivamente. Observou-se RMM às 24 semanas em 25% e 11,1% dos doentes a receber
+bosutinib com ou sem nenhuma mutação no início, respetivamente. A taxa de RMM às 24 semanas em
+doentes nos quais o tratamento aleatorizado representava a terceira, quarta ou quinta ou mais linhas de
+ITC foi 29,3%, 25%, e 16,1% em doentes tratados com asciminib e 20%, 13,8%, e 0% em doentes a
+receber bosutinib, respetivamente.
+A proporção de Kaplan-Meier estimada dos doentes a receber asciminib e mantendo a RMM durante
+pelo menos 72 semanas foi 96,7% (IC 95%: 87,4; 99,2).
+População pediátrica
+A Agência Europeia de Medicamentos diferiu a obrigação de apresentação dos resultados dos estudos
+com Scemblix em um ou mais subgrupos da população pediátrica em CML (ver secção 4.2 para
+informação sobre utilização pediátrica).
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+Asciminib é rapidamente absorvido, com mediana de nível máximo plasmático (Tmax) atingido 2 a
+3 horas após administração oral, independentemente da dose. A média geométrica (geoCV%) da Cmax
+e AUCtau no estado estacionário é 793 ng/ml (49%) e 5262 ng*h/ml (48%), respetivamente, após
+administração de asciminib nas doses de 40 mg duas vezes por dia dose. Os modelos PBPK preveem
+que a absorção de asciminib é aproximadamente 100%, enquanto que a biodisponibilidade é
+aproximadamente 73%.
+A biodisponibilidade de asciminib pode ser reduzida pela coadministração de medicamentos orais
+contendo hidroxipropil-β-ciclodextrina como excipiente. A coadministração de múltiplas doses de
+uma solução oral de itraconazole contendo hidroxipropil-β-ciclodextrina num total de 8 g por dose
+com uma dose de 40 mg asciminib diminuiu a AUCinf de asciminib em 40,2% em indivíduos
+saudáveis.
+12
+
+Efeito dos alimentos
+O consumo de alimentos diminui a biodisponibilidade de asciminib, sendo que uma refeição com
+elevado teor de gordura tem um maior impacto sobre a farmacocinética de asciminib do que uma
+refeição com baixo teor de gordura. A AUC de asciminib é reduzida em 62,3% com uma refeição com
+alto teor de gordura e em 30% com uma refeição com baixo teor de gordura comparativamente com o
+estado em jejum (ver secção 4.2).
+Distribuição
+O volume aparente de distribuição de asciminib no estado estacionário é 111 litros com base na análise
+farmacocinética da população. Com base em dados in vitro, asciminib é principalmente distribuído
+para o plasma, com uma razão média sangue-plasma de 0,58, independentemente da dose. Asciminib
+liga-se às proteínas plasmáticas humanas a 97,3%, independentemente da dose.
+Biotransformação
+Asciminib é principalmente metabolizado via oxidação mediada por CYP3A4 e glucuronidação
+mediada por UGT2B7 e UGT2B17. Asciminib é o principal componente em circulação no plasma
+(92,7% da dose administrada).
+Eliminação
+Asciminib é principalmente eliminado via excreção fecal, com uma contribuição pequena da via renal.
+Oitenta e 11% da dose de asciminib foram recuperados nas fezes e na urina de indivíduos saudáveis,
+respetivamente, após administração oral de uma dose única de 80 mg de asciminib marcado-[14C]. A
+eliminação fecal de asciminib inalterado representa 56,7% da dose administrada.
+Asciminib é eliminado através de secreção biliar via proteína resistente ao cancro da mama (BCRP).
+A depuração oral total (CL/F) de asciminib é 6,31 l/hora após 40 mg duas vezes por dia, com base na
+análise farmacocinética da população. A semivida de eliminação de asciminib é entre 7 e 15 horas
+com 40 mg duas vezes por dia.
+Linearidade/não linearidade
+Asciminib apresenta um ligeiro aumento superior à proporcionalidade da dose na exposição no estado
+estacionário (AUC e Cmax) para uma gama de dose de 10 a 200 mg administrada uma vez ou duas
+vezes por dia.
+A proporção da acumulação da média geométrica é aproximadamente 2 vezes superior. As condições
+de estado estacionário são atingidas após 3 dias na dose de 40 mg duas vezes por dia.
+Avaliação de potencial interação medicamentosa in vitro
+Asciminib é metabolizado por várias vias, incluindo as enzimas CYP3A4, UGT2B7 e UGT2B17, e
+excretado por via biliar pelo transportador BCRP. Os medicamentos que inibem ou induzem as
+CYP3A4, UGT e/ou das vias BCRP podem alterar a exposição de asciminib.
+CYP450 e enzimas UGT
+In vitro, asciminib inibe reversivelmente CYP3A4/5, CYP2C9 e UGT1A1 nas concentrações
+plasmáticas atingidas com uma dose de 40 mg duas vezes por dia. Asciminib pode aumentar a
+exposição de medicamentos que são substratos da CYP3A4/5 e CYP2C9 (ver secção 4.5).
+
+13
+
+Transportadores
+Asciminib é um substrato da BCRP e Gp-p.
+Asciminib inibe a BCRP, Gp-p e OATP1B com valores Ki de 24, 22 e 2 micromolares,
+respetivamente. Com base num modelo PBPK, recomenda-se precaução durante a administração
+concomitante de asciminib com substratos do OATP1B, BCRP ou de ambos os transportadores.
+Populações especiais
+Género, raça, peso corporal
+A exposição sistémica a asciminib não é afetada por género, raça ou peso corporal em nenhuma forma
+clinicamente relevante.
+Compromisso renal
+Foi realizado um estudo dedicado ao compromisso renal incluindo 6 indivíduos com função renal
+normal (taxa de filtração glomerular absoluta [TFGa] ≥90 ml/min) e 8 indivíduos com compromisso
+renal grave sem necessidade de diálise (TFGa 15 a <30 ml/min). As AUCinf e Cmax de asciminib
+aumentaram 56% e 8%, respetivamente, em indivíduos com compromisso renal grave
+comparativamente com indivíduos com função renal normal, após administração oral de uma dose
+única de 40 mg de asciminib (ver secção 4.2). Os modelos farmacocinéticos da população indicam um
+aumento da mediana do estado estacionário da AUC0-24h de asciminib em 11,5% em indivíduos com
+compromisso renal ligeiro a moderado, comparativamente com indivíduos com função renal normal.
+Compromisso hepático
+Foi realizado um estudo dedicado ao compromisso hepático incluindo 8 indivíduos com função
+hepática normal, compromisso hepático ligeiro (Child-Pugh A pontos 5-6), compromisso hepático
+moderado (Child-Pugh B pontos 7-9) ou compromisso hepático grave (Child-Pugh C pontos 10-15). A
+AUCinf de asciminb foi aumentada em 22%, 3% e 66% em indivíduos com compromisso hepático
+ligeiro, moderado e grave, respetivamente, comparativamente com indivíduos com função hepática
+normal, após administração oral de uma dose única de 40 mg de asciminib (ver secção 4.2).
+5.3
+
+Dados de segurança pré-clínica
+
+Segurança farmacológica
+Foram observados efeitos cardiovasculares moderados (frequência cardíaca aumentada, pressão
+sistólica diminuída, pressão arterial média diminuída e pressão arterial de pulso diminuída) em estudos
+de segurança cardíaca in vivo em cães, provavelmente com AUC de exposições 12 vezes superiores às
+atingidas em doentes na dose recomendada (DR) de 40 mg duas vezes por dia.
+Toxicidade de dose repetida
+Ocorreram efeitos pancreáticos (aumento da amilase e lipase séricas, lesões nas células acinares) em
+cães com AUC de exposições inferiores às atingidas em doentes com a DR de 40 mg duas vezes por dia.
+Observou-se uma tendência de recuperação.
+Observaram-se elevações nas enzimas hepáticas e/ou bilirrubina em ratos, cães e macacos. Foram
+observadas em ratos e macacos, alterações histopatológicas hepáticas (hipertrofia de hepatócitos
+centrolobulares, ligeira hiperplasia dos ductos biliares, necrose de hepatócitos individual aumentada e
+hipertrofia hepatocelular difusa). Estas alterações ocorreram tanto em exposições AUC equivalentes
+(ratos) como em exposições 12 a 18 vezes superiores (cães e macacos, respetivamente) às atingidas em
+doentes com a DR de 40 mg duas vezes por dia. Estas alterações foram completamente reversíveis.
+
+14
+
+Os efeitos no sistema hematopoiético (redução da massa de glóbulos vermelhos, aumento do pigmento
+esplénico ou da medula óssea e aumento dos reticulócitos) foram consistentes com uma anemia
+hemolítica extravascular ligeira e regenerativa em todas as espécies. Essas alterações ocorreram em
+AUC de exposições equivalentes a (ratos) ou 12 a 14 vezes (cães e macacos, respetivamente)
+superiores do que as atingidas em doentes com a DR de 40 mg duas vezes por dia. Estas alterações
+foram completamente reversíveis.
+Foi detetada hipertrofia/hiperplasia mínima da muscosa (aumento da espessura da mucosa com
+alongamento frequente das vilosidades) no duodeno de ratos com AUC de exposições 30 vezes
+superiores às atingidas em doentes com a DR de 40 mg duas vezes por dia. Esta alteração foi
+completamente reversível.
+Ocorreu hipertrofia mínima ou ligeira da glândula suprarrenal e vacuolização ligeira a moderada na
+zona fasciculada tanto em exposições AUC equivalentes (macacos) como em exposições 19 vezes
+superiores (ratos) às atingidas em doentes com 40 mg duas vezes por dia. Estas alterações foram
+completamente reversíveis.
+Carcinogenicidade e mutagenicidade
+Não foi detetado potencial mutagénico, clastogénico ou aneugénico in vitro nem in vivo para o
+ascinimib.
+Num estudo de carcinogenicidade em ratos com a duração de 2 anos, foram observadas alterações
+proliferativas não neoplásicas que consistem em hiperplasia das células de Sertoli ováricas em fêmeas
+com doses iguais ou superiores a 30 mg/kg/dia. Foram observados tumores benignos de células de
+Sertoli nos ovários em ratos fêmeas com a dose mais alta de 66 mg/kg/dia. As AUC das exposições de
+ratos fêmeas com 66 mg/kg/dia foram geralmente 8 vezes superiores às atingidas em doentes na dose
+de 40 mg duas vezes por dia.
+A relevância clínica destes resultados é atualmente desconhecida.
+Toxicidade reprodutiva
+Estudos de reprodução animal em ratos e coelhos gestantes demonstraram que a administração oral de
+asciminib durante a organogénese induziu embriotoxicidade, fetotoxicidade e teratogenecidade.
+Nos estudos de desenvolvimento embrio-fetal em ratos, observou-se um ligeiro aumento de
+malformações fetais (anasarca e malformações cardíacas) e aumento de alterações esqueléticas e
+viscerais. Em coelhos observou-se um aumento de incidência de reabsorções indicativas de
+mortalidade embrio-fetal e uma baixa incidência de malformações cardíacas indicativas de
+teratogenicidade. Em ratos, no nível de efeito adverso não observável (NOAEL) fetal de 25 mg/kg/dia,
+as AUC de exposições foram equivalentes às atingidas em doentes na DR de 40 mg duas vezes por
+dia. Em coelhos, no NOAEL fetal de 15 mg/kg/dia, as AUC de exposições foram equivalentes ou
+inferiores às atingidas em doentes nas doses de 40 mg duas vezes por dia ou 80 mg uma vez por dia
+doses, respetivamente.
+No estudo de fertilidade em ratos, asciminib não afetou a função reprodutiva em ratos machos e
+fêmeas. Foi observado um ligeiro efeito sobre a motilidade do esperma em machos e sobre a contagem
+de esperma com doses de 200 mg/kg/dia, provavelmente com AUC de exposição 19 vezes ou 13 vezes
+superiores às atingidas em doentes com a DR de 40 mg duas vezes por dia.
+Não foi realizado estudo de toxicidade no desenvolvimento pré ou pós-natal.
+
+15
+
+Fototoxicidade
+Em ratinhos, asciminib revelou efeitos fototóxicos dependentes da dose a partir de 200 mg/kg/dia. No
+NOAEL de 60 mg/kg/dia, a exposição baseada na Cmax plasmática foi 15 vezes superior do que a
+exposição em doentes com DR de 40 mg duas vezes por dia.
+
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Scemblix 20 mg e 40 mg comprimidos revestidos por película
+Lactose monohidratada
+Celulose microcristalina (E460i)
+Hidroxipropilcelulose (E463)
+Croscarmelose sódica (E468)
+Álcool polivinílico (E1203)
+Dióxido de titânio (E171)
+Estearato de magnésio
+Talco (E553b)
+Dióxido de silício coloidal
+Lecitina (E322)
+Goma xantana (E415)
+Óxido de ferro vermelho (E172)
+Scemblix 20 mg comprimidos revestidos por película apenas
+Óxido de ferro amarelo (E172)
+Scemblix 40 mg comprimidos revestidos por película apenas
+Óxido de ferro negro (E172)
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+3 anos.
+6.4
+
+Precauções especiais de conservação
+
+Não conservar acima de 25°C.
+Conservar na embalagem de origem para proteger da humidade.
+
+16
+
+6.5
+
+Natureza e conteúdo do recipiente
+
+Scemblix é fornecido em blisters de PCTFE/PVC/Alu contendo 10 comprimidos revestidos por
+película.
+Estão disponíveis as seguintas apresentações:
+Embalagens contendo 20 ou 60 comprimidos revestidos por película.
+Scemblix 40 mg comprimidos revestidos por película também está disponível em embalagens
+múltiplas contendo 180 (3 embalagens de 60) comprimidos revestidos por película.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/22/1670/001-005
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+25 de agosto de 2022
+
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+17
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(EIS) PELA LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA
+E EFICAZ DO MEDICAMENTO
+
+18
+
+A.
+
+FABRICANTE(S) RESPONSÁVEL(EIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+Novartis Farmacéutica SA
+Gran Via de les Corts Catalanes, 764
+08013 Barcelona
+Espanha
+Novartis Pharma GmbH
+Roonstrasse 25
+90429 Nuremberga
+Alemanha
+O folheto informativo que acompanha o medicamento tem de mencionar o nome e endereço do
+fabricante responsável pela libertação do lote em causa.
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do
+artigo 107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no
+portal europeu de medicamentos.
+O Titular da Autorização de Introdução no Mercado (AIM) deverá apresentar o primeiro RPS para
+este medicamento no prazo de 6 meses após a concessão da autorização.
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia do Medicamento;
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+19
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+20
+
+A. ROTULAGEM
+
+21
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+
+1.
+
+NOME DO MEDICAMENTO
+
+Scemblix 20 mg comprimidos revestidos por película
+asciminib
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém cloridrato de asciminib, equivalente a 20 mg de
+asciminib.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Para mais informações consultar o folheto informativo.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+20 comprimidos revestidos por película
+60 comprimidos revestidos por película
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+22
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25°C.
+Conservar na embalagem de origem para proteger da humidade.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/22/1670/001
+EU/1/22/1670/002
+
+13.
+
+20 comprimidos revestidos por película de 20 mg
+60 comprimidos revestidos por película de 20 mg
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Scemblix 20 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+23
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGNES BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+
+1.
+
+NOME DO MEDICAMENTO
+
+Scemblix 20 mg comprimidos
+asciminib
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Novartis Europharm Limited
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+24
+
+INDICAÇÕES MÍNIMAS A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+
+1.
+
+NOME DO MEDICAMENTO
+
+Scemblix 40 mg comprimidos revestidos por película
+asciminib
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém cloridrato de asciminib, equivalente a 40 mg de
+asciminib.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Para mais informações consultar o folheto informativo.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+20 comprimidos revestidos por película
+60 comprimidos revestidos por película
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+25
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25°C.
+Conservar na embalagem de origem para proteger da humidade.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/22/1670/003
+EU/1/22/1670/004
+
+13.
+
+20 comprimidos revestidos por película de 40 mg
+60 comprimidos revestidos por película de 40 mg
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Scemblix 40 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+26
+
+INDICAÇÕES MÍNIMAS A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR DE EMBALAGEM MÚLTIPLA (INCLUINDO BLUE BOX)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Scemblix 40 mg comprimidos revestidos por película
+asciminib
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém cloridrato de asciminib, equivalente a 40 mg de
+asciminib.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Para mais informações consultar o folheto informativo.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+Embalagem múltipla: 180 (3 x 60) comprimidos revestidos por película
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25°C.
+Conservar na embalagem de origem para proteger da humidade.
+27
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/22/1670/005
+
+13.
+
+180 (3 x 60) comprimidos revestidos por película de 40 mg
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Scemblix 40 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+28
+
+INDICAÇÕES MÍNIMAS A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR DE EMBALAGEM MÚLTIPLA (SEM BLUE BOX)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Scemblix 40 mg comprimidos revestidos por película
+asciminib
+
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém cloridrato de asciminib, equivalente a 40 mg de
+asciminib.
+
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose. Para mais informações consultar o folheto informativo.
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+60 comprimidos revestidos por película
+Componente de uma embalagem múltipla. Não pode ser vendido separadamente.
+
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+29
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25°C.
+Conservar na embalagem de origem para proteger da humidade.
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/22/1670/005
+
+13.
+
+180 (3 x 60) comprimidos revestidos por película de 40 mg
+
+NÚMERO DO LOTE
+
+Lot
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Scemblix 40 mg
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+30
+
+ÍNDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+
+1.
+
+NOME DO MEDICAMENTO
+
+Scemblix 40 mg comprimidos
+asciminib
+
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Novartis Europharm Limited
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+
+4.
+
+NÚMERO DO LOTE
+
+Lot
+
+5.
+
+OUTROS
+
+31
+
+B. FOLHETO INFORMATIVO
+
+32
+
+Folheto informativo: Informação para o doente
+Scemblix 20 mg comprimidos revestidos por película
+Scemblix 40 mg comprimidos revestidos por película
+asciminib
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico. Ver secção 4.
+O que contém este folheto
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Scemblix e para que é utilizado
+O que precisa de saber antes de tomar Scemblix
+Como tomar Scemblix
+Efeitos indesejáveis possíveis
+Como conservar Scemblix
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Scemblix e para que é utilizado
+
+O que é Scemblix
+Scemblix contém a substância ativa asciminib, que pertence a um grupo de medicamentos chamado
+inibidores da proteína cinase.
+Para que é usado Scemblix
+Scemblix é um medicamento para o cancro usado para tratar adultos com um tipo de cancro do sangue
+chamado leucemia mieloide crónica positiva para o cromossoma Filadélfia em fase crónica (LMC-Ph+
+FC). É usado em doentes que foram previamente tratados com dois ou mais medicamentos para o
+cancro chamados inibidores da tirosina cinase.
+Como funciona Scemblix
+Na LMC-Ph+ o organismo produz um grande número de glóbulos brancos anormais. Scemblix
+bloqueia a ação de uma proteína (BCR::ABL1) que é produzida por estes glóbulos brancos anormais
+inibindo a sua divisão e desenvolvimento.
+Se tem quaisquer questões sobre como funciona este medicamento ou porque lhe foi prescrito este
+medicamento, fale com o seu médico ou farmacêutico.
+
+33
+
+2.
+
+O que precisa de saber antes de tomar Scemblix
+
+Não tome Scemblix
+se tem alergia a asciminib ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+Advertência e precauções
+Fale com o seu médico ou farmacêutico antes de tomar Scemblix se qualquer das seguintes situações
+se aplica a si:
+se tem, ou alguma vez teve, dor na parte superior do estômago que pode ser devida a problemas
+com o seu pâncreas (inflamação do pâncreas, pancreatite).
+se alguma vez teve, ou pode agora ter, infeção por hepatite B. Isto porque Scemblix pode fazer
+com que a hepatite B se torne ativa outra vez. Irá ser cuidadosamente examinado pelo seu médico
+para sinais desta infeção antes do início do tratamento.
+Fale imediatamente com o seu médico ou farmacêutico se qualquer das seguintes situações se
+aplicar a si durante o tratamento com Scemblix:
+se sentir fraqueza, hemorragia ou nódoas negras espontâneas e infeções frequentes com sinais
+tais como febre, arrepios, dor de garganta e feridas na boca. Estes podem ser sinais de
+diminuição da atividade da medula óssea, resultando em mielosupressão (uma redução no
+número de glóbulos brancos, glóbulos vermelhos e plaquetas).
+se as análises ao sangue revelarem que tem um elevado nível de enzimas chamadas lipase e
+amilase (sinais de problemas no pâncreas, também conhecido como toxicidade pancreática).
+se tem um distúrbio cardíaco ou distúrbio do ritmo cardíaco, como batimentos cardíacos
+irregulares ou uma atividade elétrica anormal do coração chamada prolongamento do intervalo
+QT que pode ser identificada num eletrocardiograma (ECG).
+se as análises ao sangue revelam um nível baixo de potássio ou magnésio (hipocaliemia ou
+hipomagnesemia).
+se está a ser tratado com medicamentos que podem ter um efeito indesejável sobre a função do
+coração (torsades de pointes) (ver “Outros medicamentos e Scemblix”).
+se sentir dor de cabeça, tonturas, dor no peito ou falta de ar (possíveis sinais de tensão arterial
+alta, também conhecida como hipertensão).
+Monitorização durante o seu tratamento com Scemblix
+O seu médico irá monitorizar regularmente a sua condição para verificar que o tratamento está a ter o
+efeito desejado. Durante o tratamento irá realizar exames regularmente incluindo análises ao sangue.
+Estes exames irão monitorizar:
+a quantidade de células sanguíneas (glóbulos brancos, glóbulos vermelhos e plaquetas).
+os níveis de enzimas do pâncreas (amilase e lipase).
+os níveis de eletrólitos (potássio, magnésio).
+a sua frequência cardíaca e tensão arterial.
+Crianças e adolescentes
+Não dê este medicamento a crianças ou adolescentes com menos de 18 anos de idade.
+
+34
+
+Outros medicamentos e Scemblix
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos. Em particular, informe o seu médico ou farmacêutico se estiver a usar:
+medicamentos geralmente usados para tratar convulsões (ataques), tais como carbamazepina,
+fenobarbital ou fenitoína.
+medicamentos usados para tratar dor e/ou como sedativos antes ou durante procedimentos
+médicos ou cirúrgicos, tais como alfentanil ou fentanil.
+medicamentos usados para tratar enxaqueca ou demência, tais como dihidroergotamina ou
+ergotamina.
+medicamentos que podem ter um efeito indesejável sobre a atividade elétrica do coração
+(torsades de pointes), tais como bepridil, cloroquina, claritromicina, halofantrina, haloperidol,
+metadona, moxifloxacina ou pimozida.
+medicamentos usados para reduzir a capacidade de coagulação do sangue, tais como varfarina.
+medicamentos usados para tratar inflamação intestinal grave ou inflamação reumática grave das
+articulações, tais como sulfasalazina.
+medicamentos usados para tratar o cancro, inflamação reumática grave das articulações ou
+psoríase, tais como metotrexato.
+medicamentos usados para reduzir os níveis de colesterol no sangue, tais como pravastatina,
+atorvastatina, pitavastatina, rosuvastatina e sinvastatina.
+erva de S. João (também conhecida como Hypericum perforatum), um medicamento à base de
+plantas usado para tratar depressão.
+Se já estiver a tomar Scemblix, deve informar o seu médico se lhe for prescrito um novo medicamento.
+Fale com o seu médico ou farmacêutico se não tem a certeza se o seu medicamento é algum dos
+enumerados acima.
+Scemblix com alimentos e bebidas
+Não tome este medicamento com alimentos. Tome-o pelo menos 2 horas depois e 1 hora antes de
+qualquer alimento. Para mais informação, ver “Quando tomar Scemblix” na secção 3.
+Gravidez e amamentação
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o seu médico
+ou farmacêutico antes de tomar este medicamento.
+Gravidez
+Scemblix pode prejudicar o seu bebé em gestação. Se é uma mulher que pode ficar grávida, o seu
+médico irá discutir consigo os potenciais riscos de o tomar durante a gravidez ou amamentação.
+Se é uma mulher que pode ficar grávida, o seu médico poderá realizar um teste de gravidez antes de
+iniciar o tratamento com Scemblix.
+Se ficar grávida ou se pensa estar grávida, após o início do tratamento com Scemblix, fale
+imediatamente com o seu médico.
+Conselho sobre contracetivos para mulheres
+Se é uma mulher que pode ficar grávida, deve usar um método de contaceção eficaz durante o
+tratamento com Scemblix e durante pelo menos 3 dias após ter parado de o tomar para evitar
+engravidar. Fale com o seu médico sobre métodos eficazes de contraceção.
+Amamentação
+Desconhece-se se Scemblix passa para o leite materno. Assim, deve interromper a amamentação
+enquanto o estiver a tomar e durante pelo menos 3 dias após ter parado de o tomar.
+
+35
+
+Condução de veículos e utilização de máquinas
+Este medicamento não tem influência ou tem uma influência negligenciável sobre a capacidade de
+conduzir ou utilizar máquinas. Se sentir efeitos secundários (tais como tonturas ou distúrbios visuais)
+com um potencial impacto na capacidade de conduzir com segurança ou utilizar quaisquer ferramentas
+ou máquinas após tomar este medicamento, deve evitar realizar essas atividades até o efeito ter
+desaparecido.
+Scemblix contém lactose e sódio
+Se foi informado pelo seu médico que tem intolerância a alguns açúcares, contacte-o antes de tomar
+este medicamento.
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido revestido por
+película ou seja, é praticamente “isento de sódio”.
+
+3.
+
+Como tomar Scemblix
+
+Tome este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale com o seu
+médico ou farmacêutico se tiver dúvidas.
+Quanto Scemblix tomar
+O seu médico irá dizer-lhe exatamente quantos comprimidos deve tomar por dia e como tomá-los.
+A dose recomendada é de 1 comprimido de Scemblix 40 mg duas vezes por dia. Tome 1 comprimido,
+depois tome outro aproximadamente 12 horas mais tarde.
+Dependendo de como responde ao tratamento e dos possíveis efeitos secundários, o seu médico pode
+mudar para uma dose mais baixa ou interromper o tratamento temporaria ou permanentemente.
+Quando tomar Scemblix
+Tome Scemblix:
+pelo menos 2 horas após qualquer ingestão de alimentos
+depois, espere pelo menos 1 hora antes de comer outra vez.
+Tomar este medicamento todos os dias à mesma hora irá ajudá-lo a lembrar-se quando o deve tomar.
+Como tomar Scemblix
+Tome os comprimidos inteiros com um copo de água. Não parta, esmague ou mastigue os
+comprimidos para garantir a dose correta.
+Durante quanto tempo tomar Scemblix
+Tome este medicamento durante o tempo que lhe foi indicado pelo seu médico. Este é um tratamento
+de longo prazo, possivelmente durará meses ou anos. O seu médico irá monitorizar regularmente a sua
+condição para verificar se o tratamento está a ter o efeito desejado.
+Se tiver questões sobre durante quanto tempo deve tomar este medicamento, fale com o seu médico ou
+farmacêutico.
+Se tomar mais Scemblix do que deveria
+Se tomou mais comprimidos do que deveria ou se mais alguém tomou acidentalmente o seu
+medicamento, contacte imediatamente um médico para aconselhamento. Mostre-lhes a embalagem de
+Scemblix. Pode ser necessário tratamento médico.
+
+36
+
+Caso se tenha esquecido de tomar Scemblix
+Se faltarem menos de 6 horas até à próxima dose, não tome a dose esquecida e depois tome a seguinte
+conforme planeado.
+Se faltarem mais de 6 horas até à próxima dose, tome a dose que foi esquecida e depois tome a
+seguinte conforme planeado.
+Se parar de tomar Scemblix
+Não pare de tomar este medicamento a menos que o seu médico lhe diga para o fazer.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Alguns efeitos indesejáveis podem ser graves
+Se tiver quaisquer efeitos indesejáveis graves, pare de tomar este medicamento e informe
+imediatamente o seu médico.
+Muito frequentes (podem afetar mais de 1 em 10 pessoas)
+hemorragias ou nódoas negras espontâneas (sinais de nível baixo de plaquetas, trombocitopenia)
+febre, dor de garganta, infeções frequentes (sinais de nível baixo de glóbulos brancos,
+neutropenia)
+Pouco frequentes (podem afetar até 1 em cada 100 pessoas)
+batimento cardíaco irregular, alteração na atividade elétrica do coração (prolongamento do
+intervalo QT)
+febre acima de 38°C associada a nível baixo de glóbulos brancos (neutropenia febril)
+Outros efeitos indesejáveis possíveis
+Outros efeitos indesejáveis incluem os seguintes enumerados abaixo. Se estes efeitos indesejáveis se
+tornarem graves, informe o seu médico ou farmacêutico.
+Muito frequentes (podem afetar mais de 1 em 10 pessoas)
+infeções do nariz e da garganta (infeção do trato respiratório superior)
+cansaço, fadiga, palidez (sinais de nível baixo de glóbulos vermelhos, anemia)
+dor de cabeça, tonturas, dor no peito, falta de ar (sinais de tensão arterial alta, hipertensão)
+dor de cabeça
+tonturas
+tosse
+vómitos
+diarreia
+náuseas
+dor abdominal (dor de barriga)
+erupção na pele
+dor muscular, nos ossos ou nas articulações (dor músculo-esquelética)
+dor nas articulações (artralgia)
+cansaço (fadiga)
+comichão (prurido)
+
+37
+
+Frequentes (podem afetar até 1 em cada 10 pessoas)
+febre, tosse, dificuldade em respirar, pieira (sinais de infeções de trato respiratório inferior)
+gripe
+falta de apetite
+visão enevoada
+olhos secos
+palpitações
+dor no peito, tosse, soluços, respiração rápida, acumulação de líquido entre os pulmões e a
+cavidade torácica que, se for grave, pode provocar falta de ar (derrame pleural)
+falta de ar, dificuldade em respirar (sinais de dispneia)
+dor no peito (dor no peito não cardíaca)
+dor forte na parte superior do estômago (sinal de inflamação no pâncreas, pancreatite)
+erupção na pele com comichão (urticária)
+febre (pirexia)
+inchaço generalizado (edema)
+Pouco frequentes (podem afetar até 1 em cada 100 pessoas)
+reação alérgica que pode incluir erupção da pele, urticária, dificuldade em respirar ou tensão
+arterial baixa (hipersensibilidade)
+Resultados alterados de análise ao sangue
+Durante o tratamento, os resultados das análises ao sangue podem estar alterados, o que pode dar
+informação ao seu médico sobre a função dos seus órgãos. Por exemplo:
+Muito frequentes (podem afetar mais de 1 em 10 pessoas)
+nível elevado de enzimas lipase e amilase (função do pâncreas)
+nível elevado de enzimas transaminases, que incluem alanina aminotransferase (ALT), aspartato
+aminotransferase (AST) e gama-glutamiltransferase (GGT) (função do fígado)
+nível elevado de gorduras/lípidos
+Frequentes (podem afetar até 1 em cada 10 pessoas)
+nível elevado da substância bilirrubina (função do fígado)
+nível elevado da enzima fosfoquinase da creatina (função dos músculos)
+nível elevado de açúcar no sangue
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+
+38
+
+5.
+
+Como conservar Scemblix
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso no blister e na embalagem exterior
+após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+Não conservar acima de 25°C.
+Conservar na embalagem de origem para proteger da humidade.
+Não utilize este medicamento se verificar qualquer dano na embalagem ou se houver sinais de
+adulteração.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Scemblix
+A substância ativa é asciminib.
+Cada comprimido revestido por película de 20 mg contém cloridrato de asciminib, equivalente a
+20 mg de asciminib.
+Cada comprimido revestido por película de 40 mg contém cloridrato de asciminib, equivalente a
+40 mg de asciminib.
+Os outros componentes são:
+Comprimidos revestidos por película de 20 mg e 40 mg: lactose monohidratada, celulose
+microcristalina (E460i), hidroxipropilcelulose (E463), croscarmelose sódica (E468), álcool
+polivinílico (E1203), dióxido de titânio (E171), estearato de magnésio, talco (E553b), dióxido
+de silício coloidal, lecitina (E322), goma xantana (E415), óxido de ferro vermelho (E172).
+Apenas comprimidos revestidos por película de 20 mg: óxido de ferro amarelo (E172)
+Apenas comprimidos revestidos por película de 40 mg: óxido de ferro negro (E172).
+Ver “Scemblix contém lactose e sódio” na secção 2.
+Qual o aspeto de Scemblix e conteúdo da embalagem
+Scemblix 20 mg comprimidos revestidos por película (comprimidos): comprimido amarelo-claro,
+redondo, biconvexo com bordos biselados com aproximadamente 6 mm de diâmetro, com gravação do
+logotipo da empresa numa face e “20” na outra face.
+Scemblix 40 mg comprimidos revestidos por película (comprimidos): comprimido branco-violeta,
+redondo, biconvexo com bordos biselados com aproximadamente 8 mm de diâmetro, com gravação do
+logotipo da empresa numa face e “40” na outra face.
+Scemblix é fornecido em blisters contendo 10 comprimidos revestidos por película.
+Estão disponíveis os seguintes tamanhos de embalagem:
+Embalagens contendo 20 ou 60 comprimidos revestidos por película.
+Scemblix 40 mg comprimidos revestidos por película também está disponível em embalagens
+múltiplas contendo 180 (3 embalagens de 60) comprimidos revestidos por película.
+É possível que não sejam comercializadas todas as apresentações.
+
+39
+
+Titular da Autorização de Introdução no Mercado
+Novartis Europharm Limited
+Vista Building
+Elm Park, Merrion Road
+Dublin 4
+Irlanda
+Fabricante
+Novartis Farmacéutica SA
+Gran Via de les Corts Catalanes, 764
+08013 Barcelona
+Espanha
+Novartis Pharma GmbH
+Roonstrasse 25
+90429 Nuremberga
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Novartis Pharma N.V.
+Tél/Tel: +32 2 246 16 11
+
+Lietuva
+SIA Novartis Baltics Lietuvos filialas
+Tel: +370 5 269 16 50
+
+България
+Novartis Bulgaria EOOD
+Тел.: +359 2 489 98 28
+
+Luxembourg/Luxemburg
+Novartis Pharma N.V.
+Tél/Tel: +32 2 246 16 11
+
+Česká republika
+Novartis s.r.o.
+Tel: +420 225 775 111
+
+Magyarország
+Novartis Hungária Kft.
+Tel.: +36 1 457 65 00
+
+Danmark
+Novartis Healthcare A/S
+Tlf: +45 39 16 84 00
+
+Malta
+Novartis Pharma Services Inc.
+Tel: +356 2122 2872
+
+Deutschland
+Novartis Pharma GmbH
+Tel: +49 911 273 0
+
+Nederland
+Novartis Pharma B.V.
+Tel: +31 88 04 52 111
+
+Eesti
+SIA Novartis Baltics Eesti filiaal
+Tel: +372 66 30 810
+
+Norge
+Novartis Norge AS
+Tlf: +47 23 05 20 00
+
+Ελλάδα
+Novartis (Hellas) A.E.B.E.
+Τηλ: +30 210 281 17 12
+
+Österreich
+Novartis Pharma GmbH
+Tel: +43 1 86 6570
+
+España
+Novartis Farmacéutica, S.A.
+Tel: +34 93 306 42 00
+
+Polska
+Novartis Poland Sp. z o.o.
+Tel.: +48 22 375 4888
+
+France
+Novartis Pharma S.A.S.
+Tél: +33 1 55 47 66 00
+
+Portugal
+Novartis Farma - Produtos Farmacêuticos, S.A.
+Tel: +351 21 000 8600
+
+40
+
+Hrvatska
+Novartis Hrvatska d.o.o.
+Tel. +385 1 6274 220
+
+România
+Novartis Pharma Services Romania SRL
+Tel: +40 21 31299 01
+
+Ireland
+Novartis Ireland Limited
+Tel: +353 1 260 12 55
+
+Slovenija
+Novartis Pharma Services Inc.
+Tel: +386 1 300 75 50
+
+Ísland
+Vistor hf.
+Sími: +354 535 7000
+
+Slovenská republika
+Novartis Slovakia s.r.o.
+Tel: +421 2 5542 5439
+
+Italia
+Novartis Farma S.p.A.
+Tel: +39 02 96 54 1
+
+Suomi/Finland
+Novartis Finland Oy
+Puh/Tel: +358 (0)10 6133 200
+
+Κύπρος
+Novartis Pharma Services Inc.
+Τηλ: +357 22 690 690
+
+Sverige
+Novartis Sverige AB
+Tel: +46 8 732 32 00
+
+Latvija
+SIA Novartis Baltics
+Tel: +371 67 887 070
+
+United Kingdom (Northern Ireland)
+Novartis Ireland Limited
+Tel: +44 1276 698370
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+41
+
+

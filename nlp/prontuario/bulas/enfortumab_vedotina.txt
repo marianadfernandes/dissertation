@@ -1,0 +1,2045 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+1.
+
+NOME DO MEDICAMENTO
+
+Padcev 20 mg pó para concentrado para solução para perfusão
+Padcev 30 mg pó para concentrado para solução para perfusão
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Padcev 20 mg pó para concentrado para solução para perfusão
+Um frasco para injetáveis com pó para concentrado para solução para perfusão contém 20 mg de
+enfortumab vedotina.
+Padcev 30 mg pó para concentrado para solução para perfusão
+Um frasco para injetáveis com pó para concentrado para solução para perfusão contém 30 mg de
+enfortumab vedotina.
+Após a reconstituição, cada ml de solução contém 10 mg de enfortumab vedotina.
+Enfortumab vedotina é composto por um anticorpo IgG1 Kappa totalmente humano, conjugado com o
+agente disruptor dos microtúbulos monometil auristatina E (MMAE) através de um ligando
+maleimidocaproil valina-citrulina clivável por protease.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Pó para concentrado para solução para perfusão.
+Pó liofilizado de cor branca a esbranquiçada.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Padcev em monoterapia está indicado para o tratamento de doentes adultos com cancro urotelial
+metastático ou localmente avançado previamente tratados com quimioterapia contendo platina e um
+inibidor do recetor de morte celular programada 1 ou do ligando de morte celular programada 1 (ver
+secção 5.1).
+
+2
+
+4.2
+
+Posologia e modo de administração
+
+O tratamento com Padcev deve ser iniciado e supervisionado por um médico com experiência na
+utilização de terapêuticas anticancerígenas. Assegurar um bom acesso venoso antes de iniciar o
+tratamento (ver secção 4.4).
+Posologia
+A dose recomendada de enfortumab vedotina é de 1,25 mg/kg (até ao máximo de 125 mg para doentes
+≥ 100 kg), administrada por perfusão intravenosa ao longo de 30 minutos nos Dias 1, 8 e 15 de um
+ciclo de 28 dias até ocorrer progressão da doença ou um nível de toxicidade inaceitável.
+Tabela 1. Reduções da dose recomendadas perante reações adversas
+Nível da dose
+Dose inicial
+
+1,25 mg/kg até 125 mg
+
+Primeira redução da dose
+
+1,0 mg/kg até 100 mg
+
+Segunda redução da dose
+
+0,75 mg/kg até 75 mg
+
+Terceira redução da dose
+
+0,5 mg/kg até 50 mg
+
+Modificações da dose
+Tabela 2. Interrupção, redução e descontinuação da dose em doentes com cancro urotelial
+metastático ou localmente avançado
+Reação adversa
+
+Reações cutâneas
+
+Gravidade*
+
+Modificação da dose*
+
+Suspeita de Síndrome de
+Stevens-Johnson (SJS) ou
+necrólise epidérmica tóxica
+(NET) ou lesões bolhosas
+
+Suspender imediatamente e referenciar para
+um especialista.
+
+SJS ou NET confirmada; Grau 4
+ou Grau 3 recorrente
+
+Descontinuar permanentemente.
+•
+•
+
+Grau 2 com agravamento
+Grau 2 com febre
+Grau 3
+
+•
+
+3
+
+Suspender até Grau ≤ 1
+Deve ser considerada a referenciação
+para um especialista
+Retomar ao mesmo nível de dose ou
+considerar reduzir a dose em um nível
+(ver Tabela 1)
+
+•
+Hiperglicemia
+
+Glicemia
+> 13,9 mmol/l (> 250 mg/dl)
+
+•
+•
+
+Pneumonite/
+doença pulmonar
+intersticial (DPI)
+
+Grau 2
+
+Grau ≥ 3
+
+Descontinuar permanentemente.
+•
+•
+
+Neuropatia
+periférica
+
+Suspender até a glicemia aumentada ter
+melhorado para ≤ 13,9 mmol/l
+(≤ 250 mg/dl)
+Retomar o tratamento ao mesmo nível
+de dose
+Suspender até Grau ≤ 1, em seguida,
+retomar com a mesma dose ou
+considerar reduzir a dose em um nível
+(ver Tabela 1)
+
+Suspender até Grau ≤ 1
+Na primeira ocorrência, retomar o
+tratamento ao mesmo nível de dose
+Se voltar a ocorrer, suspender até
+Grau ≤ 1, em seguida retomar o
+tratamento com dose reduzida em um
+nível (ver Tabela 1)
+
+Grau 2
+
+•
+
+Grau ≥ 3
+
+Descontinuar permanentemente.
+
+*Os graus de toxicidade estão de acordo com os National Cancer Institute Common Terminology
+Criteria for Adverse Events (Critérios de terminologia comum para acontecimentos adversos do
+Instituto Nacional do Cancro), versão 5.0 (NCI-CTCAE v5.0) com o seguinte significado: Grau 1 é
+ligeiro, Grau 2 é moderado, Grau 3 é grave e Grau 4 é potencialmente fatal.
+Populações especiais
+Idosos
+Não é necessário qualquer ajuste da dose em doentes ≥ 65 anos de idade (ver secção 5.2).
+Compromisso renal
+Não é necessário qualquer ajuste da dose em doentes com compromisso renal ligeiro [clearance da
+creatinina (CrCL) > 60–90 ml/min], moderado (CrCL 30–60 ml/min) ou grave (CrCL 15–
+<30 ml/min). Enfortumab vedotina não foi avaliado em doentes com doença renal em fase terminal
+(CrCL <15 ml/min) (ver secção 5.2).
+Compromisso hepático
+Não é necessário ajuste da dose em doentes com compromisso hepático ligeiro [bilirrubina total de
+1 a 1,5 × o limite superior do normal (ULN) e qualquer valor de AST, ou bilirrubina total ≤ ULN e
+AST > ULN]. Enfortumab vedotina apenas foi avaliado num número limitado de doentes com
+
+4
+
+compromisso hepático moderado e não foi avaliado em doentes com compromisso hepático grave (ver
+secção 5.2).
+População pediátrica
+Não existe utilização relevante de enfortumab vedotina na população pediátrica para a indicação de
+cancro urotelial metastático ou localmente avançado.
+Modo de administração
+Padcev destina-se a ser administrado por via intravenosa. A dose recomendada tem de ser administrada
+por perfusão intravenosa ao longo de 30 minutos. Enfortumab vedotina não pode ser administrado por
+via intravenosa sob a forma de injeção direta ou bólus.
+Para instruções acerca da reconstituição e diluição do medicamento antes da administração, ver
+secção 6.6.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+Reações cutâneas
+As reações cutâneas associadas com enfortumab vedotina são resultado da ligação de enfortumab
+vedotina à Nectina-4 expressa na pele. Febre ou sintomas gripais podem ser o primeiro sinal de uma
+reação cutânea grave, e se isso ocorrer, os doentes devem ser observados.
+Foram notificadas reações cutâneas ligeiras a moderadas, predominantemente erupção cutânea
+maculopapular (ver secção 4.8). Também ocorreram reações adversas cutâneas graves, incluindo SJS e
+NET, com desfecho fatal, em doentes tratados com enfortumab vedotina, predominantemente durante
+o primeiro ciclo de tratamento. Nos ensaios clínicos, a mediana de tempo até ao aparecimento de
+reações cutâneas graves foi de 0,6 meses (intervalo: 0,1 a 6,4).
+Os doentes devem ser monitorizados a partir do primeiro ciclo e ao longo do tratamento para detetar
+reações cutâneas. Para reações cutâneas ligeiras a moderadas, pode ser considerada a utilização de
+tratamento apropriado, tais como corticosteroides tópicos ou anti-histamínicos. Em caso de suspeita de
+SJS ou NET, ou em caso de surgirem lesões bolhosas, suspenda imediatamente o tratamento e
+referencie para um especialista; a confirmação histológica, incluindo a consideração de múltiplas
+biópsias, é fundamental para o reconhecimento precoce, pois o diagnóstico e a intervenção podem
+melhorar o prognóstico. Descontinue Padcev permanentemente se houver confirmação de SJS ou
+NET, reações cutâneas de Grau 4 ou reações cutâneas recorrentes graves. Para reações cutâneas de
+Grau 2 com agravamento, Grau 2 com febre ou reações cutâneas de Grau 3, o tratamento deve ser
+suspenso até Grau ≤1 e deve ser considerada a referenciação para um especialista. Deverá retomar o
+tratamento ao mesmo nível de dose ou considerar reduzir a dose em um nível (ver secção 4.2).
+5
+
+Pneumonite/DPI
+Ocorreu pneumonite/DPI grave, potencialmente fatal ou fatal em doentes tratados com enfortumab
+vedotina (ver secção 4.8).
+Monitorize os doentes quanto a sinais e sintomas indicativos de pneumonite/DPI, tais como hipóxia,
+tosse, dispneia ou presença de infiltrados intersticiais em exames radiológicos. Os corticosteroides
+devem ser administrados em acontecimentos adversos de Grau ≥ 2 (por ex., dose inicial 1- 2 mg/kg/dia
+de prednisona ou equivalente seguida por uma redução gradual). Suspenda Padcev em caso de
+pneumonite/DPI de Grau 2 e considere reduzir a dose. Descontinue Padcev permanentemente em caso
+de pneumonite/DPI de Grau ≥ 3 (ver secção 4.2).
+Hiperglicemia
+Ocorreu hiperglicemia e cetoacidose diabética (CAD), incluindo eventos fatais, em doentes com e sem
+diabetes mellitus preexistente e que foram tratados com enfortumab vedotina (ver secção 4.8). A
+hiperglicemia ocorreu mais frequentemente em doentes com hiperglicemia preexistente ou índice de
+massa corporal elevado (≥ 30 kg/m2). Os doentes com HbA1c basal ≥ 8% foram excluídos dos ensaios
+clínicos. A glicemia deve ser monitorizada antes da administração da dosagem e periodicamente ao
+longo do tratamento, conforme for indicado clinicamente, nos doentes com, ou em risco de diabetes
+mellitus ou hiperglicemia. Se a glicemia estiver elevada > 13,9 mmol/l (> 250 mg/dl), deve-se
+suspender Padcev até a glicemia ser ≤ 13,9 mmol/l (≤ 250 mg/dl) e proceder ao tratamento adequado
+(ver secção 4.2).
+Neuropatia periférica
+Ocorreu neuropatia periférica, predominantemente neuropatia sensitiva periférica, durante o
+tratamento com enfortumab vedotina, incluindo reações de Grau ≥ 3 (ver secção 4.8). Os doentes com
+neuropatia periférica pré-existente de Grau ≥ 2 foram excluídos dos ensaios clínicos. Os doentes
+devem ser monitorizados relativamente a sintomas de neuropatia periférica nova ou agravada, uma vez
+que estes doentes podem exigir o atraso, redução ou descontinuação da dose de enfortumab vedotina
+(ver Tabela 1). Padcev deve ser descontinuado permanentemente em caso de neuropatia periférica de
+Grau ≥ 3 (ver secção 4.2).
+Afeções oculares
+Ocorreram afeções oculares, predominantemente olho seco, em doentes tratados com enfortumab
+vedotina (ver secção 4.8). Os doentes devem ser monitorizados relativamente a afeções oculares.
+Considere a utilização de lágrimas artificiais como profilaxia para o olho seco e reencaminhamento
+para avaliação oftalmológica se os sintomas oculares se agravarem ou não melhorarem.
+Extravasão do local da infusão
+Foram observadas lesões da pele e dos tecidos moles após a administração de enfortumab vedotina
+quando houve ocorrência de extravasamento (ver secção 4.8). Assegure uma boa qualidade do acesso
+venoso antes de iniciar a administração de Padcev e efetue monitorização relativamente a possível
+extravasão do local de infusão durante a administração. Se ocorrer extravasamento, interrompa a
+perfusão e monitorize as reações adversas.
+
+6
+
+Toxicidade embriofetal e contraceção
+As mulheres grávidas devem ser informadas sobre o potencial risco para o feto (ver secções 4.6 e 5.3).
+As doentes do sexo feminino com potencial para engravidar devem ser aconselhadas a realizar um
+teste da gravidez no espaço de 7 dias antes de iniciar o tratamento com enfortumab vedotina, e a
+utilizar métodos contracetivos eficazes durante o tratamento e durante pelo menos 12 meses após a
+interrupção do tratamento. Os homens a receber tratamento com enfortumab vedotina são
+aconselhados a não conceberem filhos durante o tratamento e até 9 meses após a última dose de
+Padcev.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Não foram realizados estudos formais de interação fármaco-fármaco com enfortumab vedotina. A
+administração concomitante de enfortumab vedotina e medicamentos metabolizados pelo CYP3A4
+(substratos) não representa um risco clinicamente relevante de indução de interações farmacocinéticas
+(ver secção 5.2).
+Efeitos de outros medicamentos sobre enfortumab vedotina
+
+Inibidores, substratos ou indutores do CYP3A4
+Com base num modelo farmacocinético de base fisiológica (PBPK), a utilização concomitante de
+enfortumab vedotina com cetoconazol (uma gp-P combinada e um inibidor forte do CYP3A) está
+prevista aumentar a Cmáx de MMAE e a AUC exposta em menor grau, sem alteração da exposição ao
+conjugado anticorpo-fármaco (CAF). É recomendada precaução no caso de tratamento
+concomitante com inibidores do CYP3A4. Os doentes que estejam a receber inibidores fortes do
+CYP3A4 concomitantemente (p. ex., boceprevir, claritromicina, cobicistate, indinavir, itraconazol,
+nefazodona, nelfinavir, posaconazol, ritonavir, saquinavir, telaprevir, telitromicina, voriconazol)
+devem ser monitorizados mais cuidadosamente quanto a sinais de toxicidade.
+Não está previsto que MMAE não conjugado altere a AUC de medicamentos concomitantes que sejam
+substratos do CYP3A4 (p. ex., midazolam).
+Indutores fortes do CYP3A4 (p. ex., rifampicina, carbamazepina, fenobarbital, fenitoína, erva-de-sãojoão [Hypericum perforatum]) podem diminuir a exposição de MMAE não conjugado com efeito
+moderado (ver secção 5.2).
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar/contraceção nos doentes do sexo masculino e feminino
+Recomenda-se que as doentes do sexo feminino com potencial para engravidar realizem testes da
+gravidez no período de 7 dias antes de iniciar o tratamento. As doentes do sexo feminino com
+potencial para engravidar devem ser aconselhadas a utilizar métodos contracetivos eficazes durante o
+tratamento e, pelo menos, 12 meses depois de interromper o tratamento. Os homens a receber
+tratamento com enfortumab vedotina são aconselhados a não conceberem filhos durante o tratamento e
+até 9 meses após a última dose de Padcev.
+Gravidez
+Padcev pode ser nocivo para o feto quando administrado em mulheres grávidas, com base nas
+observações dos estudos em animais. Os estudos do desenvolvimento embriofetal em ratos do sexo
+7
+
+feminino demonstraram que a administração intravenosa de enfortumab vedotina resultou na redução
+do número de fetos viáveis, redução do tamanho da ninhada e aumento das reabsorções precoces (ver
+secção 5.3). Padcev não é recomendado durante a gravidez e em mulheres com potencial para
+engravidar que não utilizam métodos contracetivos eficazes.
+Amamentação
+Desconhece-se se enfortumab vedotina é excretado no leite humano. Não pode ser excluído qualquer
+risco para os lactentes. A amamentação deve ser descontinuada durante o tratamento com Padcev e
+durante, pelo menos, 6 meses após a última dose.
+Fertilidade
+Nos ratos, a administração de doses repetidas de enfortumab vedotina resultou em toxicidade testicular
+e pode comprometer a fertilidade masculina. O MMAE demonstrou ter propriedades aneugénicas (ver
+secção 5.3). Por isso, os homens a receber tratamento com este medicamento são aconselhados a
+congelar e armazenar amostras do esperma antes do tratamento. Não existem dados sobre o efeito de
+Padcev na fertilidade humana.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Padcev sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezáveis.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas mais frequentes com enfortumab vedotina foram alopécia (48,8%), fadiga
+(46,8%), apetite diminuído (44,9%), neuropatia sensitiva periférica (38,7%), diarreia (37,6%), náuseas
+(36%), prurido (33,4%), disgeusia (29,9%), anemia (26,5%), peso diminuído (23,4%), erupção cutânea
+maculopapular (22,9%), xerose cutânea (21,6%), vómito (18,4%), aspartato aminotransferase
+aumentada (15,3%), hiperglicemia (13,1%), olho seco (12,8%), alanina aminotransferase aumentada
+(12,1%) e erupção cutânea (10,4%).
+As reações adversas graves mais frequentes foram diarreia (2%) e hiperglicemia (2%). Nove por cento
+dos doentes descontinuaram permanentemente enfortumab vedotina devido a reações adversas; a
+reação adversa mais frequente (≥ 2%) que resultou na descontinuação da dose foi a neuropatia
+sensitiva periférica (4%). Ocorreram reações adversas que resultaram na interrupção da dose em 44%
+dos doentes; as reações adversas mais frequentes (≥ 2%) que resultaram na interrupção da dose foram
+neuropatia sensitiva periférica (15%), fadiga (7%), erupção maculopapular (4%), aspartato
+aminotransferase aumentada (4%), alanina aminotransferase aumentada (4%), anemia (3%), diarreia
+(3%) e hiperglicemia (3%). Trinta por cento dos doentes necessitaram de uma redução da dose devido
+a uma reação adversa; as reações adversas mais frequentes (≥ 2%) que resultaram numa redução da
+dose foram neuropatia sensitiva periférica (10%), fadiga (5%), erupção maculopapular (4%) e apetite
+diminuído (2%).
+Resumo tabelado de reações adversas
+A segurança de enfortumab vedotina em monoterapia foi avaliada em 680 doentes com cancro
+urotelial metastático ou localmente avançado a receber 1,25 mg/kg nos Dias 1, 8 e 15 de um ciclo de
+
+8
+
+28 dias nos estudos clínicos (ver Tabela 3). Os doentes foram expostos a enfortumab vedotina com
+uma mediana de tempo durante 4,7 meses (intervalo: 0,3 a 34,8 meses).
+As reações adversas observadas durante os estudos clínicos estão listadas nesta secção por categoria de
+frequência. As categorias de frequência estão definidas da seguinte forma: muito frequentes (≥ 1/10);
+frequentes (≥ 1/100 a < 1/10); pouco frequentes (≥ 1/1 000 a < 1/100); raros (≥ 1/10 000 a < 1/1 000);
+muito raros (< 1/10 000); desconhecido (não pode ser calculado a partir dos dados disponíveis). Dentro
+de cada grupo de frequência, as reações adversas são apresentadas por ordem decrescente de
+gravidade.
+Tabela 3. Reações adversas
+Doenças do sangue e do sistema linfático
+Muito frequentes
+Anemia
+Neutropenia, neutropenia febril, número de neutrófilos
+Desconhecido1
+diminuído
+Doenças do metabolismo e da nutrição
+Muito frequentes
+Hiperglicemia, apetite diminuído
+Doenças do sistema nervoso
+Muito frequentes
+Neuropatia sensitiva periférica, disgeusia
+Neuropatia periférica, neuropatia motora periférica,
+Frequentes
+neuropatia sensomotora periférica, parestesia,
+hipostesia, perturbação da marcha, fraqueza muscular
+Polineuropatia desmielinizante, polineuropatia,
+neurotoxicidade, disfunção motora, disestesia, atrofia
+Pouco frequentes
+muscular, neuralgia, paralisia do nervo peronial, perda
+sensorial, sensação de ardor na pele, sensação de ardor
+Afeções oculares
+Muito frequentes
+Olho seco
+Doenças respiratórias, torácicas e do mediastino
+Frequentes
+Pneumonite
+Pouco frequentes
+Doença pulmonar intersticial
+Doenças gastrointestinais
+Muito frequentes
+Diarreia, vómito, náusea
+Afeções dos tecidos cutâneos e subcutâneos
+Alopécia, prurido, erupção cutânea, erupção
+Muito frequentes
+maculopapular, xerose cutânea
+Erupção medicamentosa, exfoliação cutânea,
+conjuntivite, dermatite bolhosa, bolha, estomatite,
+síndrome de eritrodisestesia palmoplantar, eczema,
+Frequentes
+eritema, erupção eritematosa, erupção maculosa,
+erupção papulosa, erupção pruriginosa, erupção
+vesiculosa
+Dermatite exfoliativa generalizada, eritema
+multiforme, erupção exfoliativa, penfigoide, erupção
+Pouco frequentes
+maculovesicular, dermatite, dermatite alérgica,
+dermatite de contacto, intertrigo, irritação cutânea,
+dermatite de estase, vesícula sanguinolenta
+
+9
+
+Necrólise epidérmica tóxica, síndrome de
+Stevens-Johnson, necrose epidérmica, Exantema
+Desconhecido1
+flexural e intertriginoso simétrico relacionado com
+fármacos
+Perturbações gerais e alterações no local de administração
+Fadiga
+Muito frequentes
+Extravasão do local da perfusão
+Frequentes
+Exames complementares de diagnóstico
+Alanina aminotransferase aumentada, aspartato
+Muito frequentes
+aminotransferase aumentada, peso diminuído
+Com base na experiência global após a comercialização.
+
+1
+
+Descrição de reações adversas selecionadas
+Imunogenicidade
+No total, 590 doentes foram testados relativamente à imunogenicidade para enfortumab vedotina
+1,25 mg/kg; 15 doentes tiveram confirmação no início do estudo de positividade para anticorpos
+antifármaco (AAF) e, nos doentes negativos no início do estudo (N=575), um total de 16 (2,8%) eram
+positivos após o início do estudo (13 temporariamente e 3 persistentemente). Devido ao número
+limitado de doentes com anticorpos contra Padcev, não podem ser retiradas conclusões sobre um
+possível efeito da imunogenicidade sobre a eficácia, a segurança ou a farmacocinética.
+Reações cutâneas
+Nos estudos clínicos, ocorreram reações cutâneas em 55% (375) dos 680 doentes tratados com
+enfortumab vedotina 1,25 mg/kg. Ocorreram reações cutâneas graves (grau 3 ou 4) em 13% (85) dos
+doentes e uma maioria destas reações incluiu erupção cutânea maculopapular, erupção eritematosa,
+erupção cutânea ou erupção medicamentosa. A mediana de tempo até ao aparecimento de reações
+cutâneas graves foi de 0,62 meses (intervalo: 0,1 a 6,4 meses). Ocorreram reações cutâneas graves
+em 3,8% (26) dos doentes.
+No estudo clínico EV-201 (N=214), entre os doentes que apresentaram reações cutâneas, 75%
+apresentaram uma resolução total e 14% apresentaram uma melhoria parcial (ver secção 4.4).
+Pneumonite/DPI
+Nos estudos clínicos, ocorreu pneumonite em 15 (2,2%) e ocorreu DPI em 2 (0,3%) dos 680 doentes
+tratados com enfortumab vedotina 1,25 mg/kg. Menos de 1% dos doentes apresentaram pneumonite ou
+doença pulmonar intersticial grave (Grau 3-4). A Pneumonite e DPI levaram a descontinuação de
+enfortumab vedotina em 0,1% e 0,3% dos doentes, respetivamente. Não existiram mortes por DPI ou
+pneumonite. A mediana de tempo até ao aparecimento de qualquer grau de pneumonite ou DPI foi 3,6
+meses (intervalo: 0,8 a 6,0 meses) e a mediana de duração foi 1,4 meses (intervalo: 0,2 a 27,5 meses).
+Dos 17 doentes que experienciaram pneumonite ou DPI, 6 (35,3%) tiveram resolução dos sintomas.
+Hiperglicemia
+Nos estudos clínicos, ocorreu hiperglicemia (glicemia > 13,9 mmol/l) em 14% (98) dos 680 doentes
+tratados com enfortumab vedotina 1,25 mg/kg. Ocorreram eventos graves de hiperglicemia em
+10
+
+2,2% dos doentes, 7% dos doentes desenvolveram hiperglicemia grave (Grau 3-4) e 0,3% dos doentes
+tiveram eventos fatais: um evento de hiperglicemia e um evento de cetoacidose diabética. A incidência
+de hiperglicemia de Grau 3-4 aumentou consistentemente em doentes com maior índice de massa
+corporal e em doentes com um maior nível de hemoglobina A1C (HbA1c) no início do estudo. A
+mediana de tempo até ao aparecimento de hiperglicemia foi de 0,6 meses (intervalo: 0,1 a 20,3).
+No estudo clínico EV-201 (N=214), no momento da última avaliação, 61% dos doentes apresentaram
+uma resolução total e 19% apresentaram uma melhoria parcial (ver secção 4.4).
+Neuropatia periférica
+Nos estudos clínicos, ocorreu neuropatia periférica em 52% (352) dos 680 doentes tratados com
+enfortumab vedotina 1,25 mg/kg. Quatro por cento dos doentes apresentaram neuropatia periférica
+grave (Grau 3-4), incluindo acontecimentos sensoriais e motores. A mediana de tempo até ao
+aparecimento de Grau ≥ 2 foi de 4,6 meses (intervalo: 0,1 a 15,8).
+No estudo clínico EV-201 (N=214), no momento da última avaliação, 19% dos doentes apresentaram
+uma resolução total e 39% apresentaram uma melhoria parcial (ver secção 4.4).
+Afeções oculares
+Nos estudos clínicos, 30% dos doentes apresentaram olho seco durante o tratamento com enfortumab
+vedotina 1,25 mg/kg. O tratamento foi interrompido em 1,3% dos doentes e 0,1% dos doentes
+descontinuaram o tratamento permanentemente devido ao olho seco. Olho seco grave (Grau 3) apenas
+ocorreu em 3 doentes (0,4%). A mediana de tempo até ao aparecimento de olho seco foi de 1,7 meses
+(intervalo: 0 a 19,1 meses) (ver secção 4.4).
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Não existe nenhum antídoto conhecido para a sobredosagem com enfortumab vedotina. Em caso de
+sobredosagem, o doente deve ser cuidadosamente monitorizado quanto a reações adversas e o
+tratamento de suporte deve ser administrado conforme apropriado, tendo em consideração a semivida
+de 3,6 dias (CAF) e de 2,6 dias (MMAE).
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: agentes antineoplásicos, outros agentes antineoplásicos, anticorpos
+monoclonais, código ATC: L01FX13
+
+11
+
+Mecanismo de ação
+Enfortumab vedotina é um conjugado anticorpo-fármaco (CAF) dirigido à Nectina-4, uma proteína de
+adesão localizada na superfície das células do cancro urotelial. É constituído por um anticorpo IgG1
+Kappa totalmente humano, conjugado com o agente disruptor de antimicrotúbulos MMAE através de
+um ligando maleimidocaproil valina-citrulina clivável por protease. Os dados não clínicos sugerem
+que a atividade anticancerígena de enfortumab vedotina se deve à ligação do CAF às células com
+expressão da Nectina-4, seguida pela internalização do complexo CAF-Nectina-4 e a libertação de
+MMAE por clivagem proteolítica. A libertação de MMAE desagrega a rede de microtúbulos no
+interior da célula e induz subsequentemente a paragem do ciclo celular e a morte celular por apoptose.
+O MMAE libertado pelas células alvo de enfortumab vedotina pode difundir-se para células
+circundantes com baixa expressão de Nectina-4, resultando em morte celular citotóxica.
+Eletrofisiologia cardíaca
+Na dose recomendada de 1,25 mg/kg, com base nos dados de ECG obtidos de um estudo em doentes
+com cancro urotelial avançado, enfortumab vedotina não prolongou o intervalo QTc médio numa
+extensão clinicamente relevante.
+Eficácia e segurança clínicas
+Cancro urotelial metastático
+EV-301
+A eficácia de Padcev foi avaliada no estudo EV-301, um estudo em regime aberto, aleatorizado,
+multicêntrico de fase 3 que incluiu 608 doentes com cancro urotelial metastático ou localmente
+avançado previamente tratados com quimioterapia contendo platina e um inibidor do recetor de morte
+celular programada 1 (PD-1) ou do ligando de morte celular programada 1 (PD-L1). O endpoint
+primário do estudo foi a Sobrevivência Global (OS) e os endpoints secundários incluíram
+Sobrevivência Livre de Progressão (PFS) e Taxa de Resposta Objetiva (ORR) [PFS e ORR foram
+avaliadas pelo investigador usando RECIST v1.1]. Os doentes foram aleatorizados 1:1 para receber
+enfortumab vedotina 1,25 mg/kg nos Dias 1, 8 e 15 de um ciclo de 28 dias ou uma das seguintes
+quimioterapias, de acordo com a decisão do investigador: docetaxel 75 mg/m2 (38%), paclitaxel
+175 mg/m2 (36%) ou vinflunina 320 mg/m2 (25%) no Dia 1 de um ciclo de 21 dias.
+Foram excluídos do estudo os doentes com metástases ativas no SNC, neuropatia sensitiva ou motora
+atual de grau ≥ 2, antecedentes conhecidos de infeção pelo vírus da imunodeficiência humana (VIH,
+com VIH 1 ou 2), hepatite B ou C ativa, ou diabetes não controlada, definida como HbA1c ≥ 8% ou
+HbA1c ≥ 7% com sintomas de diabetes associados.
+A idade média foi de 68 anos (intervalo: 30 a 88 anos), sendo 77% dos doentes do sexo masculino e a
+maioria dos doentes de raça branca (52%) ou asiática (33%). Todos os doentes apresentavam um
+estado de desempenho do Eastern Cooperative Oncology Group de 0 (40%) ou 1 (60%) no início do
+estudo. Noventa e cinco por cento (95%) dos doentes tinham doença metastática e 5% tinham doença
+localmente avançada. Oitenta por cento dos doentes apresentavam metástases viscerais, incluindo 31%
+com metástases hepáticas. Setenta e seis por cento dos doentes apresentavam histologia de cancro
+urotelial/cancro de células de transição (CCT), 14% apresentavam cancro urotelial misto e
+aproximadamente 10% tinham outras variantes histológicas. No total, 76 (13%) doentes tinham
+recebido ≥ 3 linhas de terapêutica sistémica anterior. Cinquenta e dois por cento (314) dos doentes
+12
+
+tinham recebido anteriormente um inibidor do PD-1, 47% (284) receberam anteriormente um inibidor
+do PD-L1 e, adicionalmente, 1% (9) dos doentes tinham recebido anteriormente inibidores do PD-1 e
+do PD-L1. Apenas 18% (111) dos doentes apresentaram resposta à terapêutica anterior com um
+inibidor do PD-1 ou PD-L1. Sessenta e três por cento (383) dos doentes tinham recebido anteriormente
+regimes baseados em cisplatina, 26% (159) tinham recebido anteriormente regimes baseados em
+carboplatina e, adicionalmente, 11% (65) receberam regimes baseados em cisplatina e carboplatina.
+A Tabela 4 resume os resultados da eficácia no estudo EV-301, após uma mediana de tempo
+acompanhada de 11,1 meses (95% IC: 10,6 a 11,6).
+
+Tabela 4. Resultados da eficácia no estudo EV-301
+Parâmetro de avaliação final
+Sobrevivência global
+Número (%) de doentes com eventos
+Mediana, em meses (IC 95%)
+
+Padcev
+n=301
+
+Quimioterapia
+n=307
+
+134 (44,5)
+
+167 (54,4)
+
+12,9 (10,6; 15,2)
+
+9,0 (8,1; 10,7)
+
+Hazard ratio (IC 95%)
+
+0,702 (0,556; 0,886)
+
+Valor p unilateral
+
+0,00142*
+
+Sobrevivência livre de progressão†
+Número (%) de doentes com eventos
+Mediana, em meses (IC 95%)
+
+201 (66,8)
+
+231 (75,2)
+
+5,6 (5,3; 5,8)
+
+3,7 (3,5; 3,9)
+
+Hazard ratio (IC 95%)
+
+0,615 (0,505; 0,748)
+
+Valor p unilateral
+
+< 0,00001‡
+
+Taxa de resposta objetiva (RC + RP)†
+ORR (%) (IC 95%)
+
+40,6 (35,0; 46,5)
+
+Valor p unilateral
+
+< 0,001
+
+17,9 (13,7; 22,8)
+§
+
+Taxa de resposta completa (%)
+
+4,9
+
+2,7
+
+Taxa de resposta parcial (%)
+
+35,8
+
+15,2
+
+7,4 (5,6; 9,5)
+
+8,1 (5,7; 9,6)
+
+Duração da resposta nos doentes com resposta
+Mediana, em meses (IC 95%)
+
+*limite de eficácia pré-determinado = 0,00679, unilateral (ajustado em função das 301 mortes
+observadas)
+†avaliado pelo investigador de acordo com os critérios RECIST v1.1
+‡
+limite de eficácia pré-determinado = 0,02189, unilateral (ajustado em função dos 432
+acontecimentos PFS1 observados)
+§
+limite de eficácia pré-determinado = 0,025, unilateral (ajustado pela fração de informação de
+100%)
+
+13
+
+Figura 1. Gráfico de Kaplan Meier da sobrevivência global
+
+Probabilidade de sobrevivência
+
+1,0
+
+Enfortumab vedotina
+Enfortumab vedotina
+
+Quimioterapia
+Quimioterapia censurada
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+
+N em
+
+Duração da sobrevivência global (meses)
+
+Enfortumab vedotina
+Quimioterapia
+
+População pediátrica
+A Agência Europeia de Medicamentos dispensou a obrigação de apresentação dos resultados dos
+estudos com enfortumab vedotina em todos os subgrupos da população pediátrica com cancro urotelial
+(ver secção 4.2 para informação sobre utilização pediátrica).
+5.2
+
+Propriedades farmacocinéticas
+
+Distribuição
+A estimativa média do volume de distribuição do CAF no estado estacionário foi de 12,8 l após
+1,25 mg/kg de enfortumab vedotina. In vitro, a ligação de MMAE às proteínas plasmáticas humanas
+situou-se entre 68% e 82%. Não é provável que o MMAE desloque ou seja deslocada por
+medicamentos com forte ligação a proteínas. Os estudos in vitro indicam que o MMAE é um substrato
+da glicoproteína-P.
+Biotransformação
+Uma pequena fração de MMAE libertada por enfortumab vedotina é metabolizada. Os dados in vitro
+indicam que o metabolismo de MMAE ocorre principalmente por oxidação através do CYP3A4.
+Eliminação
+A clearance média do CAF e de MMAE não conjugado nos doentes foi de 0,11 l/h e 2,11 l/h,
+respetivamente. A eliminação do CAF apresentou um declínio multiexponencial, com uma semivida
+de 3,6 dias.
+A eliminação de MMAE aparentou estar limitada pela taxa de libertação a partir de enfortumab
+vedotina. A eliminação de MMAE apresentou um declínio multiexponencial, com uma semivida de
+2,6 dias.
+
+14
+
+Excreção
+A excreção de MMAE ocorre principalmente nas fezes, com uma menor proporção na urina. Após
+uma única dose de outro CAF que continha MMAE, aproximadamente 24% do total de MMAE
+administrado foi recuperado nas fezes e urina como MMAE inalterado ao longo de um período de
+1 semana. A maioria de MMAE recuperada foi excretada nas fezes (72%). É esperado um perfil de
+excreção semelhante para o MMAE após a administração de enfortumab vedotina.
+Populações especiais
+Idosos
+A análise da farmacocinética da população indica que a idade [intervalo: 24 a 90 anos;
+60% (450/748) > 65 anos, 19% (143/748) > 75 anos] não tem um efeito clinicamente significativo na
+farmacocinética de enfortumab vedotina.
+Raça e género
+Com base na análise da farmacocinética da população, a raça [69% (519/748) de raça branca,
+21% (158/748) de raça asiática, 1% (10/748) de raça negra e 8% (61/748) de raça desconhecida ou
+outra] e o género [73% (544/748) do sexo masculino] não têm um efeito clinicamente significativo
+sobre a farmacocinética de enfortumab vedotina.
+Compromisso renal
+A farmacocinética do CAF e de MMAE não conjugado foi avaliada após a administração de
+1,25 mg/kg de enfortumab vedotina em doentes com compromisso renal ligeiro (CrCL >60–
+90 ml/min; n=272), moderado (CrCL 30–60 ml/min; n=315) e grave (CrCL 15–<30 ml/min; n=25).
+Não foram observadas diferenças significativas na exposição AUC do CAF ou de MMAE não
+conjugado em doentes com compromisso renal ligeiro, moderado ou grave, em comparação com
+doentes com função renal normal. Enfortumab vedotina não foi avaliado em doentes com doença renal
+em fase terminal (CrCL <15 ml/min).
+Compromisso hepático
+Com base na análise da farmacocinética da população utilizando dados dos estudos clínicos em
+doentes com cancro urotelial metastático, não foram observadas diferenças significativas na exposição
+do CAF e foi observado um aumento de 37% da AUC de MMAE em doentes com compromisso
+hepático ligeiro (bilirrubina total de 1 a 1,5 x ULN e qualquer valor de AST, ou bilirrubina
+total ≤ ULN e AST > ULN, n=65) em comparação com doentes com função hepática normal.
+Enfortumab vedotina apenas foi estudado num número limitado de doentes com compromisso hepático
+moderado (n = 3) e não foi avaliado em doentes com compromisso hepático grave. Desconhece-se o
+efeito do compromisso hepático moderado ou grave (bilirrubina total > 1,5 x ULN e qualquer
+valor de AST) ou da transplantação hepática sobre a farmacocinética do CAF ou de MMAE não
+conjugado.
+
+15
+
+Previsões do modelo farmacocinético de base fisiológica
+A utilização concomitante de enfortumab vedotina com cetoconazol (uma gp-P combinada e inibidor
+forte do CYP3A) prevê o aumento da Cmáx de MMAE não conjugada e a AUC exposta em menor grau,
+sem alteração na exposição do CAF.
+A utilização concomitante de enfortumab vedotina com rifampicina (uma gp-P combinada e indutor
+forte do CYP3A) prevê a diminuição da Cmáx de MMAE não conjugado e a AUC exposta com efeito
+moderado, sem alteração na exposição do CAF. O impacto total da rifampicina na Cmáx de MMAE
+pode ser subestimado no modelo PBPK.
+A utilização concomitante de enfortumab vedotina não tem efeito previsto sobre a exposição de
+midazolam (um substrato sensível do CYP3A). Os estudos in vitro com microssomas hepáticos
+humanos indicam que o MMAE inibe o CYP3A4/5, mas não outras isoformas do CYP450. O MMAE
+não induziu as principais enzimas do CYP450 em hepatócitos humanos.
+Estudos in vitro
+
+Os estudos in vitro indicam que o MMAE é um substrato e não um inibidor do transportador de
+efluxo glicoproteína-P (gp-P). Os estudos in vitro determinaram que o MMAE não foi um substrato da
+
+proteína de resistência ao cancro da mama (BCRP), da proteína associada a resistência a múltiplos
+fármacos 2 (MRP2), do polipeptídeo transportador de aniões orgânicos 1B1 ou 1B3 (OATP1B1 ou
+OATP1B3), do transportador de catiões orgânicos 2 (OCT2) ou do transportador de aniões orgânicos 1
+ou 3 (OAT1 ou OAT3). O MMAE não foi um inibidor da bomba exportadora de sais biliares (BSEP),
+gp-P, BCRP, MRP2, OCT1, OCT2, OAT1, OAT3, OATP1B1 ou OATP1B3 em concentrações
+clinicamente relevantes.
+5.3
+
+Dados de segurança pré-clínica
+
+Os estudos da genotoxicidade demonstraram que o MMAE não tem potencial genotóxico discernível
+num teste de mutação inversa em bactérias (teste de Ames) ou num ensaio de mutação em linfoma de
+ratinho L5178Y TK+/-. O MMAE induziu aberrações cromossomáticas no teste do micronúcleo em
+ratos, o que é consistente com a ação farmacológica dos agentes disruptores de microtúbulos.
+Foram observadas lesões cutâneas em estudos de dose repetida em ratos (4 e 13 semanas) e em
+macacos (4 semanas). As alterações cutâneas foram totalmente reversíveis no final do período de
+recuperação de 6 semanas.
+A hiperglicemia notificada nos estudos clínicos esteve ausente em ambos os estudos de toxicidade em
+ratos e em macacos e não foram encontradas evidências histopatológicas no pâncreas de qualquer uma
+destas espécies.
+Foi observada toxicidade fetal (redução do tamanho da ninhada ou perda total da ninhada) e a redução
+do tamanho da ninhada refletiu-se num aumento de reabsorções precoces. O peso corporal médio dos
+fetos sobreviventes no nível de dose de 2 mg/kg apresentou-se reduzido em comparação com o
+controlo.
+As alterações esqueléticas do feto associadas a enfortumab vedotina foram consideradas atrasos de
+desenvolvimento. Uma dose de 2 mg/kg (aproximadamente semelhante à exposição na dose
+recomendada para o ser humano) resultou em toxicidade materna, letalidade embriofetal e
+16
+
+malformações estruturais que incluíram gastrosquise, má rotação de membro posterior, ausência de
+pata dianteira, má posição de órgãos internos e fusão do arco cervical. Adicionalmente, foram
+observadas anomalias esqueléticas (assimetria, fusão, ossificação incompleta e deformação das
+estérnebras, deformação do arco cervical e ossificação unilateral dos centros torácicos) e peso fetal
+diminuído.
+Foi observada toxicidade testicular, apenas nos ratos, que foi parcialmente revertida no final do
+período de recuperação de 24 semanas.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Histidina
+Cloridrato de histidina monohidratado
+Trealose dihidratada
+Polissorbato 20
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros
+medicamentos.
+6.3
+
+Prazo de validade
+
+Frasco para injetáveis por abrir
+3 anos.
+Solução reconstituída no frasco para injetáveis
+Do ponto de vista microbiológico, após a reconstituição, a solução do(s) frasco(s) para injetáveis deve
+ser adicionada ao saco de perfusão imediatamente. Se não forem utilizados imediatamente, os tempos
+e condições de conservação antes da utilização dos frascos para injetáveis reconstituídos são da
+responsabilidade do utilizador e normalmente não deverão ser superiores a 24 horas em refrigeração a
+2°C–8°C. Não congelar.
+Solução para dosagem diluída no saco de perfusão
+Do ponto de vista microbiológico, após a diluição no saco de perfusão, a solução diluída no saco deve
+ser administrada ao doente imediatamente. Se não for utilizada imediatamente, os tempos e condições
+de conservação antes da utilização da solução para dosagem diluída são da responsabilidade do
+utilizador e normalmente não deverão ser superiores a 16 horas em refrigeração a 2°C–8°C, incluindo
+o tempo de perfusão. Não congelar.
+6.4
+
+Precauções especiais de conservação
+
+Frascos para injetáveis por abrir
+Conservar no frigorífico (2°C–8°C).
+Não congelar.
+Condições de conservação do medicamento após reconstituição e diluição, ver secção 6.3.
+
+17
+
+6.5
+
+Natureza e conteúdo do recipiente
+
+Frasco para injetáveis de Padcev 20 mg pó para concentrado para solução para perfusão
+Frasco para injetáveis de 10 ml, de vidro transparente tipo I, com rolha cinzenta em borracha de
+bromobutilo, selo de alumínio de 20 mm com anel verde e cápsula de fecho verde. Cada embalagem
+contém 1 frasco para injetáveis.
+Frasco para injetáveis de Padcev 30 mg pó para concentrado para solução para perfusão
+Frasco para injetáveis de 10 ml, de vidro transparente tipo I, com rolha cinzenta em borracha de
+bromobutilo, selo de alumínio de 20 mm com anel prateado e tampa amarela. Cada embalagem contém
+1 frasco para injetáveis.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+Instruções para a preparação e administração
+Reconstituição no frasco para injetáveis monodose
+1.
+2.
+3.
+4.
+
+5.
+
+6.
+
+Siga os procedimentos relativos ao correto manuseamento e eliminação de medicamentos
+anticancerígenos.
+Utilize uma técnica assética apropriada para a reconstituição e preparação das soluções para
+dosagem.
+Calcule a dose recomendada com base no peso do doente para determinar o número e dosagem
+(20 mg ou 30 mg) dos frascos para injetáveis necessários.
+Proceda à reconstituição de cada frasco para injetáveis conforme descrito em seguida e, se
+possível, direcione o jato de água estéril para injetáveis ao longo das paredes do frasco para
+injetáveis e não diretamente para o pó liofilizado.
+a. Frasco para injetáveis de 20 mg: Adicione 2,3 ml de água estéril para injetáveis, obtendo
+10 mg/ml de enfortumab vedotina.
+b. Frasco para injetáveis de 30 mg: Adicione 3,3 ml de água estéril para injetáveis, obtendo
+10 mg/ml de enfortumab vedotina.
+Rode cada frasco para injetáveis lentamente até dissolver o conteúdo totalmente. Deixe o(s)
+frasco(s) para injetáveis assentar durante, pelo menos, 1 minuto até as bolhas desaparecerem.
+Não agite os frascos para injetáveis.
+Examine a solução visualmente para verificar a presença de partículas e descoloração. A solução
+reconstituída deve ser transparente a ligeiramente opalescente, incolor a ligeiramente amarela e
+isenta de partículas visíveis. Elimine qualquer frasco para injetáveis que apresente partículas
+visíveis ou descoloração.
+
+Diluição no saco de perfusão
+7.
+8.
+
+Recolha a quantidade de dose calculada de solução reconstituída do(s) frasco(s) para injetáveis e
+transfira para um saco de perfusão.
+Dilua enfortumab vedotina com uma solução injetável de dextrose a 50 mg/ml (5%), cloreto de
+sódio a 9 mg/ml (0,9%) ou lactato de Ringer. O tamanho do saco de perfusão deve ter
+capacidade para adicionar solvente suficiente até obter uma concentração final de 0,3 mg/ml a
+4 mg/ml de enfortumab vedotina.
+
+18
+
+A solução de dosagem diluída de enfortumab vedotina é compatível com sacos de perfusão
+intravenosa constituídos por cloreto de polivinil (PVC), etil-vinil acetato, poliolefina tal como
+polipropileno (PP), ou frascos para injetáveis IV constituídos por polietileno (PE), polietileno
+tereftalato glicol modificado e conjuntos de perfusão constituídos por PVC com plastificante (bis(2etilhexil)ftalato (DEHP) ou tris(2-etilhexil)trimelitato (TOTM)), PE e com membranas de filtro
+(tamanho dos poros: 0, 2 – 1,2 μm) constituídas por polietersulfona, difluoreto de polivinilideno ou
+ésteres de celulose mistos.
+9.
+10.
+
+11.
+
+Homogeneíze a solução diluída por inversão suave. Não agite o saco.
+Examine o saco de perfusão visualmente para verificar a presença de partículas e descoloração
+antes da utilização. A solução reconstituída deve ser transparente a ligeiramente opalescente,
+incolor a ligeiramente amarela e isenta de partículas visíveis. Não utilize o saco de perfusão se
+observar partículas ou descoloração.
+Elimine qualquer porção não utilizada restante nos frascos para injetáveis monodose.
+
+Administração
+12.
+
+Administre a perfusão ao longo de 30 minutos, através de uma linha intravenosa. Não
+administre como bólus ou injeção intravenosa direta.
+
+Não foram observadas incompatibilidades entre a solução reconstituída e dispositivos de transferência
+de sistema fechado constituídos por acrilonitrila butadieno estireno (ABS), acrílico, carvão ativado,
+monómero de etileno propileno dieno, ABS de metacrilato, policarbonato, poliisopreno,
+polioximetileno, PP, silicone, aço inoxidável, elastómero termoplástico.
+13.
+14.
+
+Não coadministre outros medicamentos através da mesma linha de perfusão.
+Durante a administração, recomenda-se a utilização de filtros em linha ou filtros de seringa
+(tamanho dos poros: 0,2 – 1,2 μm; materiais recomendados: polietersulfona, difluoreto de
+polivinilideno, ésteres mistos de celulose).
+
+Eliminação
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+8.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1615/001
+EU/1/21/1615/002
+
+19
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 13 abril 2022
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+MM/YYYY
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+20
+
+ANEXO II
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA E
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+21
+
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA E FABRICANTE
+RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante da substância ativa de origem biológica
+Lonza AG
+Lonzastrasse
+Visp, 3930
+Suíça
+Nome e endereço do fabricante responsável pela libertação do lote
+Astellas Ireland Co. Limited,
+Killorglin, Co. Kerry
+V93 FC86
+Irlanda
+O folheto informativo que acompanha o medicamento tem de mencionar o nome e endereço do
+fabricante responsável pela libertação do lote em causa.
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+Anexo I: Resumo das Características do Medicamento, secção 4.2).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+−
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+O Titular da Autorização de Introdução no Mercado (AIM) deverá apresentar o primeiro RPS para este
+medicamento no prazo de 6 meses após a concessão da autorização.
+D.
+−
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+• A pedido da Agência Europeia de Medicamentos
+• Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+22
+
+- Medidas adicionais de minimização do risco
+Antes da utilização de Padcev cada Estado Membro deve acordar com a Autoridade Competente
+Nacional, o conteúdo e formato do programa educacional, incluindo a comunicação nos media,
+modalidades de distribuição, e outros aspetos do programa.
+O titular de AIM deve assegurar que em cada Estado Membro onde o Padcev é comercializado, todos
+os profissionais de saúde que devem prescrever Padcev recebam os seguintes materiais:
+Pack de informação para o doente:
+• Folheto informativo para o doente
+• Cartão do doente
+o Cartão do doente:
+- Informação aos doentes que o tratamento com Padcev pode causar reações cutâneas
+incluindo reações cutâneas graves tais como SJS, NET ou outras erupções cutâneas
+graves.
+- Descrição dos sintomas das reações cutâneas e procurar imediatamente atendimento
+médico, pois estes podem ser sinais de uma reação cutânea grave.
+- Uma mensagem de alerta para profissionais de saúde que tratam o doente a qualquer
+momento, incluindo condições de emergência, informando que o doente está a usar
+Padcev.
+- Detalhes de contacto do médico assistente que prescreveu Padcev.
+- A necessidade de ter o cartão o tempo todo e mostrar a qualquer profissional de
+saúde.
+O titular de AIM deverá fornecer um cartão do doente em cada embalagem do medicamento, cujo
+texto está incluído no Anexo III.
+
+23
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+24
+
+A. ROTULAGEM
+
+25
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+PADCEV 20 mg pó para concentrado para solução para perfusão
+enfortumab vedotina
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada frasco para injetáveis contém 20 mg de enfortumab vedotina.
+Após a reconstituição, cada ml contém 10 mg de enfortumab vedotina.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém histidina, cloridrato de histidina monohidratado, trealose dihidratada e polissorbato 20
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó para concentrado para solução para perfusão
+1 frasco para injetáveis
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Para utilização por via intravenosa após a reconstituição e diluição.
+Não agitar.
+Apenas para utilização única.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico.
+Conservar na embalagem de origem.
+Não congelar.
+
+26
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1615/001
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+27
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+PADCEV 20 mg pó para concentrado para solução para perfusão
+enfortumab vedotina
+Via intravenosa
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Para utilização por via IV após a reconstituição e diluição.
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+10 mg/ml
+6.
+
+OUTROS
+
+28
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+PADCEV 30 mg pó para concentrado para solução para perfusão
+enfortumab vedotina
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada frasco para injetáveis contém 30 mg de enfortumab vedotina.
+Após a reconstituição, cada ml contém 10 mg de enfortumab vedotina.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém histidina, cloridrato de histidina monohidratado, trealose dihidratada e polissorbato 20
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Pó para concentrado para solução para perfusão
+1 frasco para injetáveis
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Para utilização por via intravenosa após a reconstituição e diluição.
+Não agitar.
+Apenas para utilização única.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico.
+Conservar na embalagem de origem.
+Não congelar.
+
+29
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1615/002
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Foi aceite a justificação para não incluir a informação em Braille.
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+30
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+FRASCO PARA INJETÁVEIS
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+PADCEV 30 mg pó para concentrado para solução para perfusão
+enfortumab vedotina
+Via intravenosa
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Para utilização por via IV após a reconstituição e diluição.
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+10 mg/ml
+6.
+
+OUTROS
+
+31
+
+CONTEÚDO DO CARTÃO DO DOENTE
+CARTÃO DO DOENTE
+PADCEV
+(enfortumab vedotina)
+•
+•
+•
+
+Mantenha este cartão sempre consigo, principalmente quando viajar ou quando consultar outro
+médico.
+Certifique-se de mostrar este cartão a qualquer médico, farmacêutico ou enfermeiro para
+qualquer tratamento médico ou em qualquer visita ao hospital ou clínica.
+Entre em contacto com o seu médico imediatamente, se desenvolver quaisquer efeitos
+indesejáveis, em particular os listados neste cartão.
+
+INFORMAÇÕES IMPORTANTES DE SEGURANÇA PARA OS DOENTES
+Padcev pode causar efeitos indesejáveis graves, incluindo reações cutâneas graves (Síndrome de
+Stevens-Johnson (SJS) ou Necrólise Epidérmica Tóxica (NET) e outras erupções cutâneas graves
+tais como exantema flexural e intertriginoso simétrico relacionado com fármacos).
+Fale imediatamente com o seu médico, farmacêutico ou enfermeiro se tiver algum dos seguintes
+sintomas:
+•
+•
+•
+•
+•
+
+erupção cutânea ou comichão que continua a piorar ou reaparece após tratamento,
+formação de bolhas na pele ou erupção cutânea descamativa,
+feridas ou úlceras dolorosas na boca, nariz, garganta ou área genital,
+febre ou sintomas gripais,
+ou gânglios linfáticos inchados.
+
+Estes podem ser sinais de uma reação cutânea grave que pode acontecer ao receber este medicamento,
+particularmente durante as primeiras semanas de tratamento. Se estes sintomas ocorrerem o seu
+médico irá monitorizar o seu estado e poderá prescrever um medicamento para tratar a sua condição da
+pele. O medico poderá suspender ou descontinuar o seu tratamento até os sintomas serem reduzidos.
+Caso ainda tenha dúvidas sobre o seu tratamento, entre em contacto com o seu médico.
+INFORMAÇÕES IMPORTANTES PARA OS PROFISSIONAIS DE SAÚDE
+•
+•
+
+•
+
+•
+
+•
+•
+
+Este doente está a ser tratado com Padcev (enfortumab vedotina), o qual pode causar reações
+cutâneas graves, incluindo SJS e NET (predominantemente durante o primeiro ciclo de
+tratamento).
+Sintomas que incluem erupção cutânea ou comichão que continua a piorar ou reaparece após o
+tratamento, formação de bolhas na pele ou erução cutânea descamativa, feridas ou úlceras
+dolorosas na boca, nariz, garganta ou área genital, febre ou sintomas gripais ou gânglios
+linfáticos inchados.
+Febre ou sintomas gripais podem ser o primeiro sinal de uma reação cutânea. Os doentes devem
+ser monitorizados a partir do primeiro ciclo e ao longo do tratamento para detetar reações
+cutâneas. Para reações cutâneas ligeiras a moderadas, pode ser considerada a utilização de
+tratamento apropriado, tais como corticosteroides tópicos/anti-histamínicos.
+Em caso de suspeita de SJS ou NET, ou em caso de surgirem lesões bolhosas, supenda ,
+imediatamente o tratamento e referencie para um especialista; a confirmação histológica é
+fundamental para o reconhecimento precoce, pois o diagnóstico e a prevenção podem melhorar
+o prognóstico.
+Descontinue permanentemente o tratamento se ocorrer SJS ou NET, reações cutâneas de Grau 4
+ou reações cutâneas de Grau 3.
+Para reações cutâneas de Grau 2 com febre, reações cutâneas de Grau 2 com agravamento ou
+reações cutâneas de Grau 3, o tratamento deve ser suspenso até Grau ≤1 e deverá retomar o
+32
+
+tratamento ao mesmo nível de dose ou considerar reduzir a dose em um nível; deve ser
+considerada a referenciação para um especialista.
+Por favor contacte o Hematologista/Oncologista do doente para obter mais informações e consulte as
+Informações do Medicamento enfortumab vedotina disponíveis em https://www.ema.europa.eu/.
+O meu nome:______________________________________________________________________
+O meu número de contacto: ________________________________________________________
+Contacto de emergência: ____________________________________________________________
+Número do contacto de emergência: __________________________________________________
+Nome do Hematologista/Oncologista/Enfermeiro de Oncologia: ___________________________
+Número de contacto: _______________________________________________________________
+Número de contacto fora do horário de trabalho: _______________________________________
+Nome do meu Hospital: ____________________________________________________________
+Número de contacto do meu Hospital: ________________________________________________
+Data de início de PADCEV:_________________________________________________________
+
+33
+
+B. FOLHETO INFORMATIVO
+
+34
+
+Folheto informativo: Informação para o doente
+Padcev 20 mg pó para concentrado para solução para perfusão
+Padcev 30 mg pó para concentrado para solução para perfusão
+enfortumab vedotina
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de lhe ser administrado este medicamento, pois contém
+informação importante para si.
+−
+−
+−
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico. Ver secção 4.
+
+O que contém este folheto
+1.
+2.
+3.
+4.
+5.
+6.
+1.
+
+O que é Padcev e para que é utilizado
+O que precisa de saber antes de lhe ser administrado Padcev
+Como utilizar Padcev
+Efeitos indesejáveis possíveis
+Como conservar Padcev
+Conteúdo da embalagem e outras informações
+O que é Padcev e para que é utilizado
+
+Padcev contém a substância ativa enfortumab vedotina, a qual é constituída por um anticorpo
+monoclonal ligado a uma substância que se destina a destruir as células de cancerígenas. O anticorpo
+monoclonal reconhece determinadas células cancerígenas e fornece a substância às células
+cancerígenas.
+Este medicamento é utilizado em adultos para tratar um tipo de cancro chamado cancro da bexiga
+(carcinoma urotelial). Padcev é administrado quando o cancro de um doente se disseminou ou não
+pode ser removido cirurgicamente.
+Padcev é administrado a pessoas que receberam anteriormente um medicamento de imunoterapia e
+também receberam anteriormente um medicamento de quimioterapia contendo platina.
+2.
+
+O que precisa de saber antes de lhe ser administrado Padcev
+
+Não deve receber Padcev
+−
+
+se tem alergia a enfortumab vedotina ou a qualquer outro componente deste medicamento
+(indicados na secção 6).
+
+Advertências e precauções
+Fale com o seu médico imediatamente se:
+−
+tiver qualquer um dos seguintes sintomas de reações cutâneas:
+•
+erupção cutânea ou comichão que continua a piorar ou reaparece após tratamento,
+•
+formação de bolhas na pele ou erupção cutânea descamativa,
+•
+feridas ou úlceras dolorosas na boca, nariz, garganta ou área genital,
+•
+febre ou sintomas gripais,
+•
+ou gânglios linfáticos inchados.
+35
+
+−
+
+Estes sintomas podem indicar uma reação cutânea grave que pode acontecer ao receber este
+medicamento, particularmente durante as primeiras semanas de tratamento. Se estes sintomas
+ocorrerem, o seu médico irá monitorizar o seu estado e poderá prescrever um medicamento para
+tratar a condição da pele. O médico poderá suspender o seu tratamento até os sintomas serem
+reduzidos. Se a sua reação cutânea agravar, o seu médico poderá interromper o tratamento.
+Também encontrará estas informações no Cartão Do Doente incluído na embalagem. É
+importante que mantenha este Cartão do Doente consigo e o mostre a qualquer profissional de
+saúde que consultar.
+
+−
+
+tiver quaisquer sintomas de níveis elevados de açúcar no sangue, incluindo micção frequente,
+sede aumentada, visão turva, confusão mental, sonolência, perda de apetite, hálito com odor a
+fruta, náuseas, vómito ou dor de estômago. Poderá desenvolver níveis elevados de açúcar no
+sangue durante o tratamento.
+
+−
+
+tiver problemas nos pulmões (pneumonite/doença pulmonar intersticial) ou se tiver sintomas
+novos ou agravados, incluindo dificuldade em respirar, falta de ar ou tosse. Se estes sintomas
+ocorrerem, o seu médico poderá suspender o tratamento até ocorrer melhoria dos sintomas ou
+poderá reduzir a dose. Se os seus sintomas se agravarem, o seu médico poderá interromper o
+tratamento.
+
+−
+
+tiver quaisquer sintomas de problemas nos nervos (neuropatia), tais como dormência,
+formigueiro ou sensação de formigueiro nas mãos ou pés ou fraqueza muscular. Se estes
+sintomas ocorrerem, o seu médico poderá suspender o tratamento até ocorrer melhoria dos
+sintomas ou poderá reduzir a dose. Se os seus sintomas agravarem, o seu médico poderá
+interromper o tratamento.
+
+−
+
+tiver problemas nos olhos, como olhos secos, durante o tratamento. Pode desenvolver problemas
+de olhos secos enquanto receber Padcev.
+
+Crianças e adolescentes
+Este medicamento não deve ser utilizado em crianças e adolescentes com menos de 18 anos de idade.
+Outros medicamentos e Padcev
+Informe o seu médico se estiver a, tiver tomado recentemente, ou se vier a tomar outros medicamentos.
+Informe o seu médico se toma medicamentos para infeções fúngicas (p. ex., cetoconazol), uma vez que
+podem aumentar a quantidade de Padcev no seu sangue. Se toma normalmente estes medicamentos, o
+seu médico poderá decidir substituí-los e prescrever um medicamento diferente para tomar durante o
+tratamento.
+Gravidez, amamentação e fertilidade
+Se está grávida, se pensa estar grávida ou planeia engravidar, consulte o seu médico antes de iniciar o
+tratamento com este medicamento.
+Não deve utilizar este medicamento se estiver grávida. Padcev pode ser nocivo para o feto.
+As mulheres que iniciam o tratamento com este medicamento e tenham o potencial para engravidar
+devem utilizar métodos contracetivos eficazes durante o tratamento e, pelo menos, 12 meses após a
+interrupção de Padcev.
+Não se sabe se este medicamento passa para o leite materno e pode ser nocivo para o bebé. Não
+amamente durante o tratamento e pelo menos 6 meses após a interrupção de Padcev.
+
+36
+
+Os homens a receber tratamento com este medicamento são aconselhados a congelar e armazenar
+amostras do esperma antes do tratamento. Os homens a receber tratamento com este medicamento são
+aconselhados a não conceberem filhos durante o tratamento e até 9 meses após a última dose.
+Condução de veículos e utilização de máquinas
+Não conduza nem utilize máquinas se sentir indisposição durante o tratamento.
+3.
+
+Como utilizar Padcev
+
+Padcev ser-lhe-á administrado num hospital ou clínica, sob a supervisão de um médico com
+experiência na administração deste tipo de tratamentos.
+Qual a quantidade de Padcev que irá receber
+A dose recomendada deste medicamento é de 1,25 mg/kg nos dias 1, 8 e 15 a cada 28 dias. O seu
+médico irá decidir sobre o número de tratamentos de que necessita.
+Como irá receber Padcev
+Padcev ser-lhe-á administrado através de uma perfusão por via intravenosa numa veia, durante
+30 minutos. Antes da utilização, Padcev será adicionado a um saco de perfusão com uma solução de
+glucose, cloreto de sódio ou lactato de Ringer.
+Se perder uma dose de Padcev
+É muito importante que compareça a todas as marcações para receber Padcev. Se falhar uma
+marcação, fale com o seu médico sobre o agendamento da dose seguinte.
+Se parar de receber Padcev
+Não interrompa o tratamento com Padcev a não ser que tenha discutido este assunto com o seu
+médico. Parar o tratamento pode parar o efeito do medicamento.
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Alguns possíveis efeitos indesejáveis podem ser graves:
+−
+
+Reações cutâneas (síndrome de Stevens-Johnson, necrólise epidérmica tóxica e outras
+erupções graves, tais como exantema flexural e intertriginoso simétrico relacionado com o
+fármaco). Informe o seu médico imediatamente se tiver algum destes sinais de uma reação
+cutânea grave: erupção cutânea ou comichão que continua a piorar ou reaparece após
+tratamento, formação de bolhas na pele ou erupção cutânea descamativa, feridas ou úlceras
+dolorosas na boca, nariz, garganta ou área genital, febre ou sintomas gripais, ou gânglios
+linfáticos inchados (frequência desconhecida).
+
+−
+
+Níveis elevados de açúcar no sangue (hiperglicemia). Informe o seu médico imediatamente se
+tiver qualquer sintoma de níveis elevados de açúcar no sangue, incluindo: micção frequente,
+sede aumentada, visão turva, confusão mental, sonolência, perda de apetite, hálito com odor a
+fruta, náusea, vómito ou dor de estômago (podem afetar mais de 1 em 10 pessoas).
+
+−
+
+Problemas nos pulmões (pneumonite/doença pulmonar intersticial). Informe o seu médico
+imediatamente se tiver sintomas novos ou agravados, incluindo dificuldade em respirar, falta de
+ar ou tosse (podem afetar até 1 em 10 pessoas).
+37
+
+−
+
+Problemas nos nervos (neuropatia periférica, tais como neuropatia motora, neuropatia
+sensomotora, parestesia, hipostesia e fraqueza muscular). Informe o seu médico
+imediatamente se sentir dormência, formigueiro ou sensação de formigueiro nas mãos ou pés ou
+fraqueza muscular (podem afetar até 1 em 10 pessoas).
+
+−
+
+Fuga de Padcev para fora da veia e para os tecidos em redor do local de perfusão
+(extravasamento). Informe o seu médico ou procure auxílio médico imediatamente se observar
+qualquer vermelhidão, inchaço, comichão ou desconforto no local de perfusão. Se ocorrer uma
+fuga de Padcev do local de injeção ou da veia para a pele e tecidos circundantes, isto poderá
+causar uma reação no local de perfusão. Estas reações podem ocorrer imediatamente depois de
+receber uma perfusão, mas podem por vezes ocorrer dias após a perfusão (podem afetar
+até 1 em 10 pessoas).
+
+Outros efeitos indesejáveis possíveis
+Muito frequentes (podem afetar até 1 em 10 pessoas):
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+
+número baixo de glóbulos vermelhos no sangue (anemia)
+náusea, diarreia e vómito
+fadiga
+perda de apetite
+alteração do paladar
+olho seco
+perda de cabelo
+perda de peso
+pele seca ou com comichão
+erupção cutânea
+inchaços vermelhos, planos ou elevados, na pele
+enzimas do fígado aumentadas (aspartato aminotransferase [AST] ou alanina aminotransferase
+[ALT])
+
+Frequentes (podem afetar até 1 em 10 pessoas):
+−
+−
+−
+−
+−
+−
+−
+−
+−
+
+caminhada anormal (perturbação da marcha)
+vermelhidão dos olhos
+urticária na pele
+vermelhidão na pele
+zonas da pele com inflamação, comichão, gretadas ou ásperas
+vermelhidão e formigueiro na palma das mãos ou planta dos pés
+exfoliação da pele
+úlcera da boca
+erupção cutânea com sintomas associados: comichão, vermelhidão, inchaços vermelhos ou
+zonas vermelhas na pele, bolhas com líquido, bolhas de grandes dimensões, lesões da pele
+
+Pouco frequentes (podem afetar até 1 em 100 pessoas):
+−
+−
+−
+−
+−
+−
+−
+
+irritação da pele
+sensação de ardor na pele
+problemas com o funcionamento dos nervos que causam sensações estranhas ou problemas de
+movimento
+diminuição do tamanho dos músculos
+vesícula sanguinolenta
+reação alérgica na pele
+erupção cutânea com sintomas associados: manchas com a aparência de alvos, exfoliação da
+pele, bolhas planas com líquido
+38
+
+−
+−
+−
+−
+
+exfoliação da pele por todo o corpo
+inflamação das dobras da pele, incluindo na virilha
+bolhas ou lesões semelhantes a bolhas na pele
+inflamação ou comichão apenas nas pernas e pés
+
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico. Também poderá comunicar efeitos indesejáveis diretamente através do
+sistema nacional de notificação mencionado no Apêndice V. Ao comunicar efeitos indesejáveis, estará
+a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar Padcev
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem e no rótulo do frasco
+para injetáveis após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+Conservar no frigorífico (2°C–8°C). Não congelar.
+Não conservar qualquer porção não utilizada da solução para perfusão para reutilização. Qualquer
+medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências locais.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Padcev
+−
+−
+−
+−
+
+A substância ativa é enfortumab vedotina
+Um frasco para injetáveis de 20 mg de pó para concentrado para solução para perfusão contém
+20 mg de enfortumab vedotina
+Um frasco para injetáveis de 30 mg de pó para concentrado para solução para perfusão contém
+30 mg de enfortumab vedotina
+Após a reconstituição, cada ml de solução contém 10 mg de enfortumab vedotina
+
+Os outros componentes são histidina, cloridrato de histidina monohidratado, trealose dihidratada e
+polissorbato 20.
+Qual o aspeto de Padcev e conteúdo da embalagem
+Padcev pó para concentrado para solução para perfusão é um pó liofilizado de cor branca a
+esbranquiçada.
+Padcev é fornecido numa caixa que contém 1 frasco de vidro para injetáveis.
+Titular da Autorização de Introdução no Mercado e Fabricante
+Titular de Autorização de Introdução no Mercado:
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+Fabricante:
+Astellas Ireland Co. Limited,
+Killorglin,
+Co. Kerry
+V93 FC86
+39
+
+Irlanda
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Astellas Pharma B.V. Branch
+Tél/Tel: +32 (0) 2 5580710
+
+Lietuva
+Astellas Pharma d.o.o.
+Tel.: +370 37 408 681
+
+България
+Астелас Фарма ЕООД
+Teл.: +359 2 862 53 72
+
+Luxembourg/Luxemburg
+Astellas Pharma B.V. Branch
+Belgique/Belgien
+Tél/Tel: +32 (0)2 5580710
+
+Česká republika
+Astellas Pharma s.r.o.
+Tel: +420 221 401 500
+
+Magyarország
+Astellas Pharma Kft.
+Tel.: +36 1 577 8200
+
+Danmark
+Astellas Pharma a/s
+Tlf: +45 43 430355
+
+Malta
+Astellas Pharmaceuticals AEBE
+Tel: +30 210 8189900
+
+Deutschland
+Astellas Pharma GmbH
+Tel.: +49 (0)89 454401
+
+Nederland
+Astellas Pharma B.V.
+Tel: +31 (0)71 5455745
+
+Eesti
+Astellas Pharma d.o.o.
+Tel: +372 6 056 014
+
+Norge
+Astellas Pharma
+Tlf: +47 66 76 46 00
+
+Ελλάδα
+Astellas Pharmaceuticals AEBE
+Τηλ: +30 210 8189900
+
+Österreich
+Astellas Pharma Ges.m.b.H.
+Tel.: +43 (0)1 8772668
+
+España
+Astellas Pharma S.A.
+Tel: +34 91 4952700
+
+Polska
+Astellas Pharma Sp.z.o.o.
+Tel.: +48 225451 111
+
+France
+Astellas Pharma S.A.S.
+Tél: +33 (0)1 55917500
+
+Portugal
+Astellas Farma, Lda.
+Tel: +351 21 4401300
+
+Hrvatska
+Astellas d.o.o
+Tel: +385 1670 0102
+
+România
+S.C.Astellas Pharma SRL
+Tel: +40 (0)21 361 04 95
+
+Ireland
+Astellas Pharma Co. Ltd.
+Tel: +353 (0)1 4671555
+
+Slovenija
+Astellas Pharma d.o.o
+Tel: +386 14011400
+
+Ísland
+Vistor hf
+Sími: +354 535 7000
+
+Slovenská republika
+Astellas Pharma s.r.o.
+Tel: +421 2 4444 2157
+
+Italia
+Astellas Pharma S.p.A.
+Tel: +39 (0)2 921381
+
+Suomi/Finland
+Astellas Pharma
+Puh/Tel: +358 (0)9 85606000
+40
+
+Κύπρος
+Ελλάδα
+Astellas Pharmaceuticals AEBE
+Τηλ: +30 210 8189900
+
+Sverige
+Astellas Pharma AB
+Tel: +46 (0)40-650 15 00
+
+Latvija
+Astellas Pharma d.o.o.
+Tel: +371 67 619365
+
+United Kingdom (Northern Ireland)
+Astellas Pharma Co., Limited
+Tel: +353 (0)1 4671555
+Free call from Northern Ireland: 0800783 5018
+
+Este folheto foi revisto pela última vez em MM/AAAA.
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+--------------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos profissionais de saúde:
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+Instruções para a preparação e administração
+Reconstituição no frasco para injetáveis monodose
+1.
+2.
+3.
+4.
+
+5.
+
+6.
+
+Siga os procedimentos relativos ao correto manuseamento e eliminação de medicamentos
+anticancerígenos.
+Utilize uma técnica assética apropriada para a reconstituição e preparação das soluções para
+dosagem.
+Calcule a dose recomendada com base no peso do doente para determinar o número e dosagem
+(20 mg ou 30 mg) dos frascos para injetáveis necessários.
+Proceda à reconstituição de cada frasco para injetáveis conforme descrito em seguida e, se
+possível, direcione o jato de água estéril para injetáveis ao longo das paredes do frasco para
+injetáveis e não diretamente para o pó liofilizado.
+a. Frasco para injetáveis de 20 mg: Adicione 2,3 ml de água estéril para injetáveis, obtendo
+10 mg/ml de enfortumab vedotina.
+b. Frasco para injetáveis de 30 mg: Adicione 3,3 ml de água estéril para injetáveis, obtendo
+10 mg/ml de enfortumab vedotina.
+Rode cada frasco para injetáveis lentamente até dissolver o conteúdo totalmente. Deixe o(s)
+frasco(s) para injetáveis assentar durante, pelo menos, 1 minuto até as bolhas desaparecerem.
+Não agite os frascos para injetáveis.
+Examine a solução visualmente para verificar a presença de partículas e descoloração. A solução
+reconstituída deve ser transparente a ligeiramente opalescente, incolor a ligeiramente amarela e
+isenta de partículas visíveis. Elimine qualquer frasco para injetáveis que apresente partículas
+visíveis ou descoloração.
+41
+
+Diluição no saco de perfusão
+7.
+8.
+
+Recolha a quantidade de dose calculada de solução reconstituída do(s) frasco(s) para injetáveis e
+transfira para um saco de perfusão.
+Dilua enfortumab vedotina com uma solução injetável de dextrose a 50 mg/ml (5%), cloreto de
+sódio a 9 mg/ml (0,9%) ou lactato de Ringer. O tamanho do saco de perfusão deve ter
+capacidade para adicionar solvente suficiente até obter uma concentração final de 0,3 mg/ml a
+4 mg/ml de enfortumab vedotina.
+
+A solução para dosagem diluída de enfortumab vedotina é compatível com sacos de perfusão
+intravenosa constituídos por policloreto de vinil (PVC), etil-vinil acetato, poliolefina tal como
+polipropileno (PP), ou frascos para injetáveis IV constituídos por polietileno (PE), polietileno
+tereftalato glicol modificado e conjuntos de perfusão constituídos por PVC com plastificante (bis(2etilhexil)ftalato (DEHP) ou tris(2-etilhexil)trimelitato (TOTM)), PE e com membranas de filtro
+(tamanho dos poros: 0, 2 – 1,2 μm) constituídas por polietersulfona, difluoreto de polivinilideno, ou
+ésteres de celulose mistos.
+9.
+10.
+
+11.
+
+Homogeneíze a solução diluída por inversão suave. Não agite o saco.
+Examine o saco de perfusão visualmente para verificar a presença de partículas ou descoloração
+antes da utilização. A solução reconstituída deve ser transparente a ligeiramente opalescente,
+incolor a ligeiramente amarela e livre de partículas visíveis. Não utilize o saco de perfusão se
+observar partículas ou descoloração.
+Elimine qualquer porção não utilizada restante nos frascos para injetáveis monodose.
+
+Administração
+12.
+
+Administre a perfusão ao longo de 30 minutos, através de uma linha intravenosa. Não
+administre como bólus ou injeção intravenosa direta.
+
+Não foram observadas incompatibilidades entre a solução reconstituída e dispositivos de transferência
+de sistema fechado constituídos por acrilonitrila butadieno estireno (ABS), acrílico, carvão ativado,
+monómero de etileno propileno dieno, ABS de metacrilato, policarbonato, poliisopropeno,
+polioximetileno, PP, silicone, aço inoxidável, elastómero termoplástico.
+13.
+14.
+
+Não coadministre outros medicamentos através da mesma linha de perfusão.
+Durante a administração, recomenda-se a utilização de filtros em linha ou filtros de seringa
+(tamanho dos poros: 0,2 – 1,2 μm; materiais recomendados: polietersulfona, difluoreto de
+polivilideno, ésteres mistos de celulose).
+
+Eliminação
+Padcev destina-se apenas para utilização única.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+42
+
+

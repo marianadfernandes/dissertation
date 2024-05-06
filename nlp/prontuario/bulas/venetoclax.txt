@@ -1,0 +1,4535 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 10 mg comprimidos revestidos por película
+Venclyxto 50 mg comprimidos revestidos por película
+Venclyxto 100 mg comprimidos revestidos por película
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Venclyxto 10 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 10 mg de venetoclax.
+Venclyxto 50 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 50 mg de venetoclax.
+Venclyxto 100 mg comprimidos revestidos por película
+Cada comprimido revestido por película contém 100 mg de venetoclax.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimido revestido por película (comprimido).
+Venclyxto 10 mg comprimido revestido por película
+Comprimido amarelo claro, redondo, biconvexo com 6 mm de diâmetro com V gravado num dos
+lados e 10 no outro.
+Venclyxto 50 mg comprimido revestido por película
+Comprimido bege, oblongo, biconvexo com 14 mm de comprimento e 8 mm de largura com V
+gravado num dos lados e 50 no outro.
+Venclyxto 100 mg comprimido revestido por película
+Comprimido amarelo claro, oblongo, biconvexo com 17,2 mm de comprimento e 9,5 mm de largura
+com V gravado num dos lados e 100 no outro.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Venclyxto em combinação com obinutuzumab é indicado para o tratamento de doentes adultos com
+leucemia linfocítica crónica (LLC) previamente não tratados (ver secção 5.1).
+Venclyxto em combinação com rituximab é indicado para o tratamento de doentes adultos com LLC
+que receberam pelo menos uma terapêutica prévia.
+Venclyxto em monoterapia é indicado para o tratamento da LLC:
+• na presença de deleção 17p ou mutação TP53 em doentes adultos que não são elegíveis para ou
+com falência à terapêutica com um inibidor da via do recetor das células B, ou
+• na ausência de deleção 17p ou mutação TP53 em doentes adultos com falência à
+quimioimunoterapia e à terapêutica com um inibidor da via do recetor das células B.
+Venclyxto em combinação com um agente hipometilante é indicado para o tratamento de doentes
+adultos com leucemia mieloide aguda (LMA) recentemente diagnosticada, que não são elegíveis para
+quimioterapia intensiva.
+2
+
+4.2
+
+Posologia e modo de administração
+
+O tratamento com venetoclax deve ser iniciado e supervisionado por um médico com experiência na
+utilização de medicamentos antineoplásicos. Os doentes tratados com venetoclax podem desenvolver
+síndrome de lise tumoral (SLT). As informações descritas nesta secção, incluindo a avaliação do risco,
+as medidas profiláticas, o esquema de titulação da dose, a monitorização laboratorial e as interações
+medicamentosas, devem ser seguidas para prevenir e reduzir o risco de SLT.
+Posologia
+Leucemia linfocítica crónica
+Esquema de titulação da dose
+A dose inicial é de 20 mg de venetoclax uma vez por dia durante 7 dias. A dose deve ser aumentada
+gradualmente durante um período de 5 semanas, até atingir a dose diária de 400 mg, conforme
+Tabela 1.
+Tabela 1: Esquema de titulação da dose em doentes com LLC
+Semana
+1
+2
+3
+4
+5
+
+Dose diária de venetoclax
+20 mg
+50 mg
+100 mg
+200 mg
+400 mg
+
+O esquema de titulação da dose ao longo de 5 semanas está desenhado para reduzir gradualmente a
+carga tumoral (debulk) e reduzir o risco de SLT.
+Venetoclax em combinação com obinutuzumab
+Venetoclax é administrado por um total de 12 ciclos, sendo cada ciclo de 28 dias: 6 ciclos em
+combinação com obinutuzumab, seguidos de 6 ciclos de venetoclax como agente único.
+Administrar 100 mg de obinutuzumab no Dia 1 do Ciclo 1, seguidos de 900 mg, que podem ser
+administrados no Dia 1 ou no Dia 2. Administrar 1000 mg nos Dias 8 e 15 do Ciclo 1 e no Dia 1 de
+cada ciclo de 28 dias subsequente, por um total de 6 ciclos.
+Iniciar o esquema de titulação da dose ao longo de 5 semanas com venetoclax (ver Tabela 1) no Dia
+22 do Ciclo 1 e continuar até ao Dia 28 do Ciclo 2.
+Após conclusão do esquema de titulação da dose, a dose recomendada de venetoclax é de 400 mg uma
+vez ao dia desde o Dia 1 do Ciclo 3 de obinutuzumab até ao último dia do Ciclo 12.
+Dose de venetoclax pós-titulação, quando utilizado em combinação com rituximab
+A dose recomendada de venetoclax em combinação com rituximab é de 400 mg uma vez ao dia (ver
+secção 5.1 para informação detalhada sobre a terapêutica de combinação).
+Administrar rituximab após o doente ter completado o esquema de titulação da dose e ter recebido a
+dose diária recomendada de 400 mg de venetoclax durante 7 dias.
+Venetoclax é administrado durante 24 meses a partir do Dia 1 do Ciclo 1 de rituximab (ver secção
+5.1).
+3
+
+Dose de venetoclax pós-titulação, quando utilizado em monoterapia
+A dose recomendada de venetoclax é de 400 mg uma vez ao dia. O tratamento é continuado até à
+progressão da doença ou até deixar de ser tolerado pelo doente.
+Leucemia mieloide aguda
+O esquema posológico recomendado de venetoclax (incluindo titulação da dose) é apresentado na
+Tabela 2.
+Tabela 2: Esquema de titulação da dose em doentes com LMA
+Dia
+1
+2
+3 e seguintes
+
+Dose diária de venetoclax
+100 mg
+200 mg
+400 mg
+
+A azacitidina deve ser administrada a 75 mg/m2 de área de superfície corporal (ASC) por via
+intravenosa ou subcutânea nos Dias 1-7 de cada ciclo de 28 dias com início no Dia 1 do Ciclo 1.
+A decitabina deve ser administrada a 20 mg/m2 de ASC por via intravenosa nos Dias 1-5 de cada ciclo
+de 28 dias com início no Dia 1 do Ciclo 1.
+A administração de venetoclax pode ser interrompida conforme necessário para o controlo de
+toxicidades hematológicas e recuperação do hemograma (ver Tabela 6).
+Venetoclax, em combinação com um agente hipometilante, deve ser continuado até se observar
+progressão da doença ou toxicidade inaceitável.
+Prevenção de síndrome de lise tumoral (SLT)
+Os doentes tratados com venetoclax podem desenvolver SLT. Para detalhes sobre o controlo
+específico, deve ser consultada a secção abaixo, aplicável consoante a indicação terapêutica.
+Leucemia linfocítica crónica
+Venetoclax pode causar uma rápida redução do tumor e, assim, existir o risco de SLT durante a fase
+inicial de titulação da dose de 5 semanas em todos os doentes com LLC, independentemente da carga
+tumoral e de outras caraterísticas do doente. As alterações nos eletrólitos consistentes com SLT, e que
+necessitam de tratamento imediato, podem ocorrer logo 6 a 8 horas após a primeira dose de venetoclax
+e em cada aumento de dose. Os fatores específicos do doente quanto ao nível de risco de SLT devem
+ser avaliados e devem ser providenciadosaos doentes hidratação profilática e anti‑hiperuricémicos
+antes da primeira dose de venetoclax para reduzir o risco de SLT.
+O risco de SLT é contínuo e baseia-se em diversos fatores, incluindo comorbilidades, particularmente
+uma função renal diminuída (depuração da creatinina [CrCl] <80 ml/min) e carga tumoral. A
+esplenomegalia pode contribuir para o risco global de SLT. O risco pode diminuir à medida que a
+carga tumoral diminui com o tratamento com venetoclax (ver secção 4.4).
+Antes de iniciar venetoclax, deve realizar-se uma avaliação da carga tumoral, incluindo avaliação
+radiográfica (p. ex. TAC), a todos os doentes. Devem realizar-se análises bioquímicas ao sangue
+(potássio, ácido úrico, fósforo, cálcio e creatinina) e as alterações pré-existentes devem ser corrigidas.
+A Tabela 3 abaixo descreve a profilaxia e monitorização de SLT recomendadas durante o tratamento
+com venetoclax, com base na determinação da carga tumoral a partir dos dados de estudos clínicos
+4
+
+(ver secção 4.4). Adicionalmente, devem ser consideradas todas as comorbilidades do doente para uma
+profilaxia e monitorização adequadas ao risco, quer o doente se encontre em ambulatório ou no
+hospital.
+Tabela 3: Profilaxia de SLT recomendada com base na carga tumoral em doentes com LLC
+
+Carga tumoral
+
+Profilaxia
+
+Hidrataçãoa
+
+Antihiperuricémicos b
+
+Monitorização das
+análises bioquímicas ao
+sanguec,d
+Localização e
+frequência das
+avaliações
+
+Baixa
+
+Todos os GL
+<5 cm
+E
+ALC <25 x 109/l
+
+Oral
+(1,5-2 l)
+
+Alopurinol
+
+Ambulatório
+• Para a primeira dose
+de 20 mg e 50 mg:
+pré-dose, 6 a 8 horas,
+24 horas
+• Para aumentos de
+dose subsequentes:
+pré-dose
+
+Média
+
+Qualquer GL 5 cm
+a <10 cm
+OU
+ALC ≥25 x 109/l
+
+Oral
+(1,5-2 l)
+e considerar
+hidratação
+intravenosa
+adicional
+
+Alopurinol
+
+Ambulatório
+• Para a primeira dose
+de 20 mg e 50 mg:
+pré-dose, 6 a 8 horas,
+24 horas
+• Para aumentos de
+dose subsequentes:
+pré-dose
+• Para a primeira dose
+de 20 mg e 50 mg:
+considerar a
+hospitalização para
+doentes com CrCl
+<80 ml/min; ver
+abaixo para
+monitorização no
+hospital
+
+Alta
+
+Qualquer GL
+Oral (1,5-2 l)
+e intravenosa
+≥10 cm
+(150-200 ml/h,
+OU
+9
+ALC ≥25 x 10 /l conforme tolerado)
+E
+qualquer GL ≥5 cm
+
+Alopurinol;
+considerar
+rasburicase se o
+ácido úrico inicial
+for elevado
+
+No hospital
+• Para a primeira dose
+de 20 mg e 50 mg:
+pré-dose, 4, 8, 12 e
+24 horas
+Ambulatório
+• Para aumentos de
+dose subsequentes:
+pré-dose, 6 a 8 horas,
+24 horas
+
+5
+
+ALC = contagem linfocitária absoluta; CrCl = depuração da creatinina; GL = gânglio linfático.
+a
+Instruir os doentes a beber água diariamente, com início 2 dias antes e durante a fase de titulação da dose,
+especificamente antes e nos dias iniciais de administração da dose e em cada aumento de dose subsequente.
+Administrar hidratação intravenosa a doentes que não toleram hidratação oral.
+b
+Iniciar alopurinol ou um inibidor da xantina oxidase 2 a 3 dias antes do início de venetoclax.
+c
+Avaliar as análises bioquímicas ao sangue (potássio, ácido úrico, fósforo, cálcio e creatinina); rever em tempo
+real.
+d
+Nos aumentos de dose subsequentes, monitorizar as análises bioquímicas ao sangue às 6 a 8 horas e às 24 horas
+para doentes que continuem a apresentar risco de SLT.
+
+Modificações de dose em caso de síndrome de lise tumoral e outras toxicidades
+Leucemia linfocítica crónica
+Poderá ser necessário interromper e/ou reduzir a dose devido a toxicidades. Consulte a Tabela 4 e a
+Tabela 5 para obter informações sobre as modificações de dose recomendadas para toxicidades
+relacionadas com venetoclax.
+Tabela 4: Modificações de dose de venetoclax recomendadas para toxicidades a em LLC
+Acontecimento
+
+Ocorrência
+
+Ação
+
+Síndrome de lise tumoral
+Alterações nas análises
+bioquímicas ao sangue
+ou sintomas sugestivos
+de SLT
+
+Qualquer
+
+Suspender a dose do dia seguinte. Se for resolvido
+em 24 a 48 horas após a última dose, retomar na
+mesma dose.
+Em caso de alterações nas análises bioquímicas ao
+sangue que necessitem de mais de 48 horas a
+serem resolvidas, retomar numa dose reduzida
+(ver Tabela 5).
+Em caso de acontecimentos de SLT clínica b ,
+retomar numa dose reduzida após a resolução (ver
+Tabela 5).
+
+6
+
+Toxicidades não hematológicas
+Toxicidades não
+1.ª ocorrência
+hematológicas de grau 3
+ou 4
+
+Interromper venetoclax.
+Assim que os sintomas de toxicidade diminuírem
+para grau 1 ou para o nível inicial, a terapêutica
+com venetoclax pode ser retomada na mesma
+dose. Não é necessário efetuar modificações de
+dose.
+
+2.ª ocorrência e
+Interromper venetoclax.
+ocorrências subsequentes Seguir as orientações de redução de dose na
+Tabela 5 ao retomar o tratamento com venetoclax
+após a resolução. Pode verificar‑se uma redução
+superior de dose, em conformidade com a opinião
+do médico.
+Toxicidades hematológicas
+Neutropenia de grau 3 1.ª ocorrência
+com infeção ou febre; ou
+toxicidades
+hematológicas de grau 4
+(exceto linfopenia)
+
+Interromper venetoclax.
+Para reduzir os riscos de infeção associados à
+neutropenia, pode ser administrado com
+venetoclax um fator estimulante de colónias de
+granulócitos (G‑CSF), se clinicamente indicado.
+Assim que os sintomas de toxicidade diminuírem
+para grau 1 ou para o nível inicial, a terapêutica
+com venetoclax pode ser retomada na mesma
+dose.
+
+2.ª ocorrência e
+Interromper venetoclax.
+ocorrências subsequentes Considerar a utilização de um G‑CSF, conforme
+clinicamente indicado.
+Seguir as orientações de redução de dose na
+Tabela 5 ao retomar o tratamento com venetoclax
+após a resolução. Pode verificar‑se uma redução
+superior de dose, em conformidade com a opinião
+do médico.
+Considerar a descontinuação de venetoclax nos doentes que necessitam de reduções de dose para
+doses inferiores a 100 mg durante mais de 2 semanas.
+a
+As reações adversas foram classificadas de acordo com o NCI CTCAE, versão 4.0.
+b
+SLT clínica foi definida como SLT laboratorial com consequências clínicas, tais como insuficiência
+renal aguda, arritmias cardíacas, ou convulsões e/ou morte súbita (ver secção 4.8).
+
+7
+
+Tabela 5: Modificação de dose para SLT e outras toxicidades em doentes com LLC
+Dose aquando da
+interrupção
+(mg)
+
+Dose de reinício
+(mga)
+
+400
+
+300
+
+300
+200
+
+200
+100
+
+100
+
+50
+
+50
+
+20
+
+20
+10
+A dose modificada deve ser continuada durante 1 semana
+antes do aumento de dose.
+a
+
+Nos doentes com uma interrupção de dose superior a 1 semana nas primeiras 5 semanas de titulação
+da dose, ou superior a 2 semanas após conclusão da fase de titulação da dose, o risco de SLT deve ser
+reavaliado para determinar se é necessário o reinício com uma dose reduzida (p. ex. todos ou alguns
+níveis da titulação de dose; ver Tabela 5).
+Leucemia mieloide aguda
+A titulação da dose diária de venetoclax é de 3 dias com azacitidina ou decitabina (ver Tabela 2).
+Devem ser implementadas as medidas profiláticas listadas abaixo:
+Todos os doentes devem ter uma contagem de glóbulos brancos <25 × 109/l antes do início de
+venetoclax e pode ser necessária uma citorredução antes do tratamento.
+Todos os doentes devem ser adequadamente hidratados e receber agentes anti-hiperuricémicos antes
+do início da primeira dose de venetoclax e durante a fase de titulação da dose.
+Avaliar as análises bioquímicas ao sangue (potássio, ácido úrico, fósforo, cálcio e creatinina) e corrigir
+as alterações pré-existentes antes do início do tratamento com venetoclax.
+Monitorizar as análises bioquímicas ao sangue para SLT na pré-dose, 6 a 8 horas após cada nova dose
+durante a titulação, e 24 horas após atingir a dose final.
+Nos doentes com fatores de risco de SLT (p. ex., com blastos circulantes, elevado envolvimento da
+leucemia na medula óssea, níveis elevados de lactato desidrogenase [LDH] pré-tratamento ou função
+renal diminuída) devem ser consideradas medidas adicionais, incluindo o aumento da monitorização
+laboratorial e a redução da dose inicial de venetoclax.
+Monitorizar os hemogramas frequentemente no dercurso da resolução das citopenias. As modificações
+e as interrupções da dose devido a citopenias dependem do estado de remissão. As modificações da
+dose de venetoclax devido a reações adversas são indicadas na Tabela 6.
+
+8
+
+Tabela 6: Modificações de dose recomendadas devido a reações adversas na LMA
+Reações Adversas
+Ocorrência
+Reações Adversas Hematológicas
+Neutropenia de grau 4 Ocorrência antes de atingir a
+(ANC < 500/microlitro) remissãoa
+com ou sem febre ou
+infeção; ou
+trombocitopenia de
+Primeira ocorrência após ter
+grau 4 (contagem de
+atingido a remissão e com
+plaquetas < 25 × 103/mic duração de pelo menos 7 dias
+rolitro)
+
+Modificação da dose
+
+Na maioria dos casos, não interromper
+venetoclax em combinação com azacitidina
+ou decitabina devido a citopenias antes de
+atingir a remissão.
+Atrasar o ciclo subsequente de venetoclax em
+combinação com azacitidina ou decitabina e
+monitorizar os hemogramas. Administrar o
+fator estimulante de colónias de granulócitos
+(G-CSF) se clinicamente indicado para a
+neutropenia.
+Após a resolução para grau 1 ou 2, retomar
+venetoclax na mesma dose em combinação
+com azacitidina ou decitabina.
+Ocorrências subsequentes, em Atrasar o ciclo subsequente de venetoclax em
+ciclos após ter atingido a
+combinação com azacitidina ou decitabina e
+remissão e com duração de
+monitorizar os hemogramas. Administrar
+7 dias ou mais
+oG-CSF se clinicamente indicado para a
+neutropenia.
+Após a resolução para grau 1 ou 2, retomar
+venetoclax na mesma dose em combinação
+com azacitidina ou decitabina, e reduzir a
+duração de venetoclax em 7 dias durante cada
+um dos ciclos subsequentes, para 21 dias em
+vez de 28 dias.
+Consultar as informações de prescrição de
+azacitidina para obter informações adicionais.
+Reações Adversas Não Hematológicas
+Toxicidades não
+Qualquer ocorrência
+Interromper venetoclax em caso de não
+hematológicas de grau 3
+resolução com cuidados de suporte.
+ou 4
+Após a resolução para grau 1 ou nível inicial,
+retomar venetoclax na mesma dose.
+a
+Considerar avaliação da medula óssea.
+Modificações de dose para utilização com inibidores do CYP3A
+A utilização concomitante de venetoclax com inibidores fortes ou moderados do CYP3A aumenta a
+exposição a venetoclax (isto é, Cmax e AUC) e pode aumentar o risco de SLT, no início e durante a fase
+de titulação da dose, e de outras toxicidades (ver secção 4.5).
+Em doentes com LLC, a utilização concomitante de venetoclax com inibidores fortes do CYP3A é
+contraindicada no início e durante a fase de titulação da dose (ver secções 4.3, 4.4 e 4.5).
+Em todos os doentes, se for necessário utilizar um inibidor do CYP3A, seguir as recomendações para
+gestão de interações medicamentosas resumidas na Tabela 7. Os doentes devem ser cuidadosamente
+monitorizados em relação a sinais de toxicidade e a dose poderá ter de ser ainda mais ajustada. A dose
+de venetoclax utilizada antes de se iniciar o inibidor do CYP3A deve ser retomada 2 a 3 dias após a
+descontinuação do inibidor (ver secções 4.3, 4.4 e 4.5).
+
+9
+
+Tabela 7: Gestão de potenciais interações de venetoclax com inibidores do CYP3A
+Inibidor
+
+Inibidor forte do
+CYP3A
+
+Inibidor moderado do
+CYP3Aa
+
+Fase
+
+LLC
+
+Dose diária estável
+(Após fase de titulação da
+dose)
+
+LMA
+Dia 1 – 10 mg
+Dia 2 – 20 mg
+Contraindicado
+Dia 3 – 50 mg
+Dia 4 – 100 mg ou menos
+Reduzir a dose de venetoclax para 100 mg ou menos
+(ou em pelo menos 75% se já modificada por outros
+motivos)
+
+Todas
+
+Reduzir a dose de venetoclax em pelo menos 50%
+
+Início e fase de titulação
+da dose
+
+a
+
+Em doentes com LLC, evitar a utilização concomitante de venetoclax com inibidores moderados do CYP3A
+no início e durante a fase de titulação da dose. Considerar medicamentos alternativos ou reduzir a dose de
+venetoclax conforme descrito nesta tabela.
+
+Omissão de dose
+Se o doente falhar uma dose de venetoclax nas 8 horas seguintes à hora habitual da toma, o doente
+deve tomar a dose esquecida o mais rapidamente possível no mesmo dia. Caso tenham passado mais
+de 8 horas da hora habitual da toma, o doente não deve tomar a dose esquecida e deve prosseguir o
+esquema posológico habitual no dia seguinte.
+Se o doente vomitar após a toma de uma dose, não deve ser tomada qualquer dose adicional nesse dia.
+A próxima dose prescrita deve ser tomada à hora habitual no dia seguinte.
+Populações especiais
+Idosos
+Não são necessários ajustes posológicos específicos em doentes idosos (com idade ≥65 anos) (ver
+secção 5.1).
+Compromisso renal
+Os doentes com função renal reduzida (CrCl <80 ml/min) podem necessitar de profilaxia e
+monitorização mais intensivas para reduzir o risco de SLT no início e durante a fase de titulação da
+dose (ver “Prevenção de síndrome de lise tumoral (SLT)” acima).Venetoclax deve ser administrado a
+doentes com compromisso renal grave (CrCl ≥15 ml/min e <30 ml/min) apenas se o benefício superar
+o risco e os doentes devem ser monitorizados cuidadosamente em relação a sinais de toxicidade,
+devido ao risco aumentado de SLT (ver secção 4.4).
+Não são necessários ajustes posológicos em doentes com compromisso renal ligeiro, moderado ou
+grave (CrCl ≥15 ml/min e <90 ml/min) (ver secção 5.2).
+Compromisso hepático
+Não são recomendados ajustes posológicos em doentes com compromisso hepático, ligeiro ou
+moderado. Doentes com compromisso hepático moderado devem ser monitorizados cuidadosamente
+em relação a sinais de toxicidade no início e durante a fase de titulação da dose (ver secção 4.8).
+Em doentes com compromisso hepático grave recomenda-se uma redução de dose de pelo menos 50%
+ao longo do tratamento (ver secção 5.2). Estes doentes devem ser monitorizados cuidadosamente em
+relação a sinais de toxicidade (ver secção 4.8).
+
+10
+
+População pediátrica
+A segurança e eficácia de venetoclax em crianças com idade inferior a 18 anos não foram
+estabelecidas. Não existem dados disponíveis.
+Modo de administração
+Venclyxto comprimidos revestidos por película são para administração por via oral. Os doentes devem
+ser instruídos a engolir os comprimidos inteiros com água, aproximadamente à mesma hora todos os
+dias. Os comprimidos devem ser tomados com uma refeição a fim de evitar o risco de falta de eficácia
+(ver secção 5.2). Os comprimidos não devem ser mastigados, esmagados ou partidos antes de engolir.
+Durante a fase de titulação da dose, venetoclax deve ser tomado de manhã, para facilitar a
+monitorização laboratorial.
+Produtos que contenham toranja, laranjas de Sevilha e carambola devem ser evitados durante o
+tratamento com venetoclax (ver secção 4.5).
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Em doentes com LLC, utilização concomitante de inibidores fortes do CYP3A no início e durante a
+fase de titulação da dose (ver secções 4.2 e 4.5).
+Em todos os doentes, utilização concomitante de preparados que contenham erva de São João (ver
+secções 4.4 e 4.5).
+4.4
+
+Advertências e precauções especiais de utilização
+
+Síndrome de lise tumoral
+Síndrome de lise tumoral, incluindo acontecimentos fatais e insuficiência renal que necessitou de
+diálise, ocorreu em doentes tratados com venetoclax (ver secção 4.8).
+Venetoclax pode causar uma rápida redução do tumor e, assim, existir o risco de SLT no início e
+durante a fase de titulação da dose. As alterações nos eletrólitos consistentes com SLT, e que
+necessitam de tratamento imediato, podem ocorrer logo 6 a 8 horas após a primeira dose de venetoclax
+e em cada aumento de dose. Durante a vigilância pós‑comercialização, foi notificada a ocorrência de
+SLT, incluindo acontecimentos fatais, após uma dose única de 20 mg de venetoclax. As informações
+descritas na secção 4.2, incluindo a avaliação do risco, as medidas profiláticas, o esquema de titulação
+e modificação da dose, a monitorização laboratorial e as interações medicamentosas, devem ser
+seguidas para prevenir e reduzir o risco de SLT.
+O risco de SLT é contínuo e baseia-se em diversos fatores, incluindo comorbilidades (particularmente
+uma função renal diminuída), carga tumoral e esplenomegalia em LLC.
+Todos os doentes devem ser avaliados em relação ao risco e devem receber profilaxia adequada para a
+SLT, incluindo hidratação e anti-hiperuricémicos. As análises bioquímicas ao sangue devem ser
+monitorizadas e as alterações controladas imediatamente. Medidas mais intensivas (hidratação
+intravenosa, monitorização frequente, hospitalização) devem ser utilizadas se o risco global for
+superior. A dosagem deve ser interrompida, se necessário; ao reiniciar venetoclax, as orientações sobre
+as modificações de dose devem ser seguidas (ver Tabela 4 e Tabela 5). Devem ser seguidas as
+instruções para “Prevenção de síndrome de lise tumoral (SLT)” (ver secção 4.2).
+A utilização concomitante deste medicamento com inibidores fortes ou moderados do CYP3A
+aumenta a exposição a venetoclax e pode aumentar o risco de SLT no início e durante a fase de
+11
+
+titulação da dose (ver secções 4.2 e 4.3). Os inibidores de gp-P ou BCRP também podem aumentar a
+exposição a venetoclax (ver secção 4.5).
+Neutropenia e infeções
+Em doentes com LLC, foi notificada neutropenia de grau 3 ou 4 em doentes tratados com venetoclax
+em estudos de combinação com rituximab ou obinutuzumab e em estudos em monoterapia (ver secção
+4.8).
+Em doentes com LMA, são frequentes neutropenias de grau 3 ou 4 antes do início do tratamento. As
+contagens de neutrófilos podem agravar-se com venetoclax em combinação com um agente
+hipometilante. A neutropenia pode reaparecer com os ciclos de terapia subsequentes.
+Durante o período de tratamento devem ser monitorizados os hemogramas completos. Recomendamse interrupções ou reduções de dose em doentes com neutropenia grave (ver secção 4.2).
+Foram notificadas infeções graves incluindo sépsis associada a morte (ver secção 4.8). É necessária a
+monitorização de quaisquer sinais e sintomas de infeção. As infeções suspeitas devem receber
+tratamento imediato, incluindo antimicrobianos, interrupção ou redução de dose e utilização de fatores
+de crescimento (p. ex., G‑CSF) conforme apropriado (ver secção 4.2).
+Imunização
+A segurança e eficácia da imunização com vacinas vivas atenuadas durante ou após a terapêutica com
+venetoclax não foram estudadas. As vacinas vivas não devem ser administradas durante o tratamento e
+posteriormente até à recuperação das células B.
+Indutores do CYP3A
+A coadministração de indutores do CYP3A4 pode conduzir à redução da exposição a venetoclax e,
+consequentemente, a um risco de falta de eficácia. A utilização concomitante de venetoclax com
+indutores fortes ou moderados do CYP3A4 deve ser evitada (ver secções 4.3 e 4.5).
+Mulheres com potencial para engravidar
+As mulheres com potencial para engravidar devem utilizar um método contracetivo altamente eficaz
+enquanto tomam venetoclax (ver secção 4.6).
+Excipientes com efeito conhecido
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido, ou seja, é
+praticamente “isento de sódio”.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Venetoclax é metabolizado predominantemente pelo CYP3A.
+Agentes que podem alterar as concentrações plasmáticas de venetoclax
+Inibidores do CYP3A
+A coadministração de cetoconazol 400 mg uma vez por dia, um inibidor forte do CYP3A, gp-P e
+BCRP, durante 7 dias em 11 doentes, aumentou para 2,3 vezes a Cmax e para 6,4 vezes a AUC de
+venetoclax. A coadministração de ritonavir 50 mg uma vez por dia, um inibidor forte do CYP3A e gpP, durante 14 dias em 6 indivíduos saudáveis aumentou para 2,4 vezes a Cmax e para 7,9 vezes a AUC
+de venetoclax. Em comparação com venetoclax 400 mg administrado isoladamente, a coadministração
+de 300 mg de posaconazol, um inibidor forte do CYP3A e gp-P, com venetoclax 50 mg e 100 mg
+12
+
+durante 7 dias, em 12 doentes, aumentou a Cmax de venetoclax para 1,6 vezes e 1,9 vezes e a AUC para
+1,9 vezes e 2,4 vezes, respetivamente. Estima-se que a coadministração de venetoclax com outros
+inibidores fortes do CYP3A4 aumente a AUC de venetoclax em média 5,8 a 7,8 vezes.
+Em doentes que necessitam de utilizar venetoclax concomitantemente com inibidores fortes do
+CYP3A (p. ex. itraconazol, cetoconazol, posaconazol, voriconazol, claritromicina, ritonavir) ou
+inibidores moderados do CYP3A (p. ex. ciprofloxacina, diltiazem, eritromicina, fluconazol,
+verapamilo), o esquema posológico de venetoclax deve ser administrado de acordo com a Tabela 7. Os
+doentes devem ser cuidadosamente monitorizados em relação a sinais de toxicidade e a dose poderá
+ter de ser ainda mais ajustada. A dose de venetoclax utilizada antes de se iniciar o inibidor do CYP3A
+deve ser retomada 2 a 3 dias após a descontinuação do inibidor (ver secção 4.2).
+Produtos que contenham toranja, laranjas de Sevilha e carambola devem ser evitados durante o
+tratamento com venetoclax, pois contêm inibidores do CYP3A.
+Inibidores de gp-P e BCRP
+Venetoclax é um substrato de gp-P e BCRP. A coadministração de uma dose única de 600 mg de
+rifampicina, um inibidor de gp-P, em 11 indivíduos saudáveis aumentou a Cmax em 106% e a AUC em
+78% de venetoclax. A utilização concomitante de venetoclax com inibidores da gp-P e BCRP deve ser
+evitada no início e durante a fase de titulação da dose; se tiver de ser utilizado um inibidor de gp-P e
+BCRP, os doentes devem ser monitorizados cuidadosamente em relação a sinais de toxicidade (ver
+secção 4.4).
+Indutores do CYP3A
+A coadministração de rifampicina 600 mg uma vez por dia, um indutor forte do CYP3A, durante 13
+dias em 10 indivíduos saudáveis, reduziu a Cmax em 42% e a AUC em 71% de venetoclax. Deve ser
+evitada a utilização concomitante de venetoclax com indutores fortes do CYP3A (p. ex.
+carbamazepina, fenitoína, rifampicina) ou indutores moderados do CYP3A (p. ex. bosentano,
+efavirenz, etravirina, modafinil, nafcilina). Devem considerar-se tratamentos alternativos com menor
+indução do CYP3A. Os preparados que contenham erva de São João são contraindicados durante o
+tratamento com venetoclax, pois a eficácia pode ser reduzida (ver secção 4.3).
+Azitromicina
+Num estudo de interação medicamentosa em 12 voluntários saudáveis, a coadministração de
+azitromicina 500 mg no primeiro dia, seguido de azitromicina 250 mg uma vez por dia, durante 4 dias,
+diminuiu em 25% a Cmax e em 35% a AUC de venetoclax. Não é necessário ajuste de dose durante o
+tratamento de curta duração com azitromicina quando administrada concomitantemente com
+venetoclax.
+Agentes redutores do ácido gástrico
+Com base na análise farmacocinética da população, os agentes redutores do ácido gástrico (p. ex.
+inibidores da bomba de protões, antagonistas do recetor H2, antiácidos) não afetam a
+biodisponibilidade de venetoclax.
+Sequestrantes dos ácidos biliares
+Não é recomendada a coadministração de sequestrantes dos ácidos biliares com venetoclax, uma vez
+que pode reduzir a absorção de venetoclax. Se for necessário coadministrar um sequestrante dos ácidos
+biliares com venetoclax, deve seguir-se a informação descrita no RCM do sequestrante dos ácidos
+biliares para reduzir o risco de uma interação, e venetoclax deve ser administrado pelo menos 4-6
+horas após o sequestrante.
+Agentes que podem ter as suas concentrações plasmáticas alteradas por venetoclax
+13
+
+Varfarina
+Num estudo de interação medicamentosa em três voluntários saudáveis, a administração de uma dose
+única de 400 mg de venetoclax com 5 mg de varfarina resultou num aumento de 18% a 28% na C max e
+AUC de R-varfarina e S-varfarina. Uma vez que venetoclax não foi doseado até atingir o estado
+estacionário, recomenda-se que a razão normalizada internacional (INR) seja cuidadosamente
+monitorizada em doentes que estão a receber varfarina.
+Substratos de gp-P, BCRP e OATP1B1
+Venetoclax é um inibidor in vitro de gp-P, BCRP e OATP1B1. Num estudo de interação
+medicamentosa, a administração de uma dose única de 100 mg de venetoclax com 0,5 mg de digoxina,
+um substrato de gp-P, resultou num aumento de 35% na Cmax e de 9% na AUC de digoxina. Deve ser
+evitada a coadministração de substratos de gp-P ou BCRP de janela terapêutica estreita (p. ex.
+digoxina, dabigatrano, everolímus, sirolímus) com venetoclax.
+Se houver necessidade de administrar um substrato de gp-P ou BCRP, de janela terapêutica estreita,
+este deve ser utilizado com precaução. No caso de um substrato de gp-P ou BCRP administrado
+oralmente que seja sensível à inibição no trato gastrointestinal (p. ex. dabigatrano etexilato), a sua
+administração deve ser separada da administração de venetoclax tanto quanto possível para minimizar
+uma potencial interação.
+Se uma estatina (substrato de OATP) for utilizada concomitantemente com venetoclax, recomenda-se
+que o doente seja cuidadosamente monitorizado em relação a toxicidade relacionada com a estatina.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Mulheres com potencial para engravidar/Contraceção nas mulheres
+As mulheres devem evitar engravidar enquanto estiverem a tomar Venclyxto e durante pelo menos
+30 dias depois de terminar o tratamento. Deste modo, as mulheres com potencial para engravidar
+devem utilizar métodos contracetivos altamente eficazes enquanto estiverem a tomar venetoclax e
+durante 30 dias após descontinuação do tratamento. Atualmente, desconhece-se se venetoclax pode
+reduzir a eficácia dos contracetivos hormonais, pelo que as mulheres que utilizam contracetivos
+hormonais devem adicionar um método de barreira.
+Gravidez
+Com base em estudos de toxicidade embriofetal em animais (ver secção 5.3), venetoclax pode
+provocar lesão fetal quando administrado a mulheres grávidas.
+Não existem dados adequados e bem controlados sobre a utilização de venetoclax em mulheres
+grávidas. Os estudos em animais demonstraram toxicidade reprodutiva (ver secção 5.3). Venetoclax
+não é recomendado durante a gravidez e em mulheres com potencial para engravidar que não utilizam
+métodos contracetivos altamente eficazes.
+Amamentação
+Desconhece-se se venetoclax ou os seus metabolitos são excretados no leite humano.
+Não pode ser excluído um risco para a criança em amamentação.
+A amamentação deve ser descontinuada durante o tratamento com Venclyxto.
+
+14
+
+Fertilidade
+Não existem dados em humanos sobre o efeito de venetoclax na fertilidade. Com base na toxicidade
+testicular em cães em exposições clinicamente relevantes, a fertilidade masculina pode ser
+comprometida pelo tratamento com venetoclax (ver secção 5.3). Antes de iniciar o tratamento,
+considerar o aconselhamento sobre conservação de esperma em alguns doentes do sexo masculino.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de Venclyxto sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezáveis.
+Foram notificadas fadiga e tonturas em alguns doentes em tratamento com venetoclax, as quais devem
+ser consideradas durante a avaliação da capacidade do doente em conduzir ou utilizar máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Leucemia linfocítica crónica
+O perfil de segurança global de Venclyxto baseia-se em dados de 758 doentes com LLC tratados em
+estudos clínicos com venetoclax em combinação com obinutuzumab ou rituximab ou em monoterapia.
+A avaliação de segurança incluiu doentes de dois estudos de fase 3 (CLL14 e MURANO), de dois
+estudos de fase 2 (M13-982 e M14-032) e de um estudo de fase 1 (M12-175). O estudo CLL14 foi um
+estudo controlado, aleatorizado, no qual 212 doentes com LLC previamente não tratados e com
+comorbilidades receberam venetoclax em combinação com obinutuzumab. O estudo MURANO foi
+um estudo controlado, aleatorizado, no qual 194 doentes com LLC previamente tratados receberam
+venetoclax em combinação com rituximab. Nos estudos de fase 2 e fase 1, 352 doentes com LLC
+previamente tratados, tendo incluído 212 doentes com deleção 17p e 146 doentes com falência à
+terapêutica com um inibidor da via do recetor das células B, foram tratados com venetoclax em
+monoterapia (ver secção 5.1).
+As reações adversas que ocorreram mais frequentemente (≥20%), de qualquer grau, em doentes em
+tratamento com venetoclax nos estudos de combinação com obinutuzumab ou rituximab foram
+neutropenia, diarreia e infeção do trato respiratório superior. Nos estudos em monoterapia, as reações
+adversas mais frequentes foram neutropenia/contagem diminuída de neutrófilos, diarreia, náuseas,
+anemia, fadiga e infeção do trato respiratório superior.
+As reações adversas graves notificadas mais frequentemente (≥2%) em doentes tratados com
+venetoclax em combinação com obinutuzumab ou rituximab foram pneumonia, sépsis, neutropenia
+febril e SLT. Nos estudos em monoterapia as reações adversas graves mais frequentemente notificadas
+(≥2%) foram pneumonia e neutropenia febril.
+Leucemia mieloide aguda
+O perfil de segurança global de Venclyxto baseia-se em dados de 314 doentes com leucemia mieloide
+aguda (LMA) recentemente diagnosticada tratados em estudos clínicos com venetoclax em
+combinação com um agente hipometilante (azacitidina ou decitabina) (VIALE-A de fase 3
+aleatorizado e M14-358 de fase 1 não aleatorizado).
+No estudo VIALE-A, as reações adversas que ocorreram mais frequentemente (≥20%) de qualquer
+grau, em doentes tratados com venetoclax em combinação com azacitidina, foram trombocitopenia,
+neutropenia, neutropenia febril, náuseas, diarreia, vómitos, anemia, fadiga, pneumonia, hipocaliemia e
+apetite diminuído.
+As reações adversas graves notificadas mais frequentemente (≥5%) em doentes tratados com
+venetoclax em combinação com azacitidina foram neutropenia febril, pneumonia, sépsis e hemorragia.
+15
+
+No estudo M14-358, as reações adversas que ocorreram mais frequentemente (≥20%) de qualquer
+grau, em doentes tratados com venetoclax em combinação com decitabina, foram trombocitopenia,
+neutropenia febril, náuseas, hemorragia, pneumonia, diarreia, fadiga, tonturas/síncope, vómitos,
+neutropenia, hipotensão, hipocaliemia, apetite diminuído, cefaleias, dor abdominal e anemia. As
+reações adversas graves notificadas mais frequentemente (≥5%) foram neutropenia febril, pneumonia,
+bacteriemia e sépsis.
+A taxa de mortalidade aos 30 dias no estudo VIALE-A foi de 7,4% (21/283) com venetoclax em
+combinação com azacitidina e de 6,3% (9/144) no braço placebo com azacitidina.
+A taxa de mortalidade aos 30 dias no estudo M14-358 com venetoclax em combinação com decitabina
+foi de 6,5% (2/31).
+Tabela de reações adversas
+As reações adversas estão indicadas por classes de sistemas de órgãos MedDRA e frequência. As
+frequências são definidas como muito frequentes (≥1/10); frequentes (≥1/100 a <1/10); pouco
+frequentes (≥1/1.000 a <1/100); raros (≥1/10.000 a <1/1.000); muito raros (<1/10.000); desconhecido
+(não pode ser calculado a partir dos dados disponíveis). Em cada grupo de frequência, os efeitos
+indesejáveis são apresentados por ordem decrescente de gravidade.
+Leucemia linfocítica crónica
+As frequências de reações adversas notificadas com Venclyxto, em combinação com obinutuzumab,
+rituximab ou em monoterapia em doentes com LLC são resumidas na Tabela 8.
+Tabela 8: Reações adversas medicamentosas notificadas em doentes com LLC tratados com
+venetoclax
+Classes de sistemas
+de órgãos
+
+Todos os grausa
+Frequência
+Muito frequentes
+
+Infeções e
+infestações
+Frequentes
+
+Doenças do sangue
+e do sistema
+linfático
+
+Muito frequentes
+Frequentes
+Muito frequentes
+
+Doenças do
+metabolismo e da
+nutrição
+
+Doenças
+gastrointestinais
+
+Grau ≥3ª
+
+Frequentes
+
+Muito frequentes
+
+Pneumonia
+Infeção do trato
+respiratório superior
+Sépsis
+Infeção do trato urinário
+
+Sépsis
+Pneumonia
+Infeção do trato urinário
+Infeção do trato
+respiratório superior
+
+Neutropenia
+Anemia
+Linfopenia
+
+Neutropenia
+Anemia
+
+Neutropenia febril
+
+Neutropenia febril
+Linfopenia
+
+Hipercaliemia
+Hiperfosfatemia
+Hipocalcemia
+Síndrome de lise tumoral
+Hiperuricemia
+
+Diarreia
+Vómitos
+Náuseas
+16
+
+Síndrome de lise tumoral
+Hipercaliemia
+Hiperfosfatemia
+Hipocalcemia
+Hiperuricemia
+
+Obstipação
+
+Diarreia
+Vómitos
+Náuseas
+Obstipação
+
+Frequentes
+Pouco frequentes
+Perturbações
+gerais e alterações
+no local de
+administração
+Exames
+complementares de
+diagnóstico
+
+Muito frequentes
+
+Fadiga
+
+Frequentes
+Frequentes
+
+Fadiga
+Aumento da creatinina no
+sangue
+
+Aumento da creatinina no
+sangue
+ªApenas é apresentada a frequência mais elevada observada nos estudos (baseada nos estudos
+CLL14, MURANO, M13-982, M14-032 e M12-175).
+Pouco frequentes
+
+Leucemia mieloide aguda
+As frequências de reações adversas notificadas com Venclyxto em combinação com um agente
+hipometilante em doentes com LMA são resumidas na Tabela 9.
+Tabela 9: Reações adversas medicamentosas notificadas em doentes com LMA tratados com
+venetoclax
+Classes de sistemas
+de órgãos
+Infeções e infestações
+
+Todos os grausa
+
+Frequência
+Muito
+frequentes
+
+Pneumoniab
+Sépsisb
+Infeção do trato urinário
+
+Frequentes
+Doenças do sangue e
+do sistema linfático
+Doenças do
+metabolismo e da
+nutrição
+
+Muito
+frequentes
+
+Neutropeniab
+Neutropenia febril
+Anemia b
+Trombocitopeniab
+Hipocaliemia
+Apetite diminuído
+
+Frequentes
+
+Síndrome de lise tumoral
+
+Muito
+frequentes
+
+Pouco
+frequentes
+Muito
+frequentes
+Doenças do sistema
+nervoso
+
+Vasculopatias
+
+Pneumoniab
+Sépsisb
+Infeção do trato urinário
+Neutropeniab
+Neutropenia febril
+Anemia b
+Trombocitopeniab
+Hipocaliemia
+Apetite diminuído
+Síndrome de lise tumoral
+
+b
+
+Tonturas/síncope
+Cefaleias
+
+Tonturas/síncopeb
+
+Frequentes
+Pouco
+frequentes
+Muito
+frequentes
+
+Grau ≥3a
+
+Cefaleias
+Hipotensão
+Hemorragiab
+
+Frequentes
+
+Hemorragiab
+Hipotensão
+
+17
+
+Doenças
+respiratórias,
+torácicas e do
+mediastino
+
+Muito
+frequentes
+Frequentes
+Muito
+frequentes
+
+Doenças
+gastrointestinais
+
+Afeções
+hepatobiliares
+
+Dispneia
+Dispneia
+Náuseas
+Diarreia
+Vómitos
+Estomatite
+Dor abdominal
+
+Frequentes
+
+Náuseas
+Diarreia
+Vómitos
+
+Pouco
+frequentes
+
+Estomatite
+
+Frequentes
+
+Colecistite/colelitíaseb
+
+Afeções
+musculoesqueléticas
+e dos tecidos
+conjuntivos
+
+Muito
+frequentes
+
+Artralgia
+
+Perturbações gerais e
+alterações no local de
+administração
+
+Muito
+frequentes
+
+Exames
+complementares de
+diagnóstico
+
+Muito
+frequentes
+
+Pouco
+frequentes
+
+Colecistite/colelitíaseb
+
+Artralgia
+Fadiga
+Astenia
+Fadiga
+Astenia
+
+Frequentes
+Peso diminuído
+Bilirrubinemia aumentada
+
+Peso diminuído
+Bilirrubinemia aumentada
+
+Frequentes
+
+a
+
+Apenas é apresentada a frequência mais elevada observada nos estudos (baseada nos estudos VIALE-A e
+M14-358).
+b
+
+Inclui vários termos de reações adversas.
+
+Descontinuação e reduções de dose devido a reações adversas
+Leucemia linfocítica crónica
+Descontinuações devido a reações adversas ocorreram em 16% dos doentes tratados com venetoclax
+em combinação com obinutuzumab ou rituximab nos estudos CLL14 e MURANO, respetivamente.
+Nos estudos de venetoclax em monoterapia, 11% dos doentes descontinuaram o tratamento devido a
+reações adversas.
+Reduções de dose devido a reações adversas ocorreram em 21% dos doentes tratados com venetoclax
+em combinação com obinutuzumab no estudo CLL14, em 15% dos doentes tratados com venetoclax
+em combinação com rituximab no estudo MURANO e em 14% dos doentes tratados com venetoclax
+nos estudos em monoterapia.
+Interrupções de dose devidas a reações adversas ocorreram em 74% dos doentes tratados com
+venetoclax em combinação com obinutuzumab no estudo CLL14 e em 71% dos doentes tratados com
+venetoclax em combinação com rituximab no estudo MURANO; a reação adversa que mais
+frequentemente levou a interrupção da dose de venetoclax foi neutropenia (41% e 43% nos estudos
+CLL14 e MURANO, respetivamente). Nos estudos de venetoclax em monoterapia, ocorreram
+interrupções de dose devidas a reações adversas em 40% dos doentes; a reação adversa que mais
+frequentemente levou a interrupção da dose foi neutropenia (5%).
+18
+
+Leucemia mieloide aguda
+No estudo VIALE-A, as descontinuações de venetoclax devido a reações adversas ocorreram em 24%
+dos doentes tratados com a combinação de venetoclax e azacitidina. As reduções de dose de
+venetoclax devido a reações adversas ocorreram em 2% dos doentes. As interrupções de dose de
+venetoclax devido a reações adversas ocorreram em 72% dos doentes. De entre os doentes que
+alcançaram a depuração da leucemia ao nível da medula óssea, 53% foram submetidos a interrupção
+da dose para ANC <500/microlitro. As reações adversas que mais frequentemente levaram a
+interrupção da dose (>10%) de venetoclax foram neutropenia febril, neutropenia, pneumonia e
+trombocitopenia.
+No estudo M14-358, as descontinuações devido a reações adversas ocorreram em 26% dos doentes
+tratados com a combinação de venetoclax e decitabina. As reduções de dose devido a reações adversas
+ocorreram em 6% dos doentes. As interrupções de dose devido a reações adversas ocorreram em 65%
+dos doentes; as reações adversas que mais frequentemente levaram a interrupção da dose (≥5%) de
+venetoclax foram neutropenia febril, neutropenia/contagem diminuída de neutrófilos, pneumonia,
+contagem diminuída de plaquetas e contagem diminuída de glóbulos brancos.
+Descrição das reações adversas selecionadas
+Síndrome de lise tumoral
+A síndrome de lise tumoral é um risco identificado importante quando se inicia venetoclax.
+Leucemia linfocítica crónica
+Nos estudos de dose de Fase 1 iniciais, com uma fase de titulação mais curta (2 a 3 semanas) e uma
+dose inicial mais elevada, a incidência de SLT foi de 13% (10/77; 5 SLT laboratoriais; 5 SLT
+clínicas), incluindo 2 acontecimentos fatais e 3 acontecimentos de insuficiência renal aguda, 1
+necessitou de diálise.
+O risco de SLT foi reduzido após revisão do regime posológico e modificação para inclusão de
+medidas de profilaxia e monitorização. Nos estudos clínicos de venetoclax, os doentes com qualquer
+gânglio linfático mensurável ≥ 10 cm, ou com ambos ALC ≥25 x 109/l e qualquer gânglio linfático
+mensurável ≥5 cm, foram hospitalizados para permitir hidratação e monitorização mais intensivas no
+primeiro dia de administração de 20 mg e 50 mg durante a fase de titulação (ver secção 4.2).
+Em 168 doentes com LLC que iniciaram uma dose diária de 20 mg aumentando durante 5 semanas
+para uma dose diária de 400 mg nos estudos M13-982 e M14-032, a taxa de SLT foi de 2%. Todos os
+acontecimentos foram SLT laboratorial (alterações laboratoriais que cumpriram ≥2 dos seguintes
+critérios com intervalo de menos de 24 horas entre eles: potássio >6 mmol/l, ácido úrico >476 µmol/l,
+cálcio <1,75 mmol/l ou fósforo >1,5 mmol/l; ou foram notificados como acontecimentos de SLT) e
+ocorreram em doentes com gânglio(s) linfático(s) ≥5 cm ou ALC ≥25 x 109/l. Nestes doentes não foi
+observada SLT com consequências clínicas, como insuficiência renal aguda, arritmias cardíacas ou
+morte súbita e/ou convulsões. Todos os doentes apresentaram CrCl ≥50 ml/min.
+No estudo de fase 3 (MURANO) aberto, aleatorizado, a incidência de SLT foi de 3% (6/194) em
+doentes tratados com venetoclax + rituximab. Após terem sido incluídos no estudo 77/389 doentes, o
+protocolo foi alterado de forma a incorporar as atuais medidas de profilaxia e monitorização de SLT,
+descritas na “Posologia” (ver secção 4.2). Todos os acontecimentos de SLT ocorreram durante a fase
+de titulação da dose de venetoclax e foram resolvidos em 2 dias. Todos os seis doentes completaram a
+fase de titulação da dose e atingiram a dose diária recomendada de 400 mg de venetoclax. Não foi
+observada qualquer SLT clínica nos doentes que seguiram o atual esquema de titulação da dose de 5
+semanas e as medidas de profilaxia e monitorização de SLT (ver secção 4.2). As taxas de alterações
+laboratoriais de grau ≥3 relevantes para a SLT foram hipercaliemia 1%, hiperfosfatemia 1% e
+hiperuricemia 1%.
+19
+
+No estudo de fase 3 (CLL14) aberto, aleatorizado, a incidência de SLT foi de 1,4% (3/212) em doentes
+tratados com venetoclax + obinutuzumab. Os três acontecimentos de SLT foram resolvidos e não
+levaram ao abandono do estudo. Em dois casos, a administração de obinutuzumab foi adiada devido
+aos acontecimentos de SLT.
+Durante a vigilância pós‑comercialização, foi notificada a ocorrência da SLT, incluindo
+acontecimentos fatais, após uma dose única de 20 mg de venetoclax (ver secções 4.2 e 4.4).
+Leucemia mieloide aguda
+No estudo de fase 3 (VIALE-A) aleatorizado com venetoclax em combinação com azacitidina, a
+incidência de SLT foi de 1,1% (3/283, 1 SLT clínica). O estudo exigiu a redução da contagem de
+glóbulos brancos para <25 x 109/l antes do início de venetoclax e um esquema de titulação da dose,
+além das medidas padrão de profilaxia e monitorização (ver secção 4.2). Todos os casos de SLT
+ocorreram durante a titulação da dose.
+No estudo M14-358, não foram notificados quaisquer acontecimentos de SLT laboratorial ou clínica
+com venetoclax em combinação com decitabina.
+Neutropenia e infeções
+A neutropenia é um risco identificado no tratamento com Venclyxto.
+Leucemia linfocítica crónica
+No estudo CLL14, foi reportada neutropenia (todos os graus) em 58% dos doentes alocados no braço
+venetoclax + obinutuzumab; 41% dos doentes tratados com venetoclax + obinutuzumab necessitaram
+de interrupção de dose e 2% dos doentes descontinuaram venetoclax devido a neutropenia. Foi
+reportada neutropenia de grau 3 em 25% dos doentes e neutropenia de grau 4 em 28% dos doentes. A
+duração mediana de neutropenia de grau 3 ou 4 foi de 22 dias (intervalo: 2 a 363 dias). Foi reportada
+neutropenia febril em 6% dos doentes, infeções de grau ≥3 em 19% e infeções graves em 19% dos
+doentes. Ocorreram mortes devido a infeção em 1,9% dos doentes durante o tratamento e em 1,9% dos
+doentes após descontinuação do tratamento.
+No estudo MURANO, foi reportada neutropenia (todos os graus) em 61% dos doentes alocados no
+braço venetoclax + rituximab. 43% dos doentes tratados com venetoclax + rituximab necessitaram de
+interrupção de dose e 3% dos doentes descontinuaram venetoclax devido a neutropenia. Foi reportada
+neutropenia de grau 3 em 32% dos doentes e neutropenia de grau 4 em 26% dos doentes. A duração
+mediana de neutropenia de grau 3 ou 4 foi de 8 dias (intervalo: 1 a 712 dias). No tratamento com
+venetoclax + rituximab, foi reportada neutropenia febril em 4% dos doentes, infeções de grau ≥3 em
+18% e infeções graves em 21% dos doentes.
+Leucemia mieloide aguda
+No estudo VIALE-A, foi notificada neutropenia de grau ≥3 em 45% dos doentes. Também foram
+notificados no braço venetoclax + azacitidina versus braço placebo + azacitidina, respetivamente:
+neutropenia febril 42% versus 19%, infeções de grau ≥3 64% versus 51% e infeções graves 57%
+versus 44%.
+No estudo M14-358, foi notificada neutropenia em 35% (de todos os graus) e 35% (grau 3 ou 4) dos
+doentes no braço venetoclax + decitabina.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+20
+
+4.9
+
+Sobredosagem
+
+Não existe antídoto específico para venetoclax. Os doentes que sofrerem sobredosagem devem ser
+cuidadosamente monitorizados e devem receber tratamento de suporte apropriado. Durante a fase de
+titulação da dose, o tratamento deve ser interrompido e os doentes devem ser cuidadosamente
+monitorizados em relação a sinais e sintomas de SLT (febre, calafrios, náuseas, vómitos, confusão,
+falta de ar, convulsões, batimento cardíaco irregular, urina escura ou turva, cansaço anormal, dor
+muscular ou articular, dor e distensão abdominal), em conjunto com outras toxicidades (ver secção
+4.2). Com base no elevado volume de distribuição e extensa ligação proteica de venetoclax, é
+improvável que a diálise resulte numa remoção significativa de venetoclax.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: agentes antineoplásicos, outros agentes antineoplásicos, código ATC:
+L01XX52
+Mecanismo de ação
+Venetoclax é um inibidor potente e seletivo da proteína anti-apoptótica BCL-2 presente no linfoma das
+células B. Nas células de LLC e LMA foi demonstrada a sobreexpressão de BCL-2, que medeia a
+sobrevivência da célula tumoral e tem sido associada a resistência à quimioterapia. Venetoclax liga-se
+diretamente à fenda de ligação BH3 de BCL-2, deslocando as proteínas pró-apoptóticas com domínio
+BH3, como a BIM, para iniciar a permeabilização da membrana externa mitocondrial (MOMP),
+ativação da caspase, e morte celular programada. Em estudos não-clínicos, venetoclax demonstrou
+atividade citotóxica em células tumorais que sobreexpressam BCL-2.
+Efeitos farmacodinâmicos
+Eletrofisiologia cardíaca
+O efeito de doses múltiplas de venetoclax até 1200 mg uma vez por dia no intervalo QTc foi avaliado
+num estudo aberto de braço único em 176 doentes. Venetoclax não teve efeito no intervalo QTc e não
+houve relação entre a exposição a venetoclax e a alteração no intervalo QTc.
+Eficácia e segurança clínicas
+Leucemia linfocítica crónica
+Venetoclax em combinação com obinutuzumab no tratamento de doentes com LLC previamente não
+tratados – estudo BO25323 (CLL14)
+Um estudo de fase 3, aberto, multicêntrico, aleatorizado (1:1) avaliou a eficácia e segurança de
+venetoclax + obinutuzumab versus obinutuzumab + clorambucilo em doentes com LLC previamente
+não tratados e com comorbilidades (pontuação total >6 na Cumulative Illness Rating Scale [CIRS] ou
+taxa de depuração da creatinina [CrCl] <70 ml/min). Os doentes que participaram no estudo foram
+avaliados relativamente ao risco de SLT e receberam profilaxia adequada antes da administração de
+obinutuzumab. Todos os doentes receberam obinutuzumab a 100 mg no Dia 1 do Ciclo 1, seguidos de
+900 mg, que podiam ser administrados no Dia 1 ou no Dia 2, e em seguida doses de 1000 mg nos Dias
+8 e 15 do Ciclo 1, e no Dia 1 de cada ciclo subsequente, durante um total de 6 ciclos. No Dia 22 do
+Ciclo 1, os doentes alocados no braço venetoclax + obinutuzumab iniciaram o esquema de titulação da
+dose de 5 semanas com venetoclax, tendo continuado até ao Dia 28 do Ciclo 2. Após conclusão do
+esquema de titulação da dose, os doentes continuaram com venetoclax 400 mg uma vez ao dia desde o
+Dia 1 do Ciclo 3 até ao último dia do Ciclo 12. Cada ciclo foi de 28 dias. Os doentes aleatorizados
+para o braço obinutuzumab + clorambucilo receberam 0,5 mg/kg de clorambucilo por via oral no Dia
+21
+
+1 e no Dia 15 dos Ciclos 1-12. Os doentes continuaram a ser seguidos para avaliação da progressão da
+doença e da sobrevivência global (OS) após a conclusão da terapêutica.
+As caraterísticas demográficas e da doença na avaliação inicial eram semelhantes entre os braços do
+estudo. A idade mediana foi de 72 anos (intervalo: 41 a 89 anos), 89% eram caucasianos e 67% eram
+homens; 36% e 43% estavam no estadio B e C de Binet, respetivamente. A pontuação CIRS mediana
+foi de 8,0 (intervalo: 0 a 28) e 58% dos doentes apresentaram CrCl <70 ml/min. Verificou-se deleção
+17p em 8% dos doentes, mutações TP53 em 10%, deleção 11q em 19% e gene IgVH não mutado em
+57%. O tempo mediano de seguimento aquando da análise primária foi de 28 meses (intervalo: 0 a
+36 meses).
+Na avaliação inicial, a contagem linfocitária mediana foi de 55 x 109 células/l em ambos os braços do
+estudo. No Dia 15 do Ciclo 1, a contagem mediana diminuiu para 1,03 x 109 células/l (intervalo: 0,2 a
+43,4 x 109 células/l) no braço obinutuzumab + clorambucilo e 1,27 x 109 células/l (intervalo: 0,2 a
+83,7 x 109 células/l) no braço venetoclax + obinutuzumab.
+A sobrevivência livre de progressão (PFS) foi avaliada pelos investigadores utilizando as normas
+orientadoras do International Workshop for Chronic Lymphocytic Leukemia (IWCLL) atualizadas pelo
+National Cancer Institute-sponsored Working Group (NCI-WG) (2008).
+Aquando da análise primária (data de fecho dos dados 17 de agosto de 2018), 14% (30/216) dos
+doentes no braço venetoclax + obinutuzumab tiveram um acontecimento de PFS de progressão da
+doença ou de morte, em comparação com 36% (77/216) no braço obinutuzumab + clorambucilo, de
+acordo com a avaliação dos investigadores (razão de risco [HR]: 0,35 [intervalo de confiança [IC]
+de 95%: 0,23; 0,53]; p<0,0001, teste log‑rank estratificado). A PFS mediana não foi atingida em
+nenhum braço do estudo.
+A sobrevivência livre de progressão também foi avaliada por uma Comissão de Revisão Independente
+(IRC) e foi consistente com a PFS avaliada pelos investigadores.
+A taxa de resposta global (ORR) avaliada pelo investigador foi de 85% (IC 95%: 79,2; 89,2) e de 71%
+(IC 95%: 64,8; 77,2) nos braços venetoclax + obinutuzumab e obinutuzumab + clorambucilo,
+respetivamente (p=0,0007, teste de Cochran-Mantel-Haenszel). A taxa de resposta completa + resposta
+completa com recuperação incompleta da medula (CR+CRi), avaliada pelo investigador, foi de 50% e
+de 23% nos braços venetoclax + obinutuzumab e obinutuzumab + clorambucilo, respetivamente
+(p<0,0001, teste de Cochran-Mantel-Haenszel).
+A doença residual mínima (MRD) no fim do tratamento foi avaliada através do ensaio com
+oligonucleotídeos de alelos específicos para reação em cadeia da polimerase (ASO-PCR). A
+negatividade de MRD foi definida como menos de uma célula de LLC por 10 4 leucócitos. As taxas de
+negatividade de MRD no sangue periférico foram de 76% (IC 95%: 69,2; 81,1) no braço
+venetoclax + obinutuzumab em comparação com 35% (IC 95%: 28,8; 42,0) no braço obinutuzumab
++ clorambucilo (p<0,0001). De acordo com o protocolo, a MRD na medula óssea só deveria ser
+avaliada em doentes com resposta (CR/CRi e resposta parcial [PR]). As taxas de negatividade de
+MRD na medula óssea foram de 57% (IC 95%: 50,1; 63,6) no braço venetoclax + obinutuzumab e de
+17% (IC 95%: 12,4; 22,8) no braço obinutuzumab + clorambucilo (p<0,0001).
+Seguimento de 65 meses
+A eficácia foi avaliada após um tempo mediano de seguimento de 65 meses (data de fecho dos dados
+8 de novembro de 2021). Os resultados de eficácia para o seguimento de 65 meses do estudo CLL14
+são apresentados na Tabela 10. A curva de Kaplan-Meier de PFS avaliada pelo investigador é
+apresentada na Figura 1.
+Tabela 10: Resultados de eficácia avaliados pelo investigador no estudo CLL14 (seguimento de
+65 meses)
+22
+
+Objetivo
+
+Venetoclax +
+obinutuzumab
+N = 216
+
+Obinutuzumab +
+clorambucilo
+N = 216
+
+Sobrevivência livre de progressão
+Número de acontecimentos (%)
+80 (37)
+150 (69)
+Mediana, meses (IC 95%)
+NR (64,8; NE)
+36,4 (34,1; 41,0)
+Razão de risco (HR), estratificada (IC 95%)
+0,35 (0,26; 0,46)
+Sobrevivência global
+Número de acontecimentos (%)
+40 (19)
+57 (26)
+Razão de risco (HR), estratificada (IC 95%)
+0,72 (0,48; 1,09)
+IC = intervalo de confiança; NE = não avaliável; NR = não atingido
+
+Sobrevivência livre de progressão
+
+Figura 1: Curva de Kaplan-Meier de sobrevivência livre de progressão avaliada pelo investigador
+(população com intenção-de-tratar [ITT]) no estudo CLL14 com seguimento de 65 meses
+
+Obinutuzumab + Clorambucilo (N=216)
+Venetoclax + Obinutuzumab (N=216)
+Censurado
+N.º de doentes em risco
+Patients
+at Risk
+Obinutuzumab
++ Clorambucilo
+Venetoclax + Obinutuzumab
+
+Tempo (meses)
+
+O benefício na PFS do tratamento com venetoclax + obinutuzumab versus o tratamento com
+obinutuzumab + clorambucilo foi observado em todos os subgrupos de doentes avaliados, incluindo
+doentes de alto risco com deleção 17p e/ou mutação TP53 e/ou IgVH não mutado.
+Venetoclax em combinação com rituximab no tratamento de doentes com LLC que receberam pelo
+menos um tratamento prévio – estudo GO28667 (MURANO)
+Um estudo de fase 3, aberto, multicêntrico, aleatorizado (1:1), avaliou a eficácia e segurança de
+venetoclax + rituximab versus bendamustina + rituximab em doentes com LLC previamente tratados.
+Os doentes alocados no braço venetoclax + rituximab completaram o esquema de titulação da dose de
+5 semanas com Venclyxto, seguido de 400 mg uma vez por dia durante 24 meses, a partir do Dia 1 do
+Ciclo 1 de rituximab, na ausência de progressão da doença ou toxicidade inaceitável. Rituximab foi
+iniciado após o esquema de titulação da dose de 5 semanas a 375 mg/m2 no Ciclo 1 e a 500 mg/m2 nos
+Ciclos 2-6. Cada ciclo foi de 28 dias. Os doentes aleatorizados para o braço bendamustina + rituximab
+receberam bendamustina a 70 mg/m2 nos Dias 1 e 2 durante 6 ciclos e rituximab conforme descrito
+acima.
+A idade mediana foi de 65 anos (intervalo: 22 a 85); 74% eram homens, e 97% eram caucasianos. O
+tempo mediano desde o diagnóstico foi de 6,7 anos (intervalo: 0,3 a 29,5). O número mediano de
+linhas terapêuticas prévias foi de 1 (intervalo: 1 a 5); e incluiu agentes alquilantes (94%), anticorpos
+23
+
+anti-CD20 (77%), inibidores da via do recetor das células B (2%) e análogos da purina prévios (81%
+incluindo 55% fludarabina + ciclofosfamida + rituximab (FCR)). Na avaliação inicial, 47% dos
+doentes apresentavam um ou mais gânglios ≥5 cm, e 68% apresentavam ALC ≥25 x 109/l. Verificouse deleção 17p em 27% dos doentes, mutações TP53 em 26%, deleção 11q em 37%, e gene IgVH não
+mutado em 68%. O tempo mediano de seguimento para a avaliação primária foi de 23,8 meses
+(intervalo: 0,0 a 37,4 meses).
+A sobrevivência livre de progressão foi avaliada pelos investigadores, utilizando as normas
+orientadoras do IWCLL atualizadas pelo NCI-WG (2008).
+Aquando da análise primária (data de fecho dos dados 8 de maio de 2017), 16% (32/194) dos doentes
+no braço venetoclax + rituximab tinham tido um acontecimento de PFS, em comparação com 58%
+(114/195) no braço bendamustina + rituximab (HR: 0,17 [IC 95%: 0,11; 0,25]; p<0,0001, teste
+log‑rank estratificado). Os acontecimentos de PFS incluíram 21 acontecimentos de progressão da
+doença e 11 acontecimentos de morte no braço venetoclax + rituximab, e 98 acontecimentos de
+progressão da doença e 16 acontecimentos de morte no braço bendamustina + rituximab. A PFS
+mediana não foi atingida no braço venetoclax + rituximab e foi de 17,0 meses (IC 95%: 15,5; 21,6) no
+braço bendamustina + rituximab.
+As estimativas de PFS a 12 e a 24 meses foram de 93% (IC 95%: 89,1; 96,4) e de 85% (IC 95%: 79,1;
+90,6) no braço venetoclax + rituximab e de 73% (IC 95%: 65,9; 79,1) e de 36% (IC 95%: 28,5; 44,0)
+no braço bendamustina + rituximab, respetivamente.
+Os resultados de eficácia da análise primária foram também avaliados por uma IRC, demonstrando
+uma redução estatisticamente significativa de 81% no risco de progressão ou morte para os doentes
+tratados com venetoclax + rituximab (HR: 0,19 [IC 95%: 0,13; 0,28]; p<0,0001).
+A ORR avaliada pelo investigador para doentes tratados com venetoclax + rituximab foi de 93%
+(IC 95%: 88,8; 96,4), com uma taxa de CR + CRi de 27%, taxa de resposta parcial ganglionar (nPR)
+de 3% e taxa de PR de 63%. Para doentes tratados com bendamustina + rituximab, a ORR foi de 68%
+(IC 95%: 60,6; 74,2), com uma taxa de CR + CRi de 8%, taxa de nPR de 6% e taxa de PR de 53%. A
+duração de resposta (DOR) mediana não foi atingida com um tempo de seguimento mediano de
+aproximadamente 23,8 meses. A ORR avaliada pela IRC para doentes tratados com
+venetoclax + rituximab foi de 92% (IC 95%: 87,6; 95,6), com uma taxa de CR + CRi de 8%, taxa de
+nPR de 2% e taxa de PR de 82%. Para doentes tratados com bendamustina + rituximab, a ORR
+avaliada pela IRC foi de 72% (IC 95%: 65,5; 78,5), com uma taxa de CR + CRi de 4%, taxa de nPR de
+1% e taxa de PR de 68%. A discrepância nas taxas de CR entre a avaliação pela IRC e a avaliação pelo
+investigador foi devida à interpretação de adenopatia residual nas TAC. Dezoito doentes no braço
+venetoclax + rituximab e 3 doentes no braço bendamustina + rituximab revelaram medula óssea
+negativa e gânglios linfáticos <2 cm.
+A MRD no fim do tratamento de combinação foi avaliada através de ASO-PCR e/ou citometria de
+fluxo. A negatividade de MRD foi definida como menos de uma célula de LLC por 10 4 leucócitos. As
+taxas de negatividade de MRD no sangue periférico foram de 62% (IC 95%: 55,2; 69,2) no braço
+venetoclax + rituximab em comparação com 13% (IC 95%: 8,9; 18,9) no braço
+bendamustina + rituximab. Dos doentes com resultados disponíveis de MRD no sangue periférico,
+72% (121/167) no braço venetoclax + rituximab e 20% (26/128) no braço bendamustina + rituximab
+revelaram ser MRD-negativos. As taxas de negatividade de MRD na medula óssea foram de 16%
+(IC 95%: 10,7; 21,3) no braço venetoclax + rituximab e de 1% (IC 95%: 0,1; 3,7) no braço
+bendamustina + rituximab. Dos doentes com resultados disponíveis de MRD na medula óssea, 77%
+(30/39) no braço venetoclax + rituximab e 7% (2/30) no braço bendamustina + rituximab revelaram
+ser MRD-negativos.
+A OS mediana não tinha sido atingida em nenhum dos braços de tratamento. Ocorreu morte em 8%
+(15/194) dos doentes tratados com venetoclax + rituximab e em 14% (27/195) dos doentes tratados
+com bendamustina + rituximab (razão de risco (HR): 0,48 [IC 95%: 0,25; 0,90]).
+
+24
+
+Na data de fecho dos dados, 12% (23/194) dos doentes no braço venetoclax + rituximab e 43%
+(83/195) dos doentes no braço bendamustina + rituximab tinham iniciado uma nova terapêutica
+anti-leucémica ou morrido (razão de risco (HR) estratificada: 0,19; [IC 95%: 0,12; 0,31]). O tempo
+mediano até à próxima terapêutica anti-leucémica ou morte não foi alcançado no braço
+venetoclax + rituximab e foi de 26,4 meses no braço bendamustina + rituximab.
+Seguimento de 59 meses
+A eficácia foi avaliada após um tempo mediano de seguimento de 59 meses (data de fecho dos dados 8
+de maio de 2020). Os resultados de eficácia para o seguimento de 59 meses do estudo MURANO são
+apresentados na Tabela 11.
+Tabela 11: Resultados de eficácia avaliados pelo investigador no estudo MURANO (seguimento
+de 59 meses)
+Objetivo
+
+Venetoclax +
+rituximab
+N = 194
+
+Sobrevivência livre de progressão
+Número de acontecimentos (%)a
+Mediana, meses (IC 95%)
+Razão de risco (HR), estratificada (IC 95%)
+Sobrevivência global
+Número de acontecimentos (%)
+Razão de risco (HR) (IC 95%)
+Estimativa a 60 meses, % (IC 95%)
+Tempo até à próxima terapêutica anti-leucémica
+Número de acontecimentos (%)b
+Mediana, meses (IC 95%)
+Razão de risco (HR), estratificada (IC 95%)
+Negatividade de MRDc
+Sangue periférico no fim do tratamento, n (%)d
+Estimativa de PFS a 3 anos após o fim do tratamento, %
+(IC 95%)e
+Estimativa de OS a 3 anos após o fim do tratamento, %
+(IC 95%)e
+
+Bendamustina +
+rituximab
+N = 195
+
+101 (52)
+167 (86)
+54 (48,4; 57,0)
+17 (15,5; 21,7)
+0,19 (0,15; 0,26)
+32 (16)
+64 (33)
+0,40 (0,26; 0,62)
+82 (76,4; 87,8)
+62 (54,8; 69,6)
+89 (46)
+149 (76)
+58 (55,1; NE)
+24 (20,7; 29,5)
+0,26 (0,20; 0,35)
+83 (64)
+61 (47,3; 75,2)
+
+NAf
+NAf
+
+95 (90,0; 100,0)
+
+NAf
+
+IC = intervalo de confiança; MRD = doença residual mínima; NE = não avaliável; OS = sobrevivência global;
+PFS = sobrevivência livre de progressão; NA = não aplicável.
+a
+87 e 14 acontecimentos no braço venetoclax + rituximab deveram-se a progressão da doença e morte, em comparação com 148 e
+19 acontecimentos no braço bendamustina + rituximab, respetivamente.
+b
+68 e 21 acontecimentos no braço venetoclax + rituximab deveram-se a início de nova terapêutica anti-leucémica e morte, em
+comparação com 123 e 26 acontecimentos no braço bendamustina + rituximab, respetivamente.
+c
+A doença residual mínima foi avaliada através de oligonucleotídeos de alelos específicos para reação em cadeia da polimerase
+(ASO‑PCR) e/ou citometria de fluxo. O valor limite (cut-off) para um estado negativo foi de uma célula LLC por 10 4 leucócitos.
+d
+Em doentes que completaram o tratamento com venetoclax sem progressão da doença (130 doentes).
+e
+Em doentes que completaram o tratamento com venetoclax sem progressão da doença e foram MRD-negativos (83 doentes).
+f
+Nenhum equivalente à visita de fim do tratamento no braço bendamustina + rituximab.
+
+No total, 130 doentes no braço venetoclax + rituximab completaram 2 anos de tratamento com
+venetoclax sem progressão da doença. Para estes doentes, a estimativa de PFS a 3 anos pós-tratamento
+foi de 51% (IC 95%: 40,2; 61,9).
+A curva de Kaplan-Meier de PFS avaliada pelo investigador é apresentada na Figura 2.
+
+25
+
+Sobrevivência livre de progressão
+
+Figura 2: Curva de Kaplan-Meier de sobrevivência livre de progressão avaliada pelo investigador
+(população com intenção-de-tratar (ITT)) no estudo MURANO (data de fecho dos dados 8 de maio de
+2020) com seguimento de 59 meses
+
+Bendamustina + Rituximab N = 195
+Venclyxto + Rituximab N = 194
+Censurados
+
+N.º de doentes em risco
+Bendamustina + Rituximab
+Venclyxto+ Rituximab
+
+Resultados da análise de subgrupos
+
+Tempo (meses)
+
+O benefício na PFS observado com venetoclax + rituximab quando comparado com
+bendamustina + rituximab foi observado de modo consistente em todos os subgrupos de doentes
+avaliados, incluindo doentes de alto risco com deleção 17p/mutação TP53 e/ou IgVH não mutado
+(Figura 3).
+Figura 3: Forest plot de sobrevivência livre de progressão avaliada pelo investigador em subgrupos do
+estudo MURANO (data de fecho dos dados 8 de maio de 2020) com seguimento de 59 meses
+Bendamustina+
+Rituximab
+(N = 195)
+
+Subgrupos
+
+Total
+n
+
+Todos os doentes
+
+Mediana
+(meses)
+
+n
+389
+
+Venetoclax+
+Rituximab
+(N = 194)
+
+n
+
+Mediana
+(meses)
+
+Razão de
+risco (HR)
+
+IC 95%
+Wald
+
+195
+
+17,0
+
+194
+
+53,6
+
+0,21
+
+(0,16; 0,27)
+
+Deleção cromossoma 17p (central)
+Normal
+250
+123
+
+21,6
+
+127
+
+55,1
+
+0,19
+
+(0,13; 0,27)
+
+46
+
+14,6
+
+46
+
+47,9
+
+0,27
+
+(0,16; 0,45)
+
+Mutação p53 e/ou deleção 17p (central)
+Não mutado
+201
+95
+Mutado
+147
+75
+
+22,9
+14,2
+
+106
+72
+
+56,6
+45,3
+
+0,18
+0,26
+
+(0,12; 0,26)
+(0,17; 0,38)
+
+Grupo etário 65 (anos)
+< 65
+≥ 65
+
+186
+203
+
+89
+106
+
+15,4
+21,7
+
+97
+97
+
+49,0
+57,0
+
+0,20
+0,20
+
+(0,14; 0,29)
+(0,14; 0,30)
+
+Grupo etário 75 (anos)
+< 75
+≥ 75
+
+336
+53
+
+171
+24
+
+16,4
+20,0
+
+165
+29
+
+53,5
+64,5
+
+0,21
+0,24
+
+(0,16; 0,28)
+(0,12; 0,51)
+
+Número de linhas de tratamento prévias
+1
+228
+117
+>1
+161
+78
+
+16,4
+18,6
+
+111
+83
+
+54,0
+53,1
+
+0,18
+0,25
+
+(0,13; 0,26)
+(0,17; 0,38)
+
+Anormal
+
+92
+
+26
+
+Venetoclax
++
+Rituximab
+superior
+
+Bendamust
+ina+
+Rituximab
+superior
+
+Doença volumosa (gânglios linfáticos de maior diâmetro)
+< 5 cm
+197
+97
+16,6
+
+100
+
+53,8
+
+0,21
+
+(0,14; 0,30)
+
+88
+
+15,8
+
+84
+
+48,4
+
+0,19
+
+(0,13; 0,29)
+
+Mutação IgVH na avaliação inicial
+Mutado
+104
+51
+Não mutado
+246
+123
+
+24,2
+15,7
+
+53
+123
+
+NE
+52,2
+
+0,14
+0,19
+
+(0,07; 0,26)
+(0,13; 0,26)
+
+Refratária vs. em recaída à terapêutica prévia mais recente
+Refratária
+59
+29
+13,6
+30
+Em recaída
+330
+166
+18,6
+164
+
+31,9
+53,8
+
+0,34
+0,19
+
+(0,17; 0,66)
+(0,14; 0,25)
+
+≥ 5 cm
+
+172
+
+Deleção 17p foi determinada com base em avaliação por laboratório central.
+Razão de risco (HR) não-estratificada é apresentada no eixo-X numa escala logarítmica.
+NE = não avaliável.
+
+Análise final de sobrevivência global (seguimento de 86 meses)
+À data da análise final de OS (data de fecho dos dados 3 de agosto de 2022), um total de 144 doentes
+aleatorizados tinha morrido, 60/194 doentes (31%) no braço venetoclax + rituximab e 84/195 doentes
+(43%) no braço bendamustina + rituximab. A OS mediana não foi atingida no braço
+venetoclax + rituximab e foi de 88 meses no braço bendamustina + rituximab. O risco de morte
+estimado diminuiu em 47% nos doentes tratados com venetoclax + rituximab (HR estratificado = 0,53;
+
+27
+
+IC 95%: 0,37; 0,74). A análise final de OS não foi controlada por erro tipo I. A curva de Kaplan-Meier
+da sobrevivência global é mostrada na Figura 4.
+Figura 4: Curva de Kaplan-Meier da sobrevivência global (população com intenção de tratar) no
+estudo MURANO (data de fecho dos dados 3 de agosto de 2022) com seguimento de 86 meses
+
+Venetoclax em monoterapia no tratamento de doentes com LLC com deleção 17p ou mutação TP53 –
+estudo M13-982
+A segurança e eficácia de venetoclax em 107 doentes com LLC com deleção 17p tratados
+anteriormente foram avaliadas num estudo aberto, de braço único, multicêntrico (M13-982). Os
+doentes seguiram um esquema de titulação da dose de 4 a 5 semanas, iniciando com 20 mg e
+aumentando para 50 mg, 100 mg, 200 mg e finalmente 400 mg uma vez por dia. Os doentes
+continuaram a receber venetoclax 400 mg uma vez por dia até se observar progressão da doença ou
+toxicidade inaceitável. A idade mediana foi de 67 anos (intervalo: 37 a 85 anos); 65% eram homens, e
+97% eram caucasianos. O tempo mediano desde o diagnóstico foi de 6,8 anos (intervalo: 0,1 a 32
+anos; N=106). O número mediano de tratamentos prévios anti-LLC foi de 2 (intervalo: 1 a 10
+tratamentos); 49,5% com um análogo de nucleósido, 38% com rituximab, e 94% com um agente
+alquilante (incluindo 33% com bendamustina). Na avaliação inicial, 53% dos doentes apresentavam
+um ou mais gânglios ≥5 cm, e 51% apresentavam ALC ≥25 x 109/l. Dos doentes, 37% (34/91) eram
+refratários à fludarabina, 81% (30/37) apresentavam o gene IgVH não mutado, e 72% (60/83)
+apresentavam mutação TP53. O tempo mediano em tratamento aquando da avaliação foi de 12 meses
+(intervalo: 0 a 22 meses).
+O objetivo primário de eficácia foi a ORR, avaliada por uma IRC, utilizando as normas orientadoras
+do IWCLL atualizadas pelo NCI-WG (2008). Os resultados de eficácia são apresentados na Tabela 12.
+Os dados de eficácia são apresentados para 107 doentes com data de fecho dos dados 30 de abril de
+2015. Um grupo adicional de 51 doentes foi incluído numa coorte de extensão de segurança. Os
+resultados de eficácia avaliados pelo investigador são apresentados para 158 doentes com data de
+fecho dos dados posterior, 10 de junho de 2016. O tempo mediano de tratamento dos 158 doentes foi
+de 17 meses (intervalo: 0 a 34 meses).
+
+28
+
+Tabela 12: Resultados de eficácia em doentes com LLC com deleção 17p tratados anteriormente
+(estudo M13-982)
+Objetivo
+
+Avaliação IRC
+(N = 107)a
+30 de abril de 2015
+79
+(70,5; 86,6)
+7
+3
+69
+NR
+
+Avaliação do Investigador
+(N = 158)b
+10 de junho de 2016
+77
+(69,9; 83,5)
+18
+6
+53
+27,5 (26,5; NR)
+
+Data de fecho dos dados
+ORR, %
+(IC 95%)
+CR + CRi, %
+nPR, %
+PR, %
+DOR, meses, mediana (IC
+95%)
+PFS, % (IC 95%)
+Estimativa a 12 meses
+72 (61,8; 79,8)
+77 (69,1; 82,6)
+Estimativa a 24 meses
+NA
+52 (43; 61)
+PFS, meses, mediana
+NR
+27,2 (21,9; NR)
+(IC 95%)
+TTR, meses, mediana
+0,8 (0,1-8,1)
+1,0 (0,5-4,4)
+(intervalo)
+a
+Um doente não apresentava a deleção 17p.
+b
+Inclui um grupo adicional de 51 doentes da coorte de extensão de segurança.
+IC = intervalo de confiança; CR = resposta completa; CRi = resposta completa com
+recuperação incompleta da medula; DOR = duração da resposta; IRC = comissão de
+revisão independente; nPR = PR ganglionar; NA = não disponível; NR = não atingido;
+ORR = taxa de resposta global; PFS = sobrevivência livre de progressão; PR = resposta
+parcial; TTR = tempo até à primeira resposta.
+
+A doença residual mínima (MRD) foi avaliada através de citometria de fluxo em 93 dos 158 doentes
+que atingiram CR, CRi, ou PR com doença remanescente limitada pelo tratamento com venetoclax. A
+negatividade de MRD foi definida como um resultado inferior a 0,0001 (<1 célula de LLC por 104
+leucócitos na amostra). Vinte e sete por cento (42/158) dos doentes foram MRD-negativos no sangue
+periférico, incluindo 16 doentes que também foram MRD-negativos na medula óssea.
+Venetoclax em monoterapia no tratamento de doentes com LLC que não responderam à terapêutica
+com um inibidor da via do recetor das células B – estudo M14-032
+A eficácia e segurança de venetoclax em doentes com LLC que foram tratados anteriormente e não
+responderam à terapêutica com ibrutinib ou idelalisib foram avaliadas num estudo (M14-032) de fase
+2 aberto, multicêntrico, não aleatorizado. Os doentes receberam venetoclax através de um regime de
+titulação da dose recomendado. Os doentes continuaram a receber venetoclax 400 mg uma vez por dia
+até se observar progressão da doença ou toxicidade inaceitável.
+No momento de fecho dos dados (26 de julho de 2017), 127 doentes foram incluídos e tratados com
+venetoclax. Destes, 91 doentes tinham recebido terapêutica anterior com ibrutinib (Braço A) e 36
+tinham recebido terapêutica anterior com idelalisib (Braço B). A idade mediana foi de 66 anos
+(intervalo: 28 a 85 anos), 70% eram homens, e 92% eram caucasianos. O tempo mediano desde o
+diagnóstico foi de 8,3 anos (intervalo: 0,3 a 18,5 anos; N=96). As alterações cromossómicas foram
+deleção 11q (34%, 43/127), deleção 17p (40%, 50/126), mutação TP53 (38%, 26/68) e IgVH não
+mutado (78%, 72/92). Na avaliação inicial, 41% dos doentes apresentavam um ou mais gânglios
+≥5 cm e 31% apresentavam ALC ≥25 x 109/l. O número mediano de tratamentos oncológicos prévios
+foi de 4 (intervalo: 1 a 15) em doentes tratados com ibrutinib e 3 (intervalo: 1 a 11) em doentes
+tratados com idelalisib. Globalmente, 65% dos doentes receberam anteriormente análogos de
+nucleósido, 86% rituximab, 39% outros anticorpos monoclonais, e 72% agente alquilante (incluindo
+
+29
+
+41% com bendamustina). Aquando da avaliação, a duração mediana de tratamento com venetoclax foi
+de 14,3 meses (intervalo: 0,1 a 31,4 meses).
+O objetivo primário de eficácia foi a taxa de resposta global (ORR), de acordo com as normas
+orientadoras IWCLL atualizadas pelo NCI-WG. As avaliações de resposta foram realizadas às 8
+semanas, 24 semanas e, posteriormente, a cada 12 semanas.
+Tabela 13: Resultados de eficácia avaliados pelo investigador em doentes que não responderam à
+terapêutica com um inibidor da via do recetor das células B (estudo M14-032)
+Objetivo
+
+ORR, %
+(IC 95%)
+CR + CRi, %
+nPR, %
+PR, %
+PFS, % (IC 95%)
+Estimativa a 12 meses
+Estimativa a 24 meses
+PFS, meses, mediana
+(IC 95%)
+OS, % (IC 95%)
+Estimativa a 12 meses
+TTR, meses, mediana
+(intervalo)
+
+Braço A
+(falências de
+ibrutinib)
+(N = 91)
+
+Braço B
+(falências de
+idelalisib)
+(N = 36)
+
+Total
+(N = 127)
+
+65
+(54,1; 74,6)
+10
+3
+52
+
+67
+(49,0; 81,4)
+11
+0
+56
+
+65
+(56,4; 73,6)
+10
+2
+53
+
+75 (64,7; 83,2)
+51 (36,3; 63,9)
+25 (19,2; NR)
+
+80 (63,1; 90,1)
+61 (39,6; 77,4)
+NR (16,4; NR)
+
+77 (68,1; 83,4)
+54 (41,8; 64,6)
+25 (19,6; NR)
+
+91 (82,8; 95,4)
+
+94,2 (78,6; 98,5)
+
+92 (85,6; 95,6)
+
+2,5 (1,6-14,9)
+
+2,5 (1,6-8,1)
+
+2,5 (1,6-14,9)
+
+Presença de deleção 17p e/ou mutação TP53
+ORR, % (IC 95%)
+Sim
+
+(n=28)
+61 (45,4; 74,9)
+
+(n=7)
+58 (27,7; 84,8)
+
+(n=35)
+60 (46,6; 73,0)
+
+Não
+
+(n=31)
+69 (53,4; 81,8)
+
+(n=17)
+71 (48,9; 87,4)
+
+(n=48)
+70 (57,3; 80,1)
+
+IC = intervalo de confiança; CR = resposta completa; CRi = resposta completa com recuperação
+incompleta da medula; nPR = PR ganglionar; NR = não atingido; ORR = taxa de resposta
+global; OS = sobrevivência global; PFS = sobrevivência livre de progressão; PR = resposta
+parcial; TTR = tempo até à primeira resposta.
+Os dados de eficácia foram também avaliados por uma IRC (comissão de revisão independente) e
+demonstraram uma ORR combinada de 70% (Braço A: 70%; Braço B: 69%). Um doente (com
+falência a ibrutinib) alcançou CRi. A ORR em doentes com deleção 17p e/ou mutação TP53 foi de
+72% (33/46) (IC 95%: 56,5; 84,0) no Braço A e de 67% (8/12) (IC 95%: 34,9; 90,1) no Braço B. Nos
+doentes sem deleção 17p e/ou mutação TP53, a ORR foi de 69% (31/45) (IC 95%: 53,4; 81,8) no
+Braço A e de 71% (17/24) (IC 95%: 48,9; 87,4) no Braço B.
+As OS e DOR medianas não foram atingidas com um tempo de seguimento mediano de
+aproximadamente 14,3 meses para o Braço A e 14,7 meses para o Braço B.
+Vinte e cinco por cento (32/127) dos doentes foram MRD-negativos no sangue periférico, incluindo 8
+doentes que também foram MRD-negativos na medula óssea.
+
+30
+
+Leucemia mieloide aguda
+Venetoclax foi estudado em doentes adultos que tinham ≥ 75 anos de idade, ou que tinham
+comorbilidades que impediam o uso de quimioterapia de indução intensiva, com base em pelo menos
+um dos seguintes critérios: índice de desempenho do Eastern Cooperative Oncology Group (ECOG)
+de 2-3 na avaliação inicial, comorbilidade cardíaca ou pulmonar grave, compromisso hepático
+moderado, depuração da creatinina (CrCl) < 45 ml/min ou outra comorbilidade.
+Venetoclax em combinação com azacitidina no tratamento de doentes com LMA recentemente
+diagnosticada - estudo M15-656 (VIALE-A)
+O VIALE-A foi um estudo de fase 3 aleatorizado (2:1), em dupla ocultação e controlado por placebo
+que avaliou a eficácia e segurança de venetoclax em combinação com azacitidina em doentes com
+LMA recentemente diagnosticada, que não eram elegíveis para quimioterapia intensiva.
+Os doentes do VIALE-A completaram o esquema de titulação diária de 3 dias até uma dose final de
+400 mg uma vez por dia durante o primeiro ciclo de 28 dias de tratamento (ver secção 4.2) e depois
+receberam venetoclax 400 mg por via oral uma vez por dia nos ciclos subsequentes.Azacitidina a
+75 mg/m2 foi administrada por via intravenosa ou subcutânea nos Dias 1-7 de cada ciclo de 28 dias,
+com início no Dia 1 do Ciclo 1. Durante a titulação, os doentes receberam profilaxia de SLT e foram
+hospitalizados para monitorização. Após o tratamento do Ciclo 1, se a avaliação da medula óssea
+confirmasse uma remissão, definida como menos de 5% de blastos da leucemia, e perante uma
+citopenia de grau 4, o venetoclax ou o placebo foram interrompidos até 14 dias ou até
+ANC ≥500/microlitro e contagem de plaquetas ≥50 × 103/microlitro. Em doentes com doença
+resistente no final do Ciclo 1, foi realizada uma avaliação da medula óssea após o Ciclo 2 ou 3 e
+conforme clinicamente indicado. A azacitidina foi retomada no mesmo dia que o venetoclax ou o
+placebo após a interrupção (ver secção 4.2). A redução da dose de azacitidina foi implementada no
+estudo clínico para o controlo da toxicidade hematológica (ver Resumo das Características do
+Medicamento da azacitidina). Os doentes continuaram a receber ciclos de tratamento até progressão da
+doença ou toxicidade inaceitável.
+Um total de 431 doentes foram aleatorizados: 286 para o braço venetoclax + azacitidina e 145 para o
+braço placebo + azacitidina. As caraterísticas demográficas e da doença na avaliação inicial eram
+semelhantes entre os braços venetoclax + azacitidina e placebo + azacitidina. Globalmente, a idade
+mediana foi de 76 anos (intervalo: 49 a 91 anos), 76% eram caucasianos, 60% eram homens e o índice
+de desempenho do ECOG na avaliação inicial era de 0 ou 1 para 55% dos doentes, 2 para 40% dos
+doentes e 3 para 5% dos doentes. Havia 75% dos doentes com LMA de novo e 25% com LMA
+secundária. Na avaliação inicial, 29% dos doentes tinha uma contagem de blastos na medula óssea
+<30%, 22% dos doentes tinha uma contagem de blastos na medula óssea ≥30% a <50% e 49%
+tinha ≥50%. O risco citogenético intermédio ou alto encontrava-se presente em 63% e 37% dos
+doentes, respetivamente. Foram identificadas as seguintes mutações: mutações TP53 em 21%
+(52/249), mutação IDH1e/ou IDH2 em 24% (89/372), 9% (34/372) com IDH1, 16% (58/372) com
+IDH2, 16% (51/314) com FLT3 e 18% (44/249) com NPM1.
+Os objetivos primários de eficácia do estudo foram a sobrevivência global (OS), medida desde a data
+da aleatorização até à morte por qualquer causa, e a taxa de CR composta (resposta completa +
+resposta completa com recuperação incompleta do hemograma [CR+CRi]). O tempo mediano de
+seguimento global aquando da análise foi de 20,5 meses (intervalo: <0,1 a 30,7 meses).
+Venetoclax + azacitidina demonstrou uma redução de 34% no risco de morte em comparação com
+placebo + azacitidina (p <0,001). Os resultados são apresentados na Tabela 14.
+
+31
+
+Tabela 14: Resultados de eficácia no VIALE-A
+Objetivo
+Sobrevivência globala
+Número de acontecimentos n (%)
+Sobrevivência mediana,
+meses
+(IC 95%)
+Razão de risco (HR)b
+(IC 95%)
+valor-pb
+
+Venetoclax + azacitidina
+
+Placebo + azacitidina
+
+(N=286)
+161 (56)
+14,7
+(11,9; 18,7)
+
+(N=145)
+109 (75)
+9,6
+(7,4; 12,7)
+0,66
+(0,52; 0,85)
+<0,001
+
+Taxa de CR+CRic
+(N=147)
+(N=79)
+n (%)
+96 (65)
+20 (25)
+(IC 95%)
+(57; 73)
+(16; 36)
+valor-pd
+<0,001
+IC = intervalo de confiança; CR = (resposta completa) foi definida como contagem absoluta de
+neutrófilos >1.000/microlitro, plaquetas >100.000/microlitro, independência de transfusões de
+glóbulos vermelhos e medula óssea com <5% de blastos. Ausência de blastos circulantes e blastos
+com bastonetes de Auer; ausência de doença extramedular; CRi = resposta completa com
+recuperação incompleta do hemograma.
+a
+Estimativa de Kaplan-Meier aquando da segunda análise interina (data de fecho dos dados a 4 de
+janeiro de 2020).
+b
+A estimativa de razão de risco (HR) (venetoclax + azacitidina vs. placebo + azacitidina) baseia-se
+no modelo de riscos proporcionais de Cox estratificado por citogenética (risco intermédio, risco
+alto) e idade (18 a <75, ≥75) conforme determinado na aleatorização; valor-p baseado no teste
+log-rank estratificado pelos mesmos fatores.
+c
+A taxa de CR+CRi advém de uma análise interina planeada dos primeiros 226 doentes
+aleatorizados com 6 meses de tempo de seguimento aquando da primeira análise interina (data de
+fecho dos dados a 1 de outubro de 2018).
+d
+O valor-p advém do teste de Cochran-Mantel-Haenszel estratificado por idade (18 a <75, ≥75) e
+risco citogenético (risco intermédio, risco alto) conforme determinado na aleatorização.
+
+32
+
+Figura 5: Curva de Kaplan-Meier para a sobrevivência global no VIALE-A
+
+PROB
+ABILI
+DADE
+DE
+NÃO
+TER
+ACON
+TECI
+MENT
+OS
+PBO+AZA
+
+VEN+AZA
+
+Número em Risco
+PBO+AZA
+VEN+AZA
+
+TEMPO (MESES)
+
+Os principais objetivos secundários de eficácia são apresentados na Tabela 15.
+Tabela 15: Objetivos de eficácia adicionais no VIALE-A
+Objetivo
+
+Venetoclax + azacitidina
+N=286
+
+Placebo + azacitidina
+N=145
+
+105 (37)
+(31; 43)
+
+26 (18)
+(12; 25)
+
+Taxa de CR
+n (%)
+(IC 95%)
+valor-pa
+DOR medianab, meses
+(IC 95%)
+
+<0,001
+
+Taxa de CR+CRi
+n (%)
+(IC 95%)
+DOR medianab, meses
+(IC 95%)
+Taxa de CR+CRi ao início do
+Ciclo 2, n (%)
+(IC 95%)
+valor-pa
+Taxa de independência transfusional,
+plaquetas
+n (%)
+(IC 95%)
+valor-pa
+Taxa de independência transfusional,
+glóbulos vermelhos
+n (%)
+(IC 95%)
+valor-pa
+
+17,5
+(15,3; -)
+
+13,3
+(8,5; 17,6)
+
+190 (66)
+(61; 72)
+17,5
+(13,6; -)
+
+41 (28)
+(21; 36)
+13,4
+(5,8; 15,5)
+
+124 (43)
+(38; 49)
+
+11 (8)
+(4; 13)
+<0,001
+
+196 (69)
+(63; 74)
+
+72 (50)
+(41; 58)
+<0,001
+
+171 (60)
+(54; 66)
+
+51 (35)
+(27; 44)
+<0,001
+
+33
+
+Taxa de MRD com CR+CRid
+n (%)
+67 (23)
+11 (8)
+(IC 95%)
+(19; 29)
+(4; 13)
+valor-pa
+<0,001
+Sobrevivência livre de
+acontecimentos
+Número de acontecimentos,
+n (%)
+191 (67)
+122 (84)
+EFS medianae, meses
+9,8
+7,0
+(IC 95%)
+(5,6; 9,5)
+(8,4; 11,8)
+Razão de risco (HR) (IC 95%)c
+0,63 (0,50; 0,80)
+valor-pc
+<0,001
+IC = intervalo de confiança; CR = resposta completa; CRi = resposta completa com recuperação
+incompleta do hemograma; DOR = duração da resposta; EFS = sobrevivência livre de
+acontecimentos; MRD = doença residual mínima/mensurável; n = número de respostas ou número
+de acontecimentos; - = não atingido.
+A CR (resposta completa) foi definida como contagem absoluta de neutrófilos >1.000/microlitro,
+plaquetas >100.000/microlitro, independência de transfusões de glóbulos vermelhos e medula óssea
+com <5% de blastos. Ausência de blastos circulantes e blastos com bastonetes de Auer; ausência de
+doença extramedular.
+A independência transfusional foi definida como um período de pelo menos 56 dias consecutivos
+(≥56 dias) sem transfusão após a primeira dose do medicamento em estudo e na ou antes da última
+dose do medicamento em estudo + 30 dias, ou antes de recidiva ou progressão da doença ou antes
+do início da terapia pós-tratamento, o que ocorrer primeiro.
+a
+
+O valor-p advém do teste de Cochran-Mantel-Haenszel estratificado por idade (18 a <75, ≥75) e
+risco citogenético (risco intermédio, risco alto) conforme determinado na aleatorização.
+b
+A DOR (duração da resposta) foi definida como o tempo desde a primeira resposta de CR para
+DOR com CR, desde a primeira resposta de CR ou CRi para DOR com CR+CRi, até à primeira data
+de recidiva morfológica confirmada, doença progressiva confirmada ou morte devido à progressão
+da doença, o que tiver ocorrido primeiro. A DOR mediana advém da estimativa de Kaplan-Meier.
+c
+A estimativa de razão de risco (venetoclax + azacitidina vs. placebo + azacitidina) baseia-se no
+modelo de riscos proporcionais de Cox estratificado por idade (18 a <75, ≥75) e citogenética (risco
+intermédio, risco alto) conforme determinado na aleatorização; valor-p baseado no teste log-rank
+estratificado pelos mesmos fatores.
+d
+A taxa de resposta de MRD com CR+CRi é definida como a % de doentes que atingem uma CR ou
+CRi e demonstraram uma resposta de MRD de <10-3 de blastos na medula óssea, conforme
+determinada por um ensaio de citometria de fluxo multicolor central padronizado.
+e
+Estimativa de Kaplan-Meier.
+Dos doentes com a mutação FLT3, as taxas de CR+CRi foram de 72% (21/29; [IC 95%: 53, 87]) e
+36% (8/22; [IC 95%: 17, 59]) nos braços venetoclax + azacitidina e placebo + azacitidina,
+respetivamente (p=0,021).
+Dos doentes com mutações IDH1/IDH2, as taxas de CR+CRi foram de 75% (46/61; [IC 95%: 63, 86])
+e 11% (3/28; [IC 95%: 2, 28]) nos braços venetoclax + azacitidina e placebo + azacitidina,
+respetivamente (p<0,001).
+Dos doentes que eram dependentes de transfusões de glóbulos vermelhos na avaliação inicial e
+tratados com venetoclax + azacitidina, 49% (71/144) tornaram-se independentes de transfusões. Dos
+doentes que eram dependentes de transfusões de plaquetas na avaliação inicial e tratados com
+venetoclax + azacitidina, 50% (34/68) tornaram-se independentes de transfusões.
+
+34
+
+O tempo mediano até à primeira resposta de CR ou CRi foi de 1,3 meses (intervalo: 0,6 a 9,9 meses)
+com o tratamento venetoclax + azacitidina. O tempo mediano até à melhor resposta de CR ou CRi foi
+de 2,3 meses (intervalo: 0,6 a 24,5 meses).
+Figura 6: Forest plot de sobrevivência global por subgrupos do VIALE-A
+Placebo + Azacitidina
+
+Venetoclax + Azacitidina
+HR (IC 95%)
+Venetoclax + Azacitidina
+
+n/N (%)
+Todos os indivíduos
+
+Mediana
+(Meses)
+
+n/N(%)
+
+Mediana
+(Meses)
+
+vs. Placebo + Azacitidina
+
+109/145 (75,2)
+
+9,6
+
+161/286 (56,3)
+
+14,7
+
+0,64 (0,50; 0,82)
+
+18 - <65
+
+3/5 (60,0)
+
+13,2
+
+7/10 (70,0)
+
+15,2
+
+0,95 (0,24; 3,69)
+
+65 - <75
+
+33/53 (62,3)
+
+15,2
+
+59/102 (57,8)
+
+15,2
+
+0,88 (0,57; 1,35)
+
+≥ 75
+
+73/87 (83,9)
+
+8,5
+
+95/174 (54,6)
+
+14,1
+
+0,54 (0,39; 0,73)
+
+Grau <2
+
+65/81 (80,2)
+
+10,6
+
+89/157 (56,7)
+
+16,2
+
+0,61 (0,44; 0,84)
+
+Grau ≥2
+
+44/64 (68,8)
+
+8,6
+
+72/129 (55,8)
+
+13,3
+
+0,70 (0,48; 1,03)
+
+80/110 (72,7)
+
+9,6
+
+120/214 (56,1)
+
+14,1
+
+0,67 (0,51; 0,90)
+
+29/35 (82,9)
+
+10,6
+
+41/72 (56,9)
+
+16,4
+
+0,56 (0,35; 0,91)
+
+8/9 (88,9)
+
+11,3
+
+15/26 (57,7)
+
+16,4
+
+0,55 (0,23; 1,32)
+
+Intermédio
+
+62/89 (69,7)
+
+12,4
+
+84/182 (46,2)
+
+20,8
+
+0,57 (0,41; 0,79)
+
+Alto
+
+47/56 (83,9)
+
+6,0
+
+77/104 (74,0)
+
+7,6
+
+0,78 (0,54; 1,12)
+
+FLT3
+
+19/22 (86,4)
+
+8,6
+
+19/29 (65,5)
+
+12,7
+
+0,66 (0,35; 1,26)
+
+IDH1/2
+
+24/28 (85,7)
+
+6,2
+
+29/61 (47,5)
+
+-
+
+0,34 (0,20; 0,60)
+
+TP53
+
+13/14 (92,9)
+
+5,4
+
+34/38 (89,5)
+
+5,8
+
+0,76 (0,40; 1,45)
+
+NPM1
+
+14/17 (82,4)
+
+13,0
+
+16/27 (59,3)
+
+15,0
+
+0,73 (0,36; 1,51)
+
+Sim
+
+38/49 (77,6)
+
+11,3
+
+56/92 (60,9)
+
+12,7
+
+0,73 (0,48; 1,11)
+
+Não
+
+71/96 (74,0)
+
+8,5
+
+105/194 (54,1)
+
+16,4
+
+0,62 (0,46; 0,83)
+
+<30%
+
+28/41 (68,3)
+
+12,4
+
+46/85 (54,1)
+
+14,8
+
+0,72 (0,45; 1,15)
+
+30-<50%
+
+26/33 (78,8)
+
+9,3
+
+36/61 (59,0)
+
+16,8
+
+0,57 (0,34; 0,95)
+
+79/140 (56,4)
+
+12,4
+
+0,63 (0,45; 0,89)
+
+Idade (Anos)
+
+ECOG Inicial
+
+Tipo de LMA
+De Novo
+Secundária
+Relacionada com a terapia
+Risco Citogenético
+
+Marcador Molecular
+(Laboratório Central)
+
+LMA Relacionada com
+Alterações Mielodisplásicas
+(LMA-MRC)
+
+Contagem de Blastos na
+Medula Óssea
+
+≥50%
+
+55/71 (77,5)
+
+8,4
+
+Favorece VEN+AZA
+
+Favorece PBO+AZA
+
+- = Não atingido.
+Para o objetivo secundário pré-especificado de OS no subgrupo da mutação IDH1/2, p<0,0001
+(teste log-rank não-estratificado).
+Razão de risco (HR) não-estratificada é apresentada no eixo-X numa escala logarítmica.
+35
+
+Venetoclax em combinação com azacitidina ou decitabina no tratamento de doentes com LMA
+recentemente diagnosticada - M14-358
+O estudo M14-358 foi um estudo clínico de fase 1/2 não aleatorizado, de venetoclax em combinação
+com azacitidina (n=84) ou decitabina (n=31) em doentes com LMA recentemente diagnosticada, que
+não eram elegíveis para quimioterapia intensiva. Os doentes receberam venetoclax iniciado por uma
+titulação diária até uma dose final de 400 mg uma vez por dia. A administração de azacitidina no
+M14-358 foi semelhante à do estudo aleatorizado VIALE-A. A decitabina a 20 mg/m2 foi administrada
+por via intravenosa nos Dias 1-5 de cada ciclo de 28 dias com início no Dia 1 do Ciclo 1.
+O tempo mediano de seguimento foi de 40,4 meses (intervalo: 0,7 a 42,7 meses) para
+venetoclax + decitabina.
+A idade mediana dos doentes tratados com venetoclax + decitabina foi de 72 anos (intervalo: 65-86
+anos), 87% eram caucasianos, 48% eram homens e 87% tinham uma pontuação ECOG de 0 ou 1. A
+taxa de CR+CRi foi de 74% (IC 95%: 55, 88) em combinação com decitabina.
+Doentes idosos
+Dos 194 doentes com LLC previamente tratados que receberam venetoclax em combinação com
+rituximab, 50% tinham 65 ou mais anos de idade.
+Dos 107 doentes que foram avaliados para eficácia no estudo M13-982, 57% tinham 65 ou mais anos
+de idade.
+Dos 127 doentes que foram avaliados para eficácia no estudo M14-032, 58% tinham 65 ou mais anos
+de idade.
+Dos 352 doentes avaliados para segurança nos 3 estudos clínicos abertos em monoterapia, 57% tinham
+65 ou mais anos de idade.
+Dos 283 doentes com LMA recentemente diagnosticada tratados no estudo clínico VIALE-A (braço
+venetoclax + azacitidina), 96% tinham ≥65 anos de idade e 60% tinham ≥75 anos de idade.
+Dos 31 doentes tratados com venetoclax em combinação com decitabina no estudo clínico M14-358,
+100% tinham ≥65 anos de idade e 26% tinham ≥75 anos de idade.
+Não se observaram diferenças clinicamente significativas na segurança ou eficácia entre os doentes
+mais velhos e mais jovens nos estudos de combinação e nos estudos em monoterapia.
+População pediátrica
+A Agência Europeia do Medicamento dispensou a obrigação de apresentação dos resultados dos
+estudos com Venclyxto em todos os subgrupos da população pediátrica com LLC (ver secção 4.2 para
+informação sobre utilização pediátrica).
+A Agência Europeia de Medicamentos diferiu a obrigação de apresentação dos resultados dos estudos
+com Venclyxto em um ou mais subgrupos da população pediátrica com LMA (ver secção 4.2 para
+informação sobre utilização pediátrica).
+
+36
+
+5.2
+
+Propriedades farmacocinéticas
+
+Absorção
+Após múltiplas administrações orais, a concentração plasmática máxima de venetoclax foi atingida 5-8
+horas após a toma. A AUC de venetoclax em estado estacionário aumentou proporcionalmente ao
+longo do intervalo de dose de 150-800 mg. Com uma refeição com baixo teor de gordura, a C max
+média de venetoclax em estado estacionário (± desvio padrão) foi de 2,1 ± 1,1 μg/ml e a AUC 24 foi de
+32,8 ± 16,9 μg•h/ml na dose de 400 mg uma vez por dia.
+Efeito dos alimentos
+A administração com uma refeição com baixo teor de gordura aumentou a exposição a venetoclax em
+aproximadamente 3,4 vezes e a administração com uma refeição com elevado teor de gordura
+aumentou a exposição a venetoclax em 5,1- a 5,3-vezes, em comparação com condições em jejum.
+Recomenda-se que venetoclax seja administrado com uma refeição (ver secção 4.2).
+Distribuição
+Venetoclax liga-se fortemente às proteínas plasmáticas humanas, com uma fração livre no plasma
+<0,01 numa gama de concentração de 1-30 micromolar (0,87-26 µg/ml). A razão média sangue/plasma
+foi de 0,57. A estimativa populacional para o volume de distribuição aparente (Vdss/F) de venetoclax
+variou entre 256-321 l nos doentes.
+Biotransformação
+Estudos in vitro demonstraram que venetoclax é predominantemente metabolizado pelo citocromo
+P450 CYP3A4. O M27 foi identificado como um metabolito principal no plasma, com uma atividade
+inibitória contra BCL-2 que é pelo menos 58-vezes inferior à de venetoclax in vitro.
+Estudos de interação in vitro
+Coadministração com substratos de CYP e UGT
+Estudos in vitro indicaram que venetoclax não é um inibidor ou indutor de CYP1A2, CYP2B6,
+CYP2C19, CYP2D6 ou CYP3A4 em concentrações clinicamente relevantes. Venetoclax é um inibidor
+fraco de CYP2C8, CYP2C9 e UGT1A1 in vitro, mas não se prevê que cause inibição clinicamente
+relevante. Venetoclax não é um inibidor de UGT1A4, UGT1A6, UGT1A9 e UGT2B7.
+Coadministração com substratos/inibidores de proteínas de transporte
+Venetoclax é um substrato de gp-P e BCRP, bem como um inibidor de gp-P e BCRP e um inibidor
+fraco de OATP1B1 in vitro (ver secção 4.5). Não é expectável que venetoclax iniba OATP1B3,
+OCT1, OCT2, OAT1, OAT3, MATE1 ou MATE2K em concentrações clinicamente relevantes.
+Eliminação
+A estimativa populacional para a semivida de eliminação em fase terminal de venetoclax foi de
+aproximadamente 26 horas. Venetoclax apresenta uma acumulação mínima, com uma razão de
+acumulação de 1,30-1,44. Após uma administração oral única de 200 mg de [14C]-venetoclax
+radiomarcado em indivíduos saudáveis, >99,9% da dose foi recuperada nas fezes e <0,1% da dose foi
+excretada na urina durante 9 dias. Venetoclax inalterado totalizou 20,8% da dose radioativa
+administrada excretada nas fezes. A farmacocinética de venetoclax não se altera ao longo do tempo.
+
+37
+
+Populações especiais
+Compromisso renal
+Com base numa análise farmacocinética da população que incluiu 321 indivíduos com compromisso
+renal ligeiro (CrCl ≥60 e <90 ml/min), 219 indivíduos com compromisso renal moderado (CrCl ≥30 e
+<60 ml/min), 5 indivíduos com compromisso renal grave (CrCl ≥15 e <30 ml/min) e 224 indivíduos
+com função renal normal (CrCl ≥90 ml/min), as exposições a venetoclax em indivíduos com
+compromisso renal ligeiro, moderado ou grave são semelhantes às dos indivíduos que apresentam
+função renal normal. A farmacocinética de venetoclax não foi estudada em indivíduos com CrCl
+<15 ml/min ou doentes em diálise (ver secção 4.2).
+Compromisso hepático
+Com base numa análise farmacocinética da população que incluiu 74 indivíduos com compromisso
+hepático ligeiro, 7 indivíduos com compromisso hepático moderado e 442 indivíduos com função
+hepática normal, as exposições a venetoclax são semelhantes em indivíduos com compromisso
+hepático ligeiro e moderado e função hepática normal. Compromisso hepático ligeiro foi definido
+como valores de bilirrubina total normal e aspartato aminotransferase (AST) > limite superior do
+normal (ULN) ou bilirrubina total >1,0 a 1,5 vezes ULN, compromisso hepático moderado como
+valores de bilirrubina total >1,5 a 3,0 vezes ULN, e compromisso hepático grave como valores de
+bilirrubina total >3,0 ULN.
+Num estudo específico sobre compromisso hepático, a Cmax e a AUC de venetoclax em indivíduos
+com compromisso hepático ligeiro (Child-Pugh A; n = 6) ou moderado (Child-Pugh B; n = 6) foram
+semelhantes aos indivíduos com função hepática normal, após receberem uma dose única de 50 mg de
+venetoclax. Em indivíduos com compromisso hepático grave (Child-Pugh C; n = 5), a média da Cmax
+de venetoclax foi semelhante aos indivíduos com função hepática normal, mas a AUC inf de venetoclax
+foi, em média, 2,7 vezes superior (intervalo: sem alteração até 5 vezes superior) à AUCinf de
+venetoclax nos indivíduos com função hepática normal (ver secção 4.2).
+Efeitos da idade, sexo, peso e raça
+Com base em análises farmacocinéticas da população, idade, sexo e peso não têm efeito na depuração
+de venetoclax. A exposição é 67% mais elevada em indivíduos asiáticos comparativamente a
+indivíduos não asiáticos. Esta diferença não é considerada clinicamente relevante.
+5.3
+
+Dados de segurança pré-clínica
+
+As toxicidades observadas com venetoclax nos estudos em animais incluíram reduções, dependentes
+da dose, na quantidade de linfócitos e glóbulos vermelhos. Ambos os efeitos foram reversíveis após
+descontinuação da administração de venetoclax. A recuperação linfocitária ocorreu 18 semanas após o
+tratamento. Ambas as células T e B foram afetadas, mas as reduções mais significativas ocorreram
+com as células B.
+Venetoclax também provocou necrose celular única em diversos tecidos, incluindo a bexiga e pâncreas
+exócrino, sem evidência de rutura da integridade do tecido ou disfunção orgânica; estas observações
+foram de magnitude mínima a ligeira.
+Após aproximadamente 3 meses de administração diária em cães, venetoclax causou descoloração
+branca do pêlo progressiva, devido a perda do pigmento melanina no pêlo.
+Carcinogenicidade/genotoxicidade
+Venetoclax e o principal metabolito humano M27 não foram carcinogénicos num estudo de
+carcinogenicidade com uma duração de 6 meses, realizado em ratinhos transgénicos (Tg.rasH2), com
+doses orais até 400 mg/kg/dia de venetoclax e um nível de dose única de 250 mg/kg/dia de M27. As
+38
+
+margens de exposição (AUC), relativamente à AUC clínica para 400 mg/dia, foram de
+aproximadamente 2 vezes para venetoclax e 5,8 vezes para M27.
+Venetoclax não foi genotóxico no ensaio de mutagenicidade bacteriana, ensaio de aberração
+cromossómica in vitro e ensaio do micronúcleo em ratinho in vivo. O metabolito M27 foi negativo
+para genotoxicidade nos ensaios de mutagenicidade bacteriana e aberração cromossómica.
+Toxicidade reprodutiva
+Não foram observados efeitos na fertilidade em estudos de fertilidade e desenvolvimento embrionário
+precoce em ratinhos machos e fêmeas. Foi observada toxicidade testicular (perda de células germinais)
+nos estudos de toxicidade geral em cães com exposições de 0,5 a 18 vezes a exposição AUC humana
+numa dose de 400 mg. A reversibilidade desta observação não foi demonstrada.
+Em estudos de desenvolvimento embriofetal em ratinhos, venetoclax foi associado ao aumento da
+perda pós-implantação e redução do peso do corpo fetal com exposições de 1,1 vezes a exposição
+AUC humana numa dose de 400 mg. O principal metabolito humano M27 foi associado a perda pósimplantação e a reabsorções em exposições de, aproximadamente, 9 vezes a exposição M27-AUC
+humana numa dose de 400 mg de venetoclax. Em coelhos, venetoclax produziu toxicidade materna,
+mas não toxicidade fetal, com exposições de 0,1 vezes a exposição AUC humana numa dose de
+400 mg.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Venclyxto 10 mg comprimidos revestidos por película
+Núcleo do comprimido
+Copovidona (K 28)
+Sílica coloidal anidra (E551)
+Polissorbato 80 (E433)
+Fumarato sódico de estearilo
+Hidrogenofosfato de cálcio anidro (E341 (ii))
+Revestimento por película
+Óxido de ferro amarelo (E172)
+Álcool polivinílico (E1203)
+Dióxido de titânio (E171)
+Macrogol 3350 (E1521)
+Talco (E553b)
+Venclyxto 50 mg comprimidos revestidos por película
+Núcleo do comprimido
+Copovidona (K 28)
+Sílica coloidal anidra (E551)
+Polissorbato 80 (E433)
+Fumarato sódico de estearilo
+Hidrogenofosfato de cálcio anidro (E341 (ii))
+
+39
+
+Revestimento por película
+Óxido de ferro amarelo (E172)
+Óxido de ferro vermelho (E172)
+Óxido de ferro negro (E172)
+Álcool polivinílico (E1203)
+Dióxido de titânio (E171)
+Macrogol 3350 (E1521)
+Talco (E553b)
+Venclyxto 100 mg comprimidos revestidos por película
+Núcleo do comprimido
+Copovidona (K 28)
+Sílica coloidal anidra (E551)
+Polissorbato 80 (E433)
+Fumarato sódico de estearilo
+Hidrogenofosfato de cálcio anidro (E341 (ii))
+Revestimento por película
+Óxido de ferro amarelo (E172)
+Álcool polivinílico (E1203)
+Dióxido de titânio (E171)
+Macrogol 3350 (E1521)
+Talco (E553b)
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+Venclyxto 10 mg comprimidos revestidos por película
+2 anos.
+Venclyxto 50 mg comprimidos revestidos por película
+2 anos.
+Venclyxto 100 mg comprimidos revestidos por película
+3 anos.
+6.4
+
+Precauções especiais de conservação
+
+Este medicamento não necessita de quaisquer precauções especiais de conservação.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Venclyxto comprimidos revestidos por película são fornecidos em blisters de folha de alumínio
+PVC/PE/PCTFE contendo 1, 2 ou 4 comprimidos revestidos por película.
+Venclyxto 10 mg comprimidos revestidos por película
+Os comprimidos revestidos por película são fornecidos em embalagens contendo 10 ou 14
+comprimidos (em blisters de 2 comprimidos).
+
+40
+
+Venclyxto 50 mg comprimidos revestidos por película
+Os comprimidos revestidos por película são fornecidos em embalagens contendo 5 ou 7 comprimidos
+(em blisters de 1 comprimido).
+Venclyxto 100 mg comprimidos revestidos por película
+Os comprimidos revestidos por película são fornecidos em embalagens contendo 7 (em blisters de 1
+comprimido) ou 14 comprimidos (em blisters de 2 comprimidos); ou uma embalagem múltipla
+contendo 112 comprimidos (4 x 28 comprimidos (em blisters de 4 comprimidos)).
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1138/001 (10 mg, 10 comprimidos)
+EU/1/16/1138/002 (10 mg, 14 comprimidos)
+EU/1/16/1138/003 (50 mg, 5 comprimidos)
+EU/1/16/1138/004 (50 mg, 7 comprimidos)
+EU/1/16/1138/005 (100 mg 7 comprimidos)
+EU/1/16/1138/006 (100 mg, 14 comprimidos)
+EU/1/16/1138/007 (100 mg, 112 (4 x 28) comprimidos)
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 5 de dezembro de 2016
+Data da última renovação: 11 de agosto de 2023
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+41
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA
+AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À
+UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+
+42
+
+A.
+
+FABRICANTE RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante responsável pela libertação do lote
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista
+Europeia de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do
+artigo 107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no
+portal europeu de medicamentos.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+• A pedido da Agência Europeia de Medicamentos
+• Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+•
+
+Medidas adicionais de minimização do risco
+
+Antes da utilização de Venclyxto em cada Estado-Membro, o Titular da Autorização de Introdução no
+Mercado (TAIM) tem de se articular com a Autoridade Nacional Competente acerca do conteúdo e
+formato do programa educacional, incluindo os meios de comunicação, as modalidades de distribuição
+e quaisquer outros aspetos do programa.
+O programa educacional destina-se a:
+•
+•
+
+Informar os hematologistas acerca do risco de SLT, do cumprimento rigoroso do esquema de
+titulação da dose e das medidas de minimização do risco de SLT para Venclyxto no RCM
+atualizado.
+Informar os hematologistas para entregarem a cada doente o cartão do doente, que inclui uma lista
+de sintomas de SLT que devem alertar o doente a tomar medidas em caso de ocorrência, incluindo
+43
+
+a procura de assistência médica imediata, bem como comportamentos que o doente deve adotar
+para prevenir a SLT.
+O Titular da AIM irá garantir que em cada Estado-Membro no qual Venclyxto é comercializado, todos
+os profissionais de saúde e os doentes/cuidadores que sejam suscetíveis de vir a prescrever, dispensar
+ou utilizar Venclyxto têm acesso e/ou recebem o seguinte pacote educacional:
+•
+•
+
+Material educacional para o médico
+Pacote informativo para o doente
+
+Material educacional para o médico:
+• O Resumo das Características do Medicamento
+• Cartão do doente
+•
+
+Cartão do doente:
+• Dados de contacto do prescritor de venetoclax e do doente
+• Instruções para o doente sobre como minimizar o risco de SLT
+• Lista dos sintomas de SLT que devem alertar o doente a tomar medidas em caso de
+ocorrência, incluindo a procura de assistência médica imediata
+• Instrução de que o doente deve trazer sempre consigo o cartão do doente e de que o deve
+mostrar aos profissionais de saúde envolvidos no seu tratamento (isto é, profissionais de
+saúde em atendimento de urgência, etc.)
+• Informação para os profissionais de saúde que tratem o doente de que o tratamento com
+venetoclax está associado a risco de SLT
+
+O pacote informativo para o doente:
+• Folheto Informativo
+
+44
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+45
+
+A. ROTULAGEM
+
+46
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM (embalagem para 5 dias)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 10 mg comprimidos revestidos por película
+venetoclax
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 10 mg de venetoclax
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+10 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Tomar a sua dose de manhã com uma refeição e água. Beber 1,5-2 litros de água por dia.
+Consultar o folheto informativo antes de utilizar. É importante seguir todas as instruções da secção
+“Como tomar” do folheto.
+Via oral.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+47
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1138/001
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+venclyxto 10 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+48
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM (embalagem para 7 dias)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 10 mg comprimidos revestidos por película
+venetoclax
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 10 mg de venetoclax
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+14 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Tomar a sua dose de manhã com uma refeição e água. Beber 1,5-2 litros de água por dia.
+Consultar o folheto informativo antes de utilizar. É importante seguir todas as instruções da secção
+“Como tomar” do folheto.
+Via oral.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+49
+
+10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1138/002
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+venclyxto 10 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+50
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 10 mg comprimidos
+venetoclax
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+AbbVie (como logo)
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+OUTROS
+
+51
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM (embalagem para 5 dias)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 50 mg comprimidos revestidos por película
+venetoclax
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 50 mg de venetoclax
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+5 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Tomar a sua dose de manhã com uma refeição e água. Beber 1,5-2 litros de água por dia.
+Consultar o folheto informativo antes de utilizar. É importante seguir todas as instruções da secção
+“Como tomar” do folheto.
+Via oral.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+52
+
+10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1138/003
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+venclyxto 50 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+53
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM (embalagem para 7 dias)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 50 mg comprimidos revestidos por película
+venetoclax
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 50 mg de venetoclax
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+7 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Tomar a sua dose de manhã com uma refeição e água. Beber 1,5-2 litros de água por dia.
+Consultar o folheto informativo antes de utilizar. É importante seguir todas as instruções da secção
+“Como tomar” do folheto.
+Via oral.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+54
+
+10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1138/004
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+venclyxto 50 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+55
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 50 mg comprimidos
+venetoclax
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+AbbVie (como logo)
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+OUTROS
+
+56
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM (embalagem para 7 dias)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 100 mg comprimidos revestidos por película
+venetoclax
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 100 mg de venetoclax
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+7 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Tomar a sua dose de manhã com uma refeição e água. Beber 1,5-2 litros de água por dia.
+Consultar o folheto informativo antes de utilizar. É importante seguir todas as instruções da secção
+“Como tomar” do folheto.
+Via oral.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+57
+
+10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1138/005
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+venclyxto 100 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+58
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 100 mg comprimidos
+venetoclax
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+AbbVie (como logo)
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+OUTROS
+
+59
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM (embalagem para 7 dias)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 100 mg comprimidos revestidos por película
+venetoclax
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 100 mg de venetoclax
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+14 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Tomar a sua dose de manhã com uma refeição e água. Beber 1,5-2 litros de água por dia.
+Consultar o folheto informativo antes de utilizar. É importante seguir todas as instruções da secção
+“Como tomar” do folheto.
+Via oral.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+60
+
+10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1138/006
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+venclyxto 100 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+61
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+CARTONAGEM Embalagem múltipla (com blue box)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 100 mg comprimidos revestidos por película
+venetoclax
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 100 mg de venetoclax
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Comprimido revestido por película
+Embalagem múltipla: 112 (4 x 28) comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar. É importante seguir todas as instruções da secção
+“Como tomar” do folheto.
+Via oral.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+62
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1138/007
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+venclyxto 100 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+63
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+CARTONAGEM Embalagem múltipla (sem blue box)
+
+1.
+
+NOME DO MEDICAMENTO
+
+Venclyxto 100 mg comprimidos revestidos por película
+venetoclax
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém 100 mg de venetoclax
+3.
+
+LISTA DOS EXCIPIENTES
+
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+28 comprimidos revestidos por película
+Componente de uma embalagem múltipla, não pode ser vendido separadamente.
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Tomar a sua dose, à mesma hora, todos os dias, com uma refeição e água.
+Consultar o folheto informativo antes de utilizar. É importante seguir todas as instruções da secção
+“Como tomar” do folheto.
+Via oral.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+64
+
+11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/16/1138/007
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+venclyxto 100 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Não aplicável.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+Não aplicável.
+
+65
+
+B. FOLHETO INFORMATIVO
+
+66
+
+Folheto informativo: Informação para o doente
+Venclyxto 10 mg comprimidos revestidos por película
+Venclyxto 50 mg comprimidos revestidos por película
+Venclyxto 100 mg comprimidos revestidos por película
+venetoclax
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+- Conserve este folheto. Pode ter necessidade de o ler novamente.
+- Caso ainda tenha dúvidas, fale com o seu médico.
+- Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode serlhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+- Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+O que contém este folheto
+1.
+2.
+3.
+4.
+5.
+6.
+1.
+
+O que é Venclyxto e para que é utilizado
+O que precisa de saber antes de tomar Venclyxto
+Como tomar Venclyxto
+Efeitos indesejáveis possíveis
+Como conservar Venclyxto
+Conteúdo da embalagem e outras informações
+O que é Venclyxto e para que é utilizado
+
+O que é Venclyxto
+Venclyxto é um medicamento contra o cancro que contém a substância ativa venetoclax. Pertence a
+um grupo de medicamentos denominados “Inibidores da BCL-2”.
+Para que é utilizado Venclyxto
+Venclyxto é utilizado para tratar adultos com:
+• leucemia linfocítica crónica (LLC). Venclyxto pode ser-lhe dado em combinação com outros
+medicamentos ou isoladamente.
+• leucemia mieloide aguda (LMA). Venclyxto será dado em combinação com outros
+medicamentos.
+A LLC é um tipo de cancro que afeta os glóbulos brancos do sangue, denominados linfócitos, e os
+gânglios linfáticos. Na LLC, os linfócitos multiplicam-se muito rapidamente e vivem durante
+demasiado tempo, de modo que existe um excesso de linfócitos no sangue.
+A LMA é um tipo de cancro que afeta os glóbulos brancos do sangue, denominados células mieloides.
+Na LMA, as células sanguíneas mieloides multiplicam-se e crescem muito rapidamente na medula
+óssea e no sangue, de modo que existem demasiadas células mieloides no sangue, mas glóbulos
+vermelhos insuficientes.
+Como funciona Venclyxto
+Venclyxto funciona bloqueando uma proteína do organismo denominada “BCL-2”. Esta proteína está
+presente em elevadas quantidades em algumas células cancerígenas e ajuda as células cancerígenas a
+sobreviverem. O bloqueio desta proteína ajuda a eliminar as células cancerígenas e a reduzir o seu
+número. Também atrasa o agravamento da doença.
+
+67
+
+2.
+
+O que precisa de saber antes de tomar Venclyxto
+
+Não tome Venclyxto se:
+- tem alergia à substância ativa venetoclax ou a qualquer outro componente deste medicamento
+(indicado na secção 6).
+- tem LLC e está a tomar qualquer um dos medicamentos indicados em baixo, quando inicia o seu
+tratamento e enquanto a sua dose está a ser gradualmente aumentada (normalmente durante 5
+semanas). Isto porque quando Venclyxto é tomado com estes medicamentos podem ocorrer efeitos
+graves e que podem pôr a vida em risco:
+•
+•
+•
+
+itraconazol, cetoconazol, posaconazol, ou voriconazol para infeções fúngicas
+claritromicina para infeções bacterianas
+ritonavir para infeção pelo VIH.
+
+Quando a sua dose de Venclyxto tiver sido aumentada até à dose-padrão completa, fale com o seu
+médico para saber se pode iniciar a toma destes medicamentos outra vez.
+-
+
+está a tomar um produto à base de plantas denominado erva de São João (hipericão), utilizado
+para a depressão. Se tiver dúvidas, fale com o seu médico, farmacêutico ou enfermeiro antes de
+tomar Venclyxto.
+
+É importante que fale com o seu médico, farmacêutico, ou enfermeiro sobre todos os medicamentos
+que toma, incluindo os medicamentos sujeitos e não sujeitos a receita médica, vitaminas, e
+suplementos à base de plantas. O seu médico pode necessitar que interrompa alguns medicamentos
+quando começar a tomar Venclyxto e durante os primeiros dias ou as primeiras semanas, quando a sua
+dose é aumentada até à dose-padrão completa.
+Advertências e precauções
+Fale com o seu médico, farmacêutico, ou enfermeiro antes de tomar Venclyxto se:
+•
+•
+•
+•
+
+tem quaisquer problemas nos rins, porque pode aumentar o seu risco de ter um efeito indesejável
+denominado síndrome de lise tumoral
+tem problemas no fígado, porque pode aumentar o seu risco de ter efeitos indesejáveis. O seu
+médico poderá ter de reduzir a sua dose de Venclyxto
+pensa que pode ter uma infeção ou teve uma infeção prolongada ou repetida
+vai levar uma vacina brevemente.
+
+Se alguma das situações acima descritas se aplica a si, ou se tiver dúvidas, fale com o seu médico,
+farmacêutico, ou enfermeiro antes de tomar este medicamento.
+Síndrome de Lise Tumoral
+Algumas pessoas podem desenvolver níveis alterados de alguns sais (como potássio e ácido úrico) no
+sangue causados pela rápida desagregação das células cancerígenas durante o tratamento. Esta situação
+pode provocar alterações na função dos rins, batimento do coração alterado, ou convulsões. Esta
+situação denomina-se síndrome de lise tumoral (SLT). O risco de SLT existe nos primeiros dias ou nas
+primeiras semanas de tratamento com Venclyxto, enquanto aumenta a sua dose.
+Se tem LLC
+O seu médico, farmacêutico ou enfermeiro fará análises ao seu sangue para verificar se apresenta
+sinais de SLT.
+Antes de iniciar o tratamento com Venclyxto, o seu médico também irá dar-lhe medicamentos para
+ajudar a prevenir a acumulação de ácido úrico no seu corpo.
+Beber muita água, pelo menos 1,5 a 2 litros por dia, ajuda a remover do seu corpo os produtos da
+desagregação das células cancerígenas através da urina e pode reduzir o seu risco de desenvolver SLT
+(ver secção 3).
+68
+
+Fale imediatamente com o seu médico, farmacêutico ou enfermeiro caso tenha qualquer dos sintomas
+de SLT indicados na secção 4.
+Se está em risco de desenvolver SLT, poderá ser tratado no hospital de modo a que, se necessário,
+receba fluidos nas veias, faça análises ao sangue com mais frequência e seja verificado se tem efeitos
+indesejáveis. Isto permite avaliar se pode continuar a tomar este medicamento em segurança.
+Se tem LMA
+Poderá ser tratado no hospital e o seu médico ou enfermeiro irá certificar-se de que tem água/fluidos
+suficientes, dar-lhe medicamentos para prevenir a acumulação de ácido úrico no seu corpo e fazer
+análises ao sangue antes de começar a tomar Venclyxto, enquanto aumentam a sua dose e quando
+começar a tomar a dose completa.
+Crianças e adolescentes
+Venclyxto não deve ser utilizado em crianças e adolescentes, porque não foi estudado nestes grupos
+etários.
+Outros medicamentos e Venclyxto
+Informe o seu médico ou farmacêutico se estiver a tomar qualquer um dos seguintes medicamentos,
+pois estes podem aumentar ou reduzir a quantidade de venetoclax no seu sangue:
+-
+
+medicamentos para infeções fúngicas – fluconazol, itraconazol, cetoconazol, posaconazol, ou
+voriconazol
+antibióticos para tratar infeções bacterianas – ciprofloxacina, claritromicina, eritromicina,
+nafcilina, ou rifampicina
+medicamentos para evitar convulsões ou tratar a epilepsia – carbamazepina, fenitoína
+medicamentos para a infeção pelo VIH – efavirenz, etravirina, ritonavir
+medicamentos para tratar a pressão arterial elevada ou angina – diltiazem, verapamilo
+medicamentos para baixar os níveis de colesterol no sangue - colestiramina, colestipol,
+colesevelam
+um medicamento utilizado para tratar uma doença pulmonar chamada hipertensão arterial
+pulmonar - bosentano
+um medicamento para tratar o distúrbio do sono (narcolepsia) conhecido como modafinil
+um produto à base de plantas conhecido como erva de São João (hipericão)
+
+O seu médico pode alterar a sua dose de Venclyxto.
+Informe o seu médico se estiver a tomar qualquer um dos seguintes medicamentos, pois Venclyxto
+pode afetar o seu modo de funcionamento:
+•
+•
+•
+•
+•
+
+medicamentos que previnem a formação de coágulos no sangue, varfarina, dabigatrano
+um medicamento utilizado para tratar problemas do coração, conhecido como digoxina
+um medicamento para o cancro, conhecido como everolímus
+um medicamento utilizado para prevenir a rejeição de órgãos, conhecido como sirolímus
+medicamentos para baixar os níveis de colesterol no sangue, conhecidos como estatinas
+
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos, incluindo medicamentos não sujeitos a receita médica, medicamentos e
+suplementos à base de plantas. Isto deve-se ao facto de Venclyxto poder afetar o modo de
+funcionamento de outros medicamentos. Também existem outros medicamentos que podem afetar o
+modo de funcionamento de Venclyxto.
+Venclyxto com alimentos e bebidas
+Não coma produtos à base de toranja, laranjas de Sevilha (laranjas amargas, frequentemente utilizadas
+em marmeladas) ou carambola enquanto toma Venclyxto – não deve ingeri-los, beber o sumo ou
+69
+
+tomar um suplemento que possam contê-los. Isto porque podem aumentar a quantidade de venetoclax
+no seu sangue.
+Gravidez
+- Não engravide enquanto está a tomar este medicamento. Se está grávida, se pensa estar grávida ou
+planeia engravidar, consulte o seu médico, farmacêutico, ou enfermeiro antes de tomar este
+medicamento.
+- Venclyxto não deve ser utilizado durante a gravidez. Não existe informação sobre a segurança de
+venetoclax em mulheres grávidas.
+Contraceção
+- As mulheres com potencial para engravidar devem utilizar um método contracetivo altamente
+eficaz durante o tratamento e durante pelo menos 30 dias após o tratamento com Venclyxto, para
+evitarem engravidar. Se estiver a utilizar pílulas ou dispositivos contracetivos hormonais, deve
+também utilizar um método contracetivo de barreira (como preservativos), uma vez que o efeito de
+pílulas ou dispositivos contracetivos hormonais pode ser afetado por Venclyxto.
+- Fale imediatamente com o seu médico se engravidar enquanto toma este medicamento.
+Amamentação
+Não amamente enquanto estiver a tomar este medicamento. Não se sabe se a substância ativa de
+Venclyxto passa para o leite materno.
+Fertilidade
+Com base em observações em animais, Venclyxto pode causar infertilidade masculina (contagem de
+espermatozoides reduzida ou nula). Isto pode afetar a sua capacidade de ter uma criança. Fale com o
+seu médico sobre a conservação de esperma antes de iniciar o tratamento com Venclyxto.
+Condução de veículos e utilização de máquinas
+Pode sentir-se cansado ou com tonturas após tomar Venclyxto, o que pode afetar a sua capacidade de
+conduzir veículos ou utilizar ferramentas ou máquinas. Se isto acontecer, não conduza nem utilize
+quaisquer ferramentas ou máquinas.
+Venclyxto contém sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido, ou seja, é
+praticamente “isento de sódio”.
+3.
+
+Como tomar Venclyxto
+
+Tome este medicamento exatamente como indicado pelo seu médico, farmacêutico ou enfermeiro.
+Fale com o seu médico, farmacêutico ou enfermeiro se tiver dúvidas.
+Quanto deve tomar
+Se tem LLC
+Irá começar o tratamento com Venclyxto com uma dose reduzida durante 1 semana. O seu médico irá
+aumentar gradualmente a dose ao longo das 4 semanas seguintes, até à dose-padrão completa. Durante
+as primeiras 4 semanas, receberá uma nova embalagem cada semana.
+•
+•
+•
+•
+•
+
+a dose inicial é de 20 mg (dois comprimidos de 10 mg) uma vez por dia durante 7 dias.
+a dose será aumentada para 50 mg (um comprimido de 50 mg) uma vez por dia durante 7 dias.
+a dose será aumentada para 100 mg (um comprimido de 100 mg) uma vez por dia durante 7 dias.
+a dose será aumentada para 200 mg (dois comprimidos de 100 mg) uma vez por dia durante 7 dias.
+a dose será aumentada para 400 mg (quatro comprimidos de 100 mg) uma vez por dia durante 7
+dias.
+o Quando está a fazer Venclyxto isoladamente, permanecerá com uma dose diária de
+400 mg, que é a dose-padrão, pelo tempo que for necessário.
+70
+
+o
+o
+
+Quando está a fazer Venclyxto em combinação com rituximab, receberá a dose diária de
+400 mg durante 24 meses.
+Quando está a fazer Venclyxto em combinação com obinutuzumab, receberá a dose diária
+de 400 mg durante aproximadamente 10 meses.
+
+Poderá ser necessário ajustar a sua dose devido a efeitos indesejáveis. O seu médico irá indicar qual
+deverá ser a sua dose.
+Se tem LMA
+Irá começar o tratamento com Venclyxto numa dose mais baixa. O seu médico irá aumentar
+gradualmente a dose em cada dia durante os primeiros 3 dias. Após 3 dias, irá tomar a dose-padrão
+completa. A dose (comprimidos) é tomada uma vez por dia.
+As doses estão indicadas na tabela abaixo
+Dia
+1
+2
+3 e seguintes
+
+Dose diária de Venclyxto
+100 mg (Um comprimido de 100 mg)
+200 mg (Dois comprimidos de 100 mg)
+400 mg (Quatro comprimidos de 100 mg)
+
+O seu médico irá dar-lhe Venclyxto em combinação com outro medicamento (azacitidina ou
+decitabina).
+Irá continuar a tomar Venclyxto na dose completa até a sua LMA piorar ou não poder tomar
+Venclyxto por estar a causar efeitos indesejáveis graves.
+Como tomar Venclyxto
+• Tome os comprimidos com uma refeição, aproximadamente à mesma hora, todos os dias
+• Engula os comprimidos inteiros com um copo de água
+• Não mastigue, esmague, ou parta os comprimidos
+• Durante os primeiros dias ou as primeiras semanas de tratamento, enquanto aumenta a sua dose,
+deve tomar os comprimidos de manhã, para facilitar o acompanhamento das suas análises ao
+sangue, se necessário.
+Se vomitar após tomar Venclyxto, não tome uma dose adicional nesse dia. Tome a dose seguinte à
+hora habitual no dia seguinte. Se tiver problemas a tomar este medicamento, fale com o seu médico.
+Beber muita água
+Se tem LLC
+É muito importante que beba muita água ao tomar Venclyxto, nas primeiras 5 semanas de tratamento.
+Tal irá ajudar a remover do seu sangue os produtos da desagregação das células cancerígenas através
+da sua urina.
+Deve começar a beber pelo menos 1,5 a 2 litros de água por dia, dois dias antes de iniciar Venclyxto.
+Pode também incluir bebidas não alcoólicas e descafeínadas, mas não deve incluir sumos de toranja,
+laranja de Sevilha, ou carambola. Deve continuar a beber pelo menos 1,5 a 2 litros de água no dia em
+que começa Venclyxto. Beba a mesma quantidade de água (pelo menos 1,5 a 2 litros por dia) dois dias
+antes e no dia em que a sua dose é aumentada.
+Se o seu médico considera que está em risco de desenvolver SLT, poderá ser tratado no hospital de
+modo a que, se necessário, receba mais fluidos nas veias, faça análises ao sangue com mais frequência
+e seja verificado se tem efeitos indesejáveis. Isto permite avaliar se pode continuar a tomar este
+medicamento em segurança.
+
+71
+
+Se tem LMA
+É muito importante que beba muita água ao tomar Venclyxto, especialmente quando inicia o
+tratamento e aumenta a sua dose. Beber água irá ajudar a remover do seu sangue os produtos da
+desagregação das células cancerígenas através da sua urina. Se estiver no hospital e se necessário, o
+seu médico ou enfermeiro irá administrar-lhe fluidos nas veias, para garantir que isto acontece.
+Se tomar mais Venclyxto do que deveria
+Se tomar mais Venclyxto do que deveria, contacte o seu médico, farmacêutico, ou enfermeiro ou
+dirija-se ao hospital imediatamente. Leve consigo os comprimidos e este folheto informativo.
+Caso se tenha esquecido de tomar Venclyxto
+• Se passaram menos de 8 horas desde a hora a que habitualmente toma a sua dose, tome-a o mais
+breve possível.
+• Se passaram mais de 8 horas desde a hora a que habitualmente toma a sua dose, não tome a dose
+nesse dia. Tome a próxima dose à hora habitual no dia seguinte.
+• Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+• Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+Não parar de tomar Venclyxto
+Não pare de tomar este medicamento a menos que o seu médico lhe diga para o fazer. Caso ainda
+tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico ou
+enfermeiro.
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas. Podem ocorrer os seguintes efeitos indesejáveis graves com este
+medicamento:
+Síndrome de lise tumoral (frequente - pode afetar até 1 em cada 10 pessoas)
+Pare de tomar Venclyxto e procure assistência médica imediatamente se verificar algum dos sintomas
+de SLT:
+• febre ou calafrios
+• sensação de má-disposição (náuseas ou vómitos)
+• confusão
+• dificuldade em respirar
+• batimento do coração irregular
+• urina escura ou turva
+• sensação de cansaço anormal
+• dores nos músculos ou desconforto nas articulações
+• convulsões ou ataques convulsivos
+• dor e distensão abdominal (dor de barriga)
+Redução do número de glóbulos brancos (neutropenia) e infeções (muito frequentes – podem
+afetar mais do que 1 em cada 10 pessoas)
+O seu médico irá verificar o seu hemograma durante o tratamento com Venclyxto. Uma redução do
+número de glóbulos brancos pode aumentar o seu risco de infeção. Os sinais podem incluir febre,
+calafrios, sensação de fraqueza ou confusão, tosse, dor ou sensação de ardor ao urinar. Algumas
+infeções, tais como pneumonia ou infeção no sangue (sépsis), podem ser graves e conduzir à morte.
+Contacte imediatamente o seu médico se tiver sinais de infeção enquanto toma este medicamento.
+Informe o seu médico se verificar algum dos seguintes efeitos indesejáveis:
+Se tem LLC
+Muito frequentes (podem afetar mais do que 1 em cada 10 pessoas)
+72
+
+•
+•
+•
+•
+•
+•
+
+pneumonia
+infeção do trato respiratório superior – os sinais incluem corrimento nasal, garganta irritada ou
+tosse
+diarreia
+sensação de má-disposição (náuseas ou vómitos)
+prisão de ventre
+sensação de cansaço
+
+As análises ao sangue podem também apresentar
+• número mais reduzido de glóbulos vermelhos
+• número mais reduzido de glóbulos brancos denominados linfócitos
+• nível mais elevado de potássio
+• nível mais elevado de um sal do corpo (eletrólito) denominado fosfato
+• nível mais reduzido de cálcio
+Frequentes (podem afetar até 1 em cada 10 pessoas)
+• infeção grave no sangue (sépsis)
+• infeção do trato urinário
+• número reduzido de glóbulos brancos, com febre (neutropenia febril)
+As análises ao sangue podem também apresentar:
+• nível mais elevado de creatinina
+• nível mais elevado de ureia
+Se tem LMA
+Muito frequentes (podem afetar mais do que 1 em cada 10 pessoas)
+• sensação de má-disposição (náuseas ou vómitos)
+• diarreia
+• feridas da boca
+• sensação de cansaço ou fraqueza
+• infeção dos pulmões ou sangue
+• apetite diminuído
+• dor nas articulações
+• tonturas ou desmaios
+• dor de cabeça
+• dificuldade em respirar
+• hemorragia
+• tensão arterial baixa
+• infeção do trato urinário
+• perda de peso
+• dor na barriga (dor abdominal)
+As análises ao sangue podem também apresentar
+• número mais reduzido de plaquetas (trombocitopenia)
+• número mais reduzido de glóbulos brancos, com febre (neutropenia febril)
+• número mais reduzido de glóbulos vermelhos (anemia)
+• nível mais elevado de bilirrubina total
+• nível baixo de potássio no sangue
+Frequentes (podem afetar até 1 em cada 10 pessoas)
+• cálculos biliares ou infeção da vesícula biliar
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+73
+
+indesejáveis diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+5.
+
+Como conservar Venclyxto
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e blister, após
+EXP.
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Venclyxto
+A substância ativa é venetoclax.
+• Venclyxto 10 mg comprimidos revestidos por película: Cada comprimido revestido por película
+contém 10 mg de venetoclax.
+• Venclyxto 50 mg comprimidos revestidos por película: Cada comprimido revestido por película
+contém 50 mg de venetoclax.
+• Venclyxto 100 mg comprimidos revestidos por película: Cada comprimido revestido por película
+contém 100 mg de venetoclax.
+Os outros componentes são:
+• No núcleo do comprimido: copovidona (K 28), polissorbato 80 (E433), sílica coloidal anidra
+(E551), hidrogenofosfato de cálcio anidro (E341 (ii)), fumarato sódico de estearilo.
+No revestimento por película:
+• Venclyxto 10 mg comprimidos revestidos por película: óxido de ferro amarelo (E172), álcool
+polivinílico (E1203), dióxido de titânio (E171), macrogol 3350 (E1521), talco (E553b).
+• Venclyxto 50 mg comprimidos revestidos por película: óxido de ferro amarelo (E172), óxido de
+ferro vermelho (E172), óxido de ferro negro (E172), álcool polivinílico (E1203), dióxido de
+titânio (E171), macrogol 3350 (E1521), talco (E553b).
+• Venclyxto 100 mg comprimidos revestidos por película: óxido de ferro amarelo (E172), álcool
+polivinílico (E1203), dióxido de titânio (E171), macrogol 3350 (E1521), talco (E553b).
+Qual o aspeto de Venclyxto e conteúdo da embalagem
+Venclyxto 10 mg comprimido revestido por película é amarelo claro, redondo com 6 mm de diâmetro,
+com V de um lado e 10 do outro.
+Venclyxto 50 mg comprimido revestido por película é bege, oblongo com 14 mm de comprimento,
+com V de um lado e 50 do outro.
+Venclyxto 100 mg comprimido revestido por película é amarelo claro, oblongo com 17,2 mm de
+comprimento, com V de um lado e 100 do outro.
+Os comprimidos de Venclyxto são fornecidos em blisters que são colocados em embalagens do
+seguinte modo:
+Venclyxto 10 mg comprimidos revestidos por película:
+• 10 comprimidos (5 blisters, cada um com 2 comprimidos)
+74
+
+•
+
+14 comprimidos (7 blisters, cada um com 2 comprimidos)
+
+Venclyxto 50 mg comprimidos revestidos por película:
+• 5 comprimidos (5 blisters, cada um com 1 comprimido)
+• 7 comprimidos (7 blisters, cada um com 1 comprimido)
+Venclyxto 100 mg comprimidos revestidos por película:
+• 7 comprimidos (7 blisters, cada um com 1 comprimido)
+• 14 comprimidos (7 blisters, cada um com 2 comprimidos)
+• 112 (4 x 28) comprimidos (4 embalagens de 7 blisters, cada um com 4 comprimidos)
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado e Fabricante
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Alemanha
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+AbbVie SA
+Tél/Tel: +32 10 477811
+
+Lietuva
+AbbVie UAB
+Tel: +370 5 205 3023
+
+България
+АбВи ЕООД
+Тел:+359 2 90 30 430
+
+Luxembourg/Luxemburg
+AbbVie SA
+Belgique/Belgien
+Tél/Tel: +32 10 477811
+
+Česká republika
+AbbVie s.r.o.
+Tel: +420 233 098 111
+
+Magyarország
+AbbVie Kft.
+Tel:+36 1 455 8600
+
+Danmark
+AbbVie A/S
+Tlf: +45 72 30-20-28
+
+Malta
+V.J.Salomone Pharma Limited
+Tel: +356 22983201
+
+Deutschland
+AbbVie Deutschland GmbH & Co. KG
+Tel: 00800 222843 33 (gebührenfrei)
+Tel: +49 (0) 611 / 1720-0
+
+Nederland
+AbbVie B.V.
+Tel: +31 (0)88 322 2843
+
+Eesti
+AbbVie OÜ
+Tel: +372 623 1011
+
+Norge
+AbbVie AS
+Tlf: +47 67 81 80 00
+
+Ελλάδα
+AbbVie ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε.
+Τηλ: +30 214 4165 555
+
+Österreich
+AbbVie GmbH
+Tel: +43 1 20589-0
+
+España
+AbbVie Spain, S.L.U.
+Tel: +34 91 384 09 10
+
+Polska
+AbbVie Sp. z o.o.
+Tel: +48 22 372 78 00
+75
+
+France
+AbbVie
+Tél: +33 (0) 1 45 60 13 00
+
+Portugal
+AbbVie, Lda.
+Tel: +351 (0)21 1908400
+
+Hrvatska
+AbbVie d.o.o.
+Tel: + 385 (0)1 5625 501
+
+România
+AbbVie S.R.L.
+Tel: +40 21 529 30 35
+
+Ireland
+AbbVie Limited
+Tel: +353 (0)1 4287900
+
+Slovenija
+AbbVie Biofarmacevtska družba d.o.o.
+Tel: +386 (1)32 08 060
+
+Ísland
+Vistor hf.
+Tel: +354 535 7000
+
+Slovenská republika
+AbbVie s.r.o.
+Tel: +421 2 5050 0777
+
+Italia
+AbbVie S.r.l.
+Tel: +39 06 928921
+
+Suomi/Finland
+AbbVie Oy
+Puh/Tel: +358 (0)10 2411 200
+
+Κύπρος
+Lifepharma (Z.A.M.) Ltd
+Τηλ: +357 22 34 74 40
+
+Sverige
+AbbVie AB
+Tel: +46 (0)8 684 44 600
+
+Latvija
+AbbVie SIA
+Tel: +371 67605000
+
+United Kingdom (Northern Ireland)
+AbbVie Deutschland GmbH & Co. KG
+Tel: +44 (0)1628 561090
+
+Este folheto foi revisto pela última vez em
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+Este folheto está disponível em todas as línguas da UE/EEE no sítio da internet da Agência Europeia
+de Medicamentos.
+Para ouvir ou solicitar uma cópia deste folheto em <Braille>, <impressão maior> ou <áudio>,
+contacte o representante local do Titular da Autorização de Introdução no Mercado.
+
+76
+
+

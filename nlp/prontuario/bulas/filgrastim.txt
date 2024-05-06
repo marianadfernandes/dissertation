@@ -1,0 +1,1636 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+Ziextenzo 6 mg solução injetável em seringa pré-cheia
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada seringa pré-cheia contém 6 mg de pegfilgrastim* em 0,6 ml de solução injetável. Considerando
+apenas a parte proteica, a concentração é de 10 mg/ml**.
+*Produzido por tecnologia de ADN recombinante em células de Escherichia coli, seguido de
+conjugação com polietilenoglicol (PEG).
+**A concentração é de 20 mg/ml, se a parte do PEG for incluída.
+A potência deste medicamento não deve ser comparada à potência de outra proteína peguilada ou não
+peguilada da mesma classe terapêutica. Para mais informação, ver secção 5.1.
+Excipientes com efeito conhecido
+Cada seringa pré-cheia contém 30 mg de sorbitol (E 420).
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Solução injetável (injetável)
+Solução injetável límpida e incolor a ligeiramente amarelada.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Redução da duração da neutropenia e da incidência da neutropenia febril em doentes adultos tratados
+com quimioterapia citotóxica para doença maligna (com exceção da leucemia mieloide crónica e de
+síndrome mielodisplásica).
+4.2
+
+Posologia e modo de administração
+
+O tratamento com Ziextenzo deve ser iniciado e supervisionado por médicos com experiência em
+oncologia e/ou hematologia.
+Posologia
+Recomenda-se uma dose de 6 mg (uma única seringa pré-cheia) de Ziextenzo por cada ciclo de
+quimioterapia, dada pelo menos 24 horas após a quimioterapia citotóxica.
+Populações especiais
+População pediátrica
+A segurança e eficácia de pegfilgrastim em crianças não foram ainda estabelecidas. Os dados atualmente
+disponíveis encontram-se descritos nas secções 4.8, 5.1 e 5.2, mas não pode ser feita qualquer
+recomendação posológica.
+
+2
+
+Compromisso renal
+Não é recomendada qualquer alteração à dose em doentes com compromisso renal, incluindo os doentes
+com doença renal em estádio terminal.
+Modo de administração
+Ziextenzo destina-se a utilização por via subcutânea.
+As injeções devem ser dadas na coxa, abdómen ou na parte superior do braço. Para instruções acerca do
+manuseamento do medicamento antes da administração, ver secção 6.6.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+Advertências e precauções gerais
+Dados clínicos limitados sugerem um efeito comparável entre pegfilgrastim e filgrastim, no tempo de
+recuperação da neutropenia grave em doentes com leucemia mieloide aguda (LMA) de novo (ver
+secção 5.1). No entanto, os efeitos a longo prazo de pegfilgrastim não foram ainda estabelecidos na
+LMA, pelo que deve ser utilizado com precaução nesta população de doentes.
+O fator de estimulação de colónias de granulócitos (G-CSF) pode promover o crescimento de células
+mieloides in vitro e podem também ser observados efeitos similares em algumas células não mieloides
+in vitro.
+A segurança e eficácia de pegfilgrastim não foram ainda investigadas em doentes com síndrome
+mielodisplásica, leucemia mielogénica crónica e em doentes com LMA secundária; desta forma, não
+deve ser administrado nestes doentes. Deve ter-se especial cuidado na distinção de um diagnóstico de
+transformação blástica de uma leucemia mieloide crónica do de uma LMA.
+A segurança e eficácia da administração de pegfilgrastim não foram estabelecidas em doentes com
+LMA de novo e idade < 55 anos, com citogenética t(15;17).
+A segurança e eficácia de pegfilgrastim não foram investigadas em doentes a receber quimioterapia em
+doses elevadas. Este medicamento não deve ser utilizado para aumentar a dose de quimioterapia
+citotóxica para além dos regimes posológicos estabelecidos.
+Acontecimentos adversos pulmonares
+Foram notificadas reações adversas pulmonares, em particular pneumonia intersticial, após
+administração de G-CSF. Doentes com história recente de infiltrados pulmonares ou pneumonia podem
+ter um risco superior (ver secção 4.8).
+O aparecimento de sinais pulmonares tais como tosse, febre e dispneia em associação com sinais
+radiológicos de infiltração pulmonar e de deterioração da função pulmonar, concomitantemente com o
+aumento do número de neutrófilos, podem ser sinais preliminares indicativos da síndrome de
+dificuldade respiratória aguda (SDRA). Nestas circunstâncias, a administração de pegfilgrastim deve ser
+interrompida, consoante critério médico, e aplicado o tratamento apropriado (ver secção 4.8).
+3
+
+Glomerulonefrite
+Foi notificada glomerulonefrite em doentes a receber filgrastim e pegfilgrastim. Os acontecimentos de
+glomerulonefrite foram geralmente resolvidos após redução da dose ou descontinuação de filgrastim ou
+pegfilgrastim. É recomendada monitorização através de análises urinárias.
+Síndrome de transudação capilar
+Tem sido notificada síndrome de transudação capilar após a administração do fator de estimulação de
+colónias de granulócitos, sendo caracterizada por hipotensão, hipoalbuminemia, edema e
+hemoconcentração. Os doentes que desenvolvam sintomas da síndrome de transudação capilar devem
+ser cuidadosamente monitorizados e receber tratamento sintomático convencional, que pode incluir a
+necessidade de cuidados intensivos (ver secção 4.8).
+Esplenomegalia e rutura do baço
+Após a administração de pegfilgrastim, foram notificados casos de esplenomegalia geralmente
+assintomáticos e casos de rutura do baço, incluindo alguns casos fatais (ver secção 4.8).
+Consequentemente, as dimensões do baço devem ser cuidadosamente monitorizadas (p. ex., exame
+clínico, ultrassonografia). Um diagnóstico de rutura do baço deve ser considerado em doentes que
+apresentem dor abdominal no quadrante superior esquerdo ou dor em pontada no ombro esquerdo.
+Trombocitopenia e anemia
+O tratamento isolado com pegfilgrastim não exclui a possibilidade de trombocitopenia e de anemia, uma
+vez que é mantida a dose completa de quimioterapia mielossupressiva no programa de prescrição.
+Recomenda-se a monitorização regular da contagem de plaquetas e do hematócrito. Deve ter-se especial
+cuidado aquando da administração em monoterapia ou em combinação com outros agentes
+quimioterapêuticos que se sabe causarem trombocitopenia grave.
+Síndrome mielodisplásica e leucemia mieloide aguda em doentes com cancro da mama e do pulmão
+No estudo observacional na fase pós-comercialização, pegfilgrastim, em conjunto com quimioterapia
+e/ou radioterapia, tem sido associado ao desenvolvimento de síndrome mielodisplásica (SMD) e
+leucemia mieloide aguda (LMA) em doentes com cancro da mama e do pulmão (ver secção 4.8).
+Monitorize os doentes com cancro da mama e do pulmão quanto a sinais e sintomas de SMD/LMA.
+Anemia de células falciformes
+A administração de pegfilgrastim foi associada a crises de células falciformes em doentes com traço
+falciforme ou anemia de células falciformes (ver secção 4.8). Assim, os clínicos devem ter um cuidado
+especial quando prescrevem pegfilgrastim a doentes com traço falciforme ou com anemia de células
+falciformes, devendo ser feita uma monitorização apropriada dos parâmetros clínicos e laboratoriais e
+ter atenção a uma possível associação deste medicamento ao aumento do volume do baço e a uma crise
+veno-oclusiva.
+Leucocitose
+Observaram-se contagens de glóbulos brancos (CGB) iguais ou superiores a 100 × 109/l em menos de
+1% dos doentes que receberam pegfilgrastim. Não foram notificados quaisquer efeitos adversos
+diretamente atribuíveis a este grau de leucocitose. Este aumento de glóbulos brancos é transitório,
+tipicamente observado 24 a 48 horas após a administração e é consistente com os efeitos
+farmacodinâmicos deste medicamento. Consistente com os efeitos clínicos e o potencial para
+leucocitose, a CGB deve ser efetuada em intervalos regulares durante a terapêutica. Se a contagem de
+leucócitos exceder 50 × 109/l depois do nadir esperado, este medicamento deve ser descontinuado
+imediatamente.
+4
+
+Hipersensibilidade
+Em doentes tratados com pegfilgrastim foi notificada hipersensibilidade, incluindo reações anafiláticas,
+que ocorreram nos tratamentos iniciais ou subsequentes. Descontinue permanentemente pegfilgrastim
+em doentes com hipersensibilidade clinicamente significativa. Não administre pegfilgrastim em doentes
+com história de hipersensibilidade a pegfilgrastim ou filgrastim. Se ocorrer uma reação alérgica grave,
+deve ser administrada terapêutica apropriada e efetuado um acompanhamento próximo ao doente
+durante vários dias.
+Síndrome de Stevens-Johnson
+Foi notificada raramente síndrome de Stevens-Johnson (SSJ), que pode colocar a vida em risco ou ser
+fatal, em associação com o tratamento com pegfilgrastim. Se o doente desenvolver SSJ com a utilização
+de pegfilgrastim, o tratamento com pegfilgrastim não deve, jamais, ser reiniciado nesse doente.
+Imunogenicidade
+Tal como em todas as proteínas terapêuticas, existe um potencial para imunogenicidade. As taxas de
+formação de anticorpos contra o pegfilgrastim são geralmente baixas. Como esperado para todos os
+biológicos, existem anticorpos de ligação; no entanto, até agora, estes não foram associados a atividade
+neutralizante.
+Aortite
+Foi notificada aortite após a administração de G-CSF em indivíduos saudáveis e em doentes com
+cancro. Os sintomas observados incluem febre, dor abdominal, mal-estar, dor nas costas e aumento dos
+marcadores inflamatórios (por exemplo, proteína C reativa e contagens de glóbulos brancos). Na
+maioria dos casos, a aortite foi diagnosticada por exame TC (Tomografia computorizada) e geralmente
+resolvida após a retirada de G-CSF. Ver também a secção 4.8.
+Outras advertências
+A segurança e eficácia de pegfilgrastim não foram avaliadas de maneira adequada para a mobilização de
+células progenitoras do sangue tanto em doentes como em dadores saudáveis.
+O aumento da atividade hematopoiética da medula óssea em resposta à terapêutica com fator de
+crescimento tem sido associado a resultados imagiológicos positivos e transitórios do osso. Este facto
+deve ser considerado aquando da interpretação de resultados imagiológicos do osso.
+Excipientes
+Este medicamento contém 30 mg de sorbitol em cada seringa pré-cheia que é equivalente a 50 mg/ml.
+Deve-se ter em consideração o efeito aditivo da administração concomitante de produtos contendo
+sorbitol (ou frutose) e a ingestão de sorbitol (ou frutose) na dieta.
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por dose de 6 mg, ou seja, é
+praticamente “isento de sódio”.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Devido à potencial sensibilidade das células mieloides em divisão rápida à quimioterapia citotóxica,
+pegfilgrastim deve ser administrado pelo menos 24 horas após a administração da quimioterapia
+citotóxica. Em ensaios clínicos, foi administrado pegfilgrastim com segurança até 14 dias antes da
+quimioterapia. A administração concomitante de pegfilgrastim com agentes quimioterapêuticos não foi
+estudada em doentes. Em modelos animais, a administração concomitante de pegfilgrastim e de
+5-fluorouracilo (5-FU) ou outros antimetabolitos demonstrou potenciar a mielossupressão.
+5
+
+Interações possíveis com outros fatores de estimulação hematopoiéticos e com citocinas não foram
+investigadas especificamente em ensaios clínicos.
+O potencial de interação com o lítio, que também favorece a libertação de neutrófilos, não foi
+investigado especificamente. Não há qualquer evidência de que este tipo de interação seja nocivo.
+A segurança e eficácia de pegfilgrastim não foram avaliadas em doentes que receberam quimioterapia
+associada a uma mielossupressão mais tardia, p. ex. nitrosoureias.
+Não foram efetuados estudos específicos de interações ou de metabolismo; no entanto, os ensaios
+clínicos não indicaram a existência de interações de pegfilgrastim com qualquer outro medicamento.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+A quantidade de dados sobre a utilização de pegfilgrastim em mulheres grávidas é limitada ou
+inexistente. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). O pegfilgrastim
+não é recomendado durante a gravidez e em mulheres com potencial para engravidar que não utilizam
+métodos contracetivos.
+Amamentação
+Existe informação insuficiente sobre a excreção de pegfilgrastim/metabolitos no leite humano; não pode
+ser excluído qualquer risco para os recém-nascidos/lactentes. Tem que ser tomada uma decisão sobre a
+descontinuação da amamentação ou a descontinuação/abstenção da terapêutica com pegfilgrastim tendo
+em conta o benefício da amamentação para a criança e o benefício da terapêutica para a mulher.
+Fertilidade
+O pegfilgrastim não afetou o desempenho reprodutivo ou a fertilidade em ratos machos ou fêmeas em
+doses semanais cumulativas, cerca de 6 a 9 vezes superiores à dose recomendada para humanos
+(baseada na área de superfície corporal) (ver secção 5.3).
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de pegfilgrastim sobre a capacidade de conduzir e utilizar máquinas são nulos ou
+desprezáveis.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas mais frequentemente notificadas foram dor óssea (muito frequentes [≥ 1/10]) e dor
+musculosquelética (frequentes [≥ 1/100, < 1/10]). Em termos de gravidade, a dor óssea foi na
+generalidade ligeira a moderada, passageira e, na maioria dos doentes, pôde ser controlada com os
+analgésicos convencionais.
+Reações de hipersensibilidade, incluindo erupção cutânea, urticária, angiedema, dispneia, eritema,
+afrontamentos e hipotensão, ocorreram durante o período inicial ou subsequente ao tratamento com
+pegfilgrastim (pouco frequentes [≥ 1/1000, < 1/100]). Podem ocorrer reações alérgicas graves, incluindo
+anafilaxia, em doentes a receber pegfilgrastim (pouco frequentes) (ver secção 4.4).
+A Síndrome de Transudação Capilar, que pode colocar a vida em risco se o tratamento for atrasado, foi
+notificada pouco frequentemente (≥ 1/1000, < 1/100) em doentes com cancro submetidos a
+
+6
+
+quimioterapia após a administração de fatores de estimulação de colónias de granulócitos; ver
+secção 4.4 e secção abaixo “Descrição das reações adversas selecionadas”.
+Esplenomegalia, geralmente assintomática, é pouco frequente.
+Rutura do baço, incluindo alguns casos fatais, é notificada pouco frequentemente após administração de
+pegfilgrastim (ver secção 4.4).
+Reações adversas pulmonares pouco frequentes, incluindo pneumonia intersticial, edema pulmonar,
+infiltrados e fibrose pulmonares, têm sido notificadas. Casos pouco frequentes resultaram em
+insuficiência respiratória ou SDRA, que podem ser fatais (ver secção 4.4).
+Foram notificados casos isolados de crises de células falciformes em doentes com traço falciforme ou
+anemia de células falciformes (pouco frequentes em doentes com anemia de células falciformes) (ver
+secção 4.4).
+Lista tabular das reações adversas
+Os dados da tabela abaixo descrevem reações adversas notificadas em ensaios clínicos e notificações
+espontâneas. As reações adversas são apresentadas por ordem decrescente de gravidade dentro de cada
+classe de frequência.
+Tabela 1. Reações adversas
+Classes de
+sistemas de
+órgãos segundo
+a base de dados
+MedDRA
+Neoplasias
+benignas,
+malignas e não
+especificadas
+(incl. quistos e
+pólipos)
+Doenças do
+sangue e do
+sistema linfático
+Doenças do
+sistema
+imunitário
+Doenças do
+metabolismo e
+da nutrição
+Doenças do
+sistema nervoso
+Vasculopatias
+
+Muito
+frequentes
+(≥ 1/10)
+
+Reações adversas
+Frequentes
+Pouco frequentes
+(≥ 1/100, < 1/10)
+(≥ 1/1000, < 1/100)
+
+Raros
+(≥ 1/10 000,
+< 1/1000)
+
+Síndrome
+mielodisplásica1
+Leucemia mieloide
+aguda1
+Trombocitopenia1
+Leucocitose1
+
+Anemia de células
+falciformes com
+crises2
+Esplenomegalia2
+Rutura do baço2
+Reações de hipersensibilidade
+Anafilaxia
+Aumentos da
+concentração do
+ácido úrico
+
+Cefaleia1
+Síndrome de
+Transudação Capilar1
+
+7
+
+Aortite
+
+Classes de
+sistemas de
+órgãos segundo
+a base de dados
+MedDRA
+Doenças
+respiratórias,
+torácicas e do
+mediastino
+
+Muito
+frequentes
+(≥ 1/10)
+
+Doenças
+gastrointestinais
+Afeções dos
+tecidos cutâneos
+e subcutâneos
+
+Náuseas1
+
+Afeções
+músculosqueléticas
+e dos tecidos
+conjuntivos
+
+Dor óssea
+
+Doenças renais
+e urinárias
+Perturbações
+gerais e
+alterações no
+local de
+administração
+Exames
+complementares
+de diagnóstico
+
+Reações adversas
+Frequentes
+Pouco frequentes
+(≥ 1/100, < 1/10)
+(≥ 1/1000, < 1/100)
+
+Raros
+(≥ 1/10 000,
+< 1/1000)
+
+Síndrome de
+dificuldade
+respiratória aguda2
+Reações adversas
+pulmonares
+(pneumonia
+intersticial, edema
+pulmonar, infiltrados
+pulmonares e fibrose
+pulmonar)
+Hemoptise
+
+Hemorragia
+pulmonar
+
+Síndrome de Sweet
+(dermatose
+neutrofílica febril
+aguda)1,2
+Vasculite cutânea1,2
+
+Síndrome de
+Stevens-Johnson
+
+Dor musculosquelética
+(mialgia,
+artralgia, dor nas
+extremidades,
+dorsalgia, dor
+musculosquelética, dor
+cervical)
+Glomerulonefrite2
+Dor no local da
+injeção1
+Dor torácica não
+cardíaca
+
+Reações no local da
+injeção2
+
+Aumentos da
+desidrogenase láctica
+e da fosfatase
+alcalina1
+Aumentos
+transitórios dos TFH,
+nomeadamente ALT
+ou AST1
+1 Ver secção abaixo “Descrição das reações adversas selecionadas”.
+2 Esta reação adversa foi identificada durante a vigilância na fase de pós-comercialização, mas não foi
+observada em ensaios clínicos em adultos, aleatorizados e controlados. A categoria da frequência foi
+estimada a partir de cálculos estatísticos baseados em 1576 doentes a receber pegfilgrastim em nove
+ensaios clínicos aleatorizados.
+Descrição das reações adversas selecionadas
+Foram notificados casos pouco frequentes da síndrome de Sweet, embora em alguns casos doenças
+hematológicas malignas subjacentes possam contribuir para a sua ocorrência.
+8
+
+Foram notificados em doentes tratados com pegfilgrastim casos pouco frequentes de vasculite cutânea.
+Não é conhecido o mecanismo da vasculite em doentes que recebem pegfilgrastim.
+Reações no local da injeção, incluindo eritema no local da injeção (pouco frequente) e também dor no
+local da injeção (frequente), ocorreram no tratamento inicial com pegfilgrastim ou nos tratamentos
+subsequentes.
+Foram notificados casos frequentes de leucocitose (Contagem de Glóbulos Brancos [CGB]
+> 100 × 109/l) (ver secção 4.4).
+Nos doentes que receberam pegfilgrastim após quimioterapia citotóxica, foram pouco frequentes os
+aumentos reversíveis, ligeiros a moderados, do ácido úrico e da fosfatase alcalina, sem efeitos clínicos
+associados; e foram pouco frequentes os aumentos reversíveis, ligeiros a moderados, da lactato
+desidrogenase, sem efeitos clínicos associados.
+Náuseas e cefaleias foram muito frequentemente observadas em doentes a receber quimioterapia.
+Foram observadas pouco frequentemente alterações dos testes de função hepática (TFH),
+nomeadamente elevações da alanina aminotransferase (ALT) ou aspartato aminotransferase (AST), em
+doentes a receber pegfilgrastim após quimioterapia citotóxica. Estas elevações foram transitórias e
+retornaram aos valores basais.
+Observou-se um risco aumentado de SMD/LMA após o tratamento com Ziextenzo, em conjunto com
+quimioterapia e/ou radioterapia, num estudo epidemiológico em doentes com cancro da mama e do
+pulmão (ver secção 4.4).
+Foram notificados frequentemente casos de trombocitopenia.
+Foram notificados casos de síndrome de transudação capilar na fase pós-comercialização com o uso de
+fator estimulante de colónias de granulócitos. Estes ocorreram geralmente em doentes com doenças
+malignas avançadas, sépsis, a receber múltiplos medicamentos de quimioterapia ou durante aférese (ver
+secção 4.4).
+População pediátrica
+A experiência em crianças é limitada. Observou-se uma maior frequência de reações adversas graves em
+crianças mais novas com idades entre os 0-5 anos (92%) comparativamente com crianças mais velhas
+com idades entre os 6-11 e 12-21 anos (80% e 67%) respetivamente e adultos. A reação adversa
+notificada mais frequentemente foi a dor óssea (ver as secções 5.1 e 5.2).
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Foram administradas por via subcutânea doses únicas de 300 µg/kg a um número limitado de
+voluntários saudáveis e doentes com cancro do pulmão de não pequenas células, sem reações adversas
+graves. Os acontecimentos adversos foram semelhantes aos de indivíduos que receberam doses mais
+baixas de pegfilgrastim.
+
+9
+
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: imunoestimulantes, fator de estimulação de colónias; código ATC:
+L03AA13
+Ziextenzo é um medicamento biológico similar. Está disponível informação pormenorizada no sítio da
+internet da Agência Europeia de Medicamentos http://www.ema.europa.eu.
+O fator de estimulação das colónias de granulócitos humano (G-CSF) é uma glicoproteína que regula a
+produção e a libertação de neutrófilos da medula óssea. O pegfilgrastim é um conjugado covalente do
+G-CSF humano recombinante (r-metHuG-CSF) com uma molécula única de polietilenoglicol (PEG) de
+20 kd. O pegfilgrastim permite prolongar a ação de filgrastim devido à diminuição da depuração renal.
+O pegfilgrastim e filgrastim demonstraram ter mecanismos de ação idênticos causando, num espaço de
+24 horas, um aumento marcado do número de neutrófilos no sangue periférico, com aumentos mínimos
+dos monócitos e/ou linfócitos. Tal como com filgrastim, os neutrófilos produzidos em resposta ao
+pegfilgrastim apresentam função normal ou aumentada, como demonstrado em ensaios sobre as funções
+fagocítica e quimiotáxica. Tal como com outros fatores de crescimento hematopoiéticos, o G-CSF
+demonstrou in vitro possuir propriedades estimuladoras das células endoteliais humanas. O G-CSF pode
+promover o crescimento de células mieloides, incluindo células malignas, in vitro e podem observar-se
+efeitos similares em algumas células não mieloides in vitro.
+Em dois estudos clínicos principais, aleatorizados, com dupla ocultação em doentes de alto risco com
+cancro da mama em estádio II-IV, submetidos a quimioterapia mielossupressora composta por
+doxorrubicina e docetaxel, o uso de pegfilgrastim, uma única vez por ciclo, reduziu a duração da
+neutropenia e da incidência da neutropenia febril de forma semelhante ao observado com as
+administrações diárias de filgrastim (mediana igual a 11 administrações diárias). Na ausência de
+tratamento de suporte com fator de crescimento, foi reportado que este regime resultou numa
+neutropenia de grau 4 com duração média de 5 a 7 dias e uma incidência de neutropenia febril de
+30-40%. Num dos estudos (n = 157) em que se utilizou uma dose fixa de 6 mg de pegfilgrastim a
+duração média da neutropenia de grau 4 foi de 1,8 dias para o grupo de pegfilgrastim e de 1,6 dias no
+grupo do filgrastim (diferença 0,23 dias, IC 95%: -0,15; 0,63). Durante todo o estudo, a taxa de
+neutropenia febril foi de 13% nos doentes tratados com pegfilgrastim comparada com 20% nos doentes
+tratados com filgrastim (diferença 7%, IC 95%: -19%; 5%). Num segundo estudo (n = 310), em que se
+utilizou uma dose ajustada ao peso (100 µg/kg), a duração média da neutropenia de grau 4 para o grupo
+com pegfilgrastim foi de 1,7 dias comparada com 1,8 dias no grupo com filgrastim (diferença 0,03 dias,
+IC 95%: -0,36; 0,30). A taxa global de neutropenia febril foi de 9% nos doentes tratados com
+pegfilgrastim e de 18% nos doentes tratados com filgrastim (diferença 9%, IC 95%: -16,8%; -1,1%).
+Num estudo clínico, com dupla ocultação, controlado com placebo em doentes com cancro da mama foi
+avaliado o efeito de pegfilgrastim sobre a incidência da neutropenia febril, após a administração de um
+regime de quimioterapia associado a uma taxa de neutropenia febril de 10-20% (docetaxel 100 mg/m2
+de 3 em 3 semanas durante 4 ciclos). Novecentos e vinte e oito doentes foram aleatorizados para receber
+uma dose única de pegfilgrastim ou placebo aproximadamente 24 horas (dia 2) após quimioterapia em
+cada ciclo. A incidência da neutropenia febril foi inferior nos doentes aleatorizados para receber
+pegfilgrastim quando comparados com o grupo placebo (1% contra 17%, p < 0,001). A incidência de
+hospitalizações e do uso de fármacos anti-infeciosos IV associados ao diagnóstico clínico de
+neutropenia febril foi inferior no grupo pegfilgrastim quando comparado com o grupo placebo (1%
+versus 14%, p < 0,001; e 2% versus 10%, p < 0,001).
+Um estudo pequeno (n = 83), de fase II, aleatorizado, com dupla ocultação realizado em doentes a
+receber quimioterapia para a leucemia mieloide aguda de novo comparou pegfilgrastim (dose única de
+6 mg) com filgrastim, administrados durante a quimioterapia de indução. O tempo mediano para
+recuperação da neutropenia grave foi estimado em 22 dias nos dois grupos de tratamento. O resultado a
+longo prazo não foi estudado (ver secção 4.4).
+10
+
+Num estudo de fase II (n = 37) aberto, multicêntrico, aleatorizado em doentes pediátricos com sarcoma,
+a receber 100 μg/kg de pegfilgrastim após o ciclo I de quimioterapia com vincristina, doxorrubicina e
+ciclofosfamida (VAdriaC/IE), foi observada uma maior duração da neutropenia grave (neutrófilos
+< 0,5 × 109/l) em crianças mais novas de idades entre 0-5 anos (8,9 dias) comparativamente com
+crianças mais velhas com idades entre os 6-11 e 12-21 anos (6 dias e 3,7 dias, respetivamente) e adultos.
+Adicionalmente, uma maior incidência de neutropenia febril foi observada em crianças mais jovens de
+idades entre os 0-5 anos (75%) comparativamente com crianças mais velhas de idades entre os
+6-11 anos e os 12-21 anos (70% e 33%, respetivamente) e adultos (ver secções 4.8 e 5.2).
+5.2
+
+Propriedades farmacocinéticas
+
+Após uma administração por via subcutânea única de pegfilgrastim, a concentração sérica máxima de
+pegfilgrastim ocorre entre as 16 e 120 horas após a administração e as concentrações séricas de
+pegfilgrastim mantêm-se durante o período de neutropenia após a quimioterapia mielossupressora. A
+eliminação de pegfilgrastim tem uma relação não linear com a dose; a depuração sérica do pegfilgrastim
+diminui com o aumento da dose. A eliminação de pegfilgrastim é atribuída principalmente a uma
+depuração mediada pelos neutrófilos, que fica saturada com doses mais elevadas. Consistente com um
+mecanismo de depuração autorregulador, a concentração sérica de pegfilgrastim diminui rapidamente
+após o início da recuperação dos neutrófilos (ver Figura 1).
+
+Concentração sérica mediana de pegfilgrastim
+(ng/ml)
+
+1000
+
+100
+Conc. pegfilgrastim
+CAN
+
+100
+10
+10
+1
+1
+
+0,1
+
+0,1
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+Contagem absoluta mediana de neutrófilos
+(células x 109/l)
+
+Figura 1. Perfil da mediana da concentração sérica de pegfilgrastim e contagem absoluta de
+neutrófilos (CAN) em doentes tratados com quimioterapia após uma injeção única de 6 mg
+
+21
+
+Dia do estudo
+
+Devido ao mecanismo de depuração mediada pelos neutrófilos, não se espera que a farmacocinética de
+pegfilgrastim seja afetada por compromisso renal ou hepático. Num estudo aberto com dose única
+(n = 31), os vários estádios de compromisso renal, incluindo a doença renal terminal, não tiveram
+impacto na farmacocinética do pegfilgrastim.
+Idosos
+Dados limitados indicam que a farmacocinética de pegfilgrastim em indivíduos idosos (> 65 anos) foi
+semelhante à dos adultos.
+População pediátrica
+A farmacocinética de pegfilgrastim foi estudada em 37 doentes pediátricos com sarcoma, que receberam
+100 μg/kg de pegfilgrastim após terminada a quimioterapia com VAdriaC/IE. O grupo com menor idade
+11
+
+(0-5 anos) teve uma exposição mediana mais elevada ao pegfilgrastim (AUC) (± Desvio Padrão)
+(47,9 ± 22,5 μg·hr/ml) do que as crianças mais velhas de idades entre 6-11 anos e entre 12-21 anos
+(22,0 ± 13,1 μg·hr/ml e 29,3 ± 23,2 μg·hr/ml, respetivamente) (ver secção 5.1). Com exceção do grupo
+com idade mais nova (0-5 anos), a mediana de exposição AUC em doentes pediátricos pareceu
+semelhante à dos doentes adultos com cancro de mama de risco elevado em estádio II-IV a fazerem
+100 μg/kg de pegfilgrastim após terminada a terapêutica com doxorrubicina/docetaxel (ver secções 4.8
+e 5.1).
+5.3
+
+Dados de segurança pré-clínica
+
+Os dados pré-clínicos, obtidos a partir de estudos convencionais de toxicidade com doses repetidas,
+revelaram os efeitos farmacológicos esperados, incluindo aumentos da contagem leucocitária,
+hiperplasia mieloide da medula óssea, hematopoiese extramedular e hipertrofia esplénica.
+Não se observaram efeitos adversos na descendência de ratos gestantes aos quais se administrou
+pegfilgrastim por via subcutânea, mas demonstrou-se que, em coelhos, pegfilgrastim causou toxicidade
+embriofetal (perda de embriões) em doses cumulativas de aproximadamente 4 vezes a dose
+recomendada para humanos, que não foram observados quando coelhas grávidas foram expostas à dose
+recomendada para humanos. Em estudos com ratos, demonstrou-se que pegfilgrastim pode atravessar a
+placenta. Estudos em ratos indicaram que o desempenho reprodutivo, a fertilidade, o ciclo do cio, dias
+entre o emparelhamento e o coito, e a sobrevivência intrauterina não foram afetados pelo pegfilgrastim
+administrado por via subcutânea. Desconhece-se qual é a importância destas observações para humanos.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Ácido acético glacial
+Sorbitol (E 420)
+Polissorbato 20
+Hidróxido de sódio (para ajuste do pH)
+Água para preparações injetáveis
+6.2
+
+Incompatibilidades
+
+Este medicamento não pode ser misturado com outros medicamentos, particularmente com soluções de
+cloreto de sódio.
+6.3
+
+Prazo de validade
+
+3 anos.
+6.4
+
+Precauções especiais de conservação
+
+Conservar no frigorífico (2 °C - 8 °C).
+Ziextenzo pode ser exposto à temperatura ambiente (não acima dos 35 °C) por um único período
+máximo de 120 horas. O Ziextenzo exposto à temperatura ambiente por mais de 120 horas deve ser
+eliminado.
+Não congelar. Uma exposição acidental a temperaturas de congelação por um único período inferior a
+24 horas não afeta negativamente a estabilidade do Ziextenzo.
+Manter o recipiente dentro da embalagem exterior para proteger da luz.
+
+12
+
+6.5
+
+Natureza e conteúdo do recipiente
+
+Seringa pré-cheia (vidro Tipo I), com um batente do êmbolo de borracha (borracha de bromobutilo,
+isenta de látex), uma haste do êmbolo, uma agulha de aço inoxidável de calibre 29 e uma tampa da
+agulha de borracha (elastómero termoplástico, isento de látex) com um protetor automático de agulha.
+Cada seringa pré-cheia contém 0,6 ml de solução injetável.
+Embalagem de uma seringa pré-cheia, disponível em embalagens blister.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+Antes da utilização, a solução de Ziextenzo deve ser inspecionada visualmente para se assegurar que
+não contém partículas. Devem apenas administrar-se soluções que sejam límpidas e incolores a
+ligeiramente amareladas.
+A agitação excessiva pode produzir a agregação do pegfilgrastim, tornando-o biologicamente inativo.
+Permita que a seringa pré-cheia atinja a temperatura ambiente durante 15-30 minutos antes de utilizá-la.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Sandoz GmbH
+Biochemiestr. 10
+6250 Kundl
+Áustria
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/18/1327/001
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 22 de novembro de 2018
+Data da última renovação: 23 de junho de 2023
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu.
+
+13
+
+ANEXO II
+A.
+
+FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ATIVA(S) DE ORIGEM
+BIOLÓGICA E FABRICANTE(S) RESPONSÁVEL(VEIS) PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA
+E EFICAZ DO MEDICAMENTO
+
+14
+
+A.
+
+FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ATIVA(S) DE ORIGEM BIOLÓGICA E
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) da(s) substância(s) ativa(s) de origem biológica
+Novartis Pharmaceuticals Manufacturing LLC
+Kolodvorska Cesta 27
+SI-1234 Menges
+Eslovénia
+Novartis Pharmaceuticals Manufacturing GmbH
+Biochemiestrasse 10
+AT-6250 Kundl
+Áustria
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+Sandoz GmbH
+Schaftenau
+Biochemiestrasse 10
+6336 Langkampfen
+Áustria
+Novartis Pharmaceutical Manufacturing GmbH
+Biochemiestrasse 10
+6336 Langkampfen
+Áustria
+O folheto informativo que acompanha o medicamento tem de mencionar o nome e endereço do
+fabricante responsável pela libertação do lote em causa.
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados
+(ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da Autorização de Introdução no Mercado (AIM) deve efetuar as atividades e as intervenções
+de farmacovigilância requeridas e detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de
+introdução no mercado, e quaisquer atualizações subsequentes do PGR que sejam acordadas.
+15
+
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco ou
+como resultado de ter sido atingido um objetivo importante (farmacovigilância ou minimização
+do risco).
+
+16
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+17
+
+A. ROTULAGEM
+
+18
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+
+1.
+
+NOME DO MEDICAMENTO
+
+Ziextenzo 6 mg solução injetável em seringa pré-cheia
+pegfilgrastim
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada seringa pré-cheia contém 6 mg de pegfilgrastim em 0,6 ml (10 mg/ml) de solução injetável.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Excipientes: ácido acético glacial, sorbitol (E 420), polissorbato 20, hidróxido de sódio, água para
+preparações injetáveis. Consultar o folheto informativo para mais informação.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Solução injetável
+1 seringa pré-cheia com protetor automático de agulha e 0,6 ml de solução injetável.
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Administração única.
+Consultar o folheto informativo antes de utilizar.
+Importante: leia o folheto informativo antes de manipular a seringa pré-cheia.
+Via subcutânea.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+Evitar uma agitação vigorosa.
+8.
+
+PRAZO DE VALIDADE
+
+EXP
+
+19
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frigorífico.
+Não congelar.
+Manter o recipiente dentro da embalagem exterior para proteger da luz.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Sandoz GmbH
+Biochemiestr. 10
+6250 Kundl
+Áustria
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/18/1327/001
+13.
+
+NÚMERO DO LOTE
+
+Lot
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+Ziextenzo
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC
+SN
+NN
+
+20
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+EMBALAGEM BLISTER
+
+1.
+
+NOME DO MEDICAMENTO
+
+Ziextenzo 6 mg injetável
+pegfilgrastim
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+OUTROS
+
+SC
+
+21
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DA SERINGA
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+Ziextenzo 6 mg injetável
+pegfilgrastim
+SC
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lot
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+6.
+
+OUTROS
+
+22
+
+B. FOLHETO INFORMATIVO
+
+23
+
+Folheto informativo: Informação para o utilizador
+Ziextenzo 6 mg solução injetável em seringa pré-cheia
+pegfilgrastim
+Leia com atenção todo este folheto antes de começar a utilizar este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é Ziextenzo e para que é utilizado
+O que precisa de saber antes de utilizar Ziextenzo
+Como utilizar Ziextenzo
+Efeitos indesejáveis possíveis
+Como conservar Ziextenzo
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é Ziextenzo e para que é utilizado
+
+Ziextenzo contém a substância ativa pegfilgrastim. O pegfilgrastim é uma proteína produzida por
+biotecnologia numa bactéria chamada E. coli. Pertence a um grupo de proteínas denominadas citocinas e
+é muito semelhante a uma proteína natural (fator de estimulação das colónias de granulócitos) produzida
+pelo nosso próprio corpo.
+Ziextenzo é utilizado para reduzir a duração da neutropenia (baixo número de glóbulos brancos) e a
+ocorrência da neutropenia febril (baixo número de glóbulos brancos com febre) que podem ser causadas
+pela administração de quimioterapia citotóxica (medicamentos que destroem as células com crescimento
+acelerado). Os glóbulos brancos são importantes uma vez que ajudam o seu corpo a combater as
+infeções. Estas células são muito sensíveis aos efeitos da quimioterapia, que pode provocar uma
+diminuição do número destas células no seu corpo. Se o número de glóbulos brancos diminuir até um
+nível muito baixo, podem não ser suficientes para combater as bactérias e pode correr um risco
+aumentado de infeção.
+O seu médico prescreveu-lhe Ziextenzo para estimular a sua medula óssea (parte do osso que produz as
+células do sangue) a produzir mais glóbulos brancos, que ajudarão o seu corpo a combater as infeções.
+2.
+
+O que precisa de saber antes de utilizar Ziextenzo
+
+Não utilize Ziextenzo
+•
+
+se tem alergia a pegfilgrastim, filgrastim ou a qualquer outro componente deste medicamento
+(indicados na secção 6).
+
+24
+
+Advertências e precauções
+Fale com o seu médico, farmacêutico ou enfermeiro antes de utilizar Ziextenzo:
+•
+•
+•
+
+•
+•
+•
+
+•
+•
+
+•
+•
+
+se tiver uma reação alérgica incluindo fraqueza, descida da pressão arterial, dificuldade em
+respirar, inchaço da face (anafilaxia), vermelhidão e afrontamentos, erupção na pele e áreas da
+pele com comichão.
+se tiver tosse, febre e dificuldade em respirar. Isso pode ser um sinal de Síndrome de Dificuldade
+Respiratória Aguda (SDRA).
+se tiver qualquer um ou uma combinação dos seguintes efeitos indesejáveis:
+edema ou inchaço, que pode estar associado a diminuição da frequência urinária,
+dificuldade em respirar, abdómen inchado e sensação de enfartamento, e uma sensação
+geral de cansaço.
+Estes podem ser sintomas de uma doença chamada de "Síndrome de Transudação Capilar", que
+faz com que o sangue saia dos pequenos vasos sanguíneos para o seu corpo. Ver secção 4.
+se tem dor abdominal no quadrante superior esquerdo ou dor em pontada no ombro. Este pode ser
+um sinal de um problema com o seu baço (esplenomegalia).
+se teve recentemente uma infeção pulmonar grave (pneumonia), líquido nos pulmões (edema
+pulmonar), inflamação dos pulmões (doença pulmonar intersticial) ou um raio-x ao tórax alterado
+(infiltração pulmonar).
+se tem conhecimento de qualquer alteração na contagem das células sanguíneas (p. ex., aumento
+de glóbulos brancos ou anemia) ou diminuição de plaquetas no sangue, o que reduz a capacidade
+de o seu sangue coagular (trombocitopenia). O seu médico pode querer monitorizá-lo mais de
+perto.
+se tem anemia de células falciformes. O seu médico pode monitorizar o seu estado mais de perto.
+se for um doente com cancro da mama ou do pulmão, Ziextenzo, em conjunto com quimioterapia
+e/ou radioterapia, pode aumentar o risco de desenvolver uma condição sanguínea pré-cancerosa,
+chamada de síndrome mielodisplásica (SMD), ou um cancro do sangue, chamado de leucemia
+mieloide aguda (LMA). Os sintomas podem incluir cansaço, febre e nódoas negras ou
+hemorragia.
+se manifestar sinais repentinos de alergia, tais como erupção cutânea, comichão ou urticária na
+pele, inchaço da face, lábios, língua ou doutras partes do corpo, falta de ar, pieira ou dificuldades
+respiratórias, estes podem ser sinais de uma reação alérgica grave.
+se tiver sintomas de inflamação da aorta (grande vaso sanguíneo que transporta o sangue do
+coração para o organismo), esta foi notificada raramente em doentes com cancro e dadores
+saudáveis. Os sintomas podem incluir febre, dor abdominal, mal estar, dor nas costas e aumento
+dos marcadores inflamatórios. Informe o seu médico se sentir estes sintomas.
+
+O seu médico irá verificar regularmente o seu sangue e urina uma vez que pegfilgrastim pode lesar os
+pequenos filtros nos seus rins (glomerulonefrite).
+Foram notificadas reações cutâneas graves (síndrome de Stevens-Johnson) associadas à utilização de
+Ziextenzo. Se tiver algum dos sintomas descritos na secção 4, deve interromper a utilização de
+Ziextenzo e procurar imediatamente cuidados médicos.
+Deve conversar com o seu médico sobre os seus riscos de desenvolver doença hematológica maligna. Se
+desenvolver ou for propenso a desenvolver doença hematológica maligna, não deve utilizar Ziextenzo, a
+menos que seja indicado pelo seu médico.
+Perda de resposta ao pegfilgrastim
+Caso tenha uma perda de resposta ou incapacidade de manutenção da resposta com o tratamento com
+pegfilgrastim, o seu médico irá investigar os motivos, incluindo se desenvolveu anticorpos que
+neutralizam a atividade de pegfilgrastim.
+
+25
+
+Outros medicamentos e Ziextenzo
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a tomar
+outros medicamentos.
+Gravidez e amamentação
+Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento. O pegfilgrastim não foi
+testado em mulheres grávidas. É importante que informe o seu médico se:
+•
+está grávida;
+•
+pensa estar grávida; ou
+•
+planeia engravidar.
+Se ficar grávida durante o tratamento com Ziextenzo, por favor informe o seu médico.
+A menos que o seu médico diga o contrário, deve interromper a amamentação se for utilizar Ziextenzo.
+Condução de veículos e utilização de máquinas
+Ziextenzo não tem ou tem efeito desprezável sobre a capacidade de conduzir e utilizar máquinas.
+Ziextenzo contém sorbitol (E 420) e sódio
+Este medicamento contém 30 mg de sorbitol em cada seringa pré-cheia que é equivalente a 50 mg/ml.
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por dose de 6 mg, ou seja, é
+praticamente “isento de sódio”.
+3.
+
+Como utilizar Ziextenzo
+
+Ziextenzo é para ser administrado a adultos com 18 ou mais anos de idade.
+Utilize Ziextenzo exatamente como indicado pelo seu médico. Fale com o seu médico ou farmacêutico
+se tiver dúvidas. A dose habitual é uma injeção subcutânea (sob a pele) de 6 mg utilizando uma seringa
+pré-cheia e deverá ser administrada pelo menos 24 horas após a última dose de quimioterapia, no final
+de cada ciclo de quimioterapia.
+Administrar a si próprio a injeção de Ziextenzo
+O seu médico poderá decidir que é melhor para si administrar você mesmo a injeção de Ziextenzo. O
+seu médico ou enfermeiro demonstrarão como deve injetar Ziextenzo a si próprio. Não tente injetar a si
+próprio o medicamento se não foi devidamente treinado.
+Leia a secção no fim deste folheto para obter mais informações sobre como administrar Ziextenzo a si
+mesmo.
+Não agite vigorosamente Ziextenzo, uma vez que pode afetar a atividade do medicamento.
+Se utilizar mais Ziextenzo do que deveria
+Se utilizar mais Ziextenzo do que a dose prescrita, deverá contactar o seu médico, farmacêutico ou
+enfermeiro.
+
+26
+
+Caso se tenha esquecido de injetar Ziextenzo
+Se você faz autoadministração e se se esqueceu de uma dose de Ziextenzo, deverá contactar o seu
+médico para decidir quando deverá ser administrada a dose seguinte.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico ou
+enfermeiro.
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Por favor informe o seu médico imediatamente se tiver qualquer um ou uma combinação dos seguintes
+efeitos indesejáveis:
+•
+edema ou inchaço, que pode estar associado a diminuição da frequência urinária, dificuldade em
+respirar, abdómen inchado e sensação de enfartamento, e uma sensação geral de cansaço. Estes
+sintomas geralmente desenvolvem-se de uma forma rápida.
+Estes podem ser sintomas de uma doença pouco frequente (pode afetar até 1 em cada 100 pessoas)
+chamada de "Síndrome de Transudação Capilar", que faz com que o sangue saia dos pequenos vasos
+sanguíneos para o seu corpo e que precisa de cuidados médicos urgentes.
+Efeitos indesejáveis muito frequentes (podem afetar mais de 1 em cada 10 pessoas):
+•
+dor óssea. O seu médico dir-lhe-á o que deverá tomar para aliviar a dor óssea.
+•
+náuseas e dores de cabeça.
+Efeitos indesejáveis frequentes (podem afetar até 1 em cada 10 pessoas):
+•
+dor no local de injeção.
+•
+dores generalizadas e dores nas articulações e músculos.
+•
+podem ocorrer algumas alterações no seu sangue, mas estas serão detetadas nas suas análises de
+rotina ao sangue. Durante um período curto de tempo, a sua contagem de glóbulos brancos pode
+estar elevada. Pode também ocorrer diminuição do número de plaquetas, podendo originar o
+aparecimento de nódoas negras.
+Efeitos indesejáveis pouco frequentes (podem afetar até 1 em cada 100 pessoas):
+•
+reações do tipo alérgico, incluindo vermelhidão e afrontamentos, erupção cutânea e comichão em
+áreas inchadas da pele.
+•
+reações alérgicas graves, incluindo anafilaxia (fraqueza, baixa da pressão arterial, dificuldade em
+respirar, inchaço da face).
+•
+aumento do tamanho do baço.
+•
+rutura do baço. Alguns casos de rutura do baço foram fatais. É importante que contacte
+imediatamente o seu médico se sentir dor na parte superior esquerda do seu abdómen ou dor no
+ombro esquerdo, já que estas dores podem refletir problemas com o seu baço.
+•
+problemas respiratórios. Por favor, contacte o seu médico se tiver tosse, febre ou dificuldade em
+respirar.
+•
+ocorreu Síndrome de Sweet (lesões dolorosas, inchadas, de cor violácea, nos membros e por
+vezes na face e pescoço, acompanhadas de febre), mas outros fatores poderão ter contribuído para
+esta ocorrência.
+•
+casos de vasculite cutânea (inflamação dos vasos sanguíneos na pele).
+•
+lesões de pequenos filtros nos seus rins (glomerulonefrite).
+•
+vermelhidão no local da injeção.
+•
+tosse com sangue (hemoptise).
+•
+doenças do sangue (síndrome mielodisplásica [SMD] ou leucemia mieloide aguda [LMA]).
+
+27
+
+Efeitos indesejáveis raros (podem afetar até 1 em cada 1000 pessoas):
+•
+inflamação da aorta (grande vaso sanguíneo que transporta o sangue do coração para o
+organismo), ver secção 2.
+•
+hemorragia do pulmão (hemorragia pulmonar).
+•
+síndrome de Stevens-Johnson, que pode aparecer sob a forma de manchas avermelhadas
+circulares ou tipo alvo, frequentemente acompanhadas por bolhas centrais que surgem no tronco,
+descamação da pele, úlceras na boca, garganta, nariz, genitais e olhos, e pode ser precedida por
+febre e sintomas tipo gripe. Pare de utilizar Ziextenzo se tiver algum destes sintomas e contacte o
+seu médico ou procure imediatamente cuidados médicos. Ver secção 2.
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+indesejáveis diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+5.
+
+Como conservar Ziextenzo
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no rótulo da
+seringa após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+Conservar no frigorífico (2 °C - 8 °C).
+Pode retirar o Ziextenzo do frigorífico e mantê-lo à temperatura ambiente (não acima dos 35 °C) por um
+período não superior a 120 horas. Quando uma seringa é retirada do frigorífico e atinge a temperatura
+ambiente (não acima dos 35 °C), deve ser utilizada dentro das próximas 120 horas ou deve ser
+eliminada.
+Não congelar. Ziextenzo pode ser utilizado se tiver sido congelado acidentalmente, durante um único
+período inferior a 24 horas.
+Manter o recipiente dentro da embalagem exterior para proteger da luz.
+Não utilize este medicamento se verificar que está turvo ou com partículas no interior.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger o
+ambiente.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Ziextenzo
+A substância ativa é o pegfilgrastim. Cada seringa pré-cheia contém 6 mg de pegfilgrastim em
+0,6 ml de solução.
+Os outros componentes são ácido acético glacial, sorbitol (E 420), polissorbato 20, hidróxido de
+sódio e água para preparações injetáveis. Ver secção 2 "Ziextenzo contém sorbitol (E 420) e
+sódio".
+Qual o aspeto de Ziextenzo e conteúdo da embalagem
+Ziextenzo é uma solução injetável (injetável) límpida, incolor a ligeiramente amarelada acondicionada
+numa seringa pré-cheia (6 mg/0,6 ml).
+28
+
+Cada embalagem contém 1 seringa pré-cheia de vidro com um batente do êmbolo de borracha (borracha
+de bromobutilo, isenta de látex), uma haste do êmbolo, uma agulha de aço inoxidável de calibre 29 e
+tampa da agulha (elastómero termoplástico, isento de látex). As seringas são fornecidas com um protetor
+automático de agulha.
+Titular da Autorização de Introdução no Mercado
+Sandoz GmbH
+Biochemiestr. 10
+6250 Kundl
+Áustria
+Fabricante
+Sandoz GmbH
+Biochemiestr.10
+6336 Langkampfen
+Áustria
+Novartis Pharmaceutical Manufacturing GmbH
+Biochemiestrasse 10
+6336 Langkampfen
+Áustria
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da
+Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Sandoz nv/sa
+Tél/Tel: +32 2 722 97 97
+
+Lietuva
+Sandoz Pharmaceuticals d.d filialas
+Tel: +370 5 2636 037
+
+България
+Сандоз България КЧТ
+Тел.: +359 2 970 47 47
+
+Luxembourg/Luxemburg
+Sandoz nv/sa
+Tél/Tel.: +32 2 722 97 97
+
+Česká republika
+Sandoz s.r.o.
+Tel: +420 225 775 111
+
+Magyarország
+Sandoz Hungária Kft.
+Tel.: +36 1 430 2890
+
+Danmark/Norge/Ísland/Sverige
+Sandoz A/S
+Tlf: +45 63 95 10 00
+
+Malta
+Sandoz Pharmaceuticals d.d.
+Tel: +35699644126
+
+Deutschland
+Hexal AG
+Tel: +49 8024 908 0
+
+Nederland
+Sandoz B.V.
+Tel: +31 36 52 41 600
+
+29
+
+Eesti
+Sandoz d.d. Eesti filiaal
+Tel: +372 665 2400
+
+Österreich
+Sandoz GmbH
+Tel: +43 5338 2000
+
+Ελλάδα
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
+Τηλ: +30 216 600 5000
+
+Polska
+Sandoz Polska Sp. z o.o.
+Tel.: +48 22 209 70 00
+
+España
+Sandoz Farmacéutica, S.A.
+Tel: +34 900 456 856
+
+Portugal
+Sandoz Farmacêutica Lda.
+Tel: +351 21 000 86 00
+
+France
+Sandoz SAS
+Tél: +33 1 49 64 48 00
+
+România
+Sandoz Pharmaceuticals SRL
+Tel: +40 21 407 51 60
+
+Hrvatska
+Sandoz d.o.o.
+Tel: +385 1 23 53 111
+
+Slovenija
+Sandoz farmacevtska družba d.d.
+Tel: +386 1 580 29 02
+
+Ireland
+Rowex Ltd.
+Tel: + 353 27 50077
+
+Slovenská republika
+Sandoz d.d. - organizačná zložka
+Tel: +421 2 48 20 0600
+
+Italia
+Sandoz S.p.A.
+Tel: +39 02 96541
+
+Suomi/Finland
+Sandoz A/S
+Puh/Tel: +358 10 6133 400
+
+Κύπρος
+Sandoz Pharmaceuticals d.d.
+Τηλ: +357 22 69 0690
+
+United Kingdom (Northern Ireland)
+Sandoz GmbH
+Tel: +43 5338 2000
+
+Latvija
+Sandoz d.d. Latvia filiāle
+Tel: +371 67 892 006
+
+Este folheto foi revisto pela última vez em.
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+Este folheto está disponível em todas as línguas da UE/EEE no sítio da internet da Agência Europeia de
+Medicamentos.
+
+30
+
+Instruções de utilização da seringa pré-cheia de Ziextenzo com protetor de agulha
+Para ajudar a evitar possíveis infeções e para assegurar que utiliza o medicamento corretamente, é
+importante que siga estas instruções.
+Leia estas instruções NA ÍNTEGRA antes de administrar a injeção. É importante que não tente
+administrar a si próprio a injeção até ter sido treinado pelo seu médico, enfermeiro ou farmacêutico. A
+embalagem contém a seringa pré-cheia individualmente selada numa embalagem blister de plástico.
+A sua seringa pré-cheia de Ziextenzo com protetor de agulha
+Protetor de agulha
+Tampa da
+agulha
+
+Manípulos para os dedos
+Base cónica do
+batente do êmbolo
+
+Janela de
+visualização
+Batente do
+Rótulo e prazo de
+êmbolo
+validade
+
+Êmbolo
+
+Cabeça do
+êmbolo
+
+Abas do protetor
+de agulha
+
+Após a injeção do medicamento, o protetor de agulha será ativado para tapar a agulha. O protetor de
+agulha destina-se a proteger os profissionais de saúde, cuidadores e doentes de ferimentos acidentais por
+picada com a agulha após a injeção.
+Materiais adicionais necessários para a sua
+injeção:
+•
+Compressa embebida em álcool.
+•
+Bola de algodão ou gaze.
+•
+Contentor para objetos cortantes.
+Informações de segurança importantes
+Advertência: mantenha a seringa pré-cheia fora da vista e do alcance das crianças.
+1.
+Não abra a embalagem até estar pronto para utilizar a seringa pré-cheia.
+2.
+Não utilize a seringa pré-cheia se a vedação da embalagem blister estiver danificada, uma vez que
+a respetiva utilização pode não ser segura para si.
+3.
+Não utilize a seringa pré-cheia se existir líquido na embalagem blister. Não utilize a seringa
+pré-cheia se a tampa da agulha estiver em falta ou não estiver firmemente encaixada. Em todos
+estes casos, devolva a totalidade da embalagem do produto à farmácia.
+4.
+Nunca deixe a seringa pré-cheia sem supervisão se outros a puderem manipular.
+5.
+Não agite a seringa pré-cheia.
+6.
+Tenha cuidado para não tocar nas abas do protetor de agulha antes da utilização. Ao tocar-lhes, o
+protetor de agulha pode ser ativado demasiado cedo.
+7.
+Não retire a tampa da agulha até estar pronto para administrar a injeção.
+8.
+A seringa pré-cheia não pode ser reutilizada. Imediatamente após a utilização, coloque a seringa
+usada num contentor para objetos cortantes.
+9.
+Não utilize a seringa se esta tiver caído numa superfície dura ou se tiver caído após ter removido a
+tampa da agulha.
+31
+
+Conservação da seringa pré-cheia de Ziextenzo
+1.
+Conserve a seringa pré-cheia em embalagem blister na respetiva embalagem para a proteger da
+luz.
+2.
+Conserve no frigorífico entre 2 °C e 8 °C. Não congele.
+3.
+Antes da utilização, retire a seringa pré-cheia do frigorífico e permita que o Ziextenzo atinja a
+temperatura ambiente (até um valor máximo de 35 °C) durante aproximadamente 15-30 minutos.
+4.
+Não utilize a seringa pré-cheia após o prazo de validade impresso na embalagem ou no rótulo da
+seringa. Se tiver expirado, devolva toda a embalagem à farmácia.
+O local da injeção
+O local da injeção é o local do corpo em que irá utilizar a
+seringa pré-cheia.
+•
+O local recomendado é a parte dianteira das suas
+coxas. Pode também utilizar o abdómen inferior, mas
+não a área que se situa 5 centímetros à volta do
+umbigo.
+•
+Escolha um local diferente de cada vez que
+administrar a si próprio uma injeção.
+•
+Não injete em áreas onde a pele se encontra macia,
+dorida, vermelha, escamosa ou rija. Evite áreas com
+cicatrizes ou estrias.
+Se for um cuidador a dar-lhe a injeção, as partes externas
+superiores dos braços também podem ser utilizadas.
+
+Preparação da seringa pré-cheia de Ziextenzo para ficar pronta a ser utilizada
+1.
+Retire a embalagem com a seringa pré-cheia em embalagem blister do frigorífico e deixe-a
+fechada durante aproximadamente 15-30 minutos para que atinja a temperatura ambiente.
+2.
+Quando estiver pronto para utilizar a seringa pré-cheia, abra a embalagem blister e lave bem as
+suas mãos com sabão e água.
+3.
+Limpe o local da injeção com uma compressa embebida em álcool.
+4.
+Retire a seringa pré-cheia da embalagem blister, segurando-a a meio, conforme mostrado abaixo.
+Não agarre o êmbolo. Não agarre a tampa da agulha.
+
+5.
+
+Certifique-se de que o protetor de agulha transparente de plástico se situa sobre o corpo da seringa
+de vidro. Se o protetor de agulha transparente estiver a tapar a tampa da agulha (conforme
+mostrado abaixo), o protetor de agulha da seringa foi ativado. NÃO utilize esta seringa e utilize
+uma nova seringa. A figura abaixo mostra uma seringa pronta a ser utilizada.
+
+32
+
+Dispositivo ATIVADO – NÃO UTILIZAR
+O protetor de agulha está ATIVADO nesta
+configuração – NÃO UTILIZE a seringa pré-cheia
+
+Dispositivo PRONTO A SER UTILIZADO
+
+6.
+
+7.
+
+O protetor de agulha NÃO está ATIVADO nesta
+configuração e a seringa pré-cheia está pronta a ser
+utilizada
+
+Inspecione a seringa pré-cheia. O líquido deve ser transparente. A respetiva cor pode variar entre
+incolor e ligeiramente amarelada. Pode ver uma pequena bolha de ar no líquido. Esta situação é
+normal. Não utilize a seringa pré-cheia se forem observadas quaisquer outras partículas e/ou
+descoloração.
+Não utilize se a seringa estiver danificada ou ativada. Devolva a seringa pré-cheia de Ziextenzo e
+a embalagem à sua farmácia.
+
+Como utilizar a seringa pré-cheia de Ziextenzo
+1
+Retire cuidadosamente a tampa da agulha a direito.
+Elimine a tampa da agulha. Pode ver uma gota de
+líquido na extremidade da agulha. Esta situação é
+normal.
+
+2
+Faça uma prega na pele, suavemente, no local da
+injeção e insira a agulha conforme mostrado.
+Pressione a agulha totalmente até ao fim para
+assegurar que a medicação possa ser
+completamente administrada.
+
+33
+
+3
+Ao segurar a seringa pré-cheia conforme mostrado,
+pressione lentamente o êmbolo até ao fim para que a
+cabeça do êmbolo fique completamente entre as abas do
+protetor de agulha.
+Mantenha o êmbolo totalmente pressionado enquanto
+segura a seringa no local durante 5 segundos.
+
+4
+Mantenha o êmbolo totalmente pressionado enquanto
+retira cuidadosamente a agulha a direito do local da
+injeção e a deixa sair da sua pele.
+
+5
+Solte lentamente o êmbolo e permita que o protetor de
+agulha da seringa tape automaticamente a agulha
+exposta.
+Pode haver uma pequena quantidade de sangue no local
+da injeção. Pode pressionar uma bola de algodão ou
+gaze no local da injeção e segurá-la durante
+10 segundos. Não esfregue o local da injeção. Pode
+cobrir o local da injeção com um pequeno penso
+adesivo, se necessário.
+6
+Apenas para profissionais de saúde
+O nome comercial do produto administrado deve ser
+claramente registado no processo do doente. Remova e
+guarde o rótulo da seringa pré-cheia. Rode o êmbolo
+para mover o rótulo para uma posição em que possa
+retirar o rótulo da seringa.
+
+34
+
+7
+Instruções de eliminação
+Coloque a seringa usada num contentor para objetos
+cortantes (contentor com fecho e resistente a
+perfurações).
+Não deite fora quaisquer medicamentos na canalização
+ou no lixo doméstico. Pergunte ao seu médico ou
+farmacêutico como deitar fora os medicamentos que já
+não utiliza. Estas medidas ajudarão a proteger o
+ambiente. Qualquer medicamento não utilizado ou
+resíduos devem ser eliminados de acordo com as
+exigências locais.
+
+35
+
+

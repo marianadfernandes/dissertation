@@ -1,0 +1,1997 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+KIOVIG 100 mg/ml, solução para perfusão
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Imunoglobulina humana normal (IVIg)
+Um ml contém:
+Imunoglobulina humana normal ……………100 mg
+(pureza de pelo menos 98% IgG)
+Cada frasco para injetáveis de 10 ml contém: 1 g de imunoglobulina humana normal
+Cada frasco para injetáveis de 25 ml contém: 2,5 g de imunoglobulina humana normal
+Cada frasco para injetáveis de 50 ml contém: 5 g de imunoglobulina humana normal
+Cada frasco para injetáveis de 100 ml contém: 10 g de imunoglobulina humana normal
+Cada frasco para injetáveis de 200 ml contém: 20 g de imunoglobulina humana normal
+Cada frasco para injetáveis de 300 ml contém: 30 g de imunoglobulina humana normal
+Distribuição das subclasses de IgG (valores aprox.):
+IgG1 ≥ 56,9%
+IgG2 ≥ 26,6%
+IgG3 ≥ 3,4%
+IgG4 ≥ 1,7%
+O conteúdo máximo de IgA é de 140 microgramas/ml.
+Produzida a partir do plasma de dadores humanos.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Solução para perfusão
+A solução é transparente ou ligeiramente opalescente e sem cor ou amarela clara.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Terapêutica de substituição em adultos, crianças e adolescentes (0-18 anos) em:
+
+
+
+Síndromes de imunodeficiência primária (SIP) com produção de anticorpos comprometida (ver
+secção 4.4).
+Síndromes de imunodeficiência secundária (SIS) em doentes que sofram de infeções graves ou
+recorrentes, tratamento antimicrobiano ineficaz e que tenham uma deficiência de anticorpos
+específicos comprovada (DAEC)* ou nível sérico de IgG de <4 g/l.
+
+* DAEC – falha em verificar um aumento de pelo menos 2 vezes na titulação de anticorpos IgG nas
+vacinas de antigénios de polissacarídeos e polipéptidos
+
+2
+
+Imunomodulação em adultos, crianças e adolescentes (0 – 18 anos) em:
+
+
+
+
+
+
+Trombocitopenia imune primária (TIP), em doentes com elevado risco de hemorragia ou antes
+de cirurgia para correção da contagem de plaquetas.
+Síndrome de Guillain Barré.
+Doença de Kawasaki (em conjunto com ácido acetilsalicílico; ver 4.2).
+Polirradiculoneuropatia desmielinizante inflamatória crónica (PDIC).
+Neuropatia motora multifocal (NMM).
+
+4.2
+
+Posologia e modo de administração
+
+A terapêutica de substituição deve ser iniciada e monitorizada sob a supervisão de um médico com
+experiência no tratamento de imunodeficiências.
+Posologia
+A dose e o regime de dosagem dependem da indicação.
+Na terapêutica de substituição, a dosagem poderá ter que ser individualizada para cada doente
+dependendo da farmacocinética e da resposta clínica. A dose com base no peso corporal poderá
+necessitar de ajuste nos doentes com peso baixo ou elevado.
+Os regimes de dosagem apresentados a seguir são fornecidos como orientação.
+Terapêutica de substituição em síndromes de imunodeficiência primária
+O regime de dosagem deve atingir um nível mínimo de IgG (medido antes da perfusão seguinte) de
+pelo menos 5 a 6 g/l. Para que ocorra uma situação de equilíbrio (níveis de IgG em estado de
+equilíbrio), são necessários três a seis meses após o início da terapêutica. A dose inicial recomendada é
+de 0,4 – 0,8 g/kg, seguida de pelo menos 0,2 g/kg a cada três ou quatro semanas.
+A dose necessária para atingir um nível mínimo de 5 – 6g/l é da ordem dos 0,2 – 0,8 g/kg/mês.
+O intervalo entre doses, depois de atingido o estado estacionário, varia entre 3 a 4 semanas.
+Devem ser medidos e avaliados os níveis mínimos de IgG em conjunto com a incidência da infeção.
+Para reduzir a taxa de infeção bacteriana, pode ser necessário aumentar a dose e tentar atingir níveis
+mínimos mais elevados.
+Imunodeficiências secundárias (conforme definido em 4.1)
+A dose recomendada é de 0,2 – 0,4 g/kg a cada três a quatro semanas.
+Devem ser medidos e avaliados os níveis mínimos de IgG em conjunto com a incidência da infeção. A
+dose deverá ser ajustada conforme necessário para alcançar proteção ótima contra infeções, pode ser
+necessário um aumento em doentes com infeção persistente; pode ser considerada uma diminuição da
+dose quando o doente continua sem infeções.
+Trombocitopenia imune primária (TIP)
+Existem dois esquemas de tratamento alternativos:
+
+0,8 – 1 g/kg administrados no primeiro dia; esta dose pode ser repetida uma vez no espaço
+de 3 dias
+
+0,4 g/kg administrados diariamente durante dois a cinco dias.
+O tratamento pode ser repetido em caso de recidiva.
+
+3
+
+Síndrome de Guillain Barré
+0,4 g/kg/dia durante 5 dias (possível repetição de dose em caso de recidiva).
+Doença de Kawasaki
+Devem ser administrados 2,0 g/kg como uma dose única. Os doentes devem receber um tratamento
+concomitante com ácido acetilsalicílico.
+Polirradiculoneuropatia desmielinizante inflamatória crónica (PDIC)
+Dose inicial: 2 g/kg divididos ao longo de 2-5 dias consecutivos
+Doses de manutenção:
+1 g/kg ao longo de 1-2 dias consecutivos a cada 3 semanas.
+O efeito do tratamento deverá ser avaliado depois de cada ciclo; se não for observado qualquer efeito
+do tratamento após 6 meses, o tratamento deverá ser interrompido.
+Se o tratamento for eficaz a longo prazo, o tratamento deverá ser sujeito ao parecer dos médicos, com
+base na resposta do doente e na resposta de manutenção. A posologia e os intervalos podem ter de ser
+adaptados, de acordo com o curso individual da doença.
+Neuropatia motora multifocal (NMM)
+Dose inicial: 2 g/kg administrados ao longo de 2 – 5 dias consecutivas.
+Dose de manutenção: 1 g/kg a cada 2 a 4 semanas ou 2 g/kg a cada 4 a 8 semanas ao longo de
+2 – 5 dias.
+O efeito do tratamento deverá ser avaliado depois de cada ciclo; se não for observado qualquer efeito
+do tratamento após 6 meses, o tratamento deverá ser interrompido.
+Se o tratamento for eficaz a longo prazo, o tratamento deverá ser sujeito ao parecer dos médicos com
+base na resposta do doente e na resposta de manutenção. A posologia e os intervalos podem ter de ser
+adaptados, de acordo com o curso individual da doença.
+As recomendações de dosagem estão resumidas no quadro seguinte:
+Indicação
+Terapêutica de substituição na
+imunodeficiência primária
+
+Terapêutica de substituição na
+imunodeficiência secundária
+
+Dosagem
+dose inicial:
+0,4 – 0,8 g/kg
+
+Frequência de injeções
+
+dose de manutenção:
+0,2 – 0,8 g/kg
+
+a cada 3 – 4 semanas para obter um
+nível mínimo de IgG de pelo
+menos 5 – 6 g/l
+
+0,2 – 0,4 g/kg
+
+a cada 3 – 4 semanas para obter um
+nível mínimo de IgG de pelo
+menos 5 – 6 g/l
+
+0,8 – 1 g/kg
+
+no primeiro dia, se possível repetida
+uma vez no espaço de 3 dias
+
+Imunomodulação:
+Trombocitopenia imune primária
+
+Síndrome de Guillain Barré
+
+ou
+0,4 g/kg/d
+
+durante 2 – 5 dias
+
+0,4 g/kg/d
+
+durante 5 dias
+
+4
+
+Indicação
+Doença de Kawasaki
+Polirradiculoneuropatia
+desmielinizante inflamatória crónica
+(PDIC)
+
+Dosagem
+2 g/kg
+dose inicial:
+2 g/kg
+dose de manutenção:
+1 g/kg
+
+Neuropatia motora multifocal (NMM)
+
+dose inicial:
+2 g/kg
+dose de manutenção:
+1 g/kg
+ou
+2 g/kg
+
+Frequência de injeções
+uma dose, em associação com ácido
+acetilsalicílico
+em doses divididas ao longo de
+2 – 5 dias
+a cada 3 semanas ao longo de
+1 – 2 dias
+administrados ao longo de
+2 – 5 dias.
+a cada 2 a 4 semanas
+ou
+a cada 4 a 8 semanas ao longo de
+2 – 5 dias
+
+População pediátrica
+A posologia em crianças e adolescentes (até aos 18 anos) não é diferente da dos adultos, uma vez que
+a posologia para cada indicação é fornecida por peso corporal e ajustada ao resultado clínico das
+condições acima referidas.
+Compromisso hepático
+Não existe evidência disponível para exigir um ajuste da dose.
+Compromisso renal
+Sem ajuste da dose exceto quando clinicamente justificado, ver secção 4.4.
+Idosos
+Sem ajuste da dose exceto quando clinicamente justificado, ver secção 4.4.
+Modo de administração
+Por via intravenosa
+A imunoglobulina humana normal deve ser administrada por via intravenosa a uma velocidade inicial
+de 0,5 ml/kg PC/h durante 30 minutos. Se bem tolerada (ver secção 4.4), a velocidade de
+administração poderá ser gradualmente aumentada até ao máximo de 6 ml/kg PC/h. A informação
+clínica obtida de um número limitado de doentes indica também que doentes IDP adultos podem
+tolerar velocidades de perfusão até 8 ml/kg PC/h. Precauções especiais de utilização, ver secção 4.4.
+Se for necessária uma diluição anterior à perfusão, KIOVIG pode ser diluído com solução de glucose
+a 5% para uma concentração final de 50 mg/ml (5% imunoglobulina). Para instruções acerca da
+diluição do medicamento antes da administração, ver secção 6.6.
+Qualquer acontecimento adverso relacionado com a perfusão deve ser tratado diminuindo a velocidade
+de perfusão ou interrompendo a perfusão
+
+5
+
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+Hipersensibilidade a imunoglobulinas humanas, especialmente em doentes que possuem anticorpos
+contra a IgA.
+Doentes com deficiência de IgA seletiva que desenvolveram anticorpos à IgA, pois a administração de
+um produto contendo IgA pode resultar em anafilaxia.
+4.4
+
+Advertências e precauções especiais de utilização
+
+Reação à perfusão
+Determinadas reações adversas graves (p. ex. cefaleia, rubor, mialgia, pieira, taquicardia, dor lombar,
+náuseas e hipotensão) podem estar relacionadas com a velocidade de perfusão. A velocidade de
+perfusão apresentada na secção 4.2 deve ser rigorosamente respeitada. Os doentes devem ser
+atentamente monitorizados e cuidadosamente observados quanto a quaisquer sintomas durante todo o
+período de perfusão.
+Algumas reações adversas podem ocorrer com maior frequência
+
+no caso de uma elevada velocidade de perfusão
+
+em doentes que estão a receber imunoglobulina humana normal pela primeira vez ou, em casos
+raros, quando o medicamento de imunoglobulina humana normal é trocado ou após um longo
+intervalo de tempo desde a perfusão anterior.
+
+em doentes com uma infeção não tratada ou inflamação crónica subjacente.
+Precauções de utilização
+As complicações potenciais podem geralmente ser evitadas, garantindo que os doentes:
+não são sensíveis à imunoglobulina humana normal, iniciando a perfusão do medicamento
+lentamente (0,5 ml/kg PC/h);
+são cuidadosamente monitorizados quanto a quaisquer sintomas durante todo o período de
+transfusão. Em especial, os doentes que nunca receberam imunoglobulina humana normal,
+os doentes que estavam a receber um medicamento de IVIg alternativo ou quando existiu um
+período de tempo prolongado desde a última perfusão, devem ser monitorizados no hospital
+durante a primeira perfusão e durante a primeira hora após a primeira perfusão, de forma a
+detetar potenciais sinais adversos. Todos os outros doentes devem ser observados durante pelo
+menos 20 minutos após a administração.
+Em todos os doentes, a administração de IVIg requer:
+
+hidratação adequada antes do início da perfusão de IVIg
+
+monitorização da produção de urina
+
+monitorização dos níveis séricos de creatinina
+
+monitorização de sinais e sintomas de trombose
+
+avaliação da viscosidade do sangue em doentes com risco de hiperviscosidade
+
+evitar a utilização concomitante de diuréticos de ansa (ver 4.5)
+Em caso de reação adversa, a taxa de administração tem de ser reduzida ou a perfusão interrompida. O
+tratamento necessário depende da natureza e gravidade da reação adversa.
+Se para doentes com diabetes mellitus, for necessário diluir KIOVIG para concentrações mais baixas,
+a utilização da solução de glucose a 5% para a diluição deve ser reconsiderada.
+Hipersensibilidade
+As reações de hipersensibilidade são raras.
+A anafilaxia pode desenvolver-se em doentes
+6
+
+ com IgA indetetável que tenham anticorpos anti-IgA
+ que tenham tolerado tratamento anterior com imunoglobulina normal humana
+Em caso de choque, deve ser implementado o tratamento médico padrão para choques.
+Tromboembolia
+Existe evidência clínica de uma associação entre a administração de IVIg e ocorrências
+tromboembólicas tais como enfarte do miocárdio, acidente vascular cerebral (incluindo apoplexia),
+embolia pulmonar e trombose venosa profunda, que se supõe relacionada a um aumento relativo da
+viscosidade sanguínea provocada pela grande quantidade de imunoglobulina administrada em doentes
+de risco. Deve-se ter prudência ao prescrever e administrar IVIg a doentes obesos e a doentes com
+fatores de risco preexistentes para ocorrências trombóticas (como antecedentes de aterosclerose, vários
+fatores de risco cardiovascular, idade avançada, débito cardíaco comprometido, hipertensão, utilização
+de estrogénios, diabetes mellitus e um histórico de doença vascular ou episódios trombóticos, doentes
+com distúrbios trombofílicos adquiridos ou inatos, afeção hipercoagulável, doentes com períodos
+prolongados de imobilização, doentes com hipovolemia grave, doentes com patologias que aumentem
+a viscosidade do sangue, doentes com cateteres vasculares internos e doentes com perfusão rápida e de
+doses elevadas).
+A hiperproteinemia, o aumento da viscosidade sérica e a subsequente pseudohiponatremia relativa
+podem ocorrer em doentes a receber terapêutica com IVIg. Tal deve ser tido em consideração pelos
+médicos, uma vez que a introdução ao tratamento da hiponatremia verdadeira (isto é, diminuição de
+água livre) nestes doentes pode levar a um aumento da viscosidade sérica e possível predisposição
+para acontecimentos tromboembólicos.
+Para doentes em risco de reações adversas tromboembólicas, a administração de IVIg deve ser feita na
+mais baixa taxa de perfusão e dose possíveis.
+Insuficiência renal aguda
+Foram notificados casos de insuficiência renal aguda em doentes submetidos a terapêutica com IVIg.
+Estas reações incluem insuficiência renal aguda, necrose tubular aguda, nefropatia tubular proximal
+e nefrose osmótica. Na maioria dos casos, foram identificados fatores de risco como insuficiência
+renal preexistente, diabetes mellitus, hipovolemia, excesso de peso, utilização concomitante de
+medicamentos potencialmente nefrotóxicos, idade acima dos 65 anos, sepsia, hiperviscosidade ou
+paraproteinemia.
+Os parâmetros renais deverão ser avaliados antes da perfusão de IVIg, especialmente em doentes que
+se considerem ter um maior potencial de risco de desenvolvimento de insuficiência renal aguda e,
+novamente, em intervalos adequados. Em doentes em risco de insuficiência renal aguda, os produtos
+de IVIg deverão ser administrados numa taxa de perfusão mínima e dose praticáveis. Em caso de
+insuficiência renal, deverá ser considerada descontinuação de IVIg.
+Estes casos de disfunção renal e de insuficiência renal aguda foram associados à utilização de muitos
+dos medicamentos IVIg comercializados contendo vários excipientes como sacarose, glucose
+e maltose e aqueles contendo sacarose como estabilizador responderam por uma parte significativa
+do número total. Nos doentes de risco, pode ser considerada a utilização de medicamentos IVIg que
+não contêm estes excipientes. KIOVIG não contém sacarose, maltose nem glucose.
+Lesão traumática pulmonar aguda relacionada com transfusão (TRALI)
+Em doentes a receberem IVIg, houve notificações de edema pulmonar não-cardiogénicos agudo (lesão
+traumática pulmonar aguda relacionada com transfusão (TRALI) em doentes que administraram IVIg
+(incluindo KIOVIG). A TRALI é caracterizada por hipóxia grave, dispneia, taquipneia, cianose, febre
+e hipotensão. Os sintomas de TRALI desenvolvem-se normalmente durante ou nas 6 horas após uma
+transfusão, frequentemente no período de 1-2 horas. Logo, os recetores de IVIg devem ser
+7
+
+monitorizados e a perfusão de IVIg deve ser imediatamente interrompida em caso de reações
+pulmonares adversas. A TRALI é uma condição com possível risco de vida que exige tratamento
+imediato numa unidade de cuidados intensivos.
+Síndrome de meningite assética (AMS)
+Foi notificado um episódio de síndrome de meningite assética que ocorreu em associação com
+o tratamento com IVIg. A síndrome surge, normalmente, entre as primeiras horas e os dois dias que se
+seguem ao tratamento com IVIg. Os estudos do líquido cefalorraquidiano são frequentemente
+positivos com uma pleocitose até vários milhares de células por mm3, predominantemente da série
+granulocítica e dos elevados níveis de proteínas até várias centenas mg/dl. A AMS pode ocorrer mais
+frequentemente quando associada com doses elevadas (2g/kg) do tratamento com IVIg.
+Os doentes que apresentem estes sinais e sintomas deverão ser submetidos a um exame neurológico
+completo, incluindo estudos de LCR, para descartar outras causas de meningite.
+A descontinuação do tratamento com IVIg resultou na remissão de AMD em vários dias sem sequelas.
+Não foi observada uma correlação clara entre a AMS e doses mais elevadas nos dados
+pós-comercialização de KIOVIG. Foram observadas maiores incidências de AMS em mulheres.
+Anemia hemolítica
+Os fármacos de IVIg podem conter anticorpos de grupo sanguíneo passíveis de atuar como
+hemolisinas, levando ao revestimento in vivo dos eritrócitos com imunoglobulina, o que irá provocar
+uma reação positiva de antiglobulina direta (teste de Coombs) e, raramente, de hemólise. A seguir ao
+tratamento com IVIg é possível desenvolver anemia hemolítica, devido ao aumento da
+sequestração de eritrócitos (GV). Os recetores de IVIg devem ser monitorizados relativamente a sinais
+e sintomas clínicos de hemólise. (Ver secção 4.8.)
+Neutropenia/Leucopenia
+Uma diminuição passageira na contagem de neutrófilos e/ou episódios de neutropenia, por vezes
+grave, foram notficados após o tratamento com IVIg. Isto ocorre normalmente no período de horas ou
+dias após a administração de IVIg e resolve-se espontaneamente no período de 7 a 14 dias.
+Interferência com testes serológicos
+Depois da perfusão de imunoglobulina, o aumento transitório de diversos anticorpos transferidos
+passivamente no sangue dos doentes pode resultar em resultados falsos positivos nos testes
+serológicos.
+A transmissão passiva de anticorpos a antigénios de eritrócitos, por exemplo antigénios A, B, D, pode
+interferir com alguns testes serológicos de anticorpos de glóbulos vermelhos, por exemplo o teste
+antiglobulina direto (TAD, teste de Coombs direto).
+A administração de KIOVIG pode resultar em leituras falsas positivas em ensaios que dependem da
+deteção de beta-D-glucanos para o diagnóstico de infeções fúngicas. Esta situação pode persistir
+durante as semanas após a perfusão do medicamento.
+Agentes transmissíveis
+KIOVIG é elaborado a partir de plasma humano. As medidas standard para a prevenção de infeções
+resultantes da utilização de medicamentos preparados a partir de plasma incluem a seleção de dadores,
+a triagem das doações individuais e dos pools de plasma quanto a marcadores específicos de infeção e
+a inclusão de etapas de fabrico eficientes na inativação/remoção de vírus. Apesar disto, quando são
+administrados medicamentos preparados a partir de sangue ou plasma humanos, a possibilidade de
+8
+
+transmissão de agentes infeciosos não pode ser totalmente excluída. Isto também se aplica a vírus
+desconhecidos ou emergentes e outros agentes patogénicos.
+As medidas tomadas são consideradas eficazes para vírus com envelope tais como HIV, HBV e HCV,
+e para os vírus sem envelope HAV e o Parvovírus B19.
+Existem evidências tranquilizadoras relativamente à ausência de transmissão do vírus da hepatite A ou
+do parvovírus B19 com as imunoglobulinas, admitindo – se também que o conteúdo em anticorpos
+traz uma importante contribuição para a segurança quanto a vírus.
+Rastreabilidade
+De modo a melhorar a rastreabilidade dos medicamentos biológicos, o nome e o número de lote do
+medicamento administrado devem ser registados de forma clara.
+População pediátrica
+Não existem riscos pediátricos específicos relativamente a qualquer um dos acontecimentos adversos
+acima indicados. Os doentes pediátricos podem ser mais suscetíveis a uma sobrecarga de volume (ver
+secção 4.9).
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Vacinas de vírus vivos atenuados
+A administração de imunoglobulina pode diminuir, por um período mínimo de 6 semanas e de
+até 3 meses, a eficácia de vacinas de vírus vivos atenuados como as do sarampo, rubéola, parotidite e
+varicela. Depois da administração deste medicamento, deve decorrer um intervalo de 3 meses antes da
+vacinação com vacinas de vírus vivos atenuados. No caso do sarampo, a diminuição pode persistir por
+até 1 ano. Assim sendo, os doentes que recebem vacinas contra o sarampo devem ter o seu nível de
+anticorpos testado.
+A diluição de KIOVIG com solução de glucose a 5% pode resultar num aumento dos níveis da glucose
+no sangue.
+Diuréticos de ansa
+Evitar a utilização concomitante de diuréticos de ansa.
+População pediátrica
+As interações indicadas aplicam-se a adultos e crianças.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+A segurança deste medicamento para utilização em mulheres grávidas não foi estabelecida em ensaios
+clínicos controlados e deve portanto ser administrado unicamente com prudência a grávidas e mães em
+aleitamento. Os fármacos IVIg mostraram transpor a placenta, sendo este processo mais fácil durante o
+terceiro trimestre. A experiência clínica com imunoglobulinas sugere que não são de se esperar efeitos
+nefastos na gravidez, ou no feto e no recém-nascido.
+
+9
+
+Amamentação
+As imunoglobulinas são excretadas no leite e podem contribuir para proteger o recém-nascido da
+entrada de agentes patogénicos através das mucosas. Não são esperados efeitos negativos nos recémnascidos/crianças lactentes.
+Fertilidade
+A experiência clínica com imunoglobulinas sugere que não são de se esperar efeitos nefastos na
+fertilidade.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+A capacidade de conduzir e utilizar máquinas pode ficar comprometida devido a algumas reações
+adversas associadas ao KIOVIG. Os doentes que tenham reações adversas durante o tratamento devem
+esperar que estas se resolvam antes de conduzir ou operar máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+As reações adversas, tais como calafrios, dor de cabeça, tonturas, febre, vómitos, reações alérgicas,
+náusea, artralgia, tensão arterial baixa e dor lombar moderada podem ocorrer ocasionalmente.
+As imunoglobulinas humanas normais podem provocar, raramente, uma queda súbita da tensão arterial
+e, em casos isolados, choque anafilático, mesmo quando o doente não tenha evidenciado
+hipersensibilidade em administrações anteriores.
+Casos de meningites asséticas reversíveis e casos raros de reações cutâneas passageiras (incluindo
+lúpus eritematoso cutâneo – frequência desconhecida) têm sido observados com imunoglobulina
+humana normal. Foram observadas reações hemolíticas reversíveis em doentes, principalmente em
+doentes dos grupos sanguíneos A, B e AB. Raramente, podem ocorrer casos de anemia hemolítica com
+necessidade de transfusão, após a terapêutica com dose elevada de IVIg (ver também secção 4.4).
+Têm sido observados casos de aumento do nível de creatinina sérica e/ou falha renal aguda.
+Muito raramente: Reações tromboembólicas tais como enfarte do miocárdio, apoplexia, embolismo
+pulmonar e trombose venosa profunda.
+Casos de lesão traumática pulmonar aguda relacionada com transfusão (TRALI).
+Apresentação tabelada das reações adversas
+As tabelas apresentadas abaixo estão de acordo com a classificação de sistemas de órgãos da
+MedDRA (CSO e Nível de Termo Preferencial). A tabela 1 apresenta as reações adversas observadas
+nos ensaios clínicos e a tabela 2 apresenta as RAs observadas no período de pós-comercialização.
+As frequências foram avaliadas de acordo com a seguinte convenção: muito frequente (≥1/10);
+frequente (≥1/100, <1/10); pouco frequente (≥1/1.000, <1/100); raro (≥1/10.000, <1/1.000); muito
+raro (<1/10.000); desconhecido (não pode ser calculado a partir dos dados disponíveis).
+
+10
+
+As reações adversas são apresentadas por ordem decrescente de gravidade dentro de cada classe de
+frequência.
+Tabela 1
+Frequência das Reações Adversas (RADs) em estudos clínicos com KIOVIG
+Classes de Sistemas de
+Órgãos (CSO) segundo
+Reação adversa
+Frequência
+a base de dados MedDRA
+Infeções e infestações
+Bronquite, nasofaringite
+Frequente
+Sinusite crónica, infeção fúngica, infeção,
+Pouco frequente
+infeção renal, sinusite, infeção do trato
+respiratório superior, infeção do trato
+urinário, infeção bacteriana do trato urinário,
+meningite assética
+Doenças do sangue e do
+Anemia, linfadenopatia
+Frequente
+sistema linfático
+Doenças do sistema
+Hipersensibilidade, reação anafilática
+Pouco frequente
+imunitário
+Doenças endócrinas
+Doença da tiroide
+Pouco frequente
+Doenças do metabolismo e
+Apetite diminuído
+Frequente
+da nutrição
+Perturbações do foro
+Insónia, ansiedade
+Frequente
+psiquiátrico
+Irritabilidade
+Pouco frequente
+Doenças do sistema nervoso
+Dores de cabeça
+Muito frequente
+Tonturas, enxaqueca, parestesia, hipoestesia
+Frequente
+Amnésia, disartria, disgeusia, perturbação do Pouco frequente
+equilíbrio, tremor
+Afeções oculares
+Conjuntivite,
+Frequente
+Dor nos olhos, inchaço dos olhos
+Pouco frequente
+Afeções do ouvido e do
+Vertigem, fluido no ouvido médio
+Pouco frequente
+labirinto
+Cardiopatias
+Taquicardia
+Frequente
+Vasculopatias
+Hipertensão
+Muito frequente
+Afrontamento cutâneo
+Frequente
+Frio nas extremidades, flebite
+Pouco frequente
+Doenças respiratórias,
+Tosse, rinorreia, asma, congestão nasal, dor
+Frequente
+torácicas e do mediastino
+orofaríngea, dispneia
+Inchaço orofaríngeo
+Pouco frequente
+Doenças gastrointestinais
+Náuseas
+Muito frequente
+Diarreia, vómitos, dor abdominal, dispepsia
+Frequente
+Distensão abdominal
+Pouco frequente
+Erupção cutânea
+Muito frequente
+Contusão, comichão, urticária, dermatite,
+Frequente
+Afeções dos tecidos cutâneos eritema
+e subcutâneos
+Angiedema, urticária aguda, suores frios,
+Pouco frequente
+reação de fotossensibilidade, suores noturnos,
+hiperidrose
+Afeções musculosqueléticas
+Dor nas costas, artralgia, dores nas
+Frequente
+e dos tecidos conjuntivos
+extremidades, mialgia, espasmos musculares,
+fraqueza muscular
+Fasciculações musculares
+Pouco frequente
+Doenças renais e urinárias
+Proteinúria
+Pouco frequente
+
+11
+
+Tabela 1
+Frequência das Reações Adversas (RADs) em estudos clínicos com KIOVIG
+Classes de Sistemas de
+Órgãos (CSO) segundo
+Reação adversa
+Frequência
+a base de dados MedDRA
+Perturbações gerais e
+Reações locais (p. ex.,
+Muito frequente
+alterações no local de
+dor/inchaço/reação/prurido no local de
+administração
+administração), pirexia, fadiga
+Calafrios, edema, doença semelhante à gripe, Frequente
+mal-estar torácico, dor no peito, astenia,
+mal-estar, arrepios
+Sensação de aperto no peito, sensação de
+Pouco frequente
+calor, sensação de ardor, tumefação
+Exames complementares de
+Colesterol sanguíneo aumentado, creatinina
+Pouco frequente
+diagnóstico
+sanguínea aumentada, ureia sanguínea
+aumentada, contagem de leucócitos
+diminuída, alaninaminotransferase
+aumentada, hematócrito diminuído, contagem
+de glóbulos vermelhos diminuída, taxa
+respiratória aumentada
+Tabela 2
+Reações Adversas (RAs) Pós-Comercialização
+Classes de Sistemas de
+Órgãos (CSO) segundo
+a base de dados MedDRA
+Doenças do sangue e do
+sistema linfático
+Doenças do sistema
+imunitário
+Doenças do sistema nervoso
+Cardiopatias
+Vasculopatias
+Doenças respiratórias,
+torácicas e do mediastino
+Exames complementares de
+diagnóstico
+Complicações de
+intervenções relacionadas
+com lesões e intoxicações
+
+Reação adversa
+
+Frequência
+
+Hemólise
+
+Desconhecido
+
+Choque anafilático
+
+Desconhecido
+
+Ataque isquémico transitório, acidente vascular
+cerebral
+Enfarte do miocárdio
+Hipotensão, trombose de veia profunda
+Embolia pulmonar, edema pulmonar
+
+Desconhecido
+
+Teste de Coombs direto positivo, saturação de
+oxigénio diminuída
+Lesão traumática pulmonar aguda relacionada
+com transfusão
+
+Desconhecido
+
+Desconhecido
+Desconhecido
+Desconhecido
+
+Desconhecido
+
+Descrição de reações adversas selecionadas
+A fraqueza e fasciculações musculares foram apenas observadas em doentes com NMM.
+População pediátrica
+A frequência, o tipo e a gravidade das reações adversas nas crianças são iguais aos dos adultos.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+12
+
+Sobre a segurança relativamente a agentes transmissíveis, consultar a secção 4.4.
+4.9
+
+Sobredosagem
+
+A sobredosagem pode levar a uma sobrecarga e hiperviscosidade de líquido, especialmente em
+doentes de risco, incluindo doentes mais idosos ou doentes com insuficiência cardíaca ou renal (ver
+secção 4.4).
+População pediátrica
+As crianças mais pequenas com menos de 5 anos podem ser particularmente suscetíveis a uma
+sobrecarga de volume. Por conseguinte, a dosagem deve ser cuidadosamente calculada para esta
+população. Além disso, as crianças com a doença de Kawasaki apresentam um risco especialmente
+elevado devido a compromisso cardíaco subjacente, pelo que a dose e a taxa de administração devem
+ser cuidadosamente controladas.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: 18.3 Imunoglobulinas.
+Código ATC: J06BA02 – Imunoglobulinas humanas normais para administração intravascular.
+Imunoglobulina humana normal contém principalmente imunoglobulina G (IgG), com um amplo
+espetro de anticorpos contra agentes infeciosos.
+Imunoglobulina humana normal contém os anticorpos IgG presentes na população normal.
+São geralmente preparadas a partir de pools de plasma de não menos de 1.000 doações. Apresentam
+uma distribuição de subclasses de imunoglobulinas G aproximadamente proporcional àquela do
+plasma humano nativo. As doses adequadas deste medicamento podem restaurar níveis anormalmente
+baixos de imunoglobulina G para os valores normais.
+O mecanismo de ação em outras indicações que não sejam a terapêutica de substituição não está
+totalmente elucidado, mas inclui efeitos imunomoduladores.
+População pediátrica
+Não existem diferenças teóricas nem observadas na ação das imunoglobulinas em crianças
+comparativamente aos adultos.
+5.2
+
+Propriedades farmacocinéticas
+
+A imunoglobulina humana normal fica imediata e completamente disponível na circulação do recetor
+após a administração intravenosa. É distribuída relativamente depressa entre o plasma e o líquido
+extracelular; depois de aproximadamente 3 a 5 dias, o equilíbrio é atingido entre os compartimentos
+intra e extracelular.
+Os parâmetros farmacocinéticos para o KIOVIG foram determinados em dois estudos clínicos
+em doentes IDP realizados na Europa e Estados Unidos. Nestes estudos, um total de 83 indivíduos
+com pelo menos 2 anos de idade foram tratados com doses de 300 a 600 mg/kg por peso corporal
+a cada 21 a 28 dias durante 6 a 12 meses. O tempo de semivida IgG médio após administração do
+KIOVIG foi de 32,5 dias. Este tempo de semivida pode variar de doente para doente, especialmente na
+imunodeficiência primária. Os parâmetros farmacocinéticos para o medicamento estão resumidos no
+quadro seguinte. Todos os parâmetros foram analisados separadamente para três grupos etários,
+crianças (idade inferior a 12 anos, n=5), adolescentes (13 a 17 anos, n=10) e adultos (acima
+13
+
+de 18 anos, n=64). Os valores obtidos nos estudos são comparáveis aos parâmetros obtidos para
+outras imunoglobulinas humanas.
+
+Parâmetro
+
+Resumo dos parâmetros farmacocinéticos do KIOVIG
+Crianças
+Adolescentes
+Adultos
+(inferior a 12 anos)
+(13 a 17 anos)
+(acima de 18 anos)
+Mediana 95% IC* Mediana 95% IC* Mediana 95% IC*
+
+Tempo de semivida
+terminal (dias)
+Cmin (mg/dl)/(mg/Kg)
+(nível mínimo)
+Cmin (mg/dl)/ (mg/Kg)
+(nível do pico)
+Recuperação in vivo (%)
+Recuperação incremental
+(mg/dl)/(mg/kg)
+AUC0-21d (g·h/dl)
+(área sob a curva)
+* IC – Intervalo de confiança
+
+41,3
+
+20,2 a 86,8
+
+45,1
+
+27,3 a 89,3
+
+31,9
+
+29,6 a 36,1
+
+2,28
+
+1,72 a 2,74
+
+2,25
+
+1,98 a 2,64
+
+2,24
+
+1,92 a 2,43
+
+4,44
+
+3,30 a 4,90
+
+4,43
+
+3,78 a 5,16
+
+4,50
+
+3,99 a 4,78
+
+121
+
+87 a 137
+
+99
+
+75 a 121
+
+104
+
+96 a 114
+
+2,26
+
+1,70 a 2,60
+
+2,09
+
+1,78 a 2,65
+
+2,17
+
+1,99 a 2,44
+
+1,49
+
+1,34 a 1,81
+
+1,67
+
+1,45 a 2,19
+
+1,62
+
+1,50 a 1,78
+
+A IgG e os complexos IgG são metabolizados em células do sistema reticuloendotelial.
+5.3
+
+Dados de segurança pré-clínica
+
+As imunoglobulinas são componentes normais do corpo humano.
+A segurança do KIOVIG foi demonstrada em diversos estudos não clínicos. Os dados não clínicos
+não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia
+de segurança e toxicidade.
+Os estudos de toxicidade de dose repetida, genotoxicidade e toxicidade reprodutiva em animais
+são impraticáveis devido à indução de e à interferência pelo desenvolvimento de anticorpos contra
+proteínas heterólogas. Visto que a experiência clínica não fornece evidência de potencial
+carcinogénico das imunoglobulinas, não foram realizados estudos experimentais em espécies
+heterogéneas.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Glicina
+Água para preparações injetáveis
+6.2
+
+Incompatibilidades
+
+Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros
+medicamentos, nem com quaisquer outros medicamentos de IVIg.
+6.3
+
+Prazo de validade
+
+2 anos.
+Se for necessária a diluição para concentrações mais baixas, é recomendada a utilização
+imediatamente após a diluição. A estabilidade do KIOVIG após diluição com solução de glucose
+a 5% para uma concentração final de 50 mg/ml (5%) de imunoglobulina foi demonstrada para 21 dias
+14
+
+entre 2º C e 8º C assim como entre 28º C e 30º C, no entanto, estes estudos não incluem
+a contaminação microbiana e os aspetos relativos à segurança.
+6.4
+
+Precauções especiais de conservação
+
+Não conservar acima de 25ºC.
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+Condições de conservação do medicamento após diluição, ver secção 6.3.
+6.5
+
+Natureza e conteúdo do recipiente
+
+10, 25, 50, 100, 200 ml ou 300 ml de solução em frascos para injetáveis (vidro Tipo I) com rolha
+(bromobutil).
+Embalagem: 1 frasco para injetáveis.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação e manuseamento
+
+O medicamento deve ser levado à temperatura ambiente ou à temperatura corporal antes da utilização.
+Ser for necessário diluir deve ser utilizada solução de glucose a 5%. Para obter uma solução de
+imunoglobulina a 50 mg/ ml (5%), KIOVIG 100 mg/ ml (10%) deve ser diluído com um volume igual
+de solução de glucose. Recomenda-se que durante a diluição seja minimizado o risco de contaminação
+microbiana.
+Antes da administração, este medicamento deve ser visualmente inspecionado quanto a partículas
+e descoloração. A solução deve ser transparente ou ligeiramente opalescente e incolor ou amarelo
+pálido. Soluções que se apresentem turvas ou tenham depósito, não devem ser utilizadas,
+KIOVIG deve ser administrado exclusivamente por via intravenosa. Não foram avaliadas outras vias
+de administração.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Takeda Manufacturing Austria AG
+Industriestrasse 67
+A-1221 Viena, Áustria
+medinfoEMEA@takeda.com
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/05/329/001
+EU/1/05/329/002
+EU/1/05/329/003
+EU/1/05/329/004
+EU/1/05/329/005
+EU/1/05/329/006
+
+15
+
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 19 de janeiro de 2006
+Data da última renovação: 06 de dezembro de 2010
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
+16
+
+ANEXO II
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA
+E FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO
+LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO
+E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA
+E EFICAZ DO MEDICAMENTO
+
+E.
+
+OBRIGAÇÕES ESPECÍFICAS PARA COMPLETAR AS MEDIDAS DE
+PÓS-AUTORIZAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO CONDICIONADA / EM CIRCUNSTÂNCIAS EXCECIONAIS
+
+17
+
+A.
+
+FABRICANTE DA SUBSTÂNCIA ATIVA DE ORIGEM BIOLÓGICA E
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) da(s) substância(s) ativa(s) de origem biológica
+Baxalta Belgium Manufacturing SA
+Boulevard René Branquart 80
+B-7860 Lessines
+Bélgica
+Nome e endereço dos fabricantes responsáveis pela libertação do lote
+Baxalta Belgium Manufacturing SA
+Boulevard René Branquart 80
+B-7860 Lessines
+Bélgica
+O folheto informativo que acompanha o medicamento tem de mencionar o nome e endereço do
+fabricante responsável pela libertação do lote em causa.
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento sujeito a receita médica.
+
+
+Libertação oficial do lote
+
+Nos termos do artigo 114.º da Diretiva 2001/83/CE, a libertação oficial do lote será feita por um
+laboratório estatal ou um laboratório designado para esse efeito.
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado,
+e quaisquer atualizações subsequentes do PGR acordadas.
+Deve ser apresentado um PGR atualizado:
+
+A pedido da Agência Europeia de Medicamentos
+
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado
+da receção de nova informação que possa levar a alterações significativas no perfil
+benefício-risco ou como resultado de ter sido atingido um objetivo importante
+(farmacovigilância ou minimização do risco).
+18
+
+
+
+Medidas adicionais de minimização do risco
+
+Não aplicável.
+
+
+Obrigação de concretizar as medidas de pós-autorização
+
+Não aplicável.
+E.
+
+OBRIGAÇÕES ESPECÍFICAS PARA COMPLETAR AS MEDIDAS DE
+PÓS-AUTORIZAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+CONDICIONADA / EM CIRCUNSTÂNCIAS EXCECIONAIS
+
+Não aplicável.
+
+19
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+20
+
+A. ROTULAGEM
+
+21
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR (1G, 2,5G, 5G, 10G, 20G e 30G)
+
+1.
+
+NOME DO MEDICAMENTO
+
+KIOVIG 100 mg/ml solução para perfusão (10%)
+imunoglobulina humana normal
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Proteína humana, 100 mg/ml, pelo menos 98% é IgG
+Conteúdo máximo de imunoglobulina A (IgA): 140 microgramas/ml.
+1 g / 10 ml
+2,5 g / 25 ml
+5 g / 50 ml
+10 g / 100 ml
+20 g / 200 ml
+30 g / 300 ml
+3.
+
+LISTA DOS EXCIPIENTES
+
+Glicina
+Água para preparações injetáveis
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Solução para perfusão (10%)
+1 frasco para injetáveis
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via intravenosa.
+Consultar o folheto informativo antes de utilizar.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.:
+
+22
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25ºC.
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Takeda Manufacturing Austria AG
+Industriestrasse 67
+A-1221 Viena
+Áustria
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/05/329/001 1 g/10 ml
+EU/1/05/329/002 2,5 g/25 ml
+EU/1/05/329/003 5 g/50 ml
+EU/1/05/329/004 10 g/100 ml
+EU/1/05/329/005 20 g/200 ml
+EU/1/05/329/006 30 g/300 ml
+
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+KIOVIG
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+
+23
+
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+Código nacional exclusivo incluído.
+
+24
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO PARA INJETÁVEIS (5G, 10G, 20G E 30G)
+
+1.
+
+NOME DO MEDICAMENTO
+
+KIOVIG 100 mg/ml solução para perfusão
+imunoglobulina humana normal
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Proteína humana, 100 mg/ml, pelo menos 98% é IgG
+Conteúdo máximo de imunoglobulina A (IgA): 140 microgramas/ml.
+5 g / 50 ml
+10 g / 100 ml
+20 g / 200 ml
+30 g / 300 ml
+3.
+
+LISTA DOS EXCIPIENTES
+
+Glicina
+Água para preparações injetáveis
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+Solução para perfusão (10%)
+1 frasco para injetáveis
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Via intravenosa.
+Consultar o folheto informativo antes de utilizar.
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.:
+
+25
+
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Não conservar acima de 25ºC.
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Takeda Manufacturing Austria AG
+Industriestrasse 67
+A-1221 Viena
+Áustria
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/05/329/003 5 g/50 ml
+EU/1/05/329/004 10 g/100 ml
+EU/1/05/329/005 20 g/200 ml
+EU/1/05/329/006 30 g/300 ml
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+Código nacional exclusivo incluído.
+
+26
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES
+DE ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO PARA INJETÁVEIS (1 G)
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+KIOVIG 100 mg/ml solução para perfusão
+imunoglobulina humana normal
+Via intravenosa.
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+3.
+
+PRAZO DE VALIDADE
+
+VAL.
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+1 g / 10 ml
+6.
+
+OUTRAS
+
+27
+
+INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE
+ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO PARA INJETÁVEIS (2,5 G)
+
+1.
+
+NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+
+KIOVIG 100 mg/ml solução para perfusão
+imunoglobulina humana normal
+Via intravenosa.
+2.
+
+MODO DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+3.
+
+PRAZO DE VALIDADE
+
+VAL.:
+4.
+
+NÚMERO DO LOTE
+
+Lote:
+5.
+
+CONTEÚDO EM PESO, VOLUME OU UNIDADE
+
+2,5 g / 25 ml
+6.
+
+OUTRAS
+
+Não conservar acima de 25ºC.
+Não congelar.
+Manter o frasco para injetáveis dentro da embalagem exterior para proteger da luz.
+
+28
+
+B. FOLHETO INFORMATIVO
+
+29
+
+Folheto informativo: Informação para o utilizador
+KIOVIG 100 mg/ml, solução para perfusão
+imunoglobulina humana normal
+Leia com atenção todo este folheto antes de começar a utilizar este medicamento, pois contém
+informação importante para si.
+
+
+
+
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas fale com o seu médico, farmacêutico ou enfermeiro.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados
+neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+
+O que contém este folheto:
+1.
+2.
+3.
+4.
+5.
+6.
+
+O que é KIOVIG e para que é utilizado
+O que precisa de saber antes de utilizar KIOVIG
+Como utilizar KIOVIG
+Efeitos secundários possíveis
+Como conservar KIOVIG
+Conteúdo da embalagem e outras informações
+
+1.
+
+O que é KIOVIG e para que é utilizado
+
+KIOVIG pertence a uma classe de medicamentos denominada imunoglobulinas. Estes medicamentos
+contêm anticorpos humanos, que também estão presentes no seu sangue. Os anticorpos ajudam o seu
+corpo a lutar contra as infeções. Os medicamentos como KIOVIG são utilizados em doentes que não
+têm anticorpos suficientes no seu sangue e tendem a ter infeções frequentemente. Podem também ser
+utilizados em doentes que precisam de anticorpos adicionais para a cura de determinadas afeções
+inflamatórias (doenças autoimunes).
+KIOVIG é utilizado para
+Tratamento de doentes que não têm anticorpos suficientes (terapêutica de substituição). Existem
+dois grupos:
+
+1. Doentes com falta inata de produção de anticorpos (síndromes de imunodeficiência primária).
+2. Doentes com imunodeficiências secundárias (IDS) que sofrem de infeções graves ou
+recorrentes, com tratamento antimicrobiano ineficaz e com falta comprovada de anticorpo
+específico (PSAF)* ou nível de IgG sérico < 4 g/l.
+
+*PSAF = incapacidade em aumentar, pelo menos 2 vezes, o título do anticorpo IgG com as vacinas
+pneumocócica polissacárida e antigénica polipeptídica
+Tratamento de doentes com certas doenças inflamatórias (imunomodulação). Existem cinco
+grupos:
+
+1. Doentes que não têm plaquetas sanguíneas suficientes (trombocitopenia imune primária, TIP)
+e que apresentam o risco de hemorragia ou que serão operados num futuro próximo.
+2. Doentes com uma doença que é associada a inflamações múltiplas dos nervos em todo o corpo
+(síndrome de Guillain Barré).
+3. Doentes com uma doença que resulta em inflamações múltiplas de vários órgãos do corpo
+(Doença de Kawasaki).
+4. Doentes que sofram de uma doença rara caracterizada por uma fraqueza muscular
+assimétrica dos membros, lentamente progressiva, sem perda sensorial (neuropatia
+motora multifocal, NMM)
+5. Doentes que sofram de polirradiculoneuropatia desmielinizante inflamatória crónica (PDIC).
+
+2. O que precisa de saber antes de utilizar KIOVIG
+
+Não utilize KIOVIG
+Se tem alergia às imunoglobulinas ou a qualquer outro componente deste medicamento (indicados na
+secção 6).
+Por exemplo, se tem uma deficiência de imunoglobulina A, pode ter anticorpos contra
+a imunoglobulina A no seu sangue. Visto que KIOVIG contém traços de imunoglobulina
+A (até 0,14 mg/ml), poderá ter uma reação alérgica.
+Advertências e precauções
+Fale com o seu médico, farmacêutico ou enfermeiro antes de utilizar KIOVIG.
+Durante quanto tempo é necessária a monitorização durante a perfusão
+
+
+
+
+
+Será cuidadosamente observado durante o período de perfusão com KIOVIG para se ter
+a certeza de que não sofre uma reação. O seu médico irá certificar-se de que a velocidade à qual
+KIOVIG é administrado lhe é adequada.
+Se KIOVIG for administrado a uma velocidade elevada, se sofre de um estado de saúde com
+baixos níveis de anticorpos no seu sangue (hipo ou agamaglobulina), se não recebeu este
+medicamento antes ou se passou um longo período de tempo (por exemplo, várias semanas)
+desde que o recebeu pela última vez, pode existir um risco maior de efeitos indesejáveis. Nestes
+casos, será cuidadosamente monitorizado durante a perfusão e até uma hora após o fim da
+mesma.
+Caso já tenha recebido anteriormente KIOVIG e tenha recebido o último tratamento
+recentemente, então será observado somente durante a perfusão e pelo menos até 20 minutos
+após a sua perfusão.
+
+Quando poderá ser necessário diminuir a velocidade ou parar a perfusão
+Em casos raros, o seu corpo pode ter reagido anteriormente a anticorpos específicos e será, portanto,
+sensível a medicamentos contendo anticorpos. Isto pode acontecer especialmente se sofrer de
+deficiência de imunoglobulina A. Nestes raros casos, poderá ter reações alérgicas tais como uma
+queda súbita da tensão arterial ou choque, mesmo que no passado já tenha recebido tratamento com
+medicamentos contendo anticorpos.
+Se sentir uma reação durante a perfusão com KIOVIG, informe imediatamente o seu médico.
+Dependendo da decisão do seu médico a velocidade de perfusão pode ser diminuída ou interrompida.
+Grupos de doentes especiais
+
+
+O seu médico terá cuidados especiais se for obeso, idoso, diabético ou se sofrer de tensão alta,
+baixo volume sanguíneo (hipovolemia) ou se tiver problemas nos vasos sanguíneos (doenças
+vasculares). Nestas condições, as imunoglobulinas podem aumentar o risco de enfarte do
+miocárdio, apoplexia, embolia pulmonar ou trombose venosa profunda, embora só em casos
+muito raros. Informe o seu médico se é diabético. Embora KIOVIG não contenha açúcar,
+pode ser diluído com uma solução especial de açúcar (glucose 5%) que poderá afetar o seu
+nível de açúcar no sangue.
+
+31
+
+
+
+O seu médico terá especial cuidado se tem ou teve anteriormente problemas nos rins ou se está
+a receber medicamentos que podem afetar os rins (medicamentos nefrotóxicos), porque existe
+uma possibilidade muito rara de insuficiência renal aguda. Informe o seu médico se tem alguma
+doença renal. O seu médico irá escolher a imunoglobulina intravenosa adequada para si.
+
+Informações acerca do material de origem do KIOVIG
+KIOVIG é fabricado a partir de plasma (a parte líquida do sangue) humano. Quando os medicamentos
+são fabricados a partir de sangue ou plasma humanos, são tomadas um número de medidas para
+prevenir que sejam transmitidas infeções aos doentes. Estas medidas incluem a seleção cuidadosa dos
+dadores de sangue e plasma, para se ter a certeza de que aqueles que apresentam o risco de terem
+infeções sejam excluídos, e a realização de testes em cada doação e nos conjuntos de doações para a
+deteção de sinais de vírus ou infeções. Os fabricantes destes medicamentos também incluem etapas
+no processamento do sangue ou plasma que podem inativar ou remover os vírus. Apesar destas
+medidas, quando são administrados medicamentos preparados a partir de sangue ou plasma humanos,
+a possibilidade de transmissão de infeções não pode ser totalmente excluída. Isto também se aplica
+a quaisquer vírus desconhecidos ou emergentes ou outros tipos de infeções.
+As medidas tomadas para o fabrico de KIOVIG são consideradas eficientes para vírus com envelope,
+tais como o vírus da imunodeficiência humana (HIV), vírus das hepatites B e C (HBV e HCV) e para
+os vírus sem envelope da hepatite A e o Parvovírus B19. KIOVIG também contém determinados
+anticorpos que podem prevenir uma infeção com o vírus da hepatite A e Parvovírus B19.
+Outros medicamentos e KIOVIG
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos.
+Se tiver recebido uma vacina nas últimas seis semanas e até há três meses, a perfusão de
+imunoglobulinas como KIOVIG pode diminuir o efeito de algumas vacinas de vírus vivos como as do
+sarampo, rubéola, parotidite e varíola. Por isso, depois de receber imunoglobulinas poderá ter que
+esperar até 3 meses antes de receber vacinas vivas atenuadas. Poderá ter que esperar até 1 ano depois
+de receber as imunoglobulinas antes de poder receber a sua vacina contra o sarampo.
+Efeito em testes sanguíneos
+KIOVIG contém uma grande variedade de diferentes anticorpos, alguns dos quais podem afetar os
+testes de sangue. Se tiver que fazer um teste de sangue depois de receber KIOVIG, informe a pessoa
+que vai colher o seu sangue ou o seu médico de que recebeu esta medicação.
+Gravidez, amamentação e fertilidade
+
+
+
+
+
+Se está grávida ou a amamentar, se pensa estar grávida ou planeia engravidar, consulte o
+seu médico ou farmacêutico antes de tomar este medicamento.
+Não foram realizados ensaios clínicos com KIOVIG em mulheres grávidas ou a amamentar.
+No entanto, medicamentos com anticorpos têm sido usados em mulheres grávidas ou
+a amamentar e têm mostrado que não existem efeitos nocivos sobre a evolução da gravidez
+nem sobre o bebé.
+Se está a amamentar e recebe KIOVIG, os anticorpos do medicamento também podem ser
+encontrados no leite. Por isso, o seu bebé pode ficar protegido de certas infeções.
+
+Condução de veículos e utilização de máquinas
+Durante o tratamento com KIOVIG os doentes podem ter reações (por exemplo tonturas ou náuseas),
+que podem afetar a capacidade de conduzir e utilizar máquinas. Se tal acontecer, deve aguardar até as
+reações desaparecerem.
+
+32
+
+3.
+
+Como utilizar KIOVIG
+
+KIOVIG destina-se à administração intravenosa (perfusão numa veia). É-lhe administrado pelo seu
+médico ou enfermeiro. A dose e a frequência da perfusão variam dependendo do seu estado de saúde e
+do seu peso corporal.
+No início da perfusão receberá KIOVIG a uma baixa velocidade. Dependendo de como se sentir, o seu
+médico poderá então aumentar gradualmente a velocidade de perfusão.
+Utilização em crianças e adolescentes
+Aplicam-se as mesmas indicações, doses e frequência de perfusão para adultos, crianças e
+adolescentes (até aos 18 anos).
+Se utilizar mais KIOVIG do que deveria
+Se receber mais KIOVIG do que deveria, o seu sangue poderá tornar-se mais espesso
+(hiperviscosidade). Isto pode acontecer particularmente se for um doente de risco, por exemplo,
+um doente idoso ou um doente com problemas de rins. Certifique-se de que toma uma quantidade
+adequada de líquidos para que não desidrate e avise o seu médico se tiver problemas clínicos
+conhecidos.
+4.
+
+Efeitos secundários possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos secundários, embora estes não se
+manifestem em todas as pessoas. Determinados efeitos secundários, como dor de cabeça ou
+vermelhidão, podem ser reduzidos diminuindo-se a velocidade de perfusão.
+De seguida, é apresentada uma lista dos efeitos secundários comunicados com KIOVIG:
+
+
+
+
+
+Efeitos secundários muito frequentes (podem afetar mais de 1 em cada 10 doentes):
+Dor de cabeça, tensão alta, náuseas, erupção cutânea, reações locais (p. ex., dor e inchaço ou
+outras reações no local de administração), febre, fadiga.
+Efeitos secundários frequentes (podem afetar 1 a 10 em cada 100 doentes):
+Bronquite, constipação, número baixo de glóbulos vermelhos, gânglios linfáticos inchados,
+apetite diminuído, dificuldade em dormir, ansiedade, tonturas, enxaqueca, adormecimento ou
+formigueiro na pele ou num membro, diminuição da sensibilidade ao toque, inflamação dos
+olhos, batimento cardíaco acelerado, rubor (vermelhidão), tosse, nariz com corrimento, tosse
+crónica ou respiração com ruído (asma), nariz entupido, dor de garganta, dispneia (dificuldade
+em respirar), diarreia, vómitos, dor abdominal, indigestão, contusão, comichão e urticária,
+dermatite, pele avermelhada, dor nas costas, dor nas articulações, dor nos braços ou pernas, dor
+muscular, cãibras musculares, fraqueza muscular, calafrios, acumulação de líquido sob a pele,
+estado gripal, dor ou desconforto no peito, falta de força ou sensação de fraqueza, mal-estar,
+arrepios.
+Efeitos secundários pouco frequentes (podem afetar 1 a 10 em cada 1.000 doentes):
+Sinusite crónica, infeção fúngica, várias infeções (do nariz, garganta, rim ou bexiga), meningite
+assética, reações alérgicas graves, doença da tiroide, resposta excessiva a estímulos, problemas
+de memória, dificuldade em falar, sabor estranho na boca, perturbação do equilíbrio, tremor
+involuntário, dor nos olhos ou inchaço dos olhos, vertigem, líquido no ouvido médio, frio nas
+extremidades, inflamação de uma veia, inchaço dos ouvidos e da garganta, distensão abdominal,
+inchaço rápido da pele, inflamação aguda da pele, suores frios, aumento da reação da pele à luz
+solar, suor em excesso também durante o sono, fasciculações musculares, excesso de proteína
+sérica na urina, sensação de aperto no peito, sensação de calor, sensação de ardor, inchaço,
+frequência respiratória aumentada, alteração do resultado de análises ao sangue.
+
+33
+
+
+
+Desconhecido (não pode ser calculado a partir dos dados disponíveis):
+Destruição dos eritrócitos, choque alérgico com perigo de vida, AVC transitório, AVC, tensão
+arterial baixa, ataque do coração, coágulo sanguíneo numa veia principal, coágulo sanguíneo na
+artéria principal do pulmão, acumulação de líquido no pulmão, resultado positivo do teste de
+Coombs, saturação de oxigénio diminuída no sangue, lesão traumática pulmonar aguda
+relacionada com transfusão.
+
+Comunicação de efeitos secundários
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+secundários diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos secundários, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+5.
+
+Como conservar KIOVIG
+
+
+
+
+
+
+
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso no rótulo e cartonagem a
+seguir a EXP. O prazo de validade corresponde ao último dia do mês indicado.
+Não utilize este medicamento se verificar partículas ou descoloração.
+Não armazenar a mais de 25ºC
+Não congelar.
+Manter o recipiente dentro da embalagem exterior para o proteger da luz.
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de KIOVIG
+
+
+
+
+A substância ativa de KIOVIG é imunoglobulina humana normal.
+1 ml de KIOVIG contém 100 mg de proteína humana da qual pelo menos 98%
+é imunoglobulina G (IgG).
+Os outros componentes (excipientes) são glicina e água para preparações injetáveis.
+
+Qual o aspeto de KIOVIG e conteúdo da embalagem
+KIOVIG é uma solução para perfusão dentro de frascos para injetáveis
+de 10, 25, 50, 100, 200 ou 300 ml. A solução é transparente ou ligeiramente opalescente e sem cor ou
+amarelo claro.
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado:
+Takeda Manufacturing Austria AG
+Industriestrasse 67
+A-1221 Viena
+Áustria
+Fabricante:
+Baxalta Belgium Manufacturing SA
+Boulevard René Branquart, 80
+B-7860 Lessines
+Bélgica
+
+34
+
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Takeda Belgium NV
+Tel/Tél: +32 2 464 06 11
+medinfoEMEA@takeda.com
+
+Lietuva
+Takeda, UAB
+Tel: +370 521 09 070
+medinfoEMEA@takeda.com
+
+България
+Такеда България ЕООД
+Тел.: +359 2 958 27 36
+medinfoEMEA@takeda.com
+
+Luxembourg/Luxemburg
+Takeda Belgium NV
+Tel/Tél: +32 2 464 06 11
+medinfoEMEA@takeda.com
+
+Česká republika
+Takeda Pharmaceuticals Czech Republic s.r.o.
+Tel: +420 234 722 722
+medinfoEMEA@takeda.com
+
+Magyarország
+Takeda Pharma Kft.
+Tel: +36 1 270 7030
+medinfoEMEA@takeda.com
+
+Danmark
+Takeda Pharma A/S
+Tlf: +45 46 77 10 10
+medinfoEMEA@takeda.com
+
+Malta
+Τakeda HELLAS SA
+Tel: +30 210 6387800
+medinfoEMEA@takeda.com
+
+Deutschland
+Takeda GmbH
+Tel: +49 (0)800 825 3325
+medinfoEMEA@takeda.com
+
+Nederland
+Takeda Nederland B.V.
+Tel: +31 20 203 5492
+medinfoEMEA@takeda.com
+
+Eesti
+Takeda Pharma AS
+Tel: +372 6177 669
+medinfoEMEA@takeda.com
+
+Norge
+Takeda AS
+Tlf: +47 800 800 30
+medinfoEMEA@takeda.com
+
+Ελλάδα
+Τakeda ΕΛΛΑΣ ΑΕ
+Tηλ: +30 210 6387800
+medinfoEMEA@takeda.com
+
+Österreich
+Takeda Pharma Ges.m.b.H.
+Tel: +43 (0) 800-20 80 50
+medinfoEMEA@takeda.com
+
+España
+Takeda Farmacéutica España S.A
+Tel: +34 917 90 42 22
+medinfoEMEA@takeda.com
+
+Polska
+Takeda Pharma Sp. z o.o.
+tel: +48223062447
+medinfoEMEA@takeda.com
+
+France
+Takeda France SAS
+Tel. + 33 1 40 67 33 00
+medinfoEMEA@takeda.com
+
+Portugal
+Takeda Farmacêuticos Portugal, Lda.
+Tel: + 351 21 120 1457
+medinfoEMEA@takeda.com
+
+Hrvatska
+Takeda Pharmaceuticals Croatia d.o.o.
+Tel: +385 1 377 88 96
+medinfoEMEA@takeda.com
+
+România
+Takeda Pharmaceuticals SRL
+Tel: +40 21 335 03 91
+medinfoEMEA@takeda.com
+
+Ireland
+Takeda Products Ireland Ltd
+Tel: 1800 937 970
+
+Slovenija
+Takeda Pharmaceuticals farmacevtska družba d.o.o.
+Tel: + 386 (0) 59 082 480
+35
+
+medinfoEMEA@takeda.com
+
+medinfoEMEA@takeda.com
+
+Ísland
+Vistor hf.
+Sími: +354 535 7000
+medinfoEMEA@takeda.com
+
+Slovenská republika
+Takeda Pharmaceuticals Slovakia s.r.o.
+Tel: +421 (2) 20 602 600
+medinfoEMEA@takeda.com
+
+Italia
+Takeda Italia S.p.A.
+Tel: +39 06 502601
+medinfoEMEA@takeda.com
+
+Suomi/Finland
+Takeda Oy
+Puh/Tel: 0800 774 051
+medinfoEMEA@takeda.com
+
+Κύπρος
+Τakeda ΕΛΛΑΣ ΑΕ
+Τηλ: +30 210 6387800
+medinfoEMEA@takeda.com
+
+Sverige
+Takeda Pharma AB
+Tel: 020 795 079
+medinfoEMEA@takeda.com
+
+Latvija
+Takeda Latvia SIA
+Tel: +371 67840082
+medinfoEMEA@takeda.com
+
+United Kingdom (Northern Ireland)
+Takeda UK Ltd
+Tel: +44 (0) 2830 640 902
+medinfoEMEA@takeda.com
+
+Este folheto foi revisto pela última vez em .
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu/.
+A informação que se segue destina-se apenas aos profissionais de saúde:
+Modo de administração
+
+
+
+
+
+
+KIOVIG só deve ser administrado por via intravenosa. Não foram avaliadas outras vias de
+administração.
+KIOVIG deve ser perfundido por via intravenosa a uma velocidade inicial de 0,5 ml/kg peso
+corporal/hora durante 30 minutos. Se bem tolerado, a velocidade de administração poderá ser
+gradualmente aumentada até ao máximo de 6 ml/kg peso corporal/hora. A informação clínica
+obtida de um número limitado de doentes indica também que doentes IDP adultos podem tolerar
+velocidades de perfusão até 8 ml/kg PC/h.
+Se for necessário diluir para concentrações mais baixas antes da perfusão, KIOVIG pode ser
+diluído com solução de glucose a 5% para uma concentração final de 50 mg/ml
+(5% imunoglobulina).
+Qualquer acontecimento adverso relacionado com a perfusão deve ser tratado diminuindo as
+velocidades de perfusão ou interrompendo a perfusão.
+
+Precauções especiais
+
+
+
+Qualquer acontecimento adverso relacionado com a perfusão deve ser tratado diminuindo a
+velocidade de perfusão ou interrompendo a perfusão.
+É recomendado que sempre que for administrado KIOVIG, o nome e o número de lote do
+medicamento sejam registados.
+
+36
+
+Incompatibilidades
+Este medicamento não deve ser misturado com outros medicamentos.
+Precauções especiais de utilização
+
+
+Após diluição é recomendada a utilização imediata. A estabilidade de KIOVIG após diluição
+com uma solução de glucose a 5% para uma concentração de 50 mg/ml (5% imunoglobulina)
+foi demonstrada para 21 dias entre 2º C e 8º C assim como entre 28º C e 30º C, no entanto, estes
+estudos não cobrem a contaminação microbiana e aspetos de segurança.
+
+Instruções de manipulação e eliminação
+
+
+
+
+
+
+
+O medicamento deve ser levado à temperatura ambiente ou à temperatura corporal antes
+da utilização.
+Antes da administração, KIOVIG deve ser visualmente inspecionado quanto a partículas
+e descoloração. Apenas devem ser administradas soluções transparentes a ligeiramente
+opalescentes e incolores a amarelo pálido. Não utilizar se forem observadas partículas ou
+descoloração.
+Ser for necessário diluir deve ser utilizada solução de glucose a 5%. Para obter uma solução
+de imunoglobulina a 50 mg/ml (5%), KIOVIG 100 mg/ ml (10%) deve ser diluído com um
+volume igual de solução de glucose. Recomenda-se que durante a diluição seja minimizado
+o risco de contaminação microbiana.
+Os medicamentos não utilizados ou os resíduos devem ser eliminados de acordo com
+as exigências locais.
+
+Posologia recomendada
+Indicação
+Terapêutica de substituição em
+imunodeficiência primária
+
+Terapêutica de substituição em
+imunodeficiência secundária
+
+Dosagem
+dose inicial:
+0,4 – 0,8 g/kg
+
+Frequência de injeções
+
+dose de manutenção:
+0,2 – 0,8 g/kg
+
+a cada 3 – 4 semanas para obter um
+nível mínimo de IgG de pelo
+menos 5 – 6 g/l
+
+0,2 – 0,4 g/kg
+
+a cada 3 – 4 semanas para obter um
+nível mínimo de IgG de pelo
+menos 5 – 6 g/l
+
+0,8 – 1 g/kg
+
+no primeiro dia, se possível repetida
+uma vez no espaço de 3 dias
+
+Imunomodulação:
+Trombocitopenia imune primária
+
+ou
+
+Síndrome de Guillain Barré
+Doença de Kawasaki
+
+0,4 g/kg/d
+
+durante 2 – 5 dias
+
+0,4 g/kg/d
+
+durante 5 dias
+
+2 g/kg
+
+37
+
+numa dose, em associação com
+ácido acetilsalicílico
+
+Indicação
+Polirradiculoneuropatia desmielinizante
+inflamatória crónica (PDIC)
+
+Dosagem
+dose inicial: 2 g/kg
+dose de manutenção:
+1 g/kg
+
+Neuropatia motora multifocal (NMM)
+
+dose inicial:
+2 g/kg
+dose de manutenção:
+1 g/kg
+ou
+2 g/kg
+
+38
+
+Frequência de injeções
+em doses divididas ao longo de
+2 – 5 dias
+a cada 3 semanas ao longo de
+1 – 2 dias
+administrado ao longo de 2 – 5 dias
+a cada 2 a 4 semanas
+ou
+a cada 4 a 8 semanas ao longo de
+2 – 5 dias.
+
+

@@ -1,0 +1,2992 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Pede-se aos profissionais de saúde que notifiquem quaisquer suspeitas
+de reações adversas. Para saber como notificar reações adversas, ver secção 4.8.
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 20 mg comprimidos revestidos por película
+Evrenzo 50 mg comprimidos revestidos por película
+Evrenzo 70 mg comprimidos revestidos por película
+Evrenzo 100 mg comprimidos revestidos por película
+Evrenzo 150 mg comprimidos revestidos por película
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Evrenzo 20 mg comprimidos revestidos por película
+Cada comprimido contém 20 mg de roxadustate.
+Evrenzo 50 mg comprimidos revestidos por película
+Cada comprimido contém 50 mg de roxadustate.
+Evrenzo 70 mg comprimidos revestidos por película
+Cada comprimido contém 70 mg de roxadustate.
+Evrenzo 100 mg comprimidos revestidos por película
+Cada comprimido contém 100 mg de roxadustate.
+Evrenzo 150 mg comprimidos revestidos por película
+Cada comprimido contém 150 mg de roxadustate.
+Excipiente(s) com efeito conhecido
+Cada comprimido revestido por película de 20 mg contém 40,5 mg de lactose, 0,9 mg de laca de
+alumínio Allura Red AC e 0,21 mg de lecitina de soja.
+Cada comprimido revestido por película de 50 mg contém 101,2 mg de lactose, 1,7 mg de laca de
+alumínio Allura Red AC e 0,39 mg de lecitina de soja.
+Cada comprimido revestido por película de 70 mg contém 141,6 mg de lactose, 2,1 mg de laca de
+alumínio Allura Red AC e 0,47 mg de lecitina de soja.
+Cada comprimido revestido por película de 100 mg contém 202,4 mg de lactose, 2,8 mg de laca de
+alumínio Allura Red AC e 0,63 mg de lecitina de soja.
+Cada comprimido revestido por película de 150 mg contém 303,5 mg de lactose, 3,7 mg de laca de
+alumínio Allura Red AC e 0,84 mg de lecitina de soja.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimidos revestidos por película (comprimidos).
+Evrenzo 20 mg comprimidos
+Comprimidos vermelhos, ovais (aproximadamente 8 mm × 4 mm) com o número "20" em relevo num
+dos lados.
+
+2
+
+Evrenzo 50 mg comprimidos
+Comprimidos vermelhos, ovais (aproximadamente 11 mm × 6 mm) com o número "50" em relevo
+num dos lados.
+Evrenzo 70 mg comprimidos
+Comprimidos vermelhos, redondos (aproximadamente 9 mm) com o número "70" em relevo num dos
+lados.
+Evrenzo 100 mg comprimidos
+Comprimidos vermelhos, ovais (aproximadamente 14 mm × 7 mm) com o número "100" em relevo
+num dos lados.
+Evrenzo 150 mg comprimidos
+Comprimidos vermelhos, em forma de amêndoa (aproximadamente 14 mm × 9 mm) com o número
+"150" em relevo num dos lados.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+Evrenzo é indicado no tratamento de doentes adultos com anemia sintomática associada a doença renal
+crónica (DRC).
+4.2
+
+Posologia e modo de administração
+
+O tratamento com roxadustate deve ser iniciado por um médico com experiência no tratamento da
+anemia. Todas as outras causas de anemia devem ser avaliadas antes de iniciar a terapêutica com
+Evrenzo e quando se decidir aumentar a dose.
+Os sintomas e sequelas da anemia podem variar com a idade, o sexo e o impacto global da doença; é
+necessária uma avaliação médica da condição e do percurso clínico do doente individual. Além da
+presença de sintomas de anemia, outros critérios podem ser relevantes no âmbito da avaliação da
+condição e do percurso clínico do doente individual, tais como a taxa de diminuição da concentração
+de hemoglobina (Hb), a resposta anterior à terapêutica com ferro e o risco de necessidade de transfusão
+de glóbulos vermelhos (RBC).
+Posologia
+A dose apropriada de roxadustate tem de ser tomada por via oral, três vezes por semana, em dias não
+consecutivos.
+A dose deve ser ajustada individualmente de modo a alcançar e manter níveis alvo de Hb
+entre 10 e 12 g/dl, conforme descrito abaixo.
+O tratamento com roxadustate não deve ser continuado além das 24 semanas de terapêutica se não se
+alcançar um aumento clinicamente significativo dos níveis de Hb. Deverão ser procuradas explicações
+alternativas para a resposta inadequada, e proceder ao tratamento das mesmas, antes de retomar
+Evrenzo.
+Dose inicial no início do tratamento
+A presença de reservas adequadas de ferro deve ser assegurada antes de iniciar o tratamento.
+Doentes atualmente sem tratamento com um agente estimulador da eritropoiese (ESA)
+Nos doentes a iniciar o tratamento da anemia, que não tenham recebido tratamento prévio com ESA, a
+dose inicial recomendada de roxadustate é de 70 mg três vezes por semana em doentes com peso
+inferior a 100 kg e de 100 mg três vezes por semana em doentes com peso igual ou superior a 100 kg.
+
+3
+
+Conversão de doentes em tratamento com um ESA
+Os doentes atualmente em tratamento com um ESA podem ser convertidos para roxadustate. No
+entanto, a conversão de doentes em diálise, mas estáveis a receber tratamento com um ESA, apenas
+deve ser considerada quando existir um motivo clínico válido (ver secções 4.4 e 5.1).
+Não foi investigada a conversão de doentes que não estão em diálise e que se apresentam estáveis a
+receber tratamento com um ESA. A decisão de tratar estes doentes com roxadustate deve basear-se
+numa ponderação individual dos benefícios e riscos para o doente.
+A dose inicial recomendada de roxadustate é baseada na dose média de ESA prescrita nas 4 semanas
+anteriores à conversão (ver Tabela 1). A primeira dose de roxadustate deve substituir a próxima dose
+agendada da terapêutica atual com ESA.
+Tabela 1. Doses iniciais de roxadustate que devem ser tomadas três vezes por semana na
+conversão de doentes em tratamento com um ESA
+Dose de darbepoetina
+Dose de epoetina
+Dose de
+alfa por via
+por via
+Dose de
+roxadustate
+intravenosa ou
+intravenosa ou
+metoxipolietilenoglicol-epoetina (miligramas
+subcutânea
+subcutânea
+beta por via intravenosa ou
+três vezes
+(microgramas/semana) (UI/semana)
+subcutânea (microgramas/mês) por semana)
+Menos de 25
+Entre 25 e menos de 40
+Entre 40 e 80, inclusive
+Mais de 80
+
+Menos de 5 000
+Entre 5 000 e
+menos de 8 000
+Mais de 8 000 e
+até 16 000,
+inclusive
+Mais de 16 000
+
+Menos de 80
+
+70
+
+Entre 80 e 120, inclusive
+
+100
+
+Entre mais de 120 e 200,
+inclusive
+
+150
+
+Mais de 200
+
+200
+
+ESA: agente estimulador da eritropoiese
+Ajuste da dose e monitorização da Hb
+A dose de manutenção individualizada situa-se entre 20 mg e 400 mg três vezes por semana (ver a
+secção dose máxima recomendada). Os níveis de Hb devem ser monitorizados a cada duas semanas
+até atingir um nível estável de Hb entre 10 e 12 g/dl e, subsequentemente, a cada 4 semanas ou quando
+for clinicamente indicado.
+A dose de roxadustate pode ser aumentada ou diminuída gradualmente face à dose inicial, sendo este
+ajuste efetuado 4 semanas após o início do tratamento, e a cada 4 semanas subsequentemente, exceto
+se a Hb apresentar um aumento superior a 2 g/dl em que, neste caso, a dose deve ser imediatamente
+diminuída. Ao ajustar a dose de roxadustate, o nível atual de Hb e a velocidade de alteração recente do
+nível de Hb durante as 4 semanas anteriores devem ser considerados, seguindo os passos de ajuste da
+dose de acordo com o algoritmo de ajuste da dose descrito na Tabela 2.
+O aumento ou a diminuição gradual da dose deve seguir a sequência de doses disponíveis:
+20 mg-40 mg-50 mg-70 mg-100 mg-150 mg-200 mg-250 mg-300 mg-400 mg (apenas para doentes
+com DRC em diálise).
+Tabela 2. Regras para ajuste da dose
+Alteração na Hb
+durante as
+últimas 4 semanas1
+Inferior a 10,5
+Alteração no valor
+Sem alteração
+superior a
++1,0 g/dl
+Alteração no valor
+Aumentar a dose
+entre
+num passo
+
+Nível atual de Hb (g/dl):
+10,5 a 11,9
+Reduzir a dose
+num passo
+
+12,0 a 12,9
+Reduzir a dose
+num passo
+
+Sem alteração
+
+Reduzir a dose
+num passo
+
+4
+
+13,0 ou superior
+Suspender a
+dosagem,
+monitorizar o nível
+de Hb e retomar a
+dosagem quando o
+
+Alteração na Hb
+durante as
+últimas 4 semanas1
+-1,0 e +1,0 g/dl
+
+Nível atual de Hb (g/dl):
+Inferior a 10,5
+
+10,5 a 11,9
+
+12,0 a 12,9
+
+13,0 ou superior
+nível de Hb for
+inferior a 12,0 g/dl,
+com uma dose
+reduzida em dois
+passos
+
+Alteração no valor
+Aumentar a dose Aumentar a
+Sem alteração
+inferior a
+num passo
+dose num
+-1,0 g/dl
+passo
+A dose de roxadustate não deve ser ajustada mais frequentemente do que uma vez a cada 4 semanas,
+exceto se a Hb apresentar um aumento superior a 2 g/dl em qualquer momento durante um período
+de 4 semanas em que, neste caso, a dose deve ser imediatamente diminuída num passo.
+1
+Alteração na hemoglobina (Hb) durante as últimas 4 semanas = (valor atual de Hb) – (valor anterior
+de Hb da colheita de há 4 semanas).
+Se uma redução adicional da dose for necessária num doente que já esteja a receber a dose mais baixa
+(20 mg três vezes por semana), não parta o comprimido de 20 mg para reduzir a dose. Em vez disso,
+reduza a frequência da dose para duas vezes por semana. Se for necessária uma diminuição adicional
+da dose, é possível reduzir a frequência da dose para uma vez por semana.
+Dose de manutenção
+Após a estabilização dos níveis alvo de Hb entre 10 e 12 g/dl, os níveis de Hb devem continuar a ser
+monitorizados regularmente e as regras para o ajuste da dose devem ser seguidas (ver Tabela 2).
+Doentes que iniciam diálise durante o tratamento com roxadustate
+Não é necessário qualquer ajuste da dose específico nos doentes com DRC que iniciam diálise
+enquanto estão a receber tratamento com roxadustate. Devem ser seguidas as regras normais para
+ajuste da dose (ver Tabela 2).
+Tratamento concomitante de roxadustate com indutores ou inibidores
+Ao iniciar ou descontinuar o tratamento concomitante com inibidores fortes (p. ex., gemfibrozil) ou
+indutores (p. ex., rifampicina) da CYP2C8, ou inibidores (p. ex., probenecid) da UGT1A9: os níveis de
+Hb devem ser monitorizados regularmente e as regras para o ajuste da dose devem ser seguidas (ver
+Tabela 2; ver também as secções 4.5 e 5.2).
+Dose máxima recomendada
+Os doentes que não estão em diálise não podem exceder uma dose de roxadustate de 3 mg/kg de peso
+corporal ou 300 mg três vezes por semana, sendo aplicável a dose mais baixa.
+Os doentes em diálise não podem exceder uma dose de roxadustate de 3 mg/kg de peso corporal
+ou 400 mg três vezes por semana, sendo aplicável a dose mais baixa.
+Omissão de dose
+Se for esquecida uma dose e faltar mais de 1 dia para a próxima dose agendada, a dose em falta tem de
+ser tomada assim que for possível. Se faltar 1 dia ou menos para a próxima dose agendada, a dose em
+falta não pode ser tomada e a dose seguinte tem de ser tomada no próximo dia agendado. Em qualquer
+um destes casos, o calendário regular de dosagem deve ser retomado subsequentemente.
+Populações especiais
+Idosos
+Não é necessário qualquer ajuste da dose inicial em doentes idosos (ver secção 5.2).
+Doentes com compromisso hepático
+Não é necessário qualquer ajuste da dose inicial em doentes com compromisso hepático ligeiro (classe
+A Child-Pugh) (ver secções 4.4 e 5.2).
+
+5
+
+Recomenda-se precaução ao prescrever roxadustate a doentes com compromisso hepático moderado.
+A dose inicial deve ser reduzida para metade ou para o nível de dose mais próximo de metade da dose
+inicial quando se iniciar o tratamento em doentes com compromisso hepático moderado (classe B
+Child-Pugh). A utilização de Evrenzo não é recomendada em doentes com compromisso hepático
+grave (classe C Child-Pugh), uma vez que a segurança e eficácia não foram avaliadas nesta população
+(ver secções 4.4 e 5.2).
+População pediátrica
+A segurança e eficácia de roxadustate em doentes pediátricos (com menos de 18 anos de idade) não
+foram estabelecidas. Não existem dados disponíveis.
+Modo de administração
+Os comprimidos revestidos por película Evrenzo devem ser tomados por via oral, com ou sem
+alimentos. Os comprimidos devem ser engolidos inteiros e não devem ser mastigados, partidos ou
+esmagados, devido à ausência de dados clínicos nessas condições e de modo a proteger o núcleo
+fotossensível do comprimido contra a fotodegradação.
+Os comprimidos devem ser tomados pelo menos 1 hora após a administração de captadores de fosfato
+(exceto lantânio) ou outros medicamentos que contenham catiões multivalentes, tais como cálcio,
+ferro, magnésio ou alumínio (ver secções 4.5 e 5.2).
+4.3
+
+Contraindicações
+
+Evrenzo é contraindicado nas seguintes condições:
+•
+Hipersensibilidade à substância ativa, aos amendoins, à soja, ou a qualquer um dos excipientes
+mencionados na secção 6.1.
+•
+Terceiro trimestre da gravidez (ver secções 4.4 e 4.6).
+•
+Amamentação (ver secção 4.6).
+4.4
+
+Advertências e precauções especiais de utilização
+
+Risco de mortalidade e cardiovascular
+Globalmente, o risco de mortalidade e cardiovascular associado ao tratamento com roxadustate foi
+calculado como sendo comparável ao risco de mortalidade e cardiovascular associado à terapêutica
+com um ESA, com base nos dados da comparação direta entre as duas terapêuticas (ver secção 5.1).
+Não foi possível calcular este risco com um grau de confiança suficiente vs. placebo para os doentes
+com anemia associada à DRC que não estavam em diálise, pelo que a decisão de tratar estes doentes
+com roxadustate deve basear-se numa ponderação semelhante à que seria feita antes de iniciar o
+tratamento com um ESA. Adicionalmente, foram identificados vários fatores contribuintes que podem
+impor este risco, incluindo a ausência de resposta ao tratamento e a conversão de doentes em diálise
+estáveis a receber tratamento com um ESA (ver secções 4.2 e 5.1). No caso da ausência de resposta, o
+tratamento com roxadustate não deve ser continuado além das 24 semanas após o início do tratamento
+(ver secção 4.2). A conversão de doentes em diálise, mas estáveis, a receber tratamento com um ESA
+apenas deve ser considerada quando existir um motivo clínico válido (ver secção 4.2). Não foi possível
+calcular este risco nos doentes estáveis a receber tratamento com um ESA, apresentando anemia
+associada à DRC e que não estão em diálise, uma vez que este grupo de doentes não foi estudado. A
+decisão de tratar estes doentes com roxadustate deve basear-se numa ponderação individual dos
+benefícios e riscos para o doente.
+Eventos vasculares trombóticos
+O risco de eventos vasculares trombóticos (EVT) notificado deve ser cuidadosamente ponderado
+relativamente aos possíveis benefícios do tratamento com roxadustate, sobretudo nos doentes com
+fatores de risco pré-existentes de EVT, incluindo obesidade e antecedentes de EVT (p. ex., trombose
+venosa profunda [TVP] e embolia pulmonar [EP]). Entre os doentes nos estudos clínicos, a TVP foi
+notificada como frequente e a EP foi notificada como pouco frequente. A maioria dos eventos de TVP
+e EP foram graves.
+6
+
+Entre os doentes com DRC em diálise nos estudos clínicos, a trombose do acesso vascular (TAV) foi
+notificada como muito frequente (ver secção 4.8).
+Nos doentes com DRC em diálise, as ocorrências de TAV nos doentes tratados com roxadustate foram
+mais frequentes durante as primeiras 12 semanas após o início do tratamento, com valores de Hb
+superiores a 12 g/dl e no contexto de um aumento da Hb superior a 2 g/dl ao longo de 4 semanas.
+Recomenda-se a monitorização dos níveis de Hb e o ajuste da dose, seguindo as regras para esse efeito
+(ver Tabela 2), de modo a evitar níveis de Hb superiores a 12 g/dl e um aumento da Hb superior
+a 2 g/dl ao longo de 4 semanas.
+Os doentes com sinais e sintomas de EVT devem ser avaliados imediatamente e tratados de acordo
+com o tratamento de referência. A decisão de interromper ou descontinuar o tratamento deve basear-se
+numa ponderação individual dos benefícios e riscos para o doente.
+Convulsões
+Entre os doentes a receber roxadustate nos estudos clínicos, as convulsões foram notificadas como
+frequentes (ver secção 4.8). Roxadustate deve ser utilizado com precaução nos doentes com
+antecedentes de convulsões, epilepsia ou condições médicas associadas a uma predisposição para
+atividade convulsiva, tais como infeções do sistema nervoso central (SNC). A decisão de interromper
+ou descontinuar o tratamento deve basear-se numa ponderação individual dos benefícios e riscos para
+o doente.
+Infeções graves
+As infeções graves notificadas mais frequentemente foram pneumonia e infeções do trato urinário. Os
+doentes com sinais e sintomas de infeção devem ser avaliados imediatamente e tratados de acordo com
+o tratamento de referência.
+Sepsis
+A sepsis foi uma das infeções graves notificadas mais frequentemente e incluiu casos fatais. Os
+doentes com sinais e sintomas de sepsis (p. ex., uma infeção disseminada por todo o corpo, em
+conjunto com pressão arterial baixa e a possibilidade de insuficiência orgânica) devem ser avaliados
+imediatamente e tratados de acordo com o tratamento de referência.
+Hipotiroidismo secundário
+Foram notificados casos de hipotiroidismo secundário com a utilização de roxadustate (ver secção
+4.8). Estas reações foram reversíveis após a suspensão de roxadustate. A monitorização da função
+tiroideia é recomendada conforme indicação clínica.
+Resposta inadequada à terapêutica
+Uma resposta inadequada à terapêutica com roxadustate deverá desencadear a pesquisa de fatores
+causais. As carências nutricionais devem ser corrigidas. A presença de infeções intercorrentes, perda
+de sangue oculto, hemólise, toxicidade grave por alumínio, doenças hematológicas subjacentes ou
+fibrose da medula óssea também podem comprometer a resposta eritropoética. O número de
+reticulócitos deve ser considerado no âmbito da avaliação. Se as causas típicas da ausência de resposta
+forem excluídas e o doente apresentar reticulocitopenia, deverá considerar-se um exame da medula
+óssea. Se não existir uma causa tratável da resposta inadequada à terapêutica, a terapêutica com
+Evrenzo não deve ser continuada além das 24 semanas.
+Compromisso hepático
+Exige-se precaução ao administrar roxadustate a doentes com compromisso hepático moderado (classe
+B Child-Pugh). A utilização de Evrenzo não é recomendada em doentes com compromisso hepático
+grave (classe C Child-Pugh) (ver secção 5.2).
+Gravidez e contraceção
+Roxadustate não deve ser iniciado em mulheres que planeiem engravidar, durante a gravidez ou
+quando for diagnosticada anemia associada à DRC durante a gravidez. Nestes casos, deverá ser
+7
+
+iniciada outra terapêutica, se for apropriado. Se a gravidez ocorrer durante a administração de
+roxadustate, o tratamento deve ser descontinuado e deve ser iniciado um tratamento alternativo, se for
+apropriado. As mulheres com potencial para engravidar têm de utilizar métodos contracetivos
+altamente eficazes durante o tratamento e pelo menos uma semana após a última dose de Evrenzo (ver
+secções 4.3 e 4.6).
+Utilização inadequada
+A utilização inadequada pode resultar num aumento excessivo do hematócrito. Isto poderá estar
+associado a complicações potencialmente fatais no sistema cardiovascular.
+Excipientes
+Evrenzo contém lactose. Doentes com problemas hereditários raros de intolerância à galactose,
+deficiência total de lactase ou má absorção de glucose-galactose não devem tomar este medicamento.
+Evrenzo contém laca de alumínio Allura Red AC (ver secção 6.1) que pode causar reações alérgicas.
+Evrenzo contém vestígios de lecitina de soja. Os doentes com alergia ao amendoim ou soja não devem
+utilizar este medicamento.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Efeito de outros medicamentos sobre roxadustate
+Captadores de fosfato e outros produtos com catiões multivalentes
+A coadministração de roxadustate com captadores de fosfato carbonato de sevelâmero ou acetato de
+cálcio em indivíduos saudáveis diminuiu a AUC de roxadustate em 67% e 46% e a Cmáx. em 66%
+e 52%, respetivamente. Roxadustate pode formar um quelato com catiões multivalentes, tais como os
+presentes nos captadores de fosfato ou noutros produtos que contenham cálcio, ferro, magnésio ou
+alumínio. A administração desfasada dos captadores de fosfato (pelo menos com 1 hora de intervalo)
+não apresentou qualquer efeito clinicamente significativo sobre a exposição a roxadustate nos doentes
+com DRC. Roxadustate deve ser tomado pelo menos 1 hora após a administração de captadores de
+fosfato ou outros medicamentos ou suplementos que contenham catiões multivalentes (ver secção 4.2).
+Esta restrição não é aplicável ao carbonato de lantânio, uma vez que a coadministração de roxadustate
+com carbonato de lantânio não resultou numa alteração clinicamente significativa na exposição
+plasmática a roxadustate.
+Modificadores da atividade da CYP2C8 ou UGT1A9
+Roxadustate é um substrato da CYP2C8 e da UGT1A9. A coadministração de roxadustate com
+gemfibrozil (um inibidor da CYP2C8 e OATP1B1) ou probenecid (um inibidor da UGT e
+OAT1/OAT3) em indivíduos saudáveis aumentou a AUC de roxadustate para um valor 2,3 vezes
+superior e a Cmáx. para um valor 1,4 vezes superior. Monitorize os níveis de Hb ao iniciar ou
+descontinuar o tratamento concomitante com gemfibrozil, probenecid ou outros inibidores fortes ou
+indutores da CYP2C8 ou outros inibidores fortes da UGT1A9. Ajuste a dose de roxadustate de acordo
+com as regras para ajuste da dose (ver Tabela 2), com base na monitorização da Hb.
+Efeitos de roxadustate sobre outros medicamentos
+Substratos da OATP1B1 ou BCRP
+Roxadustate é um inibidor da BCRP e da OATP1B1. Estes transportadores desempenham um papel
+importante na captação e efluxo de estatinas ao nível do intestino e fígado. A coadministração
+de 200 mg de roxadustate com sinvastatina em indivíduos saudáveis aumentou a AUC e a Cmáx. da
+sinvastatina para valores 1,8 e 1,9 vezes superiores, respetivamente, e a AUC e a Cmáx. do ácido de
+sinvastatina (o metabolito ativo da sinvastatina) para valores 1,9 e 2,8 vezes superiores,
+respetivamente. As concentrações de sinvastatina e de ácido de sinvastatina também aumentaram
+quando a sinvastatina foi administrada 2 horas antes ou 4 ou 10 horas depois de roxadustate. A
+coadministração de 200 mg de roxadustate com rosuvastatina aumentou a AUC e Cmáx. da
+rosuvastatina para valores 2,9 e 4,5 vezes superiores, respetivamente. A coadministração de 200 mg de
+roxadustate com atorvastatina aumentou a AUC e a Cmáx. da atorvastatina para valores 2,0 e 1,3 vezes
+superiores, respetivamente.
+
+8
+
+São igualmente expectáveis interações com outras estatinas. Em caso de coadministração com
+roxadustate, tenha em consideração esta interação, mantenha a vigilância quanto a reações adversas
+associadas às estatinas e à necessidade de diminuir a dose de estatinas. Consulte as informações de
+prescrição das estatinas quando decidir individualmente qual a dose apropriada de estatina para os
+doentes.
+Roxadustate pode aumentar a exposição plasmática de outros medicamentos que são substratos da
+BCRP ou OATP1B1. Monitorize possíveis reações adversas dos medicamentos coadministrados e
+ajuste a dose conforme necessário.
+Roxadustate e ESAs
+A administração combinada de roxadustate e ESAs não é recomendada, visto que esta combinação não
+foi estudada.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez, mulheres com potencial para engravidar e contraceção
+Não existem dados sobre a utilização de roxadustate em mulheres grávidas. Os estudos em animais
+revelaram toxicidade reprodutiva (ver secção 5.3).
+Roxadustate é contraindicado durante o terceiro trimestre da gravidez (ver secções 4.3 e 4.4).
+Roxadustate não é recomendado durante o primeiro e segundo trimestres da gravidez (ver secção 4.4).
+Se a gravidez ocorrer durante a administração de Evrenzo, o tratamento deve ser descontinuado e
+substituído por um tratamento alternativo, se for apropriado (ver secção 4.3).
+Amamentação
+Desconhece-se se roxadustate/metabolitos são excretados no leite humano. Os dados disponíveis de
+estudos em animais mostraram excreção de roxadustate no leite (para mais pormenores ver
+secção 5.3). Evrenzo é contraindicado durante a amamentação (ver secções 4.3 e 5.3).
+Fertilidade
+Nos estudos em animais, não foram observados efeitos de roxadustate sobre a fertilidade masculina ou
+feminina. No entanto, foram observadas alterações nos órgãos reprodutores dos ratos do sexo
+masculino. Atualmente, não se conhecem os possíveis efeitos de roxadustate sobre a fertilidade
+masculina no ser humano. Numa dose materno-tóxica, observou-se um aumento da perda embrionária
+(ver secção 5.3). As mulheres com potencial para engravidar têm de utilizar métodos contracetivos
+altamente eficazes durante o tratamento e pelo menos uma semana após a última dose de Evrenzo.
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de roxadustate sobre a capacidade de conduzir e utilizar máquinas são reduzidos. Foram
+notificadas convulsões durante o tratamento com Evrenzo (ver secção 4.4). Por este motivo, devem ser
+tomadas precauções ao conduzir ou utilizar máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+A segurança de Evrenzo foi avaliada em 3 542 doentes não dependentes de diálise (NDD)
+e 3 353 doentes dependentes de diálise (DD) com anemia e DRC, que receberam pelo menos uma dose
+de roxadustate.
+As reações adversas mais frequentes (≥ 10%) associadas a roxadustate foram hipertensão (13,9%),
+trombose do acesso vascular (12,8%), diarreia (11,8%), edema periférico (11,7%), hipercaliemia
+(10,9%) e náuseas (10,2%).
+
+9
+
+As reações adversas graves mais frequentes (≥ 1%) associadas a roxadustate foram sepsis (3,4%),
+hipercaliemia (2,5%), hipertensão (1,4%) e trombose venosa profunda (1,2%).
+Lista tabelada de reações adversas
+As reações adversas observadas durante os estudos clínicos e/ou na experiência global póscomercialização estão listadas nesta secção por categoria de frequência.
+As categorias de frequência estão definidas da seguinte forma: muito frequentes (≥ 1/10); frequentes
+(≥ 1/100 a < 1/10); pouco frequentes (≥ 1/1 000 a < 1/100); raros (≥ 1/10 000 a < 1/1 000); muito raros
+(< 1/10 000); desconhecido (não pode ser calculado a partir dos dados disponíveis).
+Tabela 3. Reações adversas
+Classes de sistemas de
+órgãos (SOC) segundo a
+base de dados MedDRA
+Infeções e infestações
+
+Categoria de frequência
+
+Reação adversa
+
+Frequentes
+
+Sepsis
+
+Doenças endócrinas
+
+Desconhecido
+
+Hipotiroidismo secundário
+
+Doenças do metabolismo e
+da nutrição
+Perturbações do foro
+psiquiátrico
+Doenças do sistema nervoso
+
+Muito frequentes
+
+Hipercaliemia
+
+Frequentes
+
+Insónia
+
+Frequentes
+
+Convulsões, cefaleia
+
+Vasculopatias
+
+Muito frequentes
+Frequentes
+
+Hipertensão, trombose do acesso
+vascular (TAV)1
+Trombose venosa profunda (TVP)
+
+Muito frequentes
+
+Náuseas, diarreia
+
+Frequentes
+
+Obstipação, vómitos
+
+Afecções dos tecidos
+cutâneos e subcutâneos
+Afeções hepatobiliares
+
+Desconhecido2
+Pouco frequentes
+
+Dermatite Exfoliativa Generalizada
+(DEG)
+Hiperbilirrubinemia
+
+Doenças respiratórias,
+torácicas e do mediastino
+Perturbações gerais e
+alterações no local de
+administração
+Exames complementares de
+diagnóstico
+
+Pouco frequentes
+
+Embolia pulmonar
+
+Muito frequentes
+
+Edema periférico
+
+Desconhecido
+
+Tirotropina (TSH) no sangue
+diminuída
+
+Doenças gastrointestinais
+
+Esta reação adversa está associada a doentes com DRC que estavam em diálise durante o
+tratamento com roxadustate.
+1
+
+Descrição de reações adversas selecionadas
+Eventos vasculares trombóticos
+Nos doentes com DRC que não estavam em diálise, os eventos de TVP foram pouco frequentes,
+ocorrendo em 1,0% (0,6 doentes com eventos por 100 doente-anos de exposição) no grupo de
+roxadustate e em 0,2% (0,2 doentes com eventos por 100 doente-anos de exposição) no grupo placebo.
+Nos doentes com DRC em diálise, ocorreram eventos de TVP em 1,3% (0,8 doentes com eventos
+por 100 doente-anos de exposição) no grupo de roxadustate e em 0,3% (0,1 doentes com eventos
+por 100 doente-anos de exposição) no grupo de ESA (ver secção 4.4).
+Nos doentes com DRC que não estavam em diálise, foi observada embolia pulmonar em 0,4%
+(0,2 doentes com eventos por 100 doente-anos de exposição) no grupo de roxadustate, em comparação
+10
+
+com 0,2% (0,1 doentes com eventos por 100 doente-anos de exposição) no grupo de placebo. Nos
+doentes com DRC em diálise, foi observada embolia pulmonar em 0,6% (0,3 doentes com eventos
+por 100 doente-anos de exposição) no grupo de roxadustate, em comparação com 0,5% (0,3 doentes
+com eventos por 100 doente-anos de exposição) no grupo de ESA (ver secção 4.4).
+Nos doentes com DRC em diálise, foi observada trombose do acesso vascular (TAV) em 12,8%
+(7,6 doentes com eventos por 100 doente-anos de exposição) no grupo de roxadustate, em comparação
+com 10,2% (5,4 doentes com eventos por 100 doente-anos de exposição) no grupo de ESA (ver
+secção 4.4).
+Convulsões
+Nos doentes com DRC que não estavam em diálise, ocorreram convulsões em 1,1% (0,6 doentes com
+eventos por 100 doente-anos de exposição) no grupo de roxadustate e em 0,2% (0,2 doentes com
+eventos por 100 doente-anos de exposição) no grupo placebo (ver secção 4.4).
+Nos doentes com DRC em diálise, ocorreram convulsões em 2,0% (1,2 doentes com eventos
+por 100 doente-anos de exposição) no grupo de roxadustate e em 1,6% (0,8 doentes com eventos
+por 100 doente-anos de exposição) no grupo de ESA (ver secção 4.4).
+Sepsis
+Nos doentes com DRC que não estavam em diálise, foi observada sepsis em 2,1% (1,3 doentes com
+eventos por 100 doente-anos de exposição) no grupo de roxadustate, em comparação com 0,4%
+(0,3 doentes com eventos por 100 doente-anos de exposição) no grupo placebo. Nos doentes em
+diálise, foi observada sepsia em 3,4% (2,0 doentes com eventos por 100 doente-anos de exposição) no
+grupo de roxadustate, em comparação com 3,4% (1,8 doentes com eventos por 100 doente-anos de
+exposição) no grupo de ESA (ver secção 4.4).
+Reações cutâneas
+Durante a vigilância pós-comercialização, foi notificada dermatite exfoliativa generalizada, parte das
+reações adversas cutâneas graves (SCARs), e mostrou associação com o tratamento com roxadustate
+(frequência desconhecida).
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+A administração de doses únicas supraterapêuticas de 5 mg/kg de roxadustate (até 510 mg) em
+indivíduos saudáveis esteve associada com um aumento transitório da frequência cardíaca, frequência
+aumentada de dor musculosquelética ligeira a moderada, cefaleias, taquicardia sinusal e, menos
+frequentemente, pressão arterial baixa. Nenhum destes eventos foi grave. A sobredosagem de
+roxadustate pode aumentar os níveis de Hb acima do nível pretendido (10–12 g/dl), o que deverá ser
+controlado através da descontinuação ou diminuição da dosagem de roxadustate (ver secção 4.2) e de
+uma monitorização atenta e tratamento quando for clinicamente indicado. Roxadustate e os respetivos
+metabolitos não são removidos significativamente pela hemodiálise (ver secção 5.2).
+5.
+5.1
+
+PROPRIEDADES FARMACOLÓGICAS
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: preparações antianémicas, outras preparações antianémicas, código ATC:
+B03XA05.
+
+11
+
+Mecanismo de ação
+Roxadustate é um inibidor da enzima prolil-hidroxilase do fator induzível por hipóxia, prolil
+hidroxilase (HIF-PHI). A atividade das enzimas HIF-PH controla os níveis intracelulares de HIF, um
+fator da transcrição que regula a expressão de genes envolvidos na eritropoiese. A ativação da via do
+HIF é importante na resposta adaptativa à hipóxia, aumentando a produção de glóbulos vermelhos.
+Através da inibição reversível da HIF-PH, roxadustate estimula uma resposta eritropoiética
+coordenada que inclui o aumento dos níveis de eritropoietina endógena (EPO) no plasma, a regulação
+das proteínas transportadoras de ferro e a redução da hepcidina (uma proteína reguladora do ferro que
+se apresenta aumentada durante a inflamação na DRC). Isto resulta num aumento da
+biodisponibilidade de ferro, no aumento da produção de Hb e no aumento da massa dos glóbulos
+vermelhos.
+Efeitos farmacodinâmicos
+Efeitos sobre o QTc e frequência cardíaca
+Um estudo completo QT (TQT) em indivíduos saudáveis com roxadustate que avaliou uma única dose
+terapêutica de 2,75 mg/kg e uma única dose supraterapêutica de 5 mg/kg (até 510 mg) não apresentou
+um prolongamento do intervalo QTc. O mesmo estudo completo QT demonstrou um aumento da
+frequência cardíaca (corrigido em função do placebo) de até 9 a 10 bpm nas 8 a 12 h após a dose
+de 2,75 mg/kg e de 15 a 18 bpm nas 6 a 12 horas após a dose de 5 mg/kg.
+Eficácia e segurança clínicas
+Programa de desenvolvimento na anemia com DRC
+A eficácia e segurança de roxadustate foram avaliadas durante pelo menos 52 semanas num programa
+de fase 3 realizado globalmente, constituído por 8 estudos multicêntricos e aleatorizados que incluíram
+doentes não dependentes de diálise (NDD) e doentes dependentes de diálise (DD) com DRC e anemia
+(ver Tabela 4).
+Três estudos em doentes NDD com DRC de estádio 3-5 foram estudos em dupla ocultação e
+controlados por placebo (ALPS, 1517-CL-0608; ANDES, FGCL-4592-060; OLYMPUS,
+D5740C00001) e um estudo foi em regime aberto e controlado por
+ESA(DOLOMITES, 1517-CL-0610) utilizando a darbepoetina alfa como comparador. Todos os
+estudos NDD avaliaram a eficácia e segurança de doentes sem tratamento com ESA através da
+correção e subsequente manutenção do nível de Hb no intervalo alvo de 10 a 12 g/dl (contexto de
+correção da Hb).
+Quatro estudos DD em regime aberto e controlados por ESA (controlo: epoetina alfa e/ou darbepoetina
+alfa) em doentes em hemodiálise ou diálise peritoneal avaliaram a eficácia e segurança em diferentes
+contextos:
+•
+•
+•
+
+num contexto de correção da Hb (HIMALAYAS, FGCL-4592-063).
+num contexto de conversão de ESA, convertendo os doentes a partir de um tratamento com um
+ESA para manter a Hb no intervalo alvo (PYRENEES, 1517-CL-0613; SIERRAS,
+FGCL-4592-064).
+ou combinando as abordagens de correção de Hb e conversão de ESA (ROCKIES,
+D5740C00002).
+
+Os doentes nos estudos NDD tinham DRC de estádio 3 a 5 e não estavam a receber diálise. Todos os
+doentes apresentavam um nível médio de Hb ≤ 10,0 g/dl, exceto os doentes no estudo DOLOMITES
+(1517-CL-0610), os quais apresentavam um nível médio de Hb ≤ 10,5 g/dl. Os requisitos dos níveis de
+ferritina foram ≥ 30 ng/ml (ALPS, 1517-CL-0608; ANDES, FGCL-4592-060), ≥ 50 ng/ml
+(OLYMPUS, D5740C00001) ou ≥ 100 ng/ml (DOLOMITES, 1517-CL-0610). À exceção dos doentes
+no estudo (OLYMPUS, D5740C00001), o qual permitiu o tratamento com ESA até 6 semanas antes da
+aleatorização, os doentes não podiam ter recebido qualquer tratamento com ESA no período
+de 12 semanas antes da aleatorização.
+Os doentes nos estudos DD tinham de estar em diálise: DD estável para doentes no estudo
+PYRENEES (1517-CL-0613), a qual foi definida como diálise durante um período superior a 4 meses;
+12
+
+ou incidente (ID), DD para doentes no estudo HIMALAYAS (FGCL-4592-063), a qual foi definida
+como diálise ≥ 2 semanas, mas ≤ 4 meses. Os doentes nos estudos SIERRAS (FGCL-4592-064) e
+ROCKIES (D5740C00002) incluíram doentes DD em diálise estável (aproximadamente 80% a 90%) e
+ID (aproximadamente 10% a 20%). O requisito de ferritina foi de ≥ 100 ng/ml para todos os doentes.
+Todos os doentes receberam ESA intravenoso ou subcutâneo durante pelo menos 8 semanas antes da
+aleatorização, exceto os doentes no estudo HIMALAYAS (FGCL-4592-063), o qual excluiu os
+doentes que receberam qualquer tratamento com ESA nas 12 semanas antes da aleatorização.
+O tratamento com roxadustate seguiu os princípios das instruções de dosagem descritos na secção 4.2.
+As características demográficas inicias do estudo entre os estudos individuais foram comparáveis entre
+os grupos de roxadustate e controlo. A idade mediana no momento da aleatorização era
+de 55 a 69 anos, com cerca de 16,6% e 31,1% na faixa etária 65-74 e cerca de 6,8% e 35% com
+≥ 75 anos de idade. A percentagem de doentes do sexo feminino foi de 40,5% a 60,7%. As raças mais
+frequentemente representadas nos estudos foram: branca, negra, afro-americana e asiática. As
+etiologias mais frequentes da DRC foram diabetes e nefropatia hipertensiva. Os níveis medianos de Hb
+estavam entre 8,60 e 10,78 g/dl. Aproximadamente 50-60% dos doentes NDD e 80-90% dos doentes
+DD tinham reservas plenas de ferro no início do estudo.
+Os dados de sete estudos da fase 3 foram agrupados em duas populações distintas (três NDD e quatro
+DD) (ver Tabela 4).
+Três estudos NDD controlados por placebo (2 386 doentes com roxadustate; 1 884 doentes com
+placebo) foram incluídos no agrupamento NDD. Os dados do estudo NDD da fase 3 controlado por
+ESA DOLOMITES (1517-CL-0610; 323 doentes com roxadustate e 293 doentes com darbepoetina
+alfa) não estão incluídos nas análises agrupadas de NDD, uma vez que este estudo foi o único estudo
+em regime aberto e com controlo ativo na população NDD.
+Quatro estudos DD controlados por ESA (2 354 doentes com roxadustate; 2 360 doentes com ESA
+[epoetina alfa e/ou darbepoetina alfa]) foram incluídos no agrupamento DD. Foram estabelecidos dois
+subagrupamentos dentro do agrupamento de DD para refletir os dois contextos diferentes de
+tratamento:
+•
+•
+
+Os doentes na população DD que estavam em diálise há mais de 2 semanas e menos de 4 meses
+foram considerados doentes DD incidente (ID) (agrupamento ID DD), refletindo o contexto de
+correção da Hb.
+Os doentes DD que estavam em diálise após este limiar de quatro meses foram considerados
+doentes DD estáveis (agrupamento DD estável), refletindo o contexto de conversão de ESA.
+
+Tabela 4. Visão geral do programa de desenvolvimento de fase 3 de Roxadustate na anemia com
+DRC
+Estudos em doentes NDD
+Estudos controlados por placebo (agrupamento NDD)
+Controlo por
+ESA
+(darbepoetina
+alfa)
+Contexto
+Correção da Hb
+Estudo
+ALPS
+ANDES
+OLYMPUS
+DOLOMITES
+(1517-CL-0608) (FGCL-4592-060) (D5740C00001) (1517-CL-0610)
+Aleatorizado
+594
+916
+2 760
+616
+(roxadustate/
+(391/203)
+(611/305)
+(1 384/1 376)
+(323/293)
+comparador)
+Estudos em doentes DD
+Estudos controlados por ESA (agrupamento DD)
+(epoetina alfa ou darbepoetina alfa)
+Contexto
+Conversão de ESA
+Correção da Hb
+Conversão de
+ESA e correção
+de Hb
+13
+
+Estudo
+
+PYRENEES
+SIERRAS
+HIMALAYAS
+ROCKIES
+(1517-CL-0613) (FGCL-4592-064) (FGCL-4592-063) (D5740C00002)
+834
+740
+1 039
+2 101
+(414/420)
+(370/370)
+(522/517)
+(1 048/1 053)
+
+Aleatorizado
+(roxadustate/
+comparador)
+DD: dependente de diálise; ESA: agente estimulador da eritropoiese; Hb: hemoglobina;
+NDD: não dependente de diálise.
+
+Doentes NDD com DRC
+Resultados da eficácia
+Nível de Hb ao longo do tratamento
+Nos estudos clínicos, roxadustate foi eficaz em alcançar e manter os níveis alvo de Hb (10-12 g/dl) em
+doentes com anemia de DRC que não estavam em diálise (ver Figura 1).
+Figura 1. Hb média (SE) (g/dl) ao longo do tempo, até à semana 52 (FAS); agrupamento NDD
+(correção da Hb)
+
+FAS: conjunto completo de análise; Hb: hemoglobina; NDD: não dependente de diálise; SE: erro
+padrão.
+Principais endpoints de eficácia da Hb em doentes NDD com DRC
+Nos doentes NDD que exigiam tratamento da anemia para correção da Hb, a proporção de doentes que
+obtiveram resposta da Hb durante as primeiras 24 semanas foi maior no grupo de roxadustate (80,2%)
+em comparação com placebo (8,7%). Observou-se um aumento estatisticamente significativo da Hb
+entre o início do estudo e as semanas 28 a 36 no grupo de roxadustate (1,91 g/dl), em comparação com
+placebo (0,14 g/dl), e o limite inferior do intervalo de confiança de 95% é superior a 1. Nos estudos
+NDD, obteve-se um aumento da Hb de pelo menos 1 g/dl com um tempo mediano de 4,1 semanas (ver
+Tabela 5).
+No estudo NDD em regime aberto e controlado por ESA DOLOMITES (1517-CL-0610), a proporção
+de doentes que obtiveram resposta da Hb durante as primeiras 24 semanas foi não inferior no grupo de
+roxadustate (89,5%) em comparação com a darbepoetina alfa (78%) (ver Tabela 5).
+
+14
+
+Tabela 5. Principais endpoints de eficácia da Hb (NDD)
+População
+Doentes NDD com DRC
+Contexto
+Correção da Hb
+Correção da Hb
+Agrupamento NDD (FAS)
+DOLOMITES (PPS)
+1517-CL-0610
+Roxadustate
+Placebo
+Roxadustate Darbepoetina
+Endpoint/
+n = 2 368
+n = 1 865
+n = 286
+alfa
+Parâmetro
+n = 273
+Proporção de doentes que obtiveram resposta da Hb1
+Respondedores, n (%)
+1 899 (80,2)
+163 (8,7)
+256 (89,5)
+213 (78,0)
+[IC 95%]
+[78,5; 81,8]
+[7,5; 10,1]
+[85,4; 92,8]
+[72,6; 82,8]
+Diferença de proporções
+71,5 [69,40; 73,51]
+11,51 [5,66; 17,36]
+[IC 95%]
+Razão de probabilidade
+40,49 [33,01; 49,67]
+2,48 [1,53; 4,04]
+[IC
+95%]
+Valor p
+< 0,0001
+NR
+Alteração vs. início do estudo na Hb (g/dl)2
+Valor médio do início do estudo
+9,10 (0,74)
+9,10 (0,73)
+9,55 (0,76)
+9,54 (0,69)
+(SD)
+Valor médio de AvIE (SD)
+1,85 (1,07)
+0,17 (1,08)
+1,85 (1,08)
+1,84 (0,97)
+Valor médio de QM
+1,91
+0,14
+1,85
+1,84
+Diferença do valor médio de
+1,77 [1,69; 1,84]
+0,02 [-0,13; 0,16]
+QM [IC 95%]
+Valor p
+< 0,0001
+0,844
+AvIE: alteração vs. início do estudo; IC: intervalo de confiança; DRC: doença renal crónica; FAS:
+conjunto completo de análise; Hb: hemoglobina; QM: mínimos quadrados; NR: não realizado; NDD:
+não dependente de diálise; PPS: por conjunto de protocolo; SD: desvio padrão.
+1
+Resposta da Hb durante as primeiras 24 semanas.
+2
+Alteração vs. início do estudo na Hb até às Semanas 28 a 36.
+Doentes DD com DRC
+Nível de Hb ao longo do tratamento
+Nos estudos clínicos, roxadustate foi eficaz em alcançar e manter os níveis alvo de Hb (10–12 g/dl) em
+doentes com DRC em diálise, independentemente do tratamento prévio com ESA (ver Figuras 2 e 3).
+Figura 2. Hb média (SE) até à semana 52 (FAS); subagrupamento ID DD (correção da Hb)
+
+15
+
+DD: dependente de diálise; FAS: conjunto completo de análise; Hb: hemoglobina; ID: incidente; SE:
+erro padrão.
+Figura 3. Hb média (SE) (g/dl) ao longo do tempo, até à semana 52 (FAS); subagrupamento
+estável DD (conversão de ESA)
+
+DD: dependente de diálise; ESA: agente estimulador da eritropoiese; FAS: conjunto completo de
+análise; Hb: hemoglobina; SE: erro padrão.
+Principais endpoints de eficácia da Hb em doentes DD com DRC
+Nos doentes DD que exigiam tratamento da anemia para correção da Hb e que foram convertidos a
+partir do tratamento com ESA, observou-se um aumento da Hb entre o início do estudo e as
+semanas 28 a 36 no grupo de roxadustate; este aumento foi comparável ao observado no grupo de ESA
+e foi superior à margem de não inferioridade pré-especificada de -0,75 g/dl. A proporção de doentes
+que obtiveram resposta da Hb durante as primeiras 24 semanas foi semelhante nos grupos de
+roxadustate e de ESA (ver Tabela 6).
+Tabela 6. Principais endpoints de eficácia da Hb (DD)
+População
+Contexto
+Endpoint/
+Parâmetro
+
+Doentes DD
+
+Correção da Hb
+
+Conversão de ESA
+
+Agrupamento ID DD
+(FAS/PPS)
+
+Agrupamento DD estável
+(PPS)
+
+Roxadustate
+n = 756
+Alteração vs. início do estudo na Hb (g/dl)
+Valor médio do início do estudo
+(SD)
+8,77 (1,20)
+
+ESA
+n = 759
+
+Roxadustate
+n = 1 379
+
+ESA
+n = 1 417
+
+8,82 (1,20)
+
+10,32 (0,99)
+
+10,37 (0,99)
+
+Valor médio de AvIE (SD)
+
+2,37 (1,57)
+
+2,12 (1,46)
+
+0,65 (1,15)
+
+0,36 (1,23)
+
+Valor médio de QM
+
+2,17
+
+1,89
+
+0,58
+
+0,28
+
+Diferença do valor médio de QM
+[IC 95%]
+
+0,28 [0,110; 0,451]
+
+Valor p
+0,0013
+Proporção de doentes que obtiveram resposta da Hb 1,2
+Respondedores, n (%)
+[IC 95%]
+
+453 (59,9)
+[56,3; 63,4]
+16
+
+452 (59,6)
+[56,0; 63,1]
+
+0,30 [0,228; 0,373]
+< 0,0001
+978 (70,9)
+[68,4; 73,3]
+
+959 (67,7)
+[65,2; 70,1]
+
+Diferença de proporções [IC 95%]
+
+0,3 [-4,5; 5,1]
+
+2,7 [-0,7; 6,0]
+
+Razão de probabilidade [IC 95%]
+
+NR
+
+NR
+
+Valor p
+NR
+NR
+AvIE: alteração vs. início do estudo; IC: intervalo de confiança; DRC: doença renal crónica; DD:
+dependente de diálise; ESA: agente estimulador da eritropoiese; FAS: conjunto completo de análise;
+Hb: hemoglobina; ID: incidente; QM: mínimos quadrados; NR: não realizado; PPS: por conjunto de
+protocolo; SD: desvio padrão.
+1
+Hb dentro do intervalo alvo de 10,0 a 12,0 g/dl durante as semanas 28 a 36 sem ter recebido
+terapêutica de recurso nas 6 semanas anteriores e durante este período de avaliação de 8 semanas.
+2
+Os dados no agrupamento ID DD apenas foram analisados relativamente às semanas 28 a 52.
+Terapêutica de recurso, transfusões de glóbulos vermelhos e ferro por via intravenosa
+Os efeitos do tratamento com roxadustate sobre a utilização da terapêutica de recurso, transfusões de
+glóbulos vermelhos e ferro por via intravenosa estão apresentados na Tabela 7 (NDD) e
+Tabela 8 (DD). Nos estudos clínicos, roxadustate diminuiu a hepcidina (regulador do metabolismo do
+ferro), diminuiu a ferritina, aumentou o ferro sérico enquanto a saturação de transferrina foi estável,
+sendo todos estes parâmetros avaliados ao longo do tempo como indicadores do estado do ferro.
+Colesterol de lipoproteínas de baixa densidade (LDL)
+Os efeitos do tratamento com roxadustate sobre o colesterol LDL estão apresentados nas Tabelas 7 e 8.
+Observou-se uma redução nos níveis médios de colesterol LDL e da lipoproteína de alta densidade
+(HDL) nos doentes tratados com roxadustate, em comparação com os doentes tratados com placebo ou
+ESA. O efeito sobre o colesterol LDL foi mais acentuado, resultando numa diminuição da razão
+LDL/HDL, e foi observado independentemente do uso de estatinas.
+Tabela 7. Outros endpoints de eficácia: utilização de terapêutica de recurso, utilização mensal de
+ferro por via intravenosa e alteração no colesterol LDL em relação ao início do estudo (NDD)
+População
+Doentes NDD com DRC
+Intervenção
+Correção
+Correção
+DOLOMITES
+Agrupamento NDD (FAS)
+(1517-CL-0610)
+
+Endpoint/Parâmetro
+Número de doentes
+com terapêutica de
+recurso, n (%)1
+RBC
+Ferro IV
+ESA
+TI
+Hazard Ratio
+IC 95%
+Valor p
+Número de doentes
+com ferro IV, n (%)2
+TI
+Hazard Ratio
+IC 95%
+Valor p
+
+Roxadustate
+n = 2 368
+
+Placebo
+n = 1 865
+
+211 (8,9)
+
+580 (31,1)
+
+118 (5,0)
+50 (2,1)
+48 (2,0)
+10,4
+
+240 (12,9)
+90 (4,8)
+257 (13,8)
+41,0
+
+Roxadustate
+n = 322
+
+NR
+
+0,19
+0,16; 0,23
+< 0,0001
+
+NR
+
+Darbepoetina
+alfa
+n = 292
+
+NR
+20 (6,2)
+
+37 (12,7)
+
+9,9
+
+21,2
+0,45
+0,26; 0,78
+0,004
+
+Alteração no colesterol LDL (mmol/l) entre o início do estudo e as semanas 12 a 283
+17
+
+População
+Intervenção
+
+Doentes NDD com DRC
+Correção
+Agrupamento NDD (FAS)
+
+Endpoint/Parâmetro
+
+Roxadustate
+n = 2 368
+
+Placebo
+n = 1 865
+
+Correção
+DOLOMITES
+(1517-CL-0610)
+
+Roxadustate
+n = 322
+
+Darbepoetina
+alfa
+n = 292
+
+Análise com ANCOVA
+Valor médio de
+-0,446
+0,066
+-0,356
+0,047
+QM
+IC 95%
+-0,484; -0,409
+0,017; 0,116 -0,432; -0,280 -0,033; 0,127
+Diferença do valor
+médio de QM
+-0,513
+-0,403
+(comparador R)
+IC 95%
+-0,573; -0,453
+-0,510; -0,296
+Valor p
+< 0,0001
+< 0,001
+Os valores p apresentados para o agrupamento NDD são valores p nominais.
+ANCOVA: análise de covariância; IC: intervalo de confiança; ESA: agente estimulador da
+eritropoiese; FAS: conjunto completo de análise; TI: taxa de incidência (por 100 doentes-ano em
+risco); IV: intravenoso; LDL: lipoproteínas de baixa densidade; QM: mínimos quadrados; NR: não
+realizado; NDD: não dependente de diálise; R: roxadustate; RBC: glóbulos vermelhos;
+1
+O agrupamento NDD foi analisado até à semana 52 quanto à utilização de terapêutica de recurso.
+2
+Durante as semanas 1-36.
+3
+A alteração do colesterol LDL em relação ao início do estudo apenas foi avaliada até à semana 24 no
+estudo OLYMPUS (D5740C00001).
+Tabela 8. Outros endpoints de eficácia: utilização de terapêutica de recurso, utilização mensal de
+ferro por via intravenosa e alteração no colesterol LDL em relação ao início do estudo (DD)
+População
+Doentes DD com DRC
+Intervenção
+Correção
+Conversão
+Agrupamento ID DD (FAS)
+
+Agrupamento DD estável (FAS)
+
+Endpoint/
+Roxadustate
+ESA
+Roxadustate
+ESA
+Parâmetro
+n = 756
+n = 759
+n = 1 586
+n = 1 589
+Valor médio de ferro IV mensal nas semanas 28 – 52 (mg)1
+n
+606
+621
+1 414
+1 486
+Valor médio (SD)
+53,57
+70,22
+42,45
+61,99
+(143,097)
+(173,33)
+(229,80)
+(148,02)
+Alteração no colesterol LDL (mmol/l) entre o início do estudo e as semanas 12 a 28
+Análise com ANCOVA
+-0,610
+-0,157
+-0,408
+-0,035
+Valor médio de QM
+IC 95%
+Diferença do valor
+médio de QM
+(comparador R)
+IC 95%
+Valor p
+
+-0,700; -0,520 -0,245; -0,069
+
+-0,449; -0,368
+
+-0,074; 0,003
+
+-0,453
+
+-0,373
+
+-0,575; -0,331
+< 0,0001
+
+-0,418; -0,328
+< 0,0001
+
+18
+
+População
+Intervenção
+
+Correção
+
+Doentes DD com DRC
+Conversão
+
+Agrupamento ID DD (FAS)
+
+Agrupamento DD estável (FAS)
+
+Endpoint/
+Roxadustate
+ESA
+Roxadustate
+ESA
+Parâmetro
+n = 756
+n = 759
+n = 1 586
+n = 1 589
+Os valores p apresentados para os agrupamentos ID DD e DD estável são valores p nominais.
+ANCOVA: análise de covariância; IC: intervalo de confiança; DRC: doença renal crónica; DD:
+dependente de diálise; ESA: agente estimulador da eritropoiese; FAS: conjunto completo de análise;
+ID: diálise incidente; IV: intravenoso; LDL: lipoproteínas de baixa densidade; QM: mínimos
+quadrados; R: roxadustate.
+1
+O período de tempo para o estudo PYRENEES (1517-CL-0613) foi até à semana 36 e o período de
+tempo para o estudo ROCKIES (D5740C0002) foi entre a semana 36 e o final do estudo.
+No estudo com diálise SIERRAS (FGCL-4592-064), uma proporção significativamente menor de
+doentes recebeu uma transfusão de glóbulos vermelhos durante o tratamento no grupo de roxadustate,
+em comparação com o grupo de EPO-alfa (12,5% vs. 21,1%); a redução numérica não foi
+estatisticamente significativa no estudo ROCKIES (D5740C00002) (9,8% vs. 13,2%).
+Resultados notificados por doentes que não estavam em diálise
+No estudo DOLOMITES (1517-CL-0610), a não inferioridade de roxadustate em comparação com a
+darbepoetina foi estabelecida de acordo com as escalas SF-36 PF e SF-36 VT.
+Resultados notificados por doentes em diálise
+No estudo PYRENEES (1517-CL-0613), a não inferioridade de roxadustate em comparação com ESA
+foi estabelecida de acordo com alterações nas escalas SF-36 PF e SF-36 VT entre o início do estudo e
+as semanas 12 a 28.
+Segurança clínica
+Meta-análise de eventos cardiovasculares adjudicados, agrupados
+Foi realizada uma meta-análise de eventos adversos cardiovasculares graves (MACE; um compósito
+da mortalidade por todas as causas [ACM], enfarte do miocárdio, AVC) e MACE+ (um compósito de
+ACM, enfarte do miocárdio, AVC e hospitalização devido a angina instável ou insuficiência cardíaca
+congestiva) adjudicados em 8 984 doentes do programa de estudos da fase 3.
+São apresentados os resultados MACE, MACE+ e ACM para três conjuntos de dados utilizando o
+hazard ratio (HR) agrupado e o respetivo intervalo de confiança (IC) de 95%. Os três conjuntos de
+dados incluem:
+• Um conjunto de dados agrupado e controlado por placebo sobre a correção da Hb em doentes
+NDD [inclui doentes dos estudos OLYMPUS (D5740C00001), ANDES (FGCL-4592-060) e
+ALPS (1517-CL-0608); ver Tabela 4]
+• Um conjunto de dados agrupado e controlado por ESA sobre a correção da Hb em doentes
+NDD e ID-DD [inclui doentes dos estudos DOLOMITES (1517-CL-0610), HIMALAYAS
+(FGCL-4592-063) e os doentes ID-DD dos estudos SIERRAS (FGCL-4592-064) e ROCKIES
+(D5740C00002); ver Tabela 4]
+• Um conjunto de dados agrupado e controlado por ESA sobre a conversão de ESA em doentes
+DD estáveis [inclui doentes do estudo PYRENEES (1517-CL-0613) e doentes DD estáveis
+dos estudos ROCKIES (D5740C00002) e SIERRAS (FGCL-4592-064); ver Tabela 4]
+MACE, MACE+ e ACM no conjunto controlado por placebo sobre a correção da Hb em doentes com
+DRC não dependentes de diálise
+Nos doentes NDD, a análise de MACE, MACE+ e ACM para as análises em tratamento incluiu todos
+os dados desde o início do tratamento do estudo até aos 28 dias de acompanhamento após o final do
+tratamento. As análises em tratamento utilizaram um modelo Cox com ponderação inversa face à
+probabilidade de censura (método IPCW), que tem por objetivo a correção de diferenças da duração de
+seguimento entre roxadustate e o placebo, incluindo fatores identificados que contribuem para risco
+aumentado e descontinuação precoce, nomeadamente fatores determinantes da taxa de filtração
+19
+
+glomerular estimada (eGFR) e a Hb no início do estudo e ao longo do tempo. Permanece incerto se o
+confundimento residual está presente com este modelo. Os HR para as análises em tratamento foram
+de 1,26; 1,17 e 1,16 (ver Tabela 9). As análises ITT incluíram todos os dados desde o início do
+tratamento do estudo até ao final do acompanhamento de segurança pós-tratamento. A análise ITT foi
+incluída para ilustrar um desequilíbrio na distribuição do risco, a qual favorece o placebo na análise em
+tratamento. No entanto, as análises ITT demonstram geralmente uma diluição do efeito de tratamento
+do fármaco do estudo e, nestas análises ITT, não é possível excluir o enviesamento completamente,
+sobretudo devido à introdução da terapêutica de recurso com um ESA após a descontinuação do
+tratamento do estudo. Os HR foram de 1,10; 1,07 e 1,08, com limites superiores dos IC de 95% de
+1,27; 1,21 e 1,26, respetivamente.
+Tabela 9. Segurança e mortalidade CV no agrupamento NDD controlado por placebo sobre a
+correção da Hb
+MACE
+MACE+
+ACM
+Roxadustate Placebo Roxadustate
+Placebo
+Roxadustate Placebo
+n = 2 386
+n = 1 884
+n = 2 386
+n = 1 884
+n = 2 386
+n = 1 884
+Em tratamento
+Número de doentes
+344 (14,4)
+166 (8,8)
+448 (18,8)
+242 (12,8)
+260 (10,9)
+122 (6,5)
+com eventos (%)
+FAIR
+HR (IC 95%)
+ITT
+Número de doentes
+com eventos (%)
+
+8,7
+6,8
+1,26 (1,02; 1,55)
+480 (20,1)
+
+11,6
+10,1
+1,17 (0,99; 1,40)
+
+350 (18,6)
+
+578 (24,2)
+
+432 (22,9)
+
+6,4
+5,0
+1,16 (0,90; 1,50)
+400 (16,8)
+
+301 (16)
+
+FAIR
+10,6
+10,3
+13,2
+13,2
+8,3
+8,1
+HR (IC 95%)
+1,10 (0,96; 1,27)
+1,07 (0,94; 1,21)
+1,08 (0,93; 1,26)
+ACM: mortalidade por todas as causas; ACM é um componente de MACE/MACE+. IC: intervalo de
+confiança; FAIR: taxa de incidência ajustada no acompanhamento (número de doentes com
+evento/100 doente-anos); HR: hazard ratio; ITT: intenção de tratar; MACE: evento adverso cardiovascular
+grave (morte, enfarte do miocárdio e/ou AVC não fatais); MACE+: evento adverso cardiovascular grave,
+incluindo hospitalizações devido a angina instável e/ou insuficiência cardíaca congestiva.
+MACE, MACE+ e ACM no conjunto controlado por ESA sobre a correção da Hb em doentes com
+DRC não dependentes de diálise e dependentes de diálise incidente
+No contexto da correção da Hb em doentes NDD e ID-DD, as características no início do estudo e as
+taxas de descontinuação do tratamento foram comparáveis entre os doentes agrupados para roxadustate
+e ESA. A análise de MACE, MACE+ e ACM observada no tratamento demonstrou HR de 0,79, 0,78 e
+0,78, com limites superiores do IC 95% de 1,02, 0,98 e 1,05 (ver Tabela 10), respetivamente. As
+análises em tratamento não suportam evidências de aumento da segurança cardiovascular ou do risco
+de mortalidade com roxadustate, em comparação com ESA nos doentes com DRC que exigem
+correção da Hb.
+
+20
+
+Tabela 10. Segurança e mortalidade CV no agrupamento controlado por ESA sobre a correção
+da Hb
+MACE
+MACE+
+ACM
+Roxadustate
+ESA
+Roxadustate
+ESA
+Roxadustate
+ESA
+n = 1 083
+n = 1 059
+n = 1 083
+n = 1 059
+n = 1 083
+n = 1 059
+Em tratamento
+Número de
+doentes com
+105 (9,7)
+136 (12,8)
+134 (12,4)
+171 (16,1)
+74 (6,8)
+99 (9,3)
+eventos (%)
+TI
+4,6
+6,0
+6,5
+8,2
+8,3
+10,3
+HR (IC 95%)
+0,79 (0,61; 1,02)
+0,78 (0,62; 0,98)
+0,78 (0,57; 1,05)
+ACM: mortalidade por todas as causas; ACM é um componente de MACE/MACE+. IC: intervalo de
+confiança; ESA: agente estimulador da eritropoiese; HR: hazard ratio; TI: taxa de incidência (número de
+doentes com acontecimento/100 doente-anos); MACE: evento adverso cardiovascular grave (morte, enfarte
+do miocárdio e/ou AVC não fatais); MACE+: evento adverso cardiovascular grave, incluindo hospitalizações
+devido a angina instável e/ou insuficiência cardíaca congestiva.
+MACE, MACE+ e ACM no conjunto controlado por ESA sobre a conversão de ESA em doentes com
+DRC dependentes de diálise e estáveis
+Nos doentes DD estáveis em conversão de ESA, os resultados da análise de MACE, MACE+ e ACM
+observados no tratamento demonstraram HR de 1,18, 1,03 e 1,23, com limites superiores do IC 95%
+para HR de 1,38, 1,19 e 1,49 (ver Tabela 11), respetivamente. Os resultados na Tabela 11 devem ser
+interpretados com cautela, uma vez que os doentes passaram a receber roxadustate em vez de um ESA
+no início do estudo e o impacto do risco inerente ao mudar para qualquer novo tratamento, em
+comparação com a permanência num tratamento com uma Hb estabilizada, pode confundir os
+resultados observados e, consequentemente, não é possível estabelecer fiavelmente qualquer
+comparação das estimativas do efeito de tratamento.
+Tabela 11. Segurança e mortalidade CV no agrupamento DD estável controlado por ESA sobre
+conversão de ESA
+MACE
+MACE+
+ACM
+Roxadustate
+ESA
+Roxadustate
+ESA
+Roxadustate
+ESA
+n = 1 594
+n = 1 594
+n = 1 594
+n = 1 594
+n = 1 594
+n = 1 594
+Em tratamento
+Número de
+doentes com
+297 (18,6)
+301 (18,9)
+357 (22,4)
+403 (25,3)
+212 (13,3)
+207 (13,0)
+eventos (%)
+TI
+10,4
+9,2
+12,5
+12,3
+7,4
+6,3
+HR (IC 95%)
+1,18 (1,00; 1,38)
+1,03 (0,90; 1,19)
+1,23 (1,02; 1,49)
+ACM: mortalidade por todas as causas; ACM é um componente de MACE/MACE+. IC: intervalo de
+confiança; ESA: agente estimulador da eritropoiese; HR: hazard ratio; TI: taxa de incidência (número de
+doentes com evento/100 doente-anos); MACE: evento adverso cardiovascular grave (morte, enfarte do
+miocárdio e/ou AVC não fatais); MACE+: evento adverso cardiovascular grave, incluindo hospitalizações
+devido a angina instável e/ou insuficiência cardíaca congestiva.
+5.2
+
+Propriedades farmacocinéticas
+
+A exposição a roxadustate no plasma (área sob a curva da concentração do fármaco no plasma ao
+longo do tempo [AUC] e as concentrações plasmáticas máximas [Cmáx.]) é proporcional à dose dentro
+do intervalo de dose recomendado para uso terapêutico. Num regime de três doses por semana, as
+concentrações de roxadustate no plasma em estado estacionário são atingidas dentro de uma semana
+(3 doses) com acumulação mínima. A farmacocinética de roxadustate não se altera ao longo do tempo.
+
+21
+
+Absorção
+As concentrações máximas no plasma (Cmáx.) são tipicamente atingidas 2 horas após a toma da dose
+em jejum.
+A administração de roxadustate com alimentos diminuiu a Cmáx. em 25%, mas não alterou a AUC em
+comparação com a dose em jejum. Consequentemente, roxadustate pode ser tomado com ou sem
+alimentos (ver secção 4.2).
+Distribuição
+Roxadustate liga-se fortemente a proteínas plasmáticas humanas (aproximadamente 99%),
+predominantemente à albumina. A razão sangue-plasma de roxadustate é de 0,6. O volume de
+distribuição aparente no estado de equilíbrio é de 24 l.
+Biotransformação
+Com base nos dados in vitro, roxadustate é um substrato das enzimas CYP2C8 e UGT1A9, assim
+como BCRP, OATP1B1, OAT1 e OAT3. Roxadustate não é um substrato da OATP1B3 ou P-gp.
+Roxadustate é metabolizado principalmente em hidroxi-roxadustate e roxadustate-O-glucuronido. A
+forma não alterada de roxadustate foi o componente principal em circulação no plasma humano;
+nenhum metabolito detetável no plasma humano representou mais de 10% da exposição total ao
+material relacionado com o fármaco e não foram observados metabolitos específicos no ser humano.
+Eliminação
+A semivida efetiva média (t1/2) de roxadustate é de aproximadamente 15 horas em doentes com DRC.
+A clearance total aparente (CL/F) de roxadustate é de 1,1 l/h em doentes com DRC que não estão em
+diálise e de 1,4 l/h em doentes com DRC em diálise. Roxadustate e os respetivos metabolitos não são
+removidos significativamente pela hemodiálise.
+Quando roxadustate radiomarcado foi administrado por via oral em indivíduos saudáveis, a
+recuperação média da radioatividade foi de 96% (50% nas fezes, 46% na urina). Nas fezes, 28% da
+dose foi excretada na forma não alterada de roxadustate. Menos de 2% da dose foi recuperada na urina
+na forma não alterada de roxadustate.
+Populações especiais
+Efeitos da idade, sexo, peso corporal e raça
+Não foram observadas diferenças clinicamente relevantes na farmacocinética de roxadustate com base
+na idade (≥ 18 anos), sexo, raça, peso corporal, função renal (eGFR) ou estado de diálise em doentes
+adultos com anemia devido a DRC.
+Hemodiálise
+Nos doentes com DRC dependentes de diálise, não foram observadas diferenças acentuadas nos
+valores de parâmetros farmacocinéticos quando roxadustate foi administrado 2 horas antes ou 1 hora
+após a hemodiálise. A diálise é uma via desprezável da clearance global de roxadustate.
+Compromisso hepático
+Após uma única dose de 100 mg de roxadustate, a AUC média de roxadustate foi 23% maior e a Cmáx.
+foi 16% menor em indivíduos com compromisso hepático moderado (classe B Child-Pugh) e função
+renal normal, em comparação com indivíduos com funções hepática e renal normais. Os indivíduos
+com compromisso hepático moderado (classe B Child-Pugh) e função renal normal demonstraram um
+aumento na AUCinf (+70%) de roxadustate livre, em comparação com indivíduos saudáveis.
+A farmacocinética de roxadustate em indivíduos com compromisso hepático grave (classe C
+Child-Pugh) não foi estudada.
+Interações fármaco-fármaco
+Com base nos dados in vitro, roxadustate é um inibidor da CYP2C8, BCRP, OATP1B1 e OAT3 (ver
+secção 4.5). A farmacocinética de rosiglitazona (substrato moderadamente sensível da CYP2C8) não
+foi afetada pela coadministração de roxadustate. Roxadustate pode ser um inibidor da UGT1A1
+intestinal, mas não da UGT1A1 hepática, e não demonstrou qualquer inibição de outros
+transportadores ou enzimas metabolizantes do CYP, nem indução de enzimas do CYP, quando
+presente em concentrações clinicamente relevantes. Não existe qualquer efeito clinicamente
+22
+
+significativo do carvão ativado oral ou do omeprazol na farmacocinética de roxadustate. Clopidogrel
+não tem efeito na exposição a roxadustate em doentes com DRC.
+5.3
+
+Dados de segurança pré-clínica
+
+Estudos da toxicidade de dose repetida
+No estudo de dose repetida intermitente ao longo de 26 semanas em ratos Sprague-Dawley ou Fisher,
+roxadustate a aproximadamente 4 a 6 vezes a AUC total na dose máxima recomendada para o ser
+humano (MRHD) resultou em observações histopatológicas, incluindo valvulopatias das válvulas
+aórtica e auriculoventricular (A-V). Estas observações estavam presentes nos animais sobreviventes no
+momento da conclusão do estudo, assim como em animais com conclusão precoce num estado
+moribundo. Adicionalmente, as observações não foram totalmente reversíveis, visto estarem presentes
+em animais no final de um período de recobro de 30 dias.
+Foi observada uma farmacologia exagerada que resultou em eritropoiese excessiva nos estudos da
+toxicidade de dose repetida em animais saudáveis.
+Foram observadas alterações hematológicas, tais como diminuições no número de plaquetas em
+circulação e aumentos no tempo parcial de tromboplastina ativado e no tempo de protrombina, em
+ratos a partir de aproximadamente 2 vezes a AUC total na MRHD. Foram observados trombos na
+medula óssea (exposições sistémicas de aproximadamente 7 vezes a AUC total na MRHD em ratos),
+nos rins (exposições sistémicas de aproximadamente 5 a 6 vezes a AUC total na MRHD em ratos), nos
+pulmões (exposições sistémicas de aproximadamente 8 e 2 vezes a AUC total na MRHD em ratos e
+macacos-cinomolgos, respetivamente) e no coração (exposições sistémicas de aproximadamente
+4 a 6 vezes a AUC total na MRHD em ratos).
+Segurança cerebral
+No estudo de dose repetida intermitente ao longo de 26 semanas em ratos Sprague-Dawley, um animal
+apresentou observações histológicas de necrose cerebral e gliose em aproximadamente 6 vezes a AUC
+total na MRHD. Nos ratos Fisher, tratados durante o mesmo período, foi observada necrose no
+cérebro/hipocampo num total de quatro animais em aproximadamente 3 a 5 vezes a AUC total na
+MRHD.
+Os macacos-cinomolgos que receberam roxadustate intermitentemente durante 22 ou 52 semanas não
+apresentaram observações semelhantes com exposições sistémicas até aproximadamente 2 vezes a
+AUC total na MRHD.
+Carcinogenicidade e mutagenicidade
+Roxadustate teve resultado negativo no teste de mutagenicidade de Ames in vitro, no teste de
+aberração cromossomática in vitro em linfócitos do sangue periférico humano e num teste de
+micronúcleo in vivo em ratinhos com 40 vezes a MRHD, baseada na dose equivalente para o ser
+humano.
+Nos estudos da carcinogenicidade em ratinhos e ratos, foi administrado roxadustate aos animais de
+acordo com o regime posológico clínico de três vezes por semana. Devido à clearance rápida de
+roxadustate nos roedores, as exposições sistémicas não foram contínuas ao longo do período de
+dosagem. Deste modo, poderão estar subestimados possíveis efeitos carcinogénicos fora do alvo.
+No estudo da carcinogenicidade ao longo de 2 anos em ratinhos, foram observados aumentos
+significativos na incidência de carcinoma broncoalveolar do pulmão nos grupos de dosagem baixa e
+alta (exposições sistémicas de aproximadamente 1 vez e de aproximadamente 3 vezes a AUC total na
+MRHD). Foi observado um aumento significativo de fibrossarcoma subcutâneo em fêmeas no grupo
+de dose alta (exposições sistémicas de aproximadamente 3 vezes a AUC total na MRHD).
+
+23
+
+No estudo da carcinogenicidade ao longo de 2 anos em ratos, foi observado um aumento significativo
+na incidência de adenoma da glândula mamária com a dose média (exposição sistémica inferior
+a 1 vez a AUC total na MRHD). No entanto, a observação não esteve relacionada com a dose e a
+incidência deste tipo de tumor foi inferior no maior nível de dose testado (exposição sistémica de
+aproximadamente 2 vezes a AUC total na MRHD) e, por este motivo, não foi considerada como
+estando relacionada com o artigo testado.
+Nos estudos clínicos não foram encontradas observações semelhantes às dos estudos da
+carcinogenicidade em ratinhos e ratos.
+Toxicidade reprodutiva e do desenvolvimento
+Roxadustate não teve efeito sobre o acasalamento ou fertilidade nos ratos do sexo masculino e
+feminino tratados com aproximadamente 4 vezes a exposição humana na MRHD. No entanto, no
+NOAEL dos ratos do sexo masculino, foram observadas diminuições do peso do epidídimo e das
+vesículas seminais (com fluido), sem efeitos sobre a fertilidade masculina. O NOEL para qualquer
+observação relacionada com os órgãos genitais masculinos foi de 1,6 vezes a MRHD. Nos ratos do
+sexo feminino, observaram-se aumentos no número de embriões não viáveis e perdas pós-implantação
+ao utilizar este nível de dose, em comparação com os animais controlo.
+Os resultados dos estudos da toxicidade reprodutiva e do desenvolvimento em ratos e coelhos
+demonstraram uma redução do peso médio do feto ou da cria, aumento do peso médio da placenta,
+aborto e mortalidade das crias.
+Os ratos Sprague-Dawley que receberam roxadustate diariamente durante a gravidez, desde a
+implantação até ao encerramento do palato duro (dias de gestação 7 a 17), apresentaram diminuição do
+peso corporal do feto e aumento de alterações esqueléticas com aproximadamente 6 vezes a AUC total
+na MRHD. Roxadustate não teve efeito sobre a sobrevivência do feto após a implantação.
+Roxadustate foi administrado diariamente a coelhos New Zeland durante a gravidez, entre os dias de
+gestação 7 a 19, e foram realizadas cesarianas no dia de gestação 29. A administração de roxadustate,
+com exposições sistémicas até aproximadamente 3 vezes a AUC total na MRHD, não revelou
+observações embriofetais. No entanto, uma fêmea teve um aborto a aproximadamente 1 vez a AUC
+total na MRHD e 2 fêmeas tiveram um aborto a aproximadamente 3 vezes a AUC total na MRHD,
+todas elas apresentando um baixo peso corporal.
+No estudo do desenvolvimento perinatal/pós-natal em ratos Sprague-Dawley, roxadustate foi
+administrado diariamente a fêmeas grávidas, entre o dia gestação 7 e o dia de lactação 20. Durante o
+período de lactação, as crias das fêmeas que receberam roxadustate a aproximadamente 2 vezes a Cmáx.
+na MRHD mostraram uma elevada mortalidade durante o período pré-desmame e foram sacrificados
+no desmame. As crias de fêmeas que receberam roxadustate em doses com exposições sistémicas
+resultantes de aproximadamente 3 vezes a exposição humana na MRHD demonstraram uma
+diminuição significativa na sobrevivência de 21 dias após o nascimento (índice de lactação) em
+comparação com as crias de ninhadas de controlo.
+Num estudo de adoção cruzada, os efeitos mais pronunciados sobre a viabilidade das crias de ratos
+foram observados nas crias expostas a roxadustate apenas no período pós-natal, e a viabilidade das
+crias expostas a roxadustate até ao parto foi inferior à das crias sem exposição.
+O estudo de adoção cruzada, no qual as crias de ratos não expostos foram adotadas por fêmeas tratadas
+com roxadustate (dose humana equivalente de aproximadamente 2 vezes a MRHD), assinalou a
+presença de roxadustate no plasma das crias, o que é indicativo da transferência do fármaco através do
+leite. No leite destas fêmeas verificou-se a presença de roxadustate. As crias expostas ao leite com
+roxadustate demonstraram uma taxa de sobrevivência inferior (85,1%) em comparação com as crias de
+fêmeas não tratadas que foram adotadas por fêmeas não tratadas (taxa de sobrevivência de 98,5%). O
+peso corporal médio das crias sobreviventes expostas a roxadustate durante o período de lactação foi
+também inferior ao das crias controlo (nenhuma exposição in utero – nenhuma exposição no leite).
+
+24
+
+Segurança cardiovascular
+Um estudo farmacológico sobre a segurança cardiovascular demonstrou aumentos da frequência
+cardíaca após uma única administração de 100 mg/kg de roxadustate a macacos. Não se observaram
+efeitos nos hERG ou ECG. Estudos farmacológicos adicionais sobre a segurança em ratos
+demonstraram que roxadustate provocou uma diminuição da resistência periférica total, seguida por
+um aumento do reflexo da frequência cardíaca a partir de aproximadamente seis vezes a exposição na
+MRHD.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Núcleo do comprimido
+Lactose mono-hidratada
+Celulose microcristalina (E460 [i])
+Croscarmelose sódica (E468)
+Povidona (E1201)
+Estearato de magnésio (E470b)
+Revestimento por película
+Álcool polivinílico (E1203)
+Talco (E553b)
+Macrogol (E1521)
+Laca de alumínio Allura Red AC (E129)
+Dióxido de titânio (E171)
+Lecitina (soja) (E322)
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+4 anos.
+6.4
+
+Precauções especiais de conservação
+
+Este medicamento não necessita de quaisquer precauções especiais de conservação.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Blisters perfurados para dose unitária em PVC/alumínio em embalagens.
+Tamanho da embalagem: 12 x 1 e 36 x 1 comprimidos revestidos por película.
+É possível que não sejam comercializadas todas as apresentações.
+6.6
+
+Precauções especiais de eliminação
+
+Não existem requisitos especiais para a eliminação.
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+
+25
+
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+8.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+12 x 1 comprimidos revestidos por película
+EU/1/21/1574/001- 005
+36 x 1 comprimidos revestidos por película
+EU/1/21/1574/006 – 010
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 18 agosto 2021
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos http://www.ema.europa.eu
+
+26
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E
+UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA
+E EFICAZ DO MEDICAMENTO
+
+27
+
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+Delpharm Meppel B.V.
+Hogemaat 2
+7942 JG Meppel
+Países Baixos
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento sujeito a receita médica restrita, de utilização reservada a certos meios especializados
+(ver Anexo I: Resumo das Características do Medicamento, secção 4.2).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+•
+
+Relatórios periódicos de segurança (RPS)
+
+Os requisitos para a apresentação de RPS para este medicamento estão estabelecidos na lista Europeia
+de datas de referência (lista EURD), tal como previsto nos termos do n.º 7 do artigo 107.º-C da
+Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no portal europeu de
+medicamentos.
+O Titular da Autorização de Introdução no Mercado (AIM) deverá apresentar o primeiro RPS para este
+medicamento no prazo de 6 meses após a concessão da autorização.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+•
+
+Plano de gestão do risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da autorização de introdução no mercado, e
+quaisquer atualizações subsequentes do PGR que sejam acordadas.
+Deve ser apresentado um PGR atualizado:
+•
+A pedido da Agência Europeia de Medicamentos;
+•
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado da
+receção de nova informação que possa levar a alterações significativas no perfil benefício-risco
+ou como resultado de ter sido atingido um objetivo importante (farmacovigilância ou
+minimização do risco).
+
+28
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+29
+
+A. ROTULAGEM
+
+30
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 20 mg comprimidos revestidos por película
+roxadustate
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 20 mg de roxadustate.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose, vestígios de lecitina de soja e laca de alumínio Allura Red AC (E129).
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+12x1 comprimidos revestidos por película
+36x1 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Não mastigar, partir ou esmagar os comprimidos.
+Consultar o folheto informativo antes de utilizar.
+Via oral
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+31
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1574/001 12 comprimidos revestidos por película
+EU/1/21/1574/006 36 comprimidos revestidos por película
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+evrenzo 20 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC:
+SN:
+NN:
+
+32
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 20 mg comprimidos
+roxadustate
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Astellas
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+OUTROS
+
+33
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 50 mg comprimidos revestidos por película
+roxadustate
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 50 mg de roxadustate.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose, vestígios de lecitina de soja e laca de alumínio Allura Red AC (E129).
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+12x1 comprimidos revestidos por película
+36x1 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Não mastigar, partir ou esmagar os comprimidos.
+Consultar o folheto informativo antes de utilizar.
+Via oral
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+34
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1574/002 12 comprimidos revestidos por película
+EU/1/21/1574/007 36 comprimidos revestidos por película
+
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+evrenzo 50 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC:
+SN:
+NN:
+
+35
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 50 mg comprimidos
+roxadustate
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Astellas
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+OUTROS
+
+36
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 70 mg comprimidos revestidos por película
+roxadustate
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 70 mg de roxadustate.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose, vestígios de lecitina de soja e laca de alumínio Allura Red AC (E129).
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+12x1 comprimidos revestidos por película
+36x1 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Não mastigar, partir ou esmagar os comprimidos.
+Consultar o folheto informativo antes de utilizar.
+Via oral
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+37
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1574/003
+EU/1/21/1574/008
+
+13.
+
+12 comprimidos revestidos por película
+36 comprimidos revestidos por película
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+evrenzo 70 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC:
+SN:
+NN:
+
+38
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 70 mg comprimidos
+roxadustate
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Astellas
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+OUTROS
+
+39
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 100 mg comprimidos revestidos por película
+roxadustate
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 100 mg de roxadustate.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose, vestígios de lecitina de soja e laca de alumínio Allura Red AC (E129).
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+12x1 comprimidos revestidos por película
+36x1 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Não mastigar, partir ou esmagar os comprimidos.
+Consultar o folheto informativo antes de utilizar.
+Via oral
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+40
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1574/004 12 comprimidos revestidos por película
+EU/1/21/1574/009 36 comprimidos revestidos por película
+
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+evrenzo 100 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC:
+SN:
+NN:
+
+41
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 100 mg comprimidos
+roxadustate
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Astellas
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+OUTROS
+
+42
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 150 mg comprimidos revestidos por película
+roxadustate
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido contém 150 mg de roxadustate.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose, vestígios de lecitina de soja e laca de alumínio Allura Red AC (E129).
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+12x1 comprimidos revestidos por película
+36x1 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Não mastigar, partir ou esmagar os comprimidos.
+Consultar o folheto informativo antes de utilizar.
+Via oral
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+EXP:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+43
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/21/1574/005 12 comprimidos revestidos por película
+EU/1/21/1574/010 36 comprimidos revestidos por película
+13.
+
+NÚMERO DO LOTE
+
+Lote:
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+evrenzo 150 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO - DADOS PARA LEITURA HUMANA
+
+PC:
+SN:
+NN:
+
+44
+
+INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS BLISTER OU FITAS
+CONTENTORAS
+BLISTER
+1.
+
+NOME DO MEDICAMENTO
+
+Evrenzo 150 mg comprimidos
+roxadustate
+2.
+
+NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Astellas
+3.
+
+PRAZO DE VALIDADE
+
+EXP
+4.
+
+NÚMERO DO LOTE
+
+Lote
+5.
+
+OUTROS
+
+45
+
+B. FOLHETO INFORMATIVO
+
+46
+
+Folheto Informativo: Informação para o doente
+Evrenzo 20 mg comprimidos revestidos por película
+Evrenzo 50 mg comprimidos revestidos por película
+Evrenzo 70 mg comprimidos revestidos por película
+Evrenzo 100 mg comprimidos revestidos por película
+Evrenzo 150 mg comprimidos revestidos por película
+roxadustate
+Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si
+-
+
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode serlhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+
+O que contém este folheto
+1.
+O que é Evrenzo e para que é utilizado
+2.
+O que precisa de saber antes de tomar Evrenzo
+3.
+Como tomar Evrenzo
+4.
+Efeitos indesejáveis possíveis
+5.
+Como conservar Evrenzo
+6.
+Conteúdo da embalagem e outras informações
+1.
+
+O que é Evrenzo e para que é utilizado
+
+O que é Evrenzo
+Evrenzo é um medicamento que aumenta o número de glóbulos vermelhos e o nível de hemoglobina
+no sangue. Contém a substância ativa roxadustate.
+Para que é utilizado Evrenzo
+Evrenzo é utilizado no tratamento de doentes adultos com anemia sintomática associada a doença renal
+crónica. A anemia ocorre quando um indivíduo tem glóbulos vermelhos insuficientes e o nível de
+hemoglobina é demasiado baixo. Como consequência, o corpo pode não obter oxigénio suficiente. A
+anemia pode causar sintomas como fadiga, fraqueza ou dispneia.
+Como Evrenzo funciona
+Roxadustate, a substância ativa de Evrenzo, leva ao aumento do nível do HIF, uma substância no
+corpo que aumenta a produção de glóbulos vermelhos quando os níveis de oxigénio estão baixos. Ao
+aumentar os níveis do HIF, o medicamento aumenta a produção de glóbulos vermelhos e aumenta os
+níveis de hemoglobina (a proteína que transporta o oxigénio nos glóbulos vermelhos). Isto melhora o
+fornecimento de oxigénio no corpo e pode reduzir os sintomas da anemia.
+
+47
+
+2.
+
+O que precisa de saber antes de tomar Evrenzo
+
+Não tome Evrenzo
+se tem alergia aos amendoins ou soja, não utilize este medicamento. Evrenzo contém lecitina de
+soja.
+se tem alergia a roxadustate ou qualquer outro componente deste medicamento (indicados na
+secção 6).
+se está grávida há mais de 6 meses. (também é preferível evitar este medicamento no período
+inicial da gravidez – ver secção sobre a gravidez).
+se está a amamentar.
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes de tomar Evrenzo:
+-
+
+-
+
+se tem epilepsia ou já tiver tido convulsões ou ataques.
+se tem sinais e sintomas de uma infeção, o que pode incluir febre, sudorese ou arrepios, dor de
+garganta, nariz com corrimento, dispneia, sensação de fraqueza, confusão mental, tosse, vómito,
+diarreia ou dor de estômago, sensação de ardor ao urinar, pele vermelha ou dorida, ou
+ulcerações no corpo.
+se tem uma doença do fígado.
+
+A doença renal crónica e a anemia podem aumentar o risco de eventos cardiovasculares e morte. A
+gestão da sua anemia é importante. O seu médico irá monitorizar a sua hemoglobina e também ter em
+consideração o seu regime de tratamento, uma vez que o tratamento da anemia e a mudança entre
+tratamentos da anemia pode também ter um impacto negativo na sua saúde cardiovascular.
+Fale com o seu médico ou farmacêutico imediatamente:
+se tiver coágulos sanguíneos:
+nas veias das pernas (trombose venosa profunda ou TVP), cujos sinais podem ser dor e/ou
+tumefação das pernas, cãibras ou sensação de calor na perna afetada;
+nos pulmões (embolia pulmonar ou EP), cujos sinais podem ser dispneia súbita, dor
+torácica (que agrava tipicamente ao respirar), sensação de ansiedade, tonturas,
+atordoamento ou desmaio, aceleração cardíaca, tosse (às vezes com sangue);
+no seu meio de acesso para hemodiálise (trombose do acesso vascular ou TAV), o que
+impede o funcionamento do acesso vascular; cujos sinais podem ser tumefação, rubor,
+endurecimento ou espessamento da pele em redor do acesso, secreções no local de acesso,
+não sentir uma vibração sobre a área de acesso;
+se tem uma convulsão ou possíveis sinais de aviso de que uma convulsão pode ocorrer, tais
+como cefaleia, irritabilidade, medo, confusão mental ou sensações estranhas;
+se tem sinais e sintomas de uma infeção, o que inclui febre, sudorese ou arrepios, dor de
+garganta, nariz com corrimento, dispneia, sensação de fraqueza ou de desmaio, confusão mental,
+tosse, vómito, diarreia ou dor de estômago, ardor ao urinar, pele vermelha ou dorida, ou
+ulcerações no corpo.
+Uma utilização incorreta pode resultar no aumento do número de células no sangue e tornar o sangue
+mais espesso. Isto pode causar problemas potencialmente fatais no coração ou vasos sanguíneos.
+Crianças e adolescentes
+Não dê Evrenzo a crianças e adolescentes com menos de 18 anos de idade, uma vez que não existem
+informações sobre a utilização do medicamento nesta faixa etária.
+Outros medicamentos e Evrenzo
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos. Evrenzo pode afetar a ação desses medicamentos, ou esses medicamentos
+podem afetar a ação de Evrenzo.
+
+48
+
+Especificamente, informe o seu médico ou farmacêutico se tiver tomado ou estiver a tomar qualquer
+um dos seguintes medicamentos:
+medicamentos que reduzem as concentrações de fosfato no sangue (chamados captadores de
+fosfato) ou outros medicamentos ou suplementos que contenham cálcio, ferro, magnésio ou
+alumínio (chamados catiões multivalentes), tais como o carbonato de sevelâmero ou acetato de
+cálcio. É necessário tomar Evrenzo pelo menos 1 hora depois destes medicamentos ou
+suplementos. Caso contrário, roxadustate não será absorvido corretamente pelo corpo.
+um medicamento para tratamento da gota, chamado probenecid.
+medicamentos utilizados para baixar o colesterol, tais como sinvastatina, atorvastatina ou
+rosuvastatina (também chamados "estatinas") ou gemfibrozil.
+outros medicamentos utilizados para tratar a anemia, tais como agentes estimuladores da
+eritropoiese (ESA).
+Se toma normalmente qualquer um destes medicamentos, o seu médico poderá decidir substituí-los e
+prescrever um medicamento diferente para tomar durante o tratamento com Evrenzo.
+Gravidez, amamentação e fertilidade
+Se está grávida, se pensa estar grávida ou planeia engravidar, contacte o seu médico.
+Evrenzo pode ser nocivo para o feto. Evrenzo não é recomendado durante os primeiros 6 meses de
+gravidez e não pode ser tomado durante os últimos 3 meses de gravidez. As mulheres que tomem
+Evrenzo e tenham o potencial para engravidar têm de utilizar um método contracetivo eficaz durante o
+tratamento com Evrenzo e pelo menos uma semana após a última dose de Evrenzo. Se utilizar um
+contracetivo hormonal, também deverá utilizar um método de barreira, tais como o preservativo ou
+diafragma.
+Não amamente se estiver a receber tratamento com Evrenzo. Desconhece-se se Evrenzo passa para o
+leite materno e pode ser nocivo para o bebé.
+Condução de veículos e utilização de máquinas
+Este medicamento pode afetar a capacidade de conduzir ou utilizar máquinas. Podem ocorrer
+convulsões como efeito indesejável (ver secção 4).
+Evrenzo contém lactose, vestígios de lecitina de soja e laca de alumínio Allura Red AC
+Evrenzo contém açúcar (lactose), vestígios de amendoim e de soja (lecitina de soja) e um agente
+corante do grupo Azo (laca de alumínio Allura Red AC). Se tiver sido informado pelo seu médico que
+tem intolerância a alguns açúcares ou alergia a amendoins, à soja ou a agentes corantes do grupo azo,
+contacte o seu médico antes de tomar este medicamento.
+3.
+
+Como tomar Evrenzo
+
+Tome este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale com o seu
+médico ou farmacêutico se tiver dúvidas.
+O seu médico irá dizer-lhe que dose de Evrenzo deve tomar.
+O seu médico irá verificar os seus níveis de hemoglobina regularmente e aumentar ou diminuir a dose
+com base nos níveis de hemoglobina.
+Evrenzo é tomado por via oral, na forma de comprimidos.
+Tomar Evrenzo
+Tome a sua dose de Evrenzo três vezes por semana, salvo indicação em contrário do seu médico
+Nunca tome Evrenzo em dias consecutivos
+Tome Evrenzo nos mesmos três dias todas as semanas
+Evrenzo pode ser tomado à refeição ou entre refeições
+Engula os comprimidos inteiros
+Não mastigue, parta ou esmague os comprimidos
+49
+
+Tome Evrenzo pelo menos 1 hora depois de tomar medicamentos que reduzem as concentrações de
+fosfato no sangue (chamados captadores de fosfato) ou outros medicamentos ou suplementos que
+contenham cálcio, ferro, magnésio ou alumínio (chamados catiões multivalentes).
+Calendário de dosagem
+Calendário de dosagem 3 vezes por semana
+Evrenzo é fornecido num blister com medicamento suficiente para 4 semanas (12 comprimidos),
+dividido em 4 filas. Cada fila contém medicamento suficiente para 1 semana (3 comprimidos).
+Certifique-se de que toma os comprimidos da mesma fila durante cada semana.
+O intervalo de dose situa-se entre 20 mg três vezes por semana e uma dose máxima de 400 mg três
+vezes por semana.
+Frequências de dosagem diferentes
+Em casos excecionais (com bases nos níveis de hemoglobina), o seu médico pode decidir diminuir a
+dose de Evrenzo para 20 mg duas vezes ou uma vez por semana. Neste caso, o seu médico irá explicarlhe a que dias da semana tem de tomar a dose.
+Mais de 1 comprimido necessário para uma dose
+Na maioria dos casos, terá 1 blister por mês. Se a sua dose exigir mais de 1 blister, terá de tomar um
+comprimido de cada blister por dia de dosagem. O seu médico irá explicar-lhe quando e quantos
+comprimidos tomar.
+O seu médico irá monitorizar o seu nível de hemoglobina e poderá interromper o tratamento
+temporariamente se o nível de hemoglobina ficar demasiado alto. Não reinicie o tratamento até ter
+indicação do seu médico para tal. O seu médico irá informá-lo sobre a dose de Evrenzo que deve tomar
+e quando pode voltar a tomar este medicamento.
+Se tomar mais Evrenzo do que deveria
+Se tomar mais comprimidos ou uma dose maior do que deveria, contacte o seu médico imediatamente.
+Caso se tenha esquecido de tomar Evrenzo
+−
+Nunca tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+−
+Se faltarem mais de 24 horas (1 dia) até à próxima dose agendada, tome a dose em falta assim
+que possível e tome a dose seguinte no próximo dia agendado.
+−
+Se faltarem menos de 24 horas (1 dia) até à próxima dose agendada: salte a dose em falta e tome
+a dose seguinte no próximo dia agendado.
+Se parar de tomar Evrenzo
+Não pare de tomar este medicamento sem indicação por parte do seu médico.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+4.
+
+Efeitos indesejáveis possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não se
+manifestem em todas as pessoas.
+Alguns dos possíveis efeitos indesejáveis podem ser graves. Contacte o seu médico
+imediatamente se tiver algum dos seguintes:
+coágulo sanguíneo nas veias das pernas (trombose venosa profunda ou TVP) (pode afetar
+até 1 em 10 pessoas).
+coágulo sanguíneo nos pulmões (embolia pulmonar) (pode afetar até 1 em 100 pessoas).
+
+50
+
+-
+
+coágulo sanguíneo no seu meio de acesso da hemodiálise (trombose do acesso vascular ou
+TAV) que causa o encerramento ou não funcionamento do acesso vascular se estiver a utilizar
+uma fístula ou enxerto como meio de acesso de diálise (pode afetar mais de 1 em 10 pessoas).
+convulsões e sinais de aviso de convulsões (pode afetar até 1 em 10 pessoas).
+sepsis, uma infeção grave e, em alguns casos, potencialmente fatal (pode afetar
+até 1 em 10 pessoas).
+rubor e descamação da pele numa zona maior do corpo, a qual pode causar comichão ou dor
+(dermatite exfoliativa) (a frequência não pode ser calculada a partir dos dados disponíveis)
+
+Outros efeitos indesejáveis possíveis
+Muito frequentes (podem afetar mais de 1 em 10 pessoas)
+nível aumentado de potássio
+tensão arterial alta (hipertensão)
+sensação de enjoo (náuseas)
+diarreia
+inchaço devido a retenção de líquidos nas extremidades (edema periférico)
+Frequentes (podem afetar até 1 em 10 pessoas):
+dificuldade em dormir (insónia)
+dor de cabeça
+vómitos
+prisão de ventre
+Pouco frequentes (podem afetar até 1 em 100 pessoas)
+nível aumentado de bilirrubina no sangue
+Desconhecido (a frequência não pode ser calculada a partir dos dados disponíveis)
+função tiroideia diminuída
+Comunicação de efeitos indesejáveis
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis. não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos indesejáveis
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar Evrenzo
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem e no blister após EXP.
+O prazo de validade corresponde ao último dia do mês indicado.
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger o
+ambiente.
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de Evrenzo
+Evrenzo 20 mg:
+A substância ativa é roxadustate. Cada comprimido contém 20 mg de roxadustate
+51
+
+Evrenzo 50 mg:
+A substância ativa é roxadustate. Cada comprimido contém 50 mg de roxadustate.
+Evrenzo 70 mg:
+A substância ativa é roxadustate. Cada comprimido contém 70 mg de roxadustate.
+Evrenzo 100 mg:
+A substância ativa é roxadustate. Cada comprimido contém 100 mg de roxadustate.
+Evrenzo 150 mg:
+A substância ativa é roxadustate. Cada comprimido contém 150 mg de roxadustate.
+Os outros componentes são:
+núcleo do comprimido: lactose mono-hidratada, celulose microcristalina (E460), croscarmelose
+sódica (E468), povidona (E1201), estearato de magnésio (E470b).
+revestimento por película: álcool polivinílico (E1203), talco (E553b), macrogol (E1521), laca de
+alumínio Allura Red AC (E129), dióxido de titânio (E171), lecitina (soja) (E322).
+Qual o aspeto de Evrenzo e conteúdo da embalagem
+Evrenzo 20 mg são comprimidos revestidos por película vermelhos, ovais, com o número "20" em
+relevo num dos lados.
+Evrenzo 50 mg são comprimidos revestidos por película vermelhos, ovais, com o número "50" em
+relevo num dos lados.
+Evrenzo 70 mg são comprimidos revestidos por película vermelhos, redondos, com o número "70" em
+relevo num dos lados.
+Evrenzo 100 mg são comprimidos revestidos por película vermelhos, ovais, com o número "100" em
+relevo num dos lados.
+Evrenzo 150 mg são comprimidos revestidos por película vermelhos, em forma de amêndoa, com o
+número "150" em relevo num dos lados.
+Evrenzo está disponível em blisters destacáveis para dose unitária em PVC/alumínio em embalagens
+contendo 12 x 1 comprimidos revestidos por película e 36 x 1 comprimidos revestidos por película.
+É possível que não sejam comercializadas todas as apresentações.
+Titular da Autorização de Introdução no Mercado
+Astellas Pharma Europe B.V.
+Sylviusweg 62
+2333 BE Leiden
+Países Baixos
+Fabricante
+Delpharm Meppel B.V.
+Hogemaat 2
+7942 JG Meppel
+Países Baixos
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Astellas Pharma B.V. Branch
+Tél/Tel: +32 (0)2 5580710
+
+Lietuva
+Astellas Pharma d.o.o.
+Tel.: +370 37 408 681
+
+52
+
+България
+Астелас Фарма ЕООД
+Teл.: +359 2 862 53 72
+
+Luxembourg/Luxemburg
+Astellas Pharma B.V. Branch
+Belgique/Belgien
+Tél/Tel: +32 (0)2 5580710
+
+Česká republika
+Astellas Pharma s.r.o.
+Tel: +420 221 401 500
+
+Magyarország
+Astellas Pharma Kft.
+Tel.: +36 1 577 8200
+
+Danmark
+Astellas Pharma a/s
+Tlf: +45 43 430355
+
+Malta
+Astellas Pharmaceuticals AEBE
+Tel: +30 210 8189900
+
+Deutschland
+Astellas Pharma GmbH
+Tel.: +49 (0)89 454401
+
+Nederland
+Astellas Pharma B.V.
+Tel: +31 (0)71 5455745
+
+Eesti
+Astellas Pharma d.o.o.
+Tel: +372 6 056 014
+
+Norge
+Astellas Pharma
+Tlf: +47 66 76 46 00
+
+Ελλάδα
+Astellas Pharmaceuticals AEBE
+Τηλ: +30 210 8189900
+
+Österreich
+Astellas Pharma Ges.m.b.H.
+Tel.: +43 (0)1 8772668
+
+España
+Astellas Pharma S.A.
+Tel: +34 91 4952700
+
+Polska
+Astellas Pharma Sp.z.o.o.
+Tel.: +48 225451 111
+
+France
+Astellas Pharma S.A.S.
+Tél: +33 (0)1 55917500
+
+Portugal
+Astellas Farma, Lda.
+Tel: +351 21 4401300
+
+Hrvatska
+Astellas d.o.o.
+Tel: +385 1670 0102
+
+România
+S.C. Astellas Pharma SRL
+Tel: +40 (0)21 361 04 95
+
+Ireland
+Astellas Pharma Co. Ltd.
+Tel: +353 (0)1 4671555
+
+Slovenija
+Astellas Pharma d.o.o.
+Tel: +386 14011400
+
+Ísland
+Vistor hf
+Sími: +354 535 7000
+
+Slovenská republika
+Astellas Pharma s.r.o.
+Tel: +421 2 4444 2157
+
+Italia
+Astellas Pharma S.p.A.
+Tel: +39 (0)2 921381
+
+Suomi/Finland
+Astellas Pharma
+Puh/Tel: +358 (0)9 85606000
+
+Κύπρος
+Ελλάδα
+Astellas Pharmaceuticals AEBE
+Τηλ: +30 210 8189900
+
+Sverige
+Astellas Pharma AB
+Tel: +46 (0)40-650 15 00
+
+53
+
+Latvija
+Astellas Pharma d.o.o.
+Tel: +371 67 619365
+
+United Kingdom (Northern Ireland)
+Astellas Pharma Co., Limited
+Tel: +353 (0)1 4671555
+Free call from Northern Ireland: 0800 783 5018
+
+Este folheto foi revisto pela última vez em MM/AAAA
+Outras fontes de informação
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+Europeia de Medicamentos: http://www.ema.europa.eu
+
+54
+
+

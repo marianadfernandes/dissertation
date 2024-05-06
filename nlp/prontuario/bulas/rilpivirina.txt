@@ -1,0 +1,2556 @@
+ANEXO I
+RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+
+1
+
+1.
+
+NOME DO MEDICAMENTO
+
+EDURANT 25 mg comprimidos revestidos por película
+2.
+
+COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+
+Cada comprimido revestido por película contém cloridrato de rilpivirina equivalente a 25 mg de
+rilpivirina.
+Excipiente com efeito conhecido
+Cada comprimido revestido por película contém 56 mg de lactose mono-hidratada.
+Lista completa de excipientes, ver secção 6.1.
+3.
+
+FORMA FARMACÊUTICA
+
+Comprimido revestido por película
+Comprimido revestido por película branco a esbranquiçado, redondo, biconvexo, com um diâmetro de
+6,4 mm, com “TMC” gravado num dos lados e “25” no outro lado.
+4.
+
+INFORMAÇÕES CLÍNICAS
+
+4.1
+
+Indicações terapêuticas
+
+EDURANT em associação com outros medicamentos antirretrovirais, é indicado para o tratamento da
+infeção pelo vírus da imunodeficiência humana tipo 1 (VIH-1) em doentes com 12 ou mais anos de
+idade sem experiência prévia em terapêutica antirretroviral, com uma carga viral de ARN do VIH-1
+≤ 100.000 cópias/ml.
+O teste de resistência genotípica deve orientar a utilização de EDURANT (ver secções 4.4 e 5.1).
+4.2
+
+Posologia e modo de administração
+
+A terapêutica deve ser iniciada por um médico com experiência no tratamento da infeção por VIH.
+Posologia
+A dose recomendada de EDURANT é de um comprimido de 25 mg tomado uma vez por dia.
+EDURANT deve ser tomado com uma refeição (ver secção 5.2).
+Ajuste de dose
+Para doentes a receber concomitantemente rifabutina, a dose de EDURANT deve ser aumentada para
+50 mg (dois comprimidos de 25 mg) tomados uma vez por dia. Quando a administração concomitante
+de rifabutina é suspensa, a dose de EDURANT deve ser reduzida para 25 mg uma vez por dia (ver
+secção 4.5).
+Dose esquecida
+Se um doente se esquecer de tomar uma dose de EDURANT no período de 12 horas após a hora em
+que é habitualmente tomada, o doente deve tomar o medicamento com uma refeição o mais rápido
+possível e prosseguir com o esquema posológico habitual. Se um doente se esquecer de tomar uma
+dose de EDURANT num período superior a 12 horas após a hora em que é habitualmente tomada, o
+doente não deve tomar a dose que se esqueceu, mas deverá continuar com o esquema posológico
+habitual.
+
+2
+
+Se um doente vomitar no período de 4 horas após tomar o medicamento, deverá ser tomado outro
+comprimido de EDURANT com uma refeição. Se um doente vomitar num período superior a 4 horas
+após ter tomado o medicamento, o doente não necessita de tomar outra dose de EDURANT até à
+próxima toma do esquema posológico habitual.
+Populações especiais
+Idosos
+A informação sobre a utilização de EDURANT em doentes com idade > 65 anos é limitada. Não é
+necessário qualquer ajuste da dose de EDURANT em doentes idosos (ver secção 5.2). EDURANT
+deve ser utilizado com precaução nesta população.
+Compromisso renal
+EDURANT tem sido estudado principalmente em doentes com função renal normal. Não é necessário
+ajuste da dose de rilpivirina em doentes com compromisso renal ligeiro ou moderado. Em doentes com
+compromisso renal grave ou doença renal em fase terminal, a rilpivirina deve ser utilizada com
+precaução. Em doentes com compromisso renal grave ou doença renal em fase terminal, a associação
+de rilpivirina com um inibidor potente do CYP3A (por ex. inibidor da protease VIH potenciado com
+ritonavir) só deve ser utilizado se os benefícios forem superiores aos riscos (ver secção 5.2).
+O tratamento com rilpivirina resultou num pequeno aumento inicial dos níveis médios de creatinina
+sérica, os quais se mantiveram estáveis ao longo do tempo, não sendo considerado clinicamente
+relevante (ver secção 4.8).
+Afeção hepática
+Existe informação limitada relacionada com a utilização de EDURANT nos doentes com afeção
+hepática ligeira a moderada (classificação Child-Pugh A ou B). Não é necessário qualquer ajuste da
+dose de EDURANT em doentes com afeção hepática ligeira ou moderada. EDURANT deve ser
+utilizado com precaução em doentes com afeção hepática moderada. EDURANT não foi estudado em
+doentes com afeção hepática grave (classificação Child-Pugh C). Assim, EDURANT não é
+recomendado em doentes com afeção hepática grave (ver secção 5.2).
+População pediátrica
+A segurança e a eficácia de EDURANT em crianças com idade < 12 anos não foram ainda
+estabelecidas. Não existem dados disponíveis.
+Gravidez
+Foram observadas exposições inferiores de rilpivirina durante a gravidez, pelo que a carga viral deve
+ser monitorizada cuidadosamente. Em alternativa, pode considerar-se mudar para outro regime de
+TARV (ver secções 4.4, 4.6, 5.1 e 5.2).
+Modo de administração
+EDURANT deve ser tomado oralmente, uma vez por dia com uma refeição (ver secção 5.2). É
+recomendado que os comprimidos revestidos por película sejam engolidos inteiros com água e não
+sejam mastigados ou esmagados.
+4.3
+
+Contraindicações
+
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes mencionados na secção 6.1.
+EDURANT não deverá ser administrado em associação com os seguintes medicamentos, uma vez que
+podem ocorrer reduções significativas nas concentrações plasmáticas de rilpivirina (devido à indução
+da enzima CYP3A ou ao aumento do pH gástrico), o que pode resultar na perda do efeito terapêutico
+de EDURANT (ver secção 4.5):
+os anticonvulsivantes carbamazepina, oxcarbazepina, fenobarbital, fenitoína
+os antimicobacterianos rifampicina, rifapentina
+3
+
+-
+
+inibidores da bomba de protões, tais como omeprazol, esomeprazol, lansoprazol, pantoprazol,
+rabeprazol
+o glucocorticoide sistémico dexametasona, exceto como tratamento de dose única
+hipericão (Hypericum perforatum).
+
+4.4
+
+Advertências e precauções especiais de utilização
+
+Falência virológica e desenvolvimento de resistência
+EDURANT não tem sido avaliado em doentes com falência virológica anterior a qualquer outra
+terapêutica antirretroviral. A lista de mutações associadas a resistência à rilpivirina presente na secção
+5.1 deve apenas orientar a utilização de EDURANT no tratamento da população sem experiência
+prévia em terapêutica antirretroviral.
+Na análise de eficácia agrupada a partir de ensaios clínicos de Fase III em adultos, ao longo de 96
+semanas, os doentes tratados com rilpivirina com uma carga viral de base de ARN do VIH-1
+> 100.000 cópias/ml tiveram um risco superior de falência virológica (18,2% com rilpivirina versus
+7,9% com efavirenz) comparativamente com os doentes com uma carga viral de base de ARN do
+VIH-1 ≤ 100.000 cópias/ml (5,7% com rilpivirina versus 3,6% com efavirenz). Nas primeiras 48
+semanas destes ensaios observou-se um risco aumentado de falência virológica no grupo de tratamento
+com rilpivirina (ver secção 5.1). Os doentes com carga viral de base de ARN do VIH-1
+> 100.000 cópias/ml que tiveram falência virológica apresentaram uma elevada taxa de resistência a
+tratamentos emergentes da classe de inibidores não nucleosídeos da transcriptase reversa (NNRTIs).
+Houve mais doentes com falência virológica com rilpivirina a desenvolver resistência associada à
+lamivudina/emtricitabina do que aqueles que desenvolveram falência virológica com efavirenz (ver
+secção 5.1).
+Os resultados em adolescentes (12 até menos de 18 anos de idade) no ensaio TMC278-C213 foram
+geralmente em linha com estes dados (ver secção 5.1 para mais detalhes).
+Apenas os adolescentes considerados propensos a ter boa adesão ao tratamento antirretroviral devem
+ser tratados com rilpivirina, já que a adesão subótima pode levar ao desenvolvimento de resistência e a
+perda de futuras opções de tratamento.
+Tal como com outros medicamentos antirretrovirais, o teste de resistência deve orientar a utilização de
+rilpivirina (ver secção 5.1).
+Cardiovascular
+Nas doses supraterapêuticas (75 mg e 300 mg uma vez por dia), a rilpivirina tem sido associada ao
+prolongamento do intervalo QTc do eletrocardiograma (ECG) (ver secções 4.5, 4.8 e 5.2).
+EDURANT na dose recomendada de 25 mg uma vez por dia não está associada a um efeito
+clinicamente significativo no intervalo QTc. EDURANT deve ser utilizado com precaução quando
+administrado concomitantemente com medicamentos com risco conhecido de Torsade de Pointes.
+Síndrome de Reativação Imunológica
+Em doentes infetados por VIH com deficiência imunológica grave, no momento do início da TARVc,
+pode surgir uma reação inflamatória a agentes patogénicos oportunistas assintomáticos ou residuais e
+causar situações clínicas graves ou agravamento dos sintomas. Estas reações foram observadas
+normalmente nas primeiras semanas ou meses após o início da TARVc. São exemplos relevantes a
+retinite por citomegalovírus, as infeções micobacterianas generalizadas e/ou localizadas e a pneumonia
+causada por Pneumocystis jiroveci. Deve proceder-se à avaliação de quaisquer sintomas inflamatórios
+e, quando necessário, instituir tratamento.
+Doenças autoimunes (tal como a Doença de Graves e a hepatite autoimune), também têm sido
+descritas como tendo ocorrido no contexto de reativação imunitária; no entanto, o tempo de início
+4
+
+descrito é mais variável e estes acontecimentos podem ocorrer muitos meses após o início do
+tratamento (ver secção 4.8).
+Gravidez
+Edurant deve ser utilizado durante a gravidez apenas se o potencial benefício justificar o potencial
+risco. Foram observadas exposições inferiores de rilpivirina quando a rilpivirina 25 mg, uma vez por
+dia, foi administrada durante a gravidez. Nos estudos de Fase III, uma exposição inferior de rilpivirina,
+semelhante à observada durante a gravidez, foi associada a um aumento do risco de falência virológica
+pelo que a carga viral deve ser monitorizada cuidadosamente (ver secções 4.6, 5.1 e 5.2). Em
+alternativa, pode considerar-se mudar para outro regime de TARV.
+Informação importante sobre alguns dos componentes de EDURANT
+EDURANT contém lactose. Os doentes com problemas hereditários raros de intolerância à galactose,
+deficiência em lactase Lapp ou má absorção de glucose-galactose não devem tomar este medicamento.
+4.5
+
+Interações medicamentosas e outras formas de interação
+
+Medicamentos que afetam a exposição à rilpivirina
+A rilpivirina é metabolizada principalmente pelo citocromo P450 (CYP)3A. Os medicamentos que
+induzem ou inibem o CYP3A podem, assim, afetar a depuração da rilpivirina (ver secção 5.2). Tem
+sido observada a diminuição das concentrações plasmáticas de rilpivirina, com a administração
+concomitante de rilpivirina e medicamentos que induzem o CYP3A, o que pode reduzir o efeito
+terapêutico de rilpivirina.
+Tem sido observado o aumento das concentrações plasmáticas de rilpivirina com a administração
+concomitante de rilpivirina e medicamentos que inibem o CYP3A.
+A administração concomitante de rilpivirina e de medicamentos que aumentam o pH gástrico pode
+resultar na diminuição das concentrações plasmáticas de rilpivirina, o que pode reduzir potencialmente
+o efeito terapêutico de EDURANT.
+Medicamentos que são afetados pela utilização de rilpivirina
+Não é provável que a rilpivirina numa dose de 25 mg, uma vez por dia, tenha um efeito clinicamente
+relevante na exposição de medicamentos metabolizados pelas enzimas CYP.
+A rilpivirina inibe a glicoproteína-P in vitro (IC50 é 9,2 µM). Num estudo clínico, a rilpivirina não
+afetou significativamente a farmacocinética da digoxina. Contudo, não pode ser totalmente excluído o
+facto de que a rilpivirina pode aumentar a exposição a outros medicamentos transportados pela
+glicoproteína-P, mais sensíveis à inibição da P-gp intestinal, i.e. dabigatrano etexilato.
+A rilpivirina é um inibidor in vitro do transportador MATE-2K com um IC50 < 2,7 nM. As implicações
+clínicas deste achado são atualmente desconhecidas.
+As interações conhecidas e teóricas com medicamentos antirretrovirais e não antirretrovirais
+selecionados estão listadas na Tabela 1.
+Tabela de interações
+Os estudos de interação foram apenas efetuados em adultos.
+As interações entre a rilpivirina e os medicamentos administrados concomitantemente estão listadas na
+tabela 1 (o aumento é indicado como “↑”, diminuição como “↓”, sem alteração como “↔”, não
+aplicável como “NA”, intervalo de confiança como “IC”).
+
+5
+
+Tabela 1: INTERAÇÕES E RECOMENDAÇÕES POSOLÓGICAS COM OUTROS
+MEDICAMENTOS
+Medicamentos por áreas
+Interação
+Recomendações relativas à
+terapêuticas
+Alteração geométrica média (%)
+administração concomitante
+ANTI-INFECIOSOS
+Antirretrovirais
+NRTIs /N[t]RTIs do VIH
+Didanosina*#
+didanosina AUC ↑ 12%
+Não é necessário qualquer ajuste da
+400 mg uma vez por dia
+didanosina Cmin NA
+dose. A didanosina deve ser
+didanosina Cmax ↔
+administrada pelo menos duas horas
+rilpivirina AUC ↔
+antes ou pelo menos quatro horas
+rilpivirina Cmin ↔
+após a administração de rilpivirina.
+rilpivirina Cmax ↔
+Tenofovir, disoproxil *#
+tenofovir AUC ↑ 23%
+Não é necessário qualquer ajuste da
+245 mg uma vez por dia
+tenofovir Cmin ↑ 24%
+dose.
+tenofovir Cmax ↑ 19%
+rilpivirina AUC ↔
+rilpivirina Cmin ↔
+rilpivirina Cmax ↔
+Outros NRTIs
+Não foi estudado. Não são esperadas
+Não é necessário qualquer ajuste da
+(abacavir, emtricitabina, interações medicamentosas clinicamente dose.
+lamivudina, estavudina e relevantes.
+zidovudina)
+NNRTIs do VIH
+NNRTIs
+Não foi estudado.
+Não se recomenda a administração
+(delavirdina, efavirenz,
+concomitante de rilpivirina com
+etravirina, nevirapina)
+outros NNRTIs.
+IPs doVIH – administrados concomitantemente com uma dose baixa de ritonavir
+Darunavir/ritonavir*#
+darunavir AUC ↔
+A utilização concomitante de
+800/100 mg uma vez por darunavir Cmin ↓ 11%
+rilpivirina com inibidores da
+dia
+darunavir Cmax ↔
+protease potenciados com ritonavir
+rilpivirina AUC ↑ 130%
+causa um aumento das
+rilpivirina Cmin ↑ 178%
+concentrações plasmáticas de
+rilpivirina Cmax ↑ 79%
+rilpivirina, mas não é necessário
+qualquer ajuste da dose.
+(inibição das enzimas CYP3A)
+Lopinavir/ritonavir
+lopinavir AUC ↔
+(cápsula de gel mole)*#
+lopinavir Cmin ↓ 11%
+400/100 mg duas vezes
+lopinavir Cmax ↔
+por dia
+rilpivirina AUC ↑ 52%
+rilpivirina Cmin ↑ 74%
+rilpivirina Cmax ↑ 29%
+(inibição das enzimas CYP3A)
+Outros IPs potenciados
+Não foi estudado.
+(atazanavir/ritonavir,
+fosamprenavir/ritonavir,
+saquinavir/ritonavir,
+tipranavir/ritonavir)
+IPs do VIH – sem a administração concomitante de uma dose baixa de ritonavir
+IPs não potenciados
+Não foi estudado. É esperado um
+Não é necessário qualquer ajuste da
+(atazanavir,
+aumento da exposição à rilpivirina.
+dose.
+fosamprenavir,
+indinavir, nelfinavir)
+(inibição das enzimas CYP3A)
+Antagonistas dos recetores CCR5
+Maraviroc
+Não foi estudado. Não são esperadas
+Não é necessário qualquer ajuste da
+interações medicamentosas clinicamente dose.
+relevantes.
+
+6
+
+Inibidores da Transferência de Cadeia da Integrase do VIH
+Raltegravir*
+raltegravir AUC ↑ 9%
+raltegravir Cmin ↑ 27%
+raltegravir Cmax ↑ 10%
+rilpivirina AUC ↔
+rilpivirina Cmin ↔
+rilpivirina Cmax ↔
+Outros Agentes Antivirais
+Ribavirina
+Não foi estudado. Não são esperadas
+interações medicamentosas clinicamente
+relevantes.
+Simeprevir*
+simeprevir AUC ↔
+simeprevir Cmin ↔
+simeprevir Cmax ↑ 10%
+rilpivirina AUC ↔
+rilpivirina Cmin ↑ 25%
+rilpivirina Cmax ↔
+OUTROS AGENTES
+ANTICONVULSIVANTES
+Carbamazepina
+Não foi estudado. São esperadas
+Oxcarbazepina
+reduções significativas nas
+Fenobarbital
+concentrações plasmáticas de
+Fenitoína
+rilpivirina.
+(indução das enzimas CYP3A)
+AGENTES ANTIFÚNGICOS DE TIPO AZOL
+Cetoconazol*#
+cetoconazol AUC ↓ 24%
+400 mg uma vez por dia
+cetoconazol Cmin ↓ 66%
+cetoconazol Cmax ↔
+(indução da enzima CYP3A devido a
+elevadas doses de rilpivirina durante o
+estudo)
+
+Não é necessário qualquer ajuste da
+dose.
+
+Não é necessário qualquer ajuste da
+dose.
+Não é necessário qualquer ajuste da
+dose.
+
+A rilpivirina não deve ser utilizada em
+associação com estes
+anticonvulsivantes, uma vez que a
+administração concomitante pode
+resultar na perda do efeito terapêutico
+de rilpivirina (ver secção 4.3).
+Na dose recomendada de 25 mg uma
+vez por dia, não é necessário qualquer
+ajuste da dose quando rilpivirina é
+administrada concomitantemente com
+cetoconazol.
+
+rilpivirina AUC ↑ 49%
+rilpivirina Cmin ↑ 76%
+rilpivirina Cmax ↑ 30%
+Fluconazol
+Itraconazol
+Posaconazol
+Voriconazol
+
+(inibição das enzimas CYP3A)
+Não foi estudado. A utilização
+concomitante de EDURANT com
+agentes antifúngicos de tipo azol pode
+causar um aumento das concentrações
+plasmáticas de rilpivirina.
+
+(inibição das enzimas CYP3A)
+ANTIMICOBACTERIANOS
+Rifabutina*
+rifabutina AUC ↔
+300 mg uma vez por dia† rifabutina Cmin ↔
+rifabutina Cmax ↔
+25-O-desacetil-rifabutina AUC ↔
+25-O-desacetil-rifabutina Cmin ↔
+25-O-desacetil-rifabutina Cmax ↔
+300 mg uma vez por dia
+(+ 25 mg de rilpivirina
+uma vez por dia)
+
+rilpivirina AUC ↓ 42%
+rilpivirina Cmin ↓ 48%
+rilpivirina Cmax ↓ 31%
+
+7
+
+Não é necessário qualquer ajuste da
+dose.
+
+Durante a administração concomitante
+de rilpivirina com rifabutina, a dose de
+rilpivirina deve ser aumentada de 25
+mg uma vez por dia para 50 mg uma
+vez por dia. Quando a administração
+concomitante é suspensa, a dose de
+rilpivirina deve ser reduzida para 25
+mg uma vez por dia.
+
+300 mg uma vez por dia
+(+ 50 mg de rilpivirina
+uma vez por dia)
+
+rilpivirina AUC ↑ 16%*
+rilpivirina Cmin ↔ *
+rilpivirina Cmax ↑ 43%*
+*em comparação com 25 mg de rilpivirina
+isoladamente uma vez por dia
+
+Rifampicina*#
+600 mg uma vez por dia
+
+Rifapentina
+
+(indução das enzimas CYP3A)
+rifampicina AUC ↔
+rifampicina Cmin NA
+rifampicina Cmax ↔
+25-desacetil-rifampicina AUC ↓ 9%
+25-desacetil-rifampicina Cmin NA
+25-desacetil-rifampicina Cmax ↔
+rilpivirina AUC ↓ 80%
+rilpivirina Cmin ↓ 89%
+rilpivirina Cmax ↓ 69%
+(indução das enzimas CYP3A)
+Não foi estudado. São esperadas
+reduções significativas nas
+concentrações plasmáticas de
+rilpivirina.
+
+(indução das enzimas CYP3A)
+ANTIBIÓTICOS MACRÓLIDOS
+Claritromicina
+Não foi estudado. É esperado um
+Eritromicina
+aumento da exposição à rilpivirina.
+
+A rilpivirina não deve ser utilizada em
+associação com a rifampicina, uma vez
+que é provável que a administração
+concomitante resulte na perda do
+efeito terapêutico de rilpivirina (ver
+secção 4.3).
+
+A rilpivirina não deve ser utilizada em
+associação com a rifapentina, uma vez
+que é provável que a administração
+concomitante resulte na perda do
+efeito terapêutico de rilpivirina (ver
+secção 4.3).
+Se possível, devem ser consideradas
+alternativas, tais como a azitromicina.
+
+(inibição das enzimas CYP3A)
+GLUCOCORTICOIDES
+Dexametasona
+(sistémica, exceto
+utilização em dose
+única)
+
+Não foi estudado. São esperadas
+reduções nas concentrações
+plasmáticas de rilpivirina dependentes
+da dose.
+(indução das enzimas CYP3A)
+
+INIBIDORES DA BOMBA DE PROTÕES
+Omeprazol*#
+omeprazol AUC ↓ 14%
+20 mg uma vez por dia
+omeprazol Cmin NA
+omeprazol Cmax ↓ 14%
+rilpivirina AUC ↓ 40%
+rilpivirina Cmin ↓ 33%
+rilpivirina Cmax ↓ 40%
+
+Lansoprazol
+Rabeprazol
+Pantoprazol
+Esomeprazol
+
+A rilpivirina não deve ser utilizada em
+associação com a dexametasona
+sistémica (exceto em dose única), uma
+vez que a administração concomitante
+pode resultar na perda do efeito
+terapêutico de rilpivirina (ver secção
+4.3). Devem ser consideradas
+alternativas, especialmente para a
+utilização a longo-prazo.
+A rilpivirina não deve ser utilizada em
+associação com inibidores da bomba
+de protões, uma vez que é provável
+que a administração concomitante
+resulte na perda do efeito terapêutico
+de rilpivirina (ver secção 4.3).
+
+(reduzida absorção devido ao aumento
+do pH gástrico)
+Não foi estudado. São esperadas
+reduções significativas nas
+concentrações plasmáticas de
+rilpivirina.
+
+(reduzida absorção devido ao aumento
+do pH gástrico)
+ANTAGONISTAS DOS RECETORES H2
+Famotidina*#
+rilpivirina AUC ↓ 9%
+Dose única de 40 mg
+rilpivirina Cmin NA
+administrada 12 horas
+rilpivirina Cmax ↔
+antes de rilpivirina
+8
+
+A associação de rilpivirina e
+antagonistas dos recetores H2 deve ser
+utilizada com particular precaução.
+Apenas devem ser utilizados os
+
+Famotidina*#
+Dose única de 40 mg
+administrada 2 horas
+antes de rilpivirina
+Famotidina*#
+Dose única de 40 mg
+administrada 4 horas
+após a rilpivirina
+Cimetidina
+Nizatidina
+Ranitidina
+ANTIÁCIDOS
+Antiácidos (p. ex.
+hidróxido de alumínio
+ou de magnésio,
+carbonato de cálcio)
+
+rilpivirina AUC ↓ 76%
+rilpivirina Cmin NA
+rilpivirina Cmax ↓ 85%
+(reduzida absorção devido ao aumento
+do pH gástrico)
+rilpivirina AUC ↑ 13%
+rilpivirina Cmin NA
+rilpivirina Cmax ↑ 21%
+Não foi estudado.
+(reduzida absorção devido ao aumento
+do pH gástrico)
+Não foi estudado. São esperadas
+reduções significativas nas
+concentrações plasmáticas de
+rilpivirina.
+
+(reduzida absorção devido ao aumento
+do pH gástrico)
+ANALGÉSICOS NARCÓTICOS
+Metadona*
+R(-) metadona AUC ↓ 16%
+60-100 mg uma vez por
+R(-) metadona Cmin ↓ 22%
+dia, dose individual
+R(-) metadona Cmax ↓ 14%
+rilpivirina AUC ↔*
+rilpivirina Cmin ↔*
+rilpivirina Cmax ↔*
+* com base em controlos históricos
+ANTIARRÍTMICOS
+Digoxina*
+ANTICOAGULANTES
+Dabigatrano etexilato
+
+antagonistas dos recetores H2 que
+podem ser administrados uma vez por
+dia. Deverá ser utilizado um esquema
+posológico restrito, com toma de
+antagonistas dos recetores H2 pelos
+menos 12 horas antes ou pelo menos
+4 horas após a administração de
+rilpivirina.
+
+A associação de rilpivirina e
+antiácidos deve ser utilizada com
+particular precaução. Os antiácidos só
+devem ser administrados pelo menos
+2 horas antes ou pelo menos 4 horas
+após a administração de rilpivirina.
+Não são necessários ajustes da dose
+quando se inicia a administração
+concomitante de metadona com
+rilpivirina. No entanto, recomenda-se
+monitorização clínica, uma vez que a
+terapêutica de manutenção com
+metadona pode necessitar de ajuste em
+alguns doentes.
+
+digoxina AUC ↔
+digoxina Cmin NA
+digoxina Cmax ↔
+
+Não são necessários ajustes da dose.
+
+Não foi estudado. O risco do aumento
+das concentrações plasmáticas de
+dabigatrano não pode ser excluído.
+
+A associação de rilpivirina e
+dabigatrano etexilato deve ser utilizada
+com precaução.
+
+(inibição da P-gp intestinal)
+ANTIDIABÉTICOS
+Metformina*
+850 mg, dose única
+
+metformina AUC ↔
+metformina Cmin NA
+metformina Cmax ↔
+PRODUTOS À BASE DE PLANTAS
+Hipericão
+Não foi estudado. São esperadas
+(Hypericum perforatum) reduções significativas nas
+concentrações plasmáticas de
+rilpivirina.
+(indução das enzimas CYP3A)
+ANALGÉSICOS
+Paracetamol*#
+500 mg dose única
+
+paracetamol AUC ↔
+paracetamol Cmin NA
+paracetamol Cmax ↔
+rilpivirina AUC ↔
+rilpivirina Cmin ↑ 26%
+rilpivirina Cmax ↔
+
+Não são necessários ajustes de dose.
+
+A rilpivirina não deve ser utilizada em
+associação com produtos que
+contenham Hipericão, uma vez que a
+administração concomitante pode
+resultar na perda do efeito terapêutico
+de rilpivirina (ver secção 4.3).
+Não é necessário qualquer ajuste da
+dose.
+
+9
+
+CONTRACETIVOS ORAIS
+Etinilestradiol*
+etinilestradiol AUC ↔
+0,035 mg uma vez por
+etinilestradiol Cmin ↔
+dia
+etinilestradiol Cmax ↑ 17%
+Noretindrona*
+noretindrona AUC ↔
+1 mg uma vez por dia
+noretindrona Cmin ↔
+noretindrona Cmax ↔
+rilpivirina AUC ↔*
+rilpivirina Cmin ↔*
+rilpivirina Cmax ↔*
+* com base em controlos históricos
+INIBIDORES DA HMG-CoA REDUCTASE
+Atorvastatina*#
+atorvastatina AUC ↔
+40 mg uma vez por dia
+atorvastatina Cmin ↓ 15%
+atorvastatina Cmax ↑ 35%
+rilpivirina AUC ↔
+rilpivirina Cmin ↔
+rilpivirina Cmax ↓ 9%
+INIBIDORES DA FOSFODIESTERASE TIPO 5 (PDE-5)
+Sildenafil*#
+sildenafil AUC ↔
+50 mg dose única
+sildenafil Cmin NA
+sildenafil Cmax ↔
+rilpivirina AUC ↔
+rilpivirina Cmin ↔
+rilpivirina Cmax ↔
+Vardenafil
+Não foi estudado.
+Tadalafil
+*
+#
+
+†
+
+Não é necessário qualquer ajuste da
+dose.
+
+Não é necessário qualquer ajuste da
+dose.
+
+Não é necessário qualquer ajuste da
+dose.
+
+Não é necessário qualquer ajuste da
+dose.
+
+A interação entre rilpivirina e o medicamento foi avaliada num estudo clínico. Todas as outras interações
+medicamentosas apresentadas são previstas.
+Este estudo de interação foi realizado com uma dose superior à dose recomendada de rilpivirina, para avaliar o efeito
+máximo no medicamento administrado concomitantemente. A recomendação posológica é aplicável à dose
+recomendada de rilpivirina de 25 mg uma vez por dia.
+Este estudo de interação foi realizado com uma dose superior à dose recomendada de rilpivirina.
+
+Medicamentos que prolongam o intervalo QT
+Existe pouca informação disponível sobre o potencial de interação farmacodinâmica entre a rilpivirina
+e os medicamentos que prolongam o intervalo QTc do ECG. Num estudo realizado em indivíduos
+saudáveis, foi demonstrado que as doses supraterapêuticas de rilpivirina (75 mg uma vez por dia e
+300 mg uma vez por dia) prolongavam o intervalo QTc do ECG (ver secção 5.1). EDURANT deve ser
+utilizado com precaução quando administrado concomitantemente com um medicamento que
+apresenta risco conhecido de Torsade de Pointes.
+4.6
+
+Fertilidade, gravidez e aleitamento
+
+Gravidez
+Uma quantidade moderada de dados relativos a mulheres grávidas (resultados de entre 3001.000 gravidezes) indicam não existir toxicidade neonatal/fetal ou malformativa da rilpivirina. (ver
+secções 4.4, 5.1 e 5.2). Foram observadas exposições inferiores de rilpivirina durante a gravidez, pelo
+que a carga viral deve ser monitorizada cuidadosamente.
+Os estudos em animais não indicam toxicidade reprodutiva (ver secção 5.3).
+A utilização de rilpivirina pode ser considerada durante a gravidez, se necessária.
+
+10
+
+Amamentação
+Desconhece-se se a rilpivirina é excretada no leite materno. A rilpivirina é excretada no leite dos ratos
+fêmea. Devido ao potencial de reações adversas em lactentes, as mães devem ser instruídas a não
+amamentar caso estejam a ser tratadas com rilpivirina.
+De forma a evitar a transmissão do VIH ao lactente, é recomendado que mulheres que vivem com VIH
+não amamentem.
+Fertilidade
+Não existem dados disponíveis nos seres humanos sobre o efeito da rilpivirina na fertilidade. Não
+foram observados efeitos clinicamente relevantes em estudos animais, durante a fertilidade (ver secção
+5.3).
+4.7
+
+Efeitos sobre a capacidade de conduzir e utilizar máquinas
+
+Os efeitos de EDURANT sobre a capacidade de conduzir e utilizar máquinas são nulos ou
+desprezíveis. Contudo, foram notificados casos de fadiga, tonturas ou sonolência em alguns doentes a
+tomar EDURANT e deverão ser tidos em consideração quando é avaliada a capacidade do doente
+conduzir ou utilizar máquinas.
+4.8
+
+Efeitos indesejáveis
+
+Resumo do perfil de segurança
+Durante o programa de desenvolvimento clínico 1.368 doentes nos ensaios controlados de Fase III
+TMC278-C209 (ECHO) e TMC278-C215 (THRIVE), 55,7% dos indivíduos tiveram pelo menos uma
+reação adversa medicamentosa (ver secção 5.1). As reações adversas medicamentosas (RAMs)
+notificadas mais frequentemente (≥ 2%) de pelo menos intensidade moderada foram a depressão
+(4,1%), cefaleias (3,5%), insónias (3,5%), erupção cutânea (2,3%), e dor abdominal (2,0%). A RAM
+grave mais frequente, relacionada com o tratamento, foi notificada em 7 (1,0%) doentes a receber
+rilpivirina. A duração mediana de exposição dos doentes no grupo de tratamento com rilpivirina e no
+grupo de tratamento com efavirenz foi de 104,3 e 104,1 semanas, respetivamente. A maioria das
+RAMs ocorreram nas primeiras 48 semanas de tratamento.
+As alterações clínicas laboratoriais seleccionadas, emergentes do tratamento (grau 3 ou grau 4),
+consideradas como RAMs, notificadas em doentes tratados com EDURANT foram o aumento da
+amilase pancreática (3,8%), aumento da AST (2,3%), aumento da ALT (1,6%), aumento do colesterol
+LDL (em jejum, 1,5%), diminuição da contagem de glóbulos brancos (1,2%), aumento da lipase
+(0,9%), aumento da bilirrubina (0,7%), aumento dos triglicerídeos (em jejum, 0,6%), diminuição da
+hemoglobina (0,1%), diminuição da contagem de plaquetas (0,1%), e aumento do colesterol total (em
+jejum, 0,1%).
+Resumo em tabela das reações adversas
+As RAMs comunicadas em doentes adultos tratados com rilpivirina estão resumidas na Tabela 2. As
+RAMs estão listadas por classes de sistemas de órgãos (SOC) e frequência. As frequências estão
+definidas como muito frequentes (≥ 1/10), frequentes (≥ 1/100 a < 1/10) e pouco frequentes (≥ 1/1.000
+a < 1/100). Dentro de cada grupo de frequência, as RAMs estão apresentadas por ordem decrescente
+de frequência.
+
+11
+
+Tabela 2:
+
+RAMs notificadas em doentes adultos infetados por VIH-1 sem experiência prévia
+em terapêutica antirretroviral, tratados com Rilpivirina
+(dados agrupados da análise de 96 semanas dos ensaios de fase III ECHO e THRIVE) N = 686
+Classes de Sistemas de
+Categoria de
+RAMs
+Órgãos (CSO)
+Frequência
+(Rilpivirina + RB)
+Doenças do sangue e do
+frequentes
+diminuição do número de glóbulos brancos
+sistema linfático
+diminuição da hemoglobina
+diminuição do número de plaquetas
+Doenças do sistema
+pouco frequentes
+síndrome de reativação imunológica
+imunitário
+Doenças do metabolismo e
+muito frequentes
+aumento do colesterol total (em jejum)
+da nutrição
+aumento do colesterol LDL (em jejum)
+frequentes
+diminuição do apetite
+aumento dos triglicéridos (em jejum)
+Perturbações do foro
+muito frequentes
+insónias
+psiquiátrico
+frequentes
+sonhos anormais
+depressão
+perturbações do sono
+humor depressivo
+Doenças do sistema nervoso
+muito frequentes
+cefaleias
+tonturas
+frequentes
+Sonolência
+Doenças gastrointestinais
+muito frequentes
+náuseas
+aumento da amilase pancreática
+frequentes
+dor abdominal
+vómitos
+aumento da lipase
+desconforto abdominal
+xerostomia
+Afeções hepatobiliares
+muito frequentes
+aumento das transaminases
+frequentes
+aumento da bilirrubina
+Afeções dos tecidos cutâneos frequentes
+exantema
+e subcutâneas
+Perturbações gerais e
+frequentes
+Fadiga
+alterações no local de
+administração
+RB = regime de base
+N = número de indivíduos
+
+Alterações laboratoriais
+Na análise de 96 semanas dos ensaios de Fase III ECHO e THRIVE, no grupo de tratamento com
+rilpivirina, a alteração média, a partir do nível de base, no colesterol total (em jejum) foi de 5 mg/dl,
+no colesterol HDL (em jejum) foi de 4 mg/dl, no colesterol LDL (em jejum) foi de 1 mg/dl e nos
+triglicéridos (em jejum) foi de -7 mg/dl.
+Descrição de reações adversas selecionadas
+Síndrome de Reativação Imunológica
+Em doentes infetados por VIH com deficiência imunológica grave, no momento da instituição da
+terapêutica antirretroviral combinada (TARVc), pode surgir uma reação inflamatória a infeções
+oportunistas assintomáticas ou residuais. Doenças autoimunes (tal como a Doença de Graves e a
+hepatite autoimune), também têm sido descritas; no entanto, o tempo de início descrito é mais variável
+e estes acontecimentos podem ocorrer muitos meses após o início do tratamento. (ver secção 4.4).
+
+12
+
+População pediátrica (12 até menos de 18 anos de idade)
+A avaliação de segurança é baseada na análise à semana 48 do ensaio de Fase II, aberto, de braço
+único, TCM278-C213, no qual 36 adolescentes infetados pelo VIH-1 sem experiência terapêutica
+prévia, pesando pelo menos 32 kg, receberam rilpivirina (25 mg uma vez por dia) em combinação com
+outros agentes antirretrovirais (ver secção 5.1). A duração mediana de exposição dos doentes foi de
+63,5 semanas. Nenhum doente descontinuou o tratamento devido a RAM. Não foram identificadas
+novas RAMs em comparação com as observadas em adultos.
+A maioria das RAMs foi de grau 1 ou 2. As RAMs mais frequentes (todos os graus, superior ou igual a
+10%) foram cefaleia (19,4%), depressão (19,4%), sonolência (13,9%), e náusea (11,1%). Não foram
+notificadas alterações laboratoriais para AST/ALT grau 3-4 ou RAMs de grau 3-4 de aumento das
+transaminases.
+Não foram identificadas novas questões de segurança na análise da Semana 240 do ensaio
+TMC278-C213 em adolescentes.
+A segurança e a eficácia de rilpivirina em crianças com <12 anos de idade ainda não foram
+estabelecidas. Não existem dados disponíveis.
+Outras populações especiais
+Doentes coinfetados pelo vírus da hepatite B e/ou C
+Em doentes coinfetados pelo vírus da hepatite B ou C e a receberem rilpivirina, a incidência do
+aumento de enzimas hepáticas foi superior quando comparado com os doentes a receberem rilpivirina
+que não estavam coinfetados. Esta observação foi idêntica no grupo de tratamento com efavirenz. A
+exposição farmacocinética da rilpivirina em doentes coinfetados foi comparável à dos doentes sem
+coinfeção.
+Notificação de suspeitas de reações adversas
+A notificação de suspeitas de reações adversas após a autorização do medicamento é importante, uma
+vez que permite uma monitorização contínua da relação benefício-risco do medicamento. Pede-se aos
+profissionais de saúde que notifiquem quaisquer suspeitas de reações adversas através do sistema
+nacional de notificação mencionado no Apêndice V.
+4.9
+
+Sobredosagem
+
+Não há um antídoto específico para a sobredosagem com EDURANT. A experiência de sobredosagem
+em seres humanos com rilpivirina é limitada. Os sintomas de sobredosagem podem incluir cefaleias,
+náuseas, tonturas e/ou sonhos anormais. O tratamento da sobredosagem com rilpivirina consiste em
+medidas de suporte gerais que incluem a monitorização dos sinais vitais e ECG (intervalo QT) assim
+como, a observação do estado clínico do doente. A gestão adicional deverá ser efetuada conforme
+indicado clinicamente ou conforme recomendado pelo Centro Antivenenos nacional, onde disponível.
+Uma vez que a rilpivirina liga-se extensamente às proteínas plasmáticas, é improvável que a diálise
+resulte na remoção significativa da substância ativa.
+5.
+
+PROPRIEDADES FARMACOLÓGICAS
+
+5.1
+
+Propriedades farmacodinâmicas
+
+Grupo farmacoterapêutico: Antiviral para uso sistémico, inibidores não nucleósidos da transcriptase
+inversa, código ATC: J05AG05.
+
+13
+
+Mecanismo de ação
+A rilpivirina é uma diarilpirimidina NNRTI do VIH-1. A atividade da rilpivirina é mediada pela
+inibição não competitiva da transcriptase inversa (TI) do VIH-1. A rilpivirina não inibe as polimerases
+celulares α, β e γ do ADN celular humano.
+Atividade antiviral in vitro
+A rilpivirina demonstrou atividade contra as estirpes laboratoriais do VIH-1 de tipo selvagem numa
+linha de células-T com infeção aguda, com um valor EC50 mediano para o VIH-1/IIIB de 0,73 nM
+(0,27 ng/ml). Apesar da rilpivirina ter demonstrado uma atividade limitada in vitro contra o VIH-2
+com valores de EC50 entre 2.510 e 10.830 nM (920 a 3.970 ng/ml), o tratamento da infeção por VIH-2
+com rilpivirina não é recomendado na ausência de dados clínicos.
+A rilpivirina também demonstrou atividade antiviral contra um largo espectro de isolados primários do
+grupo M do VIH-1 (subtipos A, B, C, D, F, G, H) com valores de EC50 a variar entre 0,07 e 1,01 nM
+(0,03 a 0,37 ng/ml) e isolados primários do grupo O com valores de EC50 a variar entre 2,88 e 8,45 nM
+(1,06 a 3,10 ng/ml).
+Resistência
+Em culturas celulares
+As estirpes resistentes à rilpivirina foram selecionadas em culturas celulares a partir de VIH-1 de tipo
+selvagem de diferentes origens e subtipos, bem como de VIH-1 resistente a NNRTIs. As mutações
+associadas a resistência mais frequentemente observadas, que emergiram incluíram L100I, K101E,
+V108I, E138K, V179F, Y181C, H221Y, F227C e M230I.
+A resistência à rilpivirina foi determinada como uma alteração no valor EC50 (FC) acima do ponto de
+corte biológico (BCO) do ensaio.
+Indivíduos adultos sem experiência terapêutica prévia
+Para a análise de resistência foi utilizada uma definição mais ampla de falência virológica do que na
+análise de eficácia primária. Na semana 48 da análise de resistência agrupada a partir dos ensaios de
+Fase III, 62 (de um total de 72) falências virológicas no grupo de tratamento com
+rilpivirinaapresentaram dados de resistência no nível de base e no período de falência. Nesta análise,
+as mutações associadas a resistência, relacionadas com a resistência aos NNRTIs, que se
+desenvolveram em pelo menos 2 falências virológicas à rilpivirina foram: V90I, K101E, E138K,
+E138Q, V179I, Y181C, V189I, H221Y e F227C. Nos ensaios, a presença das mutações V90I e V189I,
+no nível de base não afetaram a resposta. A substituição E138K surgiu mais frequentemente durante o
+tratamento com rilpivirina, geralmente em combinação com a substituição M184I. Na análise às 48
+semanas, 31 das 62 falências virológicas à rilpivirina apresentaram mutações concomitantes
+associadas a resistência a NNRTIs e NRTI; 17 das 31 tinham a combinação de E138K e M184I. As
+mutações mais comuns foram semelhantes nas análises às 48 e às 96 semanas.
+Na análise de resistência agrupada de 96 semanas observaram-se taxas de falência virológica mais
+reduzidas nas segundas 48 semanas de tratamento do que nas primeiras 48 semanas de tratamento.
+Desde a semana 48 à semana 96 da análise ocorreram 24 (3,5%) e 14 (2,1%) falências virológicas
+adicionais nos grupos de tratamento com rilpivirina e efavirenz, respetivamente. Destas falências
+virológicas, 9 de 24 e 4 de 14 foram em doentes com carga viral basal < 100.000 cópias/ml,
+respetivamente.
+Indivíduos adolescentes sem experiência terapêutica prévia
+Na semana 240 da análise de resistência do ensaio TMC278-C213, foram observadas mutações
+associadas a resistência à rilpivirina em 46,7% (7/15) dos indivíduos com falência virológica e dados
+genotípicos pós-nível de base. Todos os indivíduos com mutações associadas a resistência à rilpivirina
+também tiveram, pelo menos, 1 mutação emergente do tratamento associada a resistência a NRTI no
+último momento pós-nível de base com dados genotípicos.
+14
+
+Considerando todos os dados in vitro e in vivo disponíveis nos indivíduos sem experiência prévia em
+terapêutica antirretroviral, as seguintes mutações associadas a resistência, quando presentes no nível
+de base, podem afetar a atividade da rilpivirina: K101E, K101P, E138A, E138G, E138K, E138R,
+E138Q, V179L, Y181C, Y181I, Y181V, Y188L e H221Y, F227C, M230I e M230L. As mutações
+associadas a resistência à rilpivirina devem, apenas, orientar a utilização de EDURANT no tratamento
+da população sem experiência prévia em terapêutica antirretroviral. Estas mutações associadas à
+resistência resultaram dos dados in vivo envolvendo, apenas, indivíduos sem experiência prévia em
+terapêutica antirretroviral e, portanto não podem ser utilizados para prever a atividade da rilpivirina em
+indivíduos que tenham apresentado falência virológica a um regime terapêutico contendo
+antirretrovirais.
+Tal como com outros medicamentos antirretrovirais os testes de resistência devem orientar a utilização
+de EDURANT.
+Resistência cruzada
+Ação direcionada de vírus mutantes a NNRTIs
+Num espectro de 67 estirpes laboratoriais recombinantes de VIH-1 com uma mutação associada a
+resistência nas posições RT relacionadas com resistência a NNRTIs, incluindo as encontradas mais
+frequentemente K103N e Y181C, a rilpivirina demonstrou atividade antiviral contra 64 (96%) destas
+estirpes. As únicas mutações associadas a resistência relacionadas com a perda de suscetibilidade à
+rilpivirina foram: K101P, Y181I e Y181V. A substituição K103N não resultou em sensibilidade
+reduzida à rilpivirina por si só, mas a combinação de K103N e L100I resultou numa suscetibilidade 7
+vezes menor à rilpivirina.
+Isolados clínicos recombinantes
+A rilpivirina manteve a sensibilidade (FC ≤ BCO) contra 62% dos 4.786 isolados clínicos
+recombinantes do VIH-1 resistentes ao efavirenz e/ou nevirapina.
+Doentes adultos infetados por VIH-1 sem experiência terapêutica prévia
+Na semana 96 da análise de resistência agrupada dos ensaios de Fase III (ECHO e THRIVE), 42 dos
+86 indivíduos com falência virológica no grupo de tratamento com rilpivirina apresentaram resistência
+emergente do tratamento com rilpivirina (análise genotípica). Nestes doentes, a resistência fenotípica
+cruzada a outros NNRTIs foi observada da seguinte maneira: 32/42 a etravirina, 30/42 a efavirenz e
+16/42 a nevirapina. Em doentes com carga viral basal ≤ 100.000 cópias/ml, 9 de 27 doentes com
+falência virológica no grupo de tratamento com rilpivirina apresentaram resistência emergente do
+tratamento com rilpivirina (análise genotípica), com a seguinte frequência de resistência fenotípica
+cruzada: 4/9 a etravirina, 3/9 a efavirenz e 1/9 a nevirapina.
+Efeitos no eletrocardiograma
+O efeito de rilpivirina na dose recomendada de 25 mg uma vez por dia no intervalo QTcF foi avaliado
+num estudo aleatorizado, com placebo e controlo ativo (moxifloxacina 400 mg, uma vez por dia),
+controlado e cruzado em 60 adultos saudáveis, com 13 medições durante 24 horas no estado
+estacionário. EDURANT na dose recomendada de 25 mg uma vez por dia não está associado a um
+efeito clinicamente relevante no QTc.
+Quando foram estudadas doses supraterapêuticas de 75 mg uma vez por dia e 300 mg uma vez por dia
+de rilpivirina em adultos saudáveis, as diferenças no tempo de correspondência médio máximo (limite
+de confiança superior a 95%) no intervalo QTcF a partir do placebo, após a correção no nível de base,
+foram de 10,7 (15,3) e 23,3 (28,4) ms, respetivamente. A administração no estado estacionário de
+rilpivirina 75 mg uma vez por dia e 300 mg uma vez por dia resultou numa Cmax média
+aproximadamente 2,6 vezes e 6,7 vezes, respetivamente, superior à Cmax média no estado estacionário
+observada com a dose recomendada de rilpivirina de 25 mg uma vez por dia.
+
+15
+
+Eficácia e Segurança clínicas
+Doentes adultos infetados por VIH-1 sem experiência terapêutica prévia
+A evidência de eficácia de rilpivirinabaseia-se nas análises de dados de 96 semanas dos 2 ensaios de
+Fase III aleatorizados, em dupla ocultação, com controlo ativo TMC278-C209 (ECHO) e
+TMC278-C215 (THRIVE). O desenho dos ensaios foi idêntico, exceto no regime de base (RB). Na
+análise de eficácia de 96 semanas, a taxa de resposta virológica [carga viral indetetável confirmada
+(ARN do VIH-1 < 50 cópias/ml)] foi avaliada em doentes a receberem rilpivirina 25 mg uma vez por
+dia para além do RB versus doentes a receberem efavirenz 600 mg uma vez por dia para além de um
+RB. Foi observada uma eficácia semelhante de rilpivirina em cada ensaio demonstrando
+não-inferioridade ao efavirenz.
+Foram incluídos doentes infetados por VIH-1 sem experiência prévia em terapêutica antirretroviral
+com níveis plasmáticos de ARN do VIH-1 ≥ 5.000 cópias/ml e foram rastreados para suscetibilidade
+aos N(t)RTIs e ausência de mutações associadas a resistência específicas associadas a NNRTIs. No
+ensaio ECHO, o RB foi fixado aos N(t)RTIs tenofovir disoproxil fumarato mais emtricitabina. No
+ensaio THRIVE, o RB consistiu em 2 N(t)RTIs selecionados pelo investigador: tenofovir disoproxil
+fumarato mais emtricitabina ou zidovudina mais lamivudina ou abacavir mais lamivudina. No estudo
+ECHO, a aleatorização foi estratificada por rastreio da carga viral. No estudo THRIVE, a aleatorização
+foi estratificada por rastreio da carga viral e por RB de N(t)RTI.
+Esta análise incluiu 690 doentes no estudo ECHO e 678 doentes no estudo THRIVE que completaram
+96 semanas de tratamento ou que descontinuaram mais cedo.
+Na análise agrupada dos estudos ECHO e THRIVE, as características demográficas e basais estavam
+equilibradas entre o grupo de tratamento com rilpivirina e o grupo de tratamento com efavirenz. A
+tabela 3 apresenta as características iniciais, selecionadas, da doença, dos doentes nos grupos de
+tratamento com rilpivirina e efavirenz.
+Tabela 3:
+
+Características basais da doença em indivíduos adultos infetados por VIH-1 sem
+experiência prévia em terapêutica antirretroviral nos ensaios ECHO e THRIVE (análise
+agrupada)
+
+Dados agrupados dos ensaios ECHO e THRIVE
+Rilpivirina + RB
+N = 686
+
+Efavirenz + RB
+N = 682
+
+5,0
+(2-7)
+249
+(1-888)
+
+5,0
+(3-7)
+260
+(1-1.137)
+
+7,3%
+
+9,5%
+
+80,2%
+
+80,1%
+
+14,7%
+5,1%
+
+15,1%
+4,8%
+
+Características iniciais da doença
+Mediana no nível de base plasmático de ARN
+do VIH-1 iniciais (intervalo), log10 cópias/ml
+Mediana no nível de base da contagem de
+células CD4+ iniciais (intervalo),
+x 106 células/l
+Percentagem de indivíduos com:
+coinfeção por vírus da hepatite B/C
+Percentagem de doentes com os seguintes
+regimes de base:
+tenofovir disoproxil fumarato mais
+emtricitabina
+zidovudina mais lamivudina
+abacavir mais lamivudina
+RB = regime de base
+
+A tabela 4 apresenta os resultados da análise de eficácia às 48 e ás 96 semanas para doentes tratados
+com rilpivirina e doentes tratados com efavirenz a partir dos dados agrupados dos ensaios ECHO e
+THRIVE. A taxa de resposta (carga viral indetetável confirmada do ARN do VIH-1 < 50 cópias/ml)
+na semana 96 foi comparável entre o grupo de tratamento com rilpivirina e o grupo de tratamento com
+efavirenz. Na semana 96, a incidência de falência virológica foi superior no grupo de tratamento com
+rilpivirina do que no grupo de tratamento com efavirenz; no entanto, a maioria das falências
+virológicas ocorreu dentro das primeiras 48 semanas de tratamento. Na semana 96, as descontinuações
+devido a eventos adversos foram superiores no grupo de tratamento com efavirenz do que no grupo de
+16
+
+tratamento com rilpivirina. A maioria destas descontinuações ocorreu nas primeiras 48 semanas de
+tratamento.
+Tabela 4: Resultado virológico em indivíduos adultos nos ensaios ECHO e THRIVE
+(dados agrupados na semana 48 (primária) e análise às 96 semanas; ITT-TLOVR*)
+
+Resposta (ARN do
+VIH-1
+< 50 cópias/ml
+confirmadas)§#
+Não-resposta
+Falência
+virológica†
+Global
+≤ 100.000
+> 100.000
+Morte
+
+Resultados da análise às 48 semanas
+Rilpivirina
+Efavirenz
+Diferença
++ RB
++ RB
+observada
+N = 686
+N = 682
+(95% IC)±
+84,3%
+82,3%
+2,0
+(578/686)
+(561/682)
+(-2,0, 6,0)
+
+9,0%
+(62/686)
+3,8%
+(14/368)
+15,1%
+(48/318)
+0,1%
+(1/686)
+2,0%
+(14/686)
+
+Descontinuação
+devido a
+acontecimento
+adverso (AA)
+Descontinuação
+4,5%
+devido a razão
+(31/686)
+não relacionada
+com AA¶
+Resposta por subcategoria
+Por regime de base NRTI
+Tenofovir/
+83,5%
+emtricitabina
+(459/550)
+Zidovudina/
+87,1%
+lamivudina
+(88/101)
+Abacavir/
+88,6%
+lamivudina
+(31/35)
+
+4,8%
+(33/682)
+3,3%
+(11/330)
+6,3%
+(22/325)
+0,4%
+(3/682)
+6,7%
+(46/682)
+
+ND
+
+5,7%
+(39/682)
+
+82,4%
+(450/546)
+80,6%
+(83/103)
+84,8%
+(28/33)
+
+Resultados da análise às 96 semanas
+Rilpivirina
+Efavirenz
+Diferença
++ RB
++ RB
+observada
+N = 686
+N = 682
+(95% IC)±
+77,6%
+77,6%
+0
+(532/686)
+(529/682)
+(-4,4; 4,4)
+
+11,5%
+(79/686)
+5,7%
+(21/368)
+18,2%
+(58/318)
+0,1%
+(1/686)
+3,8%
+(26/682)
+
+5,9%
+(40/682)
+3,6%
+(12/329)
+7,9%
+(28/353)
+0,9%
+(6/682)
+7,6%
+(52/682)
+
+ND
+
+ND
+
+7,0%
+(48/682)
+
+8,1%
+(55/682)
+
+ND
+
+1,0
+(-3,4; 5,5)
+6,5
+(-3,6; 16,7)
+3,7
+(-12,7;
+20,1)
+
+76,9%
+(423/550)
+81,2%
+(82/101)
+77,1%
+(27/35)
+
+77,3%
+(422/546)
+76,7%
+(79/103)
+84,8%
+(28/33)
+
+-0,4
+(-5,4; 4,6)
+4,5
+(-6,8; 15,7)
+-7,7
+(-26,7;
+11,3)
+
+84,0%
+(309/368)
+70,1%
+(223/318)
+
+79,9%
+(263/329)
+75,4%
+(266/353)
+
+4,0
+(-1,7; 9,7)
+-5,2
+(-12,0; 1,5)
+
+55,9%
+(19/34)
+71,1%
+(138/194)
+80,5%
+(252/313)
+85,4%
+(123/144)
+
+69,4%
+(25/36)
+74,9%
+(131/175)
+79,5%
+(244/307)
+78,7%
+(129/164)
+
+-13,6
+(-36,4; 9,3)
+-3,7
+(-12,8; 5,4)
+1,0
+-5,3; 7,3)
+6,8
+(-1,9; 15,4)
+
+ND
+ND
+ND
+ND
+
+Por carga viral no nível de base (cópias/ml)
+≤ 100.000
+90,2%
+83,6%
+6,6
+(332/368)
+(276/330)
+(1,6; 11,5)
+> 100.000
+77,4%
+81,0%
+-3,6
+(246/318)
+(285/352)
+(-9,8; 2,5)
+Por contagem no nível de base de CD4 (x 10* células/l)
+< 50
+58,8%
+80,6%
+-21,7
+(20/34)
+(29/36)
+(-43,0; -0,5)
+≥ 50-< 200
+80,4%
+81,7%
+-1,3
+(156/194)
+(143/175)
+(-9,3; 6,7)
+≥ 200-< 350
+86,9%
+82,4%
+4,5
+(272/313)
+(253/307)
+(-1,2; 10,2)
+≥ 350
+90,3%
+82,9%
+7,4
+(130/144)
+(136/164)
+(-0,3; 15,0)
+
+17
+
+ND
+ND
+ND
+ND
+
+RB=regime de base; IC=intervalo de confiança; N = número de indivíduos por grupo de tratamento. ND = não
+determinado.
+* Tempo em intenção de tratar até à perda de resposta virológica.
+±
+Baseado numa aproximação normal
+§
+Indivíduos que atingiram resposta virológica (duas cargas virais consecutivas < 50 cópias/ml) e a qual foi mantida
+durante a semana 48/96.
+#
+Diferença prevista das taxas de resposta (95% IC) da análise das 48 semanas: 1,6% (-2,2%; 5,3%) e para a análise das
+96 semanas -0,4% (-4,6%; 3,8%); ambos os valores-p < 0,0001 (não-inferioridade na margem de 12%) a partir do
+modelo de regressão logística, incluindo fatores de estratificação e estudo.
+†
+Falência virológica na análise de eficácia agrupada: inclui indivíduos que tiveram recaída (carga viral confirmada
+≥ 50 cópias/ml após terem respondido ao tratamento) ou aqueles que nunca tiveram supressão (sem carga viral
+confirmada < 50 cópias/ml, quer em tratamento ou descontinuação devido a falta ou perda de eficácia).
+¶
+p. Ex. Perda de acompanhamento, não adesão, retirada do consentimento.
+
+Na semana 96, a alteração média, desde o nível de base, da contagem de células CD4+ foi de
++228 x 106 células/l no grupo de tratamento com rilpivirina e +219 x 106 células/l no grupo de
+tratamento com efavirenz, na análise agrupada dos ensaios ECHO e THRIVE [diferença estimada de
+tratamento (95% IC): 11,3 (-6,8; 29,4)].
+Para a análise de resistência agrupada de 96 semanas, os resultados de resistência para doentes com
+falência virológica definida no protocolo e genótipos emparelhados (nível inicial e falência) são
+apresentados na tabela 5.
+Tabela 5:
+Resultados de resistência por utilização de regimes iniciais NRTI
+(resultados de dados agrupados dos ensaios ECHO e THRIVE na análise de resistência de 96 semanas)
+tenofovir/
+zidovudina/
+abacavir/
+Todos*
+emtricitabina
+lamivudina
+lamivudina
+Tratados com rilpivirina
+Resistência# à
+6,9 (38/550)
+3,0 (3/101)
+8,6 (3/35)
+6,4 (44/686)
+emtricitabina/lamivudina
+% (n/N)
+Resistência à rilpivirina
+6,5 (36/550)
+3,0 (3/101)
+8,6 (3/35)
+6,1 (42/686)
+% (n/N)
+Tratados com Efavirenz
+Resistência à
+1,1 (6/546)
+1,9 (2/103)
+3,0 (1/33)
+1,3 (9/682)
+emtricitabina/lamivudina
+% (n/N)
+Resistência ao efavirenz
+2,4 (13/546)
+2,9 (3/103)
+3,0 (1/33)
+2,5 (17/682)
+% (n/N)
+*
+#
+
+O número de doentes com falência virológica e genótipos emparelhados (nível de base e falência) foram 71, 11 e 4
+para rilpivirina e 30, 10, e 2 para efavirenz, para os regimes de tenofovir/emtricitabina, zidovudina/lamivudina, e
+abacavir/lamivudina, respetivamente.
+A resistência foi definida como o aparecimento de qualquer mutação associada a resistência durante a falência.
+
+Para os doentes que não responderam à terapêutica com rilpivirina e que desenvolveram resistência à
+rilpivirina, foi geralmente observada resistência cruzada a outros NNRTIs aprovados (etravirina,
+efavirenz, nevirapina).
+O estudo TMC278-C204 foi um ensaio de Fase Iib aleatorizado, com controlo ativo conduzido com
+doentes adultos infetados por VIH-1 sem experiência terapêutica antirretroviral, que consiste em
+2 partes: uma parte inicial parcialmente oculta de determinação da dose [doses ocultas de rilpivirina]
+até às 96 semanas, seguida de uma parte sem ocultação de longa duração. Na parte do ensaio sem
+ocultação, os doentes originalmente aleatorizados para uma das três doses de rilpivirina foram todos
+tratados com rilpivirina 25 mg uma vez por dia, para além de um RB, assim que a dose dos estudos de
+Fase III foi selecionada. Os doentes no grupo de controlo receberam efavirenz 600 mg uma vez por
+dia, para além de um RB em ambas as partes do estudo. O RB consistiu em 2 N(t)RTIs selecionados
+pelo investigador: zidovudina mais lamivudina ou tenofovir disoproxil fumarato mais emtricitabina.
+O estudo TMC278-C204 incluiu 368 doentes adultos infetados por VIH-1 sem experiência terapêutica,
+com níveis plasmáticos de ARN do VIH-1 ≥ 5.000 cópias/ml, que tinham recebido anteriormente
+18
+
+tratamento com um N(t)RTI ou um inibidor da protease, com uma duração ≤ 2 semanas, sem que
+tenham utilizado anteriormente NNRTIs, tendo sido rastreados para suscetibilidade a N(t)RTI e para
+ausência de mutações específicas associadas a resistência aos NNRTIs.
+Às 96 semanas, a proporção de doentes com ARN do VIH-1 < 50 cópias/ml a receberem rilpivirina
+25 mg (N = 93) comparativamente com os doentes a receberem efavirenz (N = 89) foi de 76% e 71%,
+respetivamente. O aumento médio desde o nível de base nas contagens de células CD4+ foi de
+146 x 106 células/l em doentes a receberem rilpivirina 25 mg e 160 x 106 células/l em doentes a
+receberem efavirenz.
+Dos doentes que responderam na semana 96, 74% dos doentes que receberam rilpivirina
+permaneceram com carga viral indetetável (ARN do VIH-1 < 50 cópias/ml) na semana 240, em
+comparação com 81% dos doentes que receberam efavirenz. Não foram identificadas questões de
+segurança nas análises da semana 240.
+População pediátrica
+A farmacocinética, segurança, tolerabilidade e eficácia de rilpivirina 25 mg uma vez por dia, em
+combinação com um regime de base selecionado pelo investigador contendo dois NRTIs, foram
+avaliadas no ensaio TMC278-C213 de Fase II, aberto, de braço único em adolescentes infetados pelo
+VIH-1, sem experiência terapêutica prévia, pesando pelo menos 32 kg. Esta análise incluiu 36 doentes
+que completaram pelo menos 48 semanas de tratamento ou descontinuaram antes.
+Os 36 indivíduos tinham uma idade mediana de 14,5 anos (intervalo:12 a 17 anos), e 55,6% era do
+género feminino, 88,9% de raça Negra e 11,1% Asiáticos. A mediana de ARN do VIH-1 no plasma no
+nível basal era de 4,8 log10 cópias por ml, e a mediana de contagem de células CD4+ no nível basal era
+de 414 x 106 células/l (intervalo: 25 a 983 x 106 células/l).
+A Tabela 6 resume os resultados virológicos da semana 48 e semana 240 para o ensaio
+TMC278-C213. Seis indivíduos descontinuaram devido a falência virológica até à semana 48 e
+3 indivíduos descontinuaram após a semana 48. Um indivíduo descontinuou devido a um
+acontecimento adverso na semana 48 e nenhum indivíduo adicional descontinuou devido a
+acontecimentos adversos na semana 240 da análise.
+Tabela 6:
+
+Resultado virológico em indivíduos adolescentes no ensaio TMC278-C213 – análise da
+semana 48 e semana 240; ITT-TLOVR*
+Semana 48
+Semana 240
+N=36
+N=32
+Resposta (ARN do VIH 1 < 50
+72,2%
+43,8%
+cópias/ml confirmadas)§
+(26/36)
+(14/32)
+78,6%
+48%
+≤ 100.000
+(22/28)
+(12/25)
+50%
+28,6%
+> 100.000
+(4/8)
+(2/7)
+Não-resposta
+Falência virológica±
+22,2%
+50%
+Global
+(8/36)
+(16/32)
+17,9%
+48%
+≤ 100.000
+(5/28)
+(12/25)
+37,5%
+57,1%
+> 100.000
+(3/8)
+(4/7)
+Aumento na contagem de células
+6
+201,2 x 10 células/l
+113,6 x 106 células/l
+CD4+ (média)
+
+19
+
+N= número de indivíduos por grupo de tratamento.
+* Tempo em intenção de tratar até à perda de resposta virológica.
+§
+Indivíduos que atingiram resposta virológica (duas cargas virais consecutivas < 50 cópias/ml) e a qual foi mantida
+durante a semana 48 e semana 240.
+±
+Falência virológica na análise de eficácia: inclui indivíduos que tiveram recaída (carga viral confirmada ≥ 50
+cópias/ml após terem respondido ao tratamento) ou aqueles que nunca tiveram supressão (sem carga viral confirmada
+< 50 cópias/ml, quer em tratamento ou descontinuação devido a falta ou perda de eficácia).
+
+A Agência Europeia de Medicamentos diferiu a obrigação de submissão dos resultados dos estudos
+com rilpivirina em um ou mais subgrupos da população pediátrica no tratamento da infeção pelo Vírus
+da Imunodeficiência Humana (VIH-1) (ver secção 4.2 para informação sobre utilização pediátrica).
+Gravidez
+A rilpivirina em combinação com um regime de base foi avaliada num ensaio clínico realizado em
+19 mulheres grávidas durante o segundo e terceiro trimestres, e no pós-parto. Os dados de
+farmacocinética demonstram que a exposição total (AUC) à rilpivirina, como parte de um regime
+antirretroviral, foi aproximadamente 30% inferior durante a gravidez em comparação com o pós-parto
+(6-12 semanas). A resposta virológica foi, de uma maneira geral, preservada ao longo do estudo: dos
+12 doentes que completaram o estudo, 10 doentes apresentaram supressão no final do estudo; nos
+outros 2 doentes foi observado um aumento da carga viral apenas no pós-parto, suspeitando-se que,
+pelo menos para 1 doente tal tenha sido devido a adesão subótima. Não ocorreu transmissão de mãe
+para filho no total das 10 crianças nascidas de mães que completaram o ensaio e para as quais estava
+disponível o estado relativamente ao VIH. A rilpivirina foi bem tolerada durante a gravidez e no pósparto. Não se verificaram novos achados de segurança em comparação com o perfil de segurança
+conhecido para a rilpivirina em adultos infetados com VIH-1 (ver secções 4.2, 4.4 e 5.2).
+5.2
+
+Propriedades farmacocinéticas
+
+As propriedades farmacocinéticas da rilpivirina têm sido avaliadas em indivíduos adultos saudáveis e
+em doentes com 12 ou mais anos de idade infetados por VIH-1 sem experiência prévia à terapêutica
+antirretroviral. A exposição à rilpivirina foi, no geral, inferior nos doentes infetados por VIH-1
+comparativamente aos indivíduos saudáveis.
+Absorção
+Após a administração oral, a concentração plasmática máxima da rilpivirina é normalmente alcançada
+no período de 4-5 horas. A biodisponibilidade absoluta de EDURANT é desconhecida.
+Efeito dos alimentos na absorção
+A exposição à rilpivirina foi aproximadamente 40% inferior quando EDURANT foi administrado em
+jejum, comparativamente a uma refeição calórica normal (533 kcal) ou a uma refeição rica em
+gorduras e calorias (928 kcal). Quando EDURANT foi administrado apenas com uma bebida
+nutricional rica em proteínas, as exposições foram 50% inferiores comparativamente à sua
+administração com uma refeição. EDURANT deve ser administrado com uma refeição de modo a
+obter uma absorção ótima. Tomar EDURANT em jejum ou apenas com uma bebida nutricional pode
+resultar numa diminuição das concentrações plasmáticas de rilpivirina, o que pode reduzir
+potencialmente o efeito terapêutico de EDURANT (ver secção 4.2).
+Distribuição
+A rilpivirina liga-se aproximadamente 99,7% às proteínas plasmáticas in vitro, principalmente à
+albumina. A distribuição da rilpivirina em compartimentos não plasmáticos (p. Ex. Fluido
+cérebroespinal, secreções do trato genital) não foi avaliada em seres humanos.
+
+20
+
+Biotransformação
+Experiências in vitro indicam que a rilpivirina sofre principalmente um metabolismo oxidativo
+mediado pelo sistema (CYP) 3ª do citocromo P450.
+Eliminação
+O tempo de semivida de eliminação da rilpivirina na fase terminal é aproximadamente 45 horas. Após
+a administração oral de uma dose única de 14C-rilpivirina, uma média de 85% e 6,1% da radioatividade
+pode ser recuperada nas fezes e urina, respetivamente. Nas fezes, a rilpivirina inalterada representou
+em média 25% da dose administrada. Apenas vestígios de rilpivirina inalterada (< 1% da dose) foram
+detetados na urina.
+Informação adicional para populações especiais
+População pediátrica (menos de 18 anos de idade)
+A farmacocinética de rilpivirina em adolescentes infetados pelo VIH-1 sem experiência terapêutica
+prévia a receber EDURANT 25 mg uma vez por dia foi comparável à dos doentes adultos infetados
+pelo VIH-1 a receber EDURANT 25 mg uma vez por dia. Não há impacto do peso corporal na
+farmacocinética de rilpivirina em doentes pediátricos no ensaio TMC278-C213 (33 a 93 kg),
+semelhante ao observado nos adultos.
+A farmacocinética da rilpivirina em doentes pediátricos com menos de 12 anos de idade está a ser
+investigada. Não podem ser feitas recomendações posológicas para doentes pediátricos com menos de
+12 anos de idade devido à insuficiência de dados (ver secção 4.2).
+Idosos
+A análise farmacocinética da população em doentes infetados por VIH demonstrou que a
+farmacocinética da rilpivirina não é diferente ao longo do intervalo de idades analisado (18 a 78 anos),
+com apenas 3 indivíduos com idade igual ou superior a 65 anos de idade. Não é necessário qualquer
+ajuste da dose de EDURANT em doentes idosos. EDURANT deve ser utilizado com precaução nesta
+população (ver secção 4.2).
+Género
+Não foram observadas diferenças clinicamente relevantes entre homens e mulheres na farmacocinética
+da rilpivirina.
+Raça
+A análise farmacocinética da população de rilpivirina em doentes infetados por VIH indicou que a raça
+não tinha um efeito clinicamente relevante na exposição à rilpivirina.
+Afeção hepática
+A rilpivirina é metabolizada e eliminada principalmente pelo fígado. Num estudo que comparou
+8 doentes com afeção hepática ligeira (classificação Child-Pugh A) a 8 controlos correspondentes, e
+8 doentes com afeção hepática moderada (classificação Child-Pugh B) a 8 controlos correspondentes,
+a exposição da dose múltipla da rilpivirina foi 47% superior em doentes com insuficiência hepática
+ligeira e 5% superior em doentes com afeção hepática moderada. No entanto, não pode ser excluído
+que a exposição à rilpivirina livre, farmacologicamente ativa aumenta significativamente na afeção
+hepática moderada.
+Não é sugerido qualquer ajuste da dose, mas é necessária precaução em doentes com afeção hepática
+moderada.
+EDURANT não foi estudado em doentes com afeção hepática grave (pontuação Child-Pugh C).
+Assim, EDURANT não é recomendado em doentes com afeção hepática grave (ver secção 4.2).
+
+21
+
+Coinfeção pelo vírus da Hepatite B e/ou C
+A análise farmacocinética da população indicou que a coinfeção pelo vírus da hepatite B e/ou C não
+teve um efeito clinicamente relevante na exposição à rilpivirina.
+Compromisso renal
+A farmacocinética da rilpivirina não foi estudada em doentes com compromisso renal. A eliminação
+renal da rilpivirina é negligenciável. Não é necessário qualquer ajuste da dose em doentes com
+compromisso renal ligeiro ou moderado. Em doentes com compromisso renal grave ou nefropatia em
+fase terminal, EDURANT deve ser utilizado com precaução, uma vez que as concentrações
+plasmáticas podem ser aumentadas devido à alteração da absorção, distribuição e/ou metabolismo do
+fármaco secundário ao compromisso renal. Em doentes com compromisso renal grave ou nefropatia
+em fase terminal a associação de EDURANT com um inibidor potente da CYP3A só deve ser utilizada
+se os benefícios forem superiores aos riscos. Uma vez que a rilpivirina liga-se extensamente às
+proteínas plasmáticas, é improvável que seja significativamente removida por hemodiálise ou diálise
+peritoneal (ver secção 4.2).
+Gravidez e pós-parto
+A exposição à rilpivirina total após a toma de rilpivirina 25 mg, uma vez por dia, como parte de um
+regime antirretroviral, foi inferior durante a gravidez (semelhante para o segundo e terceiro trimestres)
+em comparação com o pós-parto (ver tabela 7). A diminuição nos parâmetros farmacocinéticos da
+rilpivirina não-ligada (isto é, ativa) observada durante a gravidez em comparação com o pós-parto, foi
+menos pronunciada do que para a rilpivirina total.
+Em mulheres a receber rilpivirina 25 mg, uma vez por dia, durante o segundo trimestre de gravidez, os
+valores intra-individuais médios da Cmax, AUC24h e Cmin da rilpivirina total foram, respetivamente,
+21%, 29% e 35% mais baixos em comparação com o pós-parto; durante o terceiro trimestre de
+gravidez, os valores de Cmax, AUC24h e Cmin foram, respetivamente, 20%, 31% e 42% mais baixos em
+comparação com o pós-parto.
+Tabela 7:
+
+Resultados Farmacocinéticos da Rilpivirina Total após Administração de Rilpivirina 25
+mg, Uma Vez por Dia, como parte de um Regime Antirretroviral, durante o 2º Trimestre
+de gravidez, 3º Trimestre de gravidez e no Pós-parto
+Farmacocinética da rilpivirina
+Pós-parto
+Segundo trimestre
+Terceiro trimestre
+total
+(6-12 Semanas)
+de gravidez
+de gravidez
+(média ± DP, tmax: mediana
+(n=11)
+(n=15)
+(n=13)
+[intervalo])
+Cmin, ng/mL
+84,0 ± 58,8
+54,3 ± 25,8
+52,9 ± 24,4
+Cmax, ng/mL
+167 ± 101
+121 ± 45,9
+123 ± 47,5
+tmax, h
+4,00 (2,03-25,08)
+4,00 (1,00-9,00)
+4,00 (2,00-24,93)
+AUC24h, ng.h/mL
+2714 ± 1535
+1792 ± 711
+1762 ± 662
+
+5.3
+
+Dados de segurança pré-clínica
+
+Estudos de toxicidade repetida
+Foi observada toxicidade hepática associada com a indução das enzimas hepáticas em roedores. Nos
+cães foram observados efeitos semelhantes a colestase.
+Estudos de toxicologia reprodutiva
+Estudos em animais não demonstraram evidências de toxicidade embrionária ou fetal relevantes ou
+efeitos na função reprodutiva. Não se verificou teratogenicidade com rilpivirina em ratos fêmea e
+coelhos. As exposições a Níveis Em Que Não Foram Observados Efeitos Adversos (NOAELs)
+embrio-fetais em ratos fêmea e coelhos foram, respetivamente, 15 e 70 vezes superiores
+comparativamente à exposição em seres humanos na dose recomendada de 25 mg uma vez por dia.
+
+22
+
+Carcinogénese e mutagénese
+O potencial carcinogénico da rilpivirina foi avaliado através de uma administração oral por sonda
+gástrica em ratinhos e ratos até às 104 semanas. Nas doses mais baixas testadas nos estudos de
+carcinogenicidade, as exposições sistémicas (baseadas na AUC) à rilpivirina foram 21 vezes (ratinhos)
+e 3 vezes (ratos), comparativamente às observadas em seres humanos na dose recomendada (25 mg
+uma vez por dia). Nos ratos não houve neoplasias relacionadas com o fármaco. Nos ratinhos a
+rilpivirina foi positiva para neoplasias hepatocelulares em machos e fêmeas. Os resultados
+hepatocelulares observados em ratinhos podem ser específicos dos roedores.
+A rilpivirina apresentou resultados negativos na ausência e presença de um sistema de ativação
+metabólico, no ensaio de mutação reversa de Ames in vitro e no ensaio de clastogenicidade de
+linfomas do rato in vitro. A rilpivirina não induziu lesões cromossómicas no teste de micronúcleos in
+vivo em ratinhos.
+6.
+
+INFORMAÇÕES FARMACÊUTICAS
+
+6.1
+
+Lista dos excipientes
+
+Núcleo do comprimido
+Lactose mono-hidratada
+Croscarmelose sódica
+Povidona K30
+Polissorbato 20
+Celulose microcristalina siliciada
+Estearato de magnésio
+Revestimento do comprimido
+Lactose mono-hidratada
+Hipromelose 2910 6 mPa.s
+Dióxido de titânio E171
+Macrogol 3000
+Triacetina
+6.2
+
+Incompatibilidades
+
+Não aplicável.
+6.3
+
+Prazo de validade
+
+3 anos.
+6.4
+
+Precauções especiais de conservação
+
+Conservar no frasco de origem para proteger da luz.
+6.5
+
+Natureza e conteúdo do recipiente
+
+Frasco de 75 ml de polietileno de alta densidade (HDPE) com uma tampa de polipropileno (PP)
+resistente à abertura por crianças e forro de selo da indução. Cada embalagem contém um frasco com
+30 comprimidos.
+
+23
+
+6.6
+
+Precauções especiais de eliminação
+
+Qualquer medicamento não utilizado ou resíduos devem ser eliminados de acordo com as exigências
+locais.
+7.
+
+TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+Janssen-Cilag International NV
+Turnhoutseweg 30
+B-2340 Beerse
+Bélgica
+8.
+
+NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/11/736/001
+9.
+
+DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+INTRODUÇÃO NO MERCADO
+
+Data da primeira autorização: 28 de novembro de 2011
+Data da última renovação: 22 de julho de 2016
+10.
+
+DATA DA REVISÃO DO TEXTO
+
+Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência
+Europeia de Medicamentos http://www.ema.europa.eu/.
+
+24
+
+ANEXO II
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA
+LIBERTAÇÃO DO LOTE
+
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO
+FORNECIMENTO E UTILIZAÇÃO
+
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO
+DE INTRODUÇÃO NO MERCADO
+
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO
+SEGURA E EFICAZ DO MEDICAMENTO
+
+25
+
+A.
+
+FABRICANTE(S) RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+
+Nome e endereço do fabricante responsável pela libertação do lote
+Janssen-Cilag SpA
+Via C. Janssen
+Borgo San Michele
+04100 Latina
+Itália
+B.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO
+
+Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver
+anexo I: Resumo das Características do Medicamento, secção 4.2).
+C.
+
+OUTRAS CONDIÇÕES E REQUISITOS DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+
+
+Relatórios Periódicos de Segurança Atualizados
+
+Os requisitos para a apresentação de relatórios periódicos de segurança para este medicamento estão
+estabelecidos na lista Europeia de datas de referência (lista EURD), tal como previsto nos termos do
+n.º 7 do artigo 107.º-C da Diretiva 2001/83/CE e quaisquer atualizações subsequentes publicadas no
+portal europeu de medicamentos.
+D.
+
+CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ
+DO MEDICAMENTO
+
+
+
+Plano de Gestão do Risco (PGR)
+
+O Titular da AIM deve efetuar as atividades e as intervenções de farmacovigilância requeridas e
+detalhadas no PGR apresentado no Módulo 1.8.2. da Autorização de Introdução no Mercado, e
+quaisquer atualizações subsequentes do PGR acordadas.
+Deve ser apresentado um PGR atualizado:
+
+A pedido da Agência Europeia de Medicamentos
+
+Sempre que o sistema de gestão do risco for modificado, especialmente como resultado
+da receção de nova informação que possa levar a alterações significativas no perfil
+benefício-risco ou como resultado de ter sido atingido um objetivo importante
+(farmacovigilância ou minimização do risco).
+
+26
+
+ANEXO III
+ROTULAGEM E FOLHETO INFORMATIVO
+
+27
+
+A. ROTULAGEM
+
+28
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+EMBALAGEM EXTERIOR
+
+1.
+
+NOME DO MEDICAMENTO
+
+EDURANT 25 mg comprimidos revestidos por película
+rilpivirina
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém cloridrato de rilpivirina equivalente a 25 mg de
+rilpivirina.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose mono-hidratada.
+Ver folheto informativo para mais informações.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+30 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frasco de origem para proteger da luz.
+
+29
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Janssen-Cilag International NV
+Turnhoutseweg 30
+B-2340 Beerse
+Bélgica
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/11/736/001
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+edurant 25 mg
+17.
+
+IDENTIFICADOR ÚNICO – CÓDIGO DE BARRAS 2D
+
+Código de barras 2D com identificador único incluído.
+18.
+
+IDENTIFICADOR ÚNICO – DADOS PARA LEITURA HUMANA
+
+PC: {número} [código do produto]
+SN: {número} [número de série]
+NN: {número} [número de reembolso nacional ou número de registo que identifica o medicamento a
+nível nacional]
+
+30
+
+INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+RÓTULO DO FRASCO
+
+1.
+
+NOME DO MEDICAMENTO
+
+EDURANT 25 mg comprimidos revestidos por película
+rilpivirina
+2.
+
+DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ATIVA(S)
+
+Cada comprimido revestido por película contém cloridrato de rilpivirina equivalente a 25 mg de
+rilpivirina.
+3.
+
+LISTA DOS EXCIPIENTES
+
+Contém lactose mono-hidratada.
+4.
+
+FORMA FARMACÊUTICA E CONTEÚDO
+
+30 comprimidos revestidos por película
+5.
+
+MODO E VIA(S) DE ADMINISTRAÇÃO
+
+Consultar o folheto informativo antes de utilizar.
+Via oral
+6.
+
+ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO
+FORA DA VISTA E DO ALCANCE DAS CRIANÇAS
+
+Manter fora da vista e do alcance das crianças.
+7.
+
+OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+
+8.
+
+PRAZO DE VALIDADE
+
+VAL.:
+9.
+
+CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+
+Conservar no frasco de origem para proteger da luz.
+
+31
+
+10.
+
+CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO
+UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE
+APLICÁVEL
+
+11.
+
+NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+MERCADO
+
+Janssen-Cilag International NV
+Turnhoutseweg 30
+B-2340 Beerse
+Bélgica
+12.
+
+NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+EU/1/11/736/001
+13.
+
+NÚMERO DO LOTE
+
+Lote
+14.
+
+CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+
+15.
+
+INSTRUÇÕES DE UTILIZAÇÃO
+
+16.
+
+INFORMAÇÃO EM BRAILLE
+
+32
+
+B. FOLHETO INFORMATIVO
+
+33
+
+Folheto informativo: informação para o utilizador
+EDURANT 25 mg comprimidos revestidos por película
+rilpivirina
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+Conserve este folheto. Pode ter necessidade de o ler novamente.
+Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+ser-lhes prejudicial, mesmo que apresentem os mesmos sinais de doença.
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados
+neste folheto, fale com o seu médico ou farmacêutico. Ver secção 4.
+O que contém este folheto:
+1.
+O que é EDURANT e para que é utilizado
+2.
+O que precisa de saber antes de tomar EDURANT
+3.
+Como tomar EDURANT
+4.
+Efeitos secundários possíveis
+5.
+Como conservar EDURANT
+6.
+Conteúdo da embalagem e outras informações
+1.
+
+O que é EDURANT e para que é utilizado
+
+EDURANT contém rilpivirina que é utilizada para o tratamento da infeção pelo Vírus da
+Imunodeficiência Humana (VIH). Pertence ao grupo de medicamentos para o VIH chamado inibidores
+não nucleósidos da transcriptase reversa (NNRTIs). EDURANT atua através da diminuição da
+quantidade de VIH no seu corpo.
+EDURANT é utilizado em associação com outros medicamentos para o VIH para tratar
+adolescentes e adultos com 12 ou mais anos de idade infetados com VIH e que nunca tenham sido
+tratados anteriormente com medicamentos para o VIH.
+O seu médico irá avaliar consigo a associação de medicamentos adequados ao seu caso.
+2.
+
+O que precisa de saber antes de tomar EDURANT
+
+Não tome EDURANT se tem alergia à rilpivirina ou a qualquer outro componente deste medicamento
+(indicados na secção 6).
+Não tome EDURANT em associação com qualquer um dos seguintes medicamentos uma vez que
+podem afetar a forma como EDURANT ou os outros medicamentos atuam:
+carbamazepina, oxcarbazepina, fenobarbital, fenitoína (medicamentos para tratar epilepsia e
+evitar convulsões)
+rifampicina, rifapentina (medicamentos para tratar algumas infeções bacterianas, tais como
+tuberculose)
+omeprazol, esomeprazol, lansoprazol, pantoprazol, rabeprazol (inibidores da bomba de protões,
+que são medicamentos para evitar e tratar úlceras do estômago, azia ou doença de refluxo ácido)
+dexametasona (um corticosteroide utilizado numa variedade de condições, tais como inflamação
+e reações alérgicas); quando tomado pela boca ou injetado, exceto como tratamento da dose
+única
+produtos que contenham hipericão (Hypericum perforatum) (um produto à base de plantas
+utilizado para a depressão).
+Se está a tomar algum dos medicamentos acima descritos, pergunte ao seu médico sobre alternativas.
+34
+
+Advertências e precauções
+Fale com o seu médico ou farmacêutico antes de tomar EDURANT.
+EDURANT não é uma cura para a infeção por VIH. É parte de um tratamento para diminuir a
+quantidade de vírus no sangue.
+EDURANT foi utilizado apenas num número limitado de doentes com idade igual ou superior a
+65 anos. Se pertencer a este grupo etário, fale com o seu médico sobre a utilização de EDURANT.
+Informe o seu médico sobre a sua situação
+Certifique-se de que verifica os seguintes pontos e informa o seu médico se alguma destas situações se
+aplica a si.
+Informe o seu médico caso sofra ou tenha sofrido de problemas no seu fígado, incluindo
+hepatite B e/ou C, e/ou problemas nos seus rins. O seu médico pode avaliar a gravidade da sua
+doença de fígado ou rins antes de decidir se pode tomar EDURANT.
+Informe imediatamente o seu médico se notar quaisquer sintomas de infeções (por exemplo,
+febre, arrepios, suores). Em alguns doentes com infeção avançada por VIH e antecedentes de
+infeções oportunistas, podem ocorrer sinais e sintomas de inflamação, resultantes de infeções
+anteriores, pouco depois do início do tratamento para o VIH. Supõe-se que estes sintomas são
+devidos a uma melhoria da resposta imunológica do organismo, permitindo assim ao organismo
+combater infeções que possam ter estado presentes sem quaisquer sintomas evidentes.
+Adicionalmente às infeções oportunistas, as doenças autoimunes (uma condição que ocorre
+quando o sistema imunitário ataca tecidos corporais saudáveis) também podem ocorrer depois
+de começar a tomar os medicamentos para o tratamento da sua infeção pelo VIH. As doenças
+autoimunes podem ocorrer muitos meses após o início do tratamento. Se notar quaisquer
+sintomas de infeção ou outros sintomas como fraqueza muscular, fraqueza a começar nas mãos
+e nos pés e dirigindo-se em direção ao tronco, palpitações, tremores ou hiperatividade, informe
+o seu médico imediatamente para procurar o tratamento necessário.
+Fale com o seu médico se está a tomar qualquer medicamento que pode causar um batimento
+cardíaco irregular colocando a vida em risco (Torsade de Pointes).
+Crianças
+EDURANT não deve ser utilizado em crianças com menos de 12 anos de idade, uma vez que ainda
+não foi suficientemente estudado nestes doentes.
+Outros medicamentos e EDURANT
+Deve tomar EDURANT juntamente com outros medicamentos para o VIH. O seu médico irá
+aconselhá-lo sobre os medicamentos para o VIH que podem ser associados com EDURANT e juntos
+decidirão qual a associação que melhor se adequa a si. Siga cuidadosamente as instruções do seu
+médico.
+Alguns medicamentos podem afetar os níveis de EDURANT no sangue quando administrados ao
+mesmo tempo que EDURANT.
+Informe o seu médico ou farmacêutico se estiver a tomar, tiver tomado recentemente, ou se vier a
+tomar outros medicamentos.
+Não se recomenda a associação de EDURANT com outros inibidores não nucleósidos da
+transcriptase reversa (NNRTIs), tais como delavirdina, efavirenz, etravirina e nevirapina.
+Os efeitos de EDURANT ou de outros medicamentos podem ser influenciados caso tome
+EDURANT ao mesmo tempo que algum dos seguintes medicamentos. Fale com o seu médico, caso
+esteja a tomar:
+rifabutina (um medicamento utilizado para tratar algumas infeções bacterianas). Se está a tomar
+este medicamento enquanto toma EDURANT, por favor, leia com atenção como tomar
+
+35
+
+-
+
+-
+
+-
+
+EDURANT na secção 3 “Instruções para a utilização adequada em adultos e adolescentes (12
+até menos de 18 anos de idade)”
+claritromicina, eritromicina (antibióticos)
+cimetidina, famotidina, nizatidina, ranitidina (antagonistas dos recetores H2 utilizados para tratar
+úlceras de estômago ou intestino ou utilizados para o alívio de azia devido ao refluxo ácido). Se
+toma estes medicamentos, leia por favor cuidadosamente as indicações sobre como tomá-los na
+secção 3 “Instruções para a utilização adequada em adultos e adolescentes (12 até menos
+de 18 anos de idade)”
+antiácidos (utilizados para tratar doenças relacionadas com a acidez do estômago; por exemplo,
+hidróxido de alumínio/magnésio, carbonato de cálcio). Se toma estes medicamentos, leia
+cuidadosamente as indicações sobre como tomá-los na secção 3 “Instruções para a utilização
+adequada em adultos e adolescentes (12 até menos de 18 anos de idade)”
+metadona (utilizado para tratar a privação e dependência aos narcóticos)
+dabigatrano etexilato (anticoagulantes).
+
+Gravidez e amamentação
+Se estiver grávida ou planeia engravidar, contacte o seu médico imediatamente. As mulheres grávidas
+devem discutir a toma de EDURANT com o seu médico.
+A amamentação não é recomendada em mulheres que vivem com VIH porque a infeção pelo VIH
+pode passar para o bebé através do leite materno.
+Se está a amamentar ou pensa em amamentar, deverá assim que possível, aconselhar-se com o seu
+médico.
+Condução de veículos e utilização de máquinas
+Alguns doentes podem sentir cansaço, tonturas ou sonolência durante o tratamento com EDURANT.
+Não conduza ou utilize máquinas se se sentir cansado, com tonturas ou com sono enquanto toma
+EDURANT.
+EDURANT contém lactose
+Se o médico lhe disse que tem intolerância a alguns açúcares, contacte-o antes de tomar este
+medicamento.
+EDURANT contém sódio
+Este medicamento contém menos do que 1 mmol (23 mg) de sódio por comprimido, ou seja, é
+praticamente “isento de sódio”.
+3.
+
+Como tomar EDURANT
+
+Tome este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale com o seu
+médico ou farmacêutico se tiver dúvidas.
+Instruções para a utilização adequada em adultos e adolescentes (12 até menos de 18 anos de
+idade)
+A dose recomendada de EDURANT é de um comprimido uma vez por dia.
+EDURANT deve ser tomado com uma refeição. Uma refeição é importante para obter os níveis
+apropriados da substância ativa no seu corpo. Uma bebida nutricional (i.e. rica em proteínas) isolada,
+não substitui uma refeição.
+Existem quatro situações que necessitam de especial atenção:
+
+36
+
+1.
+
+2.
+
+3.
+
+4.
+
+Se está a tomar rifabutina (um medicamento utilizado para tratar algumas infeções
+bacterianas), tome dois comprimidos de EDURANT uma vez por dia. Quando parar de tomar
+rifabutina, tome um comprimido de EDURANT uma vez por dia. Fale com o seu médico ou
+farmacêutico se tiver dúvidas.
+Se está a tomar um antiácido (medicamento utilizado para tratar doenças relacionadas com a
+acidez do estômago, tais como hidróxido de alumínio/magnésio, carbonato de cálcio). Tome o
+antiácido pelo menos 2 horas antes ou pelo menos 4 horas depois de EDURANT (ver secção 2
+“Outros medicamentos e EDURANT”).
+Se está a tomar um antagonista dos recetores H2 (medicamentos utilizados para tratar úlceras
+do estômago ou intestino ou utilizados para o alívio de azia devido ao refluxo ácido) (tais como
+cimetidina, famotidina, nizatidina ou ranitidina). Tome o antagonista dos recetores H2 pelo
+menos 12 horas antes ou pelo menos 4 horas depois de EDURANT (ver secção 2 “Outros
+medicamentos e EDURANT”). Os antagonistas dos recetores H2 não devem ser tomados num
+regime de doses de duas vezes por dia. Fale com o seu médico sobre um regime alternativo.
+Se está a tomar didanosina (um medicamento para o tratamento da infeção pelo VIH), não é
+necessário ajuste de dose. A didanosina deve ser administrada com o estômago vazio pelo
+menos duas horas antes ou pelo menos quatro horas depois de tomar EDURANT (que deverá
+ser tomado com uma refeição).
+
+Retirar a tampa resistente à abertura por crianças
+O frasco contém uma tampa resistente à abertura por crianças. Pode ser aberta
+empurrando a tampa para baixo, enquanto a roda no sentido contrário ao dos
+ponteiros do relógio.
+
+Se tomar mais EDURANT do que deveria
+Contacte imediatamente o seu médico ou farmacêutico. No caso de sobredosagem poderá ter dor de
+cabeça, náuseas, tonturas, e/ou sonhos anormais.
+Caso se tenha esquecido de tomar EDURANT
+Caso se lembre no período de 12 horas após a hora em que normalmente toma EDURANT, deve
+tomá-lo o mais rapidamente possível. O comprimido de EDURANT deve ser tomado com uma
+refeição. Depois tome a próxima dose de acordo com tratamento habitual. Caso se lembre após
+12 horas, não tome essa dose e continue o tratamento como habitual. Não tome uma dose a dobrar
+para compensar uma dose que se esqueceu de tomar.
+Se vomitar num período de menos de 4 horas após ter tomado EDURANT, tome outro comprimido
+com uma refeição. Se vomitar num período superior a 4 horas após tomar EDURANT não necessita de
+tomar outro comprimido até à próxima dose do esquema habitual.
+Fale com o seu médio se tem dúvidas sobre o que fazer se se esquecer de uma dose ou vomitar.
+Não pare de tomar EDURANT
+O tratamento do VIH não cura a infeção pelo VIH! Não pare de tomar EDURANT sem falar primeiro
+com o seu médico. Mesmo que se sinta melhor, não pare de tomar EDURANT ou outros
+medicamentos para o VIH. Isto poderia aumentar o risco de desenvolvimento de resistência ao vírus.
+Fale primeiro com o seu médico.
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou
+farmacêutico.
+
+37
+
+4.
+
+Efeitos secundários possíveis
+
+Como todos os medicamentos, este medicamento pode causar efeitos secundários, no entanto estes não
+se manifestam em todas as pessoas.
+Muito frequentes:
+dor de cabeça
+náuseas
+dificuldade em adormecer (insónias)
+tonturas
+alterações num dos seus exames de rotina ao fígado (transaminases)
+aumento do colesterol e/ou da amilase pancreática no seu sangue
+Frequentes:
+sonhos anormais
+erupção na pele
+dor de estômago
+depressão
+cansaço
+vómitos
+sonolência
+diminuição do apetite
+perturbações do sono
+desconforto no estômago
+humor depressivo
+boca seca
+contagem baixa de glóbulos brancos e/ou plaquetas, diminuição da hemoglobina no seu sangue,
+aumento dos triglicéridos, da lipase e/ou da bilirrubina no seu sangue
+Pouco frequentes:
+sinais ou sintomas de inflamação ou infeção, por exemplo febre, arrepios, suores (síndrome de
+reativação imunológica)
+Comunicação de efeitos secundários
+Se tiver quaisquer efeitos secundários, incluindo possíveis efeitos secundários não indicados neste
+folheto, fale com o seu médico ou farmacêutico. Também poderá comunicar efeitos secundários
+diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao comunicar
+efeitos secundários, estará a ajudar a fornecer mais informações sobre a segurança deste medicamento.
+5.
+
+Como conservar EDURANT
+
+Manter este medicamento fora da vista e do alcance das crianças.
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no frasco,
+após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+Conservar no frasco de origem para proteger da luz.
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+38
+
+6.
+
+Conteúdo da embalagem e outras informações
+
+Qual a composição de EDURANT
+A substância ativa é a rilpivirina, sob a forma de cloridrato de rilpivirina. Cada comprimido de
+EDURANT contém cloridrato de rilpivirina equivalente a 25 mg de rilpivirina.
+Os outros componentes do núcleo do comprimido revestido por película são a lactose monohidratada, croscarmelose sódica, povidona K30, polissorbato 20, celulose microcristalina
+siliciada e estearato de magnésio. O revestimento por película contém lactose mono-hidratada,
+hipromelose 2910 6 mPa.s dióxido de titânio E171, macrogol 3000 e triacetina.
+Qual o aspeto de EDURANT e conteúdo da embalagem
+Comprimido branco a esbranquiçado, revestido por película, redondo, biconvexo, com “TMC”
+gravado num dos lados e “25” no outro lado.
+Um frasco com fecho resistente à abertura por crianças contendo 30 comprimidos revestidos por
+película.
+Titular da Autorização de Introdução no Mercado
+Janssen-Cilag International NV
+Turnhoutseweg 30
+B-2340 Beerse
+Bélgica
+Fabricante
+Janssen-Cilag SpA
+Via C. Janssen
+Borgo San Michele
+04100 Latina
+Itália
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+België/Belgique/Belgien
+Janssen-Cilag NV
+Tel/Tél: +32 14 64 94 11
+janssen@jacbe.jnj.com
+
+Lietuva
+UAB "JOHNSON & JOHNSON"
+Tel: +370 5 278 68 88
+lt@its.jnj.com
+
+България
+„Джонсън & Джонсън България” ЕООД
+Тел.: +359 2 489 94 00
+jjsafety@its.jnj.com
+
+Luxembourg/Luxemburg
+Janssen-Cilag NV
+Tél/Tel: +32 14 64 94 11
+janssen@jacbe.jnj.com
+
+Česká republika
+Janssen-Cilag s.r.o.
+Tel: +420 227 012 227
+
+Magyarország
+Janssen-Cilag Kft.
+Tel.: +36 1 884 2858
+
+Danmark
+Janssen-Cilag A/S
+Tlf: +45 4594 8282
+jacdk@its.jnj.com
+
+Malta
+AM MANGION LTD.
+Tel: +356 2397 6000
+Tel: +356 2397 6000
+
+Deutschland
+Janssen-Cilag GmbH
+Tel: +49 2137 955 955
+jancil@its.jnj.com
+
+Nederland
+Janssen-Cilag B.V.
+Tel: +31 76 711 1111
+janssen@jacnl.jnj.com
+
+39
+
+Eesti
+UAB "JOHNSON & JOHNSON" Eesti filiaal
+Tel: +372 617 7410
+ee@its.jnj.com
+
+Norge
+Janssen-Cilag AS
+Tlf: +47 24 12 65 00
+jacno@its.jnj.com
+
+Ελλάδα
+Janssen-Cilag Φαρμακευτική Α.Ε.Β.Ε.
+Tηλ: +30 210 80 90 000
+
+Österreich
+Janssen-Cilag Pharma GmbH
+Tel: +43 1 610 300
+
+España
+Janssen-Cilag, S.A.
+Tel: +34 91 722 81 00
+infojaces@its.jnj.com
+
+Polska
+Janssen-Cilag Polska Sp. z o.o.
+Tel.: +48 22 237 60 00
+
+France
+Janssen-Cilag
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+medisource@its.jnj.com
+
+Portugal
+Janssen-Cilag Farmacêutica, Lda.
+Tel: +351 214 368 600
+
+Hrvatska
+Johnson & Johnson S.E. d.o.o.
+Tel: +385 1 6610 700
+jjsafety@JNJCR.JNJ.com
+
+România
+Johnson & Johnson România SRL
+Tel: +40 21 207 1800
+
+Ireland
+Janssen Sciences Ireland UC
+Tel: +353 1 800 709 122
+
+Slovenija
+Johnson & Johnson d.o.o.
+Tel: +386 1 401 18 00
+Janssen_safety_slo@its.jnj.com
+
+Ísland
+Janssen-Cilag AB
+Sími: +354 535 7000
+janssen@vistor.is
+
+Slovenská republika
+Johnson & Johnson s.r.o.
+Tel: +421 232 408 400
+
+Italia
+Janssen-Cilag SpA
+Tel: 800.688.777 / +39 02 2510 1
+janssenita@its.jnj.com
+
+Suomi/Finland
+Janssen-Cilag Oy
+Puh/Tel: +358 207 531 300
+jacfi@its.jnj.com
+
+Κύπρος
+Βαρνάβας Χατζηπαναγής Λτδ,
+Τηλ: +357 22 207 700
+
+Sverige
+Janssen-Cilag AB
+Tfn: +46 8 626 50 00
+jacse@its.jnj.com
+
+Latvija
+UAB "JOHNSON & JOHNSON" filiāle Latvijā
+Tel: +371 678 93561
+lv@its.jnj.com
+
+United Kingdom (Northern Ireland)
+Janssen Sciences Ireland UC
+Tel: +44 1 494 567 444
+
+Este folheto foi revisto pela última vez em {MM/AAAA}.
+
+Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência
+Europeia de Medicamentos http://www.ema.europa.eu/.
+40
+
+
