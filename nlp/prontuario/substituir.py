@@ -2192,7 +2192,7 @@ for entry in data:
             "brucelose"
             ]
         
-    elif entry['Substância Ativa/DCI'] == "Risedronato de sódio" or entry['Substância Ativa/DCI'] == "Ácido alendrónico":
+    elif entry['Substância Ativa/DCI'] == "Risedronato de sódio" or entry['Substância Ativa/DCI'] == "Ácido alendrónico" or entry['Substância Ativa/DCI'] == "Ácido ibandrónico":
         entry['Doença(s)'] = [
             "osteoporose"  
             ]
