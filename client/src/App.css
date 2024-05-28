@@ -72,17 +72,18 @@ html {
 
 body {
     position: relative;
-    margin: 0;
     min-height: 100vh;
     font-family: 'Muli', sans-serif !important;
-    overflow-x: hidden;
-    margin: 0;
+    overflow-x: hidden !important;
+    margin: 0 !important;
     font-size: 1rem !important;
     font-weight: 400 !important;
     line-height: 1.5 !important;
     color: #212529 !important;
     text-align: left !important;
     background-color: #FAFAFA !important;
+    display: flex;
+    flex-direction: column;
 }
 
 html, div, main, .header, .landing-page, .services, .search-bar, .human-body, footer {
@@ -284,7 +285,9 @@ li {
 
 main {
     overflow: hidden;
-    margin-bottom: 150px;
+    padding-bottom: 2.5rem;  
+    position: relative;
+    /* min-height: 100vh; */
 }
 
 .landing-page, .services, .search-bar {
@@ -434,7 +437,9 @@ p, h5, h6 {
 }
 
 footer {
+    position: absolute;
     margin-top: auto;
+    bottom: 0;
     width: 100%;
     padding-top: 20px;
     color: var(--footer-text);
@@ -486,10 +491,15 @@ footer {
     border-radius: 24px;
 } */
 
+.dropdown {
+    background-color: var(--btn-1-color);
+    margin-right: 0;
+    /* border: 1px solid rgba(25, 118, 210, 0.5); */
+}
 
 .dropdown:first-child {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .dropbtn {
@@ -506,6 +516,7 @@ footer {
 .dropdown-content {
     display: none;
     background-color: transparent !important;
+    margin-right: 0 !important;
 }
 
 .search-bar {
@@ -553,7 +564,9 @@ form .btn-2 {
     display: none;
 }
 
-.results .container .row .closebnt {
+/* AVALIAÇÂO */
+
+.results .row .closebnt {
     width: 120px;
     font-size: 11px;
     margin-left: auto;
@@ -562,7 +575,13 @@ form .btn-2 {
     margin-bottom: 10px;
 }
 
-.selected .container .row h5 {
+.injury-assessment {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; 
+}
+
+.selected .row h5 {
     font-weight: 500;
     font-size: 1.5rem;
     line-height: 56px;
@@ -571,7 +590,7 @@ form .btn-2 {
 }
 
 .result-row {
-    height: 100px;
+    height: 80px;
     display: flex;
     background-color: var(--article-bg);
     margin-top: 20px;
@@ -584,23 +603,45 @@ form .btn-2 {
     flex: 1;
     padding-left: 20px;
     padding-top: 20px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2; /* Número máximo de linhas */
+    line-height: 1.2; /* Altura da linha */
 }
 
 .result-row .MuiBox-root {
-    padding-top: 35px;
+    padding-top: 20px;
+    width: 100px;
 }
 
 .result-row .MuiButtonBase-root {
     margin-right: 30px;
 }
 
-.total .container .row div {
+.results {
+    flex: 3 !important;
+    padding: 10px;
+}
+
+.selected-total-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.selected, .total {
+    padding: 10px;
+}
+
+
+.total .row div {
     margin-top: 30px;
     text-align: right;
     padding-right: 20px;
 }
 
-.total .container .row p {
+.total .row p {
     background-color: var(--article-bg);
     height: 50px;
     width: 70px;
@@ -613,20 +654,113 @@ form .btn-2 {
     border: 1px solid rgba(25, 118, 210, 0.5);
 }
 
-.total .container .row h5 {
+.total .row h5 {
     padding-right: 15px;
 }
 
+/* HUMAN BODY */
+
 .human-body {
-    padding-top: 150px;
+    padding-top: 70px;
 }
 
 .body-results {
     padding: 20px;
     overflow-y: auto;
-    max-height: calc(100vh - 50px);
+    max-height: calc(100vh - 20vh);
 }
+
+.results .container {
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+}
+
+/* MEDICAMENTOS */
 
 .medicacao {
     padding-top: 30px;
+}
+
+.dosagem-input {
+    margin-left: 10px;
+    width: 200px !important;
+}
+
+.MuiDataGrid-root {
+    margin-top: 20px !important;
+}
+
+.medicamentos-result {
+    display: block;
+    margin-bottom: 50px;
+}
+
+.medicamentos-result .container .selectedbtn {
+    width: 120px;
+    font-size: 11px;
+    margin-top: 10px;
+    float: right;
+}
+
+.medicamentos-selecionados {
+    display: block;
+}
+
+.medicamentos-selecionados .result-row {
+    min-width: 100%;
+    height: min-content;
+    font-size: 12px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.MuiFormLabel-root, .MuiTypography-root {
+    font-size: 13px !important;
+    font-family: 'Muli' !important;
+}
+
+.MuiFormGroup-root .MuiButtonBase-root {
+    margin-right: 10px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.general-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+    padding-bottom: 2.5rem;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    padding-top: 20px;
+    color: var(--footer-text);
+    background: var(--footer-bg);
+    /* Remove the absolute positioning */
+    /* position: absolute; */
+    /* margin-top: auto; */
+    /* bottom: 0; */
+}
+
+.sc-body-model__rotate {
+    display: flex;
+    flex-direction: column; /* Empilha os elementos em uma coluna */
+    align-items: center; /* Alinha os itens horizontalmente */
+    justify-content: center; /* Alinha os itens verticalmente */
+    text-align: center; 
+}
+
+.sc-body-model__rotate img {
+    max-width: 100px; /* Ajuste conforme necessário */
 }

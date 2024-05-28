@@ -12,6 +12,8 @@ import CloseIcon from '@mui/icons-material/Close';
 import Header from "./header";
 import Footer from "./footer";
 
+import {uri} from '../App';
+
 
 function renderTabela(tabela, level, toggleDropdown, buttons) {
     return (
@@ -21,9 +23,9 @@ function renderTabela(tabela, level, toggleDropdown, buttons) {
                     {tabela['desc']}
                 </Button>
                 <div className={`dropdown-content submenu ${buttons[level] === tabela.id ? 'visible' : 'hidden'}`}>
-                    {tabela['nota'] ? <div>Nota: {tabela['nota']}</div> : null}
+                    {/* {tabela['nota'] ? <div>Nota: {tabela['nota']}</div> : null}
                     {tabela['cod'] ? <div>Código: {tabela['cod']}</div> : null}
-                    {tabela['valor'] ? <div>Valor: {tabela['valor']}</div> : null}
+                    {tabela['valor'] ? <div>Valor: {tabela['valor']}</div> : null} */}
                     {tabela.sub ? (tabela.sub.map((subData) => (
                         <a key={subData.id}>
                             {renderTabela(subData, level + 1, toggleDropdown, buttons)}
@@ -73,14 +75,15 @@ function calculateCoefs(valor) {
 
 function Avaliacao () {
 
-    const baseURL = "http://localhost:3001/tabela/search";
-    // const baseURL = "http://54.38.159.80/aprioriapp/tabela/search";
+    const baseURL = uri + "/tabela/search";
 
     const [buttons, setButton] = useState([]);
 
     useEffect(() => {
         console.log('buttons atualizado:', buttons);
         console.log('buttons lenght', buttons.length);
+        console.log('buttons c/ resultado:', buttons.filter(item => item.hasOwnProperty('min')));
+        console.log('url', baseURL)
     }, [buttons]);
 
 
@@ -161,7 +164,7 @@ function Avaliacao () {
             // Atualiza a largura
             nextSiblingElement.style.width = (100 - level * 2) + '%' 
             nextSiblingElement.style.marginLeft = 'auto'
-            nextSiblingElement.style.marginRight = 'auto'
+            // nextSiblingElement.style.marginRight = 'auto'
             
         // Se o dropdown estiver aberto, fecha-se
         } else {
@@ -173,22 +176,26 @@ function Avaliacao () {
                 return newIds;
             });
 
-            // Remove-se of filhos da lista 
-            buttons.forEach(element => {
-                if (element.id.includes(item.id)) {
-                    setButton(prevIds => {
-                        // Mantém todos os ids que sejam diferente do item.id
-                        const newIds = prevIds.filter(id => id.id !== element.id);
-                        return newIds;
-                    });
-                }
-            });
+            // // Remove-se of filhos da lista 
+            // buttons.forEach(element => {
+            //     if (element.id.includes(item.id)) {
+            //         setButton(prevIds => {
+            //             // Mantém todos os ids que sejam diferente do item.id
+            //             const newIds = prevIds.filter(id => id.id !== element.id);
+            //             return newIds;
+            //         });
+            //     }
+            // });
             
             // Remove-se a classe "visible" e adiciona-se a classe "hidden" para ocultar o dropdown
 
             // Para os filhos
             let sonToDelete = [];
             event.target.nextElementSibling.querySelectorAll('.dropbtn').forEach(element => {
+                setButton(prevIds => {
+                    const newIds = prevIds.filter(item => item.desc !== element.innerText);
+                    return newIds;
+                })
                 sonToDelete.push(element.nextElementSibling);
             });
 
@@ -206,7 +213,7 @@ function Avaliacao () {
             nextSiblingElement.classList.remove('visible');
             nextSiblingElement.classList.add('hidden');
             event.target.style.removeProperty('background-color');
-}
+        }
 
     };
     
@@ -328,8 +335,10 @@ function Avaliacao () {
         return false;
     }
 
+    const hasButtons = buttons && buttons.filter(item => item.hasOwnProperty('min')).length > 0;
+
     return (
-        <div>
+        <div className="general-page">
             <Header />
             <main>
             <div className="search-bar">
@@ -350,92 +359,89 @@ function Avaliacao () {
                 </div>
             </div>
 
-            <div id="searchResults" className="results">
-                <div className="container">
-                    <div className="row">
-                        {(!searchText || searchText.length < 4) && searchResults.length === 0 ? (
-                            null
-                        ) : searchResults.length > 0 ? (
-                            <>
-                            <Button variant="outlined" className="closebnt" startIcon={<CloseIcon />} onClick={handleClose}>
-                                Close All
-                            </Button>
-                            <h6>Tabela Nacional de Incapacidades por Acidentes de Trabalho ou Doenças Profissionais</h6>
-                             {/* Resultados sem 'cod' */}
-                             {searchResults.filter(item => !hasCod(item)).map((item, index) => (
-                                <div key={index}>
-                                    {renderTabela(item, 1, toggleDropdown, buttons)}
-                                    <hr />
-                                </div>
-                            ))}
-                            <br></br>
-                            <h6>Tabela de Avaliação de Incapacidades Permanentes em Direito Civil</h6>
-                            {/* Resultados com 'cod' */}
-                            {searchResults.filter(item => hasCod(item)).map((item, index) => (
-                                <div key={index}>
-                                    {renderTabela(item, 1, toggleDropdown, buttons)}
-                                    <hr />
-                                </div>
-                            ))}
-                            </>
-                        ) : (
-                            <p>Não encontrado na tabela.</p>
-                        )}
-                    </div>
-                </div>
-            </div>
-
-            <div id="selectedResults" className="selected">
-                <div className="container">
-                    <div className="row">
-                        {buttons && buttons.filter(item => item.hasOwnProperty('min')).length > 0 && (
-                            <div>
-                                <h5>Resultados selecionados</h5>
-                                <div className="underline-1"></div>
-                                {buttons.filter(item => item.hasOwnProperty('min')).map((item, index) => (
-                                    <div key={index} className="result-row">
-                                        <p>{item.desc}</p>
-                                        <Box sx={{ width: 300 }}>
-                                            <Slider
-                                                aria-label="Valores restritos"
-                                                defaultValue={item.min}
-                                                valueLabelFormat={valueLabelFormat}
-                                                getAriaValueText={valuetext}
-                                                step={0.01}
-                                                valueLabelDisplay="on"
-                                                marks={[
-                                                    { value: item.min, label: item.min.toString() },
-                                                    { value: item.max, label: item.max.toString() }
-                                                ]}
-                                                min={item.min}
-                                                max={item.max}
-                                                onChange={handleSliderValue(item.id)}
-                                            />
-                                        </Box>
-                                        <IconButton aria-label="delete" onClick={handleDelete(item.id)} >
-                                            <DeleteIcon />
-                                        </IconButton>
+            <div className="container">            
+                <div className={`injury-assessment ${hasButtons ? 'two-columns' : ''}`}>
+                    <div id="searchResults" className="results">
+                        <div className="row">
+                            {(!searchText || searchText.length < 4) && searchResults.length === 0 ? (
+                                null
+                            ) : searchResults.length > 0 ? (
+                                <>
+                                <Button variant="outlined" className="closebnt" startIcon={<CloseIcon />} onClick={handleClose}>
+                                    Close All
+                                </Button>
+                                <h6>Tabela Nacional de Incapacidades por Acidentes de Trabalho ou Doenças Profissionais</h6>
+                                {/* Resultados sem 'cod' */}
+                                {searchResults.filter(item => !hasCod(item)).map((item, index) => (
+                                    <div key={index}>
+                                        {renderTabela(item, 1, toggleDropdown, buttons)}
                                     </div>
                                 ))}
-                            </div>
-                        )}
+                                <br></br>
+                                <h6>Tabela de Avaliação de Incapacidades Permanentes em Direito Civil</h6>
+                                {/* Resultados com 'cod' */}
+                                {searchResults.filter(item => hasCod(item)).map((item, index) => (
+                                    <div key={index}>
+                                        {renderTabela(item, 1, toggleDropdown, buttons)}
+                                    </div>
+                                ))}
+                                </>
+                            ) : (
+                                <p>Não encontrado na tabela.</p>
+                            )}
+                        </div>
                     </div>
-                </div>
-            </div>
 
-            <div id="totalResult" className="total">
-                <div className="container">
-                    <div className="row">
-                        {buttons && buttons.filter(item => item.hasOwnProperty('min')).length > 0 && (
-                            <div>
-                                <h5>Total</h5>
-                                    <p>
-                                    {buttons.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) < 1 ?
-                                    buttons.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) : '1.00'}
-                                    </p>
+                    {hasButtons && (
+                    <div className="selected-total-container">
+                        <div id="selectedResults" className="selected">
+                            <div className="row">
+                                <div>
+                                    <h5>Resultados selecionados</h5>
+                                    <div className="underline-1"></div>
+                                    {buttons.filter(item => item.hasOwnProperty('min')).map((item, index) => (
+                                        <div key={index} className="result-row">
+                                            <p>{item.desc}</p>
+                                            <Box sx={{ width: 100 }}>
+                                                <Slider
+                                                    aria-label="Valores restritos"
+                                                    defaultValue={item.min}
+                                                    valueLabelFormat={valueLabelFormat}
+                                                    getAriaValueText={valuetext}
+                                                    step={0.01}
+                                                    valueLabelDisplay="off"
+                                                    marks={[
+                                                        { value: item.min, label: item.min.toString() },
+                                                        { value: item.max, label: item.max.toString() }
+                                                    ]}
+                                                    min={item.min}
+                                                    max={item.max}
+                                                    onChange={handleSliderValue(item.id)}
+                                                />
+                                            </Box>
+                                            <IconButton aria-label="delete" onClick={handleDelete(item.id)} >
+                                                <DeleteIcon />
+                                            </IconButton>
+                                        </div>
+                                    ))}
+                                </div>
                             </div>
-                        )}
+                        </div>
+                
+
+                        <div id="totalResult" className="total">
+                            <div className="row">
+                                <div>
+                                    <h5>Total</h5>
+                                        <p>
+                                        {buttons.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) < 1 ?
+                                        buttons.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) : '1.00'}
+                                        </p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+                )}
                 </div>
             </div>
 

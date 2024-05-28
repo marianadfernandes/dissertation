@@ -9,6 +9,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var tabelaRouter = require('./routes/tabela');
 var bodyPartsRouter = require('./routes/body_parts_tabela');
+var medicamentoRouter = require('./routes/medicamento');
 
 
 // require do mongoose e definição do caminho para a base de dados
@@ -33,6 +34,7 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/tabela', tabelaRouter);
 app.use('/body', bodyPartsRouter);
+app.use('/medicamento', medicamentoRouter)
 
 // conexão com a base de dados
 mongoose.set("strictQuery", true);

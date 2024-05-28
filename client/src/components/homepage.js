@@ -20,10 +20,10 @@ function NewHomePage() {
     const navTabela = async () => { navigate("/tabela"); window.scrollTo(0, 0);}
     const navCalculo = async () => { navigate("/avaliacao"); window.scrollTo(0, 0);}
     const navUtente = async () => { navigate("/utente"); window.scrollTo(0, 0);}
-    const navMedicamento = async () => { navigate("/medicamentos"); window.scrollTo(0, 0);}
+    const navMedicamento = async () => { navigate("/medicamentos/pesquisa"); window.scrollTo(0, 0);}
 
     return (
-        <div>
+        <div className="general-page">
         <Header />
         <main>
             <div className="landing-page">
@@ -60,7 +60,7 @@ function NewHomePage() {
                                 </p>
                             </div>
                             {/* service 2 */}
-                            <div className="service">
+                            {/* <div className="service">
                                 <div className="service-img">
                                     <img src={icon}/>
                                 </div>
@@ -68,7 +68,7 @@ function NewHomePage() {
                                 <p>Visualize a tabela nacional de 
                                     incapacidades portuguesa em 
                                     formato digital</p>
-                            </div>
+                            </div> */}
                             {/* service 3 */}
                             <div className="service">
                                 <div className="service-img">
@@ -92,26 +92,26 @@ function NewHomePage() {
                                 </p>
                             </div>
                             {/* service 5 */}
-                            <div class="service">
+                            {/* <div class="service">
                                 <div class="service-img">
-                                {/* <img src="img/servs/5.png" /> */}
+                                <img src="img/servs/5.png" />
                                 </div>
-                                {/* <h3>Emergency care</h3>
+                                <h3>Emergency care</h3>
                                 <p>
                                 You can get 24/7 urgent care for yourself or your children and
                                 your lovely family
-                                </p> */}
-                            </div>
+                                </p> 
+                            </div> */}
                             {/* service 6 */}
-                            <div class="service">
+                            {/* <div class="service">
                                 <div class="service-img">
-                                    {/* <img src="img/servs/6.png" /> */}
+                                    <img src="img/servs/6.png" />
                                 </div>
-                                {/* <h3>Tracking</h3>
+                                <h3>Tracking</h3>
                                 <p>
                                 Track and save your medical history and health data
-                                </p> */}
-                            </div>
+                                </p>
+                            </div> */}
                         </div>
                     </div>
                 </div>

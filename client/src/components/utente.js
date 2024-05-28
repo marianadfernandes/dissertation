@@ -34,7 +34,7 @@ function Utente () {
         console.log(tabela[2]);
       }
     return (
-        <div>
+        <div className="general-page">
             <Header>
             </Header>
 
