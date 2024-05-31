@@ -14,8 +14,8 @@ var medicamentoRouter = require('./routes/medicamento');
 
 // require do mongoose e definição do caminho para a base de dados
 const mongoose = require("mongoose");
-const uri = "mongodb://db:27017/projeto"; //docker-compose
-// const uri = "mongodb://localhost:9000/projeto";
+// const uri = "mongodb://db:27017/projeto"; //docker-compose
+const uri = "mongodb://localhost:9000/projeto";
 
 const app = express();
 

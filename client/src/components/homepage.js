@@ -1,12 +1,11 @@
-import { React, useState, useEffect } from "react";
-import axios from "axios";
+import { React } from "react";
 
 import Header from "./header";
 import Footer from "./footer";
 
 import image from "../img/home-page-img.jpg";
 import element from "../img/element.png";
-import icon from "../img/icon-serv-1.png";
+// import icon from "../img/icon-serv-1.png";
 import shape from "../img/service-shape-1.png";
 import lupa from '../img/lupa.png';
 import utente from '../img/icon-utente.png';
@@ -17,7 +16,7 @@ import { useNavigate } from "react-router-dom";
 function NewHomePage() {
     let navigate = useNavigate();
 
-    const navTabela = async () => { navigate("/tabela"); window.scrollTo(0, 0);}
+    // const navTabela = async () => { navigate("/tabela"); window.scrollTo(0, 0);}
     const navCalculo = async () => { navigate("/avaliacao"); window.scrollTo(0, 0);}
     const navUtente = async () => { navigate("/utente"); window.scrollTo(0, 0);}
     const navMedicamento = async () => { navigate("/medicamentos/pesquisa"); window.scrollTo(0, 0);}
@@ -33,11 +32,11 @@ function NewHomePage() {
                             <h1>Avaliação do <br/>Dano Corporal</h1>
                         </div>
                         <div className="col-lg-6 text-lg-left text-center">
-                            <img src={image} className="landing-page-ilust"/>
+                            <img src={image} className="landing-page-ilust" alt=""/>
                         </div>
                     </div>
                 </div>
-                <img src={element} className="landing-page-shape-1"/>
+                <img src={element} className="landing-page-shape-1" alt=""/>
             </div>
 
             <div className="services" id="services">
@@ -52,9 +51,9 @@ function NewHomePage() {
                             {/* service 1 */}
                             <div className="service">
                                 <div className="service-img">
-                                    <img src={lupa}/>
+                                    <img src={lupa} alt=""/>
                                 </div>
-                                <a onClick={navCalculo}><h3>Avaliação do Dano Corporal</h3></a>
+                                <button onClick={navCalculo}><h3>Avaliação do Dano Corporal</h3></button>
                                 <p>Realize o cálculo da incapacidade
                                 total do trabalhador
                                 </p>
@@ -62,7 +61,7 @@ function NewHomePage() {
                             {/* service 2 */}
                             {/* <div className="service">
                                 <div className="service-img">
-                                    <img src={icon}/>
+                                    <img src={icon}  alt=""/>
                                 </div>
                                 <a onClick={navTabela}><h3>Tabela Nacional de Incapacidades</h3></a>
                                 <p>Visualize a tabela nacional de 
@@ -72,9 +71,9 @@ function NewHomePage() {
                             {/* service 3 */}
                             <div className="service">
                                 <div className="service-img">
-                                        <img src={utente}/>
+                                        <img src={utente} alt=""/>
                                     </div>
-                                    <a onClick={navUtente}><h3>Formulário Inicial</h3></a>
+                                    <button onClick={navUtente}><h3>Formulário Inicial</h3></button>
                                     <p>Versão utilizador comum: 
                                         Recolha de dados pessoais e 
                                         de saúde
@@ -83,9 +82,9 @@ function NewHomePage() {
                             {/* service 4 */}
                             <div class="service">
                                 <div class="service-img">
-                                    <img src={medicamento} />
+                                    <img src={medicamento} alt=""/>
                                 </div>
-                                <a onClick={navMedicamento}><h3>Pesquisa de Medicação</h3></a>
+                                <button onClick={navMedicamento}><h3>Pesquisa de Medicação</h3></button>
                                 <p>
                                     Registo de medicação através do site oficial
                                     da Infarmed.
@@ -94,7 +93,7 @@ function NewHomePage() {
                             {/* service 5 */}
                             {/* <div class="service">
                                 <div class="service-img">
-                                <img src="img/servs/5.png" />
+                                <img src="img/servs/5.png" alt=""/>
                                 </div>
                                 <h3>Emergency care</h3>
                                 <p>
@@ -105,7 +104,7 @@ function NewHomePage() {
                             {/* service 6 */}
                             {/* <div class="service">
                                 <div class="service-img">
-                                    <img src="img/servs/6.png" />
+                                    <img src="img/servs/6.png" alt=""/>
                                 </div>
                                 <h3>Tracking</h3>
                                 <p>
@@ -115,8 +114,8 @@ function NewHomePage() {
                         </div>
                     </div>
                 </div>
-                <img src={element} className="services-shape-1" />
-                <img src={shape} className="services-shape-2"/>
+                <img src={element} className="services-shape-1" alt=""/>
+                <img src={shape} className="services-shape-2" alt=""/>
             </div>
         </main>
 

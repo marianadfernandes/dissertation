@@ -287,8 +287,9 @@ main {
     overflow: hidden;
     padding-bottom: 2.5rem;  
     position: relative;
-    /* min-height: 100vh; */
 }
+
+/* HOMEPAGE */
 
 .landing-page, .services, .search-bar {
     position: relative;
@@ -366,13 +367,13 @@ h1, h2, h3, h4, h5, h6 {
     margin: 26px auto 0;
 }
 
-.selected .underline-1 {
+.selected .underline-1, .search-bar .container .row .underline-1, .medicamentos-selecionados .container .underline-1 {
     margin: 10px auto 0;
 }
 
 .underline-1 {
     margin: 26px auto 0;
-    width: 56px;
+    width: 56px !important;
     height: 2px;
     background-color: var(--text-2);
 }
@@ -433,8 +434,19 @@ p, h5, h6 {
     z-index: 1;
     top: -18px;
     left: -250px;
-    /* transform: rotate(21.46deg); */
 }
+
+.service button{
+    background: transparent;
+    border: none;
+    text-align: left;
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 30px;
+    padding: 0;
+}
+
+/* FOOTER */
 
 footer {
     position: absolute;
@@ -484,17 +496,9 @@ footer {
     padding-top: 100px;
 }
 
-/* .table {
-    position: relative;
-    padding: 64px 118px 64px;
-    background: var(--testimonials-bg);
-    border-radius: 24px;
-} */
-
 .dropdown {
     background-color: var(--btn-1-color);
     margin-right: 0;
-    /* border: 1px solid rgba(25, 118, 210, 0.5); */
 }
 
 .dropdown:first-child {
@@ -520,7 +524,6 @@ footer {
 }
 
 .search-bar {
-    padding-top: 30px;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -606,8 +609,8 @@ form .btn-2 {
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 2; /* Número máximo de linhas */
-    line-height: 1.2; /* Altura da linha */
+    -webkit-line-clamp: 2;
+    line-height: 1.2;
 }
 
 .result-row .MuiBox-root {
@@ -709,7 +712,7 @@ form .btn-2 {
 .medicamentos-selecionados .result-row {
     min-width: 100%;
     height: min-content;
-    font-size: 12px;
+    font-size: 13px;
     margin-bottom: 20px;
     display: flex;
     justify-content: space-between;
@@ -723,6 +726,33 @@ form .btn-2 {
 .MuiFormGroup-root .MuiButtonBase-root {
     margin-right: 10px;
 }
+
+.MuiFormControl-root{
+    width: 400px;
+}
+
+.MuiFormControl-root legend{
+    margin-top: 5px;
+}
+
+.search-bar .container .row h6, .medicamentos-selecionados .container h6 {
+    font-weight: 500;
+    font-size: 1.1rem;
+    line-height: 50px;
+    text-align: center;
+    color: var(--text-2);
+    margin-bottom: 0;
+}
+
+.search-bar .navbar {
+    margin-top: 20px;
+}
+
+.medicamentos-selecionados.pesquisa .container h6 {
+    margin-top: 30px;
+    font-size: 1rem;
+}
+/* -------- */
 
 html, body {
     height: 100%;
@@ -747,20 +777,26 @@ footer {
     padding-top: 20px;
     color: var(--footer-text);
     background: var(--footer-bg);
-    /* Remove the absolute positioning */
-    /* position: absolute; */
-    /* margin-top: auto; */
-    /* bottom: 0; */
 }
+
+/* MEN BODY */
 
 .sc-body-model__rotate {
     display: flex;
-    flex-direction: column; /* Empilha os elementos em uma coluna */
-    align-items: center; /* Alinha os itens horizontalmente */
-    justify-content: center; /* Alinha os itens verticalmente */
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
     text-align: center; 
 }
 
 .sc-body-model__rotate img {
-    max-width: 100px; /* Ajuste conforme necessário */
+    max-width: 100px; 
+}
+
+.MuiCircularProgress-root{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    height: 50vh !important;
+    margin-left: 45%;
 }

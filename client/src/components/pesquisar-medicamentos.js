@@ -4,6 +4,8 @@ import { useNavigate } from 'react-router-dom';
 
 import { DataGrid } from '@mui/x-data-grid';
 import Button from '@mui/material/Button';
+import IconButton from '@mui/material/IconButton';
+import DeleteIcon from '@mui/icons-material/Delete';
 
 import Header from "./header";
 import Footer from "./footer";
@@ -128,7 +130,11 @@ function PesquisaMedicamentos () {
 
     function handleContinueButton() {
         navigate('/medicamentos/doenças', { state: { medicamentosSelecionados } });
-      }
+    }
+
+    const handleDelete = (medicamento) => (event) => {
+        setMedicamentosSelecionados(medicamentosSelecionados.filter(med => med._id !== medicamento._id));
+    }
 
     return (
         <div className="general-page">
@@ -136,9 +142,13 @@ function PesquisaMedicamentos () {
             <Header></Header>
 
             <main>
+
             <div className="search-bar">
                 <div className="container">
                     <div className="row">
+                        <h6>Selecione os medicamentos que toma habitualmente</h6>
+                        <div className="underline-1"></div>
+
                         <nav className="navbar navbar-light bg-light">
                             <form className="form-inline" onSubmit={handleSubmit}>
                                 <input
@@ -187,12 +197,17 @@ function PesquisaMedicamentos () {
             )}
 
             {medicamentosSelecionados.length > 0 && (
-                <div className="medicamentos-selecionados">
+                <div className="medicamentos-selecionados pesquisa">
                     <div className="container">
+                        <h6>Medicamentos Selecionados</h6>
+                        <div className="underline-1"></div>
                         {medicamentosSelecionados.map((medicamento, index) => (
                             <div key={index} className="result-row">
                                 <p>{medicamento['Nome do Medicamento']}</p>
                                 <p>{medicamento['Dosagem']}</p>
+                                <IconButton aria-label="delete" onClick={handleDelete(medicamento)} >
+                                    <DeleteIcon />
+                                </IconButton>
                             </div>
                         ))}
                         <Button className='continuebtn' variant="outlined" onClick={handleContinueButton}>Continuar</Button>

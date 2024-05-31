@@ -5,6 +5,8 @@ import Header from "./header";
 import Footer from "./footer";
 
 import Button from "@mui/material/Button";
+import CircularProgress from '@mui/material/CircularProgress';
+import Box from '@mui/material/Box';
 
 import "../menbody.css";
 import "../variables.css";
@@ -22,9 +24,9 @@ function renderTabela(tabela, level, toggleDropdown, buttons) {
               </Button>
               <div className={`dropdown-content submenu ${buttons[level] === tabela.id ? 'visible' : 'hidden'}`}>
                   {tabela.sub ? (tabela.sub.map((subData) => (
-                      <a key={subData.id}>
+                      <div key={subData.id}>
                           {renderTabela(subData, level + 1, toggleDropdown, buttons)}
-                      </a>
+                      </div>
                   ))) : null}
               </div>
           </div>
@@ -77,65 +79,10 @@ const HumanBody = () => {
   const toggleDropdown = (event, item, level) => {
 
     const nextSiblingElement = event.target.nextElementSibling;
-    const parent = event.target.parentNode.parentNode.parentNode.parentNode;
+    // const parent = event.target.parentNode.parentNode.parentNode.parentNode;
 
     // Se o dropdown estiver fechado, abre-se
     if (nextSiblingElement.classList.contains('hidden')) {
-
-        // // Se tiver valor, acrescentar à lista de resultados clicados
-        // if (item.valor) {
-
-        //     // Filtrando o array buttons uma vez antes do loop
-        //     const filteredButtons = buttons.filter(item => item.hasOwnProperty('min'));
-
-        //     // Verificando se há botões a serem removidos
-        //     if (filteredButtons.length > 0) {
-        //         const itemBaseId = item.id.substring(0, item.id.lastIndexOf('.', item.id.lastIndexOf('.') - 1)); // Obtém a parte do id antes do penúltimo ponto
-
-        //         // Criando uma cópia do array de botões para posterior atualização do estado
-        //         let updatedButtons = [...buttons];
-
-        //         // Iterando sobre os botões filtrados
-        //         for (let i = 0; i < filteredButtons.length; i++) {
-        //             const button = filteredButtons[i];
-        //             const buttonBaseId = button.id.substring(0, button.id.lastIndexOf('.', button.id.lastIndexOf('.') - 1)); // Obtém a parte do id do botão antes do penúltimo ponto
-
-        //             // Verificando se o id base do botão atual é o mesmo que o id base do item
-        //             if (buttonBaseId === itemBaseId) {
-
-        //                 // Removendo o botão do array atualizado
-        //                 updatedButtons = updatedButtons.filter(btn => btn.id !== button.id);
-
-        //                 // Fechando o dropdown do botão correspondente
-        //                 let siblingToDelete;
-        //                 parent.querySelectorAll('.dropbtn').forEach(element => {
-        //                     if (element.innerHTML.includes(button.desc)) {
-        //                         siblingToDelete = element;
-        //                     }
-        //                 });
-
-
-        //                 siblingToDelete.style.removeProperty('background-color');
-        //                 siblingToDelete.nextElementSibling.classList.remove('visible');
-        //                 siblingToDelete.nextElementSibling.classList.add('hidden');
-
-        //                 var larguraAtual = parseInt(siblingToDelete.nextElementSibling.style.width);
-        //                 var novaLargura = larguraAtual - 50; // Diminui a largura
-
-        //                 siblingToDelete.nextElementSibling.style.width = novaLargura + "px"; // Define a nova largura
-        //             }
-        //         }
-
-        //         // Atualizando o estado com o novo array de botões
-        //         setButton(updatedButtons);
-        //     }
-
-        //     // const {minCoef, maxCoef} = calculateCoefs(item.valor);
-        //     setButton (prevInfo => {
-        //         return [...prevInfo, { id: item.id, desc: item.desc }];
-        //     });
-
-        // } else {
 
         setButton (prevInfo => {
             return [...prevInfo, { id: item.id, desc: item.desc }];
@@ -210,10 +157,10 @@ const HumanBody = () => {
       } finally {
         setLoading(false);
       }
-    };
+    }
   
     fetchData();
-  }, []);
+  }, [baseURL]);
 
   const bodyURL = uri + "/body/search";
 
@@ -254,6 +201,7 @@ const HumanBody = () => {
   };
 
   const handlePieceClick = async (event) => {
+    setLoading(true);
     // sc-body-model-svg__path--active
     // Get the id or class of the clicked path
     const pathClass = event.target.getAttribute("class");
@@ -281,6 +229,7 @@ const HumanBody = () => {
 
     console.log('all results', allResults);
     setSearchResults(allResults);
+    setLoading(false);
 
     // Remove 'sc-body-model-svg__path--active' from all paths
     const activePath = document.querySelector(
@@ -351,7 +300,7 @@ const HumanBody = () => {
                           d="M40 22c0 1-.453 2.402-3.648 4-1.301.652-2.692 1.117-4.352 1.434v3.957c7.848-1.336 12-4.77 12-9.391 0-6-8.953-10-20-10S4 16 4 22c0 5.43 5.73 9.219 16.45 9.895l-3.762 3.761 2.828 2.828L28 30l-8.484-8.484-2.828 2.828 3.566 3.57c-3.79-.203-6.332-.777-8.606-1.914C8.453 24.402 8 23 8 22s.453-2.402 3.648-4c2.954-1.477 7.317-2 12.352-2s9.398.523 12.352 2C39.547 19.598 40 21 40 22zm0 0"
                         ></path>
                       </svg> */}
-                      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACzklEQVR4nO2ZT4iNURTAfyYpxp+mMWVkZfZSgzANIpGFEhYs/NlMkSJiFGk0SBMbO81kYaFQyFhbTJGFTFboaRSxEMObGSJmPt06U/q69333e+++P1/v/Opsvr5z7jn3vnPOPd8DRVEURVEURVEURVEURQnBYqATOAD0AreAIeA5kAPeA6PAH5FReZaTd4ZEp1dsGFut1DBLgS7gJvABiMokn4FBoBtoBxqqGXQHMCCnF1VJvgL9wNpKBd0su/+6ikG75JX4ZnwMTqPk45inMyavh4G7QB9wCNgiP9s2YAnQBMwUaZJnbfLOVtHpExvDYtNn7TxwHpgTKvjNwLuERX8CD4HTwLqQi/+Hsble1hiUNQv5NAJsLHXRM8CkY4FfwH1gDzCXyjMP2As8EF9sPv6VtCiKyw6j48AVaXW1gvHlKjDh8PliWoMHHYYGylVkArEQuOHwfZ+vkRZLsTOtbgfZYaelPed9D6/H8pNfTvZot6TEOR/FFzGlY2SX47FYzDU7kbGYksmrrNISi8XElsh4TKmWi14SiyxX59QpcIrscjIWy7NiiuBvYDXZYxXwIxaL2RCvvMlbcse0lhBcB2ZRXrYB32MxfEuTzvstF4kpGT1L/TBhbD0t002yWXycsvi/K62xC44b1YRcLc30VgzTdj4BawhDq/jkmla9+r+NEzJQuAaNR7KzZjDxJV5fzJekYkf03cC9AqOyeX6UEumU0bLQ6GkCeSwdoyNhOrTpF1MXksbhNyGL92zgrPTRyEMmxYHbwCXgCLAdWFFAJ21dcNn5IgdhfA5OI3BYgovKIGnqQlw3J7P/fCpAA7AJuObxtSit+NaF6Q3rF19mUEWWySXjDvDW0YZCb8DKagddiAXABgmkR07JdIyXAVMgs0QOeVLr//6EIlQbzCxRoItQZolEPtZDvtuoq3y3UVf5riiKoiiKoiiKolCD/AO5qet1+pbkSwAAAABJRU5ErkJggg=="></img>
+                      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACzklEQVR4nO2ZT4iNURTAfyYpxp+mMWVkZfZSgzANIpGFEhYs/NlMkSJiFGk0SBMbO81kYaFQyFhbTJGFTFboaRSxEMObGSJmPt06U/q69333e+++P1/v/Opsvr5z7jn3vnPOPd8DRVEURVEURVEURVEURQnBYqATOAD0AreAIeA5kAPeA6PAH5FReZaTd4ZEp1dsGFut1DBLgS7gJvABiMokn4FBoBtoBxqqGXQHMCCnF1VJvgL9wNpKBd0su/+6ikG75JX4ZnwMTqPk45inMyavh4G7QB9wCNgiP9s2YAnQBMwUaZJnbfLOVtHpExvDYtNn7TxwHpgTKvjNwLuERX8CD4HTwLqQi/+Hsble1hiUNQv5NAJsLHXRM8CkY4FfwH1gDzCXyjMP2As8EF9sPv6VtCiKyw6j48AVaXW1gvHlKjDh8PliWoMHHYYGylVkArEQuOHwfZ+vkRZLsTOtbgfZYaelPed9D6/H8pNfTvZot6TEOR/FFzGlY2SX47FYzDU7kbGYksmrrNISi8XElsh4TKmWi14SiyxX59QpcIrscjIWy7NiiuBvYDXZYxXwIxaL2RCvvMlbcse0lhBcB2ZRXrYB32MxfEuTzvstF4kpGT1L/TBhbD0t002yWXycsvi/K62xC44b1YRcLc30VgzTdj4BawhDq/jkmla9+r+NEzJQuAaNR7KzZjDxJV5fzJekYkf03cC9AqOyeX6UEumU0bLQ6GkCeSwdoyNhOrTpF1MXksbhNyGL92zgrPTRyEMmxYHbwCXgCLAdWFFAJ21dcNn5IgdhfA5OI3BYgovKIGnqQlw3J7P/fCpAA7AJuObxtSit+NaF6Q3rF19mUEWWySXjDvDW0YZCb8DKagddiAXABgmkR07JdIyXAVMgs0QOeVLr//6EIlQbzCxRoItQZolEPtZDvtuoq3y3UVf5riiKoiiKoiiKolCD/AO5qet1+pbkSwAAAABJRU5ErkJggg==" alt=""></img>
                     </div>
                   </div>
                 </div>
@@ -360,7 +309,12 @@ const HumanBody = () => {
                   <div id="searchResults" className="results">
                     <div className="container">
                       <div className="row">
-                        {searchBodyParts && searchResults.length > 0 ? (
+                      {loading ? (
+                          <Box sx={{ display: 'flex' }}>
+                            <CircularProgress />
+                          </Box>
+                        ) : (
+                        searchBodyParts && searchResults.length > 0 ? (
                           <>
                           <h5>{bodyPart}</h5>
                           <h6>Tabela Nacional de Incapacidades por Acidentes de Trabalho ou Doenças Profissionais</h6>
@@ -379,7 +333,7 @@ const HumanBody = () => {
                               </div>
                           ))}
                           </>
-                        ) : null}
+                        ) : null)}
                       </div>
                     </div>
                   </div>

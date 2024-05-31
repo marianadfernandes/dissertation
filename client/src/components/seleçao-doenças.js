@@ -54,6 +54,9 @@ function SeleçaoDoenças () {
         {medicamentosSelecionados.length > 0 && (
                     <div className="medicamentos-selecionados">
                         <div className="container">
+                        <h6>Selecione a doença associada ao medicamento selecionado</h6>
+                        <div className="underline-1"></div>
+                        
                             {medicamentosSelecionados.map((medicamento, index) => (
                                 <div key={index} className="result-row">
                                     <p>{medicamento['Nome do Medicamento']}</p>
