@@ -1,22 +1,79 @@
 import { React, useState, useEffect } from "react";
-import { useLocation } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 
-import Radio from '@mui/material/Radio';
-import RadioGroup from '@mui/material/RadioGroup';
-import FormControlLabel from '@mui/material/FormControlLabel';
+import Button from '@mui/material/Button';
+import NavigateNextIcon from '@mui/icons-material/NavigateNext';
+import NavigateBeforeIcon from '@mui/icons-material/NavigateBefore';
+
 import FormControl from '@mui/material/FormControl';
 import FormLabel from '@mui/material/FormLabel';
 
+import Autocomplete from '@mui/material/Autocomplete';
+import TextField from '@mui/material/TextField';
+
+import Dialog from '@mui/material/Dialog';
+import DialogActions from '@mui/material/DialogActions';
+import DialogContent from '@mui/material/DialogContent';
+import DialogContentText from '@mui/material/DialogContentText';
+import DialogTitle from '@mui/material/DialogTitle';
+
+import Grid from '@mui/material/Grid';
+import Typography from '@mui/material/Typography';
 
 import Header from "./header";
 import Footer from "./footer";
+
+import confirm_icon from "../img/confirm-icon.png";
+
+function ConfirmDialog({ open, handleClose, handleConfirm, data }) {
+    return (
+        <Dialog
+            open={open}
+            onClose={handleClose}
+            aria-labelledby="confirmation-dialog-title"
+            aria-describedby="confirmation-dialog-description"
+            fullWidth='md'
+        >
+            <DialogTitle id="confirmation-dialog-title"></DialogTitle>
+            <DialogContent>
+                <DialogContentText id="confirmation-dialog-description">
+                    <img className="confirm-icon" src={confirm_icon} alt=""></img>
+                    Tem certeza que deseja submeter os seguintes dados?
+                </DialogContentText>
+                <Grid container spacing={2}>
+                    {Object.entries(data).map(([medicamento, doenças], index) => (
+                        <Grid item xs={12} key={index}>
+                            <Typography variant="h6">{medicamento}</Typography>
+                            <Typography variant="body2"><strong>Usado para tratar:</strong> {doenças.join(', ')}</Typography>
+                        </Grid>
+                    ))}
+                </Grid>
+
+
+            </DialogContent>
+            <DialogActions>
+                <Button onClick={handleClose} color="primary">
+                    Cancelar
+                </Button>
+                <Button onClick={handleConfirm} variant="outlined" autoFocus>
+                    Confirmar
+                </Button>
+            </DialogActions>
+        </Dialog>
+    );
+}
 
 function SeleçaoDoenças () {
 
     const location = useLocation();
     const { medicamentosSelecionados } = location.state || { medicamentosSelecionados: [] };
 
+    const navigate = useNavigate();
+
     const [doençaSelecionada, setDoençaSelecionada] = useState({});
+
+    const [open, setOpen] = useState(false); 
+    const [confirmData, setConfirmData] = useState({});
 
     useEffect(() => {
         const inicializarDoenças = () => {
@@ -31,17 +88,31 @@ function SeleçaoDoenças () {
         inicializarDoenças();
     }, [medicamentosSelecionados]);
  
-    const handleChange = (event, medicamento) => {
-        const value = event.target.value;
-        setDoençaSelecionada(prevState => {
-            const updated = {
-                ...prevState,
-                [medicamento]: [value] // Atualiza o array de doenças selecionadas para o medicamento
-            };
-            console.log('Atualizado doençaSelecionada:', updated);
-            return updated;
-        });
+    const handleAutocompleteChange = (medicamentoNome, newValue) => {
+        setDoençaSelecionada(prevState => ({
+            ...prevState,
+            [medicamentoNome]: newValue,
+        }));
     };
+
+    const handleSubmitButton = () => {
+        setConfirmData(doençaSelecionada);
+        setOpen(true);
+    };
+
+    const handleClose = () => {
+        setOpen(false);
+    };
+
+    const handleConfirm = () => {
+        // Lógica de confirmação
+        console.log("Dados confirmados:", confirmData);
+        setOpen(false);
+    };
+
+    const handleBackButton = () => {
+        navigate('/medicamentos/pesquisa', { state: { medicamentosSelecionados } });
+    }
 
 
     return (
@@ -52,49 +123,60 @@ function SeleçaoDoenças () {
         <main>
 
         {medicamentosSelecionados.length > 0 && (
-                    <div className="medicamentos-selecionados">
-                        <div className="container">
-                        <h6>Selecione a doença associada ao medicamento selecionado</h6>
-                        <div className="underline-1"></div>
-                        
-                            {medicamentosSelecionados.map((medicamento, index) => (
-                                <div key={index} className="result-row">
-                                    <p>{medicamento['Nome do Medicamento']}</p>
-                                    <p>{medicamento['Dosagem']}</p>
-                                        <div className="doenças-container">
-                                            <FormControl component="fieldset">
-                                                <FormLabel component="legend">Selecione uma doença para {medicamento['Nome do Medicamento']}</FormLabel>
-                                                <RadioGroup
-                                                    aria-label={`doenças-${index}`}
-                                                    name={`doenças-${index}`}
-                                                    value={doençaSelecionada[medicamento['Nome do Medicamento']] || ''}
-                                                    onChange={(event) => handleChange(event, medicamento['Nome do Medicamento'])}
-                                                >
-                                                    {medicamento['Doença(s)'].map((doença, idx) => (
-                                                        <FormControlLabel
-                                                            key={idx}
-                                                            value={doença}
-                                                            control={<Radio />}
-                                                            label={doença}
-                                                        />
-                                                    ))}
-                                                </RadioGroup>
-                                            </FormControl>
-                                        </div>
+            <div className="medicamentos-selecionados">
+                <div className="container">
+                    <h6>Selecione a doença associada ao medicamento selecionado</h6>
+                    <div className="underline-1"></div>
+
+                    <Button className="backbtn" 
+                            startIcon={<NavigateBeforeIcon/>}
+                            variant="outlined" 
+                            onClick={handleBackButton}>Voltar</Button>
+
+                        {medicamentosSelecionados.map((medicamento, index) => (
+                            <div key={index} className="result-row">
+                                <p>{medicamento['Nome do Medicamento']}</p>
+                                <p>{medicamento['Dosagem']}</p>
+                                    <div className="doenças-container">
+                                        <FormControl component="fieldset">
+                                            <FormLabel component="legend">
+                                                Selecione uma ou mais doenças para {medicamento['Nome do Medicamento']}
+                                            </FormLabel>
+                                            <Autocomplete
+                                                multiple
+                                                id={`doenças-${index}`}
+                                                options={medicamento['Doença(s)'] || []}
+                                                getOptionLabel={(option) => option}
+                                                value={doençaSelecionada[medicamento['Nome do Medicamento']] || []}
+                                                onChange={(event, newValue) =>
+                                                    handleAutocompleteChange(medicamento['Nome do Medicamento'], newValue)
+                                                }
+                                                renderInput={(params) => (
+                                                    <TextField
+                                                        {...params}
+                                                        label="Selecione doenças"
+                                                        placeholder="Doenças"
+                                                    />
+                                                    )}
+                                            />
+                                        </FormControl>
+                                    </div>
                                 </div>
                             ))}
+                            <Button className='submitbtn' 
+                                    endIcon={<NavigateNextIcon/>}
+                                    variant="outlined" 
+                                    onClick={handleSubmitButton}>Submeter</Button>
                         </div>
-                    </div>
-                )}
-            
-
-            {/* <div className="container">
-                <div className="row justify-content-end mt-3">
-                    <div className="col-auto">
-                        <Button className='continuebtn' variant="outlined" onClick={handleContinueButton}>Continuar</Button>
-                    </div>
                 </div>
-            </div> */}
+                )}
+
+            <ConfirmDialog
+                open={open}
+                handleClose={handleClose}
+                handleConfirm={handleConfirm}
+                data={confirmData}
+            />
 
             </main>
 

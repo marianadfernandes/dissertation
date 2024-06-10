@@ -6,9 +6,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from "./components/homepage";
 import Avaliacao from "./components/avaliacao";
 import Utente from "./components/MenBody";
-// import Medicamentos from './components/medicamentos';
 import PesquisaMedicamentos from "./components/pesquisar-medicamentos";
 import SeleçaoDoenças from "./components/seleçao-doenças";
+import ConfigurarMedicamentos from "./components/configurar-medicamentos";
 
 export const uri = "http://localhost:3001"
 // const uri = "http://54.38.159.80/aprioriapp" // server
@@ -24,6 +24,7 @@ function App() {
           <Route exact path="/utente" element={<Utente />} />
           <Route exact path="/medicamentos/pesquisa" element={<PesquisaMedicamentos />} />
           <Route exact path="/medicamentos/doenças" element={<SeleçaoDoenças />} />
+          <Route exact path="/medicamentos/configurar" element={<ConfigurarMedicamentos />} />
         </Routes>
       </Router>
     </div>

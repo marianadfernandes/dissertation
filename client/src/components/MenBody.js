@@ -202,6 +202,14 @@ const HumanBody = () => {
 
   const handlePieceClick = async (event) => {
     setLoading(true);
+
+    let element = document.querySelector('.col-md-3')
+    console.log(element);
+
+    element.style.marginLeft = '0px';
+    element.style.transition = 'margin-left 0.3s ease';
+    // console.log(event.target.parentElement.parentElement.parentElement.parentElement.style.marginLeft);
+
     // sc-body-model-svg__path--active
     // Get the id or class of the clicked path
     const pathClass = event.target.getAttribute("class");
@@ -271,6 +279,8 @@ const HumanBody = () => {
       <main>
         <div className="human-body">
             <div className="container">
+                  <h6>Selecione a parte do corpo onde tem alguma lesão/doença</h6>
+                  <div className="underline-1"></div>
                 <div className="row">
                 <div className="col-md-3">
                   <div className="sc-body-model evidence-search-body-widget__body-model">

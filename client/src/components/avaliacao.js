@@ -7,12 +7,64 @@ import Button from "@mui/material/Button";
 import IconButton from '@mui/material/IconButton';
 import DeleteIcon from '@mui/icons-material/Delete';
 import CloseIcon from '@mui/icons-material/Close';
+import NavigateNextIcon from '@mui/icons-material/NavigateNext';
 
+import Dialog from '@mui/material/Dialog';
+import DialogActions from '@mui/material/DialogActions';
+import DialogContent from '@mui/material/DialogContent';
+import DialogContentText from '@mui/material/DialogContentText';
+import DialogTitle from '@mui/material/DialogTitle';
+
+import Grid from '@mui/material/Grid';
+import Typography from '@mui/material/Typography';
+
+import confirm_icon from "../img/confirm-icon.png";
 
 import Header from "./header";
 import Footer from "./footer";
 
 import {uri} from '../App';
+
+function ConfirmDialog({ open, handleClose, handleConfirm, data }) {
+    return (
+        <Dialog
+            open={open}
+            onClose={handleClose}
+            aria-labelledby="confirmation-dialog-title"
+            aria-describedby="confirmation-dialog-description"
+            fullWidth='md'
+        >
+            <DialogTitle id="confirmation-dialog-title"></DialogTitle>
+            <DialogContent>
+                <DialogContentText id="confirmation-dialog-description">
+                    <img className="confirm-icon" src={confirm_icon} alt=""></img>
+                    Tem certeza que deseja submeter os seguintes dados?
+                </DialogContentText>
+                <Grid container spacing={2}>
+                {Object.entries(data).map(([key, value], index) => (
+                    <Grid item xs={12} key={index}>
+                        <Typography variant="h6">{value.desc}</Typography>
+                        <Typography variant="body2"><strong>Incapacidade:</strong> {value.slider}</Typography>
+                    </Grid>
+                ))}
+                <Typography variant="h5"><strong>Incapacidade total: </strong>{data.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) < 1 ?
+                                        data.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) : '1.00'}</Typography>
+                </Grid>
+
+
+            </DialogContent>
+            <DialogActions>
+                <Button onClick={handleClose} color="primary">
+                    Cancelar
+                </Button>
+                <Button onClick={handleConfirm} variant="outlined" autoFocus>
+                    Confirmar
+                </Button>
+            </DialogActions>
+        </Dialog>
+    );
+}
+
 
 
 function renderTabela(tabela, level, toggleDropdown, buttons) {
@@ -337,12 +389,33 @@ function Avaliacao () {
 
     const hasButtons = buttons && buttons.filter(item => item.hasOwnProperty('min')).length > 0;
 
+    const [open, setOpen] = useState(false); 
+    const [confirmData, setConfirmData] = useState({});
+
+    const handleSubmitButton = () => {
+        setConfirmData(buttons.filter(item => item.hasOwnProperty('min')));
+        setOpen(true);
+        console.log('Dados submetidos', buttons.filter(item => item.hasOwnProperty('min')))
+    };
+
+    const handleCloseConfirm = () => {
+        setOpen(false);
+    };
+
+    const handleConfirm = () => {
+        // Lógica de confirmação
+        console.log("Dados confirmados:", confirmData);
+        setOpen(false);
+    };
+
     return (
         <div className="general-page">
             <Header />
             <main>
             <div className="search-bar">
                 <div className="container">
+                        <h6>Pesquise pela incapacidade a avaliar</h6>
+                        <div className="underline-1"></div>
                     <div className="row">
                         <nav className="navbar navbar-light bg-light">
                             <form className="form-inline" onSubmit={handleSubmit} onChange={handleSubmit}>
@@ -352,7 +425,7 @@ function Avaliacao () {
                                         aria-label="Search" 
                                         value={searchText} 
                                         onChange={handleSearchChange}/>
-                                <button className="btn-2" type="submit" onClick={handleSearch}>Search</button>
+                                <button className="btn-2" type="submit" onClick={handleSearch}>Pesquisa</button>
                             </form>
                         </nav>  
                     </div>
@@ -368,7 +441,7 @@ function Avaliacao () {
                             ) : searchResults.length > 0 ? (
                                 <>
                                 <Button variant="outlined" className="closebnt" startIcon={<CloseIcon />} onClick={handleClose}>
-                                    Close All
+                                    Fechar tudo
                                 </Button>
                                 <h6>Tabela Nacional de Incapacidades por Acidentes de Trabalho ou Doenças Profissionais</h6>
                                 {/* Resultados sem 'cod' */}
@@ -431,12 +504,23 @@ function Avaliacao () {
 
                         <div id="totalResult" className="total">
                             <div className="row">
-                                <div>
+                                <div className="total-row">
                                     <h5>Total</h5>
+                                    <div className="total-content">
                                         <p>
-                                        {buttons.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) < 1 ?
-                                        buttons.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) : '1.00'}
+                                            {(() => {
+                                                const total = buttons
+                                                    .filter(item => item.slider)
+                                                    .reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0);
+                                                const totalFixed = total.toFixed(2);
+                                                return total < 1 ? totalFixed : '1.00';
+                                            })()}
                                         </p>
+                                        <Button className='submitbtn' 
+                                            endIcon={<NavigateNextIcon/>}
+                                            variant="outlined" 
+                                            onClick={handleSubmitButton}>Submeter</Button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -445,7 +529,12 @@ function Avaliacao () {
                 </div>
             </div>
 
-            
+            <ConfirmDialog
+                open={open}
+                handleClose={handleCloseConfirm}
+                handleConfirm={handleConfirm}
+                data={confirmData}
+            />
            
             </main>
             <Footer /> 

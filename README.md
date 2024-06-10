@@ -25,9 +25,15 @@
 			- Alguns botões da camada final podem conter referência em vez de valor. Se for referência única com correspondência a (intervalo de) valor(es), irá ser procurado o valor correspondente à(s) mesma(s). 
 			- Por baixo dos resultados, encontram-se informações sobre os botões que estão selecionados. Cada seleção, tem associada um slider com valores mínimos e máximos correspondentes ao intervalo de valor respetivo. É possível escolher um valor nesse intervalor. 
 			- No canto inferior direito, vê-se uma caixa com a soma dos coeficientes selecionados (menor ou igual 1).
+	- **Corpo** ("/utente") -  página com modelo do corpo humano onde é possível clicar nas várias partes do corpo. A cada parte estão associadas as entradas da Tabela Nacional de Incapacidades correspondentes. 
+	- **Pesquisa de Medicamentos** ("/medicamentos/pesquisa") - página com barra de pesquisa para procura de medicamento por nome comercial e dosagem. Apenas é possível a seleção de um medicamento por pesquisa.
+	- **Seleção de Doenças** ("/medicamentos/doenças") - Na sequência da seleção de medicamentos, a página seguinte apresenta todos os medicamentos selecionados e permite selecionar as doenças que a pessoa tem/sofre relacionado com o medicamento selecionado.
 - Componentes:
 	- **header.js** - header de todas as páginas da aplicação, com barra de navegação.
 	- **footer.js** - footer de todas as páginas da aplicação.
 	- **homepage.js** - componente correspondente aos elementos da página principal, incluindo ligação às funcionalidades da aplicação.
 	- **tabela.js** - componente correspondente à apresentação dos dados presentes nas tabelas.
 	- **avaliacao.js** - componente correspondente à ferramenta para cálculo do dano corporal, com pesquisa na tabela, seleção dos danos, escolha do valor por ramo e soma final.
+	- **menbody.js**
+	- **pesquisa_medicamentos.js**
+	- **selecao_doenças.js**

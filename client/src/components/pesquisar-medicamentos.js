@@ -1,6 +1,6 @@
 import { React, useState, useEffect } from "react";
 import axios from "axios";
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation } from 'react-router-dom';
 
 import { DataGrid } from '@mui/x-data-grid';
 import Button from '@mui/material/Button';
@@ -19,6 +19,14 @@ function PesquisaMedicamentos () {
     const [resultados, setResultados] = useState([]); 
     const [linhaSelecionada, setLinhaSelecionada] = useState({});
     const navigate = useNavigate();
+
+    const location = useLocation();
+    const [medicamentosSelecionados, setMedicamentosSelecionados] = useState([]);
+
+    useEffect(() => {
+        const { medicamentosSelecionados: initialMedicamentosSelecionados } = location.state || { medicamentosSelecionados: [] };
+        setMedicamentosSelecionados(initialMedicamentosSelecionados);
+    }, [location.state]);
 
     const handleSubmit = async (event) => {
         event.preventDefault();
@@ -111,7 +119,7 @@ function PesquisaMedicamentos () {
     
     };
 
-    const [medicamentosSelecionados, setMedicamentosSelecionados] = useState([]);
+    
     const handleSelectedButton = () => {
         // Verifica se a linhaSelecionada está definida e não está vazia
         if (linhaSelecionada && Object.keys(linhaSelecionada).length > 0) {
@@ -165,7 +173,7 @@ function PesquisaMedicamentos () {
                                     onChange={(event) => setDosagem(event.target.value)}
                                     placeholder="Insira a dosagem"
                                 />
-                                <button className="btn-2" type="submit">Buscar</button>
+                                <button className="btn-2" type="submit">Pesquisa</button>
                             </form>
                         </nav>
                     </div>
