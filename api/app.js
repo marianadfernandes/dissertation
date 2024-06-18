@@ -4,6 +4,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var cors = require("cors");
 const express = require("express");
+const { Client } = require('pg');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
@@ -11,13 +12,37 @@ var tabelaRouter = require('./routes/tabela');
 var bodyPartsRouter = require('./routes/body_parts_tabela');
 var medicamentoRouter = require('./routes/medicamento');
 
+// Postgres
+const client = new Client({
+	user: 'postgres',
+	password: 'admin',
+	// host: 'localhost',
+  host: 'db',
+	port: '5432',
+	database: 'projeto',
+});
 
-// require do mongoose e definição do caminho para a base de dados
-const mongoose = require("mongoose");
-// const uri = "mongodb://db:27017/projeto"; //docker-compose
-const uri = "mongodb://localhost:9000/projeto";
+client
+	.connect()
+	.then(() => {
+		console.log('Connected to PostgreSQL database');
+	})
+	.catch((err) => {
+		console.error('Error connecting to PostgreSQL database', err);
+	});
 
 const app = express();
+
+// Middleware para disponibilizar o cliente PostgreSQL para todas as rotas
+app.use((req, res, next) => {
+  req.client = client;
+  next();
+});
+
+// require do mongoose e definição do caminho para a base de dados
+// const mongoose = require("mongoose");
+// // const uri = "mongodb://db:27017/projeto"; //docker-compose
+// const uri = "mongodb://localhost:9000/projeto";
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -37,11 +62,11 @@ app.use('/body', bodyPartsRouter);
 app.use('/medicamento', medicamentoRouter)
 
 // conexão com a base de dados
-mongoose.set("strictQuery", true);
-mongoose
-  .connect(uri)
-  .then(() => console.log("Connected."))
-  .catch(() => console.log("Error connecting to MongoDB."));
+// mongoose.set("strictQuery", true);
+// mongoose
+//   .connect(uri)
+//   .then(() => console.log("Connected."))
+//   .catch(() => console.log("Error connecting to MongoDB."));
 
 app.use((req, res, next) => {
   // Set general caching headers

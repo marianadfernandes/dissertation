@@ -79,7 +79,7 @@ function SeleçaoDoenças () {
         const inicializarDoenças = () => {
             const novasDoenças = {};
             medicamentosSelecionados.forEach(medicamento => {
-                novasDoenças[medicamento['Nome do Medicamento']] = [];
+                novasDoenças[medicamento.nome] = [];
             });
             console.log('Inicializando doençaSelecionada:', novasDoenças);
             setDoençaSelecionada(novasDoenças);
@@ -135,21 +135,21 @@ function SeleçaoDoenças () {
 
                         {medicamentosSelecionados.map((medicamento, index) => (
                             <div key={index} className="result-row">
-                                <p>{medicamento['Nome do Medicamento']}</p>
-                                <p>{medicamento['Dosagem']}</p>
+                                <p>{medicamento.nome}</p>
+                                <p>{medicamento.dosagem}</p>
                                     <div className="doenças-container">
                                         <FormControl component="fieldset">
                                             <FormLabel component="legend">
-                                                Selecione uma ou mais doenças para {medicamento['Nome do Medicamento']}
+                                                Selecione uma ou mais doenças para {medicamento.nome}
                                             </FormLabel>
                                             <Autocomplete
                                                 multiple
                                                 id={`doenças-${index}`}
-                                                options={medicamento['Doença(s)'] || []}
+                                                options={medicamento.doencas || []}
                                                 getOptionLabel={(option) => option}
-                                                value={doençaSelecionada[medicamento['Nome do Medicamento']] || []}
+                                                value={doençaSelecionada[medicamento.nome] || []}
                                                 onChange={(event, newValue) =>
-                                                    handleAutocompleteChange(medicamento['Nome do Medicamento'], newValue)
+                                                    handleAutocompleteChange(medicamento.nome, newValue)
                                                 }
                                                 renderInput={(params) => (
                                                     <TextField

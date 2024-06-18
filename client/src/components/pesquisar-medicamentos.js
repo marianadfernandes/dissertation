@@ -56,11 +56,11 @@ function PesquisaMedicamentos () {
     ];
 
     const rows = resultados.map(item => ({
-        id: item._id,
-        nomeMed: item['Nome do Medicamento'],
-        substancia: item['Substância Ativa/DCI'],
-        dosagem: item.Dosagem,
-        farmaceutica: item['Titular de AIM']
+        id: item.id,
+        nomeMed: item.nome,
+        substancia: item.substancia_ativa,
+        dosagem: item.dosagem,
+        farmaceutica: item.titular
     }));
 
     // useEffect para lidar com mudanças em linhaSelecionada
@@ -115,7 +115,7 @@ function PesquisaMedicamentos () {
         }
 
         console.log('newSelection final', newSelection);
-        setLinhaSelecionada(resultados.find(item => item._id === newSelection[0]));
+        setLinhaSelecionada(resultados.find(item => item.id === newSelection[0]));
     
     };
 
@@ -141,7 +141,7 @@ function PesquisaMedicamentos () {
     }
 
     const handleDelete = (medicamento) => (event) => {
-        setMedicamentosSelecionados(medicamentosSelecionados.filter(med => med._id !== medicamento._id));
+        setMedicamentosSelecionados(medicamentosSelecionados.filter(med => med.id !== medicamento.id));
     }
 
     return (
@@ -196,6 +196,7 @@ function PesquisaMedicamentos () {
                                 }}
                                 pageSizeOptions={[5, 10, 20]}
                                 checkboxSelection
+                                getRowId={(row) => row.id}
                             />  
 
                             <Button className='selectedbtn' variant="outlined" onClick={handleSelectedButton}>Selecionar</Button>
@@ -211,8 +212,8 @@ function PesquisaMedicamentos () {
                         <div className="underline-1"></div>
                         {medicamentosSelecionados.map((medicamento, index) => (
                             <div key={index} className="result-row">
-                                <p>{medicamento['Nome do Medicamento']}</p>
-                                <p>{medicamento['Dosagem']}</p>
+                                <p>{medicamento.nome}</p>
+                                <p>{medicamento.dosagem}</p>
                                 <IconButton aria-label="delete" onClick={handleDelete(medicamento)} >
                                     <DeleteIcon />
                                 </IconButton>

@@ -39,7 +39,7 @@ const HumanBody = () => {
   //   const [selectedArea, setSelectedArea] = useState("");
   const [showFront, setShowFront] = useState(true);
   const [tabela, setTabela] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
 
   const [buttons, setButton] = useState([]);
   const [bodyPart, setBodyPart] = useState("");
@@ -144,24 +144,6 @@ const HumanBody = () => {
     }
   };
 
-  const baseURL = uri + "/body/listTabela";
-
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await axios.get(baseURL);
-        console.log(JSON.stringify(response.data));
-        setTabela(response.data);
-      } catch (error) {
-        console.error("Error fetching data:", error);
-      } finally {
-        setLoading(false);
-      }
-    }
-  
-    fetchData();
-  }, [baseURL]);
-
   const bodyURL = uri + "/body/search";
 
   const [searchBodyParts, setSearchBodyParts] = useState([]);
@@ -222,16 +204,20 @@ const HumanBody = () => {
     setBodyPart(translatedBodyPart);
 
    // Chama fetchIDs e aguarda a resolução da promessa
-    const idsExtracted = await fetchIDs(bodyPart);
-    console.log('ids extraidos:', idsExtracted);
+    const idsExtraidos = await fetchIDs(bodyPart);
+    console.log('ids extraidos:', idsExtraidos);
 
     let allResults = []; // Array para armazenar todos os resultados de busca
 
     // Iterar sobre as tabelas e ids extraídos
-    for (let tabela in idsExtracted) {
-      for (let id in idsExtracted[tabela]) {
-        const results = await fetchSearchResult(idsExtracted[tabela][id], tabela);
-        allResults = [...allResults, ...results]; // Adicionar os resultados ao array allResults
+    for (const [idx, tabela] of Object.entries(idsExtraidos)) {
+      console.log(idx, tabela)
+      for (let id of tabela) {
+        console.log('id', id)
+        // Realizar a busca e aguardar o resultado usando await
+        const results = await fetchSearchResult(id, idx);
+        console.log('results', results)
+        allResults.push(...results); // Adicionar os resultados ao array allResults
       }
     }
 

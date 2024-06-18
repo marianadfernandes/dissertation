@@ -1,33 +1,28 @@
 let BodyPartsSchema = require('../models/body_parts_tabela');
 
-module.exports.listBodyParts = async () => {
+module.exports.listBodyParts = async (req, res) => {
     try {
-        const data = await BodyPartsSchema.find({ Tabela: { $exists: false } }); // Buscando todos os documentos
-        return { success: true, response: data };
-    } catch (err) {
-        console.error(err);
+        const query = 'SELECT * FROM corpo'; 
+        const result = await req.client.query(query);
+        return { success: true, response: result.rows };
+      } catch (err) {
+        console.error('Error fetching body parts:', err);
         return { success: false, response: err };
-    }
+      }
 };
 
-module.exports.findByID = async (bodypart) => {
+module.exports.findByBodyPart = async (req, res, bodypart) => {
     try {
-        console.log('Parte do corpo', bodypart);
-        let result = await BodyPartsSchema.find({});
-        console.log('Resultado da consulta:', result);
-        // console.log('Resultado cabeça', result[0].head)
-
-        const filteredResult = result[0][bodypart];
-        console.log('Resultado filtrado:', filteredResult);
+        const query = 'SELECT t1, t2 FROM corpo WHERE body_part = $1';
+        const result = await req.client.query(query, [bodypart]);
         
-        if (filteredResult) {
-            return { exists: true, response: filteredResult };
+        if (result.rows.length > 0) {
+          return { exists: true, response: result.rows[0] };
         }
         return { exists: false, response: null };
-
-    } catch (err) {
-        console.log(err);
-        return {exists: false, response: err};
-    }
+      } catch (err) {
+        console.error('Error fetching body part by ID:', err);
+        return { exists: false, response: err };
+      }
 };
   

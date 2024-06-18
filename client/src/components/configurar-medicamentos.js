@@ -64,14 +64,14 @@ function ConfigurarMedicamentos () {
 
     const rows = resultados.map(item => ({
         id: item._id,
-        nomeMed: item['Nome do Medicamento'],
-        substancia: item['Substância Ativa/DCI'],
-        dosagem: item['Dosagem'],
-        farmaceutica: item['Forma Farmacêutica'],
-        titularAIM: item['Titular de AIM'],
-        generico: item['Genérico'],
-        comercializacao: item['Comercialização'],
-        doencas: item['Doença(s)']
+        nomeMed: item.nome,
+        substancia: item.substancia_ativa,
+        dosagem: item.dosagem,
+        farmaceutica: item.forma,
+        titularAIM: item.titular,
+        generico: item.generico,
+        comercializacao: item.comercializacao,
+        doencas: item.doencas
     }));
 
     const handleEdit = (row) => {

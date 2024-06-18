@@ -9,16 +9,12 @@ router.get("/listTabela", async (req, res) => {
 });
 
 router.get("/search/:id", async (req, res) => {
-  let id = req.params.id;
-  // console.log(req.params.id);
-  // console.log(id);
-  const tabelaResponse = await bodyPartsController.findByID(id);
+  let body_part = req.params.id;
+
+  const tabelaResponse = await bodyPartsController.findByBodyPart(req, res, body_part);
   console.log(tabelaResponse);
-  // if (tabelaResponse && tabelaResponse.response) {
   res.status(200).json(tabelaResponse.response);
-  // } else {
-  //   res.status(404).json({ error: 'ID not found' });
-  // }
+
 })
 
 module.exports = router;

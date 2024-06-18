@@ -26,6 +26,9 @@ import Footer from "./footer";
 import {uri} from '../App';
 
 function ConfirmDialog({ open, handleClose, handleConfirm, data }) {
+
+    const totalSliderValue = Object.values(data).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2);
+
     return (
         <Dialog
             open={open}
@@ -47,8 +50,7 @@ function ConfirmDialog({ open, handleClose, handleConfirm, data }) {
                         <Typography variant="body2"><strong>Incapacidade:</strong> {value.slider}</Typography>
                     </Grid>
                 ))}
-                <Typography variant="h5"><strong>Incapacidade total: </strong>{data.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) < 1 ?
-                                        data.filter(item => item.slider).reduce((accumulator, currentValue) => accumulator + currentValue.slider, 0).toFixed(2) : '1.00'}</Typography>
+                <Typography variant="h5"><strong>Incapacidade total: </strong>{totalSliderValue < 1 ? totalSliderValue : '1.00'}</Typography>
                 </Grid>
 
 

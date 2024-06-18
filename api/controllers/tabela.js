@@ -1,83 +1,70 @@
 let TabelaSchema = require('../models/tabela');
 
-function searchById(tabela, targetId, tabelaID) {
-  let results = [];
-  let tabid = null;
+function searchById(json, targetId) {
 
-  if (tabelaID) {
-    let tabid = tabelaID[1];
-    // console.log('tab id', tabid)
-    tabela = [tabela[tabid - 1]]
-    // console.log('new tab', tabela)
+  let results = [];
+
+  // Verificar se o json está no formato correto
+  if (!json || !Array.isArray(json) || !json[0] || !json[0].Tabela) {
+    return null;
   }
 
-  for (let i = 0; i < tabela.length; i++) {
-    const currentTable = tabela[i];
-    // console.log('current', currentTable);
-    // for (let i = 0; i < currentTable.length; i++) {
+  let tabela = json[0].Tabela;
 
-    // Separar o id por pontos
-    let ids = targetId.split('.').filter(id => id !== '');
-    // Retirar 1 a cada valor
-    ids = ids.map(id => parseInt(id) - 1);
-  
-    // Acrescentar o número da tabela
-    if (tabid !== null) {
-      ids.unshift(tabid - 1)
-    } else {
-      ids.unshift(i);
-    }
+  // Separar o id por pontos e retirar 1 de cada valor
+  let ids = targetId.split('.').filter(id => id !== '').map(id => parseInt(id) - 1);
 
-    // console.log('id', ids)
+  let tempResult = tabela;
 
-    // Percorrer os ids 
-    for (let j = 0; j < ids.length; j++) {
-      const index = parseInt(ids[j]);
-      // console.log('j', j, 'index', index)
-      if (j === 0) {
-        tempResult = currentTable['Tabela'];
-        // console.log('tempresult', tempResult);
-      } else if (j < ids.length - 1) {
-        // console.log('j', j, 'index', index)
-        if (!tempResult[index] || !tempResult[index]['sub']) {
-          break; // Se não houver 'sub', retornar null imediatamente
-        }
-        tempResult = tempResult[index]['sub'];
-        // console.log('tempresult', tempResult);
-      } else {
-        // console.log('j', j, 'index', index)
-        tempResult = tempResult[index];
-        // console.log('tempresult', tempResult);
+  for (let idx = 0; idx < ids.length; idx++) {
+    const tab_index = ids[idx];
+
+    // Verifica se o índice é o último no caminho
+    if (idx < ids.length - 1) {
+      // Verifica se 'sub' existe no objeto atual
+      if (!tempResult[tab_index] || !tempResult[tab_index]['sub']) {
+        return null;
       }
-      if (!tempResult) break;
+
+      // Avança para o próximo nível do objeto
+      tempResult = tempResult[tab_index]['sub'];
+    } else {
+      // Último índice, acessa diretamente o objeto
+      if (!tempResult[tab_index]) {
+        return null;
+      }
+      tempResult = tempResult[tab_index];
     }
-    if (tempResult) {
-      results.push(tempResult);
-    }
-  // }
-}
+  }
+
+  if (tempResult) {
+    results.push(tempResult)
+  }
 
   return results;
 }
 
-function searchByText(tabelas, targetId) {
+
+function searchByText(tabelas, input) {
   let results = [];
 
   for (let i = 0; i < tabelas.length; i++) {
-    let data = tabelas[i].Tabela;
-    for (const key in data) {
-      let item = data[key];
-      if (item.desc && item.desc.toLowerCase().includes(targetId)) {
-        results.push(item);
-        // console.log('item a dar push', item)
-      } else if (item.sub) {
-        let subResults = searchByText([{'Tabela' : item.sub}], targetId);
-        if (subResults && subResults.length > 0) {
-          results.push(...subResults);
-          // console.log('subresult a dar push', subResults)
+    let data = tabelas[i].arquivo_json;
 
-        }
-      } 
+    for (let j = 0; j < data.length; j++) {
+      const tabela = data[j].Tabela;
+
+      for (const key in tabela) {
+        let item = tabela[key];
+        if (item.desc && item.desc.toLowerCase().includes(input)) {
+          results.push(item);
+        } else if (item.sub) {
+          let subResults = searchByText([{'arquivo_json': [{'Tabela' : item.sub}] }], input);
+          if (subResults && subResults.length > 0) {
+            results.push(...subResults);
+          }
+        } 
+      }
     }
   }
 
@@ -86,18 +73,19 @@ function searchByText(tabelas, targetId) {
 
 function removeRefs(result, data) {
   let newResult = [...result];
-  // console.log('data refs', data)
+  console.log('data refs', data)
 
   for (const key in newResult) {
     let item = newResult[key]
+    // console.log('item', item)
     if (item.refs) {
-      // console.log('item', item)
+      console.log('item c/ refs', item)
       const subArray = [];
       item.refs.forEach(element => {
         if (/^[0-9.]+$/.test(element)) {
-          // console.log('element', element)
-          let newSub = searchById([{'Tabela' : data}], element);
-          // console.log('newsub', newSub)
+          console.log('element', element)
+          let newSub = searchById(data, element);
+          console.log('newsub', newSub)
           if (newSub) {
             subArray.push(newSub);
           }
@@ -120,65 +108,68 @@ function removeRefs(result, data) {
   return newResult;
 }
 
-module.exports.listTabela = async () => {
-    try {
-      let tabela = await TabelaSchema.find({ Tabela: { $exists: true } });
 
-      let result = tabela.map(item => item.Tabela);
-    
-      return {success: true, response: tabela};
-    } catch (err) {
-        console.log(err);
-        return {success: false, response: err};
-    }
-  };
+// ---------------------------- //
 
-module.exports.findTabelaByID = async (targetId, tabelaID) => {
-  console.log('targetid', targetId);
-  console.log('tabelaid', tabelaID)
+
+module.exports.listTabela = async (req, res) => {
+  try {
+    const query = 'SELECT * FROM tabelas;';
+    const result = await req.client.query(query);
+    return { success: true, response: result.rows };
+  } catch (error) {
+    console.error('Error fetching data from PostgreSQL', error);
+    return { success: false, response: error };
+  }
+};
+
+module.exports.findEntriesByText = async (req, res, input) => {
   let noRefsResult;
   try {
 
-    let tabela = await TabelaSchema.find({ Tabela: { $exists: true } });
-
-    // if (tabelaID) {
-    //   if (tabelaID === 'T1') {
-    //     console.log('entrei', tabelaID);
-    //     tabela = tabela[0]
-    //     console.log('tabela 0', tabela)
-    //   } else if (tabelaID === 'T2') {
-    //     console.log('entrei', tabelaID);
-    //     tabela = tabela[1]
-    //     console.log('tabela 1', tabela)
-    //   } else {
-    //     throw new Error('Invalid ID format');
-    //   }
-    // } else {
-    //   console.log('não entrei');
-    //   tabela = tabela
-    //   console.log('tabelas', tabela)
-    // }
+    const query = 'SELECT * FROM tabelas;';
+    const tabelas = await req.client.query(query);
     
-    if (tabela) {
-      if (targetId.match(/^\d+(\.\d+)*\.$/)) {
-        // console.log('tabela que entra', tabela)
-        result = searchById(tabela, targetId, tabelaID);
-      } else {
-        result = searchByText(tabela, targetId);
-      }
+    if (tabelas) {
+      result = searchByText(tabelas.rows, input);
+    }
+    
+    if (result) {
+      noRefsResult = removeRefs(result, tabelas.rows[0].arquivo_json);
+      return { exists: true, response: noRefsResult };
+    }
       
-      if (result) {
-        if (tabelaID && tabelaID === 'T2') {
-          return { exists: true, response: result };
-        } else {
-          noRefsResult = removeRefs(result, tabela[0].Tabela);
-          return { exists: true, response: noRefsResult };
-        }
-        }
-      }
     return { exists: false, response: null };
   } catch (err) {
       console.log(err);
       return {exists: false, response: err};
   }
 }
+
+module.exports.findEntriesByID = async (req, id, tabid) => {
+
+  try {
+    const query = 'SELECT arquivo_json FROM tabelas WHERE id = $1;';
+    const values = [tabid];
+    
+    const result = await req.client.query(query, values);
+
+    if (result.rows.length > 0) {
+      const tabela = result.rows[0].arquivo_json;
+      const searchResult = searchById(tabela, id);
+
+      if (searchResult) {
+        noRefsResult = removeRefs(searchResult, tabela[0].Tabela);
+        if (noRefsResult) {
+          return { exists: true, response: searchResult };
+        }
+        return { exists: false, response: null };
+      }
+    }
+      
+    return { exists: false, response: null };
+  } catch (err) {
+    console.log(err);
+    return { exists: false, response: err };
+  }
+};

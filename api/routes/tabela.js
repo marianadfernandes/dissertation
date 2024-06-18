@@ -2,26 +2,43 @@ var express = require("express");
 var router = express.Router();
 var tabelaController = require("../controllers/tabela.js");
 
-router.get("/listTabela", async (req, res) => {
-  const tabelaResponse = await tabelaController.listTabela();
-  console.log(tabelaResponse);
-  res.status(200).json(tabelaResponse.response);
+router.get('/listTabela', async (req, res) => {
+  try {
+    const tabelaResponse = await tabelaController.listTabela(req, res); // Passando req como argumento
+    console.log(tabelaResponse);
+    res.status(200).json(tabelaResponse.response);
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch data' });
+  }
 });
 
+router.get('/search/:input', async (req, res) => {
+  let input = req.params.input;
 
-router.get("/search/:id/:tabela?", async (req, res) => {
-  console.log(req.params);
+  try {
+    const tabelaResponse = await tabelaController.findEntriesByText(req, res, input);
+    console.log(tabelaResponse);
+    res.status(200).json(tabelaResponse.response);
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch data' });
+  }
+});
+
+router.get("/search/:id/:tabela", async (req, res) => {
   let id = req.params.id;
   let tabid = req.params.tabela;
-  // console.log(req.params.id);
-  // console.log(id);
-  const tabelaResponse = await tabelaController.findTabelaByID(id, tabid);
-  console.log(tabelaResponse);
-  // if (tabelaResponse && tabelaResponse.response) {
-  res.status(200).json(tabelaResponse.response);
-  // } else {
-  //   res.status(404).json({ error: 'ID not found' });
-  // }
-})
+
+  try {
+    const tabelaResponse = await tabelaController.findEntriesByID(req, id, tabid.charAt(1));
+    if (tabelaResponse.exists) {
+      res.status(200).json(tabelaResponse.response);
+    } else {
+      res.status(404).json({ error: 'ID not found' });
+    }
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to fetch data' });
+  }
+});
+
 
 module.exports = router;

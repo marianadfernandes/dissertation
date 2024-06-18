@@ -10,35 +10,26 @@ module.exports.listMedicamentos = async () => {
     }
 };
 
-module.exports.findByID = async (med, dos) => {
-    console.log(med);
+module.exports.findByID = async (req, res, med, dos) => {
+    console.log('Received parameters:', med, dos); 
+
     try {
-        if (med.includes(' ')) {
-            // Tenta buscar com o medicamento exatamente como está
-            result = await MedicamentoSchema.find({ "Nome do Medicamento": { $regex: med, $options: 'i' }, "Dosagem": { $regex: dos, $options: 'i' }});
-            
-            // Se não encontrar resultados, tenta buscar com as palavras separadas por espaço
-            if (result.length === 0) {
-                const [word1, word2] = med.split(' ');
-                const medWithSpace = `${word1} + ${word2}`;
-                result = await MedicamentoSchema.find({ "Nome do Medicamento": { $regex: medWithSpace, $options: 'i' }, "Dosagem": { $regex: dos, $options: 'i' }});
-            }
-        } else {
-            // Se o medicamento tiver apenas uma palavra, busca exatamente como está
-            result = await MedicamentoSchema.find({ "Nome do Medicamento": { $regex: med, $options: 'i' }, "Dosagem": { $regex: dos, $options: 'i' }});
-        }
-        // console.log('Resultado cabeça', result[0].head)
-
-        // const filteredResult = result[0][bodypart];
-        // console.log('Resultado filtrado:', filteredResult);
-        
-        if (result) {
-            return { exists: true, response: result };
-        }
-        return { exists: false, response: null };
-
+        const query = `
+        SELECT * FROM medicamentos 
+        WHERE nome ILIKE '%' || $1 || '%'
+        AND dosagem ILIKE '%' || $2 || '%'
+      `;
+      const values = [med, dos];
+      
+      const result = await req.client.query(query, values);
+  
+      if (result.rows.length > 0) {
+        return { success: true, response: result.rows };
+      } else {
+        return { success: false, response: 'No matching entries found' };
+      }
     } catch (err) {
-        console.log(err);
-        return {exists: false, response: err};
+      console.error('Error fetching data from PostgreSQL:', err);
+      return { success: false, response: err };
     }
 };
