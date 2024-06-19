@@ -17,7 +17,7 @@ const client = new Client({
 	user: 'postgres',
 	password: 'admin',
 	// host: 'localhost',
-  host: 'db',
+  host: 'db', // docker-compose
 	port: '5432',
 	database: 'projeto',
 });
