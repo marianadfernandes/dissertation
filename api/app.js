@@ -4,7 +4,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var cors = require("cors");
 const express = require("express");
-const { Client } = require('pg');
+const { Pool, Client } = require('pg');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
@@ -31,40 +31,46 @@ var medicamentoRouter = require('./routes/medicamento');
 // 		console.error('Error connecting to PostgreSQL database', err);
 // 	});
 
-function connectWithRetry() {
-  const client = new Client({
-    // host: 'localhost',
-    host: 'db', // docker-compose
-    port: 5432,
-    user: 'postgres',
-    password: 'admin',
-    database: 'projeto',
-  });
+// Configuração do pool de conexões
+const pool = new Pool({
+  user: 'postgres',
+  password: 'admin',
+  host: 'localhost',
+  // host: 'db', // Se estiver usando docker-compose
+  port: 5432,
+  database: 'projeto',
+  max: 10, // Número máximo de clientes no pool
+  idleTimeoutMillis: 30000, // Tempo de inatividade antes de fechar a conexão
+  connectionTimeoutMillis: 2000, // Tempo de espera para estabelecer uma conexão
+});
 
-  client.connect((err) => {
-    if (err) {
-      console.error('Failed to connect to the database:', err);
-      setTimeout(connectWithRetry, 5000); // Retry after 5 seconds
-    } else {
-      console.log('Connected to the database');
-    }
-  });
+// Eventos do pool
+pool.on('connect', () => {
+  console.log('Connected to PostgreSQL database');
+});
 
-  client.on('error', (err) => {
-    console.error('Database error:', err);
-    client.end(); 
-    connectWithRetry(); 
-  });
-}
-
-connectWithRetry();
+pool.on('error', (err) => {
+  console.error('Unexpected error on idle client', err);
+  process.exit(-1); // Termina o processo em caso de erro fatal
+});
 
 const app = express();
 
 // Middleware para disponibilizar o cliente PostgreSQL para todas as rotas
 app.use((req, res, next) => {
-  req.client = client;
+  console.log('Setting up pool for request');
+  req.pool = pool;
   next();
+});
+
+// Verifica a conexão imediatamente
+pool.connect((err, client, done) => {
+  if (err) {
+    console.error('Error connecting to PostgreSQL database', err);
+  } else {
+    console.log('Connected to PostgreSQL database (initial check)');
+    client.release();
+  }
 });
 
 // require do mongoose e definição do caminho para a base de dados
