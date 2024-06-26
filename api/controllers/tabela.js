@@ -115,7 +115,7 @@ function removeRefs(result, data) {
 module.exports.listTabela = async (req, res) => {
   try {
     const query = 'SELECT * FROM tabelas;';
-    const result = await req.client.query(query);
+    const result = await req.pool.query(query);
     return { success: true, response: result.rows };
   } catch (error) {
     console.error('Error fetching data from PostgreSQL', error);
@@ -128,7 +128,7 @@ module.exports.findEntriesByText = async (req, res, input) => {
   try {
 
     const query = 'SELECT * FROM tabelas;';
-    const tabelas = await req.client.query(query);
+    const tabelas = await req.pool.query(query);
     
     if (tabelas) {
       result = searchByText(tabelas.rows, input);
@@ -152,7 +152,7 @@ module.exports.findEntriesByID = async (req, id, tabid) => {
     const query = 'SELECT arquivo_json FROM tabelas WHERE id = $1;';
     const values = [tabid];
     
-    const result = await req.client.query(query, values);
+    const result = await req.pool.query(query, values);
 
     if (result.rows.length > 0) {
       const tabela = result.rows[0].arquivo_json;

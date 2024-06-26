@@ -3,7 +3,7 @@ let BodyPartsSchema = require('../models/body_parts_tabela');
 module.exports.listBodyParts = async (req, res) => {
     try {
         const query = 'SELECT * FROM corpo'; 
-        const result = await req.client.query(query);
+        const result = await req.pool.query(query);
         return { success: true, response: result.rows };
       } catch (err) {
         console.error('Error fetching body parts:', err);
@@ -14,7 +14,7 @@ module.exports.listBodyParts = async (req, res) => {
 module.exports.findByBodyPart = async (req, res, bodypart) => {
     try {
         const query = 'SELECT t1, t2 FROM corpo WHERE body_part = $1';
-        const result = await req.client.query(query, [bodypart]);
+        const result = await req.pool.query(query, [bodypart]);
         
         if (result.rows.length > 0) {
           return { exists: true, response: result.rows[0] };
