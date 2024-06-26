@@ -13,23 +13,51 @@ var bodyPartsRouter = require('./routes/body_parts_tabela');
 var medicamentoRouter = require('./routes/medicamento');
 
 // Postgres
-const client = new Client({
-	user: 'postgres',
-	password: 'admin',
-	// host: 'localhost',
-  host: 'db', // docker-compose
-	port: '5432',
-	database: 'projeto',
-});
+// const client = new Client({
+// 	user: 'postgres',
+// 	password: 'admin',
+// 	host: 'localhost',
+//   // host: 'db', // docker-compose
+// 	port: '5432',
+// 	database: 'projeto',
+// });
 
-client
-	.connect()
-	.then(() => {
-		console.log('Connected to PostgreSQL database');
-	})
-	.catch((err) => {
-		console.error('Error connecting to PostgreSQL database', err);
-	});
+// client
+// 	.connect()
+// 	.then(() => {
+// 		console.log('Connected to PostgreSQL database');
+// 	})
+// 	.catch((err) => {
+// 		console.error('Error connecting to PostgreSQL database', err);
+// 	});
+
+function connectWithRetry() {
+  const client = new Client({
+    // host: 'localhost',
+    host: 'db', // docker-compose
+    port: 5432,
+    user: 'postgres',
+    password: 'admin',
+    database: 'projeto',
+  });
+
+  client.connect((err) => {
+    if (err) {
+      console.error('Failed to connect to the database:', err);
+      setTimeout(connectWithRetry, 5000); // Retry after 5 seconds
+    } else {
+      console.log('Connected to the database');
+    }
+  });
+
+  client.on('error', (err) => {
+    console.error('Database error:', err);
+    client.end(); 
+    connectWithRetry(); 
+  });
+}
+
+connectWithRetry();
 
 const app = express();
 
